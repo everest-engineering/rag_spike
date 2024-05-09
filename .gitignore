@@ -1,0 +1,10 @@
+# Intellij
+.idea
+*.iml
+
+# Python
+*pycache*
+
+# App
+index.store
+postgres/data
