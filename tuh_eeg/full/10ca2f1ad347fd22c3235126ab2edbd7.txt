@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  44 year old right handed female with Bells Palsy (left) presented with left sided face, arm, leg numbness, weakness, slurred speech and facial drooping.
+MEDICATIONS:  Synthroid, Levothyroxine, Lisinopril, Atorvastatin, Lovenox, Enoxaparin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 9 Hz alpha rhythm.  MU activity at 11 Hz was identified, but testing was not performed to confirm this. Features of drowsiness include an increase in beta with POSTS, vertex waves, and K-complexes in stage II sleep. Photic stimulation was performed as the patient is awakening from sleep and did activate the record.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  This is a very drowsy patient who is falling asleep during photic stimulation.
+
+
+

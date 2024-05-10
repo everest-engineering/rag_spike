@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 64 year old male with right frontal mass with edema, right MCA infarct, left-sided weakness, cancer with metastatic disease, anxiety disorder.
+MEDICATIONS: Decadron, Lovenox, Protonix, Oxycodone, Cipro, Keppra, ASA, Zetia, Pantoprazole, Dilaudid, Thorazine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG is a relatively rhythmic slow theta pattern with frequent eye blink. When the patient is resting comfortably, there is primarily rhythmic frontal theta activity. Frontal delta is noted bilaterally, which is higher amplitude on the left than the right, and there is a notched or suspicious left frontal sharp wave. With stimulation, there is the suggestion of an underlying 9 Hz alpha rhythm on the left, not apparent on the right. The bursts of delta are a bit more prominent on the left compared to the right.
+HR: 68 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic background slowing.
+2. Asymmetric alpha rhythm, better identified on the left.
+3. A handful of sharp waves in the frontal regions and one in the left mid-temporal region.
+CLINICAL CORRELATION: These findings support a diffuse disturbance of cerebral dysfunction. FIRDA is a nonspecific finding which can be seen in a toxic or metabolic encephalopathy or a frontal lobe pathology. The sharp waves may be correlated with imaging.
+
+
+

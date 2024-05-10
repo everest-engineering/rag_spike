@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 65-year-old woman with nocturnal seizures. Currently as many as 2 per week.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This EEG captured wakefulness and drowsiness.  Impedances were under 5 kilo-ohms with the exception of the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 40 microvolt posterior dominant rhythm, and a small amount of low voltage, frontal central beta.  Drowsiness is characterized by slow rolling eye movements and an increase in beta.
+Photic stimulation elicited a driving response.
+Heart rate:  66 BPM.
+IMPRESSION:  This is the fourth EEG for this individual.  It does not demonstrate epileptiform activity.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG.  Of note, with her prior normal EEG in 2011, EEG monitoring was recommended.
+
+
+

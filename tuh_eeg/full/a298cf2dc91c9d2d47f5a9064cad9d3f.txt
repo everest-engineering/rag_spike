@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  74 year old male with a stroke and first ever seizure.  Found with head turning and generalized motor activity.  Left MCA infarct.
+MEDICATIONS:  Ativan, Vecuronium, Trazodone
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is wearing a face mask and is poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern rich in beta and smaller amounts of alpha frequency.  There is a focus of slow delta in the left central temporal region.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with primarily a beta frequency pattern.
+An area of focal, slow delta in the left central temporal region.
+CLINICAL CORRELATION:  The delta is in the region of this patient's previous stroke.  No epileptiform features were noted.
+
+
+

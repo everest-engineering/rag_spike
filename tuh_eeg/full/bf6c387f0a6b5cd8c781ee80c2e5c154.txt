@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  64 year old male with meningitis, epilepsy, dementia, and schizophrenia, now with impaired balance and behavioral changes.
+MEDICATIONS:  Simvastatin, Lamotrigine, Lamictal, Klonopin, Clozapine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is somewhat slow and disorganized with a 7.5 Hz alpha rhythm.  Occasional shifting slowing is noted, particularly in drowsiness. Hyperventilation does not activate the record.  Drowsiness is characterized by slowing of the background rhythm. Photic stimulation elicits bilateral driving.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Slowing of the alpha rhythm.
+Shifting slowing.
+CLINICAL CORRELATION:  In an adult of this age group, these are nonspecific findings and may reflect age related changes in dementia, the effects of the previous childhood meningitis or neuropsychiatric medications.
+
+
+

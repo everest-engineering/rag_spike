@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 47 year old right handed female with weakness and syncope episode.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively somnolent. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a relatively slow background with rhythmic 6 Hz activity and generous low voltage beta activity. There is a scant amount of alpha frequency activity. The patient seems to be drowsy throughout much of the record. Stimulation of the patient produces an alerting response with an increase in alpha frequency activity. Photic stimulation elicits scant driving. Photic also serves as an arousal mechanism.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic background slowing.
+CLINICAL CORRELATION: These findings are nonspecific and can be seen in many diffuse disturbances of cerebral function. No epileptiform features were noted. Consideration of a toxic or metabolic process may be appropriate.
+
+
+

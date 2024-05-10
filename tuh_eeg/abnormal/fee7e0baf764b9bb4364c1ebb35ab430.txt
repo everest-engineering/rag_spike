@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 38 year old male with recurrent episodes of syncope for the past 2 years. This occurs twice a week where he feels lightheaded, dizzy and hot and awakens on the floor having hit his head.
+MEDICATIONS: Risperdal, Seroquel.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are completed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized with a 1 0.5 Hz, 70 microvolt posterior dominant rhythm and a small amount of low voltage, frontal central beta activity. Drowsiness is characterized by occasional bursts of paroxysmal slowing following by vertex waves. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits scant driving at intermediate flash frequencies.
+HR: 72 bpm
+IMPRESSION: Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION: No epileptiform features are identified. Normal EEG does not exclude a diagnosis of epilepsy. If seizures are an important concern, an outpatient ambulatory EEG may be helpful to characterize epileptiform activity.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 62-year-old man had an unwitnessed seizure in a car.  The patient is amnestic for the event.  He has a 1 year history of blackouts. He stopped drinking after seizure on May 13.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage, but there is a symmetric, reactive, 8.5 Hz alpha rhythm.  Drowsiness was characterized by attenuation of the alpha rhythm and an increase in beta.  Photic stimulation was performed as the patient was transitioning into stage II sleep with vertex waves and spindles.  Scant driving was noted.  Hyperventilation produces a small increase in amplitude of the background.
+Heart rate irregular 90 beats per minute.
+IMPRESSION:  This is a normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If epilepsy is an important consideration, a followup study may be of use.  In this individual with a recent episode with loss of consciousness and a 1 year history of blackout spells, additional EKG evaluation may be appropriate.
+
+
+

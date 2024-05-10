@@ -1,0 +1,16 @@
+History:	62 YR MALE WITH CEREBRAL PALSY/ SURGERY BRAIN/HEAD (SKULL
+DEFECT), VIT D DEF, 1 SEIZURE., B/L LE VASCULAR INSUF, VENOUS STASIS
+ULCERS, OBESITY, AMB DISF.  EVAL TO DECREASE MEDS SZ
+Medications:	Flomax, Silvadene, Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, photic
+Description:
+During periods of maximal arousal there is a 9-10 Hz posterior dominant rhythm seen over the left occipital region.  There is relative attenuation of the right hemisphere with minimal normal activity even when viewed at 5 microvolts sensitivity.  There is a fragmentary posterior dominant rhythm on the right some of which may reflect field spread from the left.  Of note, the technologist identified a central and right sided skull defect. In the C4, T4, and A2 electrodes there is little cortical activity seen during wakefulness.  The hemispheric asymmetry is most apparent during Stage II sleep. There are clear vertex waves seen over the left hemisphere with comparatively less amplitude waveforms over the right.  In the CZ, C4, T4 and A2 electrodes there is little cortical activity seen There is focal attenuation over the right hemisphere and the clear asymmetry in sleep morphology identified above.  No epileptiform discharges are present. Hyperventilation is not performed.  Photic stimulation does not induce a significant photic driving response.
+Summary of Findings:
+Attenuation, right hemispheric
+Asymmetry, sleep architecture, intermittent
+Interpretation:
+This is an ABNORMAL 21 minute EEG due to attenuation of activity over the right hemisphere and asymmetric sleep architecture. These findings suggest a structural brain injury over the right hemisphere.  No clinical or electrographic seizures are present.
+
+

@@ -1,0 +1,11 @@
+History:	58 YO W/ COMPLAINT  DIFFICULTY BREATHING AND CHEST PAIN. DURING RIDE SHE HAD 2 EPISODES OF SEIZURE LIKE ACTIVITY THAT LASTED 5 SECONDS. PMHX ANXIETY COPD O2 DEPENDENT HTN MENTAL ILLNESS.60 CM HEAD.
+Medications:	NEURONTIN, SEROQUEL.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+Description: Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. No focal slowing is present.  No epileptiform discharges are present.  During the EEG the patient suddenly opened her eyes and stiffened her torso. Her left arm start shaking irregularly for seconds. While her eyes appear to roll back. She is not responsive to verbal command during the episode which lasr 1 minute.  There was no EEG correlate associated to this clinical activity documented on Hyperventilation and photic stimulation are not performed.
+HR was 84
+Summary of Findings:
+No epileptiform discharges
+Interpretation: This is a NORMAL EEG, awake, drowsy, and asleep. The episode described above has no EEG correlate as such based on the behavior this is most consistent with a psychogenic non-epileptic pseudoseizure.
+

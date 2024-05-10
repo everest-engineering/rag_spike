@@ -1,0 +1,19 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+.
+55 Y/O FEMALE R HANDED.PT.HAS A H/O SZ SINCE THE AGE OF 16 YRS OLD.LOC BUT CAN HEAR WHAT IS GOING ON AROUND HER.AURA+ HANDS SHAKE.THROAT SHE FEELS AS THOU SHE HAS A GAGGING FEELING. POST
+ICTAL NOT ABLE TO WALK(5 TO 10 MINUTES) PMHX., OM TYPE 2, HTN. INSULIN, LISINOPRIL, TEMAZEPAM, LOPRESSOR
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect. After 5hz the patient had an event see below.  Hr was 78  Event: After 5Hz photic stimulation the patient suddenly trembles her head followed by followed by lifting her hand and having irregular flapping movements. Her head turns slightly to the left and then to the right. Her eyes remain closed the entire time.  She continues to have intermittent sudden shrugging of shoulders with some verbal respond.  EEG had no correlate to the behavior seen on video.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy. The episode captured above had no EEG correlate as such the event is consistent with a non-epileptic event most likely psychogenic in nature.
+
+
+
+

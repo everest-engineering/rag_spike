@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  54 year old male with epilepsy.
+MEDICATIONS:  Keppra, Topamax
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Continuous seizure and spike detection software is utilized. Clinically the patient is described as improving, with an improving mental status.
+DESCRIPTION OF THE RECORD:  The EEG provided begins at noon.  The background is relatively free of well defined complex partial seizures, but these start to re-emerge at 11:00 to 1:00 a.m.  The video is reviewed.  On some occasions prior to the seizures the patient seems to have repetitive speech and then during the discharges, he has motion arrest.  He is intermittently confused.  During examination of the patient the epileptiform activity is not so prominent.
+Between 1:00 a.m. and 4:00 a.m. he is moving about a bit which makes identification of the seizures more difficult, but additional seizures are noted at 4:00 a.m. and 5:00 a.m.  The nurse is at the bedside with him during a seizure at 5:04 a.m. on January 5, 2012.  The seizure and spike detection software continues to recognize seizures, including one at 5:06 a.m.  The nurse enters during the seizure and performs vital sign testing.  The patient is unable to answer questions.  He looks at the nurse.  He cooperates with testing, but is unable to speak.
+HR:    80 bpm
+INTERVAL IMPRESSION/CLINICAL CORRELATION:  Ongoing complex partial seizures, particularly problematic between 11 and 1:00 a.m., but occurring sporadically
+throughout this LTM monitor.  The last seizure is at 6:17.  This remains a very highly epileptogenic focus.
+
+
+

@@ -1,0 +1,28 @@
+History:	SUICIDAL IDEATION, DEPRESSION, DECREASED JUDGMENT, DECREASED
+SLEEP, POOR SELF CARE
+Medications:
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, asleep
+Description:
+There is no posterior dominant rhythm is noted. The background is characterized by a mixture of
+moderate voltage theta and delta activity.  Symmetric beta activity is present, maximal over
+bilateral frontal regions.  During stage 1 and 2 sleep were characterized by POSTS and symmetric
+sleep spindles and K complexes.  Brief arousals are characterized by high-voltage, synchronous, 3-
+Intermittent rhythmic delta activity is present in the left temporal region.  No epileptiform
+discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 70 bpm.
+Summary of Findings:
+No alpha rhythm, with slowing of the background
+No epileptiform discharges
+Focal slowing, polymorphic, occasional, left temporal
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL EEG capturing the patient in a drowsy and sleep state because of diffuse
+background slowing.  These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  intermittent focal slowing in the left  temporal region.  This finding may indicate
+focal cerebral dysfunction.  No electrographic seizures are present.
+
+

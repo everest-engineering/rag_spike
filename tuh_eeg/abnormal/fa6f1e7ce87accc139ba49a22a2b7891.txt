@@ -1,0 +1,13 @@
+MEDICATIONS:  Tegretol
+HISTORY:  A 28-year-old woman with recurrent black outs with an aura of left posterior headaches since the age of 13, date of most recent event unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10.20  system with 1-channel EKG.  Hyperventilation was completed.  Photic stimulation was not completed.
+DESCRIPTION OF BACKGROUND:  In apparent wakefulness, there is an 8 Hertz alpha rhythm with a background with excess theta.  Testing was performed to assure maximal wakefulness and there is some improvement that the background remains with a small amount of excess theta.  Hyperventilation was performed early on in the record producing an increase in amplitude of the background as well as some slowing and head rocking artifact.  Head rocking artifact is noted in the occipitoparietal region, right more so than the left.
+Deeper stages of sleep were not sustained.  The technologist did extend the EEG but did not capture sleep, although testing was performed for wakefulness.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Mild slowing of the background alpha rhythm.
+Excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The pattern described above is a nonspecific pattern which might reflect medication affect.  To more completely evaluate this patient for her epilepsy, a repeat study with deeper stages of sleep and photic stimulation is suggested.
+
+
+

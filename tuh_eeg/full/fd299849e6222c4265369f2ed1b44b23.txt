@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  70 year old right handed female with history of refractory right temporal lobe epilepsy with multiple seizures per day.
+MEDICATIONS:  Keppra, Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized.  There is an 8.5 Hz alpha rhythm with 8 Hz mu activity.  Underlying subtle focal slowing is seen in the right temporal region with intermittent rhythmic 3-5 Hz activity.  Wicket is noted from the right or left temporal region. Features of drowsiness include an increase in beta, followed by POSTS, and then brief spindles.
+Hyperventilation does not activate the record. Photic stimulation is performed while the patient is in stage 2 sleep, but does elicit a driving response.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Right temporal focal slowing.
+CLINICAL CORRELATION:  The focal slowing is ipsilateral to this patient's mesial temporal sclerosis.  Of note, prior EEGs have demonstrated right or left temporal focal features.
+
+
+

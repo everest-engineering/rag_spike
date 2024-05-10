@@ -1,0 +1,30 @@
+HISTORY: 23 year old male with new onset seizures,
+MEDICATIONS: None
+Clinical Center
+INTRODUCTION: Continuous digital video EEG was preformed at bedside using
+standard 10-20system of electrode placement with 1 channel of EKG. The patient
+keeps a log. He is able to push the button for all of the events that he experiences. He
+has multiple episodes of dizziness or disorienting feeling.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 hertz posterior
+dominant rhythm which is symmetrically reactive. Drowsiness is characterized by
+rhythmic background theta with vertex waves, spindles and stage II sleep. There is an
+epoch in which REM sleep is seen.
+In the interictal EEG, there is a single left temporal sharp wave.
+Events: The patient has multiple dizzy spells including 129, 125, 312, 336, 536, 546
+and then there are no additional push buttons noted.
+Although not all of the seizures have a clear clinical correlate and some have only either
+subtle theta or subtle disruption of faster frequency activity in the left temporal region,
+some have clear, rhythmic 4 hertz theta from the left temporal region with some spread
+to the frontocentral region bilaterally, typically lasting 20-40 seconds. The patient
+receives Depakote at 2:20p.m., the discharges are briefer, more evanescent
+more allusive.
+Event time 12930: the patient has a dizzy spell characterized by decreased alpha
+frequency activity from the left temporal region and a brief burst of left temporal theta.
+Event time: 2:32 p.m.: There is a brief burst of left temporal theta which differs from the
+background.
+Event time: 3:12p.m.: Aura of dizziness, left temporal theta.
+Event #3: Aura characterized by dizziness lime 335 to 33729, rhythmic temporal theta
+as described above.
+
+
+

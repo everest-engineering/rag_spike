@@ -1,0 +1,33 @@
+History:	60 year old man with a history of seizures and TBI. Patient with a recent
+breakthrough seizure.
+Medications:	BACLOFEN, CELEXA, KEPPRA, DILANTIN, ,
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Voltages are diffusely very low.  The background consists of a very low amplitude 10.5 Hz alpha
+activity posteriorly with expected AP gradient.  Diffuse excess beta activity is captured.
+Symmetrical vertex waves and sleep spindles are present.
+Continuous subtle polymorphic delta activity is present in the right frontotemporal region during
+wakefulness, increasing during drowsiness.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Beta, excessive
+Focal slowing, polymorphic, continuous, right frontotemporal, subtle continuous delta
+No epileptiform discharges
+Sleep, stage 2
+Low voltage
+Interpretation:
+This is an ABNORMAL awake and asleep 26 minute EEG because of continuous subtle focal
+slowing in the right frontotemporal region.  This finding is indicative of a focal structural lesion in
+this region.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical
+diagnosis of epilepsy.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+
+
+
+

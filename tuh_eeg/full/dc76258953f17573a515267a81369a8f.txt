@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 60-year-old woman with seizure in mid October.  Asthma, diabetes, hypertension hyperlipidemia, and arthritis.
+MEDICATIONS:  Meloxicam, no seizure medications.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a routine, 20-minute EEG with impedances under 5 kilos ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Eye movement artifact is quite prominent and at times is slightly asymmetric.  As the patient becomes drowsy, there is occasional, right or left temporal theta as well as wicket.
+Hyperventilation produces independent right or left temporal theta.
+Photic stimulation did not significantly activate the record.
+Heart rate markedly irregular with occasional PVCs, 60 BPM.
+IMPRESSION:  This EEG is remarkable for:
+A markedly irregular EKG with an irregular heart rate.
+Asymmetric and prominent eye artifacts.
+CLINICAL CORRELATION:  The asymmetric eye artifact may represent an error in measurement of the head.  The irregular heart rate may require evaluation for this patient with a recent episode of loss of consciousness.
+
+
+

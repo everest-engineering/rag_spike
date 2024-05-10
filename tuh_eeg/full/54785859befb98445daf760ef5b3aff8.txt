@@ -1,0 +1,26 @@
+History:	46 year old man who presents with a possible seizure.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+During maximal arousal, the background consists of low amplitude 9.5-10 Hz alpha activity with
+expected AP gradient.  However, for the majority of the recording the background consists of 8 Hz
+theta activity posteriorly with poor AP gradient.  During drowsiness, the degree of theta activity
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 21-minute EEG due to mild diffuse slowing and
+disorganization.  These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  No epileptiform discharges are present, but stage 2 sleep was not recorded.  If
+clinically indicated, repeat EEG with sleep recording may provide additional information.
+
+
+
+
+
+

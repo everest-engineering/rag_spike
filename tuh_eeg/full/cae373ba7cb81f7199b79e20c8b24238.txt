@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 53-year-old gentleman with depression, hyperlipidemia, psychosis, diabetes, and depressed mood.
+MEDICATIONS:  Tegretol, Risperdal, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is disorganized.  There is some rhythmic 6-7 Hz activity in the central regions and a slow alpha rhythm, which on occasion can reach 9 Hz, but is typically a little slower.  There is prominent shifting slowing, including sometimes disruption of the alpha rhythm on the left, left mid temporal rhythmic slowing, and some right central temporal slowing.  There is also sharply contoured slowing in the temporal regions with a T1 sharp wave noted in the background.  Alerting mechanisms decrease the arrhythmic delta activity and the epileptiform activity.
+
+Hyperventilation accentuates arrhythmic delta activity, particularly in the temporal regions, left more so than right.
+Photic stimulation does not significantly activate the record.
+After photic stimulation the patient is awake and the overall background is significantly better organized.
+Heart rate:  90 BPM.
+IMPRESSION:  This is a markedly abnormal EEG for an adult due to:
+Intermittent arrhythmic delta activity, particularly on the left temporal regions, but also identified bilaterally.
+Sharply contoured delta or left temporal sharp waves.
+Occasional similar wave forms seen from the right.
+CLINICAL CORRELATION:  Of note, towards the close of the record when the patient is significantly more attentive, the overall background improves dramatically.  These findings suggest potentially at structural or functional process, as well as a focal mechanism for epilepsy.
+
+
+

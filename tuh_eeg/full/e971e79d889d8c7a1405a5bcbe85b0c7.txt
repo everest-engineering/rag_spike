@@ -1,0 +1,38 @@
+History:	71 year male with seizures. Last seizure occurred 1 week ago. PMH is significant for
+CAD, kidney disease, strokes
+Medications:	Keppra and Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+There is right-to-left intrahemispheric asymmetry with faster waveforms over the right hemisphere.
+The background over the right consists of PDR that reaches 8.5 Hz, excess theta activity and
+fragmented AP gradient/  There is no PDR or AP gradient over the left.  The background over the
+right consists of a mixture of polymorphic theta activity with overriding prominent polymorphic
+continuous delta activity that intermittently becomes rhythmic during sleep (TIRDA).  Additional
+polymorphic delta activity is present over the left posterior quadrant.  Drowsiness is characterized by
+Intermittent left temporoparietal sharp waves with after going slow waves are captured.  Maximal
+scalp negativity occurs over T5/P3 electrodes.  These epileptiform discharges have a broad field.
+Frequency of epileptiform discharges increases significantly during drowsiness and they become
+more rhythmic, occurring in up to 20 second runs with a regular repetition rate of 1-2 Hz.  There is
+no spatial or temporal evolution into electrographic seizures.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR 60 with PVCs and PACs.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Focal slowing, polymorphic, intermittent, left posterior, moderate-to-severe
+Sharp waves, intermittent, left temporoparietal
+TIRDA (temporal intermittent rhythmic delta activity), intermittent, left, during drowsiness
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and drowsy 26- minute EEG due to (1) mild diffuse slowing; (2)
+continuous moderate left hemispheric slowing that is most pronounced over the posterior quadrant
+and (3) intermittent left temporoparietal epileptiform discharges that increase in frequency and
+periodicity during drowsiness.  Diffuse slowing indicative of mild diffuse cerebral dysfunction, which
+is etiologically nonspecific.  Continuous focal slowing is indicative of a focal structural lesion.
+There is a potentially epileptogenic focal structural lesion in the left temporoparietal region.  A
+single EKG lead demonstrates frequent premature QRS complexes.
+
+

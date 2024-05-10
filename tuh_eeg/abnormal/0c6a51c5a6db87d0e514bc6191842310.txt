@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 40 year old right handed woman with refractory epilepsy, states that she has not seizure since September 7, 2011, status post right temporal lobectomy.
+MEDICATIONS:  Phenobarbital, Neurontin, Vimpat
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG includes a high amplitude, 10 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta activity.  Breach rhythm is picked up in the T2 electrode region.  There is also some single-channel artifact in the region of her previous craniotomy.  Hyperventilation is performed early on in the record producing an increase in the amplitude of the sharply contoured background.  In relaxed wakefulness, there is an asymmetry, and in fact, there is a little bit more left frontal theta and a handful of very simple left frontal sharp waves.  Isolated left frontal spikes are seen out of a spiky background in relaxed wakefulness.  Photic stimulation elicits brief driving.  Occasional left temporal sharp waves are noted.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Subtle left temporal theta.
+Occasional left temporal sharp waves.
+CLINICAL CORRELATION:  In this patient with a previous right temporal lobectomy, there are many previous EEGs in the file.  She has previously demonstrated both left and right anterior temporal sharp waves.  Today only left temporal sharp waves and left temporal theta were noted.
+
+
+

@@ -1,0 +1,25 @@
+History:	49 year old woman who presents with an ICH. EEG is performed to better evaluate waxing and waning mental status.
+Medications:	Valproic acid Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+
+Continuous bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for -14 hours from 5/27/2014 till 5/28/2014.    Nursing? initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is right to left intrahemispheric asymmetry with slower waveforms over the right.  The background over the left hemisphere consists of 9.5-10 Hz PDR with preserved AP gradient and excess polymorphic theta activity.  There is no PDR or AP gradient over the right.  The background over the right hemisphere consists of polymorphic continuous theta and delta activity, most pronounced over the temporal region. Normal sleep architecture is captured, better visualized over the left.
+
+No clear seizures are present.
+
+In the second half of the recording, there is significant progressive electrode artifact with right hemispheric leads especially affected.  -- that makes interpretation less reliable.
+
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, right hemispheric, especially in temporal region Artifact, EMG, progressive and significant by the end of the recording
+
+Interpretation:
+This is an ABNORMAL continuous video 14-hour  EEG due to mild diffuse slowing and continuous focal moderate right hemispheric slowing, most pronounced over the temporal region. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a focal cerebral dysfunction, likely structural in etiology.  No clear electrographic seizures were captured.  In the second half of the recording, there is significant progressive electrode artifact with right hemispheric leads especially affected.  -- that makes interpretation less reliable.  These findings were conveyed to the primary team.
+

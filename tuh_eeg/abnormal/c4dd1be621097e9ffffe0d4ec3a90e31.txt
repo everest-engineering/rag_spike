@@ -1,0 +1,7 @@
+CLINICAL HISTORY: 79 year old right handed female with epilepsy.
+MEDICATIONS: Protonix, Diovan, Caduet, Trilipix, Phenobarbital, Urso, ASA, Caltrate, Keppra
+INTRODUCTION: Digital video EEG was performed in Jab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a symmetric reactive alpha rhythm of 8.7 Hertz. There is a small amount of low voltage, frontocentral beta. In relaxed wakefulness there is occasional, isolated right or left temporal theta/delta. Features of drowsiness include brief bursts of hypersynchronous slowing. Photic stimulation elicits bilateral driving.
+HR: 70bpm
+IMPRESSION: EEG is within normal limits.
+CLINICAL CORRELATION: There are no definitive epileptiform features noted in this record today. There is some eye artifact but no definite sharp waves noted. The alpha rhythm is a little slower than previous studies have identified. The temporal theta and delta described above is considered a normal finding in an adult of this age. To capture epileptiform activity, a more prolonged study capturing sleep would be important. Additional recording may be also helpful in this individual who is also suffering from memory impairment.

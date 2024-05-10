@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 71-year-old male who awoke with acute right-sided weakness and difficulty speaking.  Thought that he was in a different world.  Rule out stroke.
+MEDICATIONS:
+INTRODUCTION:  Digital EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  The patient was described as very tense.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  There is a great deal of muscle artifacts noted including temporalis artifact.  Drowsiness is characterized by attenuation of the alpha rhythm and increase in beta.  Photic stimulation elicited a bilateral driving response.
+Heart rate 66 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to,
+Mild background slowing.
+CLINICAL CORRELATION: No epileptiform features were identified in this individual with a concern for acute stroke, no focal features were noted.
+
+
+

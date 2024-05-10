@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 75 year old right handed female with history of lupus, heart failure, carotid stenosis.
+
+MEDICATIONS: Propofol, Versed, Etomidate, Phenylephrine, Desflurane, Remifentanil, Lidocaine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This recording begins at 9:33 a.m. and concludes at 11:45 a.m. This is a 2 hour EEG.
+
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient has already received anesthesia and the background is discontinuous. Bovie artifact is noted. The technologist confirms with Anesthesia who continue to describe the patient as light, needing additional anesthesia despite a burst suppression EEG pattern. Heparin is given at 10:13:40. Patency is assessed by Doppler at 10:34. The internal carotid is clamped at 1 0:40. No focal features are observed in this discontinuous record. The carotid is undamped at 11:22. The EEG is more continuous. The record continues until the surgeon is satisfied that the patient's patency is confirmed. At the conclusion of this study, the background is essentially a low voltage, quite suppressed pattern although using higher sensitivities can improve the overall continuity.
+
+HR: 66 bpm
+
+IMPRESSION: EEG monitoring during this carotid endarterectomy was remarkable for:
+Discontinuous pattern.
+
+CLINICAL CORRELATION: The value of this study is unclear given the discontinuity noted in the background.
+

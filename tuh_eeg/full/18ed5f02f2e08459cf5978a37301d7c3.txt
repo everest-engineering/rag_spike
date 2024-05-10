@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Elderly nursing home resident transferred from an outside hospital with intermittent episodes of left arm shaking without impairment of awareness, now very drowsy following 1 mg of Ativan the previous night.
+MEDICATIONS:  Clonidine, insulin, Ativan, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is a drowsy record.
+DESCRIPTION OF THE RECORD:  In the maximal wakefulness that is achieved, there is a suggestion of a 7 Hz posterior dominant rhythm on the left, disrupted on the right.  Bursts of bilateral delta were noted.  The patient rapidly transitions to stage II sleep with vertex waves and spindles.  In later sections of the record, the patient is awake with a more symmetric pattern and a glimpse of a 7 Hz posterior dominant rhythm bilaterally.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Mild bilateral slowing.
+A subtle asymmetry with disruption of the alpha on the right relative to the left.
+CLINICAL CORRELATION:  EEG monitoring will follow the study in an attempt to capture this patient's episodes of left hand shaking.
+
+
+

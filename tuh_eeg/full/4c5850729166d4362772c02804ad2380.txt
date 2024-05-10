@@ -1,0 +1,38 @@
+History:	52 year old woman with a history of seizures since childhood.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left consists of polymorphic low-to-moderate amplitude 9 Hz alpha activity,
+excess polymorphic theta and delta activity and poor AP gradient.  There is no clear PDR or AP
+gradient over the right.  The background over the right consists of a mixture of polymorphic theta
+and delta activity and continuous right temporal (T4/T6 maximally) sharp waves.  These sharp
+waves have a very broad field,  increase in frequency during drowsiness/ sleep and often occur in
+non-evolving runs with a repetition rate of 0.75-1.25 Hz.  Rarely, left midtemporal (maximal over
+T3) high amplitude sharp waves with aftergoing slow waves are present.  Drowsiness and sleep are
+characterized by increase in diffuse theta and delta activity as well as occasional sleep-spindle-like
+Hyperventilation is performed for 240 seconds with good cooperation, and increases degree of the
+background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does not
+produce additional abnormalities.
+Summary of Findings:
+No electrographic seizures
+Sharp waves, continuous, right temporal, T4/T6 maximally
+Sharp waves, rare temporal, mid, T3 maximally
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and asleep 1 hour EEG due to (1) mild diffuse slowing and
+disorganization; (2) continuous moderate right hemispheric focal slowing and right temporal
+epileptiform discharges (often appearing in rhythmic non-evolving runs); and (3) rare left
+midtemporal epileptiform discharges.  Diffuse slowing is indicative of mild diffuse cerebral
+dysfunction, which is etiologically nonspecific.  There is a focal structural abnormality with
+increased epileptogenic potential over the right, specifically right temporal region.  There is
+increased epileptogenic potential emanating from the left midtemporal region.  When compared to
+the prior EEG reports, this EEG is not significantly different.  No seizures captured/ present.and K-complex-like waveforms.
+
+
+
+

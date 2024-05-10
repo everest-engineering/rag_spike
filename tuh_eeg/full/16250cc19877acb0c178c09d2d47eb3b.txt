@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 19-year-old woman with a history of several concussions in 2010 and 2011.  She now presents with left shoulder pain and numbness, twitching followed left arm spasms as well as full body spasms.
+MEDICATIONS:  Benadryl, Reglan, Toradol, lorazepam, amitriptyline.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.    Hyperventilation and photic stimulation were  performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of well formed and modulated 12 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Excess beta is present.  During sleep vertex waves, sleep spindles, K complexes and POSTS (positive occipital sharp transients of sleep) are captured.  Additionally, several diffuse body jerks are captured during drowsiness and sleep.  These are associated with brief EMG artifacts seen on the scalp EEG.  Hyperventilation is performed with poor effort and produces no significant change in the background.  Step photic stimulation induces symmetrical photic driving at medium range flash frequencies.  A regular heart rhythm with a heart rate of less than 60 beats per minute is captured on the EKG.
+FINDINGS:
+No epileptiform discharges.
+Stage II sleep.
+Several diffuse body jerks during drowsiness and sleep without an abnormal interictal correlate.
+IMPRESSION:  This is a normal awake and sleep 26 minute EEG.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.  Several diffuse body jerks were captured during drowsiness and sleep.  These were associated only with a brief diffuse EMG artifact seen on the scalp EEG.
+
+
+

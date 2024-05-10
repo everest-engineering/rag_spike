@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 51-year-old woman with epilepsy, frequent seizures characterized by spacing out spells.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Continuous video-EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  The patient was attempted to sleep deprive.
+Although, she was not sure if she had any clinical seizures, she had an episode at approximately 1 to 2 p.m. in the afternoon where she burped and thought that might have been a seizure.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a well-defined posterior dominant rhythm and in the background it is generally well organized.  There is a 10 Hz alpha rhythm.  Frequently, in wakefulness, rhythmic delta or rhythmic mixed delta theta was noted from the right temporal region.  In wakefulness, there are abundant, high amplitude T2 maximum sharp waves and spikes.  The epileptiform activity demonstrates subtle buildup.
+Events:
+Time at 1:48, the patient was awake, just before the physician entered to interview the patient, she felt a burp, which is sometimes a warning prior to a seizure.  At that time, the EEG demonstrates abundant epileptiform activity, some of which waxes and wanes, but is not significantly different than the interictal background.
+The patient recalls it as she woke up sometime between 4 and 5 a.m. in the morning, she felt as if she might have been a bit spacey.  Review of the EEG at this time demonstrates stage 2 sleep.  In stage 2 sleep at 4:45, there are vertex waves, spindles, and abundant high amplitude right anterior temporal sharp waves and spikes with rhythmic slowing.  The patient wakes up or transitions in and out of sleep a little bit between 4 a.m. and 5 a.m.  The EEG remains quite abnormal, but there is no clear pattern that differs substantially from interictal background.
+Heart rate 60 bpm.
+IMPRESSION/CLINICAL CORRELATION:  This first 24 hours of video EEG monitoring was remarkable for:
+State independent high amplitude right anterior temporal sharp waves and spikes.
+Bursts of rhythmic signs from the same region.
+Subtle, clinical symptoms which are hard to distinguish, otherwise abnormal background.
+
+
+

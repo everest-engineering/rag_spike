@@ -1,0 +1,32 @@
+History:	50 YR OLD MALE PRESENTS WITH H/O SZ ONSET OVER 2O YEARS AGO.
+GRAND MAL. PT LAST SZ 1 1/2 YRS AGO.
+Medications:	TRILEPTAL 300 MG
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present independently in the bilateral anterior temporal
+region (left more than right) during wakefulness, increasing during drowsiness.  Occasional brief 1-2
+seconds bursts of generalized frontally-maximal 3-3.5 Hz spike-and-wave discharges occur during
+the recording.  No clinical symptoms associated with the bursts.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  Hr
+Summary of Findings:
+Spike-and-wave complexes, fast, occasional generalized
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, anterior
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of occasional generalized spike-and-wave
+discharges, which are potentially epileptogenic.  Background activity is otherwise normal.  These
+findings are consistent with a diagnosis of primary generalized epilepsy. In addition there was
+intermittent focal slowing in the bilateral anterior temporal region (left more than right) region.
+This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+
+
+

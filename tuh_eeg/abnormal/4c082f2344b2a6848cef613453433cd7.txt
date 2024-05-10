@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is an 82-year-old male with change in mental status, found to have bilateral subdural hematoma, most pronounced on the right side.  He fell on 02/13/2013, status post evacuation on left hemisphere.  The patient is currently somnolent and with toxic metabolic encephalopathy secondary to sepsis.  The patient has a trochlear implant and he has a skull defect on the right side.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG is performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In a lethargic state, the background activity is characterized by a generalized slowing in the delta and theta-frequency range. There is hemispheric asymmetry characterized by attenuation and slowing in right cerebral hemisphere. There is a excess theta activity well formed in left cerebral hemisphere.  There are intermittent delta activity, beta seen with a frequency of 1 to 1.2 Hz lasting for 2-3 seconds.  There are intermittent sharp waves arising from the left parietal-occipital regions most pronounced in P3 with field spread to C3 and O1, occasionally intermixed with the burst of left parieto-temporal slowing.  Heart rate was 70 to 80 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Diffuse slowing of the background activity.
+Presence of theta burst.
+Attenuation of the background activity in the right cerebral hemisphere.
+Left parieto-occipital sharp wave discharges with no evolution, intermixed with temporoparietal slowing.
+CLINICAL CORRELATION:  Diffuse slowing of the background activity could be due to toxic, metabolic, hypoxic, infectious encephalopathy.  Alternatively, it could be due to sedating medications or cerebral dysfunction or degenerative brain disease.  The theta burst could also be due to increased intracranial pressure, metabolic encephalopathy, or deep midline lesions in the brain.  Right hemispheric attenuation of the background could be due to right subdural hematoma.  The presence of intermittent sharp wave discharges in the left parieto-occipital region is suggestive of underlying epileptogenicity of that region and place this patient at higher risk for partial seizures.
+
+
+

@@ -1,0 +1,31 @@
+History:	56 YR OLD FEMALE, DX. SEIZURE,  H/O HIV, HCV, PSYCHOSIS, SZ D/O, LT CVA
+W/RT HEMIPARESIS, HEAD TRAUMA  LT FRONTAL SKULL DEFECT/CRANI.  F/U
+EEG PT STATES LAST SEIZURE. LAST NIGHT, HEAR AND SEE NO SPEECH,
+DURATION 10 MIN.
+Medications:	Trileptal, Dilantin, Abilify, Prozac, Pravachol, Ativan, Seroquel, Zoloft,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9 Hz alpha rhythm, which attenuates with
+eye opening. There is hemispheric asymmetry characterized by higher amplitude on the left side.
+Beta activity is well seen in the right frontal region.  During brief drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely.
+Almost continuous polymorphic theta activity is present in the left frontotemporal region during
+wakefulness, increasing during drowsiness.  Intermittent focal sharp waves are present in the left
+anterior temporal region, with no evolution.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 60 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left frontotemporal
+Sharp waves, intermittent, left temporal, anterior
+Breach artifact, left
+Interhemispheric asynchrony
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing and loss of
+faster frequencies in the left frontotemporal region.  This finding is indicative of focal cerebral
+dysfunction involving cortex, which is possibly structural in origin.  Intermittent epileptiform
+discharges in the left temporal region.  These findings are indicative of a potentially epileptogenic
+focus in this region.  No clinical or electrographic seizures are present.
+

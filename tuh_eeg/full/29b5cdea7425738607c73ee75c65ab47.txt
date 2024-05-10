@@ -1,0 +1,14 @@
+`CLINICAL HISTORY:  78 year old woman with history of dementia, now noted to have myoclonic jerks after an episode of hypoxemia.
+MEDICATIONS:  Depakote, Valproate Sodium
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not performed.
+LENGTH OF RECORDING:  21 minutes.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, patient reaches 8-9 Hz polymorphic alpha activity posteriorly with weak anterior-to-posterior frequency amplitude gradient.  The rest of the EEG primarily consists of a mixture of polymorphic moderate amplitude theta and delta with under riding faster frequencies.  No normal sleep architecture is captured.  Hyperventilation and photic stimulation were not performed.  Additional polymorphic delta activity is present over the right hemisphere.  A single sharp transient is captured at 10:01:28 a.m. over the right middle temporal region with phase reversal over T6 electrode.  No electrographic seizures are captured.
+FINDINGS:
+A single sharp transient over the right midtemporal region.
+Mild-to-moderate diffuse slowing.
+No electrographic seizures.
+Focal slowing over the right hemisphere.
+IMPRESSION/CLINICAL CORRELATION:  This is an abnormal 21-minute awake only EEG due to mild-to-moderate diffuse slowing and focal slowing over the right hemisphere.  Diffuse slowing indicates a nonspecific cerebral dysfunction.  Focal slowing over the right hemisphere could be indicative of an underlying structure abnormality.  A single sharp transient is of uncertain clinical significance.  No electrographic seizures are captured.
+
+
+

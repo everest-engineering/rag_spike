@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 77-year-old woman, admitted with change in mental status, history of coronary artery disease, breast cancer, and other medical problems, aqueductal stenosis, and old left MCA infarct.
+MEDICATIONS:  Tylenol, acyclovir, vancomycin, and Zosyn.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record and is somewhat somnolent individual with snore.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.5-9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  The patient drifts off to sleep.  The overall background in relaxed wakefulness and early drowsiness includes excess beta, excess theta, and overall poor organization.  There are occasional bursts of medium amplitude frontal delta.  Drowsiness is characterized by an increase in background slowing.
+Heart rate:  104 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background disorganization.
+Shifting slowing.
+Excess theta.
+Excess beta.
+CLINICAL CORRELATION:  There are no epileptiform features noted and there are no definitive lateralizing features.  The findings described above are nonspecific and can be seen in a toxic or metabolic encephalopathy as well as other diffuse disturbance of cerebral function.
+
+
+

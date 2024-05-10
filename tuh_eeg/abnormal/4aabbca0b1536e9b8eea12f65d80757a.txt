@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  45 year old woman with unsteady gait and bladder dysfunction for 10 days.  Past history of lead poisoning, mental retardation, obstructive sleep apnea, bipolar disease, and kidney impairment.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG is disorganized in wakefulness and drowsiness.  The pattern includes some 2 Hz delta and more of a pattern of 4 Hz theta.  There is also a small amount of 6 Hz activity.  Stimulation of the patient produces more of an alpha theta frequency pattern.  As she drifts off to sleep posteriorly predominant slowing is noted. Photic stimulation serves to stimulate the patient.  The occipitally predominant slowing is a bit more apparent at that time.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and drowsiness due to:
+Absence of the normal morphologies in wakefulness.
+Posteriorly predominant delta.
+CLINICAL CORRELATION:  The posteriorly predominant delta is not an uncommon finding in the context of lead poisoning, although it is not specific for this syndrome.  No
+epileptiform features were noted.  If epilepsy is an important consideration, a follow up study may be of value.
+
+
+

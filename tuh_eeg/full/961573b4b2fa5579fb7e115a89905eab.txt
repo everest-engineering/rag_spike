@@ -1,0 +1,31 @@
+History:	47 year old woman who was found down.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Description:
+The posterior dominant rhythm consists of polymorphic up to 9 Hz unstable alpha activity with poor
+AP gradient.  The background contains excess polymorphic theta and delta activity.  Patient rapidly
+transitions between wakefulness and drowsiness.  Symmetric vertex waves, sleep spindles and K-
+complexes are noted.
+Hyperventilation and photic stimulation are not performed.  There is nearly continuous T5
+electrode artifact.
+Summary of Findings:
+Artifact, electrode, nearly continuous,  T5 electrode artifact
+No epileptiform discharges
+Diffuse slowing, polymorphic, mild
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep portable EEG due to mild diffuse slowing and
+background disorganization. These findings are etiologically nonspecific indicators of mild diffuse
+cerebral dysfunction.  But in this patient, these findings could also be contributed to excessive
+drowsiness ( given rapid transitions between wakefulness and drowsiness).  The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+
+
+

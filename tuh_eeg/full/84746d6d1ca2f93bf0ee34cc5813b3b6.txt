@@ -1,0 +1,33 @@
+History:	56 year old female residing in a SNF. She has a history includes seizures,
+schizoaffective disorder, depression, ESRD, DM, HTN.
+Medications:	Dilantin, Citalopram, Levetiracetam, Lorazepam
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+During maximal wakefulness, the background consists of polymorphic low-to-moderate amplitude 9
+Hz alpha posteriorly, admixed with excessive theta and delta activity and weak AP gradient.
+Patient is drowsy and asleep throughout the majority of the recording.  Sleep is characterized by
+poorly formed vertex waves and K-complexes.
+There is continuous paucity of faster frequencies over the right hemisphere, especially over the
+right temporal region.  Several poorly formed low amplitude spikes with aftergoing slow waves are
+captured in the right anterior temporal region, with maximal scalp negativity over T2 electrode.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Disorganization, mild
+Focal slowing, polymorphic, continuous, moderate, right hemispheric, especially temporal region
+Spikes and sharp waves, few, right temporal, anterior, phase reversal over T2 lead
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 25 minute EEG due to (1) mild diffuse slowing and
+disorganization; (2) continuous moderate right hemispheric slowing, most pronounced over the right
+temporal region and (3) several right anterior temporal epileptiform discharges.  Diffuse slowing
+and disorganization are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.
+Continuous focal slowing is indicative of a focal structural lesion over the right.  Epileptiform
+discharges eliminating from the right anterior temporal region indicate a potentially epileptogenic
+focal structural lesion in the right anterior temporal region.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 46-year-old woman with left parietal AVM, memory problems, intermittent episodes of lightheadedness, vertigo and nocturnal seizures not otherwise described.
+MEDICATIONS:  Phenytoin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is primarily an awake record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Head rocking artifact is picked up in this record at T6 and T4.  Hyperventilation  produces an increase in beta.  Photic stimulation elicits scant bilateral driving.
+Heart rate 102 BPM.
+IMPRESSION:  This EEG is remarkable for:  Head rocking artifact in the right posterior quadrant.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified.  To more completely define this patient's epileptiform activity, a repeat tracing capturing sleep is suggested.
+
+
+

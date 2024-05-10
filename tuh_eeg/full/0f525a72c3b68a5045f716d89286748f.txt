@@ -1,0 +1,43 @@
+CLINICAL HISTORY: This is a 27-year-old woman status-post anoxic injury on Sunday, February 26 with persistent coma, now with increasing stimulus-induced myoclonus, as well as ongoing eye flutter and movements of the tongue in a comatose individual.  CT scan shows ongoing edema.
+MEDICATIONS: Propofol titrating up to 70 mcg and Versed starting at 10:00 AM, titrating up to 10 mg per hour by 2:00 PM.  Additional medications include Ceftriaxone, Fentanyl, Ativan, Mannitol, and Valproate.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is observed to have eye twitching in the beginning of the recording and tongue movements, but no additional motor activity is seen later on in the recording.
+DESCRIPTION OF THE RECORD: In the initial sections of the record, the background demonstrates an ongoing ictal pattern starting at 10:00 AM.  The activity begins to slow to some degree by 12:57 with intermittent suppression.  This improves a small amount by 1:00 PM. The EEG is remarkable for the elimination of an ongoing ictal pattern with the eventual appearance of a burst suppression pattern around 1500 hours.  No additional changes in the pharmacotherapy are recorded on the computerized flow sheet.
+HR:  100 BPM.
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this section of the record demonstrates successful achievement of a burst suppression pattern after 1500 hours, with a clear sustained burst suppression pattern after 17:11.  In the time periods between 1700 hours and 10:00 AM, the EEG is occasionally continuous but there are no additional sustained seizures recorded.
+
+Long-Term EEG Monitoring, March 2, 2006 to March 3, 2006
+
+MEDICATIONS: Propofol with doses ranging from 40 to 70 mg/hr and Midazolam at 10 to 14 mg/hr.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU.  The patient is described as comatose without motor activity.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intermittently discontinuous pattern.  There are some portions of the record with arrhythmic delta and intermittent frontal fast activity.  Other portions demonstrate more significant, sustained mixed theta and alpha frequency activity.  No sustained ictal discharges are noted.  The patient is unplugged on the morning of the 3rd at approximately 4:50 AM.  Prior to this, the EEG was continuous with frontal delta, and there is a little low voltage discrete bursts of fast activity picked at the midline.  In this section of the record, they are most prominent in the frontal not the parietal regions.
+HR: 100 BPM.
+Long-Term EEG Monitoring, March 3, 2006 to March 4, 2006
+MEDICATIONS: Midazolam drip at 14 mg/hr, Propofol wean, Valproate, and others.
+INTRODUCTION: Ongoing, continuous video EEG monitoring is performed for this comatose patient at the bedside, approximately three to four days following an anoxic injury.  The patient is described as comatose without obvious motor responses.
+DESCRIPTION OF THE RECORD: In the initial portions of the record, until approximately 5:00 or 7:00 PM, the patient is on a Propofol wean and Midazolam at 14 mg/hr.  The EEG demonstrates initially sometimes a burst suppression pattern and at other times a more continuous pattern with mixed theta and delta.  This EEG is unique in that there is at times a vertex positive wave and at other times there seems to be some fast activity at P3.  As the recording continues, there is both some muscle artifact picked up in the EEG, although none can be seen at the bedside.  In addition, the fast activity and the positive sharp waves seem to be a bit more prominent.
+HR: 114 BPM.
+Long-Term EEG Monitoring, March 4, 2006 to March 5, 2006
+MEDICATIONS: Midazolam, Valproate, and others.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU for this individual now five to six days status-post anoxic injury.  The patient remains comatose, intubated with ocular myoclonus.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern.  Some portions of the record demonstrate a pattern with delta activity.  In the sections with delta, there is occasionally fast activity identified in the frontal regions.
+There are also occasional positive sharp waves at Cz and also negative sharp waves at Cz.  Throughout the record, there are intermittent bursts of fast activity with approximately an alpha frequency activity or occasional brief bursts of beta activity.  These tend to be maximum at the midline and include the frontocentral region.
+There are no clinical events suggestive of seizures.
+Reviewing the seizure detector, there are occasional bursts of paroxysmal fast activity, some of which are discrete in onset, others which are more variable in onset at times lasting 40 to 50 seconds and others more brief.  One specific example is seen at 23:33:05.  Some of these have a clear, abrupt termination as would be expected to be seen in an ictal discharge.  These are identified on Saturday, March 4, at 11:41, 14:31, 15:26, 21:53, 23:32, and 1:36 AM on Sunday.  They are a little less remarkable on the Sunday recording, but can be seen at 3:32, 4:28, 9:55, 10:35, 11:34, and 12:14. No clear changes were made in the patient’s sedative hypnotic medications with these discharges.
+HR: 114 BPM.
+Long-Term EEG Monitoring, March 5, 2006 to March 6, 2006
+MEDICATIONS: Midazolam, Valproate, Topiramate, and others.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose with eye flutter to tactile stimulation only.
+DESCRIPTION OF THE RECORD: The background EEG from the 5th to the 6th demonstrates a pattern of ongoing irritability – in fact, increasing irritability.  The electropositive sharp wave at Cz can be identified and there are brief bursts of fast activity.  Although seizures are not always easy to identify in terms of onset and off set, there are a handful of more well-defined seizures including 21:09, 8:01 AM, 8:43, and 01:45.  These are characterized by an increase in fast activity, sometimes with alpha and theta frequency activity, which is sustained, and by abrupt paroxysmal termination of the activity followed by slowing.
+The patient can be seen to be stimulated on multiple occasions during this recording session, but there is no clear change.  Unfortunately, it is not possible to see the video of her ocular stimulation.
+HR: 114 BPM.
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this section of the record is remarkable for an increase in fast activity, positive sharp waves, and an evolving, faster frequency activity.
+One-Hour EEG Monitoring, March 6, 2006 – 12:45 to 1:45
+MEDICATIONS: Versed, Valproate, Topiramate, and others.
+INTRODUCTION: One-hour video EEG monitoring is performed at the bedside in the ICU. The patient is comatose.  She is examined by the team during the study.
+DESCRIPTION OF THE RECORD: The background EEG includes a mixture of delta and theta.  There is occasional fast activity noted occurring in bursts, lasting less than one second in duration.  In addition, there are occasional positive sharp waves.  There is variability in the record with some sections showing more or less delta than others.  Stimulation of the patient does seem to elicit the positive sharp waves, but not the fast activity.
+HR: 120 BPM.
+IMPRESSION/CLINICAL CORRELATION: This one-hour EEG demonstrates a pattern of background slowing.  The bursts of paroxysmal fast and electropositive sharp waves with sharp activity picked up in the frontocentral and centrotemporal regions suggests ongoing cortical irritability.
+
+
+
+

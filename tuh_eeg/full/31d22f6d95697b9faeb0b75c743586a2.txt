@@ -1,0 +1,13 @@
+
+CLINICAL HISTORY: 60 year old right handed male, stroke patient with right-sided weakness and aphasia.
+MEDICATIONS: Lovenox, ASA, Pantoprazole
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation Is performed. The patient is awake and cooperative.
+DESCRIPTION OF THE RECORD: The background EEG includes a 9.5 Hz alpha rhythm which is disrupted in the left temporal region. In addition, focal slowing is noted which is most remarkable in the left anterior temporal region with occasional sharp waves at T1 and T3. Drowsiness is characterized by accentuation of the focal slowing. Photic stimulation elicits scant driving on the right.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing in left temporal region.
+2. Left temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the left involving gray and white matter. The sharp waves suggest a cortical irritability and a possibility for seizures.
+
+
+

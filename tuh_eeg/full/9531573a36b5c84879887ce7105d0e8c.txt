@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 47-year-old woman with intermittent tremors of right or left hand and arms dating to childhood, but recently increasing.
+MEDICATIONS:  Mysoline, Xanax, Theragran.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a routine outpatient EEG with acceptable impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta.  Tremor artifact was noted in the background.  In addition, wicket was noted.  Hyperventilation was performed early in the record and produces an increase in amplitude of the background.  Drowsiness was characterized by an increase in beta and attenuation of the alpha.  Photic stimulation elicited vigorous bilateral driving.
+Heart rate 72 BPM.
+IMPRESSION:  This EEG is remarkable for:
+Generous beta.
+Tremor artifact.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  The tremor artifact is commonly identified in the context of tremor disorder.  This patient's medications may account for the generous beta described above.
+
+
+

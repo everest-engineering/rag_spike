@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  74 year old woman with NICMP, hypertension, right intraventricular hemorrhage, and decreased responsiveness, possible seizures and cardiac dysrhythmia.
+MEDICATIONS:  Keppra, Ceftriaxone and others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The EEG is diffusely slow but the patient transitions in and out of a drowsy state with varying amounts of beta.  There is small, shifting asymmetries noted.  Stimulation of the patient produces eye opening.
+HR:    90 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+Shifting beta asymmetries.
+CLINICAL CORRELATION:  No epileptiform features were observed.  This EEG is more supportive of a bihemispheric process.
+
+
+

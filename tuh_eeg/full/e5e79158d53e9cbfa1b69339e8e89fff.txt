@@ -1,0 +1,14 @@
+TOTAL LENGTH OF THE RECORDING:  Approximately 19 hours.
+CLINICAL HISTORY:  The patient is a 54-year-old man with a history of lung cancer with resultant brain metastasis who now presents with status epilepticus.
+CURRENT MEDICATIONS:  Depakote, Keppra, Versed drip, phenobarbital.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional EKG lead.  Hyperventilation and photic stimulation were not performed.  The recording was performed continuously.  Video capabilities were activated.  EEG was reviewed several times during the 19-hour period.  Medical staff notes and nursing staff notes were reviewed.
+DESCRIPTION OF THE RECORDING:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  There is right to left interhemispheric asymmetry with higher voltages and faster frequencies over the right.  Early in the recording the background over the right hemisphere consists of polymorphic fast activity mixed with rhythmic diffuse, predominantly right temporal parietal, sharp waves with up-going slow waves occasionally involved in electrographic seizures.  The longest average seizure early in the recording is approximately 30 to 40 seconds.  More frequently BIRDs (brief __________rhythmic discharges) are captured.  The length of these bursts varies from 1 second to less than 10 seconds.  Between these discharges there is diffuse voltage attenuation.  As the recording progresses frequency of epileptiform discharges and the duration of bursts decreases, and the background approaches 1:1 burst to suppression ratio.  There is a reflection of epileptiform discharges over the left hemisphere.  The degree of discontinuity and burst suppression decreases by the end of reviewing.
+FINDINGS:
+Focal right hemispheric seizures emanating from the right posterior quadrant.
+BIRDs.
+Rhythmic sharp waves with upgoing slow waves  plus, plus emanating from the right posterior quadrant.
+Background discontinuity and a variable degree of burst suppression throughout the recording.
+IMPRESSION:  This is very abnormal continuous video 19-hour EEG monitoring due to continuous right posterior quadrant epileptiform discharges that early in the recording evolve into focal electrographic seizures, moderate to severe background slowing, background discontinuity and a frank variable degree of burst suppression.  When compared to the EEG from 07/09/2013, there has been resolution of focal status epilepticus.  These findings were conveyed to the Neurology Consultant Team.
+
+
+

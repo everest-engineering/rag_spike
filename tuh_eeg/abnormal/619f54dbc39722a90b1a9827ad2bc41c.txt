@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An 87-year-old woman with an acute stroke characterized by right-sided weakness with aphagia, confabulation and confusion.
+MEDICATIONS:  Aspirin, Lovenox, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  There was no hyperventilation or  photic stimulation performed.  This is an awake and drowsy record.
+TECHNICAL QUALITY:  There is significant artifact noted in this bedside record.
+DESCRIPTION OF THE RECORD:  In wakefulness, despite the artifact there is a low voltage awake pattern with a suggestion of a 10 Hz alpha rhythm.  Features of drowsiness include attenuation of the alpha rhythm, slow rolling eye movements and an increase in beta, but sleep was not sustained.
+Heart rate 50 BPM.
+IMPRESSION:  A technically limited EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were seen.  There were no significant focal features noted.  In this individual with a recent stroke, a follow up EEG in the lab with better quality of recording is suggested.
+
+
+

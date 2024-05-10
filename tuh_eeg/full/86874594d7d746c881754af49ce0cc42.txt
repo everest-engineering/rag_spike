@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  23 year old woman with no significant past history of head trauma or known family history of epilepsy.  The patient describes being anxious, may have been using benzodiazepines recently.  She had an event in which she was walking oddly, went into the bathroom, was reported to have a seizure, and was postictal until Fire Rescue arrived.  She signed out AMA from the emergency room but eventually returned.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has significant frontalis artifact and difficulty getting to sleep.  Hyperventilation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz 50 microvolt posterior dominant rhythm.  Posterior slow waves of youth were noted. In relaxed wakefulness, there is a single frontally predominant spike, perhaps with a slight predominance to the right.  In addition, in relaxed wakefulness there is a burst of 5 to 6 Hz spike and wave activity lasting last than 1 second without clinical correlate.  This is frontally predominant.  There is a burst of higher amplitude bilateral fast activity, but the first well-defined spike in the second burst is again maximum on the right. Features of drowsiness include slow-rolling eye movements and attenuation of the alpha rhythm.   Hyperventilation produces an increase in slowing.
+HR:  N/A
+IMPRESSION:  Abnormal EEG due to:
+Rare, frontally predominant spike and wave activity with a slight right frontal predominance.
+CLINICAL CORRELATION:  These findings may be seen in a focal or a generalized mechanism for epilepsy.  In addition, the patient's bradycardia may merit evaluation.
+__________________________
+
+
+

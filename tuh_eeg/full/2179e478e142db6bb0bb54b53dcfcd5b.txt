@@ -1,0 +1,14 @@
+CLINICAL HISTORY: A 29-year-old woman with developmental delay, epilepsy, perinatal infarct.  Seizures characterized at the present by shortness of breath and stiffening but in years past had brief jerking movements of arms or legs lasting less than a minute. Postictal confusion.
+MEDICATIONS: Tegretol chewables.
+INTRODUCTION: Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is remarkable for a relatively low voltage background.  There is a 9 Hz posterior dominant rhythm. Prominent theta activity is noted in the central regions. In wakefulness, prior to hyperventilation, there is an 8 second ictal discharge.  It begins with rhythmic theta activity which is maximum on the left but has some bilateral activity in the first second or so.  This is followed by a rhythmic, evolving, 2-3 Hz activity which ends abruptly at 11:31.  As the event ends, there is subtle underlying slowing noted in the left central region.  The EEG returns to baseline 4 seconds after the end of the discharge.  This is followed by prominent rhythmic theta in the central regions in an otherwise asymptomatic patient.  The patient is awake and following commands and goes on to hyperventilation at 11:33.  During hyperventilation another burst of rhythmic repetitive activity is noted in hyperventilation lasting again 7 to 8 seconds in duration. As hyperventilation continues, there are bursts of rhythmic frontal notched delta with a left frontal sharp wave noted within this burst. The burst is asynchronous and is more sustained in the left frontal region than the right.  The patient transitions in and out of a drowsy pattern with prominent central theta and an increase in beta..
+Photic stimulation elicits a driving response at intermediate flash frequencies; in photic stimulation there is an additional 8-second burst of rhythmic repetitive evolving sharply contoured activity in the left central/centrotemporal region without clinical correlate.
+Heart rate 78 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Excess theta.
+Subclinical Seizures. Bursts of rhythmic repetitive evolving beta frequency activity.  One of these seems to start left frontocentral, but the others are frontotemporal. No clinical correlates are noted.
+CLINICAL CORRELATION:  This EEG is similar to this patient's many previous EEGs but is likely the first which identifies the same paroxysmal bursts with evolution.  This patient has historically had midline central theta, and the paroxysmal bursts described above are similar in frequency but have a more definitive localization left frontal/frontotemporal. This EEG supports a localization-related mechanism for epilepsy.
+
+
+

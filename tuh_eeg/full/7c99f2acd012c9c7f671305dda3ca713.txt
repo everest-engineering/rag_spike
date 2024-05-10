@@ -1,0 +1,40 @@
+History:	92 year old male with right lacunar infarct and resolving status epilepticus
+Medications:	phenytoin, levetiracetam
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours   Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+There is intermittent right posterior temporal delta activity superimposed on periodic epileptiform
+discharges (PEDs).  There are nearly continuous right posterior temporo-parietal PEDs with variable
+frequency between 1 and 2Hz. The PEDs appear as long continuous runs lasting 20-30 seconds, or
+in short bursts lasting 5-10 seconds, with a frequency of 1.5 Hz.  Of note, no clinical episodes of left
+arm twitching were noted during the recording epoch.
+Hyperventilation and photic stimulation were not performed.  There was minimal reactivity to
+auditory, tactile, or painful stimuli.
+Summary of Findings:
+PEDs (periodic epileptiform discharges), intermittent, right posterior quadrant, bursts
+Focal slowing, polymorphic, intermittent, right posterior quadrant
+PEDs (periodic epileptiform discharges), continuous, right posterior quadrant
+Interpretation:
+This is an ABNORMAL 24 hour video-EEG because of focal right posterior quadrant slowing,
+continuous PEDs, and intermittent bursts of PEDs. Clinical seizures were not appreciated.  These
+findings are suggestive of resolving status epilepticus.  These findings were conveyed to the
+neurology consult team.
+
+
+
+
+
+

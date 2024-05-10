@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 75-year-old male with angina, diabetes, evaluated in the emergency room for alcohol-related seizures and possible meningitis
+MEDICATIONS:  Unknown.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the ER using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is relatively somnolent.
+DESCRIPTION OF THE RECORD:  The EEG is markedly abnormal.  This is a technically challenging emergency room record in a patient who has just had a lumbar puncture, but it is markedly abnormal with periodic activity and triphasic-like activity throughout the EEG.  On top superimposed upon this, there is a clear asymmetry with more significant fast activity in the left compared to the right.  There is also a periodic focus throughout the EEG with an unusual field of spread, but with more fast activity in a maximum in the left parietal region.  There is some degree of variability noted in the record.  Spontaneous arousals are associated with a decrease in the periodic delta in the left hemisphere.
+Heart rate irregular 120 bpm.
+IMPRESSION:  A technically challenging acute emergency EEG, markedly abnormal due to:
+Markedly abnormal background with absence of the normal waveforms.
+Replacement of normal background with primarily a delta pattern.
+An asymmetry with more significant beta noted in the left hemisphere as well as focality with a nearly periodic complex in the left parietal region with a somewhat usual overall field.
+Triphasic waves.
+CLINICAL CORRELATION:  This EEG has both metabolic features as well as features supportive of an epileptogenic focus.  Follow up EEG may be a value.
+
+
+

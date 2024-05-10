@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  62 year old left handed male, aortic stenosis, EEG monitoring for hypothermic therapy.
+MEDICATIONS:  Fentanyl, Lidocaine, Vec, Versed
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using the standard intraoperative montage. The recording begins at 8:40  a.m. and ends at 1320.
+DESCRIPTION OF THE RECORD:  As the tracing begins at 8:40 in the morning,  the patient has received some degree of sedation with a slow pattern and then a brief arousal followed by the appearance of a beta pattern. At 9:58, the EEG starts to transition into a burst suppression pattern. The transition to burst suppression includes intermittent attenuation, but it is a somewhat spiky record. Cooling of the head and body commences at 10:27.  The EEG prior to this demonstrates and intermittently discontinuous pattern and with cooling, as the head and body are both cooled, the EEG attenuates. Shifting asymmetry is noted. The activity seems to be a little spikier in the left frontal region than the right and sometimes is a bit attenuated on the right. The EEG is suppressed at the target with cooling to 20 degrees at 10:54. It remains suppressed. The surgeon confirms the suppression with the team. Warming of the body begins at 11:01 with the head at 20 degrees at that time. The head is cooled to 19.3 degrees at 11:04. The body is off bypass at 11:05 with flow to the head at "800." The EEG starts to return very briefly at 11:14 and 11:15 with brief bursts, but none that are sustained. Circulatory arrest time at 14 minutes at 11:22.
+Warming of the head at 11:16 again produces occasional bursts of cerebral activity.
+The operative team starts warming the body actively and the head passively at 11:21.
+The head temperature achieves 23.8 at 11:33 and the EEG starts reappearing in bursts which are sharply contoured in the frontal regions.
+When the head temperature reaches 25.1, the EEG returns and is continuous.
+The recording continues throughout this section of the procedure. By 12:14, there is a vigorous, symmetric pattern with generous alpha frequency activity. The EKG reappears at 12:42.
+Heart rate is 92 BPM.
+IMPRESSION/CLINICAL CORRELATION:  Hypothermic therapy and anesthetic medications produced initially a burst suppression and then a completely suppressed EEG pattern. The cerebral pattern began to re-emerge with the head was warmed to 23 degrees and was continuous when it achieved 25 degrees. All clinical changes were reported to the surgeon during the procedure.
+
+
+

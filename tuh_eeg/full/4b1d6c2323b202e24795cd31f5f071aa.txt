@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  62 year old right handed male who presents for a left CEA.
+
+MEDICATIONS:  Midazolam, Propofol, Fentanyl, Succinylcholine, Lidocaine.
+
+REASON FOR STUDY:  Left carotid endarterectomy.
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional single-lead EKG electrode during left carotid endarterectomy.  The EEG was recorded throughout the procedure.  The team was informed of all changes occurring during the exam, during and after clamping of the artery.
+
+TECHNICAL DIFFICULTIES:  Some body artifacts seen as well as blood pressure and temperature artifacts seen throughout the recording.  This was advised to the team to be corrected, as well as anesthesia artifact effecting the EEG.
+
+DESCRIPTION OF THE RECORD:  At onset, the record has a well-formed posterior dominant rhythm which, at best, reaches a 9 Hz posterior dominant rhythm which is reactive to eye opening.  There is a normal amount of frontocentral beta.  At times there are some intermittent left anterior temporal focal slow waves in the background.
+
+During the procedure, the patient's incision was made at 9:09:59.  The left internal carotid was clamped at 10:07:09 a.m., and the common carotid was clamped at 10:07:21 a.m.  The external artery was clamped at 10:07:37.  With clamping, there is no clear marked change in the faster frequency of the recording, and this was informed to the team.  At around 11:00:49, the patient was unclamped, and again there was no change to the background frequencies in the recording.
+
+IMPRESSION:  Uneventful left CEA.
+
+CLINICAL CORRELATION:  This EEG reveals an uneventful left carotid endarterectomy.  No changes were seen in the recording.
+
+
+
+

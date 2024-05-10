@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 50 year old with hepatitis C and HIV, two episodes with loss of consciousness, one of them with tonic-clonic activity.
+MEDICATIONS:  Aspirin, Codeine, Metformin, Zolpidem, Xanax, Tylenol No. 3, Celexa, Doxepin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm with a small amount of low-voltage, frontocentral beta.  Hyperventilation does not significantly activate the record.  Photic stimulation does not elicit a driving response.  Sleep is characterized by attenuation of the alpha rhythm with vertex waves and posts noted in stage I sleep.
+HR:    96 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, a followup study capturing deeper stages of sleep is suggested.
+
+
+

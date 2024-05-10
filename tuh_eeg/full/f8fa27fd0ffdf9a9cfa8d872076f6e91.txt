@@ -1,0 +1,17 @@
+History: 75 year old woman with a history of right frontal stroke and subsequent seizures, is now admitted to the EMU for change mental, concerning of subclinical seizures.
+Medications:
+Sedation:
+EEG Type: Awake & asleep
+Technique: International 10-20 System; standard 21 electrodes
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low-to-moderate voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture is present.
+Paucity of faster frequencies is noted over the left hemisphere. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate
+Focal slowing, polymorphic, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL awake only 20-minute EEG because of moderate diffuse background slowing and focal left hemispheric slowing. Diffuse slowing indicates etiologically non-specific diffuse cerebral dysfunction. Continuous focal left hemispheric slowing is indicative of a focal structural lesion in this region. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,30 @@
+History:	55 YO MALE TRANSFER FROM SOUTH JERSEY CAPITAL HEALTH FOR
+CATHETERIZATION. 1/31 PT PRESENTED W/ LEFT SIDED WEAKNESS FROM
+PCP'S OFFICE AND WAS FOUND TO HAVE ACUTE RIGHT OCCIPITAL CVA W/
+INCREASED CTN.
+PMHX: HTN, HLD, DM2, CAD S/P STENT, LAD (2007 90%), OBESE
+Medications:	HYPOKALEMIA, INSULIN, K-DUR, ASA, ATORVASTATIN, CLOPIDOGREL,
+HEPARIN, LISINOPRIL
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+There is a posterior dominant rhythm of 25-40uV, and frequency that at best reaches 7.5 Hz
+Background activity was characterized by diffuse low voltage delta and theta activity with absence
+of the expected anterior to posterior gradient of frequencies.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  As drowsiness progresses, symmetric vertex waves appear.
+Continuous polymorphic delta activity is present in the T4 region during wakefulness, increasing
+during drowsiness.  No epileptiform discharges are present.  No clinical or electrographic seizures
+Hyperventilation and photic stimulation were not performed.  HR was 84
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous diffuse
+Focal slowing, polymorphic, continuous, right temporal, mid
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+right midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is
+consistent with the known stroke. In addition there is  diffuse background slowing.  These findings
+are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+

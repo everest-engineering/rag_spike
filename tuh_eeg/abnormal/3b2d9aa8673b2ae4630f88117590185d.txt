@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   32 year old right handed woman with epilepsy, currently seven months pregnant with nocturnal seizures.  Now with a one-month history of blackout spells.  She tells the tech that she is amnestic for what she does during the blackout spells.
+MEDICATIONS:  Lamictal, Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz, 30 microvolt posterior dominant rhythm with a small amount of focal, frontocentral beta.  Drowsiness is characterized by slowing of the alpha rhythm followed by an increase in beta and then vertex waves.  Vertex waves, K complexes and spindles are observed in stage II sleep.
+The patient is asleep during photic stimulation; in fact, she is in stage II sleep.  In the sleep state, there are a handful of vertex waves which phase reverts to the right of the midline.  Others are symmetric at the midline. There is a single vertex wave which phase reverses to the left of the midline.
+HR:    90 bpm.
+IMPRESSION:  Very mildly abnormal EEG due to:
+Vertex waves which phase reverse to the right of the midline.
+CLINICAL CORRELATION:  This is a nonspecific finding.  It is not definitively epileptogenic or epileptiform.  In addition, the minor asymmetry described above can be artifactual.
+
+
+

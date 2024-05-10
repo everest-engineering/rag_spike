@@ -1,0 +1,11 @@
+MEDICATIONS: Keppra, At1van, Aricept and others
+HISTORY: An 84-year-old male admitted with acute renal failure and glucose of 600, noted to have repetitive motor activity involving the right arm and face
+INTRODUCTION: Digital video EEG IS performed at the bedside using standard 10/20 system of electrode placement with one-channel EKG. The EEG begins with the patient somnolent following Ativan.
+DESCRIPTION OF RECORD: As the tracing begins, the patient appears quite ill. His overall background is very low voltage and featureless. Intermittently, he has elevation and jerking of his right arm. He is examined and does not withdraw to noxious stimulation. The initial seizures are characterized by artifact with repetitive alpha and beta muscle artifact noted on the right. As the EEG continues, however, including at 16:14:20, as the seizure ends, there is a clear pattern of rhythmic 5 to 7 Hz activity on the left, which follows the motor activity on the right. The motor activity typically lasts approximately 30 seconds It obscures the EEG, but it slows with a characteristic Ictal pattern and, interestingly, although the start of the seizure is abrupt and does not particularly demonstrate a clear scalp EEG pattern, the end of the seizure has characteristic frequency evolution With the sharp waves defined on the left as the muscle artifact wanes With each seizure, he is looking to the right, jerks the right arm and is poorly responsive In the end of the seizure at 16:22.41, the slow ictal jerking on the right is clearly associated with sharp waves in the left hemisphere, which include left frontocentral and central temporal.
+Two mg of Ativan are given at 16:29.
+Heart rate 60 BPM
+IMPRESSION: Abnormal EEG due to a focal status epilepticus.
+CLINICAL CORRELATION: This is an unresponsive patient with focal epileptiform activity and a severely suppressed pattern. This would be considered at least a form of complex partial status epilepticus, although the medical problems may contribute to the marked background slowing. Based on this EEG, long-term video EEG monitoring was requested.
+
+
+

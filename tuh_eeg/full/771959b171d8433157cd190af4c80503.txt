@@ -1,0 +1,25 @@
+History:	84 YR OLD  FEMALE WITH  PRIOR EEG PRESENTS WITH CHANGE IN MENTAL
+STATUS AND SUDDEN ONSET OF RT SIDED WEAKNESS.  PMHX HTN, RENAL
+FAILURE . CT NEG
+Medications:	HEPARIN, HYDRALAZINE, LABETALOL, CALCITRIOL
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse theta
+activity with absence of the expected anterior to posterior gradient of frequencies.  No normal sleep
+architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 60
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate
+Focal slowing, polymorphic, continuous, left frontotemporal
+Interpretation:
+This is an ABNORMAL EEG because of continuous left frontotemporal focal slowing, which has a
+high correlation with a structural lesion in that region. In addition there is  diffuse background
+slowing and absent alpha rhythm.  These findings are etiologically nonspecific indicators of
+moderate diffuse cerebral dysfunction.  No clear seizures were seen.
+

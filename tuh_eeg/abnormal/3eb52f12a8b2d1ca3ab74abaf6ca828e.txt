@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 73-year-old with atrial fibrillation, intermittent unsteadiness and left sided weakness, evaluate for TIA or seizure.  Carbon monoxide poisoning.
+MEDICATIONS:
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.  This was essentially a sleep EEG.
+DESCRIPTION OF THE RECORD:  In very brief wakefulness there is a brief, 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Most of the record captures stage 1 or stage 2 sleep with single activity.  Generous beta is noted in drowsiness.  Photic stimulation functions to awaken the patient briefly and a driving response was identified.  Heart rate 60 b.p.m., irregular.
+IMPRESSION:  This is a normal primarily asleep EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow-up study may be of value.
+
+
+

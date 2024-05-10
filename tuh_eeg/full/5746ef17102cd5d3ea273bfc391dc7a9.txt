@@ -1,0 +1,27 @@
+History:	67 year old man with a recent syncopal event.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by low amplitude 9-9.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  AP gradient is weak.  Excess diffuse admixed 50-75 uV, 5-7Hz
+activity is present throughout the recording and increases during drowsiness.  During brief
+drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  A regular heart rate is noted on a single
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is a mildly abnormal awake and drowsy 22-minute EEG due to mild diffuse slowing and
+disorganization. These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  No epileptiform discharges are present, but stage 2 sleep was not recorded.  If
+clinically indicated, repeat EEG with sleep recording may provide additional information.
+
+
+
+

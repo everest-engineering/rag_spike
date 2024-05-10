@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 74-year-old woman with epilepsy, onset 4 years ago with frontally predominant spike and wave activity.
+MEDICATIONS:  Norvasc, Depakote, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging EEG with significant head rocking artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm.  There is occasional, shifting arrhythmic delta activity noted.  Head rocking artifact is noted as are some other artifacts observed.
+Occasional, frontally predominantly spike and wave complexes are noted in relaxed wakefulness.  These occur with bursts of frontally predominant rhythmic delta.
+As the patient becomes drowsy, the bursts of frontally predominant spike and wave activity are a bit more prominent, typically in bursts of 3-5 Hz activity lasting up to approximately 1 second.
+Photic stimulation elicits a driving response and subtly activates the spike and wave activity.  Spike and wave activity is noted in between the 19 and 21 Hz stimulation.
+Hyperventilation was deferred given the patient's pulmonary disease.
+Heart rate:  54 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Frontally predominant 3 to 5 Hz spike and wave activity.
+Shifting slowing with arrhythmic delta activity noted from the left and right hemisphere.
+Mild background slowing and disorganization.
+CLINICAL CORRELATION:  This EEG is similar to a previous EEG performed in 2009.  Generalized spike and wave activity suggests an inherited trait for epilepsy.  The bilateral features with shifting slowing and some focal slowing in this individual with dementia may represent an adult, acquired pathology.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 33-year-old woman with Lennox-Gastaut Syndrome, recurrent seizures, as many as 16 seizures today.  Cerebral palsy, mental retardation.
+MEDICATIONS:  Not recorded at the start of the test, phenobarbital, others.
+INTRODUCTION:  One hour digital video EEG was performed using standard 10-20 system of electrode placement with 1-channel of EKG.  This is a somewhat challenging, portable record and the patient has had difficulty cooperating.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and lacks the typical developmental milestones that one would expect for an adult of this age.  The overall pattern is chaotic.  There are bursts of frontally predominant high amplitude delta noted.  Some of this activity is notched.  In addition, there are occasional frontal sharp waves, seen at the midline, occasionally maximum somewhat to the right.  Paroxysmal higher amplitude rhythmic theta activity was noted, but without a definitive spike and wave complex.  In addition, there is more posteriorly predominant, 5-7 Hz activity noted in the background, which is paroxysmal, more resembling in the interictal discharge in a normal pattern.
+The patient has some with twitching and some grimacing.  It is difficult to attribute these to the multiple epileptiform discharges noted above.
+As the patient begins to drift off to sleep at the end of the EEG, the overall background is little bit more monomorphic, lacking some of the epileptiform discharges described above.  Following this, there is some more remarkable left more than right theta, but overall this is a bihemispheric pattern.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal 1-hour EEG due to:
+Markedly abnormal background.
+Multiple epileptiform abnormalities some of which are subtle and includes slow spike and wave activity, paroxysmal frontal delta, isolated frontal sharp waves, and likely the rhythmic theta described above.
+CLINICAL CORRELATION:  This pattern is known common in the context of a Lennox-Gastaut syndrome.  It is difficult to attribute this patient's behaviors to the specific EEG findings described above.  The grimacing and twitching does not appear to be a seizure, but that behavior was not described as 1 of her 16 seizures today.
+
+
+

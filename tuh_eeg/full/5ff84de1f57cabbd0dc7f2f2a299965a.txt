@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  65 year old male who had a sudden cold numb sensation on the left.  This lasted for a week.  Hepatitis C with liver failure and cirrhosis.
+MEDICATIONS:  Spironolactone, Lasix, Rifaximin, Folic Acid
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation is completed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm with a small amount of low voltage frontal central beta and a small amount of background theta.  Central mu rhythm of 9.7 Hz is identified, but testing is not performed to confirm this. Relaxed wakefulness and transition to drowsiness is remarkable for an increase in rhythmic theta. Photic stimulation elicits scant driving.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and drowsiness due to:
+Mild increase in background theta.
+CLINICAL CORRELATION:  No epileptiform features were observed.  The background theta is a nonspecific finding which could be related to this patient's liver disease.  There were no triphasic waves and no focal and no epileptiform features.
+
+
+

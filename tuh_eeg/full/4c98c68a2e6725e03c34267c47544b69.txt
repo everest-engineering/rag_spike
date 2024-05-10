@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 61-year-old male with posttraumatic syndrome, cerebral artery occlusion with right hemiparesis and epilepsy.  One seizure 4 months ago.  Two year history of epilepsy after traumatic brain injury.
+MEDICATIONS:  HYDRODIURIL, LOPRESSOR, KEPPRA, NEURONTIN, OXYCODONE, EFFEXOR, OTHERS
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable EEG with most impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  Background EEG is abnormal.  The overall pattern is somewhat slow and disorganized from both hemispheres.  There is a 7-9 Hz posterior dominant rhythm.  In addition, there is an asymmetry between the 2 hemispheres.  The left hemisphere demonstrates more significant disruption of faster frequency activity and the alpha rhythm is slower on the left.  Hyperventilation was performed early in the record.  This produces an increase in theta and delta, more so on the left than the right.  As the patient becomes drowsy, there are bursts of shifting and slowing as well as bursts of rhythmic, frontal delta.  Sharply contoured delta, which demonstrates a broad phase reversal, maximum at T3 was noted as the patient became drowsy.  Arrhythmic delta activity with sharp waves are noted early on in the drowsy pattern when the alpha still present on the right.
+Photic stimulation did not significantly activate the record.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Bilateral background slowing and disorganization.
+Superimposed focal features in the left hemisphere with disruption of faster frequency.
+Sharply contoured slowing or C3-T3 focal delta noted early in drowsiness.
+CLINICAL CORRELATION: This EEG supports a bihemispheric process as well as a structural or functional process on the left, which impacts gray and white matter.  There is some sharply contoured slowing and sharp waves noted in the left central temporal region, congruent with the clinical history.
+
+
+

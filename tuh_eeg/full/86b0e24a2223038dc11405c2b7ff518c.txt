@@ -1,0 +1,25 @@
+CLINICAL HISTORY: 29 year old right handed woman with epilepsy, rare early
+morning or nocturnal tonic clonic seizures typically in the context of sleep deprivation.
+MEDICATIONS: Tegretol.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG
+demonstrates a well developed symmetric reactive 9 hertz alpha rhythm reaching 80
+microvolts. Occasional, frontally predominant bursts of high amplitude, 3-5 hertz spike
+and slow wave activity are identified in wakefulness. They are accentuated in early
+drowsiness and by hyperventilation. Bursts are typically frontally predominant and
+symmetrical although there are a handful that demonstrate shifting symmetry and rare
+bursts that are occipitally predominant. Photic stimulation elicits driving, but does not
+seem to accentuate the spike in wave activity.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Frontally predominant 3-5 hertz spike in wave activity.
+2. Occasional spike in wave discharge which may be a little bit more asymmetric or
+posteriorly predominant
+CLINICAL CORRELATION: These findings have been identified in this patient's
+previous EEGs. They are most supportive of a primary generalized mechanism for
+epilepsy, but could be seen in a secondary generalized mechanism.
+
+
+

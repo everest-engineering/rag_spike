@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  43 year old male who presented with a 5 minute seizure and past history of epilepsy.  The patient is intubated.
+MEDICATIONS:  Ativan, Vancomycin, Antibiotics, Claritin, Oxybutynin, Propoxyphene, Reglan, Baclofen.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and has an intermittently discontinuous pattern.  It has bursts of suppression lasting 4-5 seconds and then bursts of theta frequency activity.  There is a burst of mixed alpha and theta frequency with much of the record approximately 4-5 Hz, but there is some 9 Hz.  The bursts of activity can last about 9 seconds in duration.  On the video the patient sits with cortical posturing of the hands.  There is eye movement.  In these bursts, there sometimes seems to be higher amplitude, more generalized discharge, but not really a focal discharge.  The patient is noted to have chewing movements which can occur when the EEG is relatively suppressed. Stimulation of the patient also seems to result in a brief electrodecremental response. The initial sections of the record are a bit more continuous and the suppressions are not seen until about 2 minutes into the EEG.
+HR:    120 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+A discontinuous pattern.
+CLINICAL CORRELATION:  Given the clinical features described above with eye movements and posturing, in consideration for a more chronic, diffuse disturbance is appropriate.
+
+
+

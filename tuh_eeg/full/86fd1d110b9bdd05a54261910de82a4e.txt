@@ -1,0 +1,30 @@
+History:	77 YR OLD MALE PMHX  DM, HTN, PARAPLEGIA, RIGHT MCA INFARCT 1/2015,
+COGNITIVE DEFECTS. TAKEN TO ED FOR HEMORRHAGE ON CT SCAN. 55 CM
+HEAD
+Medications:	LOVENOX, DEPAKOTE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Asymmetric  5-15uV, 18-25Hz activity is present, maximal over left
+frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous polymorphic theta activity is present in the right hemisphere maximal in the central and
+temporal regions during wakefulness, increasing during drowsiness.  There is an asymmetry of beta
+activity with loss of faster frequencies on the right.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Hr was 72
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, right hemispheric, maximal centro temporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+right hemisphere maximal in the centro-temporal with additional loss of faster frequencies.  This
+finding is indicative of a focal structural lesion in this region involving cortex.
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+TYPE OF STUDY:  Routine EEG, wakefulness and sleep.
+
+DIAGNOSIS:
+Rule out seizures.
+
+CLINICAL HISTORY:  This is a 55-year-old left-handed man who presents with a questionable history of seizures during sleep.  He states in March 2011, he had 1 episode of seizures with loss of consciousness and shaking.  He felt it might be due to high blood sugars at that time.
+
+MEDICATIONS:  He is not taking any seizure medications.
+
+INTRODUCTION:  A digital EEG was performed in the lab  using the standard international 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness through stage I sleep.
+
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 10 Hz in frequency and 30 to 40 microvolt in amplitude seen the occipital region which attenuates with eye opening.  There is an excessive amount of low amplitude diffuse beta activity which is distributed symmetrically.  Stage I sleep is characterized by disappearance of the alpha rhythm,   slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves.  There are occasional bursts of left anterior and mid temporal slowing at F7/T3 during wakefulness and drowsiness consisting of 2 Hz activity and 50 microvolt in amplitude lasting 1 second.  Hyperventilation results in mild slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate is 50 to 60 beats per minute and regular.
+
+IMPRESSION:  This is a mildly abnormal EEG due to occasional left temporal slowing during sleep and wakefulness.  There is no epileptiform activity noted during this recording.
+
+CLINICAL CORRELATION:  The above findings are suggestive of a structural abnormality in the left hemisphere or left temporal dysfunction.  Clinical correlation is recommended.
+
+
+

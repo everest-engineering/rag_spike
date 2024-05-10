@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 46-year-old woman with history of gastric bypass, hypertension, prior stroke, anxiety, and migraine.  Patient had an episode 1 month ago when she found herself in the shower.
+MEDICATIONS:  Fioricet, aspirin, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was a routine 20-minute EEG with hyperventilation and photic stimulation.  It is a technically acceptable EEG with impedances under 5 kilohms with the exception of the T1-2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes an 11 Hz alpha rhythm.  There is generous beta.  The patient is quite drowsy, transitioning from wakefulness to stage II sleep readily with vertex waves, K complexes, spindles, and POSTs.
+Hyperventilation produces an increase in amplitude of the background and a small amount of theta.  Photic stimulation was performed while the patient was falling asleep but successfully elicited a vigorous driving response with harmonic and supraharmonic driving.
+Heart rate 60 bpm.
+IMPRESSION:  Normal routine EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No pathological features were seen.  The generous beta described above can be due to medication effect or anxiety.
+
+
+

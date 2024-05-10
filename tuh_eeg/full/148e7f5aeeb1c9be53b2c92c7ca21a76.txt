@@ -1,0 +1,32 @@
+History:	23 YR OLD MALE PRESENTS WITH H/O REPORTED EVENTS OF
+UNRESPONSIVENESS AND SZ ( ONSET 4/12)  FOUND TO BE ANEMIC, FEBRILE.
+POSTICTAL/LETHARGY THAT LAST SEVERAL DAYS.
+Medications:	Keppra, Vancomycin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, lethargic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Intermittent polymorphic delta activity is present in the right frontocentral and temporal region.  No
+epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  The patient was able to follow some
+commands during recording.  HR was 35-40 BPM.
+Summary of Findings:
+Artifact, other
+Diffuse slowing, polymorphic diffuse
+Focal slowing, polymorphic, intermittent, right central
+Artifact, EMG, Bradycardia
+Attenuation, continuous diffuse, diffuse scalp swelling
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and attenuation and absent
+alpha rhythm.  These findings are etiologically nonspecific indicators of diffuse cerebral
+dysfunction.  Diffuse attenuation could be due to generalized cortical dysfunction or fluid collection
+in the extra axial or subclavian space.  intermittent focal slowing in the right frontocentral region.
+This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but
+possibly structural in origin.  Clinical correlation is recommended. Please note that the patient is
+bradycardic.  EEG is limited because of abundant EMG and ICU artifact.  If clinically indicated,
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This 53-year-old male with epilepsy, which developed 20 years ago, was seizure free, and then seizures recurred 2 years ago.  Events occur with arms flexing upwards lasting 30 seconds.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a routine, 20
+minute EEG with hyperventilation and photic stimulation.  It is technically satisfactory aside from T1-T2 impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG includes a low-voltage, 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  There is also some muscle artifact noted in the background.  Brief drowsiness is characterized by slow rolling eye movements, but deeper stages of sleep were not sustained.
+Hyperventilation did not significantly activate the record.  Photic stimulation did elicit a driving response.
+Heart rate is 72 beats per minute.
+IMPRESSION:  This is a normal EEG in wakefulness and with minimal drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A low-voltage record is not a pathological finding.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep is suggested.
+__________________________
+
+
+

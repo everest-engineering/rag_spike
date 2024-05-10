@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 25-year-old woman with a history of epilepsy.  First ever seizure 04/27 with loss of consciousness, twisting and post ictal confusion.
+MEDICATIONS:  Klonopin, previously treated with tramadol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+TECHNICAL:  The patient appears to be somewhat tense.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is an 11 Hz alpha rhythm.  During much of the EEG, there is a little bit more relaxed wakefulness with slowing of the alpha rhythm to 8.5 Hz.  Drowsiness was characterized by an increase in beta.  Other features of drowsiness include rhythmic mid temporal theta of drowsiness with vertex waves noted in stage I sleep.
+During hyperventilation and in relaxed wakefulness, there are 2 simple sharp waves.  During hyperventilation the simple sharp waves are more clearly defined after going slow wave.
+Photic stimulation was remarkable for prominent beta and prominent, supraharmonic driving.
+Additionally, hyperventilation was remarkable for a fair amount of muscle artifact.
+Heart rate 66 bpm.
+IMPRESSION:  This EEG is within limits of normal.
+CLINICAL CORRELATION:  This EEG demonstrated multiple, normal variants, some of which have the morphology of benign epileptiform discharges.  There is a single left mid to posterior temporal sharp wave.  In that there is only one discharge, this must be considered artifactual.  The generous beta described above may be due to this patient's medications.
+If an underlying seizure disorder is an important consideration, a followup study with more prolonged sleep is suggested.
+
+
+

@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 23-year-old left handed woman with a history of seizures and history of meconium aspiration.  Had last seizure 2 months ago.
+MEDICATIONS:  Trileptal, Keppra.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes.   Patient was recorded while awake.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  The EEG has multiple electrode movement artifact and electromyographic artifact.  Despite the technician trying to calm down the patient, the patient remained agitated throughout the recording which causes a very poor recording.
+DESCRIPTION OF THE RECORD:  The record opens.  Background data appears to be diffusely slow; however, this is obscured by marked movement artifact.  No clear statements can be made about the background and organization, although no overt seizures can be seen.  The patient is recorded during wakefulness.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Mild diffuse slowing seen in the recording.
+HEART RATE:  102.
+IMPRESSION:  Poor recording quality with possible diffuse slowing.
+CLINICAL CORRELATION:  This poor quality recording reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No clear seizures were seen.  No clear definitive statements can be made about brain function in this patient due to the poor quality of the recording.  If repeat EEG is obtained, please attempt medication previous to recording to calm down the patient.
+
+
+

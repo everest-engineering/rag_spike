@@ -1,0 +1,30 @@
+History:	40 year old woman with a history of seizures.  She had a single seizure today.
+Medications:	gabapentin
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+During very brief awakening , the waking background is characterized by a 25-40uV, 8-9Hz alpha
+rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontal regions.  Abundant sleep spindles are captured, even during
+wakefulness.  Patient is asleep throughout most of the appointment, and POSTS, vertex waves and
+sleep spindles are captured.
+No focal slowing is present.  A single right frontocentral sharp transient is captured during sleep.  It
+has maximal scalp negativity over F4/C4.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Sleep, stage 2, abundant
+Sharp transients, one, occurs during sleep;maximal scalp negativity over F4/C4
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an abnormal mostly asleep and briefly awake portable 21-minute EEG due to mild diffuse
+slowing. This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  In this patient mild diffuse slowing could be attributed to excessive drowsiness.  The
+single sharply contoured waveform in the right frontocentral region is of unclear clinical
+significance.  Given the fact that it occurred during sleep, it could represent a displaced vertex
+
+
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 59 year old right handed female with an episode of blurry vision,
+numbness of the face and feet with jerking of the left arm. Multiple sclerosis, asthma, and possible complex partial seizures.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation are performed. There is a fair amount of muscle artifact, more the left than the right.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low attenuating amplitude with a 10.7 Hz alpha rhythm. This may be subtly disrupted on the left but unfortunately there is also a bit more muscle artifact there. As the patient transitions toward drowsiness, there is occasional rhythmic or arrhythmic mixed theta/delta noted on the left. Photic stimulation elicits a bilateral driving response, but that driving response is better developed on the right compared to the left.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Subtle disruption of the alpha rhythm on the left, seen as intermittent finding.
+2. Occasional mixed theta or delta noted from the left hemisphere particularly in drowsiness.
+CLINICAL CORRELATION: These are subtle features and may be correlated with this patient's imaging and clinical history. No epileptiform features were noted.
+
+
+
+

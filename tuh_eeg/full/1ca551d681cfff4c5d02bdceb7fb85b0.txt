@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 19 year old right handed male with bilateral, congenital hydronephrosis, multiple UTIs, chronic constipation, admitted with lethargy and sepsis.
+MEDICATIONS:  Ceftriaxone, Famotidine, Miralax, Albuterol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is awake and answers simple questions appropriately.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  There is a very high amplitude, disorganized pattern with bursts of paroxysmal delta.  There are sections of the record that are more of a theta delta pattern and other sections which are a little bit lower voltage alpha theta.  The patient is able to answer questions and when he is responsive, sometimes it is the lower voltage more organized pattern, at other times it is more of a theta pattern or even the bursts of delta.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Paucity of the normal wave forms seen in an adult in wakefulness.
+FIRDA.
+CLINICAL CORRELATION:  The features described above are nonspecific, but they are most likely to be seen in the context of a toxic or metabolic encephalopathy.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 77 year old woman with an episode of facial twitching.
+MEDICATIONS: Aspirin, Lasix, Nifedipine,Lovenox, Metoprolol, Levothyroxine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1channel of EKG. Photic simulation is performed.
+DESCRIPTION OF THE RECORD: The background EEG includes generous beta, a glimpse of a 9 Hz alpha rhythm and occasional theta. Muscle twitch artifact is observed.
+HR: 84 bpm and slightly irregular
+IMPRESSION: Abnormal EEG for an adult of this age due to:
+1. Excess theta.
+2. Mild excess theta.
+CLINICAL CORRELATION: No epileptiform features were seen. The findings described above may be correlated clinically.
+
+
+

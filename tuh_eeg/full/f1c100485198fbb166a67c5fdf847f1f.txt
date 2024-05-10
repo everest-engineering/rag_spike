@@ -1,0 +1,34 @@
+History:	22 year old woman status post acute traumatic brain injury.
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, obtunded
+Description:
+The posterior dominant rhythm is weak and unstable and consists of polymorphic 9-10 Hz alpha
+activity with poor AP gradient.  Additional diffuse polymorphic theta activity is present.  Patient
+remains awake throughout the recording.
+Continuous monomorphic moderate delta activity is present over the bilateral posterior temporal
+regions and left anterior temporal region and frequent polymorphic delta activity is present over
+right parietocentral region.  No electrographic seizures are captured.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate close to ~120 bpm.  There is frequent movement and EMG artifact.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, left temporal, anterior, moderate-to-severe
+Focal slowing, polymorphic, intermittent, right, moderate, right parieto-central
+Focal slowing, polymorphic, continuous, bilateral temporal, posterior, moderate-to-severe
+Interpretation:
+This is an ABNORMAL awake-only portable 27 minute EEG due to (1) mild diffuse slowing and
+disorganization; (2) continuous bilateral moderate-to-severe posterior temporal focal slowing; (3)
+continuous moderate-to-severe left anterior temporal focal slowing and (4) intermittent moderate
+right parietocentral focal slowing.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction,
+which is etiologically nonspecific.  Multifocal focal slowing indicates multiple focal structural
+abnormalities.  No clinical or electrographic seizures are present.  Frequent movement and EMG
+artifact limit interpretation of the recording.
+
+
+
+
+
+

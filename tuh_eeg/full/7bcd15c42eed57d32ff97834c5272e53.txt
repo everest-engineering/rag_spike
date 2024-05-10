@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  22 year old right handed female with primary generalized epilepsy and increasing staring spells when new medications were added.  Also sleep-onset myoclonus and myoclonus throughout the day.  Past history of tonic-clonic seizure in 2010.
+MEDICATIONS:  Lamictal.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-organized pattern with an 11-Hz alpha rhythm reaching 80 microvolts.  As the patient becomes drowsy, rhythmic theta is noted.  Central MU is identified at 8 to 9 Hz, but testing is not performed to confirm this.   Hyperventilation does not significantly activate the record but afterward the patient reported that she had twitching in her back.  No spike and wave activity was noted around the time of the twitching symptoms.  Photic stimulation elicited brief bilateral driving.
+HR:     72 bpm
+IMPRESSION:  Normal awake and briefly drowsy EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  There were no previous EEGs available for comparison.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

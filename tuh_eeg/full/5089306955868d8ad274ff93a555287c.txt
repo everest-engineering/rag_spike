@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 54 year old right handed male with epilepsy, admitted with multiple grand-mal seizures lasting 20 minutes.
+MEDICATIONS: Topamax.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background includes symmetric, reactive, 10 Hz alpha rhythm with a small amount of low voltage frontal central beta activity. The patient transitions in and out of stage-1 sleep with vertex waves and posts. There is unfortunately some head rocking artifact. Hyperventilation produces an increase in background sign. Photic stimulation elicits scant driving. There are rare, discrete sharp waves noted in this record. They are in the left, mid-to-posterior temporal region. Some of them have the morphology of benign epileptiform transients of sleep, but one of them has a more posterior temporal localization.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Discrete left temporal sharp waves.
+CLINICAL CORRELATION: These findings may be correlated with history and imaging, but support a localization related mechanism for this individual with recent onset of complex partial epilepsy.
+
+
+

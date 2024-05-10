@@ -1,0 +1,18 @@
+
+CLINICAL HISTORY: 69 years man with 3 episodes of tonic clonic seizures.
+
+MEDICATIONS:  Ativan , Keppra, Zocor, and others.
+
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+
+DESCRIPTION OF THE RECORD:  There is no clear posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of very low amplitude diffuse beta activity admixed with nearly continuous diffuse frontally predominant EMG artifact.  During very brief sleep (lasting approximately 25 seconds), the background appears symmetrical with several bursts of sleep-like spindles observed.  Hyperventilation is not performed.  Stepped photic stimulation results in no change in the background.
+
+FINDINGS:
+1. No clear posterior dominant rhythm.
+2. Low voltages.
+3. Excess beta.
+4. Frequent EMG artifact that obscures large portions of the recording.
+
+IMPRESSION:  This is an awake and very briefly asleep 25-minute EEG that contains very frequent EMG artifact that obscures large portions of the recording.  As a result of this, epileptiform discharges and ictal activity might have been mixed.  If clinically indicated, a repeat study may be of benefit.  Diffuse beta could be secondary to medications such as benzodiazepines or barbiturates.
+
+

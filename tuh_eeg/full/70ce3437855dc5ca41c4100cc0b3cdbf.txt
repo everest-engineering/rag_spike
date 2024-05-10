@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  81 year old male admitted on the 17th with acute right cortical MCA stroke and an episode with shaking on July 15, seizure secondary to stroke.
+MEDICATIONS:  Aspirin, Lovenox. Pantoprazole, Oxybutynin, Norvasc
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a mixed frequency pattern, rich in delta and smaller amounts of theta.  Stimulation of the patient produces some faster frequency activity.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  This is more of a pattern of a diffuse disturbance of cerebral function which could be due to a postictal state, toxic or metabolic, or other diffuse disturbance.
+
+
+

@@ -1,0 +1,18 @@
+History:	45 yr old female undergoing cerebral angiogram and right aneurysm coiling.
+Medications:	Induction Meds: Midazolam, Fentanyl, Fentanyl, Propofol, Desoflurane, Vecuronium
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Patient is awake early in the recording.  PDR is 11 Hz and normal AP gradient is present.  Once
+anesthesia is administered, patient falls asleep with normal sleep architecture observed.  As the
+recording progresses, there is general attenuation of the background with some periods of
+discontinuity.  It corresponds with increase in anesthetic doses.  There is no change in
+interhemispheric symmetry throughout the recording.
+Summary of Findings:
+Other, unremarkable coiling
+Interpretation:
+This is an unremarkable ~90 minute EEG performed during angiogram and right ICA aneurysm
+
+

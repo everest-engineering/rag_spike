@@ -1,0 +1,40 @@
+AGE: 20 y.o.
+SEX: female
+DATE OF STUDY: 12/07/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1776
+HISTORY:
+20 y.o. female with a history of a single seizure as a child, and another grand mal seizure 7/13/2015 while pregnant referred for routine EEG. She has a positive family history of seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+ferrous sulfate 325 mg (65 mg iron) tablet, Take 1 tablet by mouth daily.
+PNV w-o Ca No10-FeFm&PSC-FA- 0 30-1-310.1 mg Capsule, Take 1 tablet by mouth daily. Indications: PREGNANCY
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with intermittent excess of theta frequencies, at times more prominently seen over the left hemisphere. There is a symmetric and reactive 9.5 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by slowing. of the background, with increased delta slowing seen over the left hemisphere. There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+There is mild generalized slowing.
+There is frequent left hemispheric polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG due to the presence of:
+Mild generalized slowing
+Frequent left hemispheric polymorphic slowing
+CLINICAL CORRELATION:
+These findings are nonspecific etiologic indicators of left hemispheric dysfunction superimposed on mild diffuse cerebral dysfunction.
+
+
+

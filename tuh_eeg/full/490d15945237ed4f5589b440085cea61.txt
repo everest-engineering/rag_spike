@@ -1,0 +1,31 @@
+History:	64 year old man with a recent SAH, now with worsening mental status.
+Medications:	no AEDs listed
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~19 hours from 11/3/2015 till 11/4/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  With stimulation, the background consists of attenuated
+polymorphic delta activity and large amount of EMG artifact.  During periods of quiescence, the
+degree of diffuse theta activity increases.  During periods of sleep, the background consists of
+diffuse attenuated slow delta activity and periods of discontinuity.  Periods of sleep are fragmented
+No electrographic seizures are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous video ~19-hour EEG due to moderate diffuse slowing. These
+findings are indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+Overall quantity of sleep captured during the recording epoch is small - lack of sleep may
+contribute to worsening mental status.
+
+
+
+

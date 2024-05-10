@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 75-year-old male who had a long hospitalization for cellulitis of the neck, sepsis, critical illness, subsequent right MCA infarcts with bilateral ischemic changes noted on MRI and persistent obtundation.
+MEDICATIONS:  Heparin, vancomycin, many others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated, occasional eye movements, not interactive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  From the right hemisphere, it is markedly slow and featureless with scant delta and theta noted in the frontal regions.  A similar pattern is noted on the left, but there is a bit more cerebral activity with a bit more theta on the left compared to the right.  Intermittent, bilateral attenuations were noted.  Frontal eye movement artifact was noted.  Occasional bilateral frontal delta was also observed.
+Heart rate 84 BP.
+IMPRESSION:  This is an abnormal EEG due to:.
+Marked background slowing.
+Superimposed focal slowing from the right hemisphere.
+Absence of clear reactivity or variability.
+CLINICAL CORRELATION:  This EEG supports a severe underlying disturbance of cerebral function.  The EEG is significantly slower on the right than the left, congruent with the large stroke but both hemispheres are markedly slow and there is intermittent bilateral attenuation supportive of a bihemispheric process.  No epileptiform features were seen.  These findings are associated with a worrisome prognosis.
+
+
+

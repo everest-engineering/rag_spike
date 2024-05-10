@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is an 83-year-old man with inability to move the right arm and then uncontrolled twitching of the body as well as impaired responsiveness.
+MEDICATIONS:  Versed, Zofran, Keppra, tramadol, Flomax, insulin, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically satisfactory, bedside portable record with most impedances under 5 kilohms.  The patient was somnolent throughout the record, snoring.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow record in a patient who never achieves maximal wakefulness.  There is a 5-6 hertz theta frequency activity noted in the occipital regions, left greater than right.  The pattern from the left hemisphere is slightly higher amplitude on the left compared to the right.  As the patient drifts off into deeper stages of sleep, there are shifting slowing with a bit more slow delta noted in the right posterior quadrant than the left.
+Heart rate irregular 76 bpm.
+IMPRESSION:  This is an abnormal EEG for a drowsy/somnolent patient due to:
+Generalized background slowing.
+Shifting slowing with questionable greater slowing in the right posterior quadrant than the left.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function affecting both hemispheres.  Postictal pattern, toxic metabolic encephalopathy or medication effect can all contribute to this pattern.  There are subtle focal features, but no epileptiform features noted.  If seizures are an important consideration, additional recording may be a value.
+
+
+

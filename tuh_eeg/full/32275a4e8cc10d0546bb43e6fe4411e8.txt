@@ -1,0 +1,38 @@
+AGE: 39 y.o.
+SEX: male
+DATE OF STUDY: 10/06/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and drowsy EEG #: 15-1469
+HISTORY:
+a 39 y.o. male with a history of head trauma at age 2 and seizures beginning at age 5 (tonic clonic seizures with tongue biting, bladder incontinence, postictal confusion) . He is reportedly seizure-free for 15 years.	On 9/6/15 he had an episode of R sided numbness, headache, and blurry vision.
+MEDICATIONS:
+No current outpatient prescriptions on file.
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE :
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND :
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically
+with eye opening.
+During a brief period of drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal Awake and drowsy	routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal Awake and drowsy routine EEG. No sleep is captured.
+A normal routine EEG does not support or refute the diagnosis of epilepsy
+
+
+
+

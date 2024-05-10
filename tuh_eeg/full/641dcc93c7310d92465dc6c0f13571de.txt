@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 52-year-old male, status post cardiac arrest approximately midnight on the night of Friday on 25th.  Patient coded in the field, and again in the emergency room.  Multisystem injury, now  for hypothermia treatment.
+MEDICATIONS:  Norepinephrine, epinephrine, Versed, fentanyl, heparin, and others.
+INTRODUCTION:  Routine digital video EEG was performed at bedside in ICU at 12:32 in the afternoon.  The patient had already been started on the hypothermia protocol at that time.  Patient was intubated and comatose.
+DESCRIPTION OF THE RECORD:  The baseline EEG was a very challenging study with a low voltage pattern with generous muscle.  The EKG lead was in fact even partly obscured by muscle artifact.  No epileptiform features were noted.  A single burst of rhythmic theta was identified.  Tactile stimulation of the patient did not activate the record.
+Heart rate:  90 bpm.
+IMPRESSION:  Technically very challenging, but abnormal ICU record due to replacement of normal background with a low voltage muscle.
+CLINICAL CORRELATION:  This is a limited study, but additional EEG monitoring will follow in the ICU to assess the cerebral pattern during a hypothermia treatment.  The patient's body temperature was not recorded at the time of the EEG.
+
+
+

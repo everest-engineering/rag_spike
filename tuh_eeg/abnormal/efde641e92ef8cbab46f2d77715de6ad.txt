@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 38 year old right handed female, status post right temporal lobectomy now with anxiety attacks and a seizure 1 month ago.
+MEDICATIONS: Depakote, Trileptal, Metformin, Prozac, Lantus, Synthroid
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background includes 9.7 Hz alpha rhythm. This is better represented on the left compared to the right. MU activity is identified, again better represented on the left than the right. Focal delta is noted in the right temporal region as well as a prominent craniotomy defect with double phase reversing artifact. There is some sharply contoured slowing with a phase reversal at T6. Posts are noted in stage I sleep. Vertex waves, K complexes and spindles are noted in sleep, and in fact the focal slowing and the sharply contoured slowing is much less prominent in sleep. Photic stimulation is performed in individuals in stage II sleep and does not clearly activate the record. Hyperventilation seems
+to accentuate the focal features.
+HR: 78bpm
+IMPRESSION: Abnormal EEG due to:
+1. Continuous focal slowing from the right temporal region with disruption of faster frequency activity.
+2. Disruption of both alpha and MU rhythms on the right.
+3. Sharply contoured slowing.
+CLINICAL CORRELATION: In the context of breach rhythm, epileptiform activity may be difficult to characterize. If there are any additional questions, a follow up study should be considered.
+
+
+

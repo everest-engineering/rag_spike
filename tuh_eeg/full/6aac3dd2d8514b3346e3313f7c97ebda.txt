@@ -1,0 +1,16 @@
+History:	22 YEAR OLD FEMALE R HANDED 4 YEARS AGO SEIZURE FIRST TIME NOW LAST ONE 3 WEEKS AGO.AURA DIZZINESS EYES ROLL TURNS TO RIGHT JAW TWITCHES ARM ON LEFT HELD UP POSTICTAL SLEEPY 5 TO 10 A MONTH. SEIZURE IN OFFICE TODAY AFTER HV . BEFORE HV T1 T2 T3 ROUTINE F
+Medications:	Phenobarbital, Depakote
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. Nearly continuous rhythmic delta activity is present in the left anterior temporal region during wakefulness.  Occasional focal spike-and-wave discharges and sharp waves are present with phase reversal and amplitude maximum at F7/T3 and a large field over both frontal fields.  A single electrographic seizure is seen. It commences with bursts of left anterior temporal sharps and its followed by a rhythmic mid-temporal theta/delta discharge.  The discharge appears to have intermittent superimposed anterior temporal sharps. It lasts about 6min and 40 sec.  Clinically the pt coughs and appears to gag.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Seizure, left temporal, mid, Electrographic.
+Sharp waves, left temporal, anterior
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of a single subclinical electrographic seizure arising from the left midtemporal region. These finding is indicative of an epileptogenic focus in this region. In addition there is independent left anterior temporal sharp waves during the seizure which suggest a secondary foci close to the seizure region.  In addition there is intermittent focal slowing in the left mid-temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+

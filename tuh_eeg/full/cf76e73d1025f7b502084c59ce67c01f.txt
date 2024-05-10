@@ -1,0 +1,28 @@
+History:	49 year old man with a history of seizures since ~14 years old.  Patient also has a
+history of stroke.
+Medications:	Phenobarbital and Depakote
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The background consists of polymorphic moderate amplitude 9-10 Hz alpha activity. The AP
+gradient is weak.  Diffuse excess beta activity is seen.  Patient is drowsy throughout the recording.
+Symmetrical vertex waves are captured but sleep spindles are not observed.
+Occasional generalized moderate-to-high amplitude spikes with aftergoing slow waves are
+captured.  Maximal scalp negativity varies from frontally predominant, to centrally predominant to
+centro-occipitally predominant.  They appear during  drowsiness and frequently resemble vertex
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Spike-and-wave complexes, occasional generalized, variable polarity: anterior, central and
+Interpretation:
+This is an ABNORMAL awake and drowsy 22-minute EEG due to generalized spike and wave
+discharges with variable maximal scalp negativity (frontally predominant, centrally predominant
+and centro-occipitally predominant). In the proper clinical context, the presence of generalized
+spikes suggests the diagnosis of Juvenile Myoclonic Epilepsy/ idiopathic generalized epilepsy.
+
+
+
+
+

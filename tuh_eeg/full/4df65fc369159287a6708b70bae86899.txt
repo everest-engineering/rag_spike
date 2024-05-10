@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  The patient is a 55-year-old woman with past history of cerebral aneurysm, coiled March 2012, and epilepsy.  The patient was admitted to the hospital for an aneurysm evaluation and was unable to move her right side on November 18.  The patient was found to have a chronic right frontal infarct and small chronic  right frontoparietal subdural collection from recent right-sided craniotomy, but no acute stroke.
+
+MEDICATIONS:  Zofran, Percocet, others.
+
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.
+
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat slow bilaterally with a glimpse of 7 Hz alpha rhythm and excess beta.  Focal slowing is noted from the right hemisphere with a breach rhythm, higher amplitude more sharply contoured slowing noted in the right centrotemporal region.  In addition, there are occasional sharp waves with after-going slow waves maximum at C4, T4, but with a generous field of spread into the posterotemporal region.  There is intermittent, arrhythmic delta activity noted on the right with disruption of faster activity on the right.  In addition, there are bursts of rhythmic frontal delta and some generalized irregular delta as the patient becomes drowsy.
+
+Heart rate 72 bpm.
+
+IMPRESSION:  Abnormal EEG due to:
+1. Generalized background slowing.
+2. Focal slowing from the right, particularly in the centrotemporal region.
+3. Sharp wave noted from the right hemisphere, which can be centrotemporal or posterotemporal.
+4. FIRDA [QA MARKER]
+
+CLINICAL CORRELATION:  This EEG supports a bihemispheric process as well as structural or functional abnormality on the right, which is potentially epileptogenic in nature given the high amplitude sharp wave.
+
+
+
+

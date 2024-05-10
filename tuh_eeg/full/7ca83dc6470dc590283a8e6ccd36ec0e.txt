@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  60 year old right handed woman with seizure versus syncope.  Episode duration 2 to 3 minutes with loss of consciousness followed by confusion.  Past history of hypertension and panic attacks.
+MEDICATIONS:  Percocet, Lorazepam, Metoprolol, Lisinopril, Thiamine, Folic Acid, Simvastatin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm of 40 microvolts with a small amount of low voltage frontocentral beta activity.  Drowsiness is characterized by an increase in beta.  Other features of drowsiness include anterior spread of the alpha rhythm.  Photic stimulation elicits no driving response.
+HR:    90 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features are noted.  If epilepsy is an important consideration, a followup study capturing sleep or utilizing sleep deprivation may be of value.
+
+
+

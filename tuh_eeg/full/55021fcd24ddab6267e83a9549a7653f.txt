@@ -1,0 +1,16 @@
+History:	69 year old man admitted with 3 convulsions that occurred in the setting of hypertension and hyperglycemia.
+Medications:	Dilantin Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Mild excess polymorphic theta activity and brief bursts of diffuse frontally predominant delta activity are observed during wakefulness.  During sleep bursts of diffuse delta activity, vertex waves and sleep spindles are noted. At times sleep architecture is more pronounced over the left. Patient rapidly transitions from wakefulness to sleep.
+Subtly lower voltages are noted over the right temporal region. No epileptiform discharges are present. Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild Attenuation , continuous, mild, right temporal Sleep, stage 2
+FIRDA (frontal intermittent rhythmic delta activity), occasional
+Interpretation:
+This is an ABNORMAL awake and asleep portable 21 minute EEG due to mild diffuse slowing, subtle voltage attenuation over the right temporal region and subtle sleep architecture asymmetry with architecture better formed over the left. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but in this case likely related to excess drowsiness.  There is a likely structural cerebral abnormality over the right, either subcortical or as a result of a fluid collection between a skull and a brain (such as a subdural hematoma or empyema) - clinical correlation suggested.   FIRDA could be seen in encephalopathy,  increased ICP or bilateral deep white matter lesions.
+
+
+
+

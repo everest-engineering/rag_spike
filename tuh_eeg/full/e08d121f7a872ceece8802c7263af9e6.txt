@@ -1,0 +1,27 @@
+History:	65 year old woman with a history of DM, had an episode concerning for a seizure.
+Patient reportedly woke up in am and had generalized shaking.  Patient's
+consciousness was not affected.  She has been under significant amount of stress
+Medications:	Xanax, Glyburide, Prilosec
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+The background consists of low amplitude diffuse low amplitude beta activity.  Rare 10 Hz PDR is
+seen.  Patient remains awake throughout the study.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  A single
+EKG lead demonstrates regular heart rate.
+Summary of Findings:
+Beta, excessive
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL awake-only 24-minute EEG. No epileptiform discharges are present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.  Excessive beta activity could be secondary to the medication effect, such
+as benzodiazepines or barbiturates.
+
+
+
+

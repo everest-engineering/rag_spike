@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 60-year-old male with history of alcohol abuse, stroke, seizures, and craniotomy, with persistent unresponsiveness.
+MEDICATIONS:  Ativan, Depakote, midazolam, metformin, Aricept, Percocet, and others.
+INTRODUCTION:  Twenty-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was somnolent.
+DESCRIPTION OF THE RECORD:  The vast majority of this EEG is a sleep record with a low-voltage beta pattern, beta spindles, and some vertex waves.  Tactile stimulation of the patient is associated with an arousal, eye movement, and a glimpse of some alpha frequency activity, but the patient drifts back to sleep.
+Heart rate 96 bpm.
+IMPRESSION:  EEG within normal limits, primarily in sleep.
+CLINICAL CORRELATION:  No significant focal or epileptiform features were identified in this record.  Previous EEGs were not available for comparison.  The beta pattern in stage II sleep pattern may reflect medication effect.  Clinical correlation is advised.
+
+
+

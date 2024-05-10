@@ -1,0 +1,17 @@
+History:	83 year old man with a recent ICH.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technologist:
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of polymorphic low-to-moderate amplitude theta and delta activity.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe No electrographic seizures
+Interpretation:
+This is an ABNORMAL portable EEG due to moderate-to-severe diffuse slowing. This finding is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

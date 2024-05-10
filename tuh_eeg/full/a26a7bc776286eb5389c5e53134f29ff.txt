@@ -1,0 +1,26 @@
+History:	50 year old man with history of seizures since childhood.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+
+
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+
+Subtle occasional polymorphic delta activity is noted over the bilateral posterior quadrants.
+
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  Of note, lead some of the lead impedances are >5 Kohms due to product in patient's hair.  No eye leads are used.
+
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, bilateral posterior, subtle Sleep spindles
+
+Interpretation:
+This is an abnormal awake and asleep 24-minute EEG due to subtle occasional mild bilateral posterior focal slowing. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+
+
+

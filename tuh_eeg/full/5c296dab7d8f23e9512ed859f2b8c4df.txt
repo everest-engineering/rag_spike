@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   44 year old left handed woman with a history of epilepsy who has been seizure free for many years.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm which is symmetric and reactive to eye opening.  Drowsiness is characterized by anterior spread of the alpha rhythm and an increase in beta.  Hyperventilation produces rhythmic slowing.  Photic stimulation produces vigorous driving with harmonic and super-harmonic driving.  Lambda waves were identified.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  This patient's previous EEGs were not available at this time for comparison.
+
+
+

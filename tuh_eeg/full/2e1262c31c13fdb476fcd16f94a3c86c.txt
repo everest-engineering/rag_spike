@@ -1,0 +1,25 @@
+History:	32 YO MALE WITH INCREASED RANDOM PERIODS OF DIZZINESS, HEAD PAIN,
+FACE PRESSURE. NO SZ REPORTED, NO MEDS
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Excessive diffuse 5-15uV, 18-25Hz activity is present.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the bilateral mid temporal region (left more
+than right) during wakefulness, increasing during drowsiness.  No epileptiform discharges are
+Hyperventilation is performed for 240 seconds with good cooperation, and produces enhanced
+focal slowing in the bilateral midtemporal regions.  Stepped photic stimulation from 1-21 flashes
+per second (fps) does not produce any effect.  HR is 60
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral
+midtemporal region.  This finding is indicative of focal cerebral dysfunction in those regions, which
+is non-specific with regards to etiology.  No clinical or electrographic seizures are present.
+
+

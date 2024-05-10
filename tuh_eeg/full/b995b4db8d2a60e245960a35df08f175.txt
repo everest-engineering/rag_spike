@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is an 87-year-old right-handed male, who presented with acute left-sided weakness, stroke workup negative for acute ischemia, and then subsequent tonic-clonic seizure.
+MEDICATIONS:  Aspirin, Dilantin, labetalol, Ativan, metoprolol, Zocor, and others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient was described as somnolent.  This is a technically acceptable EEG with most impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is somnolent with a face mask.  The background is diffusely slow and low voltage.  In this low voltage record, there is a subtle asymmetry.  The overall background includes low voltage beta, and smaller amounts of delta and theta.  The asymmetry includes a bit more, low voltage delta in the right frontocentral region and a bit more attenuation of faster frequency in the right posterior quadrant.  Stimulation of the patient produces an increase in muscle activity.  There is some variability in the record with a bit more beta activity noted in the central regions as the recording continues.  In sleep, there may be asymmetric vertex waves, with phase reversal just to the left of the midline.  As the recording continues, there is overall an increase in beta frequency activity.
+Heart rate 66 bpm, occasional PVCs.
+IMPRESSION:  This is an abnormal EEG due to:
+Low voltage, diffusely slow EEG.
+Subtle asymmetry with focal delta in the right frontocentral region and disruption of faster frequency activity in the right posterior region.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a focal process in the right hemisphere, although the features are quite subtle.  This may be a postictal recording.
+
+
+

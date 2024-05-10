@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  The patient was admitted over the weekend with a stroke, received TPA, had a seizure shortly afterwards.
+MEDICATIONS:  Aspirin, Plavix, Coumadin, Keppra, many others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  There was no hyperventilation or photic stimulation possible.  The patient is slightly confused.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background from the right hemispheres were reasonably well-organized, although there is occasionally slowing.  There is an alpha which reaches 10 Hz on the right, but is slower on the left, approximately to 6-9 Hz.  Intermittent slowing is noted from the left hemisphere, particularly more frontotemporal.  This EEG was recorded at the bedside in a relatively noisy environment with occasional interruptions, but as the patient becomes drowsy there is some bursts of generalized slowing.  As the patient transitions into stage 1 sleep, vertex waves were noted.
+Heart rate 78 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Intermittent focal slowing from the left.
+Occasional disorganization and slowing from the right.
+FIRDA.
+Occasional shifting slowing.
+CLINICAL CORRELATION:  In this individual who presented with a recent seizure, no epileptiform features were identified.  The focal features were in the region of this patient's recent stroke.
+
+
+

@@ -1,0 +1,44 @@
+AGE: 52. y.o.
+SEX: male
+DATE OF STUDY: 10/01/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE : 95819, Awake and briefly drowsy 24 minute EEG # : 15-1443
+HISTORY:
+52 y.o. male with a history of Man in the Barrel syndrome referred for routine EEG for EPISODE OF LOC some YRS AGO.	NOW TRYING TO GET DRIVERS LIC. BACK.	PMHX: HTN, DM, NEUROPATHY,
+MEDICATIONS:
+Current Outpatient Prescriptions :
+atorvastatin (LIPITOR) 20 mg tablet, TAKE ONE TABLET BY MOUTH DAILY -CHECK WITH YOUR DOCTOR BEFORE INCLUDING GRAPEFRUIT OR GRAPEFRUIT JUICE IN YOUR DIET.
+CONTOUR NEXT EZ STRIPS Strip, 1 STRIP BY MISC. (NON-DRUG; COMBO ROUTE) ROUTE 2 TIMES DAILY.
+amlodipine (NORVASC) 10 mg tablet, TAKE ONE TABLET BY MOUTH DAILY amlodipine (NORVASC) 10 mg tablet, TAKE 1 TABLET BY MOUTH DAILY.
+-MAY CAUSE DIZZINESS
+gabapentin (NEURONTIN) 600 mg tablet, Take 1 tablet by mouth 3 times daily .
+aspirin 81 mg EC tablet , Take 1 tablet by mouth daily. Cholecalciferol, Vitamin D3, 1,000 unit Tablet, TAKE 1,000 UNITS BY MOUTH DAILY .
+metformin (GLUCOPHAGE) 500 mg tablet, TAKE 1 TABLET BY MOUTH 2 TIMES DAILY (WITH MEALS). -TAKE WITH FOOD
+naproxen (NAPROSYN) 500 mg tablet, TAKE 500 MG BY MOUTH 2 TIMES DAILY (WITH MEALS) .
+DAILY-VITE per tablet, TAKE ONE TABLET BY MOUTH DAILY -TAKE THIS
+MEDICINE WITH A SNACK OR SMALL MEAL IF STOMACH UPSET OCCURS
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record, despite some head rocking artifact and included a single channel of EKG, HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9.2 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+Minimal drowsiness was characterized by slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and isolated bursts of frontal delta
+No generalized slowing is present.	No focal slowing is present. Head rocking artifact was noted in the right posterior region
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation were performed.
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background increase in amplitude.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal Awake and minimally drowsy	routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal Awake	routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+

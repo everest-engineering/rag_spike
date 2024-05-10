@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 78 year old right handed woman with stroke characterized by speech arrest, atherosclerosis.
+
+MEDICATIONS: Advair, ASA, Lopressor, Avapro, Levothroid, Renvela
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: In apparent wakefulness, the background EEG is disorganized and slow. There is primarily a 6 Hz posterior dominant rhythm. There are bursts of paroxysmal slowing, arrhythmic slowing, particularly from the left hemisphere, and in the bursts of paroxysmal slowing there is a left mid to anterior temporal sharp waves with an after going slow wave. Features of drowsiness include an increase in rhythmic slowing. Photic stimulation serves to alert the patient. During photic stimulation there is a bit of more arrhythmic delta activity on the left posterior quadrant.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized slowing.
+2. Paroxysmal rhythmic slowing.
+3. Focal slowing from the left hemisphere.
+4. Left mid to anterior temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a bihemispheric process give the generalized slowing and disorganization. The focal slowing on the left, as well as the sharp waves, support a structural process on that side which may be potentially epileptogenic. The presence of the paroxysmal slowing raises the possibility is a nonspecific finding, but can be seen in a metabolic process.
+
+
+
+

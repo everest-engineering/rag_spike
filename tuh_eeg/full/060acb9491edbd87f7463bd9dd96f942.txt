@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  This is a 70-year-old woman with recurrent tonic-clonic seizures from 2 o'clock this afternoon, transferred from Episcopal Hospital.  Patient has not returned to baseline mental status, not speaking well, confused, evaluated for subclinical status epilepticus.
+
+MEDICATIONS:  Versed, others, phenytoin.
+
+INTRODUCTION:  Digital video EEG was performed at the bedside in the neuro ICU using standard 10-20 system of electrode placement with 1-channel EKG.  This is a technically very challenging EEG in an uncooperative patient.  The EEG captures the awake and agitated state.
+
+DESCRIPTION OF THE RECORD:  In the initial sections of the record, the patient is awake and moving about.  The overall background is quite disorganized.  Head rocking artifact is noted, but there was also an increase in amplitude in the right scalp electrodes particularly the right temporal regions.  When the patient is a bit more cooperative, is a bit more theta.  The nurses attempt to console the patient with little success.  At some point, there is an increase in beta as the patient's Versed starts to take effect and the patient started snoring.  As she does so, a more restricted area of focal slowing in the right posterior quadrant was noted and there are discernible, right occipitotemporal sharp waves noted.  The sedation does not last long and the patient is quickly agitated again.  The pattern from the left is also disorganized, but lacks the same quantity of arrhythmic delta activity.  The sharp waves are irregular with a variable maximum and can include T4 or O2.
+
+Heart rate N/A.
+
+IMPRESSION:  Technically challenging, but abnormal EEG due to:
+1. Sharp waves from the right hemisphere, typically posterior temporal, but not exclusively occipital or posterior temporal, sometimes mid temporal.
+2. Arrhythmic delta activity, right posterior quadrant.
+3. Background slowing and disorganization from both hemispheres.
+
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG supports a structural process on the right involving gray and white matter as well as a localization-related mechanism for epilepsy.  Additional recording may be considered if the patient suffers additional seizures.
+
+
+

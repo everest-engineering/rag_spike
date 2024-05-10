@@ -1,0 +1,27 @@
+History:	68 YR OLD FEMALE PRESENTS WITH NEW ONSET SZ ON 10/6 RT ARM/FACE
+TWITCHING. PMHX SIG FOR B/L BRAIN LESIONS, C/C HA, HYPOTHYROIDISM,
+C. DIFF COLITIS S/P TOTAL COLECTOMY, HLD, GASTROPARESIS.
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Description:
+Limited waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Hr was 84  The patient complained of
+having an event at the end of the record. Her eyes were twitching and she remained aware. There
+was no EEG correlate to the behavior.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. The episode captured above had no EEG
+correlate. As such it may represent a non epileptic event or alternatively it may represent a simple
+partial seizure which only has an EEG correlate 25% of the time.
+
+

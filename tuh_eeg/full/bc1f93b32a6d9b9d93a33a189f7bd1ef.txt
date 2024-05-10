@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  This is a 65-year-old woman with stage IV metastatic breast cancer, CNS metastasis, evaluate for status epilepticus.
+
+MEDICATIONS:  Depakote, Keppra, Dilantin, and others.
+
+INTRODUCTION:  This section of the record captures 48 hours of continuous video EEG monitoring.  These are the final days of EEG monitoring for a patient, who was intubated and received intravenous medications for repetitive seizures.  During the 48 hours, the patient's medications were adjusted and the patient transitioned from a state of obtundation to be awake, using the left side spontaneously and withdrawn on the right.
+
+DESCRIPTION OF THE RECORD:  October 27 through October 28.  During this section of the record, the background EEG is markedly abnormal.  The overall pattern is diffusely slow with generous beta and theta.  There are periodic complexes in the left hemisphere, which at times are polyphasic in nature, some of which have variable maximum, but most of which are maximum in the left occipitoparietal region with a generous field of spread.  Brief intermittent rhythmic discharges were noted.  Particularly on the morning of the 27th, there is a discharge of approximately 30 seconds and another noted at 7:40.  As the recording continues on the 27th, medications are adjusted.  Depakote was initiated.  The periodic complexes are identified, but are slowing in terms of periodicity and there are few bursts of brief intermittent rhythmic discharges.  Most bursts are under 10 seconds in duration by the evening of the 27th.  By the morning of the 28th, there is an increase in beta and the epileptiform activity from the left posterior quadrant is abating.  In the final section of the record, there is generous beta noted in the background and there are sections of the record without epileptiform activity.
+
+October 28 to October 29th.  During this section of the record, the patient is noted to be a bit more responsive.  The periodic activity in the left hemisphere includes periodic complexes and pseudoperiodic complexes.  There are fewer brief intermittent rhythmic discharges and there are more extensive periods without epileptiform activity.  As the epileptiform activity fails, there is more prominent frontal beta, although additional medications, which produce beta were not administered.  The epileptiform activity demonstrates variable maximum and as the epileptiform activity seems to fade from the posterior regions, there are sharp waves in the left frontocentral region, but never as dramatic as those initially from the left occipitoparietal region.  By the morning of the 30th, the epileptiform activity clearly is undergoing in evolution with some epileptiform discharges beginning in the left frontotemporal region and then transitioning to the left posterior quadrant.  In addition, there is a more clear asymmetry between the 2 hemispheres with some sections of the record demonstrating more significant arrhythmic delta activity in the left hemisphere in comparison to the right.
+
+Heart rate 96 bpm.
+
+IMPRESSION:  This section of the record demonstrates the last 2 days of continuous video EEG monitoring for this patient.  It is remarkable for:
+1. Two more clearly defined electrographic seizures on the morning of the 27th.
+2. A pattern of PLEDs and pseudoperiodic PLEDs, improving over time with a maximum in the left occipitoparietal region.
+3. The gradual transition to more of an anterior temporal sharp waves or spikes, which is seen more sporadically, although remains quite abundant even at the end of the EEG recording.
+4. Generalized background slowing.
+5. Superimposed focal slowing on the left.
+
+CLINICAL CORRELATION:  This EEG demonstrates a highly epileptogenic pattern, but with a dramatic improvement, congruent with the patient's improvement in mental status.  In the final 48 hours of recording, no additional electrographic seizures were noted.
+
+

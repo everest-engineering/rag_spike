@@ -1,0 +1,13 @@
+RECORDING LENGTH:  21 minutes.
+ACTIVATION PROCEDURES:  HV and photic stimulation.
+CLINICAL HISTORY:  The patient is a 38-year-old woman with a history of generalized epilepsy with last typical seizure in February of 2011, with associated loss of consciousness, bladder incontinence and postictal confusion lasting about 1 hour.  However, of note the patient reports having a small seizure on 09/23/2012, characterized by screaming and shaking lasting approximately a half an hour with postictal lethargy.
+MEDICATIONS:  Current medications are Zonegran, Carbatrol and prenatal vitamins.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies and lower amplitudes anteriorly.  During drowsiness there is attenuation of the posterior dominant, rhythm, increase in the amount of diffuse theta and appearance of vertex waves.  Stage II sleep is not recorded.  Hyperventilation produces several bursts of brief diffuse delta activity.  Photic stimulation results in occipital driving at  various frequencies.  Regular heart rate is captured on single EKG leads.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal awake and drowsy 21 minute EEG.  No epileptiform discharges are captured, however, stage II sleep is not recorded.  If clinical diagnosis of epilepsy still persists a repeat study with stage II sleep may be of benefit.
+
+
+

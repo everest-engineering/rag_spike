@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 56-year-old woman with life-long epilepsy, posterior circulation stroke, and cervical myelopathy with recent abrupt fall, and history of myoclonus.
+MEDICATIONS:  Trileptal and Klonopin and others as the  medication list is incomplete.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were performed.  This was a complicated EEG due to the patient's braided hair.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is 9 Hz of alpha rhythm with excess beta.  There is shifting slowing noted with a little bit of more rhythmic slowing in the right posterior quadrant.
+In hyperventilation and relaxed wakefulness, isolated, frontally-predominant discrete spike and wave complexes are noted at 3-5 Hz.
+Photic stimulation elicits a subtle driving response but no definitive spike in wave activity.
+Heart rate:  96 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Excess beta.
+Excess theta.
+Occasional shifting slowing a bit more in the right posterior quadrant.
+Frontally-predominant spike and wave activity.
+CLINICAL CORRELATION:  The excess beta may be due to medications.  The excess theta may also be attributed to some of this patient's medications.  The focal features should be correlated with imaging and generalized spike and wave activity has been previously identified from this patient.
+
+
+

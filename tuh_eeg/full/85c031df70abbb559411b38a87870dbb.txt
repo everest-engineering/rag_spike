@@ -1,0 +1,16 @@
+MEDICATIONS:
+Labetalol and aspirin.
+HISTORY:
+A 41-year-old woman with an episode of slurred speech, word finding difficulty lasting three minutes. This is preceded by dizziness and nausea. Past history of hypertension and anxiety
+INTRODUCTION:
+Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one-channel of EKG. The patient very sleepy.
+DESCRIPTION OF RECORD:
+In wakefulness, there is a 13Hz alpha rhythm is observed. The patient quickly transitioned to drowsiness with slow rolling eye movements and an increasing theta. Intermittent, paroxysmal alpha and theta frequencies noted as she transitions in and out of sleep. Beta spindles are noted in stage 2 sleep. Both POSTS and lambda are noted in this record. Photic stimulation elicits bilateral,
+Heart rate 50-60 BPM.
+IMPRESSION:
+Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:
+it can also be seen in individual who is anxious. It can be associated with medications. The transitions between wakefulness and sleep can be seen in a subject who is sleep deprived.
+
+
+

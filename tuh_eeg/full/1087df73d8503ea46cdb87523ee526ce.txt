@@ -1,0 +1,12 @@
+MEDICINES:   Depakote.
+CLINICAL HISTORY: A 19-year-old with epilepsy onset at age 8. Seizure-free for 2 to 3 years.
+Seizures can be characterized by tonic-clonic activity. The patient had visual hallucinosis after seizures.
+INTRODUCTION: A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is a technically satisfactory record with impedances generally under 5 kilohms. There was 1 montage plugged air noted, which could be accommodated by reformatting.
+DESCRIPTION OF THE RECORD: The background EEG in maximal wakefulness includes a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  In wakefulness, apparent drowsiness and hyperventilation, there are somewhat asynchronous bursts of rhythmic, high amplitude slowing of the alpha rhythm and frontal theta. These bursts are asynchronous and in some of them there seems to be an area of focal slowing in the right posterior quadrant. These high-amplitude bursts are sharply contoured.
+Photic stimulation did not clearly activate the record. Heart rate: 72 bpm.
+IMPRESSION: Abnormal EEG due to 1- to 3-second bursts of asynchronous slowing with variable maximum noted in hyperventilation in drowsiness.
+CLINICAL CORRELATION:  No definitive epileptiform features were seen. There was subtle focality with these bursts including left frontal or right posterior. Correlation with imaging and childhood EEG is suggested.
+
+
+
+

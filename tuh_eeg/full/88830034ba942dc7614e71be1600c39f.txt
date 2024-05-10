@@ -1,0 +1,22 @@
+CLINICAL HISTORY: 66 year old woman status post recent cardiac stent placement with progressive encephalopathy and asterixis. Seizures this am, now intubated with right arm twitching.
+
+MEDICATIONS: Ativan, Phenobarbital
+
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The recording begins at 9 a.m. after the patient has had 8 mg Ativan. She is intubated and demonstrates intermittent rhythmic movement of the right hand only. This was a 20 minute baseline and 5 hour EEG.
+
+DESCRIPTION OF THE RECORD: Although there Is a fair amount of muscle and motion artifact in the EEG, when the muscle artifact drops out, a lower voltage pattern of a mixture of theta and delta activity can be identified. There is almost a bit of discontinuity with 2 Hz delta activity and scant amount of 6 Hz theta activity. Superimposed upon this is a periodic complex from the right hemisphere maximum in the right frontotemporal and frontocentral regions with an F2 sharp wave.
+
+Stimulation of the patient produces muscle artifact. Some sections of the record with more muscle artifact are associated with eye movement and unfortunately in these sections of the record, it is difficult to really define the underlying EEG pattern due to the muscle artifact.
+
+As the recording continues, the epileptiform activity can be identified particularly using an average reference and it is maximum more at F8 than at FT2. Again, each time that the patient has eye movement, it is more challenging to see the EEG, but the eye movements are relatively slower.
+
+Phenobarbital is initiated at 10:54 for a total of 500 mg. This actually produces an increase in overall theta frequency in the record and more of a transition to a more of a rhythmic theta pattern. There are some sharp waves picked up in the left frontal region at 11:58. There is a subtle intermittent discontinuity noted particularly at 2 p.m. The sharp waves are improved despite some muscle artifact as the recording continues. It is not possible to determine if the patient has been twitching later on in the record. Her hand is covered up. By 3:14 when the record stops and she seems to have a little bit more muscle artifact, the sharp waves can be identified but they are not occurring in bursts. The EEG concludes at 3:18.
+
+IMPRESSION: This is a challenging but markedly abnormal EEG due to:
+1. An initial clinical appearance of seizure characterized by movements of the right hand and repetitive sharp waves in the right.
+2. Marked background slowing.
+3. Very slow pattern seen initially with an improvement to more of a theta frequency pattern following the use of the phenobarbital.
+4. Rare frontal sharp waves on the left.
+
+CLINICAL CORRELATION: Overall, by the end of this section of this EEG, there is an improvement in the overall background, which is particularly important given the significant focal features noted initially.
+

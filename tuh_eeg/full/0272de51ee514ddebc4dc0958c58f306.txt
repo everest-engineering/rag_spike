@@ -1,0 +1,20 @@
+History: 24 year old man with mental retardation and epilepsy with refractory seizures.
+Medications: Keppra, Trileptal, Depakote
+Sedation:
+EEG Type: Routine, awake & drowsy
+Technique: international  10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, photic
+Description:
+Waking background is characterized by a 7 Hz theta rhythm, which attenuates with eye opening. Background activity is predominantly disorganized and Irregular 50-75uV, 6-7Hz theta activity. During drowsiness, the background slows more with lack of eye blink artifact.
+Intermittent polymorphic delta activity is present in the right temporal region during wakefulness, increasing during drowsiness. Occasional focal spike-and-wave discharges and sharp waves are present in the right temporal region, with phase reversal and amplitude maximum at F7.
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect. HR is 90.
+Summary of Findings:
+Disorganization
+Diffuse slowing, polymorphic
+Focal slowing, polymorphic
+Sharp waves, occasional, right
+Interpretation:
+This Is an ABNORMAL awake EEG because of 1) diffuse background slowing and slow alpha rhythm.
+These findings are etiologically nonspecific Indicators of mild diffuse cerebral dysfunction. 2) intermittent focal slowing In the right temporal region. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific. Occasional epileptiform discharges in the right temporal region. These findings are indicative of a potentially epileptogenic focus in this region.
+
+
+

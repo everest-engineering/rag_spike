@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  82 year old woman found unresponsive, not moving her right side with 2 tonic-clonic seizures in the emergency room.  Left MCA infarct, multiple medical problems.
+MEDICATIONS:  Versed, Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using the standard 10-20 system of electrode placement with 1 channel EKG.  The patient is quite agitated.  There is an extraordinary amount of muscle artifact.  She receives Versed during the EEG with little benefit.
+DESCRIPTION OF THE RECORD:  Underneath the muscle and movement artifact, there seems to be a theta frequency background.  Surprisingly, despite the artifacts, there is a periodic complex in the left hemisphere maximum at T1, but with involvement of F7 and T3.  It overall has a generous field of spread throughout the temporal region on the left and the frontal regions.  The periodic complex is seen in approximately every 2 seconds.  It does not evolve.  The patient is talking during the discharge.
+HR:    90 bpm and irregular
+IMPRESSION:  Markedly abnormal EEG due to:
+Background slowing.
+A periodic complex noted on the left temporal region.
+CLINICAL CORRELATION:  This was a high amplitude, but relatively simple periodic complex.  It did not evolve.  It is more likely to be a hallmark of an epileptiform process than an active ictal discharge.
+
+
+

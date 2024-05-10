@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 50 year old left handed male with history of seizures and dizziness, headaches and unclear neurologic history.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage with a generous amount of low voltage, frontocentral beta activity. It is difficult to identify an alpha rhythm and in maximum wakefulness, there is scant background theta. Hyperventilation is performed with good effort producing an increase in amplitude of the background and at times a 9 Hz alpha rhythm can be glimpsed. Photic stimulation elicits a vigorous bilateral driving response.
+IMPRESSION: This EEG is equivocally abnormal.
+CLINICAL CORRELATION: There is a small amount of excess theta noted in the background. Testing such as counting backward from 10 or other mental activities to ensure that the patient was maximally awake were not performed and could have been helpful to clarify this.
+
+
+

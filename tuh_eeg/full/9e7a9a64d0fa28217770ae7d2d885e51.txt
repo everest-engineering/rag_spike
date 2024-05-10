@@ -1,0 +1,32 @@
+History:	55 year old female brought in by family for altered mental status.
+Medications:	Heparin, Lispro
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+With maximal wakefulness, 8-9 Hz PDR is noted.  There is mild disorganization with weak AP
+gradient.  Additional polymorphic theta activity is noted.  Frequent brief (2-5 second) bursts of
+moderate-to-high amplitude 2-4Hz rhythmic bifrontal slow waves occur throughout the recording,
+increasing in frequency during drowsiness (FIRDA).  Drowsiness is characterized by increase in
+Continuous polymorphic delta activity is present in the right anterior region and less frequent
+polymorphic delta activity is present in the left anterior region.  No clear epileptiform discharges are
+noted, but right frontal delta activity is at times sharply contoured.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Disorganization, mild
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, right anterior
+Focal slowing, polymorphic, intermittent, moderate, left anterior
+No epileptiform discharges
+FIRDA (frontal intermittent rhythmic delta activity)
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy EEG due to (1) mild diffuse slowing and
+disorganization and bilateral anterior moderate slowing that is more pronounced on the right.
+Diffuse slowing and disorganization are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  Continuous focal slowing is suggestive of a focal structural lesion, especially over the
+right anterior region.  No epileptiform discharges are present, but stage 2 sleep was not recorded.  If
+clinically indicated, repeat EEG with sleep recording may provide additional information.  FIRDA
+is seen in encephalopathy, increased ICP, bilateral deep white matter lesions.
+

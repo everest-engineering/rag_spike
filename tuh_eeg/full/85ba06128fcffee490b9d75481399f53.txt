@@ -1,0 +1,16 @@
+History: S/P PEA CODE-HYPOTHERMIA PROTOCOL
+Medications: Propofol
+Sedation:
+EEG Typo: Routine, awake & drowsy, portable
+Technique: international 10-20 System; standard 21 electrodes with T1/T2 electrodes, comatose
+Description:
+No posterior dominant rhythm is present. The normal anterior to posterior gradient of frequencies is not seen. There is no electrocerebral activity over 2uV during the recording. There is no spontaneous stale change during the recording and no change with visual, auditory, or tactile stimuli. No normal sleep architecture was present.
+No epileptiform discharges are present
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Electrocerebral inactivity, continuous.
+Interpretation:
+This is an ABNORMAL EEG because of lack of normal reactivity, variability or normal electrocerebral activity. These findings are indicators of severe cortical damage but no definitive statements can be made as this findings may be due to at least In part to sedative effect. No electrographic seizures are present.
+
+
+

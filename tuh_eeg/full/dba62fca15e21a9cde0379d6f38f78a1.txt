@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  29 minutes.
+CLINICAL HISTORY:  The patient is a 78-year-old woman with a past medical history of hypertension and COPD who presents with change in mental status.  CT of the brain showed subacute infarct in the right PCA vasculature.
+MEDICATIONS:  Aspirin, lisinopril, Depakote, Lovenox, and atorvastatin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of unstable moderate amplitude 9 Hz alpha activity.  There is an anterior to posterior frequency amplitude gradient but it is weak and unstable.  Additionally, the background consists of a mixture of polymorphic theta and occasional Delta as well as brief bursts of frontally predominant rhythmic delta activity (FIRDA).  During drowsiness, there was further slowing of the background.  Stage 2 sleep is not captured.  Hypoventilation was not performed.  Photic stimulation results in symmetrical occipital driving at multiple flash frequencies.
+FINDINGS:
+Mild diffuse swelling.
+FIRDA.
+No epileptiform discharges.
+No stage 2 sleep.
+IMPRESSION:  This is an abnormal awake and drowsy 29-minute electroencephalogram due to mild diffuse background slowing.  This finding indicates mild diffuse cerebral dysfunction that is etiologically nonspecific.  Frontal intermittent rhythmic delta activity could be seen in encephalopathy, increased intracranial pressure, and deep white matter lesions.  No epileptiform discharges were captured.
+
+
+

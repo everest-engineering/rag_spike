@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  She is a 44-year-old woman with a history of epilepsy, most recent seizures on March 10, 2010.  As the record opens, there is a symmetric 9-10 Hz posterior dominant rhythm that is reactive to eye opening.  There was a small amount of frontocentral beta activity, which is symmetrically distributed.  During drowsiness, there is fragmentation and attenuation of the posterior dominant rhythm in the appearance of theta-frequency activity.  Stage 2 sleep is briefly identified characterized by vertex waves and brief 14 Hz sleep spindles.  At several times during drowsiness, there is appearance of intermittent right frontotemporal slowing in the theta-frequency activity.  It is unclear whether this reflects a artifact drowsiness or is a normal variant.  It is also unclear if this is a indication of focal slowing.  There were no epileptiform discharges.  There were no electrographic seizures.  There were no clinical events denoted by the patient.
+Hyperventilation was performed for 3 minutes with good effort and failed to activate the tracing.  Photic stimulation was performed multiple/frequencies and induces a well formed symmetric photic driving response at intermediate/frequency ranges.
+Summary.  This is a mildly abnormal EEG capturing wakefulness through stage 2 sleep due to intermittent focal slowing in the right temporal region.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:
+IMPRESSION:  Clinical correlation:  The presence of right-sided slowing may suggest a structural lesion in this region and may also suggest a postictal phenomenon.  It is clinically indicated, more prolonged monitoring maybe helpful in assessing this patient.
+
+
+

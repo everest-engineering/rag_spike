@@ -1,0 +1,11 @@
+HISTORY:  This is a 38-year-old male with previous overdose, admitted on the 24th, after taking in approximately 9 g of Wellbutrin, prior anoxic encephalopathy.
+MEDICATIONS:  Ativan 6 mg prior to this study.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is awake, agitated, and seems to be having visual hallucinations during the EEG.
+DESCRIPTION OF RECORD:  This is a technically very challenging EEG, but demonstrates a low voltage pattern with diffuse, generous beta.  The patient involuntary movements and visual hallucinations did not carry an EEG signature.  Sleep was not obtained.
+Heart Rate:  114 bpm.
+IMPRESSION:  Abnormal EEG due to replacement of normal background with excess beta.
+CLINICAL CORRELATION:  No epileptiform features were seen.  No seizures were recorded.  This patient's previous studies were not available for comparison.  If seizures occur outside of the provoked events, additional recording may be valuable.
+
+
+
+

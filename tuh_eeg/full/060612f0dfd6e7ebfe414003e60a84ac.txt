@@ -1,0 +1,18 @@
+CLINICAL HISTORY:   64 year old right handed woman with lesion in the left hemisphere, likely neoplastic and generalized and focal weakness.
+
+MEDICATIONS:  Keppra, Clonidine, Norvasc, Naproxen
+
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is in awake and drowsy record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is generous beta noted throughout.  Subtle focal slowing is noted in early drowsiness, which is primarily in the left central or posterior temporal region.  It may be associated with disruption of faster frequency activity.  There is a small amount of shifting slowing as well.
+
+HR:    72 bpm
+
+IMPRESSION:  This EEG is remarkable for:
+1. Excess beta.
+2. Underlying focal slowing in the left hemisphere, particularly central and posterior temporal regions.
+
+CLINICAL CORRELATION:  There were no epileptiform features observed.  These focal features may be correlated with imaging.
+
+
+

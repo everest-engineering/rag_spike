@@ -1,0 +1,43 @@
+History:	42 YR FEMALE WITH NEW ONSET SZ. LEFT SIDE TWITCHING FACIAL.
+SOMETIMES UE. PT STARES DURING SEIZURE. POST PT RESPONDS TO
+QUESTION.  PMHX:  DEPRESSION, ANXIETY,  CHIARI MALFORMATION
+DECOMPRESSION. 2003 SURGERY. MI.
+Medications:	DEPAKOTE,  VENLAFAXINE, LORATADINE, ASA, LOVENOX
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 01/07/2014 to 01/08/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	10
+Description of pushbutton events
+See below.
+Description:
+The posterior dominant rhythm reaches at best 8 Hz.  Background activity was characterized by
+diffuse low voltage mainly theta activity. However at times the background improves with faster
+frequencies and a more organized anterior to posterior gradient.  During drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Almost continuous F8/T4 focal slowing is present.  Frequent sharp waves are present in the F8/T4
+region.  During this record there are 10 seizures. Clinically the patient has facial twitching and
+cannot speak but responds appropriately to verbal motor commands.  The EEG reveals some
+rhythmic right frontal theta that appears to evolve in frequency and then is obscured by a myogenic
+artifact.  After some seconds a rhythmic delta can be seen over the central electrodes mainly on
+the right which suddenly subsides. The seizures last about 1 minute.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic
+Seizure
+Interpretation:
+This is an ABNORMAL EEG because of  ten partial seizures with right hemispheric likely frontal
+onset.  In addition the frequent right anterior temporal sharp waves are indicative of a highly
+sleep spindles and K complexes appear. potentially epileptogenic acute focal destructive lesion in the right anterior temporal region. Lastly
+there is  diffuse background slowing.  These findings are etiologically nonspecific indicators of
+moderate diffuse cerebral dysfunction.
+
+

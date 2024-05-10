@@ -1,0 +1,29 @@
+CLINICAL HISTORY: 22 year old right handed woman with Down syndrome and
+increasing seizures since 2008-2009.
+
+MEDICATIONS: Lamictal, Vimpat.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Photic simulation was
+performed.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes
+generous beta. There is excess theta but there is an 11 Hz alpha rhythm. Technically,
+this EEG history a great deal of artifact and the tech tries to use the 35 Hz filter, but
+there is still a fair amount of artifact noted in the background. This overall slow
+background is characterized by increasing theta in drowsiness. Photic stimulation elicits
+scant driving.
+
+HR: 90 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess theta.
+
+CLINICAL CORRELATION: No slow spike in wave activity nor focal temporal sharp
+waves were identified today. This represents an improvement for this individual who
+has previously demonstrated prominent epileptiform activity.
+
+
+
+

@@ -1,0 +1,31 @@
+History:	60 YR OLD MALE PRESENTS WITH H/O SZ D/O. PT VERY VAGUE REGARDING
+SZ HX. LAST SZ X 1 MONTH AGO. PMHX SIG FOR LT SIDED SKULL DEFECT.
+PT HIT IN HEAD W/PIPE X 20 YRS AGO, SZ ARE S/P HEAD TRAUMA.
+Medications:	GABAPENTIN, LAMOTRIGINE, TOPIRAMATE, TIAGABINE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  There is an asymmetric 18-25Hz activity with increased amplitude
+over the left hemisphere in the central and frontal regions.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Continuous polymorphic delta activity is present in the left central and temporal region during
+wakefulness, increasing during drowsiness.  There is an asymmetry of beta activity with increased
+amplitude compared to the right.  Occasional focal spike-and-wave discharge are present in the left
+anterior temporal region, with phase reversal and amplitude maximum at F7T3 but at times with a
+more central and frontal field.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Sharp waves, occasional, left frontotemporal
+Focal slowing, polymorphic, continuous, left frontotemporal
+Interpretation:
+This EEG is consistent with the diagnosis of localization related epilepsy likely arising from the left
+anterior temporal region. In addition there is evidence of left anterior temporal focal structural
+cerebral dysfunction which is consistent with the known trauma.  No seizures were seen.
+
+

@@ -1,0 +1,67 @@
+﻿History:
+56 year old woman with episodes of right jerking upon waking up and episodes of losing time.
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+The patient is having medically uncontrolled seizures or clinical events, which poses a significant mortality and morbidity risk. Continuous monitoring will aid in diagnosis and determining best treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual mortality rate.
+Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures causing injury or status epilepticus;
+The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to provide first aid and patient safety during seizures;
+The full hospital team must be present to deal with these medical emergency situations should they arise, including nurses to document patient's exam
+(9) there have been 13 reported deaths during various video-EEG monitoring procedures, so this is not a "low risk" service
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system.   Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician . A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used to screen the EEG in real time for electrographic seizures and interictal discharges . Samples of EEG were recorded periodically. Detections were reviewed in detail by the attending neurologist. All events and detections, as well as selected samples, were stored to external hard drive media.
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 10 Hz.
+Description of daily interictal EEGs:
+03/02-
+03/03
+lnterictal background:
+The bilateral posterior dominant rhythm is symmetric and reaches 1O Hz.
+Epileptiform activity:
+Clinical and EEG Characteristics during Seizures and Events:
+Event #1:
+Date:  03/03/2015
+Baseline:
+Time:  3:07PM
+Clinical features :
+EEG features:
+Event #2:
+Date:  03/04/205
+Baseline:
+Time:  09:50PM
+Clinical features:
+EEG features:
+Event #3:
+Date: 03/041205	Time:  10:30PM
+Baseline:
+Clinical features:
+Complains of a stronger smell something burning
+EEG features:
+No EEG correlate
+Event #4:
+Date: 03/051205	Time: 04:13PM
+Baseline:
+Clinical features:
+Complained of tingling feeling in the head and possible small right arm jerk (not seen on video).
+EEG features:
+No EEG correlate
+INDUCTION PROCEDURES:
+1. Sleep deprivation
+2. Exercise
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+lctal Findings:
+The patient had 4 clinical events while hooked up to continuous video EEG monitoring in the epilepsy monitoring unit.
+SEIZURE DIAGNOSIS:
+1. None
+EPILEPSY DIAGNOSIS:
+1. None
+CONCLUSION:
+Patient was admitted to the epilepsy monitoring unit for 6 days with continuous video EEG. This was a non-diagnostic EMU monitoring session because no typical events were captured.
+The interictal EEG is characterized by a normal background.
+The patient was weaned off Keppra over the course of her admission . She was not restarted on her medication on the day prior to her discharge from the hospital.
+The patient had a discussion with doctor about the possibility of nonepileptic events and their association with underlying psychiatric co-morbidities and is not due to abnormal electrical discharges of the brain/cortex.
+We recommend that he/she to see a psychiatrist or therapist for assessment of underlying psychopathology and diagnosis.
+
+

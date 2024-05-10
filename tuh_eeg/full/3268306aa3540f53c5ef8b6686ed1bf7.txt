@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  69 year old right handed woman with past medical history of diabetes who was found down in Ophthalmology clinic.  The patient was evaluated for possible transient ischemic attack.  No seizure-like activity was observed.
+MEDICATIONS:  Glipizide, Protonix, Aspirin, Metformin, Lovenox
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake, sleep study.  Photic stimulation was performed, however, hyperventilation was not.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There was a probable mu rhythm, however, this was not tested.  The patient falls asleep quickly and there were vertex waves POSTs and K complexes.  Photic stimulation did not activate the record.  There is minor asymmetry as she drifts to sleep.
+HR:    68 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There were no epileptiform features identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow-up study is suggested.
+
+
+

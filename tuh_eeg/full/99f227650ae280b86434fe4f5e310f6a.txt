@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 73 year old left handed male with complex medical history, recent pacemaker, left carotid stenosis.
+MEDICATIONS: Metoprolol, Lantus, Lisinopril, Lantus
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a somewhat slow pattern. The activity is lower voltage on the right. It is somewhat higher amplitude and with somewhat slower theta on the left compared to the right and there are 2 left temporal sharp waves. Features of drowsiness include an increase in bilateral background slowing. Photic stimulation produces no change in the record. ╖
+
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Intra hemispheric asymmetry with lower voltage activity on the right but with slower activity on the left.
+CLINICAL CORRELATION: The 2 sharp waves described above are quite simple in morphology and may represent normal variants. This EEG contrasts to previous studies which demonstrated more of a pattern of bilateral background slowing but may be correlated with the patient's ischemic cerebrovascular disease.
+
+
+

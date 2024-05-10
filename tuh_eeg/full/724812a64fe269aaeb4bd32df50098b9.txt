@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 22-year-old woman with epilepsy starting from childhood. Symptoms include abdominal pain, nausea, vomiting, bowel urgency and a postictal phase.
+MEDICATIONS: Tegretol and Topamax.
+INTRODUCTION: Digital video EEG is performed at the bedside in the EEG Long-term Monitoring Unit using standard 10-20 system of electrode placement with one channel of EKG. The patient had multiple episodes of mild abdominal discomfort.
+DESCRIPTION OF THE RECORD:
+Random Wakefulness and Sleep:  intermittently in wakefulness, the background demonstrates generalized theta.  There are portions of the wake record which have little in the way of background theta and a 9 Hz PDR is seen.  The background EEG shows rhythmic slowing with excessive theta activity.  No definitive epileptic activity was identified.
+HR:  78 BPM
+IMPRESSION: Abnormal EEG due to:
+Excessive theta activity in the background, more remarkable on the first day
+Sharply contoured  delta and rare left temporal sharps
+Multiple seizures characterized by abdominal discomfort but without clear EEG change.
+CLINICAL CORRELATION: The background slowing supports a diffuse disturbance of cerebral function.  The sharp waves support a partial mechanism for epilepsy.  The events recorded had no definite EEG change.  This pattern may be seen in simple partial seizures or non-epileptiform seizures.
+
+
+
+

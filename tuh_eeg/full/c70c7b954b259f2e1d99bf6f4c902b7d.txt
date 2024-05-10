@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 66-year-old gentleman with lung cancer, currently cancer-free, status post meningiomas with recent gamma knife radiation, now with repetitive seizures in recent weeks. Experienced status epilepticus last week, and now with confusion and phenytoin toxicity.
+MEDICATIONS:  Phenytoin, Phenobarbital
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  The patient was awake, but a bit confused.
+DESCRIPTION OF THE RECORD:  The background EEG is slow with more of a theta frequency pattern.  Underlying focal slowing was noted in the right central temporal region with a breach rhythm.  There were 1 or 2 bursts of sharply contoured slowing in the context of a breech rhythm.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal electroencephalogram due to:
+Generalized background slowing.
+Superimposed focal slowing from the right hemisphere.
+Sharply contoured right central temporal slowing.
+CLINICAL CORRELATION:  No seizures were recorded.  The patient is awake.  The generalized background slowing is a nonspecific finding, which can be seen in a toxic or metabolic encephalopathy of many different causes.
+
+
+

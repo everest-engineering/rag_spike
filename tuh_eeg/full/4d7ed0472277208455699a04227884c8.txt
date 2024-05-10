@@ -1,0 +1,39 @@
+History:	85 YR OLD FEMALE PRESENTS WITH H/O S/P CODE APPROX 45 MIN. NOW ON
+HYPERTHERMIA PROTOCOL
+Medications:	Propofol, fentanyl
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours from 03/09/2015 till 03/10/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists of burst-suppression pattern.  The degree
+of suppression lessens by the end of the recording with bursts extending from 1-6 seconds to 20-30
+seconds.  Bursts at first consist of frontally predominant very sharply contoured theta activity.  As
+bursts lengthen, there appears to be evolution of theta activity within the bursts.  No normal sleep
+architecture is present.
+Subtle paucity of the faster frequencies is noted over the left hemisphere by the end of the
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.  Sinus
+bradycardia with heart rate <60 bpm is noted on a single EKG lead.
+Summary of Findings:
+Burst-suppression pattern, decreases by the end of the recording
+Other, possible bifrontal seizures
+Focal slowing, polymorphic, left hemispheric, subtle
+Interpretation:
+This is a very abnormal 15 hour continuous video EEG monitoring due to burst -suppression
+pattern, subtle left hemispheric focal slowing and possible bifrontal seizures seen by the end of the
+recording epoch. Diffuse slowing indicates severe diffuse cerebral dysfunction.  Continuous focal
+slowing is indicative of a focal structural lesion in this region.  There is bifrontal cortical irritability,
+however, definite seizures are not seen.  These findings were conveyed to the neurology consult
+team.
+
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 50 year old right handed male with TB meningitis with increasing confusion.
+MEDICATIONS: Rifampin, Ethambutol, Pyrazinamide, Metoprolol, isoniazid, Lovenox, Protonix
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is relatively drowsy.
+DESCRIPTION OF THE RECORD: The overall background is low voltage, relatively slow, primarily with a theta frequency pattern. There is shifting slowing and a it more arrhythmic or somewhat paretic delta activity seen at C4 and T4, right In wakefulness as the patient is moving about a bit more, that record transition more to a rhythmic theta pattern.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Significant background slowing.
+2. Shifting slowing with a bit more subtle focal slowing in the right centrotemporal region.
+CLINICAL CORRELATION: In comparison to previous records, there are no epileptiform features noted but the overall background slowing has increased. right anterior temporal epileptiform activity that was previously identified is no longer seen.
+
+
+
+

@@ -1,0 +1,30 @@
+History:	21 year old woman presents with an episode concerning for seizures.  Patient has
+extensive PMH, including VP shunt via right posterior approach.
+Medications:	TOPAMAX, KEPPRA, RISPERIDONE, ZOLPIDEM, NEURONTIN, TRAZODONE,
+AMBIEN, BACLOFEN
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates.
+Intermittent polymorphic theta and delta activity is present in the right posterior temporal region
+during wakefulness, increasing during drowsiness.  No clear epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+No epileptiform discharges
+Focal slowing, polymorphic, intermittent, right temporal, posterior, mild-to-moderate
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 22 minute  EEG due to intermittent mild-to-
+moderate focal slowing in the  right posterior temporal region.  This finding is indicative of focal
+cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  No
+epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+
+
+
+
+

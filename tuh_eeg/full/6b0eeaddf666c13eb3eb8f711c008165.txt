@@ -1,0 +1,15 @@
+MEDICATIONS:  None.
+CLINICAL HISTORY:  Evaluate for epilepsy.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This was a technically acceptable EEG, although there was some muscle and movement artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized.  In addition, there is some head rocking activity.  Superimposed upon this is some arrhythmic delta noted in the posterior regions, right more so than left.  Features of drowsiness include an increase in beta.
+Photic stimulation is performed towards the close of the record and does produce a driving response.
+During hyperventilation, there is some head rocking artifact, but there is also an asynchronous sharp waves, which demonstrates a phase reversal in the left central parietal region, and then it is followed by another discharge a bit more anteriorly, which is picked up right frontocentral and left frontotemporal.  This discharge was not identified and the recording concluded shortly thereafter.
+Heart rate 100 BPM.
+IMPRESSION:  This EEG was remarkable for some muscle artifact, but was remarkable for,
+Background slowing and disorganization.
+Shifting slowing noted primarily in the posterior regions, right greater than left.
+Single asynchronous sharp wave.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  A more prolonged study may be a value in search of additional epileptiform activity.  No seizures were recorded.
+
+
+

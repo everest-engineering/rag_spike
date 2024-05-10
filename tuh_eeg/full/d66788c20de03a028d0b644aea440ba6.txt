@@ -1,0 +1,13 @@
+CLINICAL HISTORY:	75 year old man with change in mental status and abnormal movements.  This is a rule out seizure study.  Past medical history of CAD, hypertension, obesity, and others, status post CABG.
+MEDICATIONS:  Ativan, Morphine,  Ambien, ASA, Metoprolol, Lipitor, Cefepine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement with 1  channel of EKG.
+DESCRIPTION OF THE RECORD: There is some asymmetry with left, slower then the right. There is a faster frequency predominantly in the right central region.  In the right central region there are also beta waves. There are episodes of rhythmic slowing.  He does reach stage 1  sleep.  With stimulation there is minimal change/activation of the record.
+HR:	96 bpm
+IMPRESSION: Abnormal EEG due to:
+1.	Diffuse background slowing.
+2. 	Beta waves in the C4 region. This pattern is higher amplitude, however, then later in the record the electrode goes bad.  This is probably related to a bad electrode.
+3.	There is mixed theta and other frequencies intermixed.
+CLINICAL CORRELATION: This is a nonspecific EEG pattern that can be due to toxic or metabolic encephalopathy.  There is no epileptiform activity.
+
+
+

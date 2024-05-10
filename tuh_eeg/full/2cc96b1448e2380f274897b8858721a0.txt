@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 96 year old woman with chronic subdural hematoma, UTI, and encephalopathy.
+MEDICATIONS: Ciprofloxacin, Keppra
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a somewhat slow and disorganized pattern. There are several patterns noted in wakefulness. One of them is a 10 Hz 30 microvolt posterior dominant rhythm, which is intermittently disrupted by slowing. In addition, there is intermittent disruption of faster frequency activity with more rhythmic delta on the right. Features of drowsiness include an increase in background slowing.
+HR: 72 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent generalized background slowing.
+2. Intermittent FIRDA
+3. Intermittent focal slowing on the right.
+CLINICAL CORRELATION: These findings support both a toxic or metabolic process, as well as a structural process on the right congruent with a history of a subdural hematoma.
+
+
+

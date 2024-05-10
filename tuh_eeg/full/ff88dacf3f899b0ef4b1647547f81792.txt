@@ -1,0 +1,44 @@
+History:	62 YR MALE S/P CODE VFIB 11:22 AM. APPEARS APPROX 8 MIN. PT NOW
+SEDATED AND COOLED BODY TEMP 31.4' PT PMHX: CAD S/P CABG GI BLEED,
+PROSTATE CA.
+Medications:	PROPOFOL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, lethargic, obtunded, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 89 hours from 07/03/2015 to 07/07/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+No posterior dominant rhythm was present.  Day 1: Background activity was characterized by a burst
+suppression pattern with burst consisting of diffuse low voltage delta and theta activity with absence
+of the expected anterior to posterior gradient of frequencies.  Day 2: Background progressively
+becomes more continuous diffuse low voltage delta and theta activity with absence of the expected
+anterior to posterior gradient of frequencies.  Day 3: continuous diffuse low voltage delta and theta
+activity with absence of the expected anterior to posterior gradient of frequencies.  Day 4:
+Background activity is predominantly irregular 50-75uV, 6-7Hz activity, with absence of the normal
+anterior to posterior gradient of frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Intermittent bifrontal sharp waves that increase in frequency and
+amplitude lasting for about 30 seconds up to 15 minutes, some start and stop. No correlate to the
+pattern was seen in the video. The pattern is most consistent with electrographic seizures.  At times
+some of them appear to be reactive to stimulation and consistent with stimulus induced rhythmic
+periodic ictal discharges (SIRPIDs). These are seen starting the morning of day 2 and stop after ~
+6pm on day 3 (pt was loaded with phenytoin).
+Hyperventilation and photic stimulation were not performed.  HR was 60
+Summary of Findings:
+Burst-suppression pattern, continuous, marked diffuse
+Seizure, intermittent, electrographic
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL 89 hour EEG because of intermittent electrographic seizures arising and SIRPIDs from the bifrontal region. In addition there is diffuse slowing which progressively improves
+from severe burst suppression to moderate. This finding is indicative of moderate diffuse cerebral dysfunction which  is non-specific with regards to etiology.
+
+
+
+
+

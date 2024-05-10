@@ -1,0 +1,27 @@
+: History:	67 year old woman who presents with change in mental status. Medications:	no AEDs
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes,  obtunded
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -13 hours from 4/26/2014 till 4/27/2014.	Nursing? initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is no PDR or AP gradient.  The background is characterized by a mixture of polymorphic theta and delta activity.  Diffuse, frontally maximal sharp waves with triphasic morphology are present throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag.  No normal sleep architecture is present but periods of quiescence are noted.
+
+Continuous polymorphic delta activity is present in the right frontotemporal region.  Occasional right frontal sharp waves are present.
+
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right frontotemporal,  moderate-to-severe Triphasic waves, intermittent
+Sharp waves, occasional, right frontal
+
+Interpretation:
+This is an ABNORMAL  13-hour continuous video EEG due to (1) moderate diffuse slowing; (2) continuous focal moderate-to-severe right frontotemporal slowing:(3) triphasic waveforms and (4) occasional right frontotemporal epileptiform discharges.  Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing and epileptiform discharges are indicative of a focal potentially epileptogenic structural lesion in the right frontotemporal region.  Triphasic waves are a nonspecific EEG finding that can be seen in various etiologies that include but are not limited to hepatic encephalopathy, uremia and anoxia.  No clinical or electrographic seizures are present
+
+
+

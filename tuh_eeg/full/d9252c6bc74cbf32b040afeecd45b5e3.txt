@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  56 year old left handed gentleman with long-standing primary generalized epilepsy with tonic clonic and myoclonic seizure.  Now seizure-free for 4 days but confused.  The patient has history of liver transplant, long hospital course.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  The patient is somewhat drowsy.
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat slow and disorganized with primarily a theta frequency pattern. In addition, although there is some EKG artifact, there is some right temporal focal slowing and right temporal sharp waves noted.  Sleep is characterized by subtle sleep spindles.  Vertex waves are also identified in stage 2 sleep.  In stage 2 sleep, the generalized spike and wave activity occurs during photic stimulation.
+HR:    80 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Prominent right frontotemporal rhythmic theta/delta and right anterior temporal sharp waves.
+Generalized polyspike and wave complexes identified during photic stimulation.
+CLINICAL CORRELATION:  This EEG supports more than one mechanism for seizures for this individual.  Careful review of this patient's clinical history is important to make sure that there is an explanation for the right temporal sharp waves.  This is particularly important given this patient's extraordinarily long hospitalization and long critical care course.
+
+
+

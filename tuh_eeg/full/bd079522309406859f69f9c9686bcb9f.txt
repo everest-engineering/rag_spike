@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  73 year old male, status epilepticus.
+MEDICATIONS:  Ativan, Versed, Valproic Acid
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has increased axial tone, stiffening, and poor responsiveness.
+DESCRIPTION OF THE RECORD:  This is an extremely challenging bedside ICU record.  There is a great deal of muscle and movement artifact.  The overall record is high amplitude, sharply contoured, with what seems to be some T6 sharp waves and a sharply contoured background with arrhythmic delta activity.  There is a relative paucity of any of the normal wave forms of wakefulness and sleep.  In the initial sessions of the record there is some activity which can be reviewed and the activity seems to be slower with more high amplitude sharp waves on the left than the right.
+Because of these technical issues, after the first 20 minutes the patient receives versed and Benadryl and an additional recording is initiated at 17:31.  This is a total of 40 minute EEG.
+This section of the record again is somewhat challenged by muscle and motion artifact.  There seems to be a T6 triangular shaped sharp wave in this record.  In addition, towards the later sections of the record, as the muscle activity drops out, there is an asymmetry, particularly at the end of the record with periodic sharp activity in the left hemisphere.  In addition, there is a significant asymmetry with significantly less faster frequency activity on the left than the right.  There are also some periodic complexes at 01, noted in later sections of the record, but no definitive seizures.
+HR:    100 bpm
+IMPRESSION:  This EEG is remarkable for:
+A markedly abnormal background.
+Epileptiform activity from either hemisphere and shifting slowing.
+A pattern at the close of the record which demonstrated primarily epileptiform activity in the left hemisphere, some of which was posterior, some of which was anterior.
+CLINICAL CORRELATION:  This EEG can be seen in the context of a postictal or late ictal record.  Because of the predominance of features on the left in a patient with structural abnormalities, primarily on the right, additional EEG recording was requested.
+
+
+

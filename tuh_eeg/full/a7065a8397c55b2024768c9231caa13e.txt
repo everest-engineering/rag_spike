@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 40-year-old woman with adult onset epilepsy and anxiety disorder, recent hospitalization for repetitive seizures from the right temporal region.
+MEDICATIONS:  Depakote and Xanax.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  The recording began when the patient was drowsy but she was able to follow commands.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with more of a theta pattern.  In addition, there is intermittent focal slowing from the right mid to posterior temporal region.
+Hyperventilation was performed early in the record producing bursts of rhythmic frontal delta, as well as accentuating the focal slowing.  The patient transitions into stage 2 sleep with spindles.  In stage 2 sleep, there is some shifting slowing in the temporal regions.
+Photic stimulation was performed while the patient was drifting off to sleep and did not significantly activate the record.
+Heart rate: 72 BPM.
+IMPRESSION:  This is a markedly abnormal electroencephalogram due to:
+A pattern of rhythmic background slowing.
+Superimposed arrhythmic slowing in the right mid to posterior temporal region.
+A handful of shifting bursts of shifting slowing.
+CLINICAL CORRELATION:  The marked background slowing is a nonspecific finding and can be seen in a postictal state but does support a diffuse disturbance of cerebral function.  In comparison to previous EEGs, less epileptiform activity was noted.  The
+focal slowing in the right temporal region is ipsilateral to the previous epileptiform activity.
+
+
+

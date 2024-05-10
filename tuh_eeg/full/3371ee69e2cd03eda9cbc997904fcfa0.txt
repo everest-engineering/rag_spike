@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  42 year old right handed woman with many medical problems including asthma, migraines, and schizophrenia.  She presents with episodes of bilateral hand twitching and incontinence occurring 3 to 4 times per day.  Family history of epilepsy.
+MEDICATIONS: Topamax, Advair, Montelukast, Albuterol, Benadryl, Epinephrine, Metformin, Eletriptan, Tylenol, Valacyclovir, Ranitidine, Gabapentin, Carisoprodol, Diovan, Atenolol, ASA, Isosorbide, Fenofibrate, Atorvastatin,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient had one of her typical spells during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with generous beta activity noted.  Hyperventilation produces an increase in theta.  Features of drowsiness include an increase in beta.  Posts are noted as the patient transitions into sleep. Photic stimulation elicits a driving response.  It also elicits a behavioral event at 3 Hz, after the driving response with the patient shaking her head back and forth.  This is followed by total body rocking. There are no EEG changes associated with this behavior.  She actually starts shaking well before the events marked by the tech and when her body movements are mild, there is no EEG change. The technologist ends the event by pinching the patient.  Surprisingly, this stops the event.  The technologist stopped the photic stimulation to attend to the patient when the event began.  Total duration was 2 minutes.  There was no postictal change in the EEG.
+HR:    96 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  There was no change noted in the EEG with the event in question.  Characteristics of the event are most suggestive of an emotional linked nonepileptic seizure.
+
+
+

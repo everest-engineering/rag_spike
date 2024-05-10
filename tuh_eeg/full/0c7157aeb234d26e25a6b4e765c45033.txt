@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  Patient is a 52-year-old male, status post glioblastoma status post radiation, recent hospitalization for status epilepticus, complicated by agitation and obtundation.
+MEDICATIONS:  CBZ, Klonopin Abilify, gabapentin, and others.
+INTRODUCTION:  Stat digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was noted to have craniotomy defect.  This is a technically satisfactory record with most impedances under 5 kilos Ohms.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with the mixture of theta and delta.  There is a suggestion of a breach rhythm with some higher amplitude delta noted in the left hemisphere, some of which is sharply contoured in the left frontotemporal region.  Stimulation of the patient produced muscle activity.
+Heart rate 75 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Somewhat sharply contoured delta noted in the left hemisphere.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function affecting both gray and white matter.  The breach rhythm is an anticipated finding following craniotomy.  The sharply contoured slowing occurs in the context of the breach rhythm.
+
+
+
+
+

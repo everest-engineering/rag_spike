@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 48-year-old woman with multiple strokes, left-sided weakness, dysarthria, and new onset seizures.
+MEDICATIONS:  XANAX
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1-channel EKG.  The patient was very uncomfortable.  Hyperventilation and photic stimulation were deferred.  This was a 20-minute EEG with impedances under 5 kilohms with the exception of T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient appears to be tachypneic.  The background EEG consists of a homogeneous pattern of lower voltage theta, smaller amounts of theta, and a lower voltage delta as well as significant EKG artifact.  Stimulation of the patient produces eye movement artifact.  As the patient becomes drowsy, there is an increase in delta.  In sleep, intermittent slowing was noted from either hemisphere.
+Heart rate 72 to 96 BPM.
+IMPRESSION:  This EEG is remarkable for:
+Diffuse background slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Overall, this EEG supports a bihemispheric disturbance affecting gray and white matter.  No epileptiform features were identified.  If epilepsy is an important consideration, a repeat tracing when the patient is out of the ICU is suggested.
+_
+
+
+

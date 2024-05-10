@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 18-year-old with asthma and three seizures beginning in December, characterized by black-out spells while driving.
+MEDICATIONS:  Depakote, albuterol, Advair.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates an 9 Hz alpha rhythm, reaching amplitudes up to 70 microvolts.  There are sections of the record with a well-organized waking background and some posterior slow waves of youth.  In addition, bursts of paroxysmal, approximately 5-7 Hz activity, but sometimes slower, more in the characteristic of 4 Hz activity, is noted in the background.  These high amplitude paroxysmal bursts are initially posteriorly predominant.  Hyperventilation accentuates the bursts and transitions more to a frontally predominant paroxysmal burst.  Some of the bursts seem to have an occipital predominant underlying spike, which is subtle in the underlying activity and may be bilateral or unilateral, but the burst is always bilateral.  Following hyperventilations, the patient becomes drowsy.  There are some hypersynchronous rhythmic theta, background slowing and wicket.  Post and vertex waves are seen in sleep.  Spindles were identified.
+Photic stimulation elicited a bilateral driving response with harmonic and super-harmonic driving.
+Heart rate 70 bpm.
+IMPRESSION:  This is an abnormal EEG for an individual of this age due to:
+Paroxysmal bursts of hypersynchronous rhythmic theta noted in apparent wakefulness, with a posterior predominance.
+A suspicious, underlying, occipitally predominant sharp wave noted in some of these bursts.
+CLINICAL CORRELATION:  Epileptiform activity was not well defined for this individual, but there are clearly some suspicious sharp waves in the occipital region.  Comparison with previous EEGs may be helpful, as this may be part of a pediatric epilepsy syndrome.  No clinical seizures were recorded.  If additional information is needed, a repeat testing even with cognitive testing to make sure that there is no impairment of awareness with the patient's bursts, may be considered.
+
+
+

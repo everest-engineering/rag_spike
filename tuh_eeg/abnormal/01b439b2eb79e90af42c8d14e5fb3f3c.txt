@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 62 year old right handed gentleman with epilepsy, COPD, hepatitis C is evaluated for encephalopathy. History of PEG, tracheostomy, hepatitis B, hepatitis C, DVT and seizures from the left temporal region in the past.
+MEDICATIONS: Keppra, Depakote.
+INTRODUCTION: Digital video EEG was performed in lab using a standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a mixed frequency pattern with a hint of an alpha rhythm more so on the left than the right. There is intermittent attenuation of activity in the left, particularly in the temporal region. Arousals are associated with an increase in muscle artifact. Photic stimulation suggests a driving response but the patient is moving a great deal.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Superimposed left temporal focal slowing.
+CLINICAL CORRELATION: No epileptiform features are observed in this record today. The background slowing is not significantly worse than previous studies. If epilepsy is an important consideration additional recording and testing may be of use.
+
+
+

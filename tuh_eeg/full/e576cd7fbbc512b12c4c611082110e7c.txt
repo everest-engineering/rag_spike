@@ -1,0 +1,26 @@
+History:	52 year old man who had focal status epilepticus in 1/2015.  This is a follow-up
+Medications:	Vimpat, Insulin
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a very low voltage diffuse fast activity.  During brief
+drowsiness, bursts of diffuse theta activity are captured.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Low voltage, severe
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 1-hour EEG, awake and briefly drowsy.  No epileptiform discharges were present,
+but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information. Low voltages are found in ~ 10% of the general population.
+
+
+
+
+

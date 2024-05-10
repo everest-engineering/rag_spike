@@ -1,0 +1,23 @@
+Medication s: PROTONIX,LACTULOSE, Gabapentin, Tramadol, ativan , thiamine
+Technique:
+A 21 channel electroencephalogram {EEG) recording using the International 10-20 system was performed utilized a NicOne system. This bedside portable record captures drowsiness and sleep with minimal wakefulness.	Neither photic stimulation nor hyperventilation were performed
+EEG Background:
+The waking background was poorly organized,	characterized by the presence of a 6Hz	symmetric mixture of alpha, modest quantities of theta	and beta frequencies, with a symmetric and reactive 6 Hz Hertz posterior dominant rhythm {PDR) . The normal
+anterior-to-posterior gradient of frequency and amplitude was present.
+During drowsiness the EEG was comprised of a mixed frequency theta pattern.
+Sleep spindles were	present during Stage II sleep. Slow wave sleep was not seen.
+Moderate generalized slowing was present.	No focal slowing was present.
+Paroxysmal Activity {non-epileptiform) : None
+Epileptiform Activity:
+No epileptiform activity was present.
+There were no clinical or electrographic events captured during this study.
+Impression :
+This is an abnormal primarily asleep routine EEG due to: Moderate Generalized slowing
+Clinical Correlation:
+Generalized background is a non specific finding which can be seen in a toxic or metabolic process. There were no epileptiform features.
+Clinical Correlation is suggested.
+
+
+
+
+

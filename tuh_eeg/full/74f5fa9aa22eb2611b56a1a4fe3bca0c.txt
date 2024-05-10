@@ -1,0 +1,22 @@
+
+CLINICAL HISTORY:	76 year old female with 3 days of balance problems, slurred speech, and difficulty expressing herself.  The patient has a history of diabetes, hypertension, and CHF.
+
+MEDICATIONS: Metformin, ASA, Imdur, Benicar,  Tramadol,  Atenolol, Lipitor, Celebrex
+
+
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+
+DESCRIPTION OF THE RECORD: This EEG is diffusely slow and disorganized. There  is an alpha rhythm of a 5Hz.    In  addition, there is an amplitude asymmetry with higher amplitude activity on the left and a likely breech rhythm with some double phase reversing artifact.
+
+HR: 	60 bpm
+
+
+IMPRESSION:  Abnormal EEG due to:
+1.	Generalized slowing and disorganization.
+2.	Left temporal amplitude asymmetry.
+3.	Left temporal focal slowing.
+
+
+CLINICAL CORRELATION:  The diffuse features support a diffuse interruption of cerebral function and the focal features on the left can be correlated with imaging.
+Careful review of the patient's history is advised.
+

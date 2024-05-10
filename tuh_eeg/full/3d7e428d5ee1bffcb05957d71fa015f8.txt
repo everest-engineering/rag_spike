@@ -1,0 +1,26 @@
+History:	54 year old woman who presents with right facial droop and aphasia.  Patient also
+has fever.
+Medications:	NO AED
+Sedation:	None
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The background consists of polymorphic moderate amplitude 8.5 Hz alpha posteriorly, poor AP
+gradient and diffuse polymorphic theta and delta activity.  No normal sleep architecture is present
+but periods of quiescence are captured.
+Intermittent subtle polymorphic delta activity is present in the left frontotemporal region during
+wakefulness, increasing during drowsiness.
+Hyperventilation and photic stimulation are not performed.  HR is 90.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, moderate, left frontotemporal
+Diffuse slowing, rhythmic, mild-to-moderate
+Interpretation:
+This is an ABNORMAL 21-minute EEG due to mild-to-moderate diffuse slowing and intermittent
+subtle moderate left frontotemporal focal slowing. Diffuse background slowing is a nonspecific
+indicator of mild-to-moderate diffuse cerebral dysfunction.  Intermittent focal slowing is indicative of
+focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  No
+clinical or electrographic seizures are present.
+
+
+

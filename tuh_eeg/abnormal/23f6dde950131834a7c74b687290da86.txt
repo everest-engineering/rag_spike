@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 44-year-old male with refractory epilepsy, admitted to the unit with repetitive seizures.  He had 2 tonic-clonic seizures and was admitted for persistent postictal obtundation.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was somnolent and uncooperative.  Impedances were challenging.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow, but with generous beta activity, particularly in the central regions.  Stimulation of the patient produces muscle, a brief alerting, and some theta as well as transient alpha activity, but then the patient drifts back to sleep.
+Heart rate 66 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Excessive beta.
+Generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG is most compatible with postictal state and/or medication effect.  No epileptiform features were identified.  The background EEG is similar to a previous postictal EEG recorded a month ago, but low voltage temporal spikes were not identified today, and no complex portal seizures were recorded.
+
+
+

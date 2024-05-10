@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 66-year-old woman with 6-year history of epilepsy, characterized by tonic-clonic seizures lasting 1-2 minutes, recent seizure 1 week ago.
+MEDICATIONS:  Zonisamide.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  Impedances were acceptable.  Eye movements were slightly asymmetric.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow and poorly organized with excess theta and a glimpse of a 7 Hz alpha rhythm.  Eye movement artifacts are asymmetric and higher amplitude on the right in comparison to the left.  In addition, there is a suggestion of an underlying sharp waves noted in the right frontal/frontotemporal region.
+Features of drowsiness include an increase in theta.
+Photic stimulation did not activate the record.
+Heart rate 48 bpm.
+IMPRESSION:  Technically challenging but abnormal EEG due to:
+Background slowing and disorganization.
+Suspicious underlying right frontal/frontotemporal sharp waves.
+CLINICAL CORRELATION:  Because of the asymmetries in the eye movements described above, these findings should be interpreted with caution.  Additional clinical correlation may be of value.
+
+
+

@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 50 year old right handed female presented with episodes of dizziness, slurred speech and left facial drooping. Patient has a history of hypertension, CVA x 2 years ago with left sided weakness/facial resolved over time
+
+MEDICATIONS: Protonix, Lovenox, Aspirin, Klonopin, Hydralazine, Novolin, Amoxicillin, Trazodone
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrodes with 1 channel EKG. Hyperventilation was not performed, but photic stimulation was performed.
+
+DESCRIPTION OF THE RECORD: There is an alpha activity in wakefulness of 10Hz. There is a small amount of 7 Hz activity in the background. Beta activity is also noted. There is occasional focal slowing on the right, as well as isolated bursts of slowing with theta and delta waves on either side. Photic stimulation elicits driving. No spikes were seen during the recording.
+
+HR: N/A
+
+IMPRESSION: Abnormal EEG due to:
+1. Scant excess 7 Hz theta.
+2. Occasional isolated focal delta from right or left frontal regions, but no spikes.
+
+CLINICAL CORRELATION: The focal slowing may be due to the previous strokes.
+
+
+
+
+

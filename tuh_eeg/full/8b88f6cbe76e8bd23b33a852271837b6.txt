@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 34-year-old woman with impaired cognitive thinking processes and progressive left-sided numbness.
+MEDICATIONS:  Dyazide.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  The technologist noted that this patient seemed to have stable cognition throughout the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a low voltage 10 Hz alpha rhythm in the background with generous low voltage beta.  The patient seemed to be a bit drowsy, transitioning into stage I sleep with an increase in beta and in vertex waves followed by arousal.  Hyperventilation did not significantly active the record.  In fact, the patient seemed to be falling asleep at the end of hyperventilation with beta spindles characteristic of stage II sleep.  Other features of sleep included vertex waves and more subtle POSTS.  Sustained stage II sleep was more abundant in those vertex waves, K complexes, and POSTS were noted.
+The patient remained drowsy throughout photic stimulation which nonetheless, elicited a driving response.  By the end of photic stimulation, she was drifting back into stage II sleep.
+Heart rate 66 BPM.
+IMPRESSION:  This is a normal sleep EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This patient appears to be extremely sleepy.  Clinical correlation for hypersomnolence may be appropriate, but a sleep-deprived EEG could also produce these findings.
+
+
+

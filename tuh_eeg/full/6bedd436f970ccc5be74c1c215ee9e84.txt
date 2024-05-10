@@ -1,0 +1,28 @@
+
+History:	56 YR OLD MALE PRESENTS WITH H/O AUTO VS PEDESTRIAN MVA.
+Medications:	Vasopressin, Norepinephrine, Cefazolin, Metronidazole Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were correlated with clinical behavior. Graphical representation of the EEG was available at the bedside and over the hospital network for continuous review by trained nurses and EEG technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta activity with absence of the expected anterior to posterior gradient of frequencies.  There is marked suppression of the background activity on the right. There is an obvious hemispheric
+asymmetry with increased amplitudes over the left hemisphere (the patient has a known prior surgical skull defect).  No normal sleep architecture was present.
+
+No focal slowing is present. There are intermittent sharp waves noted over the left hemisphere, maximal over the left temporal regions (there is a broad firta that at times includes the left frontal region).  No clinical or electrographic seizures were present.
+
+Hyperventilation and photic stimulation were not performed. There was minimal reactivity to auditory, tactile, or painful stimuli.
+
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse Sharp waves, intermittent, left frontotemporal
+
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. Sharp waves have epileptiform potential. The hemispheric asymmetry may reflect a prior known surgical skull defect in this patient. These findings were conveyed to the primary team
+
+
+

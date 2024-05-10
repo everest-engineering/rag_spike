@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 88 year old admitted on the 29th status post TPA for acute stroke with right hemiparesis. No history of seizures.
+MEDICATIONS: Pantoprazole, Heparin, ASA
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates diffuse, rhythmic slowing with primarily a 4-5 Hz background. There is also a subtle interhemispheric asymmetry with slower frequency activity on the left compared to the right and slower theta. Some of this activity is a bit more prominent in the left posterior quadrant.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Additional, rhythmic slower activity in the left hemisphere particularly posterior quadrant
+CLINICAL CORRELATION: This EEG supports a bihemispheric process as well as a structural process in the left, congruent with this patient's clinical history.
+
+
+

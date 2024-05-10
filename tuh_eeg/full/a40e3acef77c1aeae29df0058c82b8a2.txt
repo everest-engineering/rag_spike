@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  42 year old male with history of left temporal lobe epilepsy status post DigiTrace EEG recording.
+MEDICATIONS:  Keppra, Topamax, Plavix, Metoprolol, Clopidogrel, Simvastatin, Ranitidine, Divalproex
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Wicket activity is prominent in the temporal regions.  There is also some underlying focal slowing in the left temporal region.  Hyperventilation seems to accentuate the focal slowing.  The wicket is more prominent on the left.  Vertex waves are observed in stage I sleep.  K complexes and POSTS are noted in stage II sleep.   Photic stimulation elicits bilateral driving.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left temporal focal slowing.
+Wicket is noted in the temporal regions.
+CLINICAL CORRELATION:  As noted in previous records, this is a complex EEG recording for this individual with a previous left temporal lobe injury.  The wicket looks epileptiform in nature but is not definitively pathological.  To define sharp waves for this individual, sharp waves must be seen primarily in sleep as there are normal variants that have a similar shape to a sharp wave and are accentuated by previous craniotomy.
+
+
+

@@ -1,0 +1,25 @@
+History:	63 year old woman with 2 reported seizures that occurred ~ 3 weeks ago.  Patient
+has a history of stroke, HTN, bipolar disorder.
+Medications:	Amlodipine,Keppra,Loratadine, Metoprolol,Trazodone
+Sedation:	None
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Description:
+The posterior dominant rhythm consists of polymorphic 8 Hz theta activity that attenuates with eyes
+opening.  There is AP gradient.  Diffuse excess theta activity is present.  No normal sleep
+architecture is present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  There is a possible error in the distance measurement
+between T5-O1 electrode pair since the activity there appears to be excessively attenuated when
+viewed in the longitudinal bipolar montage.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake-only 23-minute EEG due to mild diffuse slowing. This finding is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.
+
+

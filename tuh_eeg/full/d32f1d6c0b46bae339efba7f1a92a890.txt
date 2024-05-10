@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 93-year-old woman admitted with acute onset dizziness and 2 episodes in which she could not find a word.  Evaluate for seizure or stroke.
+MEDICATIONS:  ASA , losartan, Protonix, others.
+ROOM NUMBER:  In-patient
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were deferred.  This is a technically acceptable EEG with impedances generally under 5 KOhms with the exception of at T1 and T2 electrodes.  There is a small amount of muscle artifact noted in the background.
+DESCRIPTION OF THE RECORD:  In wakefulness, a 10 Hz posterior dominant rhythm was noted.  A small amount of background theta was identified.  Features of drowsiness include slow rolling eye movements and an increasingly synchronous background.  Deeper stages of sleep were not achieved.
+Heart rate 78 bpm.  Slightly irregular.
+IMPRESSION:  Normal EEG at the bedside primarily in wakefulness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  This is a normal study.
+__________________________
+
+
+

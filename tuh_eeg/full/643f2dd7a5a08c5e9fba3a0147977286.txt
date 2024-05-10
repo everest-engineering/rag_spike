@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  49 year old right handed woman with epilepsy since age 8 or 9.  Tonic-clonic seizures, at some points 5-6 per month, perimenstrual exacerbation.
+MEDICATIONS:  Phenobarbital, Prednisone, Albuterol, Diazoline, HCTZ, Pepcid
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and briefly drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a well-organized, 10.2 Hz alpha rhythm.  There is limited drowsiness, but in drowsiness, there is attenuation of the alpha rhythm.  Of note, in the transition to drowsiness there is a burst of paroxysmal high amplitude theta and in this burst, there are 2 frontal spikes, the first is on the right and the second, which is almost 20 Hz later, is at the midline.  It can be reviewed using an average reference and a fast paper speed. Photic stimulation produces driving, but no epileptiform features.
+HR:    60 bpm.
+IMPRESSION:  This EEG is remarkable for 3 well-defined,  paroxysmal spikes and waves bursts in the transition to sleep.
+CLINICAL CORRELATION:  This EEG is most supportive of a generalized mechanism for seizures.  The 3 bursts can be reviewed at slow paper speed, the second burst is more of a 3 Hz burst and the third one is a 3 Hz spike and wave.  They are maximum at the right or midline.  These findings can be seen in a primary or secondary generalized epilepsy. Some of the generalized spike and wave activity was identified in her November 2009 EEG, but not the followup study 1 month later.  The first EEG was performed with CPAP, capturing sleep which may explain why the epileptiform activity was more remarkable at that time.
+
+
+

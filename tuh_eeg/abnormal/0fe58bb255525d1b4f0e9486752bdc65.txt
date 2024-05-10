@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 59-year-old male with right leg weakness and foot drop, falling 1-2 times per month.  No other past medical history.
+MEDICATIONS:  Benztropine, ranitidine, metoprolol, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a routine outpatient EEG of greater than 20 minutes duration. Most impedances were satisfactory. This is a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the overall EEG is relatively low voltage.  Intermittent, 5 Hz tremor artifact is noted and underneath that there is a glimpse of a 9 Hz alpha rhythm.  Drowsiness was characterized by an increase in beta.  The tremor is still present in drowsiness.
+Photic stimulation elicited a driving response which can be seen despite the head tremor
+Heart rate 60 bpm.
+IMPRESSION:  This is a technically challenging but likely normal EEG although it is a low voltage study.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  When the patient's  tremor stops, a well-defined, low voltage posterior dominant rhythm can be seen.  If there is concern about an underlying seizure disorder, a more prolonged study capturing sleep may be of use.  In addition, repositioning the patient may be helpful in eliminating the tremor artifact.
+
+
+

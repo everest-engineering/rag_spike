@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 64-year-old male with abnormal CT scan with right cerebral edema, dizziness, and fluctuating mental status.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetry.  The left hemisphere includes a posterior dominant rhythm of approximately 9 Hz.  There is mild background slowing noted in the left and occasional bursts of irregular delta noted on the left.  The right hemisphere demonstrates significant disruption of faster frequency with paucity of the alpha rhythm on the right and a slower alpha rhythm of approximately 6 Hz.  Lower voltage, slow delta was noted.  In drowsiness, there are some bursts of more generalized bilaterally, frontally predominant slowing.  Deeper stages of sleep were not obtained.  Heart rate 60 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the right hemisphere with disruption of faster frequency activity on the right.
+Abnormal background on the left with intermittent background slowing and occasional bursts of arrhythmic slowing from the left.
+Clinical Correlation:  This EEG supports a structural or functional process on the right affecting gray and white matter.  In addition, there is intermittent slowing on the left, suggesting a bihemispheric process.
+
+
+

@@ -1,0 +1,30 @@
+History:	39 year old woman status post anoxic brain injury, now with stereotyped movements
+that occur upon stimulation.
+Medications:	no AEDs listed
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR, AP gradient or reactivity.  The background is attenuated and suppressed, even at
+2 microV/mm.  No normal sleep architecture is present.
+Several episodes of bilateral arm extension and head movements are captured.  They are only
+associated to movement artifact.
+There is no reactivity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Burst-suppression pattern, marked
+Event, few, no change in the background
+No reactivity
+Interpretation:
+This is an ABNORMAL 1 hour portable EEG due to complete burst-suppression pattern and lack of
+reactivity. These findings are etiologically nonspecific indicators of marked diffuse cerebral
+dysfunction and in post-anoxic brain injury indicate poor chance of full neurological recovery.
+Several episodes of bilateral arm extension and head movements are not associated with any
+change in the EEG background.  This is an isoelectric EEG but is was NOT performed according
+the the ACNS guidelines for the determination of electrocerebral inactivity.  These findings were
+conveyed to the neurology consult team.
+
+
+
+
+

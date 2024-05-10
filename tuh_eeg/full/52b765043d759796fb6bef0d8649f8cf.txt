@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 57 year old right handed woman with previous AVM currently seizure free.
+MEDICATIONS: Trileptal
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz alpha rhythm identified from the left hemisphere. The left hemisphere is at the limits of organization. The right hemisphere demonstrates arrhythmic delta activity, disruption of faster frequency activity and a right temporal T4 maximum sharp wave. Hyperventilation is performed with good effort and seems to accentuate focal slowing in the right mid to posterior temporal region as well as arrhythmic delta activity and almost some rhythmic slowing. There are a handful of sharp waves also noted in the left temporal region. In fact, some seen on the left seem to precede the right. Features of drowsiness include an increase in focal slowing particularly from the right posterior quadrant. Photic stimulation elicits no driving.
+
+HR: 72 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing from the right hemisphere particularly right posterior temporal region.
+2. Right temporal sharp waves.
+3. Shifting slowing but there are actually rare sharp waves on the left.
+
+CLINICAL CORRELATION: These findings are similar to a single previous EEG which was found in the file and dated 2008.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 73 year old woman with right carotid stenosis.
+MEDICATIONS: Propofol, Fentanyl, Vecuronium, Lidocaine,
+INTRODUCTION: Digital video EEG was performed at bedside using standard system of electrode placement with 1 channel of EKG. This 3 hour recording begins at 8:56 in the morning. The patient was in the operating room having received sedative hypnotic medications prior to the initiation of this study.
+DESCRIPTION OF THE RECORD: This is a somewhat technically challenging EEG particularly as electrodes were adjusted throughout the procedure. The post anesthesia record includes a mixed frequency background with some shifting asymmetry. At times there is a prominent, shifting asymmetry of the faster frequency activity. Such asymmetry is present at the time of the clamp of the internal carotid at 10:26:46 in that
+there is relatively less faster frequency activity in the right frontocentral region. Placement of the clamps does not significantly activate the record. The common carotid was unclamped at 11:42. No additional focal features were noted. Patency is confirmed by Doppler and the record concludes at 11:45.
+HR: 50 bpm
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this right carotid endarterectomy study was remarkable for shifting asymmetries but no significant focal features were observed with placement of the clamp.
+
+
+

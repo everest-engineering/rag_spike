@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is an EEG done for a 53-year-old woman who comes with refractory epilepsy since age of 11 with multiple different semiologies of seizures.  Seizures usually start with an aura and at times, she only has automatism on the right arm and at times, it goes on to have a generalized tonic-clonic seizure.
+MEDICATIONS:  She is on Klonopin and Topamax.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation and hyperventilation.
+TECHNICAL:  This is a satisfactory record, impedance is under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is abundant diffuse beta.  The maximal wakefulness of the alpha rhythm reaches 9 Hz, but as the patient becomes drowsier, she is close to 7 Hz.  Neither hyperventilation or photic stimulation activate the record.  Heart rate is 78 per minute.
+IMPRESSION:  This EEG is remarkable for excess beta.
+CLINICAL CORRELATION:  No sharp waves or spikes were seen.  The generous beta may be due to patient's anxiety or medications.
+
+
+

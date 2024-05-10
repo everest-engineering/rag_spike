@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 57-year-old male with episodic dizziness.  These spells occur twice per month, lasting 5-10 minutes.  The patient may have visual spots before these spells.
+MEDICATIONS:  Aspirin, Norvasc.
+INTRODUCTION:  Routine 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed in this routine 20-minute EEG.  Impedances were under 5 kilohms with the exception of the T1-T2 electrode.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized for age.  There is a 10.5 hertz alpha rhythm with a small amount of low voltage, frontal central beta.  Generous beta and muscle are noted throughout the record.  As the patient becomes drowsy, there is an increase in beta, but the muscle artifact persists.
+Photic stimulation elicited a driving response.
+Hyperventilation produces a slight increase in amplitude of the background.
+Heart rate 66 bpm.
+IMPRESSION:  This EEG is within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were noted in this record.  The generous beta and muscle artifact can be due to anxiety or other causes.  If epilepsy is an important consideration, a more prolonged EEG may be of value.
+
+
+

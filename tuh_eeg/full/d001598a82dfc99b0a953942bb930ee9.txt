@@ -1,0 +1,31 @@
+History:	70 YR OLD MALE PRESENTS WITH H/O CHANGE IN MENTAL STATUS W/ GEN
+INCREASE IN TONE IN ARMS-LEGS ( FINE TREMORS) LASTING 20 MIN. LOADED
+WITH VERSED, ATIVAN AND KEPPRA IN ED. PMHX SIG FOR IDDM, HIV
+Medications:	Dilantin, Keppra
+Sedation:	None
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.   Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by polymorphic
+and monomorphic diffuse low voltage1-3 Hz delta and 5-6Hz theta activity with absence of the
+expected anterior to posterior gradient of frequencies.  There is excess beta activity seen as well.
+No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Interpretation:
+This is an ABNORMAL 24 hour video EEG because of diffuse background slowing and absent alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.  These findings were conveyed to the primary team.  No clinical or electrographic
+

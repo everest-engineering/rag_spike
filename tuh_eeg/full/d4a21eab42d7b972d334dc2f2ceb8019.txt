@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  Aortic root and coronary artery disease.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically somewhat challenging recording in the perioperative unit.  The record captures wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 12 hertz alpha rhythm with a small amount of low voltage, frontocentral beta.  Brief drowsiness is characterized by slow rolling eye movements and an increase in beta.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  This record will be utilized as a baseline for this patient's perioperative study.
+
+
+

@@ -1,0 +1,23 @@
+History:	25 year old man with acute renal failure and change in mental status.
+Medications:	Zosyn, Vancomycin, labetalol and others
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes
+Description:
+The posterior dominant rhythm reaches polymorphic low amplitude 8-8.5 Hz activity.  The anterior
+to posterior frequency-amplitude gradient is weak.  Excess diffuse admixed 50-75 uV, 5-7Hz activity
+is present throughout the recording.  Frequent brief (2-5 second) bursts of 100-200uV, 2-4Hz
+rhythmic bifrontal slow waves occur throughout the recording.  No normal sleep architecture is
+Hyperventilation and photic stimulation are not performed.  Improvement in the PRD is seen with
+stimulation.  Sinus tachycardia is noted on a single EKG lead.
+Summary of Findings:
+FIRDA (frontal intermittent rhythmic delta activity), frequent
+No electrographic seizures
+Diffuse slowing, polymorphic, mild-to-moderate
+Interpretation:
+This is an ABNORMAL 31-minute EEG due to mild-to-moderate diffuse background slowing,
+disorganization and FIRDA. These findings are etiologically nonspecific indicators of mild-to-
+moderate diffuse cerebral dysfunction.  FIRDA is seen in various encephalopathies, increased ICP,
+bilateral deep white matter lesions.  No electrographic seizures are present.
+
+

@@ -1,0 +1,28 @@
+:
+History:	55 YR MALE WITH NEW ONSET SZ GTC. CT B/L GLIOSIS FRONTAL LOBES R>L.
+RIGHT CAUDATE INF.
+Medications:	DILANTIN CHANGED TO KEPPRA
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Frequent polymorphic delta activity is present in the left frontal region during wakefulness,
+increasing during drowsiness.  At time this appears monomorphic.  No epileptiform discharges are
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving.  HR 56
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent focal slowing in the left
+frontal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-
+specific, but likely related to his known trauma.  The lack of epileptiform discharges on a routine
+EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

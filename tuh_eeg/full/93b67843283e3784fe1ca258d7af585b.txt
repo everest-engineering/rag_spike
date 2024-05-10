@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  38 year old right handed woman with episodes of hypersomnolence.  The patient has speech arrest for 5 to 10 minutes afterward.  Family history of epilepsy.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake through stage I sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10.7-Hz alpha rhythm.  The patient spends much of the record in subtle drowsiness with slowing of the alpha rhythm and an increase in beta.  Other features of drowsiness include rhythmic frontocentral theta. Photic stimulation elicits bilateral driving.  Hyperventilation produces a small amount of slowing as well as movement artifact.
+HR:    84 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage I sleep.
+CLINICAL CORRELATION:  No epileptiform features were observed.  Deeper stages of sleep were not achieved.
+
+
+

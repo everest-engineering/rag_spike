@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  A 70-year-old male with a complex past medical history including hypertension, pulmonary embolus, coronary artery disease, CABG, sick sinus syndrome, severe sleep apnea, CHF on chronic oxygen therapy with fluid overload, for a pulmonary thrombectomy today.
+MEDICATIONS:  Versed, Etomidate, vecuronium, Succinyl Choline, Isoflurane, fentanyl, lidocaine, Solu-Medrol, others.
+INTRODUCTION:  Intraoperative monitoring was performed using the standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically challenging OR hook up without optimal impedances for all electrodes.  In addition, electrode placement had to be modified because of the surgical technique.  Recording began in the OR at 8:54 a.m. and concluded at 3:17 p.m.  This is a 7.3 hour duration record. 4.5 hours physician OR review time (remote review, only 1 case)
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is in the OR.  The EEG includes a continuous pattern with a mixed frequency background.  There is a slight asymmetry noted in that there is somewhat higher amplitude activity in the right occipital region in comparison to the left.  Anesthesia is adjusted at 9:05 a.m.
+There is intermittent Bovie artifact noted in the EEG.
+Prior to the procedure, at 9:54:  The patient has a Bovie and then an abnormality in the electrocardiogram  which is hard to identify in the EEG which is somewhat obscured, but following the Bovie, the patient is cardioverted x2 and received lidocaine and potassium at 9:47 a.m.  The EEG is obscured by some of the treatments,  but is not otherwise changed from its baseline anesthetic pattern.  The patient is placed on bypass at 11:36 a.m.  As  anesthetic medications are adjusted, the EEG is intermittently discontinuous.
+The process of cooling is initiated at noon.  The EEG is intermittently discontinuous at 11:43.
+At 12:20:  The body temperature is 30.4 degrees.
+At 12:37:  The body temperature is 24.4 and the EEG demonstrates more monomorphic slow pattern.
+At 1:18:  The EEG is nearly completely suppressed and the procedure begins.  The patient remains cooled throughout.  It is an essentially suppressed pattern with a small degree of artifact noted.  It is noted to be  markedly suppressed at 1:32 and remains that way despite some artifacts.
+At 1:45:  In the context of a suppressed EEG pattern in a patient that has been, the surgeon has obtained circulatory arrest.  EEG monitoring continues.  Reperfusion begins at 2:00.  Intermittently on and off circulatory arrest.  Circulatory arrest is noted again at 2:08.
+The patient is warmed at 2:43.
+At 3:17:19, the EEG demonstrates a low voltage slow, but continuous pattern.
+Heart rate as described above, 70 beats per minute at conclusion of the study.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this   cardiopulmonary procedure was remarkable for the ability to obtain a suppressed cerebral pattern during hypothermia and perform it during the procedure.
+
+
+

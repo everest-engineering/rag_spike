@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  54 year old male admitted with profound left-sided weakness and syncope, imaging negative for stroke.
+
+MEDICATIONS:  Versed, Ativan.
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was described as agitated and poorly cooperative, requiring sedation.  Good electrode impedances were achieved despite the muscle artifact.
+
+DESCRIPTION OF THE RECORD:  Although the patient was initially agitated, when the patient calms down, the EEG is diffusely slow with generous beta and as the recording continues, the patient arouses spontaneously, but is drifting off to sleep with prominent frontal beta.  Stimulation of the patient does produce an alerting response.
+
+HR:    72 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Excess beta.
+2. Lower voltage, slower pattern.
+
+CLINICAL CORRELATION:  This EEG is most compatible with a pharmacologic sedation.  There are no focal or epileptiform features identified.

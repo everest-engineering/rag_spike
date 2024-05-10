@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 22-year-old woman with depression and sickle cell trait with reported epilepsy since October 2013 with sudden onset numbness arm, leg, and face, followed by generalized tonic-clonic seizure.
+MEDICATIONS:  Celexa and Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat disorganized for an adult of this age.  During some portions of the waking record, the posterior dominant rhythm is 8 hertz, in later sections it reaches 9.7 hertz.  There is excess background theta, a small amount of disorganization, and a subtle asymmetry.  There is a bit more irregular theta-delta in the left hemisphere relevant to the right.
+Hyperventilation seems to accentuate the findings in the left hemisphere.  Features of drowsiness include an increase in background slowing.  Deeper stages of sleep were not sustained.
+Photic stimulation elicits scant bilateral driving.
+Heart rate 108 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Background slowing and disorganization.
+Intermittent slowing of the alpha rhythm in apparent wakefulness.
+A subtle asymmetry with subtle focal features on the left, accentuated by hyperventilation.
+CLINICAL CORRELATION:  No epileptiform features were noted.  Additional EEG assessment may be important for this young adult with recent epilepsy diagnosis.
+
+
+

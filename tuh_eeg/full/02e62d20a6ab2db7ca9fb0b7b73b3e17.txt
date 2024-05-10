@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  39 year old right handed with complex partial epilepsy status post right temple lobectomy with an unusual spell characterized by a dream as if she was having a seizure followed by awakening to find bilateral shaking.
+MEDICATIONS:  Depakote, Trileptal, Metformin, Lantus, Synthroid, Effexor
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  The patient has a prominent craniotomy deformity with a breach rhythm in the right temporal region.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Hyperventilation is performed early in the record, clearly accentuating focal slowing in the right temporal region.  After this, as the patient becomes drowsy there are occasional right anterior temporal spike or sharp waves observed.  These can be differentiated from the EKG artifact.  There is also some double-phase reversing artifact noted in the same region.  Features of sleep include vertex waves.  K-complexes are also noted.  The epileptiform activity is noted following hyperventilation and early drowsiness primarily and not so much in sleep.   Photic stimulation elicits scant driving, more so on the left.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Right temporal focal slowing.
+In this sharply contoured record, right temporal sharp waves.
+CLINICAL CORRELATION:  This EEG supports a structural process, compatible with the previous craniotomy.  The right temporal sharp waves may be accentuated by the cranial defect but suggest an ongoing potential for seizures.
+
+
+

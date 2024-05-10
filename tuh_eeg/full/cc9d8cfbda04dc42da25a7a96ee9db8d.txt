@@ -1,0 +1,18 @@
+History:	47 yo male found down 12/26/14 prior to arrival to ED last seen normal 1 hr prior. lying on side, drooling, drowsy, and confused, + urine incont. no tongue laceration. baseline within 20 min. no twitching or convulsions. pmh: mr since birth.
+Medications:	None
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, photic
+Description:
+Waking background is attenuated and characterized by a 9Hz alpha rhythm, which attenuates symmetrically with eye opening.  There is excessive symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves. No focal slowing is present.  No epileptiform discharges are present. Stepped photic stimulation from 1-21 flashes per second (fps) does not induce a symmetric photic driving response.
+Summary of Findings:
+Beta, abundant
+Attenuation, continuous diffuse
+Interpretation:
+This is a mildly ABNORMAL EEG, awake and drowsy due to excess beta activity and diffuse attenuation.  No epileptiform discharges were present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional information.
+
+
+
+
+
+

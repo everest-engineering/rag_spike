@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 63-year-old woman with history of surgery for a cerebral lead 2 years ago and 2 subsequent seizures.  She was awake and briefly drowsy during the study.
+MEDICATIONS:  NEURONTIN, KEPPRA
+INTRODUCTION:  A routine 21-channel EEG was performed utilizing a standard 10-20 system of electrode placement along with photic stimulation, EKG, and EOG monitoring.
+DESCRIPTION OF THE RECORD:  The awake, resting background reveals a large amount of well-developed 8.5 to 9 Hz rhythmic activity posteriorly on the right.  Dominant posterior rhythm was much less well-developed on the left with regular 5-9 Hz low-to-medium amplitude activity.  Low amplitude 18-25 Hz activity was seen of her bilateral frontocentral regions.  Low amplitude muscle artifact was noted.  Throughout the record, there was nearly continuous irregular low-to-medium amplitude left hemispheric widespread theta activity with increased drowsiness, attenuation of posterior rhythm activity, muscle artifact, and beta activity were noted and there was asymmetric central beta activity, which was significantly high in amplitude and most prominent over the left central region at C3 (? breach rhythm).  Photic stimulation produced minimal asymmetric driving, which was poorly developed on the right.  A photic flash stimulus of 7 Hz, an alpha harmonic driving response at 14 per second was seen over the right occipital scalp regions.  Hyperventilation was not performed.  EKG monitored showed normal sinus rhythm at 60 per minute with ST-T wave abnormalities.
+IMPRESSION:  Abnormal EEG due to left hemispheric continuous slowing, asymmetry of alpha activity, which was later developed on the right, and questionable left central breach rhythm.  The above changes are indicative of a functional disturbance involving left hemisphere, although there were no pathologic spikes or sharp wave epileptiform transients seen.  No clinical or electrographic seizure were recorded.
+_
+
+
+
+
+
+

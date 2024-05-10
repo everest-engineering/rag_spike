@@ -1,0 +1,40 @@
+AGE: 46 y.o.
+SEX: male
+DATE OF STUDY: 10/16/2015 RECORDING ENVIRONMENT : Outpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG #: 15-1535
+HISTORY:
+46 y.o. male with a history of epilepsy	And NES referred for routine EEG.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+levetiracetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily.
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+calcium-vitamin D (OYSTER SHELL CALCIUM-VIT D3) 500 mg(l,250mg)
+-200 unit per tablet, TAKE ONE TABLET BY MOUTH EVERY DAY
+LORAZEPAM PO, Take	by mouth.
+SEDATION: None TECHNIQUE :
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity , organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. Bilateral wicket was seen.	Intermittent left, right or bilateral theta was noted
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+EPILEPTIFORM ACTIVITY:
+Two right temporal sharp waves were seen
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+Bilateral paroxysmal temporal theta,
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are	performed.
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is abnormal Awake and drowsy	routine EEG.
+Two right temporal sharp waves
+Independent right or left or bilateral paroxysmal theta
+CLINICAL CORRELATION:
+This is ab normal Awake and drowsy routine EEG, with findings similar to the many prior studies which have included right or left temporal sharp waves.
+This	EEG does support the diagnosis of epilepsy.
+
+
+

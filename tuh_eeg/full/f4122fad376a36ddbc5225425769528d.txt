@@ -1,0 +1,24 @@
+CLINICAL HISTORY:  57 year old female with change in mental status and Hepatic encephalopathy.
+
+MEDICATIONS:  Gentamicin, Vancomycin.
+
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are preformed. The patient is agitated. The patient is confused and demonstrated automatisms.
+
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly abnormal background with an interhemispheric asymmetry. The overall background is slow. It is a theta delta pattern. There is a prominent beta asymmetric with significantly more beta in the left hemisphere particularly mid temporal and frontotemporal. Broadly formed triphasic waves are observed. There is some electrode artifact with positive sharps, but no definitive epileptiform sharp waves.
+
+HR:	120 bpm
+
+
+IMPRESSION: Abnormal EEG due to:
+1.	Background  slowing.
+2.	intrahemispheric asymmetry with more prominent beta on the left.
+3.	Triphasic waves.
+
+CLINICAL CORRELATION:  This EEG supports both a focal process as well as a generalized process. The background slowing and triphasic waves may be seen in hepatic encephalopathy. The focal features may be correlated with imaging.
+
+
+
+
+
+

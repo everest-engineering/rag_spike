@@ -1,0 +1,15 @@
+INPATIENT ROOM:  779
+CLINICAL HISTORY:  This is a 79-year-old female with recent left MCA stroke, on warfarin with change in mental status with abrupt onset.
+PAST MEDICAL HISTORY:  Significant for the chronic kidney disease, on hemodialysis; myocardial infarction; hypertension.
+MEDICATIONS:  Levetiracetam, Norvasc, terazosin, labetalol, aspirin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 8.5 to 9 Hz performed in the right occipital region, which attenuates with eye opening.  There is hemispheric asymmetry, which is characterized by left hemispheric attenuation and slowing with loss of faster frequencies.  There is also almost continuous left temporal delta activity maximal at T3/T1 during this recording.  There are occasional sharp wave discharges noted at T3/C3/T5 with no evolution or electrographic seizures.  There is excess theta activity during wakefulness.  Stage I and stage II sleep were characterized by disappearance of the posterior dominant rhythm, slowing of the background, and absence of muscle and eye blink artifact, as well as the presence of vertex sharp waves and posts and also K complexes and sleep spindles.  Photic stimulation was performed at multiple flash frequencies and results in an asymmetric driving response, most pronounced on the right side.  Heart rate was 60 and regular.
+IMPRESSION:  This is an abnormal EEG due to;
+Left hemispheric asymmetry characterized by slowing, attenuation, and loss of faster frequencies.
+Almost continuous left temporal delta activity, maximal at T3 and T1.
+Occasional sharp wave discharges noted at C3/T3/T5.
+Excess theta activity during wakefulness.
+CLINICAL CORRELATION:  Left hemispheric asymmetry characterized by loss of faster frequencies and attenuation could be due to a history of left MCA ischemic stroke.  Continuous left temporal delta activity in left temporal region could be due to structural abnormalities in the left temporal area or left temporal dysfunction.  The sharp wave discharges in left parietal, central, and temporal region are indicative of irritability of cerebral cortex in this area and place this patient at higher risk for partial seizures.  Diffuse excess theta activity is suggestive of toxic, metabolic, degenerative, infectious, or ischemic encephalopathy.  Clinical correlation is recommended.  There were no electrographic seizures or clinical seizures noted during this recording.
+
+
+

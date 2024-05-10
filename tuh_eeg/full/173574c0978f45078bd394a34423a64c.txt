@@ -1,0 +1,29 @@
+History:	61 year old woman with a history of chronic and, now, acute, strokes. Her mental
+status remains poor and her neurological exam fluctuates.
+Medications:	ASA, no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, lethargic
+Description:
+There is no clear PDR or AP gradient.  The background consists primarily of polymorphic diffuse
+theta activity, occasional polymorphic alpha activity and bursts of diffuse frontally predominant
+delta activity (FIRDA).  Drowsiness is characterized by increase in the amount of polymorphic delta
+Hyperventilation and photic stimulation are not performed.  Patient moves a lot throughout the
+Summary of Findings:
+No epileptiform discharges
+Artifact, movement
+Diffuse slowing, polymorphic, moderate
+No stage 2 sleep
+FIRDA (frontal intermittent rhythmic delta activity)
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 22-minute EEG due to moderate diffuse
+slowing. This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.  FIRDA is could be seen in encephalopathy, increased ICP, bilateral deep white matter
+lesions.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical
+
+
+
+
+
+

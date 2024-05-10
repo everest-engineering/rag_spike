@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 60-year-old male with a history of cortical infarcts and episodes with loss of consciousness, evaluate for seizure versus syncope.
+MEDICATIONS:  Wellbutrin, Protonix, Norvasc, Risperdal, and magnesium.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  The patient made poor effort with hyperventilation.  Impedances were acceptable with the exception of T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was an 11 Hz alpha rhythm with a generous amount of low voltage, frontal central beta.  Drowsiness was characterized by slow rolling eye movements with attenuation of the alpha rhythm.  Beta spindles and vertex waves were noted in stage II sleep, followed immediately by arousal.
+Photic stimulation elicited vigorous bilateral driving. Hyperventilation did not significantly activate the record.
+HEART RATE:  60 BPM, occasionally irregular.
+IMPRESSION:  This is a normal awake and drowsy EEG.
+CLINICAL CORRELATION:  In this individual with a question of seizure versus syncope, there were no epileptiform features noted but there were abnormalities in the EKG.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 58-year-old male with GBM, admitted with episodes of left hemibody jerking and confusion.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible for this very confused and agitated individual.  The patient had multiple episodes of left hemibody shaking.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is disorganized. There is some seconds in the awake record where there is a 9 hertz alpha rhythm seen on the right.  The left hemisphere demonstrates more beta as well as a breech rhythm and a phase reversal at T5.  The patient's episodes of tremulousness on the left seem to be associated  with physical discomfort or pain.  He is responsive during the events, but does not seem to recall them afterwards.
+In addition, he has intermittent restlessness of the right leg which is not stereotypic in nature.
+The behavioral episodes of shaking on the left are associated with muscle artifact but without a definitive EEG pattern.
+Heart rate 108.
+IMPRESSION:  This is an abnormal electroencephalogram due to:
+Background slowing and disorganization.
+A superimposed area of focal slowing most prominent in the left posterior temporal region.
+In the sharply contoured background with a breech rhythm is suggestion of a T5 sharp wave.
+CLINICAL CORRELATION:  This patient's motor behaviors were not associated with a well defined EEG change aside from the muscle artifact.  There is perhaps an area noted with one of the behavioral spells with perhaps a CZC4 spike but the vast majority of the patient's clinical seizures were not associated with a distinct EEG signature.
+This EEG is most supportive of an epilepsia partialis continua phenomenon.  This is a technically challenging EEG due to the patient's physical discomfort and agitation, but consideration for a CZC4 epileptiform focus is appropriate. Compared to previous EEGs, the T5 focal slowing has been previously described.  Previous sharp waves have been noted from either hemisphere.  The seizure type described today seems to be a new seizure for this individual.
+
+
+

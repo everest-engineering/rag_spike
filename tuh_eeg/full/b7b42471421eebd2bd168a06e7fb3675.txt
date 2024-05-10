@@ -1,0 +1,41 @@
+
+
+
+
+
+History:	67 year old man who underwent cardiac ablation yesterday.  This am, following a successful extubation, patient developed acute change in mental status in the setting of severe HTN.  Stroke code was activated and patient received tPA.
+
+
+Medications: Sedation: EEG Type: Technique:
+
+
+Propofol drip, versed drip and versed IVP
+
+
+Continuous (inpt, video), 24 hrs, portable
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes,  obtunded
+
+
+
+Continuous bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for -13 hours from 09/03/2014 till 09/04/2014.    Nursing? initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage polymorphic delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.   Frequent low amplitude brief diffuse sleep-spindle-like waveforms are noted.  As the recording progresses, the amount of polymorphic theta activity increases.  No normal sleep architecture
+is present but periods of quiescence are captured.
+
+There is paucity of faster frequencies over the left hemisphere.
+
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, left hemispheric
+
+Interpretation:
+This is an ABNORMAL continuous 13 hour video EEG due to moderate-to-severe diffuse slowing and focal slowing over the left This finding is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific, but at least partially is medication induced.  The degree of slowing decreases as the recording progresses and it supports the prior  statement that some degree of slowing is due to medication effect.  Continuous focal slowing over the left is indicative of a focal structural lesion in this region
+
+
+

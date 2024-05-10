@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 36-year-old male who developed a 1st seizure in June 2015 and has current daily seizures characterized by aura of sleepiness, loss of consciousness, shaking, eyes rolling, and then is incontinent with postictal exhaustion. History of asthma, COPD, and family history of epilepsy.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is a technically acceptable EEG with most impedances below 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.5 Hz posterior dominant rhythm in a pattern rich in beta and a small amount of diffuse theta.  Sleep was characterized by hypersynchronous rhythmic slowing and an increase in beta.  Sleep was not sustained and the patient seems to be a bit restless.  Occasional muscle twitch artifact was noted.
+Photic stimulation elicited bilateral driving.
+Heart rate:  90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excess background theta.
+Mild background slowing and disorganization.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified.  If additional information is needed, a more prolonged study in search of epileptiform activity is advised.  Correlation with this patient's clinical history and medications may be relevant given the excess theta and beta which can sometimes due to medication effect.
+
+
+
+
+

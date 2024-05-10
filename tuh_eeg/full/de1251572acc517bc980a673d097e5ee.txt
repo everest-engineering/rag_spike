@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 71 year old right handed woman admitted on 11/22/2010, with intracerebral hemorrhage.
+MEDICATIONS: Dopamine, Keppra, Insulin.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is intubated and comatose. She has previously had an examination for brain death. The patient's body temperature is not provided.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates EKG artifact.
+Tactile stimulation of the patient does not activate the record. The electrode integrity is confirmed by tapping on the electrodes.
+HR: 106 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Absence of definitive cerebral activity.
+CLINICAL In the appropriate clinical context, this EEG is compatible with electrocerebral silence or brain death.
+
+
+

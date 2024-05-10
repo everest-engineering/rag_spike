@@ -1,0 +1,31 @@
+History:	41 YR OLD MALE WITH PRIOR EEG PRESENTS ON 3/14/14 WITH H/O RT ARM,
+LEG, SHOULDER JERKING 5-10 MIN X 4 EPISODES .HAS FULL RECALL OF
+EVENTS, ALSO REPORTS 1-2 EPISODES ON 3/13/14 ALONG WITH DIFFICULTY
+GETTING WORDS OUT X2 DAYS. PMH SIG FOR LRE X 2 YRS, HTN
+Medications:	PHENOBARBITAL, KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, photic
+Description:
+With maximal stimulation, the record is well organized and an 8 Hz posterior dominant rhythm can
+be seen. However, without stimulation there is intrahemispheric asymmetry:  Over the right
+hemisphere, an 8 Hz posterior dominant rhythm is seen with an anterior-posterior gradient in
+amplitude. The left hemisphere is less organized and the background activity is mostly in the theta
+and delta range.  During drowsiness, the background attenuates, and 5-7Hz slow waves appear
+diffusely, followed by symmetric vertex waves.  During stage 2 sleep, the record slows further to
+moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Frequent left posterior quadrant sharp waves were seen, maximally at O1. These were often
+associated with mid to posterior left temporal periodic complexes, which at times were nearly
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities. The patient was in stage II sleep during photic
+Summary of Findings:
+Sharp-and-slow-wave complexes, abundant, left posterior quadrant
+Focal slowing, polymorphic, intermittent, left hemispheric
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the left posterior quadrant.  The nearly continuous and somewhat evolving pattern may be
+evidence of late status epilepticus. These findings are consistent with the patient's history of
+localization-related epilepsy.  The intermittent focal slowing in the left hemisphere is indicative of
+focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.
+

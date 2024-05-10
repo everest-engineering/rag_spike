@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  23 year old right handed woman evaluated for seizures versus syncope.  Syncopal episodes for the past 5 years, with sudden loss of consciousness, quick return to baseline.  The patient was evaluated for an episode with postictal confusion.  She reports a strange smell prior to her spells.  Past history of open heart surgery.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with an 11 Hz alpha rhythm. Hyperventilation produces an increase in theta.
+Photic stimulation elicits a driving response.
+HR:    48 bpm
+IMPRESSION:  A normal EEG in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow up study capturing one of her spells or capturing deeper stages of sleep is suggested.
+
+
+

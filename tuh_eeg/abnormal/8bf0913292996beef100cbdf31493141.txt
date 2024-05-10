@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 	41   year old right handed male with recurrent panic attacks and syncopal episodes.
+MEDICATIONS:  Klonopin.
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1  channel EKG.  Hyperventilation and photic simulation are performed.   This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:   In wakefulness, there is a 9.5 Hz posterior dominant rhythm. Features of drowsiness including increasing beta.  Brief stage II sleep is observed followed by spontaneous arousals.  Hyperventilation produces an increasing amplitude of the background.  Photic stimulation is performed as the patient is drifting off to sleep and does elicit scant driving.
+HR:	84 bpm
+IMPRESSION: Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:   No epileptiform features are observed. The sleepiness and the generalized beta may be due to the patient's medications.
+
+
+

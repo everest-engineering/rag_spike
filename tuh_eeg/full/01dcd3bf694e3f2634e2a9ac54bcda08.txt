@@ -1,0 +1,88 @@
+AGE: 56 y.o.
+SEX: female
+START DATE OF STUDY: 11/30/2015 at 10:33 END DATE OF STUDY: 12/2/2014 at 09:08 RECORDING ENVIRONMENT: ICU
+EEG TYPE: long term video monitoring EEG #: 15-338
+HISTORY:
+56 y.o. female with a history of lung cancer s/p RUL lobectomy, SAH s/p craniotomy and clip to L ICA, CVA, febrile and undergoing treatment with antibiotics for pneumonia, referred for routine EEG for assessment of mental status change.
+MEDICATIONS:AZTREONAM , METRONIDAZOLE; loaded with fosphenytoin on Day 1 and continued on maintenance phenytoin during study
+SEDATION: Propofol, Fentanyl off since 11/30/2015 07:00 TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (11/30/2015, 10:33 - 12/1/2015 06:00) EEG BACKGROUND :
+The background is continuous, symmetric, and poorly organized, consisting of a mix of delta and theta with occasional alpha.
+There is reactivity, variability, and state change.
+Sleep is characterized by background slowing to predominantly delta with admixed theta.
+There are no sleep transients.
+There is moderate to severe diffuse slowing.
+*as the study progresses on this day, the leads over the right hemisphere (F4, C4, T6) become increasingly affected by lead artifact.
+EPILEPTIFORM ACTIVITY:
+Nearly continuous left temporal sharp-and-slow-waves at 1 Hz, broadly distributed over the left temporal region but at times more defined over the midtemporal region (T3 max) .
+Occasionally these have a broader distribution over the left central region (C3/P3) . These are present during wakefulness (SIRPIDS, stimulus-induced rhythmic/periodic discharges) and become frequent in sleep.
+Rare right temporal sharp waves (T4 max) .
+Rare rhythmic delta activity (RDA) at 1 Hz over the left hemisphere for <10 sec periods
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 114 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal long term video EEG due to:
+Moderate to severe diffuse slowing
+Background disorganization
+Nearly continuous left temporal sharp-and-slow-waves at 1 Hz (lateralized periodic discharges [LPDs] a.k.a. Periodic lateralized epileptiform discharges [PLEDs]) in wake, decreasing in prevalence during sleep
+Rare right temporal sharp waves (T4 max) .
+Rare rhythmic delta activity (RDA) at 1 Hz over the left hemisphere for <10 sec periods
+Tachycardia
+CLINICAL CORRELATION:
+These findings indicate the presence of left temporal highly epileptogenic discharges as well as right temporal epileptogenic discharges, superimposed on moderate to severe diffuse cerebral dysfunction.
+There are no definite electrographic seizures seen.
+DAY 2 (12/1/2015, 06:00 - 12/2/2015, 06:00)
+*Propofol drip started at 12/1/2015 11:40.
+BACKGROUND: There is increasing attenuation of the background on this day (patient noted to be on sedation by 11:40). By 12:27, the record is noted to be nearly continuous. As background becomes sedated, higher amplitude activity becomes more apparent over left hemisphere.
+GENERALIZED SLOWING: severe generalized slowing FOCAL SLOWING: No change
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :None SPORADIC EPILEPTIFORM ACTIVITY:
+Abundant left temporal sharp-and-slow-waves at 1 Hz, broadly distributed over the left temporal region but at times more defined over the midtemporal region (T3 max) . Occasionally these have a broader distribution over the left central region (C3/P3). These become nearly continuous at 1 Hz during periods of relative wakefulness (SIRPIDS, stimulus-induced rhythmic/periodic discharges) . These discharges become less frequent (seen "occasionally") by 18:00.
+Frequent right fronto-temporal sharp waves (F8/T4 max), frequently periodic at 1-2 Hz for runs < 5 seconds . These become "rare" as the record progresses on this day.
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured tachycardia up to the 120s-140s
+*Note there is occasional lead artifact over C4 and rarely over T4 on this day, limiting interpretation over this region.
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+This is an abnormal long term video EEG due to:
+Moderate to severe diffuse slowing, worsening over the course of the day today
+Background disorganization
+Higher amplitude activity noted over the left hemisphere
+Abundant left temporal sharp-and-slow-waves at 1 Hz, broadly distributed over the left temporal region but at times more defined over the midtemporal region (T3 max) . Occasionally these have a broader distribution over the left central region (C3/P3) . These become nearly continuous at 1 Hz during periods of relative wakefulness (SIRPIDS, stimulus-induced rhythmic/periodic discharges) . These discharges become less frequent (seen "occasionally") by 18:00.
+Frequent right fronto-temporal sharp waves (F8/T4 max), frequently periodic at 1-2 Hz for runs < 5 seconds . These become "rare" as the record progresses on this day.
+Tachycardia
+These findings are significant for left temporal > independent right temporal epileptogenic potentials, becoming less prevalent over the course of the day.	Additionally there is worsened degree of cerebral dysfunction. Higher amplitude activity noted over the left hemisphere is consistent with breach artifact, and
+congruent with known history of left craniotomy.	Taken together, these findings are likely due at least in part to sedation on this day. There are no electrographic seizures. Tachycardia is noted on a single EKG lead.
+DAY 3 (12/2/2015, 06:00 - 12/2/2015, 09:08)
+*Propofol briefly stopped in morning during rounds.
+BACKGROUND: moderate to severe diffuse slowing; background disorganization
+GENERALIZED SLOWING: as above
+FOCAL SLOWING: No change
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) : None SPORADIC EPILEPTIFORM ACTIVITY:
+Frequent left temporal sharp-and-slow-waves, becoming periodic at 1 Hz for runs up to 60 seconds over the course of this day
+Frequent right fronto-temporal sharp waves (F8/T4 max)
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured a heart rate in 100s-120s
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+Similar to previous days. Improvement in background slowing correlates with down titration of propofol. Sharp waves become more prevalent and periodic (especially over the left) as background slowing improves.
+FINAL IMPRESSION:
+This is abnormal video EEG due to:
+Moderate to severe diffuse slowing, worsening on day 2 (correlating with administration of sedating medication) and improving during sedation holiday on day 3
+Background disorganization
+Higher amplitude background rhythms noted over the left hemisphere, noted on day 2 during more sedated periods
+Left temporal sharp-and-slow-waves seen throughout the study. These are often periodic at 1 Hz during times of relative wakefulness/ less sedation, and decrease in frequency during sleep/periods of use of sedating medications.
+Right fronto-temporal sharp waves, waxing and waning in prevalence over the course of the study
+Rare rhythmic delta activity (RDA) at 1 Hz over the left hemisphere for <10 sec periods, seen on Day 1
+Tachycardia seen on a single EKG lead throughout the study FINAL CLINICAL CORRELATION:
+These findings indicate the presence of left highly epileptogenic potentials. These increase during periods of stimulation and respond to sedating medication. There are independent right
+fronto-temporal epileptogenic potentials that wax and wane in prevalence over the course of the study but are always less prevalent than the left sided potentials.
+These discharges are superimposed on moderate to severe diffuse cerebral dysfunction, which worsens during periods of sedation, and improves during sedation holidays.
+Higher amplitude activity seen over the left hemisphere is most consistent with breach rhythm, congruent with the patient's known prior history of craniotomy.
+Tachycardia is noted throughout the study.
+There were no clinical or electrographic seizures reported or detected during this study.
+
+
+

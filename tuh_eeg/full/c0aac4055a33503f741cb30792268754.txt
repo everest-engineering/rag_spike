@@ -1,0 +1,31 @@
+History:	59 year male with past medical history of seizures.
+Medications:	Keppra, Dilantin, and others.
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and ekg
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  The
+background over the left hemisphere consists of well formed and modulated moderate amplitude
+10 Hz alpha posteriorly with expected AP gradient.  The background over the right hemisphere
+consists of low-to-moderate amplitude 9-9.5 Hz alpha posteriorly, no clear AP gradient,
+predominantly low amplitude theta activity with continuous polymorphic theta and delta activity
+over the anterior temporal region.  Sleep architecture consisting of vertex waves and sleep spindles
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  A single EKG lead demonstrates heart rate <60 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, mild, right hemispheric
+Focal slowing, polymorphic, continuous, moderate, right temporal, anterior
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG due to continuous mild right hemispheric
+slowing with moderate focal slowing over the right anterior temporal region. This finding is
+indicative of focal cerebral dysfunction, which is etiologically non-specific, but likely structural in
+origin.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis
+of epilepsy.  A single EKG lead demonstrates heart rate <60 bpm.
+
+
+
+

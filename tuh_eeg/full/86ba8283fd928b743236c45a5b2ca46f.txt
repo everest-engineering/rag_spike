@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 24-year-old janitor with migraine headache and an episode of lightheadedness, presyncope and right arm numbness.
+MEDICATIONS:  None.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Actually was performed at the bedside.  Hyperventilation and photic stimulation were not completed and there was no impedance check performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is well organized with an 11 Hz alpha rhythm in a generous amount of low voltage, frontal central beta.  Significant eye movement artifact and eye flutter was noted.
+Heart rate 78 bpm.
+IMPRESSION:  Normal awake and briefly drowsy record.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Stage 2 sleep was not captured.  If epilepsy is an important consideration, a followup study may be of value.
+
+
+

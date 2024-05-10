@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 20-year-old male, status post MVA.  His face had staples, although no scar visible at present.  Femur fracture.  At the time of the accident, patient was described as having either a seizure or panic attack.
+MEDICATIONS:  Percocet.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  This was a technically acceptable 24-minute EEG with impedances below 5 kilo ohms with the exception of the T1 and T2 electrodes.  This is an awake and drowsy record in a relatively drowsy adult.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there was a 10 Hz alpha rhythm, which was symmetric and reactive to eye opening.  Drowsiness was characterized by rhythmic background slowing as well as some rhythmic frontal slowing followed by POSTS.
+Photic stimulation was performed while the patient was drifting off to sleep, but a driving response was achieved with harmonic and supra-harmonic driving.
+Hyperventilation was performed with limited effort and produced primarily a drowsy pattern.
+Heart rate 66-80 beats per minute.
+IMPRESSION:  Normal EEG in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in the record.  If epilepsy is an important consideration, a followup study may be a value.
+
+
+

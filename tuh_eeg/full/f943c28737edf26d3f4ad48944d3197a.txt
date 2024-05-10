@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  Patient is a 56-year-old woman with a syncopal episode, asthma, hypertension, schizophrenia, and past history of seizures.
+MEDICATIONS:  Seroquel, Nexium, Neurontin.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed, but hyperventilation was deferred.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized, with primarily a theta frequency pattern.  Much of the record includes a drowsy state.  There is a glimpse of a 7 Hz alpha rhythm, and then the patient transitions to the somewhat slower pattern in drowsiness with some rolling eye movements and some slow vertex waves.
+Photic stimulation did not activate the record.  Heart rate 72 BPM.
+IMPRESSION:  Abnormal electroencephalogram due to generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG.  To some extent, this patient's medications or neuropsychiatric history may contribute to the background slowing described above.
+
+
+

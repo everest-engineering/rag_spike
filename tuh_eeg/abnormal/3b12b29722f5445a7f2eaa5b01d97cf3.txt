@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 19-year-old right-handed woman with epilepsy since age 13, patient had difficulty recalling or describing seizures.  Last seizures include loss of consciousness and postictal confusion.  Date of last seizure unclear.  Currently 5 months' pregnant.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  The patient transitions in and out of sleep with vertex waves and spindles.
+Photic stimulation elicited bilateral driving.
+Heart rate 84 BPM.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, a follow-up study capturing more prolonged sleep or comparison with this patient's childhood EEGs may be of value.
+
+
+

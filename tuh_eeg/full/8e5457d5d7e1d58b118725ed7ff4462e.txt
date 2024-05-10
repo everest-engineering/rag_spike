@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 27-year-old male with new-onset seizures, initially associated to Wellbutrin, loss of consciousness, and generalized shaking for 3 to 5 minutes.
+MEDICATIONS:  Lamictal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  This was to have been a sleep-deprived patient, but the patient had difficulty with this direction.  It is a technically acceptable, outpatient one-hour EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was an 8.5 to 9 hertz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  The patient had difficulty getting to sleep, but sleep was achieved with attenuation of the alpha rhythm and appearance of spindles.  Hyperventilation did not significantly activate the record.  Photic stimulation elicited driving.  Central mu was noted around the time of photic stimulation, but testing was not performed to confirm this.  Head rocking artifact and single-channel artifact was noted at T6.
+Heart rate was 66 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in the record.  There was head rocking artifact picked up in this record, a bit more on the right.  A single more broadly contoured right T4 sharp wave was noted in sleep.  In that only one discharge was noted, this must be considered an artifact.  Multiple normal variants such as wicket mu rhythm were noted.
+
+
+

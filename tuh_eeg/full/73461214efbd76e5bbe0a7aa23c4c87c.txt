@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   35 year old male with a long history of epilepsy, episodes of light headedness with left arm stiffness lasting 2-5 seconds,  occurring 2-4 times per year.
+MEDICATIONS:  None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is a bit drowsy. A
+9.5 Hz alpha rhythm is noted in wakefulness.  A 9 Hz central mu rhythm is noted but testing is not performed to confirm this.  Hyperventilation is performed early on in the record producing an increasing amplitude at the background. Drowsiness is characterized by an increase in beta and some hypersynchronous rhythmic slowing. Photic stimulation does elicit a driving response.
+HR:	72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the fifth normal EEG for this subject.  Previous outpatient EEG recording was undertaken and was successfully captured push button episodes of facial grimacing and staring.  None of these had any EEG signature.
+
+
+

@@ -1,0 +1,33 @@
+History:	21 year old man with gun shit wound to the head in 07/2012 (right side).  He now
+has daily headaches.
+Medications:	Methadone, Neurontin, Flonase
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Posterior dominant rhythm is higher in amplitude by greater than
+50% over the right.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal
+regions.  During sleep, vertex waves, sleep spindles and K-complexes are noted.  Sleep architecture
+is more prominent over the right.
+Continuous polymorphic theta and delta activity is present over the right middle and posterior
+regions.  Underriding fast activity is noted over the right middle and posterior regions.  No
+epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  Bradycardia (<60 bpm) is noted on a single EKG lead.
+Summary of Findings:
+Breach artifact, right
+Asymmetry, sleep architecture, better formed over the right
+Asymmetry, alpha, higher in amplitude over the right
+Focal slowing, polymorphic, continuous, right, mild-to-moderate, middle and posterior quadrants
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG due to continuous mild to moderate focal
+slowing over the right middle/posterior quadrants and asymmetry of sleep architecture and
+posterior dominant rhythm over the right. These findings are indicative of a focal structural lesion
+over the right and is consistent with a history of gun shot wound to that region.  Breach artifact is
+secondary to a skull defect.  The lack of epileptiform discharges on a routine EEG does not rule out
+a clinical diagnosis of epilepsy.  Bradycardia (<60 bpm) is noted on a single EKG lead.
+
+

@@ -1,0 +1,30 @@
+History:	68 year old man with a history of seizures and stroke.  Last seizure in 7/2014.
+Medications:	Keppra and Neurontin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 7.5-8 Hz theta activity which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+No clear focal slowing is present.  No clear epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  Nearly continuous EMG artifact is present in bilateral anterior leads.
+Summary of Findings:
+Artifact, EMG, nearly continuous, bilateral anterior
+No stage 2 sleep
+Posterior dominant rhythm, slow variant
+Interpretation:
+This is probably normal awake and drowsy 22-minute EEG.  Suspect that slow posterior dominant
+rhythm is a variant (rather than an abnormality) since it is clearly reactive. No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.  There is nearly continuous EMG artifact in
+bilateral anterior leads.  So subtle anterior focal slowing and epileptiform discharges could have
+
+
+
+
+
+
+

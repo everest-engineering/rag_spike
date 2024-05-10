@@ -1,0 +1,36 @@
+History:	65 year man with a history of focal nocturnal seizures, who had multiple episodes of
+deja-vu sensation several days ago.  Since then he has not been feeling himself.
+Medications:	Dilantin, Klonopin, zonisamide
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+Intermittent polymorphic theta and delta activity is present in the left anterior temporal region
+during wakefulness, increasing during drowsiness and sleep.  Left anterior broadly based sharp
+waves with aftergoing waves are seen.  They have a broad field and their frequency increases
+significantly during sleep.  Maximal scalp negativity occurs over F7, T1 and T3 leads.  During
+sleep, they occasionally occur in 2-3 second runs with a repetition rate of ~ 1 Hz.  No electrographic
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, anterior, mild-to-moderate
+Sharp waves, intermittent, left anterior, increase during sleep
+No electrographic seizures
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL 1 hour awake and asleep EEG due to intermittent mild-to-moderate left
+anterior temporal focal slowing and intermittent left anterior epileptiform discharges. These
+findings are indicative of a potentially epileptogenic area of focal cerebral dysfunction in the left
+anterior/ anterior temporal region.
+
+
+
+

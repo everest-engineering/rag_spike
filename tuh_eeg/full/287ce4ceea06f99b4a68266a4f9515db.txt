@@ -1,0 +1,32 @@
+History:	59 year old woman with a history of a head injury in 02/2015 with subsequent
+various symptoms.
+Medications:	Paxil, Elavil, neurontin, lidocaine and others
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9-9.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  Patient transitions to sleep very rapidly and is asleep
+throughout most of the recording.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+Sleep, stage 2, extensive
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 26-minute EEG, awake, drowsy, and mostly asleep. Patient transitions to sleep
+very rapidly and is asleep throughout most of the recording - please correlate clinically with an
+underlying sleep disorder.
+
+
+
+
+
+

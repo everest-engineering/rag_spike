@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 44 year old woman with shortness of breath and a seizure in the emergency room. Past history of childhood epilepsy.
+MEDICATIONS: Gabapentin, Vancomycin, Insulin, Lasix, Vancomycin, Heparin, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: This is a bedside portable record for an adult in restraints with a tracheostomy. The background includes a posterior dominant rhythm which at times reaches 9.5 Hz. There is excess theta and excess beta. Occasional bursts of frontally predominant delta are observed. These are primarily synchronous; some are notched and some resemble frontally predominant spike in wave activity.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta.
+2. Excess beta.
+3. Bursts of frontally predominant delta.
+4. Likely underlying frontally predominant spike in wave activity.
+CLINICAL CORRELATION: This patient's medical problems may have a role in the background beta and theta. The frontally predominant delta with the suspicious underlying spike in wave activity suggests an inherited mechanism for epilepsy as it can be seen in childhood epilepsy.
+
+
+

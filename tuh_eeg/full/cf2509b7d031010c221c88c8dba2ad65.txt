@@ -1,0 +1,50 @@
+AGE: 30 y.o.
+SEX: male
+DATE OF STUDY: 10/01/2015 RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and sleep 95819 EEG # : 15- 1445
+HISTORY:
+a 30 y.o. male with a history of epilepsy since birth referred for routine EEG:
+Seizure description: SPS- Sees lights for seconds then he losses his vision but can talk within less than 5 minutes. This is followed by a metallic taste in mouth. Denies tongue biting or bladder incontinence. Last June 25th. One seizure per 2-3 months. Focal MRI - encephalomalacia in the left frontoparietal and temporal lobes with associated small component of arachnoid cyst.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+levetiracetam (KEPPRA) 500 mg tablet, Take 1.5 tablets by mouth 2 times daily.
+alendronate (FOSAMAX) 70 mg tablet, Take 1 tablet by mouth every 7 days. Take with full glass of water, on empty stomach, do not eat, drink, or lie down for 30 minutes.
+lamotrigine (LAMICTAL) 200 mg tablet, Take 1 tablet by mouth daily.
+Calcium Carbonate-Vit D3-Min (CALTRATE 600+0 PLUS MINERALS) 600 mg calcium- 400 unit Tablet, Take 2 tablets by mouth daily.
+Cholecalciferol, Vitamin 03, (VITAMIN D) 1,000 unit Tablet, Take 1 tablet by mouth daily.
+No current facility-administered medications for this visit.
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.	The waking background is low voltage with frequent eye flutter
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous sleep
+spindles and rare K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background increase in amplitude as well as symmetric frontal theta/delta.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal Awake and asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION: ·
+This is a normal, low voltage Awake and asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+This EEG contrasts to prior EEGS which demonstrated focal and /or generalized features:
+2010: Background slowing
+2005:	(9/14/2005)
+Disruption of faster frequency from left hemisphere particularly in the temporal regions as well as increase in background slowing from left
+A handful of bursts of sharply contoured slowing from the left
+A single, well defined high amplitude sharp wave from the front.
+
+
+
+

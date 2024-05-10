@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 50 year old male with brain tumor, admitted with left sided headache, HIV disease, blurry vision, left sided weakness.
+MEDICATIONS:  Percocet, Labetalol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow from the left hemisphere.  The alpha rhythm on the left is slow.  The alpha rhythm is disrupted on the right.  In addition, there is focal slowing on the right characterized by 3-5 Hz activity in the left hemisphere.  The focal slowing is a bit more prominent as the patient transitions towards sleep.  There is a slight accentuation of fast activity on the right frontal region seen in relaxed wakefulness and there are a handful of simple sharp waves in the right hemisphere, including F4 and T4.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing characterized by 3-5 Hz activity on the right.
+Disruption of faster frequency activity on the right.
+A handful of simple sharp waves in the right hemisphere.
+CLINICAL CORRELATION:  This EEG is compatible with focal process on the right.
+
+
+

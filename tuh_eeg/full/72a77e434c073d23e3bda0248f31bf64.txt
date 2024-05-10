@@ -1,0 +1,13 @@
+DATE OF STUDY:  04/11/2015.
+CLINICAL HISTORY:  An 80-year-old woman with heart failure, CKD, anemia, diabetes, rheumatoid arthritis, and gout, admitted earlier today in status epilepticus with persistent obtundation, now somewhat arousable.
+MEDICATIONS:  Versed, phenytoin, multiple other sedative hypnotics.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically, extremely difficult EEG for a patient with significant scalp problems. The tech had great difficulty achieving impedances below 7.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage, diffusely slow pattern with slow delta and smaller amounts of theta.  The patient was slightly arousable.  Intermittent arousal was associated with an increase in muscle and the patient was noted to stiffen occasionally.  There are occasional bursts of lower amplitude delta. Very subtle, sharply-contoured delta was noted in the right hemisphere.
+Heart rate irregular at 66 to 80 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Marked generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  This EEG is supportive of pharmacologic, postictal pattern, or an underlying, severe encephalopathy which may be due to other causes.  EEG monitoring to exclude subclinical seizures will follow.
+
+
+
+

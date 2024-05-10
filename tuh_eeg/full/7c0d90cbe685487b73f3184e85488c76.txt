@@ -1,0 +1,29 @@
+History:	76 Y M ADMITTED FOR DIFFICULTY SPEAKING, NOW RESOLVED. POSSIBLE
+TIA, SZ. HX: HTN
+Medications:	No AED
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  Very frequent focal sharp waves are present with phase
+reversal and amplitude maximum at F7/T1.
+Hyperventilation and photic stimulation are not performed.  HR was 60
+Summary of Findings:
+Sharp waves, abundant, left temporal, anterior
+Focal slowing, polymorphic, abundant, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the left anterior temporal region.  These findings are indicative of a potentially epileptogenic
+focus in this region,  and given the clinical history of partial seizures, are supportive for a diagnosis
+of localization-related epilepsy.
+
+
+
+

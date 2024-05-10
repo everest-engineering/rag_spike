@@ -1,0 +1,15 @@
+History: 64 YEAR OLD FEMALE FOUND DOWN ON 12-5-13 @6:30PM W/ INCONTINENCE OF BOWEL,NONVERBAL,R SIDED WEAKNESS. REDO EEG ON 4-7-2014. STATUS EPIL. ON ORDER
+Medications:	KEPPRA, ZOLOFT, LOVENOX, CRESTOR, COLACE, FLEXERIL, METOPROLOL.
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description: Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates and is only seen over the right occipital region.  Symmetric 5-15uV, 18-25Hz activity is present, seen over the right central region.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. Continuous polymorphic theta activity is present in the left hemisphere maximal in the frontotemporal region. There an associated loss of faster frequencies over this region.  Occasional focal sharp waves are present in the left fronto temporal region, with phase reversal and amplitude Hyperventilation and photic stimulation are not performed.
+HR was 90
+Technical difficulties: 1. There is a continuous T4 electrode artifact that impeded the appropriate evaluation of the region.
+2.There was very prominent 60 Hz artifact noted.
+Summary of Findings:
+Sharp waves, intermittent, left frontotemporal Focal slowing, polymorphic, continuous, left hemispheric, maximal fronto temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of frequent epileptiform discharges in the left frontotemporal region as well as focal slowing in the left hemisphere maximal in the frontotemporal region.  These findings are indicative of a structural irritative and potentially epileptogenic focus in this region, which is consistent with the known trauma to this region.  Please note that the above technical difficulties affect the interpretation of the record.
+

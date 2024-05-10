@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  28 year old left handed woman with mental retardation, epilepsy, and prenatal left MCA infarct.  Seizures characterized by 15 seconds of shortness of breath and stiffening.  Minimal to no loss of consciousness.
+MEDICATIONS:  Tegretol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates excess data.  There is a glimpse of a 9 Hz alpha rhythm.  There is occasional, site asymmetries in terms of amplitude of the background.  Hypnagogic hypersynchrony is noted in the transition to drowsiness.  In addition on one occasion in the transition to drowsiness, focal slowing is identified with a burst of rhythmic 3-4 Hz activity from the left hemisphere, maximum at T1 and lasting about 5 seconds in duration. Hyperventilation does not significantly activate the record.  Photic stimulation elicits driving which is higher amplitude and a little bit better developed on the left than the right.
+HR:    84 bpm
+IMPRESSION:  This EEG is remarkable for:
+Excess data while awake.
+A burst of left temporal rhythmic 3-4 Hz activity.
+CLINICAL CORRELATION:  This is one of many EEGs for this patient over her young adult life span.  The last 2 EEGs have demonstrated less in the way of focal slowing and neither of the last 2 EEGs have demonstrated sharp waves.  The burst of rhythmic delta on the left is congruent with the left MCA infarct.  The hypnagogic hypersynchrony, which was observed as the patient transitions into sleep, is a normal finding.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 79-year-old woman with a loss of consciousness while teaching, found to have intracerebral hemorrhage.
+MEDICATIONS:  Protonix.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically acceptable 20-minute EEG.
+DESCRIPTION OF RECORD:  The background EEG is very low voltage.  In addition, there is a fair amount of ICU artifact and muscle artifact.  Extraocular movements are slightly asymmetric, raising concerns that electrode placement might be suboptimal.
+The overall EEG is very low voltage with an awake individual with generous frontocentral beta, asymmetric eye movements, what may represent central mu-activity, and a suggestion of a 10 Hz posterior dominant rhythm.  Hyperventilation produces an increase in amplitude at the background.  Drowsiness is characterized by attenuation of the alpha rhythm with some bursts of frontal delta.
+Heart rate 90 bpm.
+IMPRESSION:
+This is a very low voltage, and technically somewhat challenging EEG, but it is remarkable.
+No significant focal features.
+No epileptiform features.
+CLINICAL CORRELATION:  If seizures are an important consideration for this individual, a followup study may be of value.
+
+
+

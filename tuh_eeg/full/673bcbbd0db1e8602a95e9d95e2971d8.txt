@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  44 year old right handed woman with anxiety, heart failure, diabetes, difficulty swallowing, epilepsy, and difficulty with communication.
+MEDICATIONS:  Pramirol, Insulin, Lasix
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was experiencing clenching of her jaw and could not relax during the EEG.  She also demonstrated eye flutter.  Hyperventilation and photic stimulation were attempted.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage frontocentral beta activity.  Muscle artifact and eye flutter artifacts were noted. Hyperventilation did not activate the record.  Drowsiness was captured at the end of the EEG with vertex waves and stage I sleep and hypersynchronous rhythmic slowing in the transition to sleep.  Photic stimulation elicited scant driving.
+HR:    72 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were noted.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a more prolonged tracing capturing sleep is suggested.
+
+
+

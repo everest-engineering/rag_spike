@@ -1,0 +1,40 @@
+History:	42 year old woman with a history of seizures, now presents in status epilepticus.
+Medications:	KEPPRA, VIMPAT, DEPAKOTE, PHENOBARBITAL
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 09/01/2015 till 09/02/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient.  During wakefulness, the background consists of polymorphic
+diffuse theta and delta activity activity.  Diffuse excess beta activity is present.  Sleep spindles and
+K-complexes are captured.  Sleep spindles are better formed over the right hemisphere.
+Continuous moderate amplitude 1 Hz left temporal PLEDs-plus are captured.  Maximal scalp
+negativity occurs over the T3 lead and sharp waves have a broad field.  Intermittent electrographic
+seizures are captured throughout the recording from 9:01 am till 10:26 pm.  Maximal seizure
+frequency: up to 2 per hour.  There is no clinical correlate.  Average seizure duration is ~ 90
+seconds.  Seizures start with low amplitude fast activity over the T3 lead.  1 Hz PLEDs-plus are
+replaced by rhythmic ~1.5 Hz left hemispheric delta activity that also spreads throughout the right
+Various EEG leads demonstrate artifact throughout the recording.
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL continuous 24-hour EEG due to (1) moderate -to-severe diffuse slowing; and
+(2) continuous 1 Hz left temporal periodic lateralized epileptiform discharges (PLEDs-plus) and (3)
+intermittent left midtemporal focal electrographic seizures that occur up to 2 times per hour and
+stop by 10:26 pm (after initiation of phenobarbital).  There is a focal left hemispheric structural
+cerebral abnormality, especially over the left temporal region, that contains an epileptogenic focus.
+Diffuse slowing is indicative of moderate-to-severe diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Excessive beta activity could be secondary to the medication effect, such
+as benzodiazepines or barbiturates.
+hemisphere.
+
+
+
+
+

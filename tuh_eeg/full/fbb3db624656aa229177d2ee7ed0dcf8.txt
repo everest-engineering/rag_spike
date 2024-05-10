@@ -1,0 +1,41 @@
+History:	58 year old woman, POD#18 after left carotid stent. Now presents with confusion,
+change in mental status, and word finding difficulties. Undergoing evaluation for
+seizures.  PMHX: CVA 2010, RIGHT HEMIPARESIS.
+Medications:	NEURONTIN, PLAVIX, ZOFRAN, INSULIN, CARVEDILOL
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 08/18/2015 to 08/19/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+The waking background is symmetric, reactive, and has fair organization with a 7-Hz posterior
+dominant rhythm, which attenuates symmetrically with eye opening.  Drowsiness is characterized by
+attenuation of the posterior dominant rhythm and theta slowing.  Sleep transients, including vertex
+waves, K complexes, and spindles, are symmetric and normal.
+Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation are not performed.  A heart beat of 66 bpm is captured on
+a single EKG lead.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, left temporal, mid
+Diffuse slowing, polymorphic, continuous, mild
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of occasional polymorphic left mid
+temporal slowing superimposed on mild diffuse background slowing and suboptimal organization.
+These findings are etiologically nonspecific indicators of left hemispheric cerebral dysfunction,
+possibly structural in origin, superimposed on mild diffuse cerebral dysfunction.
+
+
+
+
+
+
+

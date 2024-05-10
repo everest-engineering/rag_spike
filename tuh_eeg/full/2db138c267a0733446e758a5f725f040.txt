@@ -1,0 +1,12 @@
+CLINICAL HISTORY: Unknown male with alcohol abuse and seizure.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively cooperative.
+DESCRIPTION OF THE RECORD: This is an awake and drowsy record rich in beta frequency activity. There is a 9 Hz posterior dominant rhythm. There is intermittent excess theta.
+HR: 70 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess theta.
+CLINICAL CORRELATION: No epileptiform features were observed. The excess beta may be due to medications and the excess theta is a nonspecific finding, could be due to post ictal state or underlying alcohol abuse.
+
+
+

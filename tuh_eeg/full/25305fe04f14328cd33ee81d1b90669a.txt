@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 66-year-old woman with hip fracture.  Family describes multiple events where the patient screams, trembles, shakes, falls, and is confused afterwards.  At baseline, advanced dementia requiring assistance with all activities of daily living.  Patient does not commonly scream at other times.
+MEDICATIONS:  Tylenol, Ancef, amantadine, Protonix, others, Dilaudid, thyroid.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  This was a bedside portable record in the patient who could not cooperate with testing.  Impedances were generally under 5 kilohms.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffuse theta pattern.  The normal developmental milestones including an alpha rhythm were not apparent.  Intermittent, slower 3 Hz delta activity was also noted in the record.  The patient was talking and also demonstrated oral automatisms.
+Heart rate 84 bpm.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to marked, rhythmic background slowing.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The rhythmic background slowing can be seen in the context of an advanced dementia or a metabolic disturbance.  The use of sedative hypnotic medications may contribute to the background slowing.  If epilepsy is an important consideration, a followup study may be considered.
+
+
+

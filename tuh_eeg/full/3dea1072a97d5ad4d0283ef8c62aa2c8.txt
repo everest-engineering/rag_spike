@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 50-year-old woman with adult-onset complex partial epilepsy.  Patient admitted after multiple, recurrent focal seizures.
+MEDICATIONS:  Ativan and Trileptal.
+INTRODUCTION: Continuous video EEG monitoring was initiated in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  The patient was noted to be somewhat confused at baseline.
+DESCRIPTION OF THE RECORD:  Background:  This is a dynamic recording, it began just after the patient has received generous doses of Ativan for repetitive seizures.  Maximum wakefulness is not achieved until the morning of the 22nd.  There is a 9 Hz posterior dominant rhythm noted on the left.  The right hemisphere demonstrates an asymmetry with more consistent disruption of faster frequency activity and a slower, lower voltage rhythmic delta.  Sporadic wakefulness was noted on the evening of the 22nd as well.  Drowsiness is characterized by a more prominent rhythmic slowing in the right hemisphere.  Stage 2 sleep includes vertex waves, K complexes, and spindles.
+Electrographic seizures:  None.
+Epileptiform Detections:  Rare bursts of rhythmic theta were noted from the right frontotemporal region with a generous field of spread.  The epileptiform activity in the long-term monitor includes primarily lower voltage, discrete, right anterior temporal sharp waves.
+Heart rate 66-90 bpm.
+IMPRESSION:  This long-term video EEG monitoring was remarkable for:
+Nearly continuous focal slowing in the right hemisphere with disruption of faster frequency activity.
+Epileptiform activity, which in the long-term monitor is primarily lower voltage and discrete rather than higher amplitude or a right posterior temporal.
+CLINICAL CORRELATION:  The findings are similar to previous studies.  Epileptiform activity is consistently in the right hemisphere although the field of spread varies.  This is a 2nd long-term monitoring session for this patient, recorded after a cluster of seizures, which did not identify seizures after the administration of Ativan.
+
+
+

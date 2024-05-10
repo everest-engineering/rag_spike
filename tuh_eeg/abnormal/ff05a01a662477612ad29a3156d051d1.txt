@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 	39 year old right handed male with daily headaches, evaluate for seizures.
+MEDICATIONS:  Cyclobenzaprine,  Zolpidem, Elavil, Cymbalta, Norvasc, Gabapentin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and primarily asleep EEG with photic stimulation but without hyperventilation.
+DESCRIPTION OF THE RECORD:  The majority of the record includes stage I and stage II sleep with vertex waves, K-complexes, spindles, and posts.   The patient is awakened for photic stimulation and has limited wakefulness.
+HR:	72 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:  No epileptiform features are observed.  The primarily sleep EEG could be due to sleep deprivation or other disturbances like hypersomnolence, or even a sleep-deprived EEG. There are no epileptiform features.
+
+
+

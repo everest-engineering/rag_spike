@@ -1,0 +1,34 @@
+History:	47 year old man with a history of seizures secondary to a prior TBI.  There is cranial
+skull defect over the left.
+Medications:	Depakote
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Subtle excess theta activity and underriding low amplitude fast activity is noted over the left
+frontocentral region.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and exacerbates focal
+slowing in the left frontocentral region.  Stepped photic stimulation from 1-21 flashes per second
+(fps) induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, mild, left central
+Breach artifact, left central
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an subtly ABNORMAL awake and drowsy 22 minute EEG due to subtle mild left
+frontocentral slowing. This finding is indicative of a focal structural lesion in the left frontocentral
+region and is consistent with patient's history of a prior craniotomy.  Breach rhythm is secondary to
+the skull defect.  No epileptiform discharges are present, but stage 2 sleep was not recorded.  If
+clinically indicated, repeat EEG with sleep recording may provide additional information.
+
+
+
+
+
+

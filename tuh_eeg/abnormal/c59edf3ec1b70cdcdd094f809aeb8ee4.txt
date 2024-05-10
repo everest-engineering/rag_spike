@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  The patient is a 26-year-old woman with a past medical history of seizures, now is admitted with increase in seizure frequency.  Continuous audio/video EEG recording is performed for differential diagnosis of her events.
+MEDICATIONS:  Keppra 250 in the morning and then stopped and Tegretol 400 mg twice a day.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode placement and a single EKG lead.  There was also audio and visual recording performed simultaneously. Spike detection and seizure detection were activated.  Medical house officer's notes and nursing staff notes as well as pushbutton events were reviewed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Lambda waves are captured.  Sleep architecture consists of POSTS (positive occipital sharp transients of sleep), vertex waves, sleep spindles, K complexes, slow wave sleep and multiple epochs of REM sleep.  Hyperventilation and photic stimulation are not performed.  There were no events captured.
+FINDINGS:  No electrographic seizures.
+IMPRESSION:  This is a normal 24-hour awake and asleep audio/video EEG.  There were no events captured in the 24-hour period.
+
+
+

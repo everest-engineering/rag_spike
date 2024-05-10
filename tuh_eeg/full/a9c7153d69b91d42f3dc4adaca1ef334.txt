@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  83 year old with left carotid stenosis, intracranial stenosis, recurrent hemiparesis.
+MEDICATIONS:  Colace, Senokot.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is somnolent.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates stage I sleep with occasional vertex waves and POSTS. Stimulation of the patient produces theta.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG in a hypersomnolent patient due to:
+Excess theta.
+Slowing of the alpha rhythm.
+Shifting slowing left more than right
+CLINICAL CORRELATION:  There were no epileptiform features identified.  This EEG supports a bihemispheric disturbance of cerebral function.  The sleep recording is relatively symmetric, but in the limited wakefulness there may be more of a disruption of faster frequency activity on the left.
+__________________________
+
+
+

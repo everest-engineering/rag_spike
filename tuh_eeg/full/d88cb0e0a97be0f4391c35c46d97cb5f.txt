@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 30 year old left handed female with 1 year history of epilepsy, recent seizure with clavicular fracture. Family history of ETOH ingestion and epilepsy.
+MEDICATIONS: Lamictal.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a pattern with excess background theta and a 7.5 Hz alpha rhythm. Drowsiness is characterized by an increase in background slowing. Hyperventilation does not significantly activate the record. Photic stimulation elicits a driving response.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Slowing of the alpha rhythm.
+3. Excess theta.
+
+CLINICAL CORRELATION: This patient's medications or postictal state may contribute to the background beta and theta. No epileptiform features were seen. Please consider a follow up outpatient EEG to characterize this individual's epilepsy.
+
+
+

@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  19 year old female admitted last week following Tylenol overdose, liver failure, increased ICP.
+
+MEDICATIONS:  Zosyn, Famotidine, Mycamine, Vancomycin, Rifaximin, Ancef, Fentanyl, Propofol
+
+INTRODUCTION:  Digital video long term EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and unresponsive.
+
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a markedly slow, delta frequency pattern. Stimulation of the patient produces eye movement.  No clinical notes are provided, but by 9:36 p.m. the background EEG is significantly slower with less movement artifact.  It is more a pattern of slow, 1-2 Hz, featureless delta with bursts of beta.  At 12:59 the patient's EEG now demonstrates muscle artifact as it had been previously.  The very slow background without the muscle artifact is identified again at 6:15 a.m.  The 6:15 a.m. section demonstrates more beta and even some alpha frequency activity, and a little less delta.
+
+HR:    120 bpm
+
+IMPRESSION:  This EEG monitoring session is remarkable for:
+1. Initially a markedly slow, featureless delta pattern.
+2. A pattern that remains slow, but has some more beta and alpha frequency activity at the end.
+
+CLINICAL CORRELATION:  This is a markedly slow record.  This patient's medications may play a role in the beta and delta described above.  Fulminant liver failure with increased ICP can also produce similar findings.
+
+
+

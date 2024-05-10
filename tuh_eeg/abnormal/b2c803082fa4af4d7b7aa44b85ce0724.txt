@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 55-year-old male with stroke, cardiac disease, status post valve repair, evaluate for refractory epilepsy.
+MEDICATIONS:  Depakote, Tegretol, Keppra, carvedilol, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not performed but photic stimulation was completed.  This is an awake and drowsy record.  There were some electrode artifacts noted.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm but there are other sections of the record when the patient is awake when the alpha is a little slower, 8-8.5 Hz.  In wakefulness and a little bit more prominently as the patient becomes drowsy, there was focal slowing noted in the left mid temporal region.  In addition, there are also some eye artifacts which are also asymmetric, a little bit more so on the left.  As the patient drifts in and out of sleep, sharp waves emerge, some of which have an unusual field of spread.  Most seem to be in the left midtemporal or left frontal region but with a field involving the right and then there are a handful of rare right midtemporal sharp waves noted as well.  Overall, the epileptiform activity is quite subtle.  There are a handful of vertex waves noted in sleep which phase reverse to the right of midline or the left.
+Photic stimulation was performed while the patient was transitioning into stage II sleep and did not significantly activate the record.
+IMPRESSION:  This is an abnormal electroencephalogram due to:
+Focal slowing emerging as the patient becomes drowsy, despite the artifacts described above.
+Sharp waves noted in drowsiness with unusual fields of spread, typically left frontal or right anterior temporal.
+CLINICAL CORRELATION:  Additional EEG monitoring may be helpful to more completely characterize this patient's epilepsy.
+
+
+

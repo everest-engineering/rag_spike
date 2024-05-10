@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 48 year old right handed male with epilepsy following craniotomy, currently seizure free.
+
+MEDICATIONS: Carbatrol, Keppra, Topiramate.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage with a small amount of low voltage, frontocentral beta activity. It is difficult to define an alpha rhythm in this background. Hyperventilation is performed with good effort producing an increase in amplitude of the background. Drowsiness is characterized by the appearance of lower voltage theta and delta. As the patient drifts into sleep in this low voltage record, some of the delta appears to be a bit more prominent in the left hemisphere. Photic stimulation elicits scan driving in this low voltage record.
+
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with more of a low voltage beta frequency pattern.
+2. Focal slowing from the left hemisphere.
+
+CLINICAL CORRELATION: No epileptiform features were identified today. In this low voltage record, the presence of the focal slowing on the left relevant to the right correlates with the previous craniotomy and neuropathology. No epileptiform activity seen since 2003.
+
+
+
+

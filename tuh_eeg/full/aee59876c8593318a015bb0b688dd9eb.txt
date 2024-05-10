@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 47 year old right handed gentleman admitted on 06/06/2011 with a seizure. The patient did not return to his baseline mental status. Seizure characterized by diaphoresis, confusion. Seizures may be associated with violent behavior and postictal confusion as well as incontinence.
+MEDICATIONS: Lamictal
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background includes a 9.5 hertz posterior dominant rhythm. There is slow rolling eye movement and EKG artifact both of which are picked up in the right more than left temporal region. Despite this, there are a handful of subtle, right anterior temporal sharp waves noted following hyperventilation as the patient becomes drowsy. These are associated with subtle background slowing.There a prominent eye movement artifacts which persist into stage II sleep and in one of these, there also appears to be questionable left anterior temporal sharp wave. Photic stimulation does not impact the record.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Suspicious underlying right anterior temporal sharp waves.
+CLINICAL CORRELATION: Given the amount of both EKG and eye movement artifact, a follow-up study capturing deeper stages of sleep may be helpful to more completely evaluate potential underlying epileptiform activity. There was only a single discharge from the left which must, therefore, be considered an artifact.
+
+
+
+

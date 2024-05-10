@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  55 year old right handed male with intermittent tingling, numbness, dizziness on the left side of the head.  Hyperlipidemia.
+MEDICATIONS:  Simvastatin
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by an increase in background beta with vertex waves and spindles in stage 2 sleep.   Hyperventilation produces subtle focal slowing from the left.  Photic stimulation is performed while the patient is drifting in and out of stage 2 sleep and does not active the record.
+HR:    60 bpm
+IMPRESSION:  Very mildly abnormal EEG due to:
+Subtle focal slowing in hyperventilation.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The subtle focal slowing may be correlated with imaging.
+
+
+

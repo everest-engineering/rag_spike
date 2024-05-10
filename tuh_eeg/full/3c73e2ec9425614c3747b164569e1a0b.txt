@@ -1,0 +1,49 @@
+History:	19 YR OLD FEMALE PRESENTS WITH H/O SZ ONSET AT AGE 2, SZ FREE
+UNTIL AGE 10 THEN BEGAN TO HAVE SZ DURING SLEEP EVERY NIGHT X 5
+YRS AFTER BEING DC'D FROM TRILEPTAL. PT REPORTS TONGUE BITING,
+BLADDER INCONT AND NO RECALL OF SZ EVENTS.NOW ADMIT WITH MULTI
+Medications:	Depakote, Tegretol
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 12/14/2013 to 12/15/2013.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending
+# Push button events
+Description of pushbutton events
+Multiple events occurred from sleep.
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  As drowsiness progresses, symmetric vertex waves appear followed quickly by
+moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes.
+Frequent focal sharp waves are present in the right anterior temporal region, with phase reversal
+and amplitude maximum at F8/T2. Independent occasional focal sharp waves are present in the
+left temporal region, with phase reversal and  amplitude maximum at F7/T1. While asleep there
+were multiple frequent bilateral frontal high amplitude delta discharges that increase in amplitude
+and then decrease in frequency to a theta discharge which are best seen in the prefrontal  leads.
+These may last up to a minute. Clinically the patient may open her eyes and either hand may
+assume a dystonic posture or both may become stiff.  Sometimes she wipes her nose or face with
+either hand.  These episodes are all consistent with focal seizures. At times there are rhythmic
+bifrontal rhythmic beta discharges that do not always appear to evolve and have no clinical correlate
+Hyperventilation and photic stimulation were not performed.  HR is 84  On 11/15/2013 at around
+10:49 the EEG suddenly reveals a diffuse high amplitude monomorphic rhythmic delta that last for
+about 4 minutes. This occurred while the patient was in the bathroom and off the camera. The RN
+reports that the patient suddenly became pale then slumped on the side and became
+unresponsive. Once the patient was placed on the floor she regained consciousness.
+Summary of Findings:
+Seizure, frequent frontal
+Diffuse slowing, polymorphic
+these are likely electrographic frontal seizures.	Sharp waves, frequent, bilateral (R>L) temporal, anterior	SZ
+Interpretation:
+This is an ABNORMAL EEG because of multiple frequent seizures from sleep which are not clearly
+localized by EEG. However, the clinical behavior and overall EEG findings are all suggestive of a
+frontal onset. There are also frequent epileptiform discharges in the bilateral (right more than left)
+anterior temporal region. All these findings are consistent with a diagnosis of localization-related
+epilepsy with possible multiple epileptogenic foci.   In addition there is diffuse background slowing
+and absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate
+diffuse cerebral dysfunction.  Lastly the single episode of continuous diffuse monomorphic rhythmic slowing  described above is most consistent with syncope based on the EEG findings.
+
+

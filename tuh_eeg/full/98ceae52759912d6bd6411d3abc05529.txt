@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  56 year old right handed woman status post mitral valve replacement on May 11, admitted on July 29 with pulmonary edema and a ruptured valve, required emergency mitral valve repair. Afterwards the patient was noted to have confusion and a language deficit.
+MEDICATIONS:  Amiodarone, Zocor, Protonix, ASA
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The overall background is diffusely slow. The primary frequencies in the background are rhythmic theta. There is FIRDA. Triphasic waves are noted in the frontal regions. This is a relatively sharply contoured record. There is some shifting slowing, a bit more prominently in the right central temporal regions.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with generalized background slowing.
+FIRDA.
+Triphasic waves.
+Shifting slowing.
+CLINICAL CORRELATION:  These findings are nonspecific and support a bihemispheric disturbance of cerebral function.  Triphasic waves and FIRDA can be seen in a metabolic encephalopathy.  The shifting slowing may be correlated with underlying imaging.  There is no persistent focal slowing and there are no specific sharp waves or spikes.
+
+
+

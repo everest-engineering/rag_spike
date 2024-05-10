@@ -1,0 +1,51 @@
+History:	66 year old with a right ICH and seizures.  Patient is in status epilepticus post right
+craniotomy.
+Medications:	Keppra, Ativan, Dilantin
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~19 hours from 03/13/2015 till 03/14/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  There is right-to-left intrahemispheric asymmetry with slower
+waveforms over the left.  Early in the recording, the background over the left is attenuated and
+consists of polymorphic very low amplitude theta and delta activity seen primarily anteriorly as well
+as frequent periods of brief background discontinuity.  As the recording progresses, faster waveforms
+appear over the left hemisphere.  The background over the right consists of a mixture of
+polymorphic low-to-moderate amplitude mixture of theta, delta and alpha activity and frequent
+periods of brief background discontinuity.  Periods of discontinuity disappear as the recording
+progresses.  No normal sleep architecture was present.
+Frequent right hemispheric (midtemporal-central focus) seizures are captured early in the
+recording.  They last on average ~ 60-70 seconds.  At the end of some of the seizures rhythmic
+mouth/ lower face jerking is seen.  Last seizure is occurs at ~3:30pm.  Electrographically, seizures
+start with ~2 Hz moderate amplitude rhythmic delta over the right midtemporal region.  This activity
+gradually increases in frequency and amplitude and spreads throughout the right hemisphere (
+maximal scalp negativity over T4, C4, P4 electrodes).  Additionally, continuous 1-2 Hz quasi-
+periodic right midtemporal/ centro-parietal sharp waves (quasi-PEDs) are noted early in the
+recording.  As the recording progresses, epileptiform discharges become less periodic and frequent.
+Summary of Findings:
+Status epilepticus, right, midtemporal/ centroparietal, last seizure at ~ 3:30 pm
+Breach artifact, right frontotemporal
+Focal slowing, polymorphic, continuous, severe, right hemispheric
+Diffuse slowing, polymorphic, severe, improved by the end of the recording
+PLEDs (periodic lateralized epileptiform discharges), right, much improved at the end
+
+Interpretation:
+This is an ABNORMAL continuous video ~ 19 hour EEG due to severe diffuse slowing, continuous
+right hemispheric slowing, right midtemporal/ centro-parietal epileptiform discharges and focal
+seizures (focal status epilepticus) that are seen early in the . recording.  Diffuse slowing is indicative
+of severe diffuse cerebral dysfunction, which is etiologically nonspecific, but at least partially
+related to the medication effect.  There is focal epileptogenic structural abnormality over the right
+midtemporal/ centro-parietal region.  Breach rhythm is secondary to the skull defect.  These
+findings were conveyed to the primary team.
+
+
+
+
+

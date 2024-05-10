@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 62-year-old woman with episodes of body shaking and tongue biting.  Her last episode was on 10/17/2012.  Patient takes clonazepam at the onset of these episodes.
+MEDICATIONS:  Clonazepam, albuterol, pantoprazole metoclopramide, diphenhydramine, clonidine, simvastatin and hydroxyzine.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is posterior dominant rhythm at 10-11 Hz, mainly in the posterior occipital region, which is reactive to eye opening.  In stage 1 asleep is characterized by slowing of posterior dominant rhythm, absence of eye blink artifact and muscle artifact, as well as presence of vertex sharp transients and posts.  Stage II was characterized by the spindles and K complexes.  There is diffuse beta activity and also, of note, there is sharply contoured rhythmic slow activity in bilateral occipital region during drowsiness.  These rhythmic activities are at 70-100 microvolts and 4.5-5 Hz.  Photic stimulation elicits bilateral driving response.  Heart rate is 60 to 70 BPM.
+IMPRESSION:  This EEG is remarkable for rhythmic slow activity in bilateral occipital region during drowsiness.
+CLINICAL CORRELATION:  These findings are suggestive of mild encephalopathy due to toxic metabolic causes or bilateral cerebral dysfunction, medications, infectious, or hypoxia.  The excess Beta activity could be caused by medications or hyperthyroidism or anxiety. Clinical Correlation is recommended.
+
+
+

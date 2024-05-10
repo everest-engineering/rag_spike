@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  An 86-year-old woman status post cardiac arrest this morning at 1:51 a.m. for 25 minutes now with intermittent twitching, comatose, intubated, obtunded.  COPD exacerbation, status post tracheostomy for 40 years.
+MEDICATIONS:  Theo-Dur, albuterol, Solu-Medrol, vecuronium.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated, unresponsive with facial twitching.  Vecuronium was utilized to eliminate the facial twitching.  The EEG was recorded for 40 minutes.
+DESCRIPTION OF THE RECORD:  The sections of the EEG without vecuronium are mostly obscured by muscle and motion artifact, but underlying there is a suggestion of a discontinuous pattern.  In addition, with this underlying burst suppression pattern, there is some asymmetry.  With the use of vecuronium, the muscle artifact disappears and a burst suppression pattern is identified with periods of suppression typically 3-5 seconds and then periods of activity approximately 1-3 seconds.  Hypersynchronous higher amplitude, primarily theta frequency activity is noted in bursts with some lower frequency delta before or after the bursts.
+Heart rate 90 bpm.
+IMPRESSION:  This EEG is suggestive of a severe encephalopathy as can be seen in the context of a severe anoxic insult.  Although this was a somewhat technically challenging record due to artifact, there did not appear to be any reactivity to external stimuli, another worrisome prognostic feature.
+
+
+

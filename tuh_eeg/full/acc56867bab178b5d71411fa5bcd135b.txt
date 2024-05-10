@@ -1,0 +1,28 @@
+History:	72 year old woman with a single seizure.
+Medications:	Keppra, Insulin, Doxycycline, Metoprolol, Atorvastatin, Amiodarone, Methimazole,
+Plavix, Lisinopril, Asa
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a very low voltage 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During brief drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Frequent 50-75uV, 100 msec positive
+sharp transients occur bilaterally over the occipital regions of the head during saccadic eye
+movements with the eyes open.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Beta, excessive
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. Excess beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+

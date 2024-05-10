@@ -1,0 +1,23 @@
+History: 29 YR OLD MALE PRESENTS WITH H/0 Dizziness AND SHARP PAIN LT FRONTAL
+I CENTRAL AREA OF THE HEAD. PT DENIES ANY LOC/SZ ACTIVITY, ONSET
+EARLY CHILDHOOD.
+Medications: None
+Sedation:
+EEG Type: Routine, awake & drowsy
+Technique: International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, awake drowsy, asleep, hyperventilation, photic
+
+Description:
+Waking background Is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Diffuse excess beta activity is noted during drowsiness. the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent During very brief stage 2 sleep, the record slows further 10 moderate voltage 2-4 Hz activity, and symmetric sleep spindles and K complexes appear.
+
+No focal slowing is present. No epileptiform discharges are present.
+
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.
+
+Summary of Findings:
+Sleep, stage 2, scarce
+No epileptiform discharges
+Excessive fast
+
+Interpretation:
+This is a NORMAL 22-minute EEG, awake, drowsy, and very briefly asleep. The rack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 28-year-old woman with daily staring spells lasting less than a minute.  Also, right sided facial pain since she fell from a horse in 2010.  Normal MRI.
+MEDICATIONS:  None.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized with a 10 Hz alpha rhythm and generous beta.
+The patient seems to be quite drowsy with hypersynchronous rhythmic slowing.  Rhythmic mid temporal theta of drowsiness was noted with the characteristic 5 Hz flat top shape with rhythmic theta from the right temporal region.
+Photic stimulation elicited a driving response.  There was a fair amount of muscle artifact during photic stimulation.
+Hyperventilation elicited paroxysmal, high amplitude slowing.  There is a small amount of shifting slowing noted in hyperventilation but the patient also appears to be quite drowsy, transitioning into sleep during hyperventilation.
+Heart rate:  84 BPM.
+IMPRESSION:  This EEG is at the limits of normal.
+CLINICAL CORRELATION:  Rhythmic with temporal theta of drowsiness is a normal finding and is considered a normal variant.  There is a somewhat asynchronous hyperventilation response.  This is a nonspecific finding and is not necessarily pathological.  In this patient with episodes of staring, perhaps a more prolonged spell looking for additional drowsy bursts may be of value.
+
+
+

@@ -1,0 +1,20 @@
+MEDICINES:
+Lisinopril and Dyazide.
+HISTORY:
+A 71-year-old woman with an episode of memory impairment and incontinence. She was amnestic for this. Past history of hypertension. She suffers from epilepsy 40 years ago.
+INTRODUCTION:
+Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with one channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF RECORD:
+In wakefulness there is a 9 Hz posterior dominant rhythm. There is a eye movement artifact, but there is also both some left temporal rhythmic theta, accentuated by hyperventilation and isolated left temporal sharp waves. Hyperventilation occurred early in the record and despite the eye movement artifact clearly accentuates the epileptiform activity, which is
+primarily left anterior temporal at T1. This is to some degree confounded by artifact that can be seen in either temporal region and there are rare sharp waves noted on the right, which differ from the eye movements. Mu activity is noted intermittently in wakefulness. The patient transitioned frequently from awake to drowsy pattern. Photic stimulation, elicits bilateral driving. The left temporal rhythmic theta and sharp waves can be identified during photic
+stimulation. Vertex waves are noted in stage I and Ill.
+IMPRESSION:
+This is an abnormal EEG due to:
+1. Left temporal sharp waves.
+2. Wear right temporal sharp waves.
+3. Left temporal rhythmic focal slowing, accentuated by hyperventilation.
+CLINICAL CORRELATION:
+Although there are multiple artifacts in this record including prominent eye movement artifacts, EKG artifact and there are also pathological features with clearly defined focal slowing and left temporal sharp waves noted in hyperventilation and drowsiness. Together, this supports a focal mechanism for epilepsy.
+
+
+

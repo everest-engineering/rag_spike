@@ -1,0 +1,23 @@
+History:	79 YR OLD FEMALE PRESENTS WITH H/O ALTERED MENTAL STATUS AND NOTED W/ GTC SZ
+Medications:	Depakote Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, lethargic, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 12 hours from 12/22/2014 to 12/23/2014.  Nursing­ initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.	·
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Periodic lateralized epileptiform discharges (PLEDs) are present at F7 region at a rate of 1-2 Hz. At times they have a more posterior field.  Seizures: Multiple electrographic seizures per hour. The onset is at F7 with a rapid increase in frequency of the PLEDs and an increase in
+amplitude. They spread throughout the left hemisphere with no spread to the right. They last - 20-50 seconds. No clinical correlate is noted.
+Hyperventilation and photic stimulation were not performed. HR was 108 Technical difficulties: The EEG was disconnected after 12 hours and no recording was obtained after the first 12 hours.
+Summary of Findings:
+Seizure, frequent, left temporal, anterior, multiple, electrographic
+PLEDs (periodic lateralized epileptiform discharges}, continuous, left temporal, anterior Diffuse slowing, polymorphic, continuous central
+Interpretation:
+This is an ABNORMAL EEG because of multiple electrographic seizures and PLEDs arising from the left anterior temporal region. These findings are indicative of an epileptogenic focus in this region, and are consistent with subclinical status epilepticus.  In addition there is diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+
+

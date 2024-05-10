@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 21 year old woman with a possible seizures during a biopsy. She was given multiple doses of Versed. She was then agitated and awoke. No other information is available.
+
+MEDICATIONS: Unknown
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a medium amplitude, 11 Hz alpha rhythm. There is a small amount of background theta. Hyperventilation is performed early in the record producing rhythmic slowing and an increase in amplitude. As hyperventilation continues a higher amplitude, characteristic rhythmic slow pattern is observed. Following hyperventilation, the EEG demonstrates the overall best organization. Features of drowsiness include rhythmic theta followed by vertex waves. The patient transitions in and out of sleep. There is a single pair of discrete low voltage frontal discharges compatible with phantom spike waves. Photic stimulation elicits a bilateral driving response.
+
+HR: 72 bpm
+
+IMPRESSION: This EEG is within normal limits.
+
+CLINICAL CORRELATION: There are multiple normal phenomenon observed in this record including a vigorous hyperventilation response, vigorous photic driving. If additional information is needed, a more prolonged study performed in the Lab can be considered, but the presence of multiple normal variants is still a normal entity and is not uncharacteristic in a young adult.
+
+
+
+

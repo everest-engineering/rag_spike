@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  71 year old male with encephalopathy who remains confused and agitated at times.
+MEDICATIONS:  Haldol, Albuterol, Famotidine, ASA, Methylprednisolone. Ipratropium
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is quite restless.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is disorganized.  The alpha rhythm is somewhat slow at 7 Hz.  There is a metabolic appearing pattern with intermittent bursts of paroxysmal slowing.  There is shifting slowing and some sharply contoured slowing in the posterior rhythm with nearly an O2 sharp wave.  There are also a handful of sharp waves at C4/F4. Features of drowsiness include a decrease in movement artifact.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Prominent paroxysmal bursts of slowing.
+A handful of sharp waves in the right hemisphere, both frontal centrally and posteriorly.
+CLINICAL CORRELATION:  This EEG is compatible with diffuse disturbance of cerebral function (toxic metabolic or other) and focal mechanism for seizure.
+
+
+

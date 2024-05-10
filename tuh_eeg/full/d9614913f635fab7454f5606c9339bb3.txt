@@ -1,0 +1,34 @@
+History:	84 yo man with Left Occipital hematoma. He has intermittent episodes of agitation.
+Medications:	Dilantin, seroquel
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, photic
+Description:
+The posterior dominant rhythm reaches 9 Hz polymorphic alpha activity.  Posterior dominant
+rhythm is less well defined and lower in amplitude (>50% interhemispheric asymmetry compared to
+the right) over the left.  The AP gradient is unstable.  Excess diffuse admixed 50-75 uV, 5-7Hz
+activity is present throughout the recording and increases during drowsiness.  Frequent brief (2-5
+second) bursts of 100-200uV, 2-4Hz rhythmic bifrontal slow waves (FIRDA) occur throughout the
+recording, increasing in frequency during drowsiness.  No normal sleep architecture is present but
+periods of quiescence are captured.
+No epileptiform discharges are present.  Patient had intermittent bilateral and right leg twitching
+throughout the recording.  It was not associated with an abnormal EEG correlate.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Attenuation, left posterior
+FIRDA (frontal intermittent rhythmic delta activity)
+No electrographic seizures
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute EEG because of mild diffuse slowing,
+disorganization and voltage attenuation over the left posterior quadrant. Diffuse slowing and
+disorganization are indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Voltage attenuation over the left posterior quadrant indicates focal cerebral
+dysfunction, possibly secondary to fluid collection between a skull and brain (such as subdural
+hematoma, empyema, etc).  Patient had intermittent bilateral and right leg twitching throughout
+the recording.  It was not associated with an abnormal EEG correlate.
+
+

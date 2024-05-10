@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  60 year old right handed woman with history of seizures that started in May 2012 with last seizure about a month ago.  Seizures are of 2 kinds: she has a seizure type described as tremors, followed by weakness that lasts several minutes, as well as generalized tonic clonic convulsions with loss of consciousness.
+MEDICATIONS:  Keppra, Xanax, Lorazepam, Vicodin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated 10 Hz alpha that attenuates with eye opening.  There is anterior to posterior frequency amplitude gradient.  There is excess beta activity.  During drowsiness the posterior dominant rhythm attenuates and theta is observed diffusely at lower voltages.  No epileptiform discharges are captured.   Hyperventilation does not produce significant change in the background. Photic driving produces minimal occipital driving.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No epileptiform discharges were captured, but stage II sleep was not recorded.  If clinical suspicion for seizures persist, a repeat EEG with stage II sleep may be of benefit.  Excess beta may be secondary to medications, such as benzodiazepines and barbiturates.
+
+
+

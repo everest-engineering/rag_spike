@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 45 year old right handed woman with epilepsy.  The patient has difficulty providing a history, but last seizure may have been 11 years ago.
+MEDICATIONS:   Lamictal, Topamax, Depakote
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This was an awake and a sleep record in a very tired patient, who seemed to transition rapidly in and out of stage 2 sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is an 8.5 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Central mu activity was abundant, but testing was not performed to confirm this.  In addition, there was 5 Hz rhythmic and mid temporal theta activity identified as the patient transitions in and out of drowsiness.  Stage 2 sleep includes vertex waves, K-complexes, spindles, and POSTS.
+Hyperventilation serves to increase some of the rhythmic 5 Hz activity.  Photic stimulation was limited, but did not significantly activate the record.  A driving response was seen at 9 Hz.
+HR:    60 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  There were no definitive epileptiform features.  The patient had multiple normal variants. If the patient is thought to have an underlying active seizure disorder, additional EEG recording, perhaps capturing one of her spells, may be of value.
+
+
+

@@ -1,0 +1,7 @@
+Description:
+R CT spike  wave
+L P3 Spike wave
+Bilateral  fast
+Abnormal
+
+

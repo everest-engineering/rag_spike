@@ -1,0 +1,14 @@
+History:	65 YR FEMALE EVALUATED PREOPERATIVELY FOR LEFT SIDED TUMOR RESECTION 10/15/14.  NO HX OF SZ, CT SHOWED 2 SPACE OCCUPYING LESIONS IN THE LEFT HEMISPHERE. HX HTN, BREAST CA, DVT, DM.
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description: Waking background is characterized by a 25-40uV, 9.5Hz alpha rhythm, which is best seen over the right hemisphere.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over right hemisphere with some decreased amplitude over the left central region.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and asymmetric sleep spindles and K complexes appear, best seen over the _______
+Continuous polymorphic delta activity is present in the F7/T3 region, with an associated loss of faster frequencies.  No epileptiform discharges are present. Hyperventilation was not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+HR was 48
+Summary of Findings:
+Focal slowing, polymorphic, nearly continuous, left frontotemporal, with loss of faster frequencies.
+Interpretation: This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the left fronto temoporal region with associated loss of faster frequencies.  This finding is indicative of a focal structural lesion involving both gray and white matter in this region.
+
+
+

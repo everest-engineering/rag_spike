@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 61 year old right handed male with epilepsy, currently seizure free for 1 year.
+MEDICATIONS: Phenytoin.
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This an awake stage 2 record.
+DESCRIPTION OF THE RECORD: In wakefulness there is an 11.7 Hz alpha rhythm which is symmetric and reactive to eye opening. There is a small amount of low voltage frontal central beta activity. Drowsiness is characterized by slow rolling eye movements with K-complexes, vertex waves, spindles, and POSTS noted in stage 2 sleep. Hyperventilation does not activate the record. Photic stimulation elicits a driving response, despite the fact that the patient is following asleep.
+HR: 72 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features were observed. Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

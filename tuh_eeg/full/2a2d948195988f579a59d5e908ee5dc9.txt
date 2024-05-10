@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This 57-year-old male admitted on the August 13th, with massive right cerebral hemorrhage and obtundation.
+MEDICATIONS:  Hydralazine, Protonix, Zofran, and no sedative hypnotics.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was obtunded.  He was not interactive with the technologist.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an abnormal in asymmetric pattern.  The left hemisphere demonstrates a relatively continuous 5-7 hertz theta.  There is a smaller amount of underlying delta in the left and a smaller amount of beta.  There is an asymmetry between the 2 hemispheres.  There is a bit more delta in the right hemisphere.  In addition, there is intermittent voltage attenuation noted on the right.  The patient has spontaneous eye movements and lateral rectus spikes, but is not interactive with the examiner.
+Heart rate irregular at 84 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing from the right hemisphere.
+Intermittent attenuation on the right.
+CLINICAL CORRELATION:  This EEG is congruent with the large right hemispheric hemorrhage.  No definitive epileptiform features were seen.  If seizures are an important consideration, additional EEG recording may be of value.
+
+
+

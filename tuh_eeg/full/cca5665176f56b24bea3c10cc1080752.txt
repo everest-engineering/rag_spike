@@ -1,0 +1,37 @@
+AGE: 61 y.o.
+SEX: male
+DATE OF STUDY: 12/30/2015
+RECORDING ENVIRONMENT : outpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1879
+HISTORY:
+61 y.o. male with a history of diabetes referred for routine EEG for possible seizure September 21, 2015.
+He had an episode with loss of consciousness shaking ·but no incontinence of foaming from the mouth . Prior to the episode he felt that his vision was off and he felt afraid.
+MEDICATIONS:
+Metformin
+SEDATION: None TECHNIQUE :
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG HV and photic stimulation.
+EEG BACKGROUND :
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity , organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9.7 Hertz posterior dominant rhythm (PDR), which attenuates
+symmetrically with eye opening.
+During brief drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse increase in beta was noted
+Deeper stages of sleep Sleep is not captured
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Produces hypersynchronous rhythmic slowing, a normal finding
+Photic Stimulation: Does not significantly activate the record
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 54 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and drowsy	routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake and drowsy	routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+If epilepsy is an important consideration, a more prolonged study capturing deeper stages of sleep is suggested.
+
+
+

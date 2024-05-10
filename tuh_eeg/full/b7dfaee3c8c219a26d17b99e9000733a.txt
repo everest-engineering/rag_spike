@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  24 minutes.
+CLINICAL HISTORY:  The patient is a 45-year-old man found down on the street unconscious.  Upon arrival to the emergency room, was found to have saturation of approximately 77%.  Following intubation, he required CPR and subsequent cardioversion.  A reported seizure occurred upon arrival in the emergency room.
+MEDICATIONS:  Keppra, heparin, lorazepam, vancomycin, midazolam, Fentanyl.
+INTRODUCTION:  The recording is performed according to the standard 10-20 system with additional T1and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  The recording was performed at the patient's bedside.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  The background consists of a mixture of polymorphic theta and delta activity, discontinuity, and diffuse spindle-like waveforms.  Occasional ventilator artifact is present. With stimulation, there is appearance of EMG artifact as well as triphasic waveforms.  Hyperventilation and photic stimulation are not performed.  There is __________
+IMPRESSION:
+Moderate-to-severe diffuse slowing.
+Periods of discontinuity.
+Occasional waveforms.
+Background reactivity.
+No electrographic seizures.
+This an abnormal 24-minute EEG due to moderate-to-severe background slowing and disorganization and triphasic waveforms. These findings indicate an etiologically nonspecific diffuse cerebral dysfunction.  In this patient, could relate to the medication effect, post anoxic brain injury and toxic metabolic etiology.  Triphasic waveforms are observed in various forms of encephalopathies.  No clear electrographic seizures were captured.  Presence of reactivity on the EEG is positive predictor of future neurologic recovery.
+
+
+

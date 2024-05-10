@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 65-year-old woman with diabetes and possible left MCA stroke, admitted in DKA, the patient began to arouse and was re-sedated.
+MEDICATIONS:  Ativan drip, vancomycin, ceftriaxone, others.
+INTRODUCTION:  Continuous video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient's Ativan drip was reduced just prior to the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage beta pattern.  There are intermittent attenuations.
+Stimulation of the patient clearly produces an arousal.
+The arousal includes an increase in theta.
+There is a subtle asymmetry with a bit more slow delta in the right posterior quadrant.
+Heart rate 120 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of a normal background with primarily a beta frequency pattern.
+A low voltage slow pattern.
+A subtle asymmetry with a bit more delta in the right posterior quadrant.
+CLINICAL CORRELATION:  The findings described above are most compatible with a pharmacologic coma, the asymmetry described above should be correlated with repeat imaging.
+
+
+

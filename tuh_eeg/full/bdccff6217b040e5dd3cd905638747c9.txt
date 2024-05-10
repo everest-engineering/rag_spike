@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 56-year-old woman, status post CABG on October 8th, status post cardiac arrest for 1 hour, evaluate for anoxic encephalopathy.
+MEDICATIONS:  Morphine, magnesium, and fentanyl.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and comatose.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, burst suppression pattern.  Periods of suppression are 3-5 seconds in duration with cerebral activity are 1-3 seconds.  There is some asynchrony in the burst suppression activity and there is a little bit more sharply contoured activity in the left hemisphere, particularly in the frontal regions.  There is also sometimes some fast activity noted in these bursts.
+Tactile stimulation of the patient does not activate the record and the record is relatively invariant, perhaps more stereotypic and in variant as the recording continues.
+Heart rate 100 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Burst suppression pattern.
+Absence of reactivity or variability.
+An asymmetric pattern with a bit more cerebral activity on the left.
+CLINICAL CORRELATION:  This EEG was performed with in the first 24 hours of cardiac arrest, but demonstrates worrisome prognostic finding.  Ongoing clinical monitoring and/or a repeat study may be a value.
+
+
+

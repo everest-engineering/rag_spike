@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 22-year-old with a history of lupus and schizophrenia.  The patient with difficult to control hallucinosis, admitted on 09/03/2015, after excessive ingestion of Haldol with dystonic reaction.
+MEDICATIONS:
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a low voltage record with 9 hertz, symmetric reactive alpha rhythm.  Drowsiness is characterized by an increase in beta and attenuation of the alpha.  Stage II sleep includes vertex waves, K complexes, spindles, and POSTs.
+Photic stimulation elicits:  Photic stimulation was performed while the patient was drifting off to sleep and produced minimal driving.
+Hyperventilation elicits:  Hyperventilation did not activate the record.
+Heart rate:  100 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were seen.  Normal EEG does not exclude a diagnosis of epilepsy.  Of note, this EEG is markedly improved compared to previous study.
+
+
+

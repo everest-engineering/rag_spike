@@ -1,0 +1,5 @@
+EEG REMARKS: 
+Normal
+WNL  Why does system think this is an outpatient?
+
+

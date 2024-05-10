@@ -1,0 +1,41 @@
+AGE: 49 y.o.
+SEX: male
+DATE OF STUDY: 09/08/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE	Routine, awake and asleep EEG #: 15-1314
+HISTORY:
+49 y.o. male referred for routine EEG for a history of 1 seizure two months ago while receiving wound care, requiring Ativan 4 mg. PMH COPD, Vasculitis.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+albuterol (PROVENTIL HFA;VENTOLIN HFA) 90 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 6 hours as needed for Wheezing.
+polyvinyl alcohol (LUBRICANT EYE, POLYV ALCOHOL,) 1.4 % ophthalmic solution, Place 1 drop into both eyes as needed. ibuprofen (ADVIL,MOTRIN) 800 mg tablet, Take 800 mg by mouth every 6 hours as needed.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the
+International 10-20 system with Tl/T2 electrodes was perform ed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well
+organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric POSTS, vertex waves, sleep spindles and K-complexes present
+during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+There are occasional sharp waves seen over the left posterior quadrant that broadly distribute (TS > 01/P3) .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG due to:
+1. Occasional sharp waves seen over the left posterior quadrant that broadly distribute.
+CLINICAL CORRELATION:
+These findings indicate the presence of potentially epileptogenic potentials over the left posterior quadrant.
+
+
+
+

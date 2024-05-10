@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 47 year old male with refractory epilepsy, postictal headache, and agitation. Childhood epilepsy, worse after a motor vehicle accident.
+MEDICATIONS: Keppra, Lamictal, Flexeril, Valium
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz alpha rhythm of 40 microvolts. There are occasional bursts of bilateral, somewhat asynchronous mixed theta frequency activity. The activity maybe a little bit more prominent in the right or left hemisphere. Vertex waves appear out of sleep, but sleep is not sustained. There are a handful sharply contoured bursts of sharp waves that have a bilateral representation, but seems to be maximum in the right frontal central region. There is also a single left sharp temporal sharp wave and some artifact at L1. Photic stimulation elicits scant driving.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Brief bursts of asynchronous paroxysmal slowing.
+2. Discrete sharp waves which seem to have a bilateral presentation, but are maximal in the right frontal central region.
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for epilepsy. There were a handful of other sharper wave forms noted in the background and an additional recording may be of use to make sure that there are not multiple other areas which generate focal epileptiform activity.
+
+
+

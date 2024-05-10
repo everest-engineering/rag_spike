@@ -1,0 +1,30 @@
+
+CLINICAL HISTORY: 65 year old woman with carotid disease, prior CVA with progressive encephalopathy following orthopedic surgery.
+
+MEDICATIONS: Morphine, Lovenox, Percocet, Tylenol
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and
+includes a rhythmic mixture of delta and theta frequency activity.
+
+There is a frontally predominant periodic complex which is asynchronous. The field for the discharge is unusual and in the right frontal region, it has an anterior to posterior lag as a triphasic wave might have, but is not identical in the left hemisphere and using an average reference, it is most prominent in the frontal regions FP1 and FP2 with an anterior to posterior lag. In some cases, it is maximum at FP1, clearly higher amplitude and on other occasions, a bit more prominent at FP2. Initially, stimulation of the patient produces an increase in muscle.
+
+Ativan is given during the EEG and produces a slowing of the background. After the Ativan, the periodic activity begins to abate and is most prominent in the right frontal region.
+
+At 12:23:40, the periodic activity to abruptly terminates and the EEG transitions to a alpha theta background. Following the Ativan the EEG was improved dramatically.
+
+HR: 76 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing.
+2. Triphasic waves
+3. Complex periodic activity some of which appears to be epileptiform in nature, but others which are more focal and have unusual morphology.
+
+
+CLINICAL CORRELATION: Features of this record support a metabolic encephalopathy, however, the dramatic improvement with the use of benzodiazepine suggest that the discharges are more likely to represent a late form of status epilepticus.
+
+
+
+
+

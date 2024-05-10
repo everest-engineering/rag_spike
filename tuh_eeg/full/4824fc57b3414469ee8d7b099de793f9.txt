@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  37 year old right handed male with hypertension and renal failure with 3 episodes of loss of consciousness in the past 3 weeks.  Symptoms described to the patient's doctor as syncope, but the patient described the symptoms to the technologist as convulsions.
+
+MEDICATIONS:  Amlodipine, Dyazide, Hydralazine, Simvastatin, Triamcinolone, Lisinopril
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This was an awake and stage 2 sleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness there is a low voltage 9.5 Hz alpha rhythm.  The patient's drowsiness included attenuation of the alpha rhythm, increase in beta, and rhythmic central theta, followed by very brief vertex waves and rare spindles.  Stage 2 sleep was not sustained.  Hyperventilation produces an increase in amplitude of the background. The patient was transitioning into stage 2 sleep just prior to photic stimulation.  Photic stimulation elicited scant driving, despite the fact that the patient was transitioning in and out of sleep.
+
+HR:    66 bpm
+
+IMPRESSION:  Normal, but somewhat low voltage, EEG.
+
+CLINICAL CORRELATION:  No epileptiform features were identified.  If the patient is found to have frequent seizures, a follow up EEG may be of value.

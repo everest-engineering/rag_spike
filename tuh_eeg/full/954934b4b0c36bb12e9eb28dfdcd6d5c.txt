@@ -1,0 +1,36 @@
+History:	33 year old man who was found down.  He subsequently developed status
+epilepticus that resolved with medications.  He remains altered.  EEG performed on
+12/31/2013 demonstrated recurrent status epilepticus.
+Medications:	depakote, phenobarbital, ativan 2 mg
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 6 AM on 01/01/2014 until 6 am on
+1/2/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+# Push button events	0
+Description of pushbutton events
+Description:
+Background activity was characterized by diffuse low voltage delta and theta activity with absence
+of the expected anterior to posterior gradient of frequencies. There is diffuse amplitude attenuation
+of the background.  Occasional eye blink artifact is noted.  No normal sleep architecture was
+There are frequent 2 Hz bifrontal sharp waves consistent with periodic epileptiform discharges
+(PEDs).  The record showed a few electrographic seizures characterized by with PED's that become
+rhythmic and evolve from theta to delta wave discharges in bilateral frontal regions lasting up to 2
+Hyperventilation and photic stimulation were not performed.  HR was bpm.
+Summary of Findings:
+PEDs (periodic epileptiform discharges), intermittent frontal
+Attenuation
+Seizure, few frontal, bifrontal
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL 24 hours EEG because of electrographic seizures arising from the bifrontal
+region which are indicative of an epileptogenic focus in this region. In addition there is diffuse
+background slowing and absent alpha rhythm, amplitude attenuation, and intermittent bifrontal
+sharp waves.  Diffuse slowing and attenuation is an etiologically nonspecific indicator of moderate
+to severe diffuse cerebral dysfunction.  .
+present. minutes.
+

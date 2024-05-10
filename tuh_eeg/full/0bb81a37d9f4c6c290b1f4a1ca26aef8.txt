@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 47-year-old woman with new onset seizures on April 13, 2015 and migraine headaches.
+MEDICATIONS:  Elavil.
+INTRODUCTION:  One hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  Much of the record captures drowsiness.  In maximal wakefulness, there is only 11 Hz alpha rhythm.  The overall background demonstrates generous beta.  The drowsy pattern demonstrates generous theta.  The patient was falling asleep during photic stimulation, which did not otherwise activate the record.  Hyperventilation produces an increase in amplitude of the background.
+Heart rate 60 to 70 bpm.
+IMPRESSION:  This EEG is remarkable for.
+Excess beta.
+Small excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  This patient's tricyclic medication may produce the excess theta identified in the record.  If epilepsy is an important consideration, a follow-up study may be of value.
+
+
+

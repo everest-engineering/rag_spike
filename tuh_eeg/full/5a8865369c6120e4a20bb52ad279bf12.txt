@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 26-year-old male evaluated 6 weeks ago for benzodiazepine withdrawal, patient reports no other drug use.
+MEDICATIONS:  None reported.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  Hyperventilation was declined.  This was an awake and drowsy record. Of note, there was a little bit of head rocking artifact and to the close of the record, but none that prohibits interpretation of the EEG.
+DESCRIPTION OF THE RECORD:  Much of the record includes stage 2 sleep with vertex waves, K complexes, spindles, and posts.  In wakefulness, there is a background with generous beta activity.  A 9 Hz posterior dominant rhythm was noted.  The patient was drifting off to sleep in photic stimulation and scant driving response was noted in faster flash frequencies.  Immediately after photic stimulation, the patient transitioned back to stage 2 sleep.
+Heart rate 60 bpm.
+IMPRESSION:  EEG within normal limits, primarily in stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy.  If this patient is thought to have epilepsy, a more prolonged 1-hour EEG may be obtained.  The excessively sleepy pattern described above can be seen in the context of sleep deprivation or with the use of sedative hypnotic medications.
+
+
+

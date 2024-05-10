@@ -1,0 +1,25 @@
+History:	65 year male with new onset seizures.
+Medications:	Ativan, Citalopram, Oxcarbazepine, Trazodone
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+The posterior dominant rhythm is unstable and very fragmented at 6.5-7 Hz low-to-moderate
+amplitude polymorphic theta activity.  There is no clear AP gradient.  The background consists
+primarily of low amplitude polymorphic theta and delta activity.  Diffuse, frontally maximal sharp
+waves with triphasic morphology are present throughout the recording.  These waveforms
+demonstrate an anterior to posterior phase lag.  No normal sleep architecture is present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  HR was 54.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate
+Triphasic waves, intermittent
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only EEG due to moderate diffuse slowing and triphasic waveforms.
+These findings are indicative of a moderate diffuse encephalopathy, which is etiologically
+nonspecific, but suggestive of a metabolic origin.  The lack of epileptiform discharges on a routine
+EEG does not rule out a clinical diagnosis of epilepsy.
+
+

@@ -1,0 +1,38 @@
+History:	44 YR FEMALE CC APHASIA/RIGHT SIDE WEAKNESS. [PT WITH SEIZURE 3/28.).
+METASTATIC BREAST CA, S/P CHEMO, DOUBLE MASTECTOMY, S/P WHOLE
+BRAIN RX.  MULTI CNS LESIONS
+Medications:	KEPPRA
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 16.5 hours from 03/31/15 to 04/01/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.    Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.  During stage 2 sleep, the record slows
+further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  At the onset of the record reveals a seizure which consisted of rhythmic
+O2 sharp waves at 2-3 Hz continuously for 48 minutes. Clinically the patient is unresponsive and
+has a left gaze deviation. The record stopped and when it returns minutes later there  the seizure
+stopped and there are periodic lateralized epileptiform discharges (PLEDs) present in the O2 region
+at a rate of 1 Hz. These discharges stop about an hour later. A diffusely slow background remains.
+Hyperventilation and photic stimulation were not performed.  Hr was 132
+Summary of Findings:
+Seizure, single, marked, right occipital
+PLEDs (periodic lateralized epileptiform discharges), continuous, right occipital
+Interpretation:
+This is an ABNORMAL EEG because of focal status epilepticus for 48 minutes arising from the right
+occipital lobe. There is also moderate to severe diffuse background slowing and absent alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.
+
+
+
+

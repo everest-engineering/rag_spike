@@ -1,0 +1,27 @@
+History:	54 YO MALE, RT. SDH, RT. FRONTO-PARIETAL CRANIOTOMY. NOTED 2
+EPISODES OF WITNESSED SZ TWITCHING WITHOUT CONFUSION LASTING
+FEW SEC.  PMH: ETOH ABUSE, SZS. D/O, DEAF
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates with eye
+opening.  Diffuse beta activity is present, maximal over the right hemisphere.  No sleep architecture
+was present.
+Intermittent polymorphic theta activity is present in the right temporal region (maximum at T4)
+during wakefulness.  There is breach rhythm over the right hemisphere.  No epileptiform discharges
+Hyperventilation and photic stimulation are not performed.  HR is 80.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, right temporal
+Beta, bilateral diffuse, higher amplitude on the right
+Breach artifact, right
+No epileptiform discharges
+Interpretation:
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates. This is an abnormal awake EEG due to  intermittent focal slowing in the right
+temporal region.  This finding is indicative of focal cerebral dysfunction, which is consistent with a
+history of ICH.  Breach artifact is also consistent with a history of right craniotomy.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

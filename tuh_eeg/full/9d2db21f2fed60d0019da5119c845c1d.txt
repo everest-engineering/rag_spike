@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  51 year old right handed woman, with history of neurologic disease, including complex migraine, possible seizures, possible posterior stroke or syncopal event.
+MEDICATIONS:  Depakote
+INTRODUCTION:  Digital video EEG was performed in bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a great deal of muscle artifact on this bedside EEG.
+DESCRIPTION OF THE RECORD:  There is a 9.7 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  There appears to be scant theta, but there is also a great deal of muscle artifact.
+HR:    84 BPM.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  This EEG includes no sleep, no hyperventilation, and no photic stimulation.  If a complete assessment for epilepsy is needed, a follow up study in the laboratory is suggested.
+
+
+

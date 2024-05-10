@@ -1,0 +1,19 @@
+History:	66 YR  OLD FEMALE WITH ICH / EVD PLMT
+Medications:	DILANTIN, VERSED
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 30 hours from 05/05/2014 to 05/06/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events: None
+Description: No posterior dominant rhythm was present.  Background activity was characterized by a burst suppression pattern with burst occurring at almost a 1:1 ratio.  Burst are composed of low voltage theta and delta frequencies with a bifrontal intermittent intermixed beta seen occasionally.  The burst usually commence with left prefrontal (FP1) sharp waves that at times occurr in runs. At times the bursts appear asymmetrical and are best seen only on the right hemisphere with intermixed faster frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Frequent focal sharp waves are present with phase reversal and amplitude maximum at Fp1.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.
+Summary of Findings:
+Sharp waves, left frontal
+Burst-suppression pattern
+Interpretation: This is an ABNORMAL EEG because of  frequent epileptiform discharges in the left prefrontal region.  These findings are indicative of a potentially epileptogenic focus in this region. In addition there is a  bursts suppression pattern and absent alpha rhythm.  These findings are etiologically nonspecific indicators of diffuse diffuse cerebral dysfunction, which may be partially medication induced.  The asymmetry in the burst and faster frequencies may indicate a cortical dysfunction over the left hemisphere.  No clinical or electrographic seizures are present.
+
+
+

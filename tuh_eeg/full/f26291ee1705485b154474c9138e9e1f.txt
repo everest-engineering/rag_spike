@@ -1,0 +1,25 @@
+History:	53 year old woman with history of seizures.
+Medications:	Metformin, Lisinopril, Atenolol, Sertraline, Albuterol, Trazodone
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Fast alpha variant is noted.  Symmetric 5-15uV, 18-25Hz activity
+is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to
+central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Occasional polymorphic theta and delta activity is noted over the left temporal region.  No
+epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at high frequency flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, left temporal, mild-to-moderate
+Interpretation:
+This is an abnormal awake and asleep 21-minute EEG due to occasional left temporal mild-to-
+moderate focal slowing. This finding indicates focal cerebral dysfunction, possibly structural in
+etiology.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical
+
+

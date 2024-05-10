@@ -1,0 +1,35 @@
+TYPE OF STUDY:  Routine EEG.  Capture in wakefulness and drowsiness.
+
+DIAGNOSIS:  Follow-up for epilepsy.
+
+CLINICAL HISTORY:  This 52-year-old right-handed female with history of childhood epilepsy, whose last seizure was at age 17 and carries a past medical history of congenital hydrocephalus with right hemispheric shunt status post craniotomy on the right side.
+
+MEDICATIONS:  The patient's medications include Carbatrol 300 mg twice a day, gabapentin, and Percocet.
+
+INTRODUCTION:  A digital EEG was performed in the lab using standard International 10/20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness and drowsiness.
+
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominance rhythm was slow in 7.5-8 Hz in frequency, 30-40 microvolts in amplitude in the left and 70 microvolts in the occipital region, which attenuate with eye opening.  There is diffuse theta activity seen during wakefulness most pronounced on the right side, 7-7.5 Hz on the left and 5-6 Hz on the right side.  Drowsiness is characterized by this appearance of posterior dominant rhythm slowing of background most pronounced on the right side and absence of motion and eye-blink artifact.  There is breach rhythm seen in the right cerebral hemisphere most pronounced in the right posterior quadrant at times with occasional sharply contoured features.  There is also occasional bursts of polymorphic theta and delta activity seen at bifrontal region most prominent in superior frontal areas at F3/F4 lasting 1-2 seconds.  There were also occasional sharp waves seen arising from the right temporal region at T4/T6 during wakefulness without evolution.  Hyperventilation was performed and showed diffuse slowing with higher amplitude on the right side.  There are right spike-and-wave discharges most pronounce at T6 posterotemporal with no evolution during post ventilation periods.  Photic stimulation was performed at multiple flash frequencies and results in mild driving response.  Heart rate was 70-80 beats per minute and regular.
+
+IMPRESSION:  This is an abnormal EEG recording due to,
+1. Generalized slowing of background characterized by theta activity seen in wakefulness most pronounced on the right side.
+2. Breach rhythm in the right posterior quadrant region.
+3. Occasional polymorphic theta and delta activity seen in the superior frontal regions bilaterally.
+4. Occasional sharp waves seen rising from the right temporal region.
+
+
+CLINICAL CORRELATION:  Generalized slowing of the background activity and posterior rhythm and also theta activity most pronounced in right cerebral hemisphere during wakefulness could be due to toxic metabolic or infectious encephalopathy effect of sedating medications or bilateral cerebral dysfunction, structural lesions or degenerative brain disease worse on the right side.  Breach rhythm is consistent with patient's history of burr hole.  Occasional  polymorphic theta and delta activity seen in bifrontal region is suggestive of an underlying structural abnormality in the subcortical white matter.  The sharp waves seen arising from the right temporal region is suggestive of epileptogenicity of the temporal region in this area.
+
+Clinical correlation is recommended.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 27 year old right handed male with epilepsy since childhood. The patient previously on Depakote but not on medicines at this time. History of childhood epilepsy with strong family history of epilepsy.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for an adult of this age with an 11 Hz alpha rhythm and a small amount of low voltage, frontocentral beta activity. Hyperventilation is performed early on in the record producing an increase in amplitude of the background and a small amount of slowing. Features of drowsiness include an increase in beta and an increase in theta. Brief vertex waves are noted but sleep is not sustained. There is a burst of fast activity seen in the transition to sleep but no definitive spike and wave activity. POSTS are also noted in sleep. Photic stimulation elicits a driving response.
+HR: 72 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform features were observed in this record, however, a normal EEG does not exclude a diagnosis of epilepsy. In this individual who may have an inherited, childhood epilepsy, a repeat study with some sleep deprivation, fasting and additional hyperventilation and photic stimulation may be necessary to bring out generalized spike and wave activity.
+
+
+

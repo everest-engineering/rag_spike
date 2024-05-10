@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 28 year old admitted on August 17, 2009 after an assault, traumatic brain injury, tracheostomy, left parietal hemorrhage, and MRI demonstrating demyelination.
+
+MEDICATIONS: Ativan, Seroquel, Midazolam, Famotidine, Lovenox, Clonidine, Amantadine, Propranolol, Cefepime, Vance, Bromocriptine, Pantoprazole, Dexamethasone, Insulin, Diazepam
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: The overall background of the EEG is relatively low voltage. Much of the record includes a mixed frequency background rich in theta and beta. Much of the record is under 10 microvolts and little of the record is at greater than 20 microvolts. The background attenuates slowly on occasion. There is intermittent background delta and there is a subtle area of focal slowing in the right posterior quadrant. In stimulation the patient produces additional rhythmic theta of approximately 4 Hz.
+
+HR: 60 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Low to medium amplitude slow background.
+2. Intermittent bursts of generalized delta.
+3. Subtle right posterior focal slowing.
+
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function, as well as a structural process in the right posterior region. This patient's multiple sedative medications, as well as his head trauma, can play a role in the pattern described.
+
+
+

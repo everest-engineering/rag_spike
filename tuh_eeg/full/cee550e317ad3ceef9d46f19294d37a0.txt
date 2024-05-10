@@ -1,0 +1,40 @@
+History:	64 YR OLD MALE PRESENTS WITH H/O FOUND DOWN, SZ W/B/B INCONT AND
+BLOOD SUGAR OF 500. PMHX SIG FOR LT CVA
+Medications:	Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for42 hours from 09/27/2014 to 09/29/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Frequent focal sharp waves are present with phase reversal and
+amplitude maximum at T4, T3 and O1/O2. The temporal sharps were not seen in the last 24 hours.
+Multiple electrographic seizures were seen at O1/O2 lasting ~ 2 minutes. They begin with
+rhythmic sharp waves that increase in frequency and amplitude and then suddenly stop. They
+remain in the occipital region with no spread.  No clinical correlate was seen on video.  The
+occipital electrodes became disconnected at 11:50PM. No seizures were noted since then.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  Hr was 84
+Summary of Findings:
+Seizure, frequent, bilateral (L>R) occipital, electrographic stopped after 10 hours.
+Sharp waves, intermittent, bilateral (R>L) temporal, mid
+Diffuse slowing, polymorphic, continuous, severe diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  multiple electrographic seizure arising from the occipital
+region.  This finding is indicative of an epileptogenic focus in the occipital region. In addition there
+were  frequent epileptiform discharges in the midtemporal (right more than left ) region.  These
+findings are indicative of a potentially epileptogenic focus in this region. Lastly there is  diffuse
+background slowing and absent alpha rhythm.  These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.
+
+
+

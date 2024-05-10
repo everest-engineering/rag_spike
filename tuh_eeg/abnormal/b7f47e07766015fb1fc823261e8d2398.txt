@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   49 year old male found with confusion.  With 2 seizures, hepatitis cirrhosis, markedly icteric.
+MEDICATIONS:  Keppra, Metoprolol, Prograf.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode with 1 channel EKG.  The patient is poorly responsive.
+DESCRIPTION OF BACKGROUND:  The background EEG is markedly low voltage and slow.  It is a mixture of low voltage beta at 15 Hz with smaller amounts of 2 to 2.5 Hz delta.  Stimulation of the patient produced a small amount of theta.  There is snore artifact.
+HR:    108 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow background.
+Prominent delta.
+Prominent beta.
+CLINICAL CORRELATION:  This electroencephalogram is compatible with a severe underlying encephalopathy.  Stimulation of the patient does produce reactivity.  A slow delta may be part of this patient's metabolic encephalopathy.  The beta reflects exposure to benzodiazepines.
+
+
+

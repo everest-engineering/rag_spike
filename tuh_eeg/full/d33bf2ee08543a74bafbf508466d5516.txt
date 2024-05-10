@@ -1,0 +1,11 @@
+HISTORY:  This 78-year-old male with multiple medical problems, CAD, hyperlipidemia, hypertension, CABG, rectal cancer for right carotid endarterectomy.
+MEDICATIONS:  Plavix, aspirin, metoprolol, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This was done using the carotid endarterectomy montages.  Impedances were acceptable with the exception of the T1-T2 electrodes.  Hyperventilation was deferred, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is medium amplitude with some diffuse slowing and slowing of the alpha rhythm to 6.5 Hz.  Features of drowsiness include slow rolling eye movements and more rhythmic theta.  Deeper stages of sleep were not achieved.
+Photic stimulation did not significantly activate the record.
+Heart rate 60 bpm.
+IMPRESSION:  This is a primarily awake, routine 24 minute EEG, and is remarkable for modest background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The background slowing described above is a nonspecific finding.  This baseline will be utilized for this patient's operative study.
+
+
+

@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  An 80-year-old woman with stroke 6 years ago, dementia, and staring spells. Hydrocephalus, congenital
+MEDICATIONS:  Keppra.
+INTRODUCTION:  One hour digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not possible.  The patient was recorded seated, hunched over in the EEG lab, supported by a travel pillow.  Behaviorally, she is similar in wakefulness and sleep.
+DESCRIPTION OF THE RECORD:  The EEG is markedly abnormal.  The pattern in wakefulness includes a diffusely slow pattern with primarily a theta frequency pattern, which is asymmetric with attenuation of faster frequency activity in the right hemisphere relative to the left.  Drowsiness is characterized by an increase in beta, particularly in the left central regions.  The right becomes a bit more featureless.
+Notable in the record are epileptiform discharges with sharp waves ranging from 50-80 microvolts.  The majority of these phase reverse at T6, but some of them are seen at T4.  They are present in wakefulness and sleep and have a small degree of periodicity.  In addition, there are occasional discrete or higher amplitude left anterior temporal sharp waves.
+In relaxed wakefulness, there is some rhythmic theta noted in either hemisphere, but without frequency evolution.  In sleep, the overall background is significantly slower.  The epileptiform activity is a bit better defined.
+Heart rate 72 bpm, irregular.
+IMPRESSION:  Abnormal EEG due to;
+Prominent epileptiform focus in the right posterotemporal region.
+Focal slowing with more significant disruption of faster frequency activity on the right compared to the left.
+Generalized background slowing.
+Somewhat more subtle sharp waves noted on the left.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.  The right hemisphere appears to be more significantly impacted.  This EEG demonstrates a bilaterally slow record slower on the right.  These findings may be correlated with clinical picture and imaging.
+
+
+
+

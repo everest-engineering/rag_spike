@@ -1,0 +1,11 @@
+History:	38 YR WOMAN WITH EPISODE OF FALL/SZ HIT HEAD, SHAKING GOT UP TRIED TO WALK FELL AGAIN FOUND SHAKING/ LOC.  SINCE THEN PT HAS HAD MIGRAINES EVERYDAY.
+Medications:	TOPIRAMATE, TRAMADOL, MELOXICAM,  METHYLPREDNISOLONE
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description: Waking background is characterized by a 25-50uV, 9.5Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.  The patient is quite drowsy with frequent snore artifact. No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and does not activate the record.  Stepped photic stimulation from 1-21 flashes per second (fps) produces minimal photic driving response.  HR 90.
+Summary of Findings:
+Sleep, stage 2
+Interpretation: This is a NORMAL awake, drowsy, and asleep EEG. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.  If clinically indicated, suggest repeat EEG.
+

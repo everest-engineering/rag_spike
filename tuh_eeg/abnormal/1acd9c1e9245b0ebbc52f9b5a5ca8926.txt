@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 54 year old right handed female with recent status epilepticus, status post left craniotomy.
+MEDICATIONS: Lacosamide, Phenobarbital, Lovenox, Zosyn, Protonix, Vancomycin, Metoprolol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient remains poorly responsive.
+DESCRIPTION OF THE RECORD: This EEG now demonstrates a continuous pattern. There is theta and beta frequency activity from the right and almost a suggestion of an alpha rhythm noted on rare occasions of 9.7 hertz on the right and also some 6 hertz theta frequency activity. The left hemisphere demonstrates prominent left frontal sharp waves, maximum in the left frontal region F3, F7, FT1. These occur with brief bursts. There are sustained bursts lasting up to 5 seconds. More prolonged seizures are not identified.
+HR: 100 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Prominent left frontal sharp waves occurring in bursts with brief build up.
+2. Focal slowing
+3. Generalized Slowing.
+CLINICAL CORRELATION: In comparison to previous studies or even the end of the patient's long term monitoring 48 hours ago, the epileptiform activity is starting to build up, but clinical seizures were not seen and more well defined ictal discharges were not identified.
+
+
+

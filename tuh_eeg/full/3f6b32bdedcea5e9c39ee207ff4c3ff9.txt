@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  53 year old left handed woman with memory loss, anxiety, depression, and bipolar disease.
+MEDICATIONS:  Flexeril, Motrin, Diovan, Wellbutrin, Trazodone, Singulair, Spiriva, Seroquel.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a low voltage 10 Hz alpha rhythm.  There is a small amount of background beta and theta noted in wakefulness.  Brief drowsiness is characterized by an increase in theta.  Photic stimulation elicits vigorous bilateral driving.
+HR:    78 bpm
+IMPRESSION:  This EEG is remarkable for:
+A small amount of background beta and theta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The excess theta and beta may be associated with this patient's medications.
+
+
+

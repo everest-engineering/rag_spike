@@ -1,0 +1,28 @@
+
+CLINICAL HISTORY:  A 20-year-old male with meningitis at age 2, associated stroke, epilepsy and brain injury.  History of brain injury at age 1.  He is seizure free for the last 5 years.  History of high lipoprotein A.
+
+MEDICATIONS:  Keppra, Flovent, albuterol, aspirin.
+
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.  Impedances were less than 5 kilo-ohms with the exception of the T1 and T2 electrodes, 5.9 and 5.2 respectively.
+
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is low to medium amplitude with a 9.7 Hz alpha rhythm.  Prominent lateral rectus eye artifact was noted.
+
+Hyperventilation was performed early in the record.  The patient seemed to be falling asleep during hyperventilation.
+
+During hyperventilation, and just following hyperventilation, high amplitude right anterior temporal spike and sharp waves were noted.  In addition, there is some subtle focal slowing in the right to mid anterior temporal region noted as the patient becomes drowsy following hyperventilation.  The remainder of the EEG is relatively symmetric but there is also some variable voltage subtle slowing noted at F3.  As the patient transitions in and out of sleep, rare right anterior spike and slow wave complexes were identified reaching 70 microvolts.  These were noted as the patient transitions in and out of stage 2 sleep.
+
+Photic stimulation elicited a bilateral driving response.  In addition, in photic stimulation, there is some subtle, lower voltage left frontocentral sharp waves with fast activity.  The patient seemed to be drifting off to sleep at the end of photic stimulation and again the right anterior temporal, well defined spike and slow wave complexes were noted.
+
+Heart rate:  Irregular, 60 BPM.
+
+IMPRESSION:  This is an abnormal EEG due to:
+1. Well defined higher amplitude right anterior temporal spike and slow wave complexes accentuated by hyperventilation and drowsiness.
+2. Subtle, intermittent focal slowing in the same distribution.
+3. Additional area of the brain with lower voltage, fast activity or a lower voltage spike in the left frontocentral region with, at times, some associated focal slowing.
+
+CLINICAL CORRELATION:  In comparison to a previous EEG which captured only wakefulness, epileptiform activity was identified in hyperventilation and drowsiness.  Some of this was in the region of the previous right hemispheric infarct but there was also some lower voltage activity in the left frontocentral region.
+
+Additional evaluation for the irregular heart rate, noted in 2012 and 2013, may be warranted.
+
+
+

@@ -1,0 +1,33 @@
+History:	66 year old woman admitted with progressive worsening neurological status.
+Medications:	Phenobarbital
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+There no PDR and no AP gradient.  The background consists of a mixture of diffuse fast activity
+admixed with polymorphic theta activity.  Under riding, at times, rhythmic (at ~1 Hz) diffuse delta
+activity is seen.  This activity is more pronounced over the right and has broad base and some AP
+lag.  Patient remains awake throughout the recording.
+More pronounced delta activity, at times sharply contoured, at higher amplitudes and more
+pronounced fast activity are noted over the left temporal region.  No clear epileptiform discharges
+and seizures are noted.
+Hyperventilation and photic stimulation are not performed.  Stepped photic stimulation from 1-21
+flashes per second (fps) does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Beta, excessive
+Focal slowing, polymorphic, continuous, moderate, left temporal
+Breach artifact, left temporal
+Triphasic waves, intermittent, bilateral (R>L)
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake-only 22-minute EEG due to mild-to-moderate diffuse slowing,
+moderate focal left temporal slowing and suspected triphasic waveforms that are more pronounced
+over the right. Diffuse slowing finding is indicative of mild to moderate diffuse cerebral dysfunction,
+which is etiologically nonspecific.  Continuous focal slowing in the left temporal is indicative of a
+focal structural lesion in this region.  Breach artifact is secondary to skull defect.  Triphasic
+waveforms are seen in various encephalopathies.  Excessive beta activity could be secondary to the
+medication effect, such as benzodiazepines or barbiturates.  These findings were conveyed to the
+
+

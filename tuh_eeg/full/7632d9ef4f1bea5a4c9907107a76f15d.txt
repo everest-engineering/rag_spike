@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 69-year-old woman with right prior craniotomy, multiple metastases, hydrocephalus, CNS shunt, cerebral atrophy.
+MEDICATIONS:  Ativan, Keppra  and others,
+INTRODUCTION:  Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1-channel EKG. Hyperventilation and photic stimulation are performed. The patient is poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal. There is a mixture of theta and delta in the non sleep state, there is a broadly contoured vertex wave, which often __________  reverses just to the left of the midline and occasionally a bit more to the right. It has periodicity and sometimes is associated with rhythmic theta. As the recording continues, there is significant CHEW artifact. In addition, in the overnight recording, there are sleep states with an increase in background slowing. There are also later sections in the record with a more broadly contoured left central periodic sharp wave. This record is __________ to a second study, which ends at  4:39 on the 12th.
+IMPRESSION:     __________ .
+Markedly abnormal EEG due to:
+Marked background slowing.
+Focal slowing from the left hemisphere.
+Periodic sharp waves sometimes at CZ but more often left central parietal.
+CLINICAL CORRELATION:  This EEG supports an irritative focus at the midline and on the left. There is the addition bihemispheric dysfunction.
+
+
+

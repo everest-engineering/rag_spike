@@ -1,0 +1,14 @@
+LENGTH OF THE RECORDING:  24 minutes.
+ACTIVATION PROCEDURES:  Hyperventilation and photic stimulation.
+CONDITIONS OF THE RECORDING:  The recording was done according to the standard 10-20 Hz system with additional T1 and T2 electrodes, and a single EKG lead.
+CLINICAL HISTORY:  The patient presents with concerns of short-term memory as well as tinnitus bilaterally status post a fall with loss of consciousness on 09/10/2012.  Additionally, the patient has been having episodes of slurred speech and headaches.
+MEDICATIONS:  Carbamazepine.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORDING:  During brief wakefulness the posterior dominant rhythm consists of a well-formed and modulated low to moderate amplitude 10.5 to 11 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient.  The majority of the recording is during sleep.  Normal sleep architectural including vertex waves, POSTS (posterior occipital sharp transients of sleep), vertex waves, sleep spindles, and K-complexes are captured.  Hyperventilation does not produce significant change in the background and is performed with a fair effort.  Photic stimulation results in symmetric occipital driving at high frequencies.  A single EKG lead demonstrates a regular rhythm with heart rate occasionally less than 60 beats per minute during sleep.
+FINDINGS:
+Stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal briefly awake and most asleep 24 minute EEG.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.  During sleep a heart rate of fewer than 60 beats per minute is captured on a single EKG lead.
+
+
+

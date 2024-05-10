@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 33-year-old male, status post right frontal craniotomy for glioma resection on the 17th.  Patient transferred from an outside hospital on December 28th for declining mental status and evaluated today for wound infection.
+MEDICATIONS:  Keppra, no current sedative hypnotics.
+INTRODUCTION:  A 21-channel digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  In light of the patient's recent frontal craniotomy, electrode placement was modified slightly.  The patient was relatively drowsy throughout the study.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a discernable 10 Hz alpha rhythm, which is symmetric and reactive.  This is overall a low voltage record in the drowsy adult.  Intermittently, there is an asymmetry with more attenuation of faster frequency in the right frontal region compared to the left.  There are bursts of background slowing, some of which are more prominent on the left in comparison to the right.  When unstimulated, the patient drifts off to sleep with a lower voltage slow delta pattern and again with a slight asymmetry with a bit more beta on the left compared to the right.
+Heart rate 70 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Subtle asymmetry with disruption of faster frequency activity in the right hemisphere.
+Bursts of frontal delta on the left.
+CLINICAL CORRELATION:  No epileptiform features were noted.  No seizures were recorded.  Overall, this EEG is most supportive of a diffuse disturbance of cerebral function.
+
+
+
+
+

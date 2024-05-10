@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 58 year old male right handed male, evaluate for complex partial status epilepticus. Patient readmitted for hemangioblastoma resection, now noted to be confused and agitated on October 20.
+MEDICATIONS: Keppra, Metoprolol, Cefepime, Atenolol
+INTRODUCTION: Digital video EEG was performed at bedside using the standard 10-20 system of electrode placement with 1 channel EKG. The patient is restless and has continuous movements.
+DESCRIPTION OF THE RECORD: The patient is resting relatively comfortably. The overall background is quite slow with a theta frequency background. Eye blink artifact is noted continuously throughout the EEG. In addition to the eye blink artifact, the overall activity is sharply contoured, particularly in the frontal regions, right more so than the left. There appears to be a frontal craniotomy defect. In addition to the eye blink artifact, there are likely underlying independent right and left frontal sharp waves. These include FP2 and F7. As the patient becomes drowsy, there is an increase in beta activity. The eye movements are slow but never entirely disappear. Again, sharp waves are noted in the right frontal region and the right central region. The technologist attempts to get the patient to close his eyes by covering the eyes which is not particularly successful.
+HR: 72 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Markedly abnormal background of generalized background slowing.
+2. Frontal delta.
+3. Breach rhythm.
+4. Sharp waves identified independently in the right or left frontal regions.
+CLINICAL CORRELATION: To more completely characterize epileptiform activity, a follow-up study with sleep is suggested. The eye blink and poor responsiveness do not appear to be a seizure.
+
+
+

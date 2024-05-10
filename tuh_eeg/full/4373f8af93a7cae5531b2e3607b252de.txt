@@ -1,0 +1,13 @@
+History:	PT PRESENTS WITH H/O SZ EVENTS PER WIFE WITH NO POSTICTAL. PT HAS SKULL DEFECT ON RT SIDE AND SHUNT PLMT ON LT.
+Medications:	Phenobarbital, Depakote.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse theta activity with absence of the expected anterior to posterior gradient of frequencies.  No normal sleep architecture was present. Continuous polymorphic delta activity is present in the right midtemporal region during wakefulness, increasing during drowsiness. With an associated increased amplitude in faster frequencies consistent with a breach.  Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness, increasing during drowsiness.  A single left prefrontal (Fp1) electrographic seizure was seen for ~ 2 minutes. It commences with rhythmic Fp1sharp waves that increase in frequency and amplitude and then stop.  There was no clinical correlate associated to this EEG activity but the patient was not tested.
+Hyperventilation and photic stimulation were not performed.  HR was 66
+Summary of Findings:
+Seizure, single, left frontal, electrographic
+Interpretation: This is an ABNORMAL EEG because of  a single electrographic seizure arising from the left pre-frontal region.  This finding is indicative of an epileptogenic focus in the left pre-frontal region. In addition there is  intermittent focal slowing in the left midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific. Lastly there is continuous focal slowing in the right midtemporal region, with an associated breach.  This finding is consistent with the known SDH s/p craniotomy and evacuation.
+
+
+

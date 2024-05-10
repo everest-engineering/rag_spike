@@ -1,0 +1,84 @@
+SEX: male
+DATE OF STUDY : 08/28/2015
+RECORDING ENVIRONMENT : Outpatient EEG TYPE:95810
+HISTORY:
+34 y.o. male referred for routine EEG for recurrent seizures, now monthly
+MEDICATIONS :
+Current Outpatient Prescriptions Medication Sig
+TRAMADOL HCL (TRAMADOL PO) Take	by mouth.
+ZOLPIDEM TARTRATE (AMBIEN PO) Take	by mouth.
+oxycodone-acetaminophen	(PERCOCET) 5-325 mg per tablet
+ALPRAZOLAM (XANAX PO) Take 0.5 mg by mouth every evening.
+GABAPENTIN PO Take 600 mg by mouth 3 times daily.
+montelukast (SINGULAIR) 10 mg tablet Take 10 mg by mouth nightly .
+Lamotrigine (LAMICTAL STARTER, ORANGE, KIT) 25 mg (42) -100 mg (7) Tablets, Dose Pack ?  Ran out
+No current facility-administered medications for this visit.
+SEDATION: none
+TECHNIQUE :
+A 21 channel electroencephalogram (EEG) recording International 10-20 system with Tl/T2 electrodes utilized a NicOne system. This was a technically record and included a single channel of EKG, HV stimulation .
+using the was performed satisfactory and photic
+EEG BACKGROUND :
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, anterior spread then attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with limited sleep: synchronous and symmetric vertex waves, sleep spindles	present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present. ACTIVATION PROCEDURES :
+Hyperventilation: symmetric modest increase in theta
+Photic Stimulation : scant driving
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+DOB: 3/7/1981	AGE: 34 y.o.
+SEX: male.
+DATE OF STUDY: 08/28/2015
+RECORDING ENVIRONMENT: Outpatient EEG TYPE :95810
+HISTORY:
+34 y.o. male referred for routine EEG for recurrent seizures
+MEDICATIONS :
+Current Outpatient Prescriptions Medication Sig
+TRAMADOL HCL (TRAMADOL PO) Take	by mouth.
+ZOLPIDEM TARTRATE (AMBIEN PO) Take	by mouth.
+oxycodone-acetaminophen	(PERCOCET) 5-325 mg per tablet
+ALPRAZOLAM (XANAX PO) Take 0.5 mg by mouth every evening.
+GABAPENTIN PO Take 600 mg by mouth 3 times daily.
+montelukast (SINGULAIR) 10 mg tablet Take 10 mg by mouth nightly.
+Lamotrigine (LAMICTAL STARTER, ORANGE, KIT) 25 mg (42) -100 mg
+(7) Tablets, Dose Pack ?  Ran out
+No current facility-administered medications for this visit.
+SEDATION: none TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG, HV	and photic stimulation .
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, anterior spread then attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with limited sleep: synchronous and symmetric vertex waves, sleep spindles	present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+ACTIVATION PROCEDURES:
+Hyperventilation: symmetric modest increase in theta
+Photic Stimulation: scant driving
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+
+

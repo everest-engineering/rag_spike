@@ -1,0 +1,13 @@
+HISTORY:  A 62-year-old woman with adult-onset complex partial epilepsy, seizure today with aura followed by altered awareness.
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  One-hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is awake with a well-defined 11 Hz alpha rhythm and a small amount of low voltage, frontal central beta.  Hyperventilation was performed early on the record producing some background theta, but also producing focal slowing in the left mid temporal region with underlying left temporal sharp waves.  Following this, as the patient becomes drowsy, there is a bit of shifting, isolated slowing in the right or left temporal regions.  Brief sleep includes vertex waves.
+Heart rate:  66 bpm.
+IMPRESSION:  Abnormal EEG for an adult of this age due to:
+Left temporal focal slowing.
+Left temporal sharp waves accentuated by hyperventilation.
+CLINICAL CORRELATION:  This EEG is congruent with similar studies and supports a localization related mechanism for epilepsy.
+
+
+
+

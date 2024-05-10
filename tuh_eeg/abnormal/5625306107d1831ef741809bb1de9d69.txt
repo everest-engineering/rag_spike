@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 61-year-old woman who had a TIA and a  seizure in August of 2012.  Left-sided weakness, walks with a cane.  The patient also has headaches with a tingling sensation throughout the body.  These episodes occur without loss of consciousness.
+MEDICATIONS:  Lisinopril, hydrochlorothiazide, others.
+INTRODUCTION:  Digital video EEG was completed using  standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The awake EEG is abnormal.  There is an asymmetry.  The alpha rhythm in the left hemisphere is slow at 7.5 Hz.  In contrast, the right hemisphere demonstrates little in the way of alpha activity.  The right hemisphere demonstrates globally, slower activity with a mixture of theta and smaller amounts of delta.  The left hemisphere also has a slow alpha rhythm and a bit of background theta.  Occasional bursts of shifting arrhythmic delta are noted from the left or right hemisphere.  As the patient becomes drowsy, the EEG becomes a little bit more rhythmic and the asymmetry on the right is a bit more apparent.  The focal slowing from the right hemisphere may be seen in the frontotemporal or the centroparietal regions.  In this sharply contoured background, there are subtle, right frontal sharp waves noted.
+Photic stimulation did not significantly activate the record.  Heart rate 64 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+An asymmetry with more significant focal slowing on the right.
+Mild disorganization on the left.
+Shifting slowing.
+In the sharply contoured background, rare subtle right frontal sharp waves.
+CLINICAL CORRELATION:  This EEG supports a structural abnormality on the right, but a bihemispheric process may be considered (ischemic cerebrovascular disease).  The subtle sharp waves raise the possibility of a focal mechanism for seizures.
+
+
+

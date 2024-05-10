@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 62-year-old woman, admitted on August 27 with agitation, patient had an unresponsive episode after Haldol.  Recurrent falls, recurrent episode with confusion.
+MEDICATIONS:  Insulin, heparin
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was quite drowsy.  This is a technically acceptable EEG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a theta frequency background.  This pattern is intermittently disrupted with arrhythmic delta.  The patient is awake and at times with stimulation, there are bursts of arrhythmic delta.  Some of the bursts of delta are somewhat asynchronous with shifting asymmetries, but some are a bit more sharply contoured on the right in comparison to the left.  Brief stage 2 sleep includes vertex waves and spindles.
+At the beginning of the record, sharply contoured, slowing was noted in the right frontotemporal region.  Of note, there is also significant artifact in this section of the record, as well as asymmetric eye movements.
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing and disorganization.
+In this somewhat challenging record, underlying right focal slowing, most notable in the initial sections of the record with some sharply contoured slowing.
+CLINICAL CORRELATION:  In comparison to previous studies, the overall background is improved and the focal features are less prominent.  If epilepsy is an important consideration, a repeat study capturing deeper stages of sleep is suggested.
+
+
+

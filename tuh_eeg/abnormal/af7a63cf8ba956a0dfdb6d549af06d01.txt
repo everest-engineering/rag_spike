@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 44 year old right handed woman with a past episode of loss of consciousness that was found having a tonic clonic seizure with foaming at the mouth, past history of migraine headache, and anxiety disorder. The patient was amnestic for the event.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized with a 9.5 Hz 40 microvolt alpha rhythm. Drowsiness is characterized by an increase in rhythmic central theta. Photic stimulation elicits a subtle driving response at intermediate flash frequencies. Hyperventilation does not active the record.
+HR: 100 bpm
+IMPRESSION: Normal EEG in wakefulness and brief drowsiness with a small degree of sinus tachycardia.
+CLINICAL CORRELATION: No epileptiform features were observed. A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

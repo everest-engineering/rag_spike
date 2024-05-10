@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 64-year-old male who made a suicide attempt with baclofen ingestion, brought to the hospital on 01/18/2013 and coded, now with myoclonic jerks.
+MEDICATIONS:  Dopamine, vasopressin, norepinephrine.
+INTRODUCTION:  Digital EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated and comatose. No jerking was noted.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a burst suppression or discontinuous pattern.  The overall pattern when the record is suppressed is essentially a completely flat and suppressed pattern.  The bursts of activity may include isolated discharges or pairs of discharges which achieve approximately 200 mV.  Tactile stimulation of the patient and auditory stimulation of the patient do not activate the record.  The duration of the periods of suppression are on the order of 20 seconds.
+Heart rate:  120 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Marked background suppression.
+A burst suppression pattern.
+CLINICAL CORRELATION:  These findings are extremely worrisome 24-hours following anoxic insult.  Clinical evaluation is helpful in placing this in the appropriate context.
+
+
+

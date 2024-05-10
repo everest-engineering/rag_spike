@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 46-year-old woman with a history of epilepsy and migraine, infrequent seizures characterized by a funny smell, then tonic-clonic activity, and loss of consciousness.  The patient now experiencing increasing migraines.  This is the fourth EEG for this individual.
+MEDICATIONS:  Keppra, Tegretol, and Zoloft.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  This is a routine, 20-minute EEG with most impedances under 5 kilohms.  This record captures wakefulness and sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there was an 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  Hyperventilation was performed early in the record and seems to accentuate rhythmic, left temporal slowing.  As the patient becomes slightly drowsy, the focal slowing is again somewhat more prominent in the left mid and central temporal regions.  This is overall a subtle finding.
+Photic stimulation was performed at the end of the record and did elicit a driving response.  At that point, the patient disclosed and she had been assaulted, and the photic stimulation was bothering an ocular injury.
+At the close of the record, the patient starts to transition into stage 1 sleep, but stage 1 sleep was not sustained.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to focal slowing from the left mid to anterior temporal region.  At times, more rhythmic and sustained following hyperventilation as the patient became drowsy.
+CLINICAL CORRELATION:  In comparison to previous studies, this patient has previously demonstrated intermittent slowing from the left temporal region as well as discrete left frontotemporal sharp waves, although no sharp waves were noted today.
+
+
+

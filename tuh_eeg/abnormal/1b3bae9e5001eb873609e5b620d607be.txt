@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 19 year old right handed male with 2 weeks new onset tonic clonic seizure with postictal drowsiness.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background ERG is well
+organized and appropriately high amplitude for a young adult of this age. The alpha rhythm is 9.7 Hz at 50-60 microvolts. Hyperventilation does not significantly activate the record. Drowsiness is characterized by hypnagogic hypersynchrony and a few vertex waves. Photic stimulation elicits bilateral driving.
+HR: 60bpm
+IMPRESSION: EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION: No epileptiform features are observed. If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 89 year old woman who is evaluated for a change in mental status, diabetes, hypertension, dementia, CHF and renal failure.
+
+MEDICATIONS: Vancomycin, Aspirin, Protonix, Insulin, Heparin, Isosorbide, Cefepime, Amlodipine.
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is obtunded.
+
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and includes a mixture of delta and theta activity. In addition, there are posteriorly predominant sharp waves which could be seen in 02, 01 and T5. Occasional triphasic waves are noted. Stimulation of the patient produces increasing theta.
+
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Sharp waves in 01, T5 and 02.
+2. Slow background with a mixture of theta and delta.
+3. Occasional triphasic waves.
+
+CLINICAL CORRELATION: The background slowing supports an underlying encephalopathy. The sharp waves in the posterior region may represent a large area of epileptogenicity or an unusual field of spread. Correlation with imaging is advised.
+
+
+
+
+

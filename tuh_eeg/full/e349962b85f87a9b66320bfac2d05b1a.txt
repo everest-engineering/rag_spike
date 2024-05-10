@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 54 year old right handed woman, status epilepticus following brain surgery and administration of flumazenil.
+MEDICATIONS: Phenobarbital, Lacosamide, Lovenox, Protonix, Metoprolol, Zofran
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient has a breech rhythm.
+DESCRIPTION OF THE RECORD: The background EEG includes a prominent interhemispheric asymmetry. There are sections of the record with a posterior dominant rhythm observed of 10 Hz. This is more easily identified from the left than the right. Prominent features in this EEG include a breech rhythm, high amplitude sharp waves from the left frontal and frontotemporal region with rhythmic frontal or frontal temporal mixed theta delta. There are some sections in the record where the sharp waves abate briefly. Features of stage 2 sleep include well defined 13 Hz spindles present bilaterally. The focal slowing is seen in stage 2 sleep. On one occasion stimulation of the patient produces a burst of left frontal temporal sharp waves. The patient does alert, but the stimulation seems to have augmented the epileptiform activity. In sleep there is a significant decrease in epileptiform activity.
+HR: 80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing from the left hemisphere.
+2. Prominent left frontal temporal sharp waves seen in bursts and trains.
+3. Bilateral background slowing.
+CLINICAL CORRELATION: Overall this is a markedly improved EEG. Of note,
+epileptiform activity decreases substantially in sleep.
+
+
+

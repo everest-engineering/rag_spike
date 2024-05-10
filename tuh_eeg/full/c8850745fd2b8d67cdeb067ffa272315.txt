@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 69-year-old woman with pneumonia, left-sided weakness, and confusion.
+MEDICATIONS:  Meropenem, acyclovir, magnesium.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically satisfactory, a 20-minute routine bedside EEG.  Hyperventilation and photic stimulation were deferred.  Impedances were generally under of 5 kilo-ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a medium amplitude, diffusely slow pattern with a mixture of delta and theta.  There is a bit more theta noted in the central regions.  The patient seems to be confused and uncomfortable.  There are occasional bursts of frontal delta noted.  Brief stage 2 sleep includes brief spindles.
+Stimulation of the patient produced a brief alerting response, but the background EEG remained slow and without a well-defined posterior dominant rhythm.
+Heart rate 99 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+FIRDA.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The generalized background slowing inferred a nonspecific pattern, but it can be seen in a toxic or metabolic encephalopathy.  Additional clinical evaluation may be a value.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 69-year-old gentleman with epilepsy, dementia, admitted after a cluster of seizures with persistent agitation and encephalopathy.
+MEDICATIONS:  Depakote, Keppra, Ativan, topiramate.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record in a somewhat cooperative patient.  Photic stimulation was completed, but hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  The background is abnormal.  There are brief sections of the record when the patient alerts in which case there is a 9 Hz alpha rhythm.  This is better identified on the right compared to the left, but is sometimes symmetric.  There are bursts of rhythmic frontal delta.  Most of this is relatively symmetric, but there are asymmetries and there are some more sustained bursts on the right than the left.  In this sharply contoured record there are a handful of left frontal sharp waves.
+Photic stimulation elicits a driving response which is slightly asynchronous at times, a bit more prominent on the right than the left.  Heart rate 50 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Intermittent, frontally predominant rhythmic slowing.
+Shifting slowing with at times a more prominent rhythmic slow pattern in the right or left frontal region.
+Left frontal sharp waves.
+CLINICAL CORRELATION:  This EEG suggests a bihemispheric process.  There are focal features from either hemisphere, but the sharp waves noted in the record are a bit more prominent on the left.  There are also metabolic features noted with the bursts of frontal delta.  No subclinical seizures were noted.  The patient's bradycardia has been previously described.
+
+
+

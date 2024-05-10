@@ -1,0 +1,34 @@
+History:	52 YR MALE WITH EPISODE OF GTC SZ. FOUND USING K2 SYNTHETIC DRUG.
+IN ED WITNESSED GTC. LIP BITE. AGGRESSION POST ICTAL. X30 MIN.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Nearly continuous polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  Frequent focal sharp waves with phase reversal and
+amplitude maximum at F7.  At times this appear to become slightly periodic.  Independent rare
+focal sharp waves with phase reversal and amplitude maximum at F8.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Sharp waves, frequent frontotemporal
+Sharp waves, frequent, bilateral (L>R) frontotemporal
+Focal slowing, polymorphic, nearly continuous, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+seen independently in the left more than right fronto temporal regions.  These findings are
+indicative of a potentially epileptogenic focus in this regions. In addition there is  intermittent focal
+slowing in the left fronto temporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.
+
+
+
+
+

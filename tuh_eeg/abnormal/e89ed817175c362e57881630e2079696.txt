@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  38 year old right handed male with depression, fibromyalgia, past suicide attempt, and epilepsy since age 15, seizure free for the last 2 years.
+MEDICATIONS:  Xanax, Elavil, Lithium, Remeron
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well-organized with a 9.5 Hz alpha rhythm and a small amount of frontocentral beta.  Scant background theta was identified.  Features of drowsiness include slow rolling eye movements, attenuation of the alpha rhythm and an increase in both beta and theta.
+Hyperventilation produces rhythmic background sign.  Photo stimulation elicits bilateral driving.
+HR:    90 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified.  The scant theta described above may be due to this patient's medications.  The absence of epileptiform activity does not exclude a diagnosis of epilepsy.
+
+
+

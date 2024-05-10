@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 48 year old woman status post 22-minute cardiac arrest
+followed by tonic-clonic seizure. Date of tonic-clonic seizure not provided.
+MEDICATIONS: Keppra, Heparin, Lasix
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a mixed theta and alpha frequency pattern. There are some sections of the record which are better organized in which there is a greater quantity of 9-10 Hz alpha activity, but other sections of the record demonstrate more significant theta. There is also an intermittent asymmetry with at times a bit slower theta on the left compared to the right as well as disruption of faster frequency activity on the left compared to the right. This can be seen in the frontocentral regions. Drowsiness is characterized by a transition more toward the theta delta pattern from the alpha theta pattern.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Intermittent shifting asymmetries with a tendency to have a bit more focal slowing on the left compared to the right. ╖
+CLINICAL CORRELATION: These findings are nonspecific but support a diffuse disturbance of cerebral function. In the context of a cardiac arrest, the findings are relatively modest.
+
+
+

@@ -1,0 +1,25 @@
+History:	41 year old woman who presents with change in mental status.
+Medications:	seroquel, clonazepam, tramadol, morphine, ativan
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Description:
+Waking background is characterized by a 25-40uV, 11-11.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During brief drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Beta, excessive
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 22-minute EEG, awake and drowsy.  No epileptiform discharges were present,
+but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information. Excessive beta activity could be secondary to the medication effect,
+such as benzodiazepines or barbiturates.
+
+
+
+

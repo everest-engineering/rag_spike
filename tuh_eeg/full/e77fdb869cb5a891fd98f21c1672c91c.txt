@@ -1,0 +1,37 @@
+History:	52 year old woman who presents with cerebritis and recurrent seizures.
+Medications:	Phenobarbital, Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 4/28/2014 till 4/29/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists of attenuated polymorphic diffuse delta
+activity with underriding excess fast activity.  Periods of quiescence are captured but no normal
+sleep architecture is present.
+No seizures are noted.
+There is significant diffuse EMG artifact when the patient is awake.  That makes interpretation of
+those portions of EEG unreliable.  Occasional ventilator artifact is present.
+Summary of Findings:
+Artifact, EMG, severe at times
+Diffuse slowing, polymorphic, severe
+Other, some reactivity
+Interpretation:
+This is an ABNORMAL 24 hour continuous video EEG because of severe background slowing and
+attenuation.  This finding is indicative of severe diffuse cerebral dysfunction.  There is significant
+diffuse EMG artifact when the patient is awake.  That makes interpretation of those portions of EEG
+unreliable.  When compared to the prior recording epoch, this EEG demonstrates clear background
+reactivity.  These findings were conveyed to the primary team.
+
+
+
+
+
+
+

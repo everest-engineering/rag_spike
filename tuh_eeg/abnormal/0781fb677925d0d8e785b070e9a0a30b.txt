@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 29 year old gentleman with new onset seizures characterized by
+falling and shaking for 3-5 minutes.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation was performed, as was photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10.5 Hz alpha rhythm
+with a small amount of low voltage, frontal central beta. Hyperventilation is performed early on in the record producing an increase in amplitude of the background. Brief drowsiness is characterized by slow rolling eye movements. Photic stimulation does not activate the record.
+HR: 72 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: There are no focal nor epileptiform features observed.
+Normal EEG does not exclude a diagnosis of epilepsy. If additional information is needed, a repeat study capturing sleep is suggested.
+
+
+

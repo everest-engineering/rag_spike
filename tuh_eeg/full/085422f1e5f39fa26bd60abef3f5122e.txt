@@ -1,0 +1,15 @@
+LENGTH OF STUDY:  22 minutes.
+CLINICAL HISTORY:  The patient is a 67-year-old woman with history of Alzheimer's disease and seizure disorder, now developing a new type of seizure during sleep.  This seizure was characterized as stiffening, followed by scream, and inability to arouse afterwards.  Additionally the patient has been excessively sleepy for the last 3 days.
+MEDICATIONS:  Keppra, Risperdal, trazodone, lisinopril, levothyroxine, and donepezil.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of moderate amplitude, polymorphic mixture of theta and delta activity.  Nearly continuous frontally predominant EMG artifact is present.  Intermittent synchronous and independent moderate amplitude broadly based sharp waves are captured over C3/P3, and C4/P4 electrodes with C4/P4 sharp waves occurring more frequently.  These sharp waves have a relatively broad field and occasionally appear to look like vertex-like waveforms.  No sleep is captured.
+Hyperventilation and photic stimulation are not performed.
+Regular rhythm with occasional premature ventricular contractures is captured on a single EKG lead.
+FINDINGS:
+Moderate diffuse slowing.
+Intermittent synchronous and independent sharp waves are C3/P3, and C4/P4 electrodes, more commonly observed over C4/P4 electrodes and with a broad field.
+Nearly continuous frontally predominant EMG artifact.
+IMPRESSION:  This is an abnormal 22-minute awake only EEG due to moderate diffuse slowing, disorganization, and intermittent synchronous and independent epileptiform discharges observed over the central parietal regions.  Moderate diffuse slowing and disorganization indicates etiologically of nonspecific cerebral dysfunction.  Independent and synchronous central parietal epileptiform discharges may indicate a potential epileptogenic focus over that region.  No electrographic seizures are captured.  There is nearly continuous frontally predominant EMG artifact that limits somewhat interpretation of the recording.
+
+
+

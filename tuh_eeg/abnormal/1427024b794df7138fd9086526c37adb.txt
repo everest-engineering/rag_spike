@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 51-year-old left-handed woman who presents with history of new onset seizure with loss of consciousness and no recollection for events.  She has confusion after the event for a few minutes.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 9 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude, frontocentral beta activity, which is distributed symmetrically.  Hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  No epileptiform activities or seizures were identified in this record.  Heart rate was 90 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy or of intermittent seizures.  If seizures are a clinical concern, a repeat EEG capturing deeper stages of sleep or a long-term EEG monitoring may be helpful.
+
+
+

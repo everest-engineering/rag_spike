@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 50 year old male admitted December 26, status post V-fib arrest for 20 minutes. CABG on December 27. The patient has been off sedation aside from small doses of morphine.
+
+MEDICATIONS: Cefuroxime, Morphine, Zofran, Amiodarone, Insulin, Milrinone, Nitroglycerin, Norepinephrine, Epinephrine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated, poorly responsive, but has eye movements and other movements.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a pattern of rhythmic 4 Hz activity with intermittent 7 Hz activity. There is a monomorphic 14.5 to 15 Hz artifact picked up in the right occipital regions and sometimes the left central regions. In some sections of the record, it is also identified in the eye lead. The utilization of a notched filter does not ameliorate the artifact. Some sections of the record demonstrate this same artifact in the eye leads. Although the patient has eye opening and some movement of the head, he remains unreactive with the nursing staff and EEG staff at the bedside.
+
+HR: 90 bpm.
+
+IMPRESSION: Abnormal EEG due to:
+1. Slow pattern with primarily theta and delta frequency activity.
+
+CLINICAL CORRELATION: There are no epileptiform features. Stimulation of the patient does produce some faster frequency activity although it does not produce evidence at the bedside of an alerting response. This EEG supports a diffuse disturbance of cerebral function. A follow-up EEG may be important. Alternatively, depending upon the patient's examination, somatosensory-evoked potentials may be more appropriate.
+
+
+
+
+

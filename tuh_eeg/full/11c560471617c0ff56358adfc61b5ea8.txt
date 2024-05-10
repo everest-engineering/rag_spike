@@ -1,0 +1,28 @@
+History:	61 year old woman who had  two seizures last night at home with associated fall
+and bruising of the eye and scalp. Patient is currently hospitalized for pneumonia.
+Medications:	valium, neurontin, tramadol
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm consists of low amplitude 10 Hz alpha activity that attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Prominent posterior and diffuse rhythmic ~5 Hz activity is observed.  Some
+of it appears to represent slow alpha variant.  During drowsiness this activity slows to ~3-4 Hz and
+becomes more pronounced.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  A single EKG lead demonstrates regular
+Summary of Findings:
+No focal slowing
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is likely a normal awake and drowsy 27 minute EEG.  Posterior and diffuse rhythmic activity in
+the theta range appears benign and is of uncertain clinical significance.  A repeat prolonged EEG
+with sleep may be beneficial to further identify this finding.  The lack of epileptiform discharges on
+a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

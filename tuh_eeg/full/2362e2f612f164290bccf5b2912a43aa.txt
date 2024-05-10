@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 62-year-old woman with a history of a left MCA stroke, seizures, atrial fibrillation and hypertension.  She now presents with right-sided stiffness  followed by sharp pain and weakness as well as slurred speech.
+MEDICATIONS:  Keppra, Protonix, Toradol.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single electrocardiogram lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  During maximal wakefulness the posterior dominant rhythm reaches 8.5 to 9 Hz polymorphic alpha activity.  There is an anterior to posterior frequency amplitude gradient with faster frequencies with lower amplitudes anteriorly.  During sleep symmetrical sleep spindles are captured.  There is continuous polymorphic theta activity and occasional delta activity captured over the left temporal region.  Hyperventilation was not performed.  Stepped photic stimulation results in symmetrical occipital driving at high flash frequencies. A regular heart rate is noted on a single electrocardiogram lead.
+FINDINGS:
+Continuous mild to moderate focal left temporal slowing.
+No clear epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and asleep 24 minute EEG due to continuous mild to moderate left temporal slowing.  This finding could indicate focal cerebral dysfunction, in this case is likely related to the patient's history of a stroke over the same region.  No clear epileptiform discharges were captured.  The lack of
+epileptiform discharges on the routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

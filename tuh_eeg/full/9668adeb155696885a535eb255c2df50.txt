@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 64-year-old woman with new onset confusional spells with automatisms, evaluate for refractory epilepsy.  Past history of diabetes and seizures.  No other information available.
+MEDICATIONS:  Keppra, sertraline, Klonopin, Plavix, Zocor, and Zyrtec.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.  This is a bedside EEG in a somnolent patient.
+DESCRIPTION OF THE RECORD:  In much of the record, the EEG demonstrates an 8 Hz alpha rhythm, rarely reaching 9 Hz.  MU was identified but testing was not performed to confirm this.  Features of drowsiness include sign of the alpha rhythm, an increase in beta, and rare bursts of isolated, right or left shifting slowing in the temporal regions with isolated delta.
+Photic stimulation was performed while the patient was transitioning in and out of sleep and did elicit a bilateral driving response.  Heart rate 90 BPM.
+IMPRESSION:  This is a very mildly abnormal EEG for an adult of this age due to:  Slowing of the alpha rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The slowing of the alpha rhythm may be due to this patient's pharmacotherapy.
+
+
+

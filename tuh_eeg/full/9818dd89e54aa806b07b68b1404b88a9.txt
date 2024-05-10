@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  This is a 56-year-old woman, who was transferred from an outside hospital after an episode of loss of consciousness, found to be hypertensive with massive intracerebral hemorrhage and Glasgow Coma Score of 3, now with a right MCA clip.
+MEDICATIONS:  Propofol, gabapentin, metoprolol, hydralazine, others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and had been on a propofol drip.  Attempts to stop the drip were unsuccessful.  This is a technically challenging EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous pattern with a mixed frequency pattern with generous beta activity and smaller amounts of theta and delta.  There are shifting asymmetries and intermittent attenuation.  In addition, there is a questionable underlying right occipital sharp wave.
+In later sections of the record when the propofol is reduced, there is a burst of fast activity, and some rhythmic sharply contoured theta in the left mid temporal region.
+Stimulation of the patient produces muscle and other artifacts.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal bedside portable EEG due to:
+Replacement of normal background with a mixed frequency pattern with generous beta.
+Likely underlying right occipital sharp wave.
+Question left temporal sharp wave.
+CLINICAL CORRELATION:
+This pattern of generalized slowing with beta can be seen with a diffuse disorder of cerebral function, as can be seen with ICH.
+In this particular clinical context, although no seizures were recorded, ongoing vigilance is advised and this patient went on to continuous video EEG monitoring.
+__________________________
+
+
+
+

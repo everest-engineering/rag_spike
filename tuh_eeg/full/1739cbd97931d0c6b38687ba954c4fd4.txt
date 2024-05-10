@@ -1,0 +1,36 @@
+History:	51 year old female who presents after a fall.  She is found to have 1 cm basilar
+artery aneurysm.  She is undergoing IR-guided coiling of the aneurysm.
+
+7 coils inserted.
+Medications:	Induction Meds: Propofol, Rocuronium, Lidocaine, Midazolam, Fentanyl.  Other
+medications used during the procedure: propofol and 1% sevoflurane
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Patient is awake at the procedure onset.  The background consists of 12 Hz PDR with normal AP
+gradient.  Once patient is intubated, the background consists of a mixture of alpha and theta
+activity with absent AP gradient.  Approximately 1 hr 30 minutes into the recording voltages
+become diffusely lower and intermittent brief background attenuation is noted.  There is no change
+in anesthetic agent doses and no coils are deployed around the time this change is noted.  By
+the end of the recording, patient's EEG returns to the baseline seen after intubation.
+Approximately 2 hours into the procure, diffuse severe burst suppression appears suddenly.  It is
+related to rapid increase in doses of propofol infusion.  First coil is deployed ~ 1 hour 48 minutes
+into the recording.  There are no changes in the background noted.  Second coil is deployed ~2
+hours into the recording.  There is no immediate change is noted.  However, within ~2 minutes of
+the coil deployment, the background becomes diffusely suppressed (due to increase in propofol
+dose).  Between 2 hours and 2 hrs 13 minutes into the recording 4 more coils are deployed, but
+background is burst-suppressed at that time and no meaningful comments about background
+change associated with coil deployment could be made.  Seventh coil is deployed ~2 hours 17
+minutes into the recording with no appreciable change in the background.
+Summary of Findings:
+Other, no change in the background with coil deployment
+Interpretation:
+This is an unremarkable ~ 2 hours 20 minutes continuous EEG monitoring performed during IR-
+guided aneurysmal coiling.  Seven coils were deployed with no change in the background seen by
+the end of the case. Period of decrease in voltages and increase in the background discontinuity was
+likely related by patient falling into deeper stages of sleep rather than secondary to procedure-
+related cerebral damage.  During the entire length of the procedure, an attending physician was
+
+

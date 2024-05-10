@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 50 year old right handed male with history of sickle cell trait, confusion, visual hallucinations, and CT scan demonstrating small vessel ischemic cerebrovascular disease.
+
+MEDICATIONS: Ativan, Lorazepam
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and sleep record.
+
+DESCRIPTION OF THE RECORD: The background EEG is relatively low voltage. The overall record is relatively slow, but there are sections with a 7.8 Hz alpha rhythm. Although there is a fair amount of muscle artifact observed in the background, as the patient drifts in and out of stage 1 sleep with vertex waves, there is some rhythmic delta a bit more prominent in the frontal central regions, right more so than left. Photic stimulation elicits a scant driving response.
+
+HR: 108 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Occasional right frontal central delta, greater than left.
+2. Intermittent generalized background slowing.
+3. Slow alpha.
+
+CLINICAL CORRELATION: No epileptiform features were observed. These findings may be correlated with imaging.
+
+
+
+

@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 50 year old gentleman with a seizure 2 weeks ago with loss of consciousness, woke up in the hospital and was amnestic for events.
+
+MEDICATIONS: None.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and sleep record.
+
+DESCRIPTION OF THE RECORD: The patient appears to be quite drowsy throughout much of the EEG. The overall pattern is relatively low voltage. There is an 8.5 Hz posterior dominant rhythm and excess theta. Hyperventilation results in an asymmetric response with a bit more slowing observed from the right compared to the left. Following this the patient drifts into stage 2 sleep with vertex waves. Photic stimulation
+is performed while the patient is relatively sleepy and produces no driving response.
+
+HR: 84 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Very mild background slowing.
+2. An asymmetric hyperventilation response.
+
+CLINICAL CORRELATION: The background slowing is nonspecific and could be due to postictal changes or other diffuse disturbances of cerebral function or medications. Correlation with imaging is appropriate given the asymmetric hyperventilation response.
+

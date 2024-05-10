@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 51 year old right handed woman with a history of HIV, hypertension, diabetes, and depression.  She was brought in by the EMS for seizure-like episodes.
+MEDICATIONS:  Keppra, Ativan, Morphine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, the posterior dominant rhythm reaches 8 Hz theta.  The anterior to posterior frequency amplitude gradient is weak.  Additional polymorphic theta activity is captured.  Frequent movement artifact is observed.  It results in diffuse slow delta activity.  The patient is asleep throughout the majority of the study.  Normal sleep architecture including vertex waves, sleep spindles, and K-complexes are present.  Hyperventilation and photic stimulation are not performed.  Frequent F3 and T1 lead artifact is present.  Sinus tachycardia is captured in a single EKG lead.
+FINDINGS:
+Mild diffuse slowing.
+The patient is asleep throughout most of the recording.
+No epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is an abnormal, mostly asleep and a briefly awake, EEG due to mild diffuse slowing.  This finding indicates nonspecific diffuse cerebral dysfunction that in this case could partially be attributed to excessive drowsiness.  The lack of epileptiform discharges in a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 56 year old right handed woman with lupus, previous stroke. The patient had an episode of speech arrest and confusion on March 11, 2011.
+MEDICATIONS: Coumadin, Plaquenil, Simvastatin, Paxil, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 hertz alpha rhythm with a small amount of low voltage, frontocentral beta activity. Rhythmic mid temporal theta of drowsiness is noted independently from each temporal region, but from the left temporal region, there is a very small amount of underlying irregular slowing. Features of drowsiness include slow rolling eye movements and increase in beta, an increase in theta and POSTS. Photic stimulation elicits a bilateral driving response.
+HR: 66 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Small amount of access theta in the frontal regions bilaterally.
+2. An area of underlying rhythmic slowing from the left temporal region which underlies a normal variant, rhythmic mid temporal theta of drowsiness.
+CLINICAL CORRELATION: These findings may be correlated with imaging. The left temporal focal features described above may be correlated with a history of speech arrest.
+
+
+

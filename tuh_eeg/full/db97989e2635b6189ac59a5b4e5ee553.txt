@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 46-year-old woman found down on August 24th, hypoglycemic, CT scan on admission demonstrated cerebral edema.
+MEDICATIONS:  Ativan, fentanyl, vecuronium, azithromycin, and Zosyn.
+INTRODUCTION:  A 50-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient was intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  Initial sections of the EEG are obscured by significant muscle and movement artifact.  This muscle artifact starts to decrease by 1:13.  By 1:20, the technologist notes that the muscle artifact has dropped out without the use of a neuromuscular blockade and then it reappears.  In the interpretable sections of the record, the background EEG is diffusely slow with a mixture of theta and delta.  There is a subtle underlying phase reversal or subtle underlying sharp wave noted in the left frontocentral region.  The overall pattern, when interpretable is continuous, mixed frequency, low voltage with a mixture of theta, delta, and beta.  In addition to the subtle underlying left frontal sharp wave, there is also a subtle underlying complex noted in the right mid temporal region.
+Tactile stimulation of the patient was performed in the sections of the record with generous artifact and did not seem to activate the record.  Later sections of the record, the patient did receive fentanyl, Ativan, and vecuronium; and the EEG at that time continues to demonstrate a lower voltage mixed frequency background with some subtle sharp waves, right frontotemporal, left frontocentral.  Just prior to the end of the record, suctioning of the patient for tactile stimulation did not alter the record.  Intermittent attenuations were noted after the suctioning.
+Heart rate 140 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with a low voltage mixed frequency, continuous pattern.
+Intermittent attenuations.
+Subtle lower voltage sharp waves, left frontocentral, right mid temporal.
+CLINICAL CORRELATION:  This EEG supports a severe, bihemispheric disturbance of cerebral function.  This patient's medications and acute CNS insult may play a role.  EKG monitoring will be initiated to evaluate for potential subclinical seizures..
+
+
+

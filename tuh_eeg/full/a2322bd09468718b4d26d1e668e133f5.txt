@@ -1,0 +1,29 @@
+History:	65 YEAR OLD FEMALE WITH FOLLOW UP EEG. DIAGNOSIS OF FOCAL
+EPILEPSY AND EPILEPTIC SYNDROME WITH COMPLEX PARTIAL SEIZURES
+WITH INTRACTABLE EPILEPSY.
+Medications:	Ibuprofen
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, at bests a 8 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric frontal alpha activity is present.  Excess diffuse
+admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases during
+drowsiness.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity seen independently in the bilateral fronto-temporal region
+during wakefulness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+produces bifrontal bursts of eye fluttering artifact that did not persist and subsided with eye opening
+and closing.  HR was 60. There is a continuous pacemaker artifact seen.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral frontotemporal
+Diffuse slowing, polymorphic, continuous, mild, Excessive theta in wakefulness
+Interpretation:
+This is an ABNORMAL awake EEG because of intermittent independent focal slowing in the
+bilateral frontotemporal regions and mild diffuse slowing.  These findings are indicative of focal
+cerebral dysfunction and mild diffuse cerebral dysfunction both of which are etiologically non-
+specific.  No clinical or electrographic seizures are present.
+
+

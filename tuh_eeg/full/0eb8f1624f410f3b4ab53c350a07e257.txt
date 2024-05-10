@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 51-year-old male with posttraumatic headaches with episodes of blanking out.  Past history of frontotemporal hemorrhage.
+MEDICATIONS:  Keppra, Topamax, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were acceptable.  This was a routine EEG of 22 minutes duration.
+DESCRIPTION OF THE RECORD:  This is a very drowsy record with limited wakefulness.  In maximal wakefulness, a 10 Hz alpha rhythm was noted with generous low voltage, frontal central beta.  Intermittently, in the transition between wakefulness and drowsiness, there is prominent theta with a bit of an asymmetry, a little higher amplitude theta on the left, and a little bit of underlying arrhythmic delta in the left hemisphere relative to the right.  The overall drowsy record is, however, relatively symmetric.  Stage 1 sleep included vertex waves.
+The patient was relatively sleepy during hyperventilation which did not activate the record.  Photic stimulation elicited a driving response which was a little higher amplitude on the left than the right.
+Heart rate:  66 BPM.
+IMPRESSION:  This is a mildly abnormal, primarily sleep EEG due to:
+Mild excess beta.
+Subtle focal slowing in the left hemisphere with an increase in theta and a small increase in delta in the transition to sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The characteristics of the focal slowing with an increase in amplitude on the left and the slightly asymmetric driving response raises the possibility of a previous craniotomy in this individual with a history of an intracerebral hemorrhage.
+
+
+

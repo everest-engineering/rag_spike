@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 	69 year old woman with metabolic encephalopathy, abdominal pain and seizures.
+MEDICATIONS:  Keppra, Ativan, Morphine, Zofran, Heparin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.  Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is slow and disorganized with a mixture of rhythmic theta and delta. Stimulation of the patient produces an increase in rhythmic theta activity. Drowsiness was characterized by an increase in arrhythmic delta.
+HR:	78 bpm
+IMPRESSION: Abnormal EEG due to:
+1.    Background slowing.
+CLINICAL CORRELATION:   The pattern described above is nonspecific and could be seen in a toxic or metabolic encephalopathy. No epileptiform features were identified today.
+
+
+

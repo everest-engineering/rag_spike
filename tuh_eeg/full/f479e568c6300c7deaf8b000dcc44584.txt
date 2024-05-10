@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is an 85-year-old woman, presented with acute dysarthria and ataxia, found to have left internal carotid 70% stenosis and right 50% stenosis.
+MEDICATIONS:  Sevoflurane, propofol, morphine, succinylcholine, others.
+INTRODUCTION:  3.5 hours intraoperative continuous digital EEG monitoring was performed using CEA montage with 1 channel of EKG.  The recording began in the OR when the patient was initially briefly awake and concluded after patency had been confirmed by Doppler and the surgeon was concluding the procedure.  The physician was on standby for 1 hour prior to the recording and remote review, one-on-one was provided for 3-1/2 hours throughout the procedure.
+DESCRIPTION OF THE RECORD:  As the tracing begins, at 9 a.m., the patient is awake with a 9.5 Hz posterior dominant rhythm, which was symmetric.  With induction of anesthesia, there is a pattern of theta and then at times a discontinuous pattern.  The EEG was continuous and operative recording at 10 a.m. demonstrates an asymmetry between the 2 hemispheres.  As the anesthetic medications are increased, the EEG is slightly more suppressed on the left relevant to the right and at times there is a bit more slowing.
+The carotid is clamped and unclamped repeatedly from 11:38 to 11:41.  No significant changes are noted with clamping and unclamping of the recording and the pattern is relatively stable with a stable, underlying asymmetry.
+At 11:50:  Anesthetic medications are increased and as this occurs, the EEG is intermittently more discontinuous and the asymmetry between the 2 hemispheres is accentuated.  This finding was reported to the surgeon.  Anesthetic medications were adjusted and blood pressure was adjusted and by 12:12, the pattern had returned to a more symmetric and continuous pattern.  At 12:14, the clamp was removed and patency was confirmed by Doppler.  The EEG pattern continued to demonstrate a stable, relatively symmetric pattern and the recording concluded at 12:38.
+HEART RATE 81 bpm.
+IMPRESSION AND CLINICAL CORRELATION:  EEG monitoring during this left carotid endarterectomy was remarkable for somewhat asymmetric pattern noted before the clamp with accentuations noted with fluctuations with anesthetic medications, but no significant change with placement of the clamp.  The baseline EEG for this patient demonstrated L focal slowing
+
+
+

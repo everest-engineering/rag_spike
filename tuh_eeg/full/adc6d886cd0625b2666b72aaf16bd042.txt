@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 62-year-old male with prior left hemisphere stroke, patient had weakness and aphasia, but recovered.  Now has multiple seizures 1-2 per week.  Seizures may include a lightening like sensation, drop attacks, confusion, or tonic-clonic activity.  Imaging demonstrates bilateral occipital and thalamic strokes.
+MEDICATIONS:  Keppra, Neurontin, and others.
+INTRODUCTION:  A 28-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  As the patient becomes drowsy, there are brief bursts of rhythmic 3-5 Hz activity from the left temporal region without definitive frequency evolution.  Most bursts are 3-4 seconds in duration, but a single burst is 5 seconds in duration.  The technologist was not able to demonstrate impairment of awareness with these brief bursts.  The patient is not aware of any clinical symptoms during the bursts.  The patient is however aware of relatively constant right hand trembling which is different than these discharges.
+Drowsiness is characterized by an increase in background beta and perhaps slight accentuation of these bursts.
+Photic stimulation was limited, but did seem as if the bursts were increasing around the time of photic stimulation.  A driving response was elicited.
+Heart rate: 90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Bursts of rhythmic 3-5 Hz activity from the left temporal region.
+Left temporal focal slowing.
+CLINICAL CORRELATION:  No clinical deficits could be determined during these brief bursts.  The findings were discussed with the family and given the frequency of this patient's clinical symptoms, outpatient EEG monitoring was scheduled.
+
+
+

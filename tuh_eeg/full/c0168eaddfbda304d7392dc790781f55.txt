@@ -1,0 +1,31 @@
+History:	51 YO FEMALE WITH HX OF EPILEPSY. NEW BREAKTHROUGH EVENTS W/ LOC
+12/23/2013.
+PT HUSBAND HAS VIDEO OF EVENT.
+Medications:	Keppra, Altace, Claritin, Po
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+There is intermittent focal theta slowing is present over the right fronto-temporal region.  There are
+intermittent right fronto-temporal spikes seen maximal at F8-T4.  At 11:45:55, there is a 12 second
+epoch characterized by a buildup of rhythmic theta activity over the right fronto-temporal region.
+This is preceded by an arousal from sleep. There is no other clinical correlate to this event.  This
+may have represented an electrographic seizure.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.
+Summary of Findings:
+Spikes, intermittent, right frontotemporal
+Focal slowing, polymorphic, intermittent, right frontotemporal
+Interpretation:
+This is an ABNORMAL EEG, awake, drowsy, and asleep due to focal slowing and spikes in the right
+fronto-temporal region. Focal slowing and spikes suggest a structural brain lesion with epileptiform
+potential in the right fronto-temporal region. .  The single 12 second event characterized by
+rhythmic theta may reflect a focal right frontotemporal electrographic seizure.
+
+

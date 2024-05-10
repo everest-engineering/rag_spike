@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 30-year-old woman with history of seizures since age 17, 3 per month, treated with multiple medications.  Anxiety and substance abuse.
+MEDICATIONS:  Keppra, topiramate, and Xanax.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This recording session was terminated early when the patient insisted on smoking in the room, unplugged the equipment and demanded to leave.
+DESCRIPTION OF THE RECORD:
+Background:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness was characterized by slow rolling eye movements with POSTS.  The patient was relatively drowsy.  Stage 2 sleep included spindles. Recording was discontinued at 4:51 PM by the patient.
+Event: 12:10:49 PM  The patient was awake.  Her partner was in the room.  She had an episode of speech arrest with head turning away from the clinicians. EEG demonstrated an awake pattern. No epileptiform features were noted.  After the partner left, the patient was noted to cry and then drifted off to sleep by 12:37.
+Seizures: none
+Epileptiform Activity: none
+Heart rate 96 bpm.
+IMPRESSION:  Normal 6-hour EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  This is the 4th normal EEG for this adult.  No epileptiform features were noted.  At least 1 clinical event was captured, although it was not seizure with motor activity.  This individual is thought to have epilepsy, alternative management strategies may be considered.
+
+
+

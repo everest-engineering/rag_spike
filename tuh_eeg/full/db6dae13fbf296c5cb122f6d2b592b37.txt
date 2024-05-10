@@ -1,0 +1,44 @@
+AGE: 35 y.o.
+SEX: male
+DATE OF STUDY: 11/19/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1697
+HISTORY:
+35 y.o. male with a history of ESRD, chronic right cerebellar
+and small left thalamus and cerebellar infarcts, recent prolonged seizures on Oct 21, 2015 referred for routine EEG for follow up.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+Insulin Syringe-Needle U-100 1/2 mL 31 x 5/16" Syringe, RENVELA 800 mg tablet,
+labetalol (NORMODYNE) 100 mg tablet, lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, HUMALOG 100 unit/mL injection,
+citalopram (CELEXA) 20 mg tablet, hydralazine (APRESOLINE) 25 mg tablet, amlodipine (NORVASC) 10 mg tablet, atorvastatin (LIPITOR) 80 mg tablet,
+lisinopril (PRINIVIL,ZESTRIL) 5 mg tablet, Take 1 tablet by mouth daily.
+VPA GBP
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9.0 Hertz posterior dominant rhythm (PDR), which attenuates
+symmetrically with eye opening. In addition, there is some slower Alpha on the right- 7.8 to 8.3 Hz
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+Subtle focal slowing is present; characterized by slower alpha and theta frequency in the right posterior quadrant
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 84 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG.
+1. Subtle R posterior focal features
+CLINICAL CORRELATION:
+The focal slowing is in the region of some of the prior CVAS. This is the second EEG without sharp waves or spikes. This	EEG
+does not support or refute the diagnosis of epilepsy. It is much improved compared to the ICU record 10/21/2015
+
+
+

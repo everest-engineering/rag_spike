@@ -1,0 +1,12 @@
+MEDICATIONS: Sinemet, Lipitor, and Prozac.
+CLINICAL HISTORY:  A 68-year-old male with memory loss.
+INTRODUCTION: Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is a routine 20-minute EEG with impedances under 5 kilo-ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for significant muscle and movement artifact as well as muscle twitch artifact. There is a 9 Hz alpha rhythm identified on the left. The right hemisphere seems to have intermittently disrupted alpha and in fact subtle, generalized slowing as well as intermittent more marked slowing with some underlying slower mixed theta delta. Throughout the record, the tech attempts to decrease the amount of muscle artifact in the electrode with limited success. Features of drowsiness include an increase in background slowing. Unfortunately the muscle artifact persists.
+Photic stimulation elicited a bilateral driving response. Heart rate 66 bpm.
+IMPRESSION: This is an abnormal EEG due to:
+Modest generalized background slowing.
+Superimposed right focal slowing characterized by intermittent disruption of the frequency activity on the right.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The background slowing is a nonspecific finding. The focal findings can be correlated with imaging.
+
+
+

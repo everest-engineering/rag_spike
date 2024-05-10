@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 60 year old gentleman hit by a car and found to have a left basal ganglion intraparenchymal hemorrhage and a past history of substance abuse.
+
+MEDICATIONS: Keppra, Morphine, Lorazepam, Famotidine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous, relatively low voltage pattern with theta and delta. In this low voltage pattern there are minor shifting asymmetries with the delta. Stimulation of the patient produces a small amount of delta, particularly in the right posterior quadrant.
+
+HR: 80 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. A pattern of lower voltage diffuse background delta with beta.
+
+CLINICAL CORRELATION: No epileptiform features were observed. This EEG supports a relatively severe disturbance of cerebral function in this individual with history of head trauma on November 29, 2010. Correlation with clinical factors, medication, and imaging is suggested, but there were no epileptiform features.
+
+
+

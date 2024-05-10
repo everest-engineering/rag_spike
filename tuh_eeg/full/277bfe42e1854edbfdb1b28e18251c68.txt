@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  68 year old right handed woman with bronchitis, depression, and intermittent paroxysmal nausea and dizziness, tinnitus rear pain.
+MEDICATIONS:  Singular, Advair, Norvasc.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz, 16 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta. Drowsiness is characterized by attenuation of the alpha rhythm and an increase in beta.  Other features of drowsiness includes anterior spread of the alpha rhythm.  Hyperventilation produces scant background slowing.  Photic stimulation did not significantly activate the record.
+HR:    96 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified.  A normal EEG does not exclude the diagnosis of epilepsy.
+
+
+

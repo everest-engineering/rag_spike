@@ -1,0 +1,36 @@
+AGE: 27 y.o.
+SEX: female
+DATE OF STUDY: 11/24/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1726
+HISTORY:
+27 y.o. female with a history of four seizures (described as eyes open, generalized shaking lasting a couple minutes) and childhood epilepsy (last seizure: 20 years ago) referred for routine EEG after seizure.
+MEDICATIONS:
+Keppra, Gabapentin
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND :
+The record opens to sleep. Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, ·sleep spindles and K-complexes. Slow wave sleep was not captured.
+During brief periods of wakefulness (<20 seconds at a time), the background is characterized by a fairly well organized mixture of theta, alpha, and beta frequencies, with no definite posterior dominant rhythm.
+During drowsiness, slow rolling eye movements and further background slowing are seen.
+There is mild generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Not performed
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 84 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal drowsy and asleep routine EEG due to:
+1. Mild generalized slowing and suboptimal organization
+CLINICAL CORRELATION:
+These findings indicate the presence of mild diffuse cerebral dysfunction.
+
+
+
+

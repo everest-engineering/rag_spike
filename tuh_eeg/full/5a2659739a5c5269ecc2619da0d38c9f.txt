@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  81 year old male presented with urinary tract infection, but had involuntary movements with head rocking, nonverbal patient, but patient would respond during
+MEDICATIONS:  Aspirin, Ferrous Sulfate, Zocor, Flomax, Insulin, Heparin, Protonix,  Flonase, Haldol, Ciprofloxacin
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was confused and had an episode of facial grimacing and humming.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is low voltage with generous beta and a glimpse of a low voltage 9 Hz alpha rhythm.  Much of the waking record includes a somewhat slow pattern. The patient had an episode of involuntary movements, rocking his legs with facial grimacing.  The audio was off, but the patient appeared to be awake during the event with actually a well defined alpha rhythm with titubation of the head.  Photic stimulation is associated with a driving response.  In addition, photic stimulation seemed to elicit an alerting response.  Photic stimulation elicited a blink response with a great deal of artifact, but no definitive epileptiform sharp waves in the left temporal region.  As the patient becomes drowsy, there is an increase in background slowing.
+IMPRESSION:  This is an unusual, but abnormal EEG due to:  Mild background slowing.
+CLINICAL CORRELATION:  The patient's behaviors with involuntary movements and humming were not associated with an epileptiform signature.  Photic stimulation did seem to accentuate his involuntary movements, but did not elicit a photo paroxysmal response.  If epilepsy is an important consideration, a more prolonged tracing capturing sleep wake cycle may be valuable.
+
+
+

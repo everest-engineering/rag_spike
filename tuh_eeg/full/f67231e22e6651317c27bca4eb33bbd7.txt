@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  37 year old right handed male with a 4-year history of epilepsy, etiology unknown; tonic-clonic seizures with loss of consciousness, memory loss, and confusion.
+
+MEDICATIONS:  Tegretol.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm which is symmetric and reactive to eye opening.  There is a small amount of low-voltage frontocentral beta activity.  Subtle abnormalities are noted in this EEG, particularly just before hyperventilation and during hyperventilation.  There is bilateral theta produced, but it is a little bit more remarkable on the left than the right.  In addition, there is drop-out of the alpha rhythm on the left before the right seen around the time of hyperventilation.  There is some early drowsiness recorded with the appearance of theta, but slightly asymmetric theta, again a little bit more on the left than the right.
+Photic stimulation elicits bilateral driving.
+
+HR:    90 bpm
+
+IMPRESSION:  Mildly abnormal EEG due to:
+1. An asymmetry in hyperventilation in early drowsiness with drop-out of the alpha rhythm and an asymmetry in quantity of theta produced.
+
+CLINICAL CORRELATION:  No epileptiform features were identified.  To more completely evaluate this patient's epilepsy, a more prolonged sleep record is suggested.
+
+
+DD:02/08/2012
+DT:02/09/2012
+
+
+

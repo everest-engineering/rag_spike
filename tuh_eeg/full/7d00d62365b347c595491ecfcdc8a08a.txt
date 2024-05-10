@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 41-year-old male with new onset nocturnal seizures.  The patient wakes up with tongue biting and blood on his tongue, violent mood swings, and hypoglycemia.
+MEDICATIONS:  Insulin, Keppra, pravastatin, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage and frontocentral beta.  Head rocking artifact and eye blink were noted.  Drowsiness was characterized by an increase in theta followed by post __________arousals.  Deeper stages of sleep were not sustained.  The patient was falling asleep in hyperventilation which did produce scant driving.
+Heart rate 72 BPM.
+IMPRESSION:  This EEG was within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  This is the second EEG without epileptiform activity for this adult.  If epilepsy is an important consideration, an outpatient ambulatory EEG capturing 1 of his spells may be valuable.
+
+
+

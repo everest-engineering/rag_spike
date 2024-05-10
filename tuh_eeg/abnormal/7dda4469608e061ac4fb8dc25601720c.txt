@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 87-year-old male with previous stroke, right hemiparesis, COPD and past history of seizures.  Recently hospitalized April 19 with seizures.
+MEDICATIONS: Keppra
+INTRODUCTION:  A digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred but  photic stimulation was completed.  This was an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an asymmetry.  The alpha rhythm on the left is a little higher amplitude than the right but the alpha on the right is a little faster, 7.3 on the right, 6.8 on the left.  This EEG demonstrates some asymmetric eye movement but it also demonstrates intermittent rhythmic slowing from the left.  In relaxed wakefulness SREDA was noted.  With stimulation of the patient there is an alerting and this rhythmic central theta disappeared.  It was not seen again as the patient transitioned into stage I sleep with vertex waves.  Stage I sleep was not sustained.
+Photic stimulation elicits bilateral driving.
+Heart rate:  60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+An asymmetry with slower alpha on the left compared to the right.
+Intermittent rhythmic slowing on the left.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The focal slowing and the disrupted alpha rhythm on the left are anticipated findings following a stroke.  Of note, this background is slower than was noted in 2011.  In addition, SREDA is considered a normal finding although it is a rare entity in a subject of this age.
+
+
+

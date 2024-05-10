@@ -1,0 +1,16 @@
+History:	58 year old woman with a reported history of seizures since -1985. Medications:	Topamax
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Background voltages are low.  The posterior dominant rhythm consists of low voltage beta activity that attenuates with eye opening.  Symmetric 5-15uV,  18-25Hz activity is present, maximal over bilateral frontal regions.  The majority of the background consists of low amplitude diffuse beta activity.   During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.   During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.   Frequent positive sharp waves occur bilaterally and independently in the occipital regions during drowsiness  and light sleep.
+Occasional low voltage sharp waves are seen over the left fronto-temporal region (Fp1/F7/F3). A benign variant (BETS, benign epileptiform transients of sleep) cannot entirely be excluded.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates. A single EKG lead demonstrates heart rate 54 bpm.
+Summary of Findings:
+Sharp waves, occasional, left frontotemporal
+Interpretation:
+This is an abnormal 1-hour awake and asleep EEG due to: 1. Left frontotemporal sharp waves (Fp1/F7/F3). While these sharp waves are most likely epileptiform, a benign variant (BETS) cannot entirely be excluded. Of note, low voltage backgrounds are a benign variant in the adult population.
+
+
+
+

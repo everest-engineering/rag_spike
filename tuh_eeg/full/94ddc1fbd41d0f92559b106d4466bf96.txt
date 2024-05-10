@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  20 year old right handed male with meningoencephalitis complicated by right MCA infarct, left-sided neglect, traumatic brain injury.  Seizure-free for 4 years.
+MEDICATIONS:  ASA.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were  performed.  This EEG was recorded in 2 sections.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  In some sections of the record, there is significant EKG or eye twitch artifact.  Very brief drowsiness is characterized by attenuation of the alpha rhythm and an increase in beta.  Neither hyperventilation nor photic stimulation activated the record.
+HR:    72 bpm irregular
+IMPRESSION:  This EEG is within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If characterization of focal seizures is an important issue, consider a follow up study with more extensive sleep.
+__________________________
+
+
+

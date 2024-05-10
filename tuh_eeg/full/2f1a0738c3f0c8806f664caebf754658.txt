@@ -1,0 +1,32 @@
+AGE: 40 y.o.
+SEX: female
+DATE OF STUDY: 12/29/2015
+RECORDING ENVIRONMENT: outpatient EEG TYPE: 20-40 min, awake only EEG #: 15-1873
+HISTORY:
+40 y.o. female with a history of body twitching in the setting of back injury 4 months ago, becoming more frequent in the standing and sitting positions, referred for routine EEG for evaluation of paroxysmal events.
+MEDICATIONS: no antiepileptics listed SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies with occasional excess of theta and delta, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+Drowsiness and sleep are not captured.
+Mild generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background slowing.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66  bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake only	routine EEG due to:
+1. Mild generalized slowing (occasional theta and delta frequencies in wakefulness)
+CLINICAL CORRELATION:
+These findings indicate the presence of mild diffuse cerebral dysfunction which is nonspecific in etiology.
+
+
+

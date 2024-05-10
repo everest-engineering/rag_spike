@@ -1,0 +1,35 @@
+History:	35 year old woman with a history of seizures since the age of 12 yo.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm is weak and reaches 8-9 Hz polymorphic low-to-moderate amplitude
+activity.  AP gradient is weak.  Diffuse excess theta and beta activity is present.  During drowsiness,
+EMG attenuates, and bursts of diffuse delta activity are captured.
+Bilateral, right>left, nearly continuous polymorphic delta activity, at times rhythmic, is captured over
+the bitemporal regions.  Frequent moderate right anterior temporal sharp waves are present.  These
+are 80 millisecond, 100-150 uV sharp waves with a stereotyped diphasic morphology, seen
+maximally over F8/T2 leads.  Occasional independent left anterior temporal, T3 maximal, sharp
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Beta, excessive
+Focal slowing, polymorphic, nearly continuous, moderate, right temporal
+Focal slowing, polymorphic, frequent, moderate, left temporal
+Sharp waves, frequent, right temporal, anterior
+Sharp waves, occasional, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake and drowsy 22-minute portable EEG due to (1) mild diffuse slowing
+and disorganization; (2) bilateral, right>left, focal temporal slowing and (3) bilateral independent
+anterior temporal epileptiform discharges, right>>>left. Diffuse slowing is indicative of mild diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Bilateral bitemporal slowing and
+independent anterior temporal epileptiform discharges, right>>left, indicate focal structural
+abnormalities over the bitemporal regions with increased epileptogenic potential.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+

@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  This is a 47-year-old male with past history of gunshot wound to the back, childhood epiglottis disturbance with anoxic injury, myoclonic jerks, and evaluate for seizures.  The patient was admitted on the 06/11/2014, found down possible seizure.  He was intubated and then extubated, but remains somnolent with MRI demonstrating bilateral infarcts.
+
+MEDICATIONS:  Keppra, Zofran, and others.
+
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was noted to occasionally arouse and move the right hand.
+
+This is a technically challenging record, not all impedances were below 5 kilohms.
+
+DESCRIPTION OF THE RECORD:  The overall EEG is continuous, low-voltage.  It is primarily a pattern of diffuse rhythmic theta with some delta.  There are shifting asymmetries noted.  There are spontaneous bursts of frontally predominant relatively rhythmic delta.  In this relatively low voltage record, with shifting asymmetries, there is a bit more arrhythmic delta activity noted on the right in comparison to the left.  Initially, the patient is relatively unresponsive, but as the recording continues, a posterior dominant rhythm is noted intermittently in the record when the patient is moving about.
+
+Heart rate 96 bpm.
+
+IMPRESSION:  This is an abnormal EEG due to:
+1. Relatively low voltage slow background.
+2. Shifting asymmetries with more arrhythmic delta activity noted in the right compared to the left.
+3. Occasional bursts of rhythmic frontal delta.
+
+CLINICAL CORRELATION:  This EEG demonstrates improvement in comparison to previous study 48 hours ago.  This low voltage study does demonstrate shifting asymmetries, right greater than left, which may be correlated with imaging.  The bursts of rhythmic frontal delta are nonspecific and can be seen in a toxic metabolic encephalopathy or due to other causes.
+

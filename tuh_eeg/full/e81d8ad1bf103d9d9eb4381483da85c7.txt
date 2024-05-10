@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 27 year old right handed male with multiple seizures, perhaps associated with marijuana ingestion. The patient reports postictal confusion.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by an increase in background slowing. Photic stimulation produces super-harmonic driving. Hyperventilation produces an increase in theta.
+HR: 50 bpm
+IMPRESSION: Normal EEG
+CLINICAL CORRELATION: No epileptiform features were observed. This appears to be a somewhat drowsy individual. The super-harmonic driving is described is a normal finding.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This 52-year-old woman with new onset seizures 2 months ago.  The patient had an episode with loss of consciousness, tongue biting, and postictal confusion, cannot describe other seizures or other medications.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 11 Hz alpha rhythm with a generous amount of low voltage, frontal central beta.
+Hyperventilation produces an increase in amplitude of the background.
+Photic stimulation elicits driving.
+Heart rate:  72 BPM.
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The generous beta may be due to medications.  If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

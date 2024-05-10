@@ -1,0 +1,26 @@
+History:	47 YR OLD FEMALE PRESENTS WITH H/O NOTED WITH CHANGE IN MENTAL
+STATUS FOUND TO HAVE TUMOR, NOW S/P TUMOR REMOVED 11/2013 LT
+TEMP/ CENT AREA. EEG TO R/O SZ, PT DENIES EVER HAVING SZ
+Medications:	KEPPRA
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+As drowsiness progresses, symmetric vertex waves appear.
+Continuous polymorphic theta activity is present in the left central region during wakefulness,
+increasing during drowsiness. There is an associated increased voltage and faster frequencies in the
+region consistent with a breach rhythm.  At time sharply contoured.  No epileptiform discharges
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left central, with an associated breach
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+left central region, which is consistent with the known surgery.
+
+

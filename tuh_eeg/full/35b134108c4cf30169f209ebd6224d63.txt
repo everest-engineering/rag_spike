@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  37 year old right handed male with epilepsy since 2007 with tonic-clonic seizure with tongue biting and incontinence, postictal confusion occurring 1-2 times per year.  Ongoing staring spells occurring weekly.  Past history of craniotomy for a brain tumor in 1977 and migraine headaches 3 times per day.
+
+MEDICATIONS:  None.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with symmetric, reactive 10.7 Hz alpha rhythm and a small amount of low voltage, frontocentral beta activity.  Vertex waves, K complexes, spindles and POSTs are noted in stage 2 sleep.  Symmetric vertex waves are noted.  In sleep, there is a very slight amplitude asymmetry of the beta spindles, a little higher on the right than the left.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits harmonic and supraharmonic driving.
+
+HR:    72 bpm
+
+IMPRESSION:  Normal EEG
+
+CLINICAL CORRELATION:  No epileptiform features are noted.  In terms of a breach rhythm, there is a slight amplitude accentuation of the beta activity in stage 2 sleep on the right which would be a normal finding with a history of a craniotomy. If characterization of this individual's seizures is needed, a sleep-deprived or a prolonged sleep recording may be necessary to identify epileptiform activity.
+
+
+
+DD:03/05/2012
+DT:03/06/2012
+
+

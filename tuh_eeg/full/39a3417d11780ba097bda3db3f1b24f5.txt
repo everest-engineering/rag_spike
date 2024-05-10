@@ -1,0 +1,23 @@
+History:	71 year old man undergoing left CEA.
+
+INCISION: 11:58AM
+HEPARIN 7000U 1:37P, 2000U 1:50 PM 2000  2:49P
+CLAMP:   2:07/2:09PM
+Medications:	VERSED, PROPOFOL, VECURONIUM, ISOFLURANE, PHENYLEPHRINE,
+FENTANYL, LIDOCAINE, NITROUS OXIDE, ANCEF
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes
+Description:
+Patient is awake in the beginning of the recording with 9 Hz PDR and normal AP gradient
+observed.  Intubation occurs at ~11:05 pm with gradual change in the background to low amplitude
+diffuse fast activity.  Clamp is at 2:07 PM with no appreciable change observed. The artery is
+unclamped at ~3:33 PM with no appreciable change observed.  There appearance of excessive
+EMG artifact at ~ 3:47 pm.  EEG technologists notifies the anesthesia and propofol is initiated.
+That results is cessation of EMG artifact.  When monitoring is stopped at ~4:37 pm, the background
+Summary of Findings:
+Interpretation:
+This was unremarkable nearly 6 hour continuous EEG monitoring performed for left carotid
+endarterectomy.  Clamping that lasted 1 hour 26 minutes did not result in appreciable changes in
+the background/ asymmetry.
+

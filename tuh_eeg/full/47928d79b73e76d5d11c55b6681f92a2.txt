@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 64 year old left handed woman presenting with a history of frequent falls with a loss of consciousness and a history of seizure. Past medical history significant for CVA in 2009 on the left hemisphere, hypertension, and right aneurysm, seizure, and asthma.
+
+MEDICATIONS: Keppra.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode placement system with one anterior temporal electrode and EKG. Wakefulness and drowsiness was recorded and photic stimulation was performed.
+
+TECHNICAL DIFFICULTIES: None.
+
+DESCRIPTION OF THE RECORD: The record opens to a well-defined posterior dominant rhythm at 9-10 Hz with amplitude of 20-60 microvolts which is reactive to eye opening . There is some small amount of frontocentral beta on both sides. Drowsiness was characterized by bursts of theta on bilateral occipital regions and POSTS at 5-6 Hz.
+
+ABNORMAL DISCHARGES: Focal sharp waves at T2 and F7. Disrupted alpha rhythm with mixed theta/delta frequencies at 1-2 Hz on the left temporal region. Left-sided shifting slowing with maximum at F7 focal slowing. No seizure activity was recorded.
+
+IMPRESSION: Abnormal EEG due to:
+1. Left-sided focal slowing with a maximum on frontal region.
+2. Disrupted alpha rhythm with mixed theta and delta frequency.
+3. Focal sharp waves on T2 and F7.
+CLINICAL CORRELATION: This EEG showed focal sharp waves in frontotemporal regions that may be indicative of prior seizure activity in that area although this EEG did not show any active seizures at this time. Left-sided slowing with focal slowing at frontal region on the left may indicate some subcortical process. The mixed theta and delta frequency on the left temporal may also indicate some subcortical process on the left temporal region that may be due to previous stroke on that side. The sharp waves may represent a transverse dipole.
+
+

@@ -1,0 +1,31 @@
+History:	42 year old man with a history of aneurysmal coiling, now presents with recurrent
+seizures.
+Medications:	dilantin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta and theta activity is present in the right mid-temporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the right mid-temporal region and produces mild diffuse slowing.  Stepped photic
+stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, right temporal, mid, mild-to-moderate
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is a ABNORMAL awake and asleep 21-minute EEG due to intermittent mild-to-moderate focal
+slowing in the right mid-temporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific, but possibly structural in origin.  The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

@@ -1,0 +1,32 @@
+History:	31 year old man with a history of seizures since childhood.  Seizures are described
+as mouth numbness and metallic taste in his mouth, followed by tachycardia, right
+sided numbness, then bilateral numbness and then a convulsion
+Medications:	Tegretol
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Occasional polymorphic theta and delta activity is present in the  left temporal region during
+wakefulness, increasing during drowsiness and sleep.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left temporal region and produces mild diffuse slowing.  Stepped photic stimulation
+from 1-21 flashes per second (fps) does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, left temporal
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 1 hour EEG due to occasional mild left temporal slowing.
+This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but
+possibly structural in origin.
+
+
+
+
+
+

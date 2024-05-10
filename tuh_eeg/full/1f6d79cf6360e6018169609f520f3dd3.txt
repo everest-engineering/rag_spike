@@ -1,0 +1,38 @@
+History:	58 yr old female with  pmhx sig htn, asthma and head injury 1/13.  with residual right
+side numbness and headaches with double vision. admit for emu monitoring. pt c/o
+periods of dizziness, headaches, loss of speech, and understanding speech. pt poor
+Medications:	None Reported
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 50 hours from 07/07/2014 to 07/09/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	1
+Description of pushbutton events
+See note.
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is excess theta during wakefulness.  During brief drowsiness, the
+alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.  During drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+There is intermittent focal slowing in the left midtemporal region at T3  On 07/08/2014 at 8:40AM
+the patient appears to be confused and does not answer questions appropriately. The patient states
+she cannot think. This last for 10 minutes. The EEG background remains normal during the entire
+episode.  On 07/09/2014 at 6:40 in AM the patient complains her head is numb. There is no EEG
+Hyperventilation and photic stimulation are not performed.  HR 70
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Interpretation:
+This is an ABNORMAL 50 hour EMU-EEG because of intermittent focal slowing on the left
+midtemporal region. This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific. In addition there is mild diffuse slowing, which is also non-specific with regards to
+etiology.  The events captured had no EEG correlate and were not epileptic.
+sleep spindles and K complexes appear. Correlate to this.
+
+

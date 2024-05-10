@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   32 year old right handed male with new on-set seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 11 Hz alpha rhythm.  There is generous frontal central beta activity.  In the transition to sleep there is occasional rhythmic delta seen in the left or right central region. Photic stimulation elicits bilateral driving. Hyperventilation does not produce significant focal features.
+HR:    78 bpm
+IMPRESSION:  This EEG is remarkable for:
+Occasional shifting slowing in the central regions in the transition to sleep, left more than right.
+CLINICAL CORRELATION:  No epileptiform features are identified.  The focal features may be correlated with imaging.
+
+
+

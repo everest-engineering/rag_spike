@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  84-year-old woman with severe dizzy spells, intermittent paroxysmal spells, evaluate for seizure versus syncope.  Cognitive impairment and depression.
+MEDICATIONS:  Namenda, galantamine, Elavil, atorvastatin, Cymbalta, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  Impedances were acceptable aside from the T1 and T2 electrodes, which were slightly above 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is a bit disorganized but there is a 9 Hz posterior dominant rhythm identified bilaterally.  In wakefulness, there are occasional bursts of shifting, right or left mixed temporal theta or delta.  As the patient becomes drowsy, there is a bit more slowing from the left hemisphere with a bit more rhythmic left temporal theta.
+Photic stimulation elicited a vigorous driving response which was sometimes asymmetric but not consistently asymmetric and generally bilateral.
+HEART RATE:  72 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Mild background disorganization in light of the patient's age.
+Intermittent left hemispheric focal slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The findings described above are nonspecific but with a subtle asymmetry with a bit more focal slowing on the left, this may be correlated with imaging.  No epileptiform findings were noted.
+
+
+

@@ -1,0 +1,16 @@
+.
+CLINICAL HISTORY:  Adult male status post craniotomy with schizoaffective disorder, hypertension, status post multiple gunshot wounds to the head, previously evaluated for clonic movements on the left, seizure 1 week ago.
+MEDICATIONS:  Keppra, Cymbalta, Zanaflex, Risperdal, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not possible, photic stimulation was performed.  The patient was able to sit up, leaning forward and remained awake.
+This is a technically acceptable EEG with impedances under of 5 kiloohms with the exception of T1-T2 electrodes.  Prominent right craniotomy defect was noted.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a relatively well organized pattern on the left with an 8 hertz alpha rhythm.  The right hemisphere demonstrates nearly a continuous arrhythmic delta activity and significant disruption of faster frequency activity.
+Photic stimulation did not significantly activate the record.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+A prominent asymmetry between the 2 hemispheres.
+Arrhythmic delta activity, which is higher amplitude on the right compatible with a breach rhythm as well as disruption of faster frequency activity.
+Mild slowing on the left.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG nor in the EEG 1 year ago.  If epilepsy is an important consideration, more prolonged EEG recording capturing one of his clonic spells may be of value.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 61 year old right handed woman, with a learning multiple medical problems, and epilepsy.
+MEDICATIONS: Lipitor, Tricor, Motrin, Phenergan
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10Hz alp rhythm, but a small amount of rhythmic background theta. Hyperventilation is performed with good effort producing bursts of high amplitude paroxysmal mixed alpha theta frequency activity. Photic stimulation does not activate the record.
+HR: 66bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Scant 8 Hz activity in the alpha rhythm.
+CLINICAL CORRELATION: There are no focal nor epileptiform feature. The presence of some 8Hz activity in the alpha rhythm of an adult of this age may be related to this patient's neurodevelopmental issues. This finding is quite subtle.
+
+
+

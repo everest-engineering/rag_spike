@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 66 year old right handed male with multiple hospitalizations FOR seizures attributed to alcohol and cocaine ingestion, daily marijuana use.  Evaluate for seizures.  He has memory impairment.
+MEDICATIONS:  Keppra, Metoprolol, Fluticasone, HCTZ, Thiamine, Folic Acid.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  The is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is 7.5 Hz alpha rhythm.  This is intermittently disrupted in the right hemisphere and there is some arrhythmic delta activity, more prominent in the right than the left.  Mu activity is noted of 8 Hz in the central regions. Hyperventilation seems to accentuate the focal slowing.  There is some bilateral slowing, but more on the right hemisphere with a T4 sharp waves.  Vertex waves and spindles are noted in stage II sleep. Photic stimulation elicits scant driving, a little more so on the left than the right.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Slowing of the alpha rhythm.
+Subtle focal slowing in the right hemisphere, particularly right mid temporal region.
+Focal response to hyperventilation with the appearance of right mid temporal focal slowing and a right temporal sharp wave.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric process.  In addition, there are focal features in the right hemisphere with right temporal sharp waves in hyperventilation suggestive of a focal mechanism for seizures.
+
+
+

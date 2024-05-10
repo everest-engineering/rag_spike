@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 55-year-old woman admitted on the 11th with dizziness, blurry vision, and left-sided weakness, which resolved.
+MEDICATIONS:  Protonix, aspirin, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  Impedances were acceptable aside from the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Brief drowsiness is characterized by slow rolling eye movements and attenuation of the alpha rhythm.
+Photic stimulation elicited vigorous, bilateral driving.  Hyperventilation produces an increase in amplitude of the background.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

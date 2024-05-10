@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 53 year old right handed woman with a history of Bell's palsy, radiculopathy, migraine headaches, and events of titubation of the head. Abnormal EEG but with multiple events suggesting pseudo-seizures characterized by tremulousness without impairment of awareness.
+MEDICATIONS: Albuterol, Amitriptyline, ASA, Bumetanide, Fluticasone, Furosemide, Hydrocodone, Lamotrigine, Levetiracetam, Loperamide, Loratadine, Metformin, Omeprazole, Simvastatin, Sitagliptin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. The patient has none of her typical spells during the EEG.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz 40 microvolt posterior dominant rhythm. There is some EKG artifact and wicket, but no definitive epileptiform activity. Drowsiness is characterized by abundant posts with posts in vertex waves and K complexes in sleep. The patient transitions in and out of sleep. Hyperventilation produces a small amount of slowing followed by the transition to sleep. Photic stimulation is performed when the patient is drifting in and out of sleep and does not significantly activate the record.
+HR: 104 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features were identified in the EEG today. The majority of this patient's EEGs have been normal, but there have been some with left temporal sharp waves. Additional EEG recording to capture this patient's spells may be of use.
+
+
+

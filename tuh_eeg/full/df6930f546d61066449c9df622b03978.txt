@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 65 year old male found agitated with cerebellar atrophy and strokes as well as hypodensities.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is somnolent.
+DESCRIPTION OF THE RECORD: The background EEG includes a continuous pattern. There is a mixed frequency pattern rich in beta. There are shifting asymmetries with a bit of delta in the left posterior quadrant and a suggestion of very subtle underlying sharp wave in the left central and parietal region. Stimulation of the patient produces an increase in muscle artifact but the overall background remains slow.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Superimposed posteriorly predominant delta particularly in the left posterior quadrant
+3. Questionable sharp waves in the left central region.
+CLINICAL CORRELATION: If epilepsy is an important consideration a follow up study when the patient is out of the ICU may be helpful.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 54-year-old woman who had a loss of consciousness behind the wheel and then 2 tonic clonic seizures in the XXXXX Hospital Emergency Room.  The patient has a history of breast cancer.
+
+MEDICATIONS:  Keppra.
+
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake through stage 2 sleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in beta followed by post and then vertex phase K complexes and spindles.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits vigorous driving.
+
+Heart rate 96 BPM.
+
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+
+CLINICAL CORRELATION:  No epileptiform features were identified.  The generous beta identified can be seen in normal individuals.  It may also be seen in the context of benzodiazepine, barbiturate exposure or anxiety.  In this patient with a history of metastatic cancer, there were no significant focal features identified.
+
+
+

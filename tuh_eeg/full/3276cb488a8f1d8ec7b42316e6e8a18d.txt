@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   53 year old right handed woman who presented with worsening of expressive aphasia.  She has a history of lung cancer, currently receiving radiation and chemotherapy.
+MEDICATIONS:  Aspirin, Heparin, Hydralazine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not performed but photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a symmetric reactive 9 Hz alpha rhythm.  The waking background is symmetric, however.  When the patient becomes drowsy, an asymmetry is noted with left temporal focal theta and scant delta.  Photic stimulation elicits scant driving.
+HR:    72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the left hemisphere and drowsiness.
+CLINICAL CORRELATION:  The focal slowing may be correlated with the patient's imaging.  No sharp waves were noted.
+
+
+

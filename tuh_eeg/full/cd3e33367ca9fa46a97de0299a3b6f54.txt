@@ -1,0 +1,31 @@
+History:	69 yr female who presents with focal status epilepticus.
+Medications:	Keppra, Dilantin, Ativan IM
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture of polymorphic theta
+and delta activity with frequent periods of background discontinuity.  No normal sleep architecture
+Continuous semi-rhythmic and rhythmic (quasi-PLEDS and PLEDs) sharp waves and sharp waves
+with polyspikes are present over the right posterior quadrant with maximal scalp negativity over the
+O2 electrode  with a repetition rate of ~ 1 Hz.  Repetitive electrographic right posterior quadrant
+seizures are captured.  They last from ~ 20 seconds to up to 2 min 40 seconds.  No clear clinical
+correlate is seen on the video.  Electrographically, they are characterized by increase in rhythmicity
+and frequency of sharp waves up to 2-3 Hz and decrease in amplitude of sharp waves.  Seizures
+are more frequent in the second half of the recording.  In the first half of the recording, similar
+rhythmic runs are observed but they last <10 seconds
+(brief ictal rhythmic discharges (BIRDs)).  Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Other, brief ictal rhythmic discharges (BIRDs), in first half of the recording
+Other, continuous, right posterior, quasi-PLEDs and PLEDs, up to 1 Hz
+Other
+Seizure, few, right posterior, from ~ 20 sec to 2 min 40 sec with no clinical correlate
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL portable 22 minute EEG due to moderate diffuse slowing, continuous right
+posterior quadrant semi-rhythmic and rhythmic epileptiform discharges and several focal right
+posterior quadrant electrographic seizures. Diffuse slowing indicative of moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  There is an epileptogenic focus over the right
+posterior quadrant.  These findings were conveyed to the primary team and patient was placed on
+

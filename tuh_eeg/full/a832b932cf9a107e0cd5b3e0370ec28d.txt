@@ -1,0 +1,34 @@
+History:	47 year old man with a history of brain tumor and seizures, now presents with
+episodes of confusion.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left consist of low amplitude 10 Hz PDR with expected normal AP gradient.
+The background over the right consists of polymorphic 7-8 Hz activity posteriorly and moderate to
+high amplitude often sharply contoured theta and delta activity, especially prominent over the
+frontotemporal region.  Patient remains awake throughout the entire recording.
+A single brief ~ 1 minute electrographic seizure is captured at ~11:11:25 AM.  There is no formal
+testing and there is no obvious clinical manifestation seen on the video.  It is characterized by
+rhythmic ~6 Hz theta activity over the right temporal and frontocentral regions.  Similar activity later
+seen over the bilateral frontal leads. High amplitude rhythmic diffuse (primarily bifrontal, right>left)
+delta activity is seen  at the end of the ictal run.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates heart rate of up to
+Summary of Findings:
+Seizure, occasional, right, ~1 min, temporal and frontocentral onset
+Focal slowing, polymorphic, continuous, moderate, right hemispheric, especially frontotemporal
+Interpretation:
+This is a very abnormal 22 minute portable EEG due to continuous moderate right hemispheric
+slowing and a single focal right temporal/ frontocentral seizure lasting ~1 minute without obvious
+clinical correlate. These findings are indicative of an epileptogenic focal structural lesion over the
+right.  These findings were conveyed to the neurology consult team.  Patient will be placed on
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  94 year old woman debilitated with arthritis, poor ambulation with positional confusion.  When the patient stood up she felt that she was confused and was found by her caregiver standing by the refrigerator confused.
+MEDICATIONS:  Tylenol, Omeprazole, HCTZ, Cozaar, Lotemax (?)
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm reaching amplitudes of 60 microvolts.  There is some background theta and occasional shifting slowing and wicket is noted.  Features of drowsiness include hypersynchronous theta and anterior spread of the alpha. Photic stimulation elicits scant driving.
+HR:    125 bpm
+IMPRESSION:  This EEG is within normal limits for age.
+CLINICAL CORRELATION:  No epileptiform features are identified.  Although normal values for subjects of this age are not so easily defined, and maximal wakefulness, the overall background is acceptable and there are no epileptiform features.
+
+
+

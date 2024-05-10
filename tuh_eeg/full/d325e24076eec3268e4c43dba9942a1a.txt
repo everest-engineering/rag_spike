@@ -1,0 +1,30 @@
+History:	51 year old man status post anoxic brain injury, now with episodes of facial
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of burst-suppression, with variable burst-
+suppression ratio.  Bursts generally last ~1 second with some intervals of suppression lasting up to
+50 seconds.  Clinically, bursts are associated with complex facial movements/ twitching and eye
+opening.  Electrographically, bursts contain high amplitude sharply contoured theta and delta
+activity and intense EMG artifact.  There is a subtle generalized occipitally predominant spike and
+wave discharge at the beginning of each burst, but due to presence of  EMG artifact, presence of
+this spine and wave is not certain.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.  No paralytic agent is administered during the
+Summary of Findings:
+Burst-suppression pattern
+Other, episodes of facial movements correspond to bursts of activity
+Interpretation:
+This is an ABNORMAL portable 28 min  EEG due to severe burst-suppression pattern with bursts of
+activity that correlate with clinical facial movements/ twitching/ eye opening and contain sharply
+contoured activity and suspected generalized epileptiform discharges.  These findings indicate
+severe diffuse cerebral dysfunction and increase cortical irritability.  Patient was placed on
+
+
+
+
+
+

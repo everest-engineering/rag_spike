@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   86 year old woman admitted on 01/03/2012 status post code with another 10-minute code in the emergency room and a third lasting 20 minutes at 10 a.m. on 01/03/2012.  Past history of cranial surgery and old left frontal infarct.  DNR 1.
+MEDICATIONS:  Naprosyn, Vesicare, Bactrim, Zocor, ASA, Docusate
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a burst suppression pattern.  Epochs of suppression may be as long at 10 seconds.  Epochs with cerebral activity include a mixture of theta and smaller amounts of delta.  Eye blink artifact is identified.  At some points the burst suppression pattern is asymmetric, suppressed on the right, but not on the left.  The patient's myoclonus is observed by the technologist, but looking at the video, seems to be primarily blinking.  Tactile stimulation of the patient produces artifact, but also seems to decrease some of the discontinuity.  As the recording continues, the clinical symptoms are a bit clearer.  The clinical symptoms include orofacial movements and blinking.  These are not associated with an EEG signature.  No oral or facial movements are noted during the periods of suppression.
+HR:   104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Burst suppression pattern.
+An asymmetry with more suppressed activity on the right compared to the left.
+Bursts of cerebral activity with pathological reactivity including a mixture of theta and delta.
+CLINICAL CORRELATION:  This EEG is supportive of a severe CNS insult. There was no electrographic signature for this patient's orofacial movements.  They might represent brainstem pathology or cortical pathology.
+
+
+

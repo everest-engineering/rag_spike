@@ -1,0 +1,21 @@
+.
+
+CLINICAL HISTORY:  A 21-year-old with cerebral palsy, episodes of body jerking, and spasticity.
+
+MEDICATIONS: NONE
+
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel EKG.  This EEG was recorded for a patient sitting up in a wheelchair.  Hyperventilation and photic stimulation were completed.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well-organized with a 10 Hz, symmetric, alpha rhythm.  The patient starts to drift off to sleep, losing head control.  He is unable to get comfortable in the wheelchair.
+
+Hyperventilation was performed early on in the record not activating the record.  The patient drifts attempts to drift off to sleep with drop out of alpha, central theta and then brief central beta, but deeper stages of sleep are not sustained given the mobility issues.
+
+Photic stimulation did not activate the record.  Heart rate 126 BPM.
+
+IMPRESSION:  Normal EEG in wakefulness and brief sleep.
+
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, alternative EEG recording strategies may be necessary.
+
+
+
+

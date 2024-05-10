@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 62-year-old gentleman, who was found unresponsive in a subway station.  History of epilepsy, mental retardation, and other major medical illnesses.
+MEDICATIONS:  Effexor, Zyprexa, Plavix, Lipitor, Remeron, Ativan, Ambien, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible.  Photic stimulation was performed.  This is an awake and drowsy record, with impedances under 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is somewhat drowsy.  The posterior dominant rhythm ranges from 8 to 9 hertz and is a bit better represented on the left in comparison to the right.  Bursts of shifting focal slowing were noted, left more so than right.  With stimulation, there is an increase in theta frequency activity.  The patient has multiple transitions in and out of a drowsy state.
+Photic stimulation elicits minimal driving in this disorganized background.
+Heart rate 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to;
+Generalized background slowing.
+Shifting asymmetries with shifting arrhythmic delta activity and even minor asymmetry in the underlying posterior dominant rhythm.
+CLINICAL CORRELATION:  There are no epileptiform features identified.  This EEG may be correlated to clinical history, medication use, and imaging.  If supports a bihemispheric disturbance of cerebral function affecting gray and white matter, but no epileptiform features were noted.
+
+
+

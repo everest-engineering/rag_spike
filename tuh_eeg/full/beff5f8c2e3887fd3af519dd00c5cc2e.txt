@@ -1,0 +1,11 @@
+MEDICINES:  Birth control.
+CLINICAL HISTORY:  A 26-year-old right-handed woman with her 2nd seizure, December 1st, with loss of consciousness, shaking, eyes rolling up and postictal confusion, followed by chest pain and dizziness.  Previous seizure in July 2012.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically satisfactory record with impedances under 5 kilo-ohms.  There is a small amount of muscle artifact noted in the frontal regions.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes an 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Vertex waves were noted in stage 1 sleep.  Stage 2 sleep is symmetric with vertex waves, K complexes, and POSTS.
+Photic stimulation elicited scant driving.  Hyperventilation produced an increase in theta.
+Heart rate 78 bpm.
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  There are subtle asymmetries noted in sleep, which may represent an asymmetry in lead placement rather than pathology.  No focal or epileptiform features were identified.  If epilepsy is an important consideration, a followup study capturing more extensive sleep is suggested.
+
+
+

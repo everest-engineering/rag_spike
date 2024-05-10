@@ -1,0 +1,15 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+61 YO FEMALE PRESENTS W/ SOB. SHE WAS WORKING TO BREATH WHEN EMS ARRIVED. SHORTLY THEIR AFTER PT LOST PULSE PEA CODE STARTED. EMS REPORTED 4 - 5 MINS, HUSBAND REPORTED 10 - 15MIN.
+NITRO, BREVIBLOC, INSULIN
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse attenuation with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+No focal slowing is present. There are intermittent frequent bursts of sharply contoured theta activity in the right frontal-central region that last from 1-11 seconds. At times they appear to increase in amplitude and decrease in frequency.  At times these have associated myogenic artifact over the left hemisphere.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli.  HR was 96.  Please note that this record is limited by the continuous muscle artifact seen throughout the study.
+Summary of Findings:
+Attenuation
+Other, Burst of sharp theta activity.
+Interpretation:
+This is an ABNORMAL limited EEG because of bursts of right temporal and central sharply contoured theta activity. These discharges are likely epileptogenic in nature and may represent an irritable cortex. The intermittent evolution may also represent an electrographic seizure or be part of the ictal-interictal continuum. The myogenic muscle artifact does not always have a clear associated EEG discharge and may represent subcortical vs cortical myoclonus. 

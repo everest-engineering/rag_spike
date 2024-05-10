@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 55 year old female with history anoxic encephalopathy since February 7, 2010.
+MEDICATIONS: Phenobarbital, Hydralazine, Aranesp, /clonidine, Metoprolol, Lorazepam, Ativan, Versed
+INTRODUCTION: Continuous digital video EEG monitoring was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: Day-1, 2/12/2010: The patient is intubated. Behaviorally she is comatose and a review of the video indicates no facial twitching. The EEG for this first day demonstrates a burst suppression pattern with high amplitude spiking. The spiking is relatively symmetric and bilateral. Some sections of the record are much more suppressed and others demonstrate more continuous spiking and this pattern seems to vary from hour to hour. There are no clinical notes as to whether or not the patient's medications have been changed at this time and there is no other information regarding the patient's medication levels.
+February 13 to February 14, 2010: Review of this section demonstrates burst suppression pattern. Some sections demonstrate fast activity, some sections demonstrate the 5 Hz spike activity. The record varies from quite suppressed to a bit more continuous. Although the EEG continues to demonstrate at times very high amplitude spike activity, clinically the patient appears to be without any motor activity. The epileptiform activity may be greater than 200 microvolts. Examples of relative suppression include 3:51 a.m. on the morning of 2/14/2010.
+Interestingly, the pattern of less epileptiform activity persists significantly longer in this section, 2/14/2010 going into 2/15/2010.
+February 15 to February 16, 2010: This section of the record demonstrates marked improvement in the background until 3:57 p.m. and throughout much of the day the EEG is primarily suppressed and then the epileptiform activity recurs. When the epileptiform activity is absent, the overall pattern is quite low voltage and with the use of higher sensitivities, some fast activity and again a low voltage, right frontal sharp wave can be identified.
+February 16, 2010: This section of the record, particularly at 6:43, demonstrates almost continuous, high amplitude generalized spiking.
+HR: N/A
+IMPRESSION: This prolonged EEG monitoring sessions is remarkable for:
+1. Burst suppression pattern.
+2. Marked suppressed background.
+3. Prominent, generalized epileptiform activity which does not particularly evolve but which does occur in bursts.
+CLINICAL CORRELATION: These findings are hallmarks of anoxic encephalopathy or an anoxic pattern. The pattern was refractory to high doses of medications and, over time, was no longer associated with twitching.
+Of note, the pattern did improve around 4 a.m. Correlation with the clinical history would be important to determine if treatment given at that time might be of further use.
+
+
+

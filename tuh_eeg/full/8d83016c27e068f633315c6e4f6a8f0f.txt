@@ -1,0 +1,21 @@
+History:	334YR MALE WITH H/O SEVERE MENTAL RETARDATION, CHRONIC STATIC
+ENCEP. AND SZ DISORDER.  CEREBRAL PALSY , AGGRESSIVE BEHAVIOR.
+PRESENTS WITH SZS
+Medications:	TEGRETOL, ATIVAN, SEROQUEL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a diffuse and symmetric beta activity.  maximal over
+bilateral frontal regions.  Brief drowsiness is characterized by lack of muscle and blink artifacts.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Hyperventilation is performed for 240 seconds with good
+cooperation, and produces no effect.  HR is 75-80.
+Summary of Findings:
+Beta diffuse
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present. The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

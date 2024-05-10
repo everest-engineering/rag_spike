@@ -1,0 +1,39 @@
+History:	54 year old man with a history of right sided craniectomy for subdural hematoma,
+subsequent cardiopulmonary arrest, who on 12/29/2013 was observed to have ~15-
+20 minute confusion.
+Medications:	Propofol, Ativan, Depakote
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 21  hours from ~10 am on 12/30/2013 till ~ 7 am on
+12/31/2013.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+neurologist.   The Gotman spike and seizure detection algorithm (Stellate) was used to screen the
+EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events	0
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  Frequent periods of brief background discontinuity are noted
+early in the recording and later during periods of quiescence.  There is right to left intrahemispheric
+asymmetry with lower voltages over the left hemisphere.  The background is characterized by diffuse
+polymorphic theta and delta activity.  Underriding fast activity is noted over the right hemisphere,
+especially over the parasagittal leads.  Intermittent additional polymorphic delta activity is noted
+over the right parasagittal leads.  No normal sleep architecture is present, but periods of quiescence
+are observed and characterized by greater degree of discontinuity and generalized beta activity.
+No electrographic seizures are noted.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, right midline frontal
+Diffuse slowing, polymorphic, moderate-to-severe
+Breach artifact, right hemispheric
+Interpretation:
+This is an ABNORMAL continuous 21-hour video EEG due to moderate-to-severe diffuse
+background slowing with additional slowing over the right frontocentral region. Diffuse slowing is
+indicative of severe diffuse cerebral dysfunction, which is etiologically nonspecific.  Focal slowing
+indicates focal cerebral dysfunction, likely structural in etiology, and is consistent with patient's
+history of right SDH and craniectomy.  Breach rhythm is seen in the skull defect.  No electrographic
+seizures are present.  These findings were conveyed to the neurology consult team.
+
+

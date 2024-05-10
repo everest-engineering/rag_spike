@@ -1,0 +1,34 @@
+History:	76 year old female with altered mental status.
+Medications:	Keppra, OXC
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+The background is diffusely slow with excess theta frequency activity.  There is a fragmentary
+posterior dominant rhythm that attains 6-7 Hz over the right hemisphere.  The entire record shows
+excess theta activity, more prominent over the left.  Intermittent stage I and Stage II sleep are seen.
+There is intermittent delta activity noted over the left hemisphere.  There are rare left fronto-
+temporal sharp waves seen.
+Hyperventilation and photic stimulation are not performed.  Of note, the patient has a nearly
+constant head tremor, that appears clinically similar to titubation.  She is also intermittently drowsy
+Summary of Findings:
+Diffuse slowing, polymorphic, intermittent, bilateral diffuse
+Focal slowing, polymorphic, occasional, left hemispheric
+Sharp waves, rare, left frontotemporal
+Interpretation:
+This is an ABNORMAL 24 hour video-EEG due to diffuse slowing, focal left hemispheric slowing,
+and rare left fronto-temporal sharp waves. These findings suggest a diffuse structural brain injury as
+well as focal left hemisphere lesion with epileptiform potential.  These findings were conveyed to
+the primary team.  No clinical or electrographic seizures are present.
+
+

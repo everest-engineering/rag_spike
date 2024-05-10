@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 51 year old male with history of left PCA stroke and bradycardia admitted with right-sided numbness and headache.
+MEDICATIONS:  Insulin, Protonix, ASA, Lovenox, Zocor.
+REASON FOR STUDY:  Right sided numbness.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while in wakefulness and in stage I sleep.  Activating procedures, including photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm which reaches 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontal and central beta. Activating procedures, which included photic stimulation, produce no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow wave seen at T3 frequently and occasionally at T4 with a frequency of 2-4 Hz and an amplitude of 20-70 microvolts.
+SEIZURES  None.
+IMPRESSION:  Abnormal EEG due to:
+Independent bilateral midtemporal focal slow waves [left more then right].
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral mid temporal regions, which is nonspecific in regards to etiology.  No seizure or epileptiform discharges were seen.
+
+
+

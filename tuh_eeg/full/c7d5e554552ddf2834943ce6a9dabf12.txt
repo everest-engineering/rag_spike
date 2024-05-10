@@ -1,0 +1,31 @@
+History:	20 year old man found unresponsive.  Patient's current neurological exam
+demonstrates absence of all brainstem reflexes.  This is a follow-up EEG.
+Medications:	N/A
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of polymorphic moderate
+amplitude theta and delta activity.  There is subtle paucity of faster frequencies over the left.
+Prominent ventilator artifact is seen for a large portion of the recording.
+Hyperventilation and photic stimulation are not performed.  There is no clear reactivity to visual,
+auditory, tactile, or noxious stimuli.  A single EKG lead demonstrates heart rate up to 140 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+No reactivity
+Other, prominent ventilator artifact
+Focal slowing, polymorphic, left hemispheric
+Interpretation:
+This is an ABNORMAL portable 23-minute EEG due to moderate-to-severe diffuse slowing; focal
+left hemispheric slowing and lack of clear background reactivity. This finding is indicative of
+moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous
+focal slowing over the left is indicative of a focal structural lesion in this region.  When compared to
+the prior recordings from 1/19/2015 and 1/20/2015, the degree of diffuse slowing is less but lack of
+clear reactivity persists.  These findings were conveyed to the neurology consult team.
+
+
+
+
+
+

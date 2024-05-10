@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 44 year old right handed male with new onset right sided numbness x 6 days. Patient has history of vertigo.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is well organized with an 11 Hz alpha rhythm. Vertex waves and POSTS are noted in stage I sleep. Brief stage II sleep includes K complexes and spindles. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits minimal driving.
+HR: 60 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. A normal EEG does not exclude a diagnosis of epilepsy. If seizures are an important consideration, a follow-up study is suggested.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 28-year-old woman with epilepsy since age 12, past history of depression.  Perhaps 5 seizures in the last 6 months with falling, loss of consciousness, tonic-clonic activity and then confusion.  Insurance difficulties with prescription medications.  Depression.
+MEDICATIONS:  Trileptal and oxycodone.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were generally under 5 kilohms with the exception of T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The patient is quite drowsy, rapidly transitioning from wakefulness into stage II sleep.  The overall EEG is low voltage with a 10.5 Hz alpha rhythm and a 10.7 Hz mu activity.  Testing was not performed to confirm the mu.  Abundant stage II sleep include spindles.  POSTs were noted in stage I and stage II sleep.
+Hyperventilation did not activate the tracing.  Photic stimulation did elicit a driving response even as the patient was drifting off to sleep.
+Heart rate 72 bpm.
+IMPRESSION:  Normal, low voltage EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy and if additional information is needed, a more prolonged study or special technique may be utilized.
+
+
+
+
+

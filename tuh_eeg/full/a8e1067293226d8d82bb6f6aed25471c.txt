@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 74 year old right handed male with Alzheimer disease, refractory status epilepticus, status post 80 mg Ativan. Focal seizures with left arm involvement.
+MEDICATIONS: Ativan, Etomidate, Fentanyl, Depakote
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is comatose.
+DESCRIPTION OF THE RECORD: The overall EEG is low voltage, quite slow. The activity for both hemispheres is quite suppressed but there is an epileptiform complex on the right hemisphere particularly in the posterior quadrants with sharp activity and sharply contoured theta. It is a relatively complex discharge maximum in the posterior regions but with some variability and sometimes it starts in the mid temporal or anterior temporal and then ends up occipitally. The epileptiform activity does not clearly evolve into classic seizures but it does have a bit of evolution or can occur with brief bursts. Stimulation of the patient does produce an increase in faster frequency activity.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Epileptiform activity from the right mid to posterior temporal region.
+CLINICAL CORRELATION: This pattern can be seen as a late postictal pattern but it is highly concerning for the potential for additional seizures.
+
+
+

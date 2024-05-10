@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 74-year-old right-handed woman status post cardiac arrest on 03/17/2013.  No CPR at home but intubated by EMS.  Critically ill patient.  Additional history not available but plan is for hypothermic protocol.
+MEDICATIONS:  Fentanyl, Demerol, others.
+INTRODUCTION:  Digital EEG was performed at the bedside in the ICU, using standard 10-20 system of electrode placement with one channel of EKG.  The patient had not been paralyzed.  She had not achieved the hypothermic goal or hyperthermia had not been started at the time of the record at 16:05.
+Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  Background EEG demonstrates a burst suppression pattern with approximately 2 bursts every 20 seconds.  The bursts are 1 to 3 seconds in duration, and are associated with a little bit of jerking and oral facial movements.  In addition, in the period of time when the EEG is suppressed, following the bursts there is a very slow oral movement and then eye flicker, a bit of jerking, and oral bursts, and then the mouth opening and closing one more time while the EEG is suppressed.  Tactile stimulation does not activate the record.
+The bursts of activity are high amplitude, almost with a 4Hz spike and wave-like burst and then a suppressed background.
+Heart rate difficult to discern at times due to the background artifact, but 96 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with a burst suppression pattern.
+Postanoxic myoclonus with the bursts with oral facial movements.
+Absence of reactivity or significant variability.
+CLINICAL CORRELATION:  These are worrisome findings, more than 6 hours status post anoxic insult.  Due to this patient's cardiac condition, hypothermia protocol was initiated and additional EEG will follow.
+
+
+

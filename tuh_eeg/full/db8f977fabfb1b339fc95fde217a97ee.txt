@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Adult female with a history of epilepsy and seizure yesterday.  Patient unable to describe.
+MEDICATIONS:  Depakote, Risperdal, Celexa, metformin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a low voltage 11 Hz alpha rhythm with generous low voltage beta.  Rhythmic central theta is noted as the patient transitions to stage 1 sleep with vertex waves, POSTS and again generous beta.  The patient transitions in and out of sleep.
+Photic stimulation elicits vigorous driving with harmonic and supraharmonic driving.  Hyperventilation produces an increase in amplitude of the background.
+Heart rate 60 BPM.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  The beta activity described above can be due to this patient's medications.  No epileptiform features were noted.  If epilepsy is an important consideration, a repeat study may be of use.
+
+
+

@@ -1,0 +1,35 @@
+History:	85 YR OLD FEMALE PRESENTS WITH H/O S/P CODE APPROX 45 MIN. NOW ON
+HYPERTHERMIA PROTOCOL
+Medications:	Propofol, fentanyl
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~20 hours from 03/10/2015 till 03/11/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.    Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Early in the recording, the background consists of burst-
+suppression pattern with bursts lasting from ~ 2-3 seconds to up to 20-30 seconds.  Bursts at first
+consist of frontally predominant slightly evolving very sharply contoured theta activity.  As the
+recording progresses, the background is replaced by 1-1.5 Hz frontally predominant waveforms with
+triphasic morphology.  Additionally, as the recording progresses, there is gradual decrease in the
+background voltages.  No normal sleep architecture is present.
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Burst-suppression pattern
+PEDs (periodic epileptiform discharges) diffuse, 1-1.5 Hz, seen by the end of the recording
+Interpretation:
+This is a very abnormal 20 hour continuous video EEG monitoring due to burst -suppression pattern
+that is replaced by 1-1.5 Hz rhythmic generalized epileptiform discharges. These findings indicate
+severe diffuse background dysfunction, diffuse cortical irritability and in a post-anoxic injury patient
+indicate poor chance of meaningful neurological recovery.  These findings were conveyed to the
+neurology consult team.
+
+
+
+

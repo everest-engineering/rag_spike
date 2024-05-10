@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 51 year old right handed male admitted with several days of headache followed by chest pain, bilateral loss in vision.  The patient has a history of atrial fibrillation status post ablation, anxiety, bariatric surgery and a pacemaker.
+MEDICATIONS:  Percocet, Oxycodone, Morphine, Xanax, Lisinopril, Advair, Risperdone, ASA, Azithromycin, Lovenox
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow with a 7 Hz alpha rhythm.  There are occasional bursts of bilateral delta.  In the transition to drowsiness, there were some bursts of generalized delta.  In the initial sections of the record there is a somewhat asymmetric alpha rhythm, but this resolves over the course of the EEG. Photic stimulation elicits scant driving.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Slowing of the alpha rhythm.
+CLINICAL CORRELATION:  The background slowing may be associated with this patient's medications.  There was slight asymmetry in the alpha rhythm noted only in the initial sections of the record.  In a bedside EEG recording this could be an artifact.
+
+
+

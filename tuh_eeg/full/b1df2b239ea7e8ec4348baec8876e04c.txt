@@ -1,0 +1,37 @@
+History:	27 year old man who presented with generalized status epilepticus, currently
+remains intubated and poorly responsive.
+Medications:	CEFTRIAXONE, LORAZEPAM DRIP stopped on 12/28/2013 AM; Depakote
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 7 am on 12/28/2013 till 7 am on
+12/29/2013.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by attending
+neurologist.  The Gotman spike and seizure detection algorithm (Stellate) was used to screen the
+EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Early in the recording the background activity is
+characterized by diffuse low voltage delta activity with overriding diffuse 12-14 Hz activity with
+absence of the expected anterior to posterior gradient of frequencies.  As the recording progresses,
+theta activity becomes more prominent during the periods of arousals/ with stimulation.  No normal
+sleep architecture is present, however, periods of quiescence are evident.
+No focal slowing is present.  No clinical or electrographic seizures are present.
+There was reactivity to auditory, tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe early on; improves to moderate slowing as the recording
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL 19 hour continuous video EEG because of moderate-to-severe diffuse
+background slowing and absent alpha rhythm.  These findings are etiologically nonspecific
+indicators of moderate-to-severe diffuse cerebral dysfunction, that, in this patient, at least partially
+related to the medication effect.  As the recording progresses, the degree of diffuse slowing lessens.
+This is likely related to discontinuation of continuous Ativan infusion early in the recording epoch.
+Excess beta activity could be secondary to the medications, such as benzodiazepines or
+barbiturates.  No electrographic seizures are present.  These findings were conveyed to the primary
+
+

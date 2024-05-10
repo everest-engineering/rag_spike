@@ -1,0 +1,34 @@
+History:	46 year old man with right sided ICH and change in mental status.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR and no AP gradient.  There is right-to-left intrahemispheric asymmetry with paucity
+of faster frequencies over the right.  The background over the left consists of polymorphic 7-8 Hz
+theta activity posteriorly with superimposed continuous delta activity, most pronounced anteriorly.
+The background over the right consists of a mixture of theta<<delta activity admixed with brief
+bursts of polyspikes at variable amplitudes, occurring  primarily over the midtemporal- central-
+parietal region (example at ~2:48pm).  Frequency of these bursts increases and they gradually
+coalesce into rhythmic and organized, albeit poorly visible, runs (seizures).  Rhythmic delta with
+superimposed rhythmic spikes is seen over the right posterior quadrant as seizure progresses.  These
+events last on average 25-60 seconds and have no clear clinical correlate.  These events recur
+every 30-60 seconds.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate of ~120 bpm.
+Summary of Findings:
+Status epilepticus, continuous, right temporoparietal
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+Diffuse slowing, polymorphic, mild-to-moderate
+Disorganization, moderate
+Interpretation:
+This is an ABNORMAL 22-minutes EEG due to (1) mild-to-moderate diffuse slowing and
+disorganization; (2) continuous focal right hemispheric slowing and (3) focal right
+temporoparietal occipital status epilepticus. These findings are etiologically nonspecific indicators
+of mild-to-moderate diffuse cerebral dysfunction.  Focal right hemispheric slowing and focal
+continuous status epilepticus indicate focal structural cerebral dysfunction (right intracerebral
+hemorrhage in this case).  These findings were conveyed to the primary team at the time of the
+recording and patient was placed on continuous EEG monitoring.
+
+

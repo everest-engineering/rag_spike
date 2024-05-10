@@ -1,0 +1,30 @@
+History:	19 YR OLD FEMALE PRESENTS WITH H/O ONSET OF SZ AT AGE 3, NOW WITH
+BREAKTHROUGH SZ ON 1/1/14 DURING SLEEP, W/ TONGUE BITING.
+Medications:	none
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and Ekg
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  At times the background is somewhat disorganized and reveals excessive
+theta in wakefulness.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the right posterior temporal (T6) region during
+wakefulness, increasing during drowsiness.  Intermittent polymorphic delta activity is also present in
+the left temporal (T3) region independently during wakefulness, increasing during drowsiness.
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Diffuse slowing, polymorphic, frequent, mild diffuse, (excess theta in wakefulness)
+Focal slowing, polymorphic, frequent, right temporal, posterior
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because it reveals evidence of focal cerebral
+dysfunction independently in the right posterior temporal region and left midtemporal region in
+addition to mild diffuse cerebral dysfunction,  all of which are non-specific with regards to etiology.
+No clinical or electrographic seizures are present.
+
+

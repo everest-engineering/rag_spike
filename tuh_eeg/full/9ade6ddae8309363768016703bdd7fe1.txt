@@ -1,0 +1,47 @@
+History:	92 YO MALE FOUND DOWN BY FAMILY WITH LEFT ARM SHAKING AND
+DIFFICULTY SPEAKING, IN ED STOPPED WITH 1 MG ATIVAN. NO HX OF SZ.
+HEAD CT - RIGHT SUBCORTICAL LACUNAR INFARCT.
+Medications:	PT WILL BE GETTING A LOAD OF DILANTIN, KEPPRA, ATIVAN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ___ hours from ___ to ___.   Nursing-initiated event
+buttons were correlated with clinical behavior.  Graphical representation of the EEG was available
+at the bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the right hemisphere, with associated loss of
+faster frequencies.  Periodic lateralized epileptiform discharges (PLEDs) with a polyspike
+morphology are present in the T6 region at a rate of 08-1.5 Hz.  Frequent electrographic seizures
+arising from T6. The EEG revealed polyspikes and PLEDs at T6 with a large temporal and parietal
+field that would increase and slow down in frequency then stop lasting for 16 seconds to 2.5
+minutes.  At time the patient would exhibit left facial and shoulder twitching.
+Hyperventilation and photic stimulation were not performed.  HR was 60
+Summary of Findings:
+Status epilepticus, continuous, right temporal, posterior
+Focal slowing, polymorphic, continuous, right hemispheric, with associated loss of faster
+PLEDs (periodic lateralized epileptiform discharges), continuous, right temporal, posterior
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because  of frequent subclinical electrographic seizures arising from
+the right posterior temporal region.  These findings are indicative of an epileptogenic focus in this
+region, and are consistent with subclinical status epilepticus.  There is also focal slowing with loss of
+
+faster frequencies in the Right hemisphere and PLEDs in the right posterior temporal regions, this
+findings are indicative of focally destructive irritable acute lesion involving gray matter in this
+region.
+
+
+
+
+
+

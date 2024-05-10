@@ -1,0 +1,28 @@
+History:	68 year old woman status post PEA arrest twice, now comatose with intermittent
+episodes of facial grimacing and bilateral arm decerebrate posturing.
+Medications:	Versed on and off throughout the recording
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR, AP gradient and normal sleep architecture.  For the majority of the recording the
+background is severely attenuated with periodic diffuse monomorphic bursts of brief (~0.5 sec) slow
+delta activity that has triphasic appears.  These bursts occur every ~2.5 seconds and do not appear
+to be affected  by patient stimulation.  At the end of the recording, there is increase in diffuse
+muscle artifact and appears of more continuous diffuse polymorphic delta activity.  It is not known if
+versed drip is stopped at the end of the recording.
+No events of grimacing and posturing are captured during the recording epoch.
+Summary of Findings:
+Diffuse slowing, polymorphic, marked
+Attenuation, marked
+Event, not recorded
+Interpretation:
+This is a very ABNORMAL nearly 4 hours continuous video EEG due to marked background slowing
+and attenuation. These findings are etiologically nonspecific indicators of marked diffuse cerebral
+dysfunction.  Bursts of periodic activity that are seen throughout the majority of the recording could
+be artifactual given their highly periodic nature  No events of grimacing and posturing are captured
+during the recording epoch.  These findings were conveyed to the primary team at the time of the
+
+
+

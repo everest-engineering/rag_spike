@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 69-year-old woman with 3 previous craniotomies for malignant melanoma, now with episodes of staring and unresponsiveness.
+MEDICATIONS:  Keppra, Ativan, Neurontin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was noted to have bilateral craniotomies.
+DESCRIPTION OF THE RECORD:  The background EEG was extremely high amplitude, required adjustment of sensitivities.  The activity on the left is mildly disorganized with an alpha rhythm with 6-7 Hz.  Most prominent is arrhythmic delta activity in the right hemisphere with a breach rhythm.  Out of the breach rhythm, there are occasional sharp waves in the right central region, typically phase reversing at C4 with some variability including FP2 and spread to F8.  Arrhythmic delta activity is noted in the right hemisphere, shifting throughout the right hemisphere.  As the patient becomes drowsy, the epileptiform activity transitions typically to F4 from C4, but sometimes to T4.
+There are bursts of high amplitude chaotic delta from the right.  These are seen around the time of photic stimulation.  Photic stimulation does not activate the record.  Both at the start of the EEG and during photic stimulation there is some relatively prolonged delta bursts.  These were reviewed at slower paper speed and do not have a clear frequency evolution.  They were not clearly associated with clinical seizures.
+Heart rate:  60 BPM.
+IMPRESSION:  Markedly abnormal EEG due to:
+High amplitude irregular delta from the right hemisphere, sometimes appearing in paroxysmal bursts.
+Right central sharp waves with some variability, sometimes right frontal or even posterior temporal.
+CLINICAL CORRELATION:  No clear clinical seizures were identified, but this is a highly epileptiform EEG.  If there is any additional questions about possible seizures, an overnight recording may be of value.
+
+
+

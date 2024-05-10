@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 65-year-old woman with CNS metastasis, postoperative EEG.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed at the bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient has a recent craniotomy and had staples at S3, C3, and T5.  The patient is intubated, but responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetry.  In addition, the patient does demonstrate a difference between wakefulness and sleep.  In maximal wakefulness, the patient has eye opening and medium amplitude pattern with generous beta and theta.  Intermittent focal slowing is noted with shifting slowing, more typically in the left hemisphere.  Occasional sharp waves and spikes were noted in the left hemisphere, some of which are posterior in nature, but some of which are anterior in nature.
+Rare right central temporal sharp waves were noted.
+Heart rate 78 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+A superimposed focal slowing with relative disruption of faster frequency activity on the left compared to the right particularly in drowsiness.
+Epileptiform activity which includes sharp waves and spikes of variable amplitudes and fields of spread, but typically maximum in the left which may be mid-to-anterior temporal region, lower amplitude frontal, or occipitoparietal.
+Rare sharply contoured slowing or sharp waves at T4, C4.
+Clinical Correlation:  No seizures were recorded.  An awake and a sleep record can be identified.  This EEG continues to demonstrate epileptiform potential from the left hemisphere.
+__
+
+
+

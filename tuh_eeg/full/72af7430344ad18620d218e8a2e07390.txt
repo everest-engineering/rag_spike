@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  21 year old woman, status post motor cycle injury on the night of July 3, 2012, multiple skull fractures, intracerebral hemorrhage, traumatic brain injury, elevated ICP.
+MEDICATIONS:   Keppra, Midazolam, Fentanyl, Phenylephrine, Pentobarbital
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Pentobarbital is administered. The goal was to achieve a suppression pattern.
+DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrate a low voltage suppressed pattern with marked suppression in the posterior regions (the patient has scalp hematomas).  With the use of Pentobarbital a burst suppression pattern emerges at 3:40.  The overall pattern is relatively low voltage.  At 5:14 p.m. the EEG is a bit more continuous.  By 7:45 the EEG is more suppressed with intermittent bursts of activity, one burst at 10-15 seconds.  The overall burst pattern is one 3 second burst per 15 seconds.  The patient transitions to a suppressed EEG in the early morning hours of July 5, 2012.
+HR:    78 bpm
+LONG TERM MONITORING - # 12-84 – 07/05/2012
+INTRODUCTION:  Continuous digital video EEG monitored was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has multiple skull fractures.
+DESCRIPTION OF THE RECORD:  The background EEG is suppressed at midnight.  The EEG resumes at 10:00 a.m. with fentanyl, versed, pentobarbital, and vecuronium. The EEG remains suppressed with EKG pattern.  Stimulation and physical examination of the patient does not produce change in the EEG.
+HR:    120 bpm
+IMPRESSION/CLINICAL CORRELATION:   EEG monitoring during pentobarbital coma demonstrated a suppressed cerebral pattern.
+
+
+

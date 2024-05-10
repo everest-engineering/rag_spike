@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  36 year old right handed female presented with headache and transient unilateral paresthesias.
+MEDICATIONS:  ASA
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient reports an improvement in her unilateral numbness.
+DESCRIPTION OF THE RECORD:  Much of the record includes a symmetric pattern with a 10-Hz alpha rhythm, vertex waves, K-complexes, and spindles.  In the transition in and out of sleep, there is sometimes an asymmetry with an alpha rhythm that emerges on the right before the left.  More particularly, in the morning on the 3rd, there is some more clear-cut lower voltage focal slowing in the left occipital temporal region.  The sleep record for this individual is more symmetric on this day of recording.
+HR:    60 bpm
+IMPRESSION:  Continuous video EEG recording for this individual with intermittent unilateral numbness was remarkable for:
+The absence of sharp waves or spikes.
+Intermittent asymmetries, some of which were as anticipated with disruption of faster frequency activity in the left hemisphere and some theta.
+Asymmetric vertex waves which may be maximum in the left or right central region, as well as shifting asymmetries or lack of coherence with normal wave forms.
+CLINICAL CORRELATION:  Although this patient's clinical symptoms of unilateral numbness improved over time, the focal slowing on the left was a bit more prominent later on in the record. If her spells of unilateral hemisensory numbness are, in fact, epileptiform, scalp EEG has not been successful in capturing epileptiform activity and other techniques may be valuable.
+
+
+

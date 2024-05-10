@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is an 85-year-old woman with stroke and pulmonary embolus, evaluate for encephalopathy
+MEDICATIONS:  Aricept and tramadol.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was poorly cooperative.  Despite this, this is a technically acceptable EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates an awake pattern with diffuse background theta and significant movement and muscle artifact.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in this record.  Normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration, a followup study when the patient is a bit more cooperative may be considered.
+__________________________
+
+
+

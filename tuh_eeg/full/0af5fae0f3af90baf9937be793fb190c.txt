@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 32 year old male with abrupt onset left-sided chest pain and difficulty speaking and abnormal CSF with discitis.
+MEDICATIONS:  Valium, Vancomycin, Cefepime
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has been sedated with Valium.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a briefly awake pattern with a 9 Hz alpha rhythm followed by 12 Hz beta frequency activity.  There is an asymmetry noted.  There is disruption of faster frequency activity on the right compared to the left.  With arousal the alpha rhythm appears on the right but not on the left and as the recording continues, there is some posterior delta again a bit more on the right than the left.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent generalized background slowing.
+Intermittent focal slowing on the right characterized by disruption of faster frequency activity.
+CLINICAL CORRELATION:  These findings include and support a diffuse disturbance of cerebral function.  In addition, however, the disruption of faster frequency activity on the right suggests an evolving focal process in the right hemisphere.
+
+
+

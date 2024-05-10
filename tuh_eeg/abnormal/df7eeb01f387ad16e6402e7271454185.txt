@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  67 year old male status post code on November 17 with recurrent code or resuscitation from 11:52 a.m. until 13:16 now with temperature of 104.5. Pacemaker, laryngeal CA.
+MEDICATIONS:  Heparin, Solu-Medrol, Levophed, Vasopressin, Norepinephrine, Dopamine, Zosyn, Phenylephrine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is intubated and comatose. Despite the technical limitations, sections of the EEG are recorded with the ECS montage.
+DESCRIPTION OF THE RECORD:  The background EEG is essentially suppressed. The patient is examined and stimulated during the EEG. There are artifacts noted in the record including the EKG artifact. The technologist utilizes an EMG monitor. She also confirms the integrity of the electrodes. In addition to the ECS montage, the data can be reviewed using an average reference to eliminate some of the ICU background which includes substantial EKG artifact.
+HR:    114 bpm
+IMPRESSION:  Abnormal EEG due to:
+Absence of electrocerebral activity.
+CLINICAL CORRELATION:  In the appropriate clinical context, this EEG may be utilized in the brain death evaluation.
+
+
+

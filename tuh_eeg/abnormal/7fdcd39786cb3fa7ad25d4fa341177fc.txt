@@ -1,0 +1,43 @@
+CLINICAL HISTORY: 26 year old right handed woman with epilepsy, multiple different types of seizures occurring quite frequently, increasing over the past week.
+
+MEDICATIONS: Keppra.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there Is a 10Hz, 40 microvolt posterior dominant rhythm. Features of drowsiness include slow rolling eye movements followed by POSTS. Vertex waves are observed in stage I sleep. Stage II sleep was characterized by vertex waves and spindles. Hyperventilation is performed with good effort, producing an increase in amplitude of the background. Photic stimulation elicits bilateral driving.
+
+HR: 80 bpm
+
+IMPRESSION: Normal EEG.
+
+CLINICAL CORRELATION: These findings are identical to previous studies which include a 2007 prolonged EEG monitoring session which identified multiple behaviors without EEG correlate.
+
+LONG TERM MONITORING - 07/07/2010 - 10-68
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz alpha rhythm. Stage II sleep is characterized by vertex waves and spindles.
+
+Event:
+Time 21:39:05. the patient is awake, watching television. She is eating an apple. The EEG demonstrates a normal and awake pattern. The nurse comes in and tests the patient who is coherent. There are no epileptiform features noted.
+
+LONG TERM MONITORING - 07-08-2010 - 10-68
+
+INTRODUCTION: Continuous digital video EEG monitoring is performed in the unit using the standard 1 0-20 system of electrode placement with one-channel EKG. This section of the record includes sleep deprivation. The patient reports an aura characterized by headache and dizziness but has none of her spells with shaking.
+
+DESCRIPTION OF THE RECORD: The background EEG includes well-organized 10 Hz alpha rhythm. Stage II sleep includes vertex waves, K complexes, and spindles. The computerized seizure and spike detections are reviewed. No epileptiform features are identified at that time. The time samples in question were reviewed. No epileptiform findings were noted. In wakefulness, there is a 10 Hz alpha rhythm. Stage II sleep is characterized by vertex waves and spindles.
+
+Event:
+Time 21 :39:05. the patient is awake, watching television. She is eating an apple. The EEG demonstrates a normal and awake pattern. The nurse comes in and tests the patient who is coherent. There are no epileptiform features noted.
+
+HR: 60 to 80 bpm.
+
+IMPRESSION: This EEG monitoring is remarkable for:
+1. Two events characterized by an aura, one of which had a push-button and neither which had an EEG signature.
+2. Norma148-hour EEG without epileptiform activity.
+3. An inability to record one of her shaking spells.
+
+CLINICAL CORRELATION: A normal EEG was seen during her 2007 long-term monitoring period. Behaviors at that time were not associated with epileptiform activity. If capturing one of this patients shaking spells is needed, please consider an outpatient ambulatory EEG.
+
+
+
+
+

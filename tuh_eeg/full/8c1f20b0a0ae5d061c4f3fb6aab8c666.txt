@@ -1,0 +1,21 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+
+67 YR OLD MALE PRESENTS WITH H/O PA S/P MVA ( CAR T-BONED ) WITH PEA CODE AT OSH TIME UNKNOWN.
+PROPOFOL
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by severe diffuse attenuation with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+No focal slowing is present.  Frequent bursts were seen composed of diffuse disorganized theta and delta frequency discharges with some frequent frontal predominant sharply contoured paroxysms. Some of these sharp waves precede a periodic 0.7 hz diffuse muscle artifact.  It is difficult to clearly determine if all the discharges have a sharp element prior to the myogenic artifact. The burst last - 7 to 19 seconds.
+Some more clear spikes and polyspikes can also be seen during the bursts. On the video and during the discharges the patient exhibits sudden opening of the eyes and jerking of the body. These also appear to be elicited by tactile stimuli.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.  HR was 108 with frequent  PVC's
+Summary of Findings:
+Burst-suppression pattern, frequent diffuse Attenuation
+Interpretation:
+This is an ABNORMAL EEG because of severe diffuse background attenuation and absent alpha rhythm. These findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction, which may be due at least in part to medication effect..  The jerks seen are consistent of myoclonus, while a clear cortical correlate cannot be seen prior to all the jerks this pattern in the setting of hypoxic injury carries a very poor prognosis.
+.
+
+
+
+

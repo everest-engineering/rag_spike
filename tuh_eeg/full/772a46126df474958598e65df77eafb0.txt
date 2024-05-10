@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 81 year old male on an Ativan drip with rectal bleeding, acute on chronic renal insufficiency, pulmonary disease. Intermittent asterixis. Multiple severe medical problems.
+MEDICATIONS: Ativan, Tigecycline, Famotidine, Cardizem, Lasix, Synthroid
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive with left-sided asterixis and right-sided stiffening.
+DESCRIPTION OF THE RECORD: The EEG is low voltage. It is a mixture of 5 to 6 Hz theta and beta activity. Stimulation of the patient produces muscle artifact. It also produces some alpha frequency activity of 9 Hz. This is a little bit more prominent on the right than the left but is present bilaterally in the low voltage record. As the patient is examined, on occasion in awake stale a 9-Hz alpha rhythm is noted. This is quite fleeting and does appear to be symmetric.
+HR: 80 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing. Dynamic pattern with intermittent slowing and attenuation.
+CLINICAL CORRELATION: There are no epileptiform features noted. The background features described above may reflect this patient's medications, acute medical illness, and underlying cerebrovascular disease. In regard-to the asymmetric features noted on physical examination, neuro imaging may be of value.
+
+
+

@@ -1,0 +1,20 @@
+CLINICAL HISTORY:   82 year old male admitted last week with chest pain, status post cardiac catheterization.  Patient self-extubated and was re-intubated.  Now with tremor.  Rule out neuroleptic malignant syndrome.
+
+MEDICATIONS:  Bromocriptine, Dantrolene, Insulin, Plavix, Famotidine, ASA, Solu Medrol, Lovenox, Metoprolol, Meropenem, Vancomycin
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This was a bedside portable EEG.
+
+DESCRIPTION OF THE RECORD:  The background EEG includes generous beta.  There is some background theta and occasionally in the posterior regions some delta.  The EEG is significantly impacted by diffuse muscle tremor artifact, but when it drops out, there is a slow background with generous beta.  What may represent drowsiness is characterized by a decrease in muscle activity.
+
+HR:    120 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Generalized background slowing.
+2. Excess beta.
+
+CLINICAL CORRELATION:  No epileptiform features were identified.  The background slowing is a nonspecific finding and may be part of this patient's metabolic pattern or be medication related.
+
+
+__________________________
+
+

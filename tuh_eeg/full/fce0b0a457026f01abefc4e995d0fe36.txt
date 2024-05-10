@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 76 year old right handed woman with short term memory loss. An episode 2 years ago where she could not remember her family members which lasted for 2 days. This was associated with unilateral weakness.
+MEDICATIONS:  ASA, Metoprolol, Diovan
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 hertz alpha rhythm. There are rare bursts of isolated delta on the left or right. Features of drowsiness include scant background theta. As the patient becomes drowsy on rare occasions, it is a bit slower on the left than the right. Sleep is not sustained, however. Photic stimulation elicits bilateral driving.
+HR:   66 bpm
+IMPRESSION:  This EEG is within the limits.
+CLINICAL CORRELATION:  There are no epileptiform features. A subject of this age may have some shifting slowing. If there is concern about a process in the left hemisphere, a repeat tracing capturing more extensive sleep or sleep deprived EEG is suggested.
+
+
+

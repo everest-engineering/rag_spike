@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   67 year old woman with history of hypertension, thyroid and ovarian cancer, with an amnestic spell.
+MEDICATIONS:  Atenolol, Zyrtec, Synthroid, Atorvastatin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  Lambda is noted. The patient is quite drowsy.  With eye closure she drifts into stage I sleep with prominent POSTS.  There is a bit of sustained eye movement in early sleep.  Vertex waves, K-complexes, spindles, and POSTS are noted.  Transitions in and out of sleep are observed.  There was no snoring noted.   Hyperventilation produces an increase in amplitude of the background.  There is one isolated slow wave burst on the left during hyperventilation. Photic stimulation is performed as the patient is transitioning in and out of stage II sleep.  Despite this, there is a driving response.
+HR:    60 bpm
+IMPRESSION:  Normal EEG for an adult of this age.
+CLINICAL CORRELATION:  No epileptiform features were observed.  POSTS and lambda are normal phenomenon.  Rare snoring was noted.  Overall, the pattern
+described above is compatible with a sleep deficit as might be anticipated in a sleep deprived EEG.
+
+
+

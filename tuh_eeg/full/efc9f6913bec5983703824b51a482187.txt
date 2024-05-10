@@ -1,0 +1,39 @@
+History:	29 YR WOMAN WITH CHANGE IN EVENTS. PT NOW WITH EVENTS THAT SHE
+TALKS INCOHERENTLY, BUT NOT AWARE HAPPENS 1-2 DAY. PRIOR EEGS.
+Medications:	NONE
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+During maximal wakefulness, the background is characterized by a 25-40uV, 10Hz alpha rhythm,
+which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta
+activity and becomes more disorganized, and the alpha rhythm attenuates and becomes
+intermittent.  Vertex waves appear that are at times asymmetric, and frequent generalized bursts of
+high amplitude theta and delta activity are seen.  During stage 2 sleep, the record slows further to
+moderate voltage 2-4Hz activity, and sleep spindles and K complexes appear.
+Intermittent polymorphic delta activity is present in the left temporal and rarely in the right
+temporal regions during wakefulness, increasing during drowsiness.  Predominately during
+drowsiness, polymorphic high amplitude left temporal sharp waves appear with variable fields with
+phase reversal at F7, T3, T5 and at times develop into a pseudoperiodic pattern.  Rare right
+temporal sharp waves are also present with phase reversal F8 and T4.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  HR is 66.
+Summary of Findings:
+Sharp waves, frequent, bilateral (L>R) temporal
+Focal slowing, polymorphic, intermittent, left temporal
+Focal slowing, polymorphic, rare, right temporal
+Disorganization, intermittent, bilateral (L>R) hemispheric
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+over the left temporal region and rarely over the right temporal region.  These findings are
+indicative of a potentially epileptogenic foci in these regions.In addition there is  intermittent focal
+slowing in the left temporal region and rarely in the right temporal region.  These findings are
+indicative of focal cerebral dysfunction, which is etiologically non-specific.  No clinical or
+electrographic seizures are present.  In the setting of multiple prior EEG without clear epileptiform
+features, this record now supports a diagnosis of localization-related epilepsy, and clinical and neuroimaging correlation is recommended.
+
+
+

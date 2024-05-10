@@ -1,0 +1,16 @@
+EEG REPORT
+CLINICAL HISTORY: 25 year old male with tonic clonic seizures, history of cognitive impairment followed by a motor vehicle accident at age 10, craniotomy, hydrocephalus, PEG tube and others.
+MEDICATIONS: Depakene, Robitussin, Keppra, Lovenox, Levetiracetam. Prevacid, Fentanyl
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.
+There is an intrahemispheric asymmetry with relative attenuation of epileptiform activity on the right compared to the left. There are bursts of sharply contoured delta with paroxysmal bursts noted from the left, seen intermittently as the patient transitions in and out of sleep. Occasional left central sharp waves are noted. With arousal, there is a 6 Hz alpha rhythm noted on the left. Photic stimulation produces a great deal of movement artifact and scant driving.
+HR: 72-90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Asymmetry with a lower voltage, more suppressed pattern on the right.
+2. Slow pattern on the left.
+3. Occasional left central sharp waves.
+4. Occasional paroxysmal sharply contoured slowing on the left.
+
+
+
+

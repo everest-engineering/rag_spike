@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 70 year old right handed woman who suffered an MVA 09/24/2010, now with memory impairment, leg weakness and confusion.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 of EKG. Hyperventilation was not system of electrode placement with 1 channel performed, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 hertz, 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by an increase in beta. Photic stimulation elicits a bilateral driving response.
+HR: 72bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform features are observed. There is no significant focal slowing noted. Mild traumatic brain injury is not typically associated with an EEG signature. If additional information is needed, repeat study could be considered.
+
+
+
+

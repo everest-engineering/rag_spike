@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 72-year-old lung transplant recipient; hospitalized for rejection; now with anemia, fever, and generalized weakness.
+MEDICATIONS:  Solu-Medrol, labetalol, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically good study in a patient, who had difficulty cooperating with testing and there was a significant amount of muscle and movement artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a mixture of theta and delta.  Shifting asymmetries were noted.  There is a slight asymmetry with a bit more beta noted in the left central region relevant to the right.  The patient's episodes of agitation and screaming were without an epileptiform correlate.
+At the close of the record, the patient is a bit more cooperative and there is a glimpse of a 9 Hz posterior dominant rhythm noted bilaterally.
+Heart rate 105 b.p.m.
+IMPRESSION:  This is an abnormal 20-minute ICU record due to:
+Background slowing and poor organization.
+Shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a followup study when the patient is a bit more cooperative may be undertaken in search of epileptiform activity.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  52 year old right handed woman with right temporal lobectomy in 1984, currently seizure free.  Right temporal lobe skull defect.
+MEDICATIONS:  Lamictal
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.   This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  A breach rhythm is noted in the right mid to posterior temporal region. In addition, there is some craniotomy skull artifact, some lower voltage 2 to 4 Hz activity and on occasion, attenuation of the alpha rhythm in the right occipital temporal region. Vertex waves at post and spindles are observed in stage II sleep. Photic stimulation is performed although patient is awakening from sleep and does elicit a bilateral driving response.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Right posterior temporal focal slowing.
+Attenuation of alpha rhythm in the right occipital temporal region.
+CLINICAL CORRELATION:  The breach rhythm is an anticipated finding following
+craniotomy.  The focal slowing is congruent with the patient's previous surgery.  No sharp waves or spikes were identified.
+
+
+

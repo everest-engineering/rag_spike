@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 	80 year old woman readmitted with recurrent seizures. MEDICATIONS:  Keppra
+INTRODUCTION: Digital video EEG was performed in lab using standard  10-20 system of electrode placement with 1 channel EKG. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is reasonably well organized on the left with an 8.5 Hz alpha rhythm.  The right hemisphere demonstrates remarkable disruption of faster frequency activity and repetitive sharp waves, often occurring in trains in the right hemisphere with variable maximum including C4 but with a generous field of spread into the frontal, parietal, and temporal regions. The activity shows a small degree of buildup but no clinical seizures are noted.  Photic stimulation does not activate the record.	Drowsiness is characterized by an increase in slowing, particularly on the left.
+HR:	96 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Essentially continuous left central parietal sharp waves.
+CLINICAL CORRELATION:  No clinical seizures were recorded.  This EEG supports a highly irritative brain.
+
+
+

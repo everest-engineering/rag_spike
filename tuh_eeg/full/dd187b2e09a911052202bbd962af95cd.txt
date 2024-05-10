@@ -1,0 +1,33 @@
+History:	82 YR OLD FEMALE R HANDED WITH A FALL HEAD INJURY SEIZURE
+PRECAUTIONS,SDH. 50 CM HEAD
+Medications:	KEPPRA, METOPROLOL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which is best seen over the
+left hemisphere.   5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.
+Diffuse, centrally maximal sharp waves with triphasic morphology are present throughout the
+recording at 1 Hz.  These waveforms demonstrate an anterior to posterior phase lag and are
+centrally maximal.  They appear to improve with wakefulness and become more attenuated.
+Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases
+during drowsiness.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+appear diffusely, followed by sometimes asymmetric (best seen on the left)  vertex waves.  During
+stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and  some asymmetric
+Continuous polymorphic delta activity is present in the right hemisphere region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Attenuation, right hemispheric, with focal slowing.
+Triphasic waves, nearly continuous diffuse
+Diffuse slowing, polymorphic, continuous, mild
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent centrally-maximal
+triphasic morphology waves and mild diffuse background slowing.  These findings are indicative of
+a mild diffuse encephalopathy, which is etiologically nonspecific. The triphasic like discharges do
+not appear to evolve or have  an epileptic morphology.  In addition there is focal slowing and
+attenuation over the right hemisphere, this is consistent with the known subdural.
+
+

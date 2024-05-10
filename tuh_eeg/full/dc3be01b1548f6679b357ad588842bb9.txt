@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  68-year-old right-handed gentleman with hypertension, DM.  The patient had an episode of confusion with incontinence and FS=500.  Past history of staring spells. Recent Dx epilepsy.
+MEDICATIONS:  Keppra, Insulin, GBP, many others
+ROOM NUMBER:  550B.
+INTRODUCTION:  A 20-minute digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This is primarily a drowsy record.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow pattern with a glimpse of an 8 Hz alpha rhythm and excess beta and theta.  In this somewhat challenging record, there are shifting asymmetries with occasional delta noted from the left and an overall, lower voltage pattern observed on the right.  Wicket activity was noted in wakefulness.
+Heart Rate:  90 bpm.
+IMPRESSION:  Abnormal EEG due to,
+Generalized background slowing.
+Disorganization.
+Shifting asymmetries including rare delta on the left and a decrease in amplitude on the right.
+CLINICAL CORRELATION:  No epileptiform features were identified in this bedside recording, the amplitude asymmetry may be artifactual.  The infrequent left slowing may be correlated with imaging, but is an unremarkable finding in an adult of this age. PRIOR EEGS WERE NOT AVAILABLE FOR COMPARISON
+
+
+

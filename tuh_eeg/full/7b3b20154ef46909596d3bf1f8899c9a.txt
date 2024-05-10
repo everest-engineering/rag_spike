@@ -1,0 +1,14 @@
+CLINICAL 38 year old right handed female with a teaming disability, adult onset epilepsy, currently seizure-free since February 2011.
+
+MEDICATIONS: Keppra, Trileptal
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9.5 Hz 40 microvolt posterior dominant rhythm with a small amount of low voltage frontal central beta. There is a scant amount of frontal theta. There are occasional bursts of sharply contoured, somewhat irregular theta in the frontal regions noted bilaterally in relaxed wakefulness. Additional bursts are observed as the patient becomes drowsy, but those bursts are not quite as paroxysmal as the Isolated bursts in wakefulness with sharply contoured high amplitude frontal theta. Hyperventilation produces an increase in background slowing. Photic stimulation elicits scant driving.
+HR: 78bpm
+IMPRESSION: Abnormal EEG due to:
+1. Mild background disorganization and excess theta.
+2. Occasional frontal sharply contoured activity, which is identified bilaterally, a bit more prominent on the right.
+CLINICAL CORRELATION: These findings are similar to previous studies. The overall background and organization is however relatively improved. Previous EEGs have demonstrated right frontal sharp waves which are not quite as prominent today, but are still apparent within the paroxysmal bursts.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  73 year old woman admitted with left-sided weakness, slurred speech and episodes of twitching of left hand and twitching of the lips.  This is a follow-up EEG.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation is not performed, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is somewhat slow and disorganized from the left hemisphere.  The right hemisphere intermittently demonstrates significant disruption of faster frequency activity, sharply contoured delta in the right hemisphere and/or spikes or sharp waves in the right hemisphere typically maximum in the temporal regions with variability including T4 and T6.  The vast majority of sharp waves are maximum at T4.  A handful appear a little bit more discreetly at C4 and there is some variability in the sharp waves.  The sharp waves are at times complex starting at F8 and then ending a bit more mid to posterotemporally.  They persist into stage 2 sleep.  As the patient waxes in and out of sleep, some of the sharp waves are right frontal.   Photic stimulation does not significantly activate the record.  At the close of the record, the patient has some periodic slowing in the right hemisphere.
+IMPRESSION:  Abnormal EEG due to:
+Slowing in the left hemisphere.
+A remarkably vigorous epileptiform focus in the right hemisphere with variable maximum including T4, FT2/4 and even posterotemporal.
+Right periodic slowing.
+Intermittent to more continuous focal slowing on the right with disruption of faster frequency activity.
+CLINICAL CORRELATION:  This EEG was compared to a previous study.  The epileptiform activity is no longer a continuous PLED-like pattern, but it is quite prominent.  This continues to supports an ongoing, highly irritative focus.  It is markedly improved, but it remains quite abnormal.
+
+
+

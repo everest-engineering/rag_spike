@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 18 year old right handed woman with a first ever tonic clonic seizure. This seizure began with staring followed by tonic clonic activity, incontinence and 30 minutes of postictal confusion.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The initial sections of much of the waking record unfortunately includes head rocking artifact in the posterior regions. There is a 10.5 hertz alpha rhythm which is higher amplitude on the right than the left and posterior activity is always higher amplitude on the right than the left in this individual. Brief stage II sleep includes vertex waves, spindles and POSTS. Photic stimulation elicits a driving response, but the driving response is somewhat asymmetric, more vigorous on the left compared to the right. In addition, there is also a suggestion of a subharmonic driving response elicited on the left more so than the right.
+HR: 66 bpm
+IMPRESSION: Equivocally abnormal EEG due to:
+1. Asymmetric photic stimulation described above.
+CLINICAL CORRELATION: The head rocking artifact is in the same region as the area of potential abnormality. A somewhat asymmetric photic stimulation is not necessarily pathological and some of the features that this patient demonstrated are compatible with normal variant. To more completely evaluate her epilepsy, a follow up study with more extended sleep is suggested.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 51 year old woman status post PEA code on the 18th for 20 minutes now with trembling. History of antiphospholipid syndrome and psychosis.
+MEDICATIONS: Zyprexa, Celexa, Alendronate, Citalopram, Insulin, Metoprolol, Bactrim, Protonix, Prednisone, Vanco, Cefepime, Morphine, Ativan, Argatroban
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is somnolent.
+DESCRIPTION OF THE RECORD: The background EEG includes primarily a 5-6 Hz theta frequency background. There is continuous muscle artifact which obscures significant portions of the record on the left. Stimulation of the patient produces an increase in muscle artifact.
+HR: 126 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+CLINICAL CORRELATION: If this patient's mental status does not improve, a follow-up study, when the patient is not so tremulous, capturing wakefulness and sleep may be valuable.
+
+
+

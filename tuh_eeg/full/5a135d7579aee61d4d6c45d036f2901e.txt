@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  The patient is a 59-year-old woman with a past medical history of stroke, end-stage renal disease on dialysis, and diabetes, who now presents with slurred speech and fall.
+MEDICATIONS:  Aspirin, hydralazine, atorvastatin, etc.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, there is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of a mixture of polymorphic moderate amplitude theta and delta activity admixed with occasional triphasic waveforms.  No normal sleep architecture is captured despite periods of documented sleep.  Continuous polymorphic theta and delta activity is captured over the right hemisphere, most pronounced over the right temporoparietal region.  Hyperventilation and photic stimulation were not performed.  A single EKG lead demonstrates a heart rate up to 100 beats a minute, as well as a possible atrial flutter.
+FINDINGS:
+Moderate diffuse slowing and disorganization.
+Focal right hemispheric slowing, most pronounced over the right temporoparietal region.
+Occasional triphasic waveforms.
+No clear epileptiform discharges.
+possibly a flutter and heart rate up to 100 BPM
+IMPRESSION:  This is a very abnormal awake and asleep 24-minute EEG due to moderate diffuse slowing, disorganization, and focal right hemispheric slowing that is most pronounced over the right temporoparietal region.  Diffuse slowing indicates etiologically nonspecific moderate diffuse cerebral dysfunction that in this case could possibly be toxic metabolic in etiology.  Triphasic wave forms are found in various forms of encephalopathies.  Focal right hemispheric slowing that is most pronounced over the
+right temporoparietal region could be structural in etiology and could indicate underlying focal cerebral dysfunction.  There were no clear epileptiform discharges.
+
+
+

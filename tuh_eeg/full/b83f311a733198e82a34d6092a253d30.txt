@@ -1,0 +1,20 @@
+HISTORY: 88 year old woman status post left craniotomy for a hemorrhagic stroke.
+Medications:	Keppra, started on Propofol drip and received vecuronium during the study.
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Description:
+For the majority of the recording (- 50 minutes) there severe EMG artifact that affects significantly all but left parasagittal leads and makes interpretation of the majority of the recording poorly interpretable. EMG artifact resolves after propofol and vecuronium administration.  There is no PDR and no AP gradient.
+There is right-to-left intrahemispheric asymmetry.  The background over the right hemisphere consists of attenuated polymorphic delta activity with some frontal theta activity.  The background over the left hemisphere consists of polymorphic moderate amplitude theta and delta activity anteriorly with attenuated delta activity posteriorly.  No normal sleep architecture is present.
+Once EMG artifact resolves, clear focal left anterior quadrant electrographic seizures become apparent. They vary in duration (from -30-seconds to 3 minutes) and are nearly continuous, thus representing status epilepticus.  Seizure onset is often unclear.  They appear to start with broad rhythmic -0.75 Hz poorly formed left anterior sharp waves that evolve into irregular theta activity.  It gradually evolves into monomorphic low-to-moderate amplitude sleep-spindle appearing   -12 Hz rhythmic activity, maximal.over Fp1, F7, T3 and C3 electrodes.  There is no clear clinical correlate (patient is paralyzed).
+Hyperventilation and photic stimulation were not performed.  HR 78.
+Summary of Findings:
+Status epilepticus, left anterior
+Artifact, EMG, severe, present for -50 minutes of the recording Diffuse slowing, polymorphic, moderate-to-severe
+Focal slowing, polymorphic, continuous, moderate, left anterior Breach artifact, left anterior
+Interpretation:
+This is a TECHNICALLY LIMITED EEG because of abundant EMG for the majority of the recording that makes interpretation unreliable during that period. This is a very abnormal 1 hour continuous portable EEG due to moderate-to-severe diffuse slowing, focal left anterior slowing and focal left anterior status epilepticus that are observed once EMG artifact resolves with propofol and vecuronium  administration. Diffuse slowing indicates etiologically non-specific diffuse cerebral dysfunction.   Left anterior quadrant focal slowing and status epilepticus indicate focal cerebral dysfunction, likely structural in etiology.
+Breach artifact indicates skull defect.  These findings were conveyed to the neurology consult team Patient was placed on continuous long-term EEG monitoring.
+
+
+

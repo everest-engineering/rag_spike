@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 31-year-old male with new onset history of seizure-like activity versus syncope.  He had 2 episodes of loss of consciousness preceded by lightheadedness and blurred vision.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm was 9-10 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity, which is distributed symmetrically.  Drowsiness is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact.  Hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate was 60 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording, capturing wakefulness through drowsiness.  No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are a clinical, a repeat EEG capturing deeper stages of sleep may be helpful.
+
+
+

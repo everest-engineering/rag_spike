@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 28 year old right handed gentleman with a past medical history of ruptured cerebral aneurysm November 2010, status post left temporal surgery, now experiencing episodes where he loses time. Nonsensical speech, compulsive behaviors.
+MEDICATIONS: Keppra, Colace, Famotidine, Levetiracetam
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is relatively low voltage bilaterally but there is an asymmetry. The activity is a little higher amplitude on the left compared to the right. There is a definable posterior dominant rhythm which is approximately 5 Hz to 6 Hz with some 2 Hz activity and some 8 Hz activity also mixed in. There is asymmetry with a bit more delta identified on the left. Hyperventilation is performed early in the record and accentuates the focal delta from the left. Features of drowsiness include rhythmic delta as well as vertex waves. The vertex waves are again a little asymmetric. Photic stimulation elicits scant driving more so on the right than on the left.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a lower voltage somewhat slow pattern.
+2. Slow alpha rhythm.
+3. An asymmetry with more rhythmic slowing on the left.
+4. An asymmetric photic responsive with better driving observed a bit more prominently observed from the right.
+CLINICAL CORRELATION: The breech rhythm is an anticipated findings following craniotomy. There is both generalized background slowing and focal slowing. These findings may be correlated with imaging. There was no epileptiform activity.
+
+
+

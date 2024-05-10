@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 83 year old woman with right brain lesion, confusion, and seizure.
+
+MEDICATIONS: Ativan, Versed, Etomidate, Labetalol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is significant movement artifact in the record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates continuous,
+mixed frequency pattern rich in alpha, beta, and theta frequency activity. Despite the significant muscle artifact, there is occasional focal 2-4 Hz activity in the right hemisphere, particularly central temporal and posterior regions. The overall record includes generous fast activity and muscle artifact.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal pattern with mixed frequency background rich in beta and theta frequency activity.
+2. Despite the limitations as described above, occasional focal slowing on the right.
+
+CLINICAL CORRELATION: No epileptiform features were identified, but the
+artifact described above may preclude such. A repeat study when the patient is extubated may be of value.
+
+
+

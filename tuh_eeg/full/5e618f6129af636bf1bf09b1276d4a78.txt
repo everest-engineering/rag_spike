@@ -1,0 +1,34 @@
+History:	An unknown female admitted with a large intracerebral hemorrhage.
+Medications:	Keppra, Versed
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, lethargic
+Description:
+There is right-to-left asymmetry with slower waveforms over the left.  The background over the right
+consists of polymorphic poorly modulated 7-8 Hz theta activity posteriorly, excess polymorphic theta
+and delta activity and poor AP gradient.  The background over the left lacks PDR and AP gradient.
+The background over the left consists of a mixture of polymorphic theta and delta activity with
+delta activity most pronounced posteriorly.  Additionally, frequent, left posterior quadrant spikes and
+polyspikes are captured.  At times they become rhythmic, with a repetition rate of ~ 1 Hz (example,
+~10:23 am).  Maximal scalp negativity occurs over T5, P3 and O1 leads.  Sleep spindles and K-
+complexes are captured.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Spikes and sharp waves, frequent, left posterior, and polyspikes, sometimes periodic
+Diffuse slowing, polymorphic, mild-to-moderate
+No electrographic seizures
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, especially over the posterior
+Interpretation:
+This is a very abnormal awake and asleep 24-minute portable EEG due to (1) mild-to-moderate
+diffuse slowing; (2) focal continuous moderate left hemispheric slowing that is especially
+pronounced over the posterior quadrant and (3) frequent left posterior quadrant epileptiform
+discharges that are frequently accompanied by polyspikes and occasionally become periodic (at ~ 1
+Hz).  Diffuse slowing is indicative of mild to moderate diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Continuous focal slowing a focal structural lesion over the left.  There is a
+highly epileptogenic focus over the left posterior quadrant.  These findings were conveyed to the
+primary team. Patient will be placed on continuous EEG monitoring.
+
+
+
+

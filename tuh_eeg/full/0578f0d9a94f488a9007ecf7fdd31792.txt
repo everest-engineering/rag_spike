@@ -1,0 +1,29 @@
+History:	70 YR MALE WITH CC OF SEIZURES. S/P ROBOTIC MV REPAIR 10/2013.
+Medications:	DILANTIN, COUMADIN, CRESTOR
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 9 Hz posterior dominant rhythm, which
+attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  Excess diffuse 7Hz activity is present throughout the
+recording and increases during drowsiness.  During brief drowsiness, the alpha rhythm attenuates,
+and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Intermittent polymorphic delta activity is present in the right anterior and mid-temporal region
+during wakefulness, increasing during drowsiness.  There is amplitude attenuation over the right
+hemisphere most pronounced in posterior quadrant.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  HR
+Summary of Findings:
+Diffuse slowing, rhythmic, mild, bilateral diffuse
+Focal slowing, polymorphic, intermittent, mild, right temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing.  These
+findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction. As well as
+Intermittent focal slowing in the right temporal region.  This finding is indicative of focal cerebral
+dysfunction, which is etiologically non-specific, but possibly structural in origin.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,14 @@
+EEG REPORT
+CLINICAL HISTORY: 29 year old right handed male with a past gunshot wound to the head, left encephalomalacia, parietal lobe injury, now with recurrent seizures after the patient stopped his medications.
+MEDICATIONS: Keppra, Lamictal, Lovenox
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.3 Hz alpha rhythm present bilaterally but somewhat disrupted on the left compared to the right. A mu rhythm is also noted in the central regions, although specific testing is not performed. Focal slowing is noted from the left hemisphere with disruption of faster frequency activity and the presence of theta activity in the left mid to posterior quadrant. Hyperventilation accentuates the focal slowing. Vertex waves, spindles and POSTS are observed in stage II sleep. As the patient transitions to sleep, both head rocking artifact and focal delta are noted in the left posterior quadrant. Photic stimulation is performed while the patient is drifting in and out of sleep. Scant driving response is seen on the
+right.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing from the left posterior quadrant with disruption of faster frequency activity.
+CLINICAL CORRELATION: This EEG supports a structural process in the left posterior quadrant involving both gray and white matter. No epileptiform features were observed. These findings are similar to previous EEGs from the past 7 years.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 51-year-old gentleman with stroke, left hemiparesis, and headaches.  Patient fell 1 week ago, and was incontinent.
+MEDICATIONS:  TOPAMAX, PLAVIX, NEURONTIN
+INTRODUCTION:  A 20minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically acceptable EEG with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  The patient is drowsy throughout much of the EEG and the overall EEG is relatively low voltage.  In maximal wakefulness, there is a 9.7 Hz posterior dominant rhythm.  On rare occasions in the transition to sleep, there are infrequent isolated theta or delta waves.  In stage 2 sleep, symmetric vertex waves, K complexes, and spindles were noted.  Muscle and other evidence of arousal was noted in stage 2 sleep.
+Photic stimulation did elicit a driving response.  Hyperventilation was deferred.
+Heart rate:  66 bpm.
+IMPRESSION:  This EEG is remarkable for rare bursts of slowing from the right hemisphere in the transition to drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The subtle features described above may be correlated with imaging.  There were no epileptiform features noted today.
+
+
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 69-year-old male with a history of hemorrhagic CNS metastasis, admitted with a breakthrough seizure.
+MEDICATIONS:  Keppra and Protonix.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively somnolent.  The patient appears to have had previous craniotomy.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the EEG is markedly abnormal with a prominent asymmetry.  The left hemisphere demonstrates a low to intermediate theta pattern with frequent eye blinks and some lambda.  The right hemisphere demonstrates a prominent breach rhythm with a high amplitude, chaotic polyphasic sharp wave in the right hemisphere maximum mid to posterior temporal region.  Intermittent chewing was noted but was not associated with epileptiform activity.  The epileptiform activity occurs in bursts.  Tactile stimulation of the patient did not activate the epileptiform activity.  This epileptiform activity was superimposed on a lower voltage, featureless pattern, particularly in the temporal regions with a lower voltage slow delta and beta pattern in the remaining parts of the right hemisphere.
+When stimulated, the patient was intermittently agitated, and on one occasion with tactile stimulation, the epileptiform activity did seem to be responsive to tactile stimulation.  The bursts were quite prominent, but did not clearly evolve.  Clusters of high amplitude spike and slow wave and polyspike complexes were associated with background attenuation.
+Heart rate 90 BPM.
+IMPRESSION:  This is an abnormal due to:
+A highly epileptogenic, high amplitude focus in the right hemisphere with a general field of spread.
+Sharp waves that occur in bursts with some periodicity.
+A featureless pattern on the right.
+A low voltage somewhat slow pattern on the left.
+CLINICAL CORRELATION:  This EEG demonstrates a very epileptiform pattern.  Although no clinical seizures were recorded, given the periodic nature of the epileptiform activity described above, subclinical seizures are a concern.
+
+
+

@@ -1,0 +1,15 @@
+DATE OF STUDY:  06/21/2015 to 06/22/2015
+CLINICAL HISTORY:  This is a 21-year-old male with recent traumatic brain injury, admitted to the hospital with recurrent spells, transferred to Neurology from Cardiology after an abrupt episode with loss of consciousness was associated with tongue biting.
+MEDICATIONS:  Depakote, Dilantin, Ativan, Keppra.
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  There were no reports of clinical seizures noted during the recording.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with generous low voltage, frontocentral beta activity.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTs.  There is a suggestion of deeper stages of sleep with higher amplitude 2 Hz delta.  Possible REM sleep was noted in the early morning hours, although specific eye monitors and muscle monitors were not utilized to confirm this.
+Seizures: none
+Epileptiform discharges: none
+Heart rate:  132 bpm.
+IMPRESSION:  This 1st day of continuous video EEG monitoring is remarkable for:
+No epileptiform activity.
+No events none.
+CLINICAL CORRELATION:  Given the gravity of this patient's spells, EEG monitoring will continue.
+
+
+

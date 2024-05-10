@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 50-year-old woman, admitted 7 days ago with recurrent falls, encephalopathy, and delirium.
+MEDICATIONS:  Wellbutrin, Risperdal, Ativan, albuterol, and Benadryl.
+INTRODUCTION:  A 20-minute digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a bedside portable EEG in a patient who had difficulty cooperating with the test.  Most impedances were under 5 kilohms.  The patient was crying and had difficulty sitting still during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow with a rhythmic, continuous theta frequency pattern with frequent eye blink artifacts.  Very brief drowsiness was characterized by a small amount of shifting, slowing, and a handful of triphasic waves.
+Heart rate 108 bpm.
+IMPRESSION:  Abnormal EEG for an adult of this age due to:
+Generalized background slowing.
+Shifting and slowing.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified.  The background slowing as well as the rhythmic slowing are nonspecific findings, but are most compatible with toxic or metabolic encephalopathy.  If epilepsy is an important consideration, a more prolonged study when the patient is able to cooperate is suggested.
+
+
+
+

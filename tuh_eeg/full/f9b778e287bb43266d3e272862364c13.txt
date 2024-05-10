@@ -1,0 +1,40 @@
+History:	62 YO MALE P/W SZ WHILE SITTING IN CHAIR WITH GENERALIZED SHAKING
+LASTING 1-2 MIN, BLOOD COMING FROM MOUTH. SINCE SZ PT HAS BEEN
+CONFUSED. . HX OF HLD, CVA, HTN, AND SZ (2010 AND 2014).
+Medications:	KEPPRA, SEROQUEL
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 16 hours from 12/04/2015 to 12/05/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily in detail by the attending neurologist  for detection of seizures and changes in
+EEG patterns.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording and increases during drowsiness.  During drowsiness, the background slows to central
+theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz
+activity, and symmetric sleep spindles and K complexes appear.
+Very frequent polymorphic delta activity is present in the left temporal region with a large varying
+field from anterior to posterior during wakefulness, increasing during drowsiness.  No epileptiform
+discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation are not performed.  Hr was 66
+Summary of Findings:
+Focal slowing, polymorphic, nearly continuous, left temporal
+Diffuse slowing, polymorphic, continuous, mild diffuse
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of very frequent intermittent focal
+slowing in the left temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific. In addition there is mild  diffuse background slowing.  This finding is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  65 year old right handed woman with chest pain radiating to the left arm, leg and jaw and then a syncopal event with loss of consciousness and a bit of shaking.
+MEDICATIONS:  ASA, Zocor, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with channel of EKG.  Photic stimulation was performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.7 Hz alpha rhythm.  An alpha subharmonic is noted.  Wicket activity is noted in the right or left temporal regions.  Drowsiness is characterized by an increase in beta.  The patient transitioned in and out of stage 1 sleep with occasional POSTs.  Photic stimulation elicits a vigorous driving response with harmonic and supraharmonic driving.  Photic driving elicits a vigorous driving response at all flash frequencies with supra and subharmonic driving.
+HR:    60 bpm and occasionally irregular
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This EEG demonstrated multiple, unusual, but normal variants.  No epileptiform features were identified.
+__________________________
+
+
+

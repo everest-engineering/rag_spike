@@ -1,0 +1,42 @@
+AGE: 69 y.o.
+SEX: male
+DATE OF STUDY: 11/24/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and asleep EEG # : 15-1727
+HISTORY:
+69 y.o. male referred for routine EEG for assessment of mental status change. He was found down on the
+porch and has no memory of how long he was there. Of note, he has a newly diagnosed brain tumor.
+MEDICATIONS: Dexamethasone, insulin SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is continuous and asymmetric.
+The left hemisphere is characterized by a mixture of alpha and theta frequencies with a posterior dominant rhythm of 7.5-8 Hz, with fair organization.
+The right hemisphere is characterized by delta activity with attenuated faster frequencies, with poor organization, and no posterior dominant rhythm.
+During drowsiness, slow rolling eye movements, attenuation and
+fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+There is mild generalized slowing is present.
+There is continuous right fronto-temporal polymorphic slowing. There is occasional left temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+Occasional (1/hour to <1 min) left fronto-temporal (F3 > Fpl/Fz >
+F7) sharp-and-slow-wave complexes are present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 54 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG due to:
+Mild generalized slowing and suboptimal organization
+Continuous right fronto-temporal polymorphic slowing
+Occasional left temporal polymorphic slowing
+Occasional (1/hour to <1 min) left fronto-temporal (F3 > Fpl/Fz
+>  F7) sharp-and-slow-wave complexes
+CLINICAL CORRELATION:
+These findings indicate the presence of right fronto-temporal cerebral dysfunction (likely structural in etiology), left temporal cerebral dysfunction (structural or physiologic in origin), superimposed on mild diffuse cerebral dysfunction, and left fronto-temporal epileptogenic potentials.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  41 year old right handed male with epilepsy, seizure free.
+MEDICATIONS:  Topamax.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 hertz alpha rhythm with a small amount of low voltage frontocentral beta activity. Abundant stage II sleep includes vertex, K complexes, spindles and POSTS. On one occasion in hyperventilation, there is a single burst of shifting slowing. Hyperventilation is performed with good effort producing scant slowing and an increase in amplitude of the background. Photic stimulation is performed while the patient is in stage II sleep and does not clearly activate the record.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were observed. A normal EEG does not exclude a diagnosis of epilepsy. This EEG may be compared to 2004 EEG as well as other prior studies.
+__________________________
+
+
+

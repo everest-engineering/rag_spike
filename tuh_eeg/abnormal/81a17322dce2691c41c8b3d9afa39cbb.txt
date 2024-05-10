@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 55 year old right handed male bus driver with a syncopal spell and many cardiac problems. Obstructive sleep apnea.
+
+MEDICATIONS: Singulair, Diovan, Synthroid, Crestor.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and an asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11-Hz alpha rhythm, which is higher amplitude on the left than the right. In drowsiness and hyperventilation there is a very small amount of shifting temporal theta. Other features of drowsiness include slow rolling eye movements and an increase in beta. Photic stimulation elicits a subtle driving response.
+HR: 78 bpm
+IMPRESSION: Very mildly abnormal EEG due to:
+1. A small amount of shifting temporal slowing.
+CLINICAL CORRELATION: The theta described above can be seen in the context of cerebrovascular disease. The amplitude asymmetry can be seen in normals and is not clinically significant.
+
+
+

@@ -1,0 +1,21 @@
+History:	70 YR OLD FEMALE PRESENTS WITH H/O DROP ATTACKS vs sz x 3 WEEKS SOME EVENTS WITH LOC SOME WITHOUT
+Medications:	No AEDs Sedation:
+EEG Type: Technique:
+Continuous (input, video), 24 hrs
+International 10-20 System; standard 21 electrodes with T1ff2 electrodes and EKG electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for16 hours from 06/04/2015 to 06/05/2015.  Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	22
+Description of pushbutton events See below.
+Description:
+Waking background is characterized by a 25-40uV, 10hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present. No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.   Multiple episodes of bilateral upper extremity jerks for a second seen on video with no EEG correlate.
+Summary of Findings:
+No epileptiform discharges Excessive fast
+Interpretation:
+This is a NORMAL 16 hrs EEG, awake, drowsy, and asleep. The jerks describe above had no EEG correlate. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+

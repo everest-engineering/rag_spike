@@ -1,0 +1,35 @@
+AGE: 50 y.o.
+SEX: male
+DATE OF STUDY: 11/30/2015 RECORDING ENVIRONMENT : ICU
+EEG TYPE: 40-60 min, asleep only EEG #: 15-1744
+HISTORY:
+50 y.o. male with a history of ESRD, HIV, HTN, CAD, with altered mental status and gram positive cocci in CSF, referred for routine EEG for assessment of mental status change.
+MEDICATIONS : INSULIN, HYDRALAZINE, KAYEXALATE, SORBITOL, AMPICILLIN , CEFEPIME, VANCOMYCIN, ACYCLOVIR, MIDAZOLAM, ATORVASTATIN , HEPARIN, DEXAMETHASONE, FAMOTIDINE
+SEDATION : propofol drip on hold as of 11/30/2015 15:49; midazolam as per above med list
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the, International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND :
+The record consists predominantly of a burst suppression pattern . Bursts consist of 1-3 seconds of disorganized alpha and theta.
+Periods of suppression last 4-7 seconds.
+Occasionally the record becomes discontinuous, with disorganized medium to low amplitude theta, alpha, and delta.
+There is no clear reactivity, state change or variability to noxious stimulation.
+There is severe generalized slowing. There is no focal slowing.
+EPILEPTIFORM ACTIVITY:
+1. There is a single sharp-and-slow wave over the right temporal region (T2 max) .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 90 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal asleep only routine EEG due to:
+Severe diffuse slowing, with burst suppression pattern and lack of reactivity
+A single sharp-and-slow wave over the right temporal region (T2 max) .
+CLINICAL CORRELATION:
+These findings indicate the presence of severe diffuse cerebral dysfunction. These findings may in part be due to a medication effect, especially in the setting of renal dysfunction .
+A single sharp-and-slow wave over the right temporal region (T2 max) is of unclear significance.
+
+
+

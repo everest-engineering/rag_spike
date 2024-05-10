@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 55-year-old transplant patient, admitted on 1/13. Traumatic Subarachnoid hemorrhage 1/7; past history of stroke, atrial fibrillation and surgery.
+MEDICATIONS:  Folate, Keppra, others.
+INTRODUCTION:  Digital video EEG is performed in the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  This is a bedside record.  Hyperventilation and photic stimulation were not possible.  Previous EEGs were not available for comparison.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffuse theta pattern.  Eye blink artifact and lateral rectus eye movement artifacts were noted.
+Intermittent agitation or muscle artifact was noted as the patient moved about.  There are rare bursts of shifting arrhythmic delta.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  The features described above are nonspecific and support a diffuse disturbance of cerebral function affecting both gray and white matter.  A toxic or metabolic encephalopathy or other bihemispheric disturbance could produce this pattern.  If epilepsy is an important consideration, a repeat tracing may be of value.
+
+
+

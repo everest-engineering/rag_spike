@@ -1,0 +1,37 @@
+History:	64 year old man who presents with several days of confusion.
+Medications:	Ativan, Dilantin
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+There is no clear PDR or AP gradient.  The background consists of low amplitude diffuse beta
+activity with underriding slow delta activity.  Delta activity is more pronounced over the right
+hemisphere, and there is paucity of faster frequencies over the right hemisphere, especially over
+the middle and posterior quadrants.  Bilateral sleep spindles are captured.  They are well less
+Two focal right anterior temporal seizures are captured.  They last ~ 38 seconds and 60 seconds.
+There is no obvious clinical correlate.  Seizures start with low amplitude rhythmic 8 Hz activity that
+is best visualized over the T2/T4 electrode (on a bipolar montage).  This activity increases in
+amplitude, decreases to frequency to ~ 4 Hz and spreads throughout the right temporal- frontal
+region.  In seizure #2, rhythmic 4 Hz activity further evolves into 2 Hz rhythmic moderate-to-high
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Seizure, two, right temporal, anterior, lasting 38 sec and 60 sec
+Focal slowing, polymorphic, continuous, right hemispheric
+Asymmetry, sleep architecture, better formed over the left
+Beta, excessive
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is a very abnormal 28 minute portable awake and asleep EEG due to moderate diffuse
+slowing, continuous focal right hemispheric slowing and 2 focal right anterior temporal seizures that
+do not have a clear clinical correlate. Diffuse slowing is indicative of moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing, focal seizures and poorly
+visualized sleep architecture over the right indicate focal structural lesion over the right
+hemisphere, specifically over the temporal region.  These findings were conveyed to the primary
+team at the time of the recording and patient was placed on the continuous EEG monitoring.
+
+
+
+
+
+

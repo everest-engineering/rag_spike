@@ -1,0 +1,27 @@
+History:	55 YR MALE WITH CHANGE IN MS, PT HAS CHF ON LVAD.  PMHX: CAD S/P RCA
+STENT 2011, DM, HYPOTHYROID, SZS. AFIB (SAH FALL 1/7/14 (COUMADIN
+FOR AFIB/AVR), OSA, CVA 2000.
+Medications:	Risperdal, Keppra, Synthroid, Coumadin, ASA, Pravastatin, Protonix, ISS, Vitamins
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a poorly-formed, fragmented posterior dominant rhythm of
+8 Hz, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontal regions.  Excess 6-7 Hz theta activity with diffuse
+distribution is noted during wakefulness.  During brief drowsiness, the alpha rhythm attenuates,
+and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Occasional polymorphic theta activity is present in the left temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 90 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Focal slowing, polymorphic, occasional, left temporal
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing and slow alpha rhythm.  These
+findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.  Occasional
+focal slowing in the left temporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.
+
+

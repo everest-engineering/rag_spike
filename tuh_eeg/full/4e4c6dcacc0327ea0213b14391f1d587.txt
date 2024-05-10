@@ -1,0 +1,40 @@
+AGE: 29 y.o.
+SEX: male
+DATE OF STUDY: 11/19/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, drowsy and asleep EEG #: 15-1701
+HISTORY:
+29 y.o. male with a history of epilepsy referred for routine EEG for : BORN WITHCP, Chiari malformation with a
+dysmorphic appearance to the ventricular system	and VP SHUNT ON HIS LEFT SIDE. PT HAS A HX OF SZ. LAST SZ WAS A COUPLE YEARS AGO. PT HAD A ?  SZ THIS MONTH, HE WAS STARING OFF WITH SUBTLE SHAKING.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+levetiracetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily.
+ibuprofen (ADVIL,MOTRIN) 400 mg tablet, Take 400 mg by mouth every 6 hours as needed.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta
+activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive	Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness , slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.	There is some shifting slowing noted in the posterior regions in drowsiness
+No generalized slowing is present.	No significant focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed .
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any abnormalities.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION :
+This is a normal awake and drowsy routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION :
+This study is within the range of normal.	Stage II sleep was not obtained , which can be helpful in identification of epileptiform features
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+

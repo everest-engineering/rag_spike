@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 41 year old right handed male with a history of epilepsy since 1994.  His seizures are described as an aura of the right fingers locking followed by generalized tonic-clonic activity with loss of awareness for 3-5 minutes and a postictal confusion.  He has a history of mental illness, obstructive sleep apnea, narcolepsy and restless leg syndrome.
+
+MEDICATIONS:  Phenytoin, Keppra.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm which was symmetric and reactive to eye opening.  Brief periods of drowsiness lasting about 30 seconds were disrupted by leg movements which alerted the patient.  Minimal vertex waves were seen and there was 1 spindle.  Hyperventilation produced a small amount of background slowing.  Photic stimulation elicits scant driving.
+
+HR:    96 bpm
+
+IMPRESSION:  Normal EEG.
+
+CLINICAL CORRELATION:  Normal EEG does not exclude a diagnosis of epilepsy.  Of note, the patient's sleep was disrupted by involuntary movements at almost a fixed period of time.  These findings may be integrated with his underlying sleep disturbance.

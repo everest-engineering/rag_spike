@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is a 90-year-old man who presented with left upper extremity spasms and left lip twitching.  He was subsequently found to have bilateral subacute subdural hematomas.  These hematomas were evacuated.
+MEDICATIONS:  Keppra, Tylenol, Ancef, Protonix, and Zofran.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  There is an additional C42P4 electrodes.
+DESCRIPTION OF THE RECORD:  The background is continuous and voltages are very low.  The posterior dominant rhythm consists of a very low amplitude of 11 Hz alpha activity.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at low amplitudes anteriorly.  Excessive diffuse beta is captured.  Intermittent frontal predominant diffuse rhythmic delta activity is captured.  Additional bilateral anterior temporal slow delta activity is observed.  It occasionally is rhythmic lasting from approximately 2 to 8 seconds, and is more pronounced over the right.  During sleep symmetrical rhythmic waves, sleep spindles, and K complexes are observed.  Hyperventilation and photic stimulation were not performed.  A single EKG lead demonstrates bigeminy with anterior QRS complex up to approximately 1.5 seconds.
+FINDINGS:
+Bilateral focal intermittent moderate to severe left anterior temporal slowing, at times semi-arrhythmic, more pronounced over the right.
+Excess beta.
+Very low voltages.
+FIRDA.
+Cardiac arrhythmia and bradycardia, with anterior QRS complex up to 1.5 seconds.
+IMPRESSION:  This is an abnormal 22-minute awake and asleep EEG due to intermittent moderate bilateral anterior temporal focal slowing, at times semi-arrhythmic, more pronounced over the right.  This finding indicates focal cerebral dysfunction, likely structural in etiology.  Frontal irregular rhythmic delta activity could be seen secondary to encephalopathy, increase intracranial pressure, and deep white matter lesions.  Excess diffuse beta could be secondary to the medication effect such as benzodiazepines or barbiturates.  Cardiac arrhythmia is not on the single EKG lead, with anterior QRS complex interval up to 1.5 seconds.
+
+
+

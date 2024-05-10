@@ -1,0 +1,45 @@
+AGE: 76 y.o.
+SEX: female
+START DATE OF STUDY: 11/18/2015 at 5:00PM
+END DATE OF STUDY: 11/19/2015 at 6:00AM
+RECORDING ENVIRONMENT: ICU EEG TYPE: , video LTM
+EEG #: 15-328
+HISTORY:
+76 y.o. female with a history of altered mental status referred for EEG for evaluation of paroxysmal events.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+gabapentin (NEURONTIN) 600 mg tablet, Take 600 mg by mouth 3 times daily.
+diltiazem (CARDIZEM CD) 240 mg 24 hr capsule, Take 240 mg by mouth daily.
+nitroglycerin (NITRODUR) 0.6 mg/hr, Place 1 patch onto the skin daily.
+omeprazole (PRILOSEC) 40 mg capsule, Take 40 mg by mouth daily. warfarin (COUMADIN) 3 mg tablet, Take 3 mg by mouth daily.
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+Events were marked by the clinical staff. All clinical events as well as extensive random background samples including wakefulness, drowsiness, and sleep were reviewed.
+DAY 1 (11/18/215, 5:00PM - 11/19/2015, 06:00AM) BACKGROUND:
+The waking background is disorganized with diffuse theta and delta slowing.
+Posterior dominant rhythm was present intermittently at 8Hz. The background is highly variable.
+There were no persistent asymmetries in amplitude and frequency.
+Sleep was characterized by normal sleep transients, with rare symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+Sharply contoured activity with a triphasic morphology were seen over the frontal leads. There was a characteristic "front to back" lag seen.
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS: No clinical or electrographic events reported or detected DAY 1 IMPRESSION & CLINICAL CORRELATION:
+Disorganized background due to frontally predominant triphasic
+waves
+Diffuse theta and delta slowing
+No clinical or electrographic seizures
+These results were communicated to the primary team.
+DAY 2 (11/19/2015, 06:00A - 11/20/2015, 06:00A)
+BACKGROUND: No change
+GENERALIZED SLOWING: No change, background is diffusely slow. FOCAL SLOWING: None
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):	Intermittent, sharply contoured frontal triphasic waves.
+SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured normal sinus rhythm.
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+Disorganized background due to frontally predominant triphasic waves.
+Diffuse theta and delta slowing
+
+
+

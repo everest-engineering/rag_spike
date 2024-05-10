@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 49-year-old woman, admitted on 04/04/2015, with likely cerebral abscess and status epilepticus, now awake and alert with left hemiparesis, left hemi-neglect, and left visual field cut.  HIV disease, drug abuse history, previous hospitalization for PRES.
+MEDICATIONS:  Keppra, vancomycin, cefepime, valproic, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was awake and interactive during the EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a prominent asymmetry between the 2 hemispheres.  The EEG from the left is reasonably well organized with a 9.5 Hz alpha rhythm and intermittent theta.  Stimulation of the patient clearly produces an alerting on the left and drowsiness and some focal theta or diffuse theta can be seen on the left.  The right hemisphere demonstrates persistent focal slowing particularly in the right posterior quadrant with disruption of faster frequency activity, high amplitude arrhythmic delta activity, and a high amplitude somewhat periodic sharp wave with a broad field of spread, typically maximum at O2, but with generous field of spread in the right posterior quadrant and in a referential montage, a phase reversal between the occipital and the frontal regions.  As the patient becomes drowsy, there are also some bursts of rhythmic frontal delta.  Stimulation of the patient clearly produces an arousal and stimulation of the patient seems to ameliorate the epileptiform activity.  Transition to stage 2 sleep with spindle seems to accentuate the arrhythmic delta activity and sharp waves
+Heart rate:  78 BPM.
+IMPRESSION:  Abnormal EEG due:
+High amplitude arrhythmic delta activity in the right posterior quadrant.
+High amplitude right occipital sharp wave with some periodicity, more prominent when the patient is resting comfortably and attenuating with stimulation.
+Mild background slowing and disorganization.
+CLINICAL CORRELATION:  This EEG is markedly improved compared to a previous study.  Although, there is prominent epileptiform activity, the patient is now awake and alert.  Ongoing clinical evaluation is suggested.
+
+
+
+

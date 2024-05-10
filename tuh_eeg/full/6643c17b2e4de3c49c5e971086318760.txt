@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  36 year old right handed woman with epilepsy, found on the floor with generalized shaking and unresponsiveness, dizziness.
+MEDICATIONS:  Allegra.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is quite somnolent.
+DESCRIPTION OF THE RECORD:  The EEG begins with the patient in stage II sleep.  She is very drowsy and is transitioning in and out of stage II sleep.  Minimal wakefulness includes more a theta pattern.
+HR:    55 bpm
+IMPRESSION:  This EEG is remarkable for:
+Excess drowsiness.
+CLINICAL CORRELATION:  No epileptiform features are identified in this record, postictal state, or use of Ativan may produce the hypersomnolence described above.  If needed a follow up EEG in the lab when the patient is able to participate with hyperventilation and photic stimulation is suggested.
+
+
+

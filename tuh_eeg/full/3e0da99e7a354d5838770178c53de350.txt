@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  24 minutes.
+CLINICAL HISTORY:  The patient is a 70-year-old woman who has been having recurrent episodes of being found on the floor unresponsive.
+PAST MEDICAL HISTORY:  Notable for diabetes and hypertension.
+MEDICATIONS:  Metoprolol, albuterol, amlodipine, aspirin, hydrochlorothiazide, insulin, and lisinopril.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of well-formed and modulated 9.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequency at lower amplitudes anteriorly.  During drowsiness posterior dominant rhythm attenuates and diffuse theta is observed.  Intermittent polymorphic theta and delta activity is captured over the bitemporal regions.  Hyperventilation was not performed.  Stepped photic stimulation does not result in occipital driving.  A regular heart rate is noted in a single EKG lead.  Approximately 58 to 60 beats per minute.
+FINDINGS:
+Intermittent mild bitemporal slowing.
+No stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and drowsy 24-minute EEG due to intermittent mild bitemporal slowing.  This finding indicates focal cerebral dysfunction, possibly structural in etiology.  No epileptiform discharges were captured, however, stage 2 sleep was not recorded.  If clinical indications for seizures persists, a repeat study with stage 2 sleep may be of benefit.  Lack of epileptiform discharges noted in EEG does not preclude a clinical diagnosis of epilepsy.  A regular heart rate is noted on a single EKG lead, at approximately 58 to 60 beats per minute.
+
+
+

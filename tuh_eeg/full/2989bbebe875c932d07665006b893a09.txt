@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 46-year-old female with past medical history of stroke, lupus, hypertension, depression, who presents with chief complaint of headache and waking up with body sore and stiffness.
+MEDICATIONS:  Hydroxychloroquine, Flexeril, metoprolol, Flonase, vitamins, omeprazole, Naprosyn, simvastatin, clopidogrel, Lasix.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm is 11-12 Hz in frequency and 20-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is presence of low amplitude frontocentral beta activity, which is distributed symmetrically.  There are occasional burst of left anterior and mid temporal slowing at F7/T3 during wakefulness and hyperventilation.  Hyperventilation results in slowing of the background activity, most pronounced on the left side.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate was 90 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording patient during wakefulness due to occasional left temporal slowing.  No epileptiform activities or seizures were recorded during this EEG.
+CLINICAL CORRELATION:  Occasional left temporal slowing is suggestive of a structural versus functional abnormalities in the left hemisphere or left temporal region.  Clinical correlation is recommended.  There were no epileptiform activities or seizures were captured during this recording.  This does not exclude epilepsy or intermittent seizures.  Clinical correlation is recommended.
+
+
+

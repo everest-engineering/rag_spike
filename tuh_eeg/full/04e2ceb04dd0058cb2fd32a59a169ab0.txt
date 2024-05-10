@@ -1,0 +1,49 @@
+AGE: 55 y.o.
+SEX: female
+START DATE OF STUDY: 12/12/2015 at 18:05 END DATE OF STUDY: 12/13/2015 at 19:26
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: long term monitoring EEG #: 15-349
+HISTORY:
+55 y.o. female with a history of sinonasal mass s/p cardiac arrest, referred for EEG for intermittent right face and arm twitching over the past two days.
+MEDICATIONS: Keppra, Ativan
+SEDATION: as above TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically difficult record, and despite best efforts, including repeating the hookup and trying a different machine, the technician could not obtain impedances <
+10 KOhms. The study included a single channel of EKG.
+DAY 1 (12/12/2015, 18:05 - 12/13/2015, 06:00) BACKGROUND:
+The waking background is suppressed. There is no reactivity, variability, or state change.
+There were no persistent asymmetries in amplitude and frequency.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS: No clinical or electrographic events reported or detected Technician did not note any face or arm twitching during the
+hook-up
+EKG: a single EKG strip captured a heart rate in the 80s DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal, though technically limited EEG due to:
+1. Suppressed rhythms, without variability, reactivity, or state change
+These findings are consistent with severe cerebral dysfunction.
+DAY 2 (12/13/2015, 06:00 - 12/13/2015, 19:26)
+BACKGROUND: No change GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS:
+12/13/2015 at 07:37, 18:06, 18:59, each of unclear duration CLINICAL:
+07:37: primary team pushes button for right face and arm twitching. No obvious clinical change is seen on video (which is pointed towards the left side of the patient) .
+18:06: nurse points to R side of face. Several brief, slight shifting movements of left arm are seen intermittently, but the right sided movements cannot clearly be seen.
+18:59: bedside visitor blocks view of patient; he/she is touching her left arm. Nurse pushes button.
+EEG: there is no ictal EEG cerebral correlate for any of these events
+EKG: a single EKG strip captured a heart rate in the 80s-100s
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+No change in background from day 1.
+Push button events for right face and arm twitching were not associated with ictal EEG cerebral correlate.
+FINAL IMPRESSION:
+This is abnormal, though technically suboptimal video EEG due to:
+Suppressed background with no clear reactivity, variability, or state change
+Several episodes of right face and arm twitching captured 12/13/2015 as described above, with no ictal EEG cerebral correlate
+FINAL CLINICAL CORRELATION:
+These findings indicate the presence of severe diffuse cerebral dysfunction.
+The episodes of right face and arm twitching on 12/13/2015 had no ictal EEG cerebral correlate and are unlikely to represent seizures.
+
+
+

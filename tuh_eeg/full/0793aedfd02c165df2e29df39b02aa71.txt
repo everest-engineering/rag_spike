@@ -1,0 +1,39 @@
+History:	92 year old male with altered mental status.
+Medications:
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage theta activity with absence of the expected anterior to posterior gradient of frequencies.  No
+normal sleep architecture was present.
+There is intermittent right posterior temporal delta activity superimposed on periodic epileptiform
+discharges (PEDs).  There are nearly continuous right posterior temporo-parietal PEDs with variable
+frequency between 1 and 2Hz. Bursts have nearly disappeared.  Of note, no clinical episodes of left
+arm twitching were noted during the recording epoch.
+Hyperventilation and photic stimulation were not performed.  There was minimal reactivity to
+auditory, tactile, or painful stimuli.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, right posterior quadrant
+PEDs (periodic epileptiform discharges), continuous, right posterior quadrant
+Interpretation:
+This is an ABNORMAL 24 hour video-EEG because of focal right posterior quadrant slowing and
+continuous PEDs. Clinical seizures were not appreciated.  These findings are suggestive of a
+structural brain injury with epileptiform potential in the right posterior quadrant.  These findings
+were conveyed to the neurology consult team.
+
+
+
+
+
+
+

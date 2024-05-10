@@ -1,0 +1,31 @@
+History:	72 YEAR OLD FEMALE PRESENTING WITH NEW ONSET OF SEIZURE. PMH:
+CVA, DM, HTN
+Medications:	RANITIDINE, LISINOPRIL, LIPITOR, SYNTHROID, ALBUTEROL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 7-8Hz posterior dominant rhythm, better seen
+over the left hemisphere.  Background activity was characterized by diffuse low voltage theta
+activity with some anterior to posterior gradient of frequencies.  Diffuse, frontally maximal sharp
+waves with triphasic morphology are present throughout the recording.  These waveforms
+demonstrate an anterior to posterior phase lag.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the right fronto -temporal region.  Intermittent
+polymorphic delta activity is present in the left frontotemporal region.  No epileptiform discharges
+are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR 96
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right frontotemporal
+Focal slowing, polymorphic, intermittent, moderate, left frontotemporal
+Diffuse slowing, polymorphic, continuous, moderate
+Triphasic waves, intermittent
+Interpretation:
+This is an ABNORMAL EEG because of  continuous focal slowing in the right  fronto -temporal
+region. This  findings is indicative of a focal structural lesion in that region. In addition, there is
+intermittent focal slowing in the left fronto -temporal region, which is indicative of focal cerebral
+dysfunction in that region and it is non-specific with regards to etiology.  Finally, there is diffuse
+background slowing and triphasic waves, which is indicative diffuse cerebral dysfunction which is
+etiologically nonspecific, but suggestive of a metabolic origin.
+
+

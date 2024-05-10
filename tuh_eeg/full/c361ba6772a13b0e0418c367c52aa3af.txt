@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  46-year-old male with left temporal encephalomalacia and epilepsy.  Seizures characterized by loss of consciousness and postictal confusion, memory impairment, right-sided weakness.
+MEDICATIONS:  Lamictal, Keppra, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically acceptable EEG, although impedance in the T1-T2 electrodes was slightly greater than 5 kilo-ohms.  Hyperventilation was deferred.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.5 hertz posterior dominant rhythm which is symmetric and reactive to eye opening.  Drowsiness is characterized by slow rolling eye movements, attenuation of the alpha rhythm and central theta.  The patient waxes in and out of stage I sleep.
+Photic stimulation was performed while the patient was starting to drift into later stage 1 sleep with vertex waves.  A scant driving response was noted.
+Heart rate 75 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  In this individual with incomplete control of his epilepsy, a more prolonged study in the lab may be of value.
+
+
+

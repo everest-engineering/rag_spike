@@ -1,0 +1,21 @@
+History:	52 YO MALE W/ INFECTED FOOT ULCER, HYPOTHERMIA  PROTOCOL, WAS
+JERKING CONTINUOUSLY  UNTIL GIVEN 10 MGS OF VEC,
+Medications:	MIDAZOLAM, VECURONIUM, ATIVAN, DEPACON, CHLORHEXIDINE, ZOSYN,
+VANCOMYCIN, ASA, KLONOPIN,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation.  No normal sleep architecture was present.
+No focal slowing is present.  Generalized frontally-maximal polyspike-and-slow-wave discharges
+(GPEDs) occur with a regular repetition rate of 1 Hz.  No clinical or electrographic seizures were
+Hyperventilation and photic stimulation were not performed.  HR was 120
+Summary of Findings:
+Attenuation, continuous, severe diffuse
+PEDs (periodic epileptiform discharges), continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of severe diffuse background slowing and absent alpha
+rhythm. In addition to GPEDs.   These findings are suggestive of marked diffuse cortical dysfunction
+and irritability, which in the setting of hypoxic injury portends a poor prognosis.
+

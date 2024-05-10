@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 53-year-old right-handed male admitted on the 2nd with a syncopal episode lasting 15 to 20 minutes with post ictal confusion.  Anxiety, depression, bipolar disease and a history of assault in 2006.
+MEDICATIONS:  Depakote, tramadol, Seroquel.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.  Hyperventilation was deferred.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: The patient had a very dirty scalp. In wakefulness, the background EEG is well organized with symmetric and reactive 10 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in rhythmicity of the background, anterior spread of the alpha rhythm and an increase in frontocentral theta.
+Photic stimulation elicited scant driving.
+Heart rate 90 BPM.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

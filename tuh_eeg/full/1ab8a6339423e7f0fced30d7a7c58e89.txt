@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 37-year-old male with perhaps prior anoxic insult and persistent encephalopathy. Schizophrenia, delirium
+MEDICATIONS:  Dilantin, heparin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was awake, uncooperative.  It was very difficult to achieve impedances under 10 kilohms and the patient had difficulty sitting still.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and disorganized with a mixture of theta and delta.  In addition, there is a fair amount of movement artifact.  The patient was quite restless.
+The overall background lacks the normal developmental milestones for an adult awake EEG and includes a pattern of more rhythmic mixed delta/theta.  As the patient drifts off to sleep, there is an increase in beta.
+HEART RATE:  100 bpm.
+IMPRESSION:  Abnormal EEG due to marked background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  This is a very challenging EEG but is most supportive of a diffuse disturbance of cerebral function.
+
+
+

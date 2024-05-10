@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 54 year old left handed gentleman with epilepsy, hepatitis C, recurrent hepatic encephalopathy, now with recurrent confusion.
+MEDICATIONS: Keppra, Lasix, Vancomycin
+INTRODUCTION: Digital EEG was performed at bedside using the standard 10-20 system of electrode placement with 1 channel EKG. The patient is poorly responsive, wearing a hard collar and intubated.
+
+DESCRIPTION OF THE RECORD: The background EEG includes generous alpha frequency activity of 11 Hz identified in the occipital temporal regions bilaterally and more significant rhythmic theta and some delta in the frontocentral and parietal regions.
+HR: 80 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+CLINICAL CORRELATION: No spike in wave activity was seen today. The background slowing may be due to this patient's underlying hepatic encephalopathy. Of note, this patient was previously treated with Topamax and Lamictal, which are not listed as his medications today.
+
+
+

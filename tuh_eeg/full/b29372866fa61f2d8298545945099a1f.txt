@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 32 year old right handed male with a 4-year history of epilepsy.  Seizures occur every 1 to 2 months.  They may include staring and then singing with bilateral upper extremity movements for 3 minutes.  Additional seizure type includes large tonic-clonic activity with tongue biting occurring every 1 to 3 months.
+MEDICATIONS:  Plaquenil, Toprol, Prednisone, Trazodone, Paxil, Oxybutynin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is well organized with a 9.5 Hz, 30 microvolt alpha rhythm which is symmetric and reactive to eye opening.  Features of drowsiness include an increase in beta followed by rhythmic frontocentral theta.  Vertex waves were noted in stage II sleep.  Photic stimulation was performed while the patient was drifting off to sleep.  A bilateral driving response was noted.  Vertex waves phase reverse at CV but are slightly asymmetric.
+HR:    50 bpm
+IMPRESSION:   EEG is within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were seen.  A normal EEG does not exclude a diagnosis of epilepsy.  In this individual with relatively frequent and
+significant seizures, consideration for a followup 1-hour sleep-deprived EEG or long-term EEG recording may be valuable.
+
+
+

@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 31 year old female present for follow-up. Last seizure was 01/08/2010 x 2 with loc. Patient has history of intracerebellar CVA, headaches, eclampsia and renal insuff.
+MEDICATIONS: lasix, Lisinopril, Tegretol, Tylenol, ADA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not performed, but photic simulation was completed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized. There are some portions of maximal wakefulness where the overall pattern is reasonably well organized with a 9.5 hertz alpha rhythm. Other sections include bursts of frontally predominant rhythmic delta activity. In the transition to drowsiness, there is prominent arrhythmic delta activity and the overall background is more disorganized than one would except in a young adult. There is some shifting slowing and a single left temporal sharp wave is observed in this sharply contoured background. Stage II sleep includes vertex waves. Photic stimulation is performed while the patient is drifting in and out of stage II sleep and there is no significant driving response.
+
+HR: 60 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Background disorganization particularly in drowsiness.
+2. FIRDA.
+3. Posteriorly predominant arrhythmic delta activity.
+
+CLINICAL CORRELATION: Only a single sharp wave was observed in this record. In this individual who is hospitalized on the 8th for complications of eclampsia, this is an improving pattern, but ongoing vigilance may be necessary.
+
+
+

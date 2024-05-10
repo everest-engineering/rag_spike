@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 74-year-old right-handed man with history of feeling tired, lightheaded.  Past medical history significant for 2 old strokes with right hemiparesis and hypertension.
+MEDICATIONS:  Norvasc and aspirin.
+INTRODUCTION:  Digital video EEG was performed at the bed side using standard 1020 system of electrode placement with channel EKG and photic stimulation was performed.  The patient was captured in vague state.
+DESCRIPTION OF RECORD:  In wakefulness, the background EEG showed the posterior dominant rhythm of 9 Hz seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude and frontal central beta activity, which is distributed symmetrically.  There are intermittent bursts of left temporal slowing lasting for 1-2 seconds during wakefulness.  Photic stimulation was performed at multiple flash frequencies and resulted in symmetric driving response.  Heart rate was 70 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording capturing wakefulness due to the presence of intermittent left temporal slowing.  No epileptiform abnormalities or electrographic seizures were identified in this record.
+CLINICAL CORRELATION:  The above findings could be due to an underlying structural abnormality in the subcortical white matter of the left temporal region.  Clinical correlation is recommended.  No epileptiform abnormalities or electrographic seizures were seen in this record.  This does not rule out the diagnosis of epilepsy.  If clinically indicated, a repeat sleep deprived EEG or a 24-hour ambulatory EEG may be helpful.
+
+
+

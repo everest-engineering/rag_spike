@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 27-year-old male with paranoid schizophrenia.
+MEDICATIONS:  Hydroxyzine, haloperidol, benztropine, diphenhydramine.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  This is a technically limited study with electrode and muscle artifact.  There is no EKG channel.  There is no impedance check.
+IMPRESSION:  This is a technically limited EEG and cannot be read.
+CLINICAL CORRELATION:  A repeat EEG is highly recommended.
+
+
+

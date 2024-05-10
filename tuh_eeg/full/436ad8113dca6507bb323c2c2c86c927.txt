@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 44-year-old male with epilepsy, mental retardation, bipolar disease, and behavioral problems.  The patient was somnolent last week, had a seizure on July 11thor July 13, the first since May.  He has head banging and is wearing a hard collar.
+MEDICATIONS:  Keppra, Tegretol, Seroquel, others.
+INTRODUCTION:  A 24-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging record and the patient was poorly cooperative, had bruxism.  Most impedances were below 5 kilohms.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates an intrahemispheric asymmetry.  The right hemisphere demonstrates a lower voltage pattern with diffuse beta.  It lacks the anticipated posterior dominant rhythm.  The left hemisphere demonstrates a mixture of rhythmic theta and delta, with some sharply contoured delta at T1-T3 and rare, subtle sharp waves, which can be differentiated from EKG artifact.
+Photic stimulation did not activate the record.
+Heart rate:  72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Lack of the normal developmental milestones anticipated in an adult.
+Asymmetry between the 2 hemispheres.
+Sharply contoured slowing and subtle sharp waves from the left hemisphere.
+CLINICAL CORRELATION:  No previous EEGs are available for comparison.  This EEG supports a structural functional process on the left, which may contribute to this patient's seizures.  The abnormal background may be correlated with clinical history and imaging.
+
+
+
+

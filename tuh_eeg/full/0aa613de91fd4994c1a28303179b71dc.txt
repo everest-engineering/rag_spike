@@ -1,0 +1,25 @@
+History:	61 year old woman with change in mental status.
+Medications:	Phenytoin, vancomycin, ativan, trileptal, baclofen
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta >theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Periods of discontinuity are noted.  No normal sleep architecture was present.
+There is subtle paucity of faster frequencies over the right hemisphere.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Discontinuous background, intermittent
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate-to-severe
+Focal slowing, polymorphic, right hemispheric, subtle paucity of faster frequencies
+Interpretation:
+This is an ABNORMAL 21-minute EEG because of moderate-to-severe diffuse background slowing
+with subtle slowing over the right.  Diffuse slowing is indicative of moderate to-severe- diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Focal slowing indicates focal cerebral
+dysfunction, possibly structural in etiology.  No electrographic seizures are present.
+
+

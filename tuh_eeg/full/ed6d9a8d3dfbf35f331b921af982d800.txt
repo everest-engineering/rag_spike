@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 69 year old female with myelodysplasia admitted with fever, agitation. Seizures on the 9th.
+MEDICATIONS: Keppra, Lantus, Neurontin.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is a fair amount of muscle artifact but the patient is relatively cooperative.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a somewhat slow and disorganized pattern with a 6 Hz posterior dominant rhythm and occasional posteriorly predominant delta. On one occasion there seems to be a right frontocentral sharp wave, but unfortunately muscle artifact makes it difficult to determine if similar waveforms might have been seen on the left. Features of drowsiness include increase in the posterior delta.
+HR: 104 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Occasional occipitally predominant delta.
+CLINICAL CORRELATION: These findings have been previously described. In this individual with a relatively recent, right frontocentral seizure, there was little epileptiform activity identified today, however, the patient's muscle and movement artifact might obscure this.
+
+
+

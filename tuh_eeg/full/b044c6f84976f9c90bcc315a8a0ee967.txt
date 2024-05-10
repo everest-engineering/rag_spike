@@ -1,0 +1,26 @@
+CLINICAL HISTORY: 92 year old female found unresponsive with "eye gaze," found to
+be hypothermic, possible seizure 5-6 months ago, cerebral atrophy.
+MEDICATIONS: Keppra, Lisinopril, Synthroid, ASA, Cefepime, Zithromax
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20'
+system of electrode placement with 1 channel of EKG. The patient is examined and
+stimulated during the EEG.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an almost
+monotonous lower voltage theta pattern with superimposed frontally predominant
+triphasic waves and a handful of bilateral generalized periodic complexes. Stimulation
+of the patient on occasion seems to produce an attenuation of the background. The
+majority of the triphasic waves are bilateral but some are asynchronous. There also
+seems to be an underlying sharp waves focus at T6. Following the administration of
+Ativan there is increasing theta frequency activity. The EEG ends 8 minutes after the
+administration of Ativan, and the Ativan did appear to alter the record producing an
+increase in slowing noted in the final 2 minutes of the record .
+HR: 70 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Triphasic waves.
+2. Generalized periodic complexes.
+3. Right mid and posterior temporal sharp waves.
+4. Generalized background slowing.
+CLINICAL CORRELATION: Because of the response to Ativan, additional EEG
+recording is recommended to help determine if all of the waveforms described above
+are toxic-metabolic in nature versus epileptiform.
+
+

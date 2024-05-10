@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 20-year-old male transferred from outside hospital after presenting in several days ago with multiple drug overdose, respiratory distress, and seizures, persistently unresponsive.
+MEDICATIONS:  Previously treated with phenytoin and lorazepam.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient was intubated, unresponsive, and stimulated on multiple occasions during the EEG.  In addition, the technologist unplugged all possible equipment to try and eliminate artifacts.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous pattern with slow delta, occasional bursts of more generalized rhythmic delta and superimposed beta frequency activity.  The beta frequency includes 28 Hz activity as well as 15 and some 14.5 or 12 Hz activity.  Stimulation of the patient produces artifact, but no real alerting.
+Heart rate 72 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Replacement of normal background with a slow mixed frequency pattern.
+Generalized delta.
+More beta activity than anticipated given the documented benzodiazepine exposure.
+CLINICAL CORRELATION:  This EEG supports a severe, bihemispheric disturbance of cerebral function.  No epileptiform features were noted.  Because of the concern about subtle seizures, EEG monitoring was initiated.
+
+
+

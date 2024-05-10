@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 27-year-old male with congenital cardiac disease, avascular necrosis with new onset seizures 5 days ago, patient was confused.  He had a single previous seizure 6 months ago.
+MEDICATIONS:  Topiramate and Ativan.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically satisfactory, 20-minute EEG with impedances under 5 kilo ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a well-organized pattern with an 11 hertz, 30 microvolt posterior dominant rhythm in a generous amount of low voltage, frontal central beta.  Hyperventilation was deferred in view of the patient's cardiac history.  The patient drops in and out of stage 2 sleep with abundant vertex waves, K complexes, spindles.  Photic stimulation was performed and did elicited driving response.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy and additional EEG recording may be of value in characterizing an underlying epileptiform focus.
+
+
+

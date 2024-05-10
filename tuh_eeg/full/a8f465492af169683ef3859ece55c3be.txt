@@ -1,0 +1,14 @@
+MEDICATIONS:  See initial section of the EEG.
+INTRODUCTION:  Continuous video EEG is performed using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  This piece of EEG dictation will be attached to the initial section of the long term video EEG monitoring.
+Brief, electrographic seizures are noted intermittently at 3:40 and again at 3:52.  These seem emanate from the left hemisphere, but at 4:05 seizures from the right hemisphere were recorded.  This was followed by one on the left at 4:13 and then later transitioning to the right.  Multiple electrographic seizures are noted, but start to slow down by 9:00 p.m.  By 11:00 p.m. on the night of June 21, 2012 the status epilepticus has resolved.  The background EEG remains markedly abnormal.  It is intermittently, briefly discontinuous for 1-2 seconds.  Focal sharp waves and spikes are noted from either hemisphere with variable maximum including left anterior temporal, right frontal, left hemispheric with anterior to posterior lag, T4.  As the recording continuous, the overall background is increasing slow.
+By the end of the record the EEG demonstrates discontinuity with asynchronous discontinuity.
+Heart rate:  100 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Initially status epilepticus with multiple ictal patterns arising from each hemisphere.
+Epileptiform activity with multiple different foci in both hemispheres.
+A markedly slow background with ultimately the development of an asynchronous, burst suppression pattern.
+CLINICAL CORRELATION:  These findings together are hallmarks of severe cerebral injury.  The seizures are resolving, but this remains a highly epileptogenic EEG.
+
+
+

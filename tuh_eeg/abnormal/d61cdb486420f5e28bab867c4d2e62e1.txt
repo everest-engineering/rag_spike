@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 60 year old right handed woman with multiple problems including past history of aneurysmal clip craniotomy, subdural hematoma subarachnoid hemorrhage now with contusion and right hemiparesis. CT demonstrates chronic ischemic changes.
+MEDICATIONS: Keppra.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively drowsy.
+DESCRIPTION OF THE RECORD: As the recording begins, despite a some hat drowsy state, there is a 9.5 hertz alpha rhythm identified on the right. The left hemisphere IS remarkable for significant craniotomy defect with some double phase reversing artifact, but otherwise includes essentially continuous arrhythmic delta activity with occasional bursts of more rhythmic 2-5 hertz activity. Most of the delta is in category of 1-2 hertz. Stimulation of the patient is associated with arousal and an increase in beta frequency activity bilaterally. On occasion, there is a bit more rhythmic periodic 3-5 hertz activity on the left at T3 and T5. There is some sections with an increase in beta.
+HR: 72bpm
+IMPRESSION: Abnormal EEG due to:
+1. Continuous focal slowing from the left hemisphere.
+2. Rhythmic 3-5 hertz activity at T3-T5.
+CLINICAL CORRELATION: The continuous arrhythmic delta activity is compatible with structural disturbance. The rhythmic 3-5 hertz activity may represent an underlying epileptiform focus. If there are any additional concerns, a follow up study may be helpful to determine whether or not these focal features improve as the patient's mental status improves.
+
+
+

@@ -1,0 +1,27 @@
+History:	67 YR FEMALE WITH PMHX OF SZS (AGE 1).
+Medications:	TEGRETOL, KEPPRA, PROZAC, INSULIN, ASA, ALBUTEROL, LISINOPRIL,
+PROTONIX, ZESTRIL, METOPROLOL, SINGULAIR,  PRILOSEC, ADVAIR,
+NORVASC, INDERAL, ROBITUSSIN, REMERON, HCTZ
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies. There is a fragmentary 6-7 Hz posterior dominant rhythm.  At times there is more
+prominent, and higher amplitude intermittent delta predominantly in the frontal lobes suggesting
+FIRDA.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation was not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.
+Summary of Findings:
+FIRDA (frontal intermittent rhythmic delta activity), intermittent, bilateral frontal
+Diffuse slowing, polymorphic, nearly continuous, bilateral diffuse
+Interpretation:
+This is an ABNORMAL 21 minute EEG capturing wakefulness and drowsiness because of diffuse
+background slowing and FIRDA.  These findings are etiologically nonspecific indicators of
+moderate diffuse cerebral dysfunction.  FIRDA may be seen in the setting of increased intracranial
+pressure or damage to frontal white matter.  No clinical or electrographic seizures are present.
+

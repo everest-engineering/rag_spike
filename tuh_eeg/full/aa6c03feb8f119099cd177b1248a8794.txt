@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  58 year old woman transferred from Nazareth Hospital on the 26th with multiple thoracic compression fractures.  She had an episode of delirium on January 1st with left arm twitching.
+MEDICATIONS:  Morphine, Midazolam, Imipenem, Vancomycin, Zofran, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  The patient is drowsy throughout much of the record but there are sections where she is awake, follows commands.  In these states, the background EEG is somewhat slow and disorganized with a glimpse of a 9 Hz alpha rhythm seen better on the right than the left.  There are occasional bursts of delta in the posterior regions which are a bit more vigorous on the right.  The relaxed or drowsy background is more of a mixed frequency pattern with some vertex waves and some bursts of frontal delta.  The drowsy record is rich in beta.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Bursts of FIRDA.
+Some shifting asymmetries with a bit more slowing in the right occipital region.
+CLINICAL CORRELATION:  No epileptiform features were observed.  The generous beta may be due to this patient's medications.  If additional information is needed, a
+follow-up study when she is out of the ICU may be helpful to look for focal epileptiform activity.
+
+
+

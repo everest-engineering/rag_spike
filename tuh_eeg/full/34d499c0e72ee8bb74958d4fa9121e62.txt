@@ -1,0 +1,25 @@
+History:	80 YR FEMALE WITH HTN, GERD, DIVERTICULITIS, BARRETTS ESOPHAGUS,
+DEMENTIA, WITH CC OF CHANGE IN MS. PER DAUGHTER PT WAS SITTING
+AND HAD RIGHT  HAND TREMBLING, AND TONGUE PROTRUSION.LASTED
+LESS THEN A MINUTE AND THEN WAS OK.
+Medications:	Protonix, ASA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 6-7 posterior dominant rhythm, which attenuates
+symmetrically with eye opening.  Background activity is predominantly irregular 50-75uV, 6-7Hz
+activity.  No sleep was captured.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR could not be obtained due to a problem with the EKG signal
+Technical difficulties: no comments can be made about the right temporal region as there was
+continuous myogenic artifact impeding the evaluation of this area.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate, bilateral
+Interpretation:
+This is an ABNORMAL awake EEG because of moderate diffuse background slowing.  These
+findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+

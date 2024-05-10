@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 51 year old right handed woman with left sided weakness.
+MEDICATIONS: Lovenox
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and briefly drowsy record in a patient with minimal head titubation.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 hertz, 40 microvolt posterior dominant rhythm and a small amount of low voltage frontocentral beta activity. Brief drowsiness is characterized by increase in theta. Head rocking artifact is noted.
+HR: 70 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform features are identified, but a follow up EEG should be performed in the lab to capture both hyperventilation and photic stimulation in more prolonged sleep.
+
+
+
+

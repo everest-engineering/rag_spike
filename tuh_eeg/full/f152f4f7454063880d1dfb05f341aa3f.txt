@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Migraine headaches, one associated with a tonic-clonic seizure, migraine headaches associated with confusion.
+MEDICATIONS:  Topamax.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+TECHNICAL:  This is a technically satisfactory EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz 55 mV alpha rhythm which is symmetric and reactive to eye opening.  Posterior slow waves of youth were noted.  Features of drowsiness include slow rolling eye movements and anterior spread of the alpha rhythm.
+Hyperventilation produces a small increase in amplitude of the background.  Photic stimulation elicits scant driving.
+Heart rate 72 BPM.
+IMPRESSION:  Normal electroencephalogram in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  28 year old male with sepsis, gunshot wound to the chest, pseudo aneurysm.
+MEDICATIONS:  Versed, Fentanyl, Keppra, Flagyl, Ceftriaxone, Vancomycin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20  system of electrode placement with 1 channel EKG  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The overall EEG demonstrates a low to medium voltage, relatively featureless pattern with slow delta.  There is a small amount of variability with scant beta.  Stimulation of the patient seems to produce FIRDA.
+HR:    150 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked replacement of normal background with a slow, relatively rhythmic featureless delta.
+CLINICAL CORRELATION:  These findings are compatible with a severe encephalopathy.  Medications may play a role, but in the absence of high doses of medications for sedation, this EEG supports a severe, bihemispheric disturbance of cerebral function.
+
+
+

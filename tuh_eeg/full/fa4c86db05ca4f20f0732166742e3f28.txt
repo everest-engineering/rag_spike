@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 33-year-old female with history of seizure disorder as a child with recent episodes of seizures described as left-sided numbness and shaking.
+MEDICATIONS:  Seroquel.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm were 9-10 Hz and 20-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is presence of low-amplitude and frontocentral beta activity, which is distributed symmetrically.  Drowsiness was characterized by the absence of posterior dominant rhythm and muscle artifact and eye blink artifacts.  Hyperventilation results in symmetrical slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate was 70 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through drowsiness.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not exclude the possibility of seizure disorders or intermittent seizures.  If seizures are a clinical concern, a deprived sleep EEG or repeat EEG capturing deeper stages of sleep is recommended.
+
+
+

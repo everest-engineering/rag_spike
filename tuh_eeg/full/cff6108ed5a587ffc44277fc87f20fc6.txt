@@ -1,0 +1,28 @@
+MEDICATIONS:  Lamotrigine, multiple medications for pain, anxiety, depression, bipolar disease, including oxycodone and benzodiazepines, Lamictal, Valium, Paxil, metformin, Spiriva, many others.
+HISTORY:  41 years old woman with episodes headache, dizziness and then LOC.
+INTRODUCTION:  24-hour continuous video EEG monitoring was performed using standard 10-20 system of electrode placement with 1 channel EKG and seizure and spike detection software.
+DATE OF STUDY:  06/22/15 to 06/23/15.
+No seizures were noted by the patient, software or nursing team.  The patient reported symptoms of chronic pain and had frequent requests for pain medicine.  Typical seizures are characterized by occipital headache or dizziness and/or visual changes.
+Background:  In maximal wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by an increase in background slowing.  Stage 2 sleep was characterized by vertex waves, K complexes, spindles, and POSTS.  Sleep was disrupted and the patient was awake significantly during the night.
+Epileptiform Detections: None
+Seizures: None
+Heart rate:  84 bpm.
+IMPRESSION/CLINICAL CORRELATION:  This 1st 24 hours of continuous video EEG monitoring was remarkable for:
+Normal background.
+Absence of epileptiform activity.
+No clinical events.
+DATE OF STUDY:  06/23/15 to 06/2415.
+Background:  In maximal wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by an increase in background slowing.  Stage 2 sleep was characterized by vertex waves, K complexes, spindles, and POSTS.
+Epileptiform Detections: None
+Seizures: None
+Heart rate:  84 bpm
+Event at 4:04 PM: Patient was off camera for this 112 sec episode of stiffening followed by 5 min unresponsiveness after which patient then  got up and out of bed. The EEG during this event demonstrated muscle artifact during the stiffening. After the patient was placed in bed, there was a great deal of motor artifact. The patient demonstrated self protective movements at that time. The bedside physician tapped on the scalp electrodes and the EEG returned to a normal awake pattern.
+IMPRESSION/ This 2 day  continuous video EEG monitoring was remarkable for:
+Normal background.
+Absence of epileptiform activity
+Single event without EEG change and with purposeful, protective movements and no post ictal EEG changes, suggestive of Non epileptic seizure
+CLINICAL CORRELATION:
+These findings were reviewed with the patient who chose to terminate EEG recording the morning after the 06/23 event. The event recorded was initially off camera and differs behaviorally from the spells reported by the patient on admission.   The patient attributed the event above to “stress” .No evidence of epilepsy was found.
+
+
+

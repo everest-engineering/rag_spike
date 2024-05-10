@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   86 year old man who came in with mental status change.  He has a past medical history of schizophrenia and others.
+MEDICATIONS:  Metoprolol, Aricept
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Photic simulation was performed.
+DESCRIPTION OF THE RECORD:  The background EEG is disorganized which does improve over the course of the recording.  There is an 8 Hz alpha rhythm which also tends to improve but does not become any faster than that.  Photic stimulation does not activate the record.
+HR:   84 bpm with atrial fibrillation. IMPRESSION:  Abnormal EEG due to:
+1. Background slowing.
+CLINICAL CORRELATION:  The findings on this EEG are nonspecific and can be seen in diseases like toxic metabolic encephalopathy, psychiatric disorders, or cerebral dysfunction related to aging like dementia.  There is no epileptiform activity seen on this EEG.
+
+
+

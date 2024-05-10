@@ -1,0 +1,7 @@
+MEDICATIONS:  Vimpat, Norvasc, Felbamate, Carnitor, clonidine, Celexa, Lopressor, Topiramate
+HISTORY:  A 28-year-old male with refractory epilepsy, previously on Seroquel, now with weight loss, failure to thrive, refusing to eat, ambulate or cooperate.
+INTRODUCTION:  A digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel in EKG.  The patient was poorly cooperative throughout the record.  Occasional muscle twitch artifact was noted.
+DESCRIPTION OF RECORD:  The background EEG was diffusely slow with a lower voltage beta and theta pattern.  The normal milestones of an awake adult EEG were not identified.
+
+
+

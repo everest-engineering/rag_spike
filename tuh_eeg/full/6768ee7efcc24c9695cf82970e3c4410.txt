@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 76-year-old with recent craniotomy for ruptured aneurysm, July 2nd.  Now, with an episode this morning of facial twitching and oral automatisms.
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was somewhat agitated and had a recent craniotomy defect.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow and poorly organized.  Although the patient is moving throughout the EEG, there is an asymmetry with a slower pattern and a bit more attenuation on the left compared to the right.  There is head rocking artifact.  Breach rhythm is noted in the left posterior temporal region with some sharply contoured activity out of noted as a essentially single channel out of the breach.  Facial grimacing was noted on more than 1 occasion and was not associated with epileptiform features.  At times, the patient almost seem to have dyskinesia in head and trunk.
+HEART RATE: 108 bpm.
+IMPRESSION:  This is a technically challenging bedside EEG, but it is abnormal due to:
+Background slowing and disorganization.
+An asymmetry with slower voltage delta and more attenuation of faster frequency activity on the left.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  The T5 findings noted in the left posterior temporal electrode is in the region of the patient's craniotomy.  No seizures were recorded.
+
+
+

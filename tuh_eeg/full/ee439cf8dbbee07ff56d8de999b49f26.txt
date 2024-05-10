@@ -1,0 +1,39 @@
+AGE: 65 y.o.
+SEX: female
+DATE OF STUDY: 11/30/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1739
+HISTORY:
+65 y.o. female with a history of pancreatitis and Etoh abuse presenting with a witnessed GTC (unclear number of episodes; there is a report of LUE shaking). Of note, the patient was combative during the hook-up and threatening to hit the technician.
+MEDICATIONS:
+Keppra, Neurontin, Ativan
+SEDATION : meds as above TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically challenging study, with diffuse muscle artifact and an uncooperative patient.	It included a single channel of EKG.
+EEG BACKGROUND:
+During most of the study, the background is obscured by diffuse high amplitude muscle artifact. During brief periods of relative relaxation, the background consists of a disorganized mixture of delta and alpha. There is no posterior dominant rhythm. There is no clear reactivity, variability, or state change.
+There is spontaneous eye blink artifact.
+There is severe diffuse slowing.
+No definite focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+1. There frequent sharply contoured delta waveforms seen diffusely over the
+right central region . During periods of relative relaxation when muscle artifact attenuates somewhat, these waveforms are also seen synchronously over the right temporal (T4 max) region. They are
+frequently periodic at 1 Hz for periods < 10 seconds (lateralized periodic discharges or LPDs, also known as periodic lateralized epileptiform discharges or PLEDs). This activity often reflects over the left frontal (F3 max) region.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+The EKG strip did not produce a readable signal during this study.
+IMPRESSION:
+This is an abnormal, though technically limited, awake and drowsy routine EEG due to:
+Severe diffuse slowing and background disorganization , with lack of clear reactivity
+Frequent right hemispheric sharply contoured delta waves, frequently seen in runs at 1 Hz for <10 seconds (LPDs, also known as PLEDs)
+CLINICAL CORRELATION:
+These findings demonstrate right hemispheric potentially epileptiform activity superimposed on severe diffuse cerebral dysfunction.
+There are no definite electrographic seizures.
+These findings as well as the limited nature of the study were communicated with the primary team.
+A repeat study once the patient is less agitated may be useful if clinically indicated.
+
+
+

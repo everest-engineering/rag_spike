@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  81 year old male left-sided weakness and slurred speech.  Transferred from an outside hospital on October 8, for evaluation of right MCA.  History of renal failure, heart transplant and morbid obesity.
+MEDICATIONS:  Aspirin, Lipitor, Plavix, SSI, Heparin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there seems to be a bilateral alpha rhythm.  There is a great deal of muscle artifact noted at maximal wakefulness.  As the patient relaxes, the background demonstrates slowing and more clear slowing is noted in the right hemisphere.  As he becomes sleepier there is a focus of delta in the right posterior region.  With the use of an average reference, a slow, periodic sharp complex can be identified at PZ and in the right parietal occipital region.  With arousal, this becomes less prominent.  The later sections of the record demonstrate a more well-defined 7.5 Hz alpha on the left and similar frequency on the right, but a bit disrupted.  Occasional Firda is noted.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing in the right hemisphere.
+Right posterior sharp waves.
+CLINICAL CORRELATION:  This EEG supports a structural process on the right with a potential for seizures from the right parietal and parasagittal regions.
+
+
+

@@ -1,0 +1,33 @@
+History:	27 year old woman status post cardiac arrest.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse fast
+activity admixed with polymorphic delta activity with absence of the expected anterior to posterior
+gradient of frequencies.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the left posterior temporal region.  Continuous
+rhythmic 1Hz sharp waves are noted over the left posterior temporal region with phase reversal over
+T5 electrode (PLEDs).  There is no temporal or spatial evolution.
+Hyperventilation and photic stimulation were not performed.  There is a lot of movement artifact,
+especially in the second half of the recording.  This limits interpretation of the EEG during those
+Summary of Findings:
+Artifact, movement, frequent, especially in the second half
+PLEDs (periodic lateralized epileptiform discharges), continuous, left temporal, posterior, at T5
+No electrographic seizures
+Focal slowing, polymorphic, continuous, moderate, left temporal, posterior
+Diffuse slowing, polymorphic
+Beta, excessive
+Interpretation:
+This is an ABNORMAL awake-only 21-minute EEG because of diffuse background slowing,
+continuous focal left posterior temporal slowing and continuous left posterior temporal periodic
+epileptiform discharges that do not evolve into seizures.  Diffuse slowing is indicative of mild to
+moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  continuous focal slowing
+and periodic epileptiform discharges emanating from the left posterior temporal region are
+indicative of a potentially epileptogenic focal structural lesion in the left posterior temporal region.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.  No electrographic seizures are present.  There is a lot of movement artifact, especially
+in the second half of the recording.  This limits interpretation of the EEG during those periods.
+
+

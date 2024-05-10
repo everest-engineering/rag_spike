@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 39-year-old woman, admitted on November 6th after respiratory arrest, evaluated for coma.  Patient is unresponsive.
+MEDICATIONS:  Midazolam, vancomycin, and fentanyl.
+INTRODUCTION:  A 40-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1-channel EKG.  Patient was intubated, but cranial nerve findings were present.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a burst suppression pattern.  Periods of suppression are typically 10 seconds in duration, varying from 3-10.  There are brief bursts of high amplitude paroxysmal activity present bilaterally.  This activity is relatively symmetric and includes rhythmic high amplitude theta frequency activity primarily.  Some bursts have a bit more after going theta.  Tactile stimulation of the patient may produce an increase in the burst activity.
+Heart rate 120 bpm.
+IMPRESSION:  This is a markedly abnormal EEG for an adult 24 hours after anoxic arrest due to:
+burst suppression pattern.
+CLINICAL CORRELATION:  This EEG supports a severe underlying anoxic injury, but can also be seen in other clinical context such as the use of sedative hypnotic medications.  No electrographic seizures were noted.  These findings were communicated to the clinical team.
+
+
+

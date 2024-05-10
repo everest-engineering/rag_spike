@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  27 year old right handed male with poorly controlled seizures.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm.  Hyperventilation produces an increase in theta.  It also accentuates subtle and well-defined left anterior temporal sharp waves with the maximum at F7, T1.  Following hyperventilation, there is some rhythmic repetitive 5 Hz activity but this is followed by an after-going slow wave.  In the transition to sleep, there is some shifting slowing.  There are also some subtle left anterior temporal sharp waves noted, and again F7 maximum.
+Photic stimulation elicits bilateral driving.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left anterior temporal sharp waves identified in wakefulness, drowsiness, and hyperventilation.
+Subtle left temporal focal slowing.
+CLINICAL CORRELATION:  Compared to a previous study, the epileptiform activity is much better defined today.  This EEG supports a localization mechanism for epilepsy.
+
+
+

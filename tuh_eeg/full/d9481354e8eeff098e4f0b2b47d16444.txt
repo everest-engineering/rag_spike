@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  70 year old woman with a history of epilepsy for the last 2 years.  The patient was found confused on the floor.
+MEDICATIONS:  Keppra, Percocet.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system with 1 channel EKG.  Photic stimulation was completed.  This EEG suffered from significant technical artifacts which the technologist had great difficulty in ameliorating.
+DESCRIPTION OF THE RECORD:  In the initial section of the record, the patient is awake, but unfortunately there are problems with artifact.  She drifts off to sleep with spindles.  There is artifact picked up with pop at T2, T4, and F7, as well as EKG artifact throughout.  Photic stimulation does elicit a driving response.
+HR:    108 bpm
+IMPRESSION:  This EEG within normal limits in sleep.
+CLINICAL CORRELATION:  Unfortunately, due to technical features, this EEG lacks 20 minutes of good quality recording data.
+
+
+

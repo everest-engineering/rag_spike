@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  70 year old left handed male transferred from XXXX with multiple cerebral metastasis and midline shift. Extra cranial metaphysis as well. Confusion, delirium, diabetes, hypertension, CAD, COPD, heart failure, acute right temporal hemorrhage, right temporal lobe hematoma and edema.
+
+MEDICATIONS:  Dexamethasone, Keppra, Insulin, Crestor, Carvedilol, Losartan, Cipro, Percocet, Labetalol, Zofran
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The recording begins at 853. The long term monitory equipment was continuous. Seizure and spike detection software is utilized.
+
+DESCRIPTION OF THE RECORD:  The overall EEG is low voltage, slow. There are sections of the record when the patient is awake and asleep. In wakefulness, there is a low voltage pattern again with attenuation noted on the right and a relative paucity of faster frequency activity on the particularly right frontocentral and right frontotemporal regions. There is a glimpse of an alpha rhythm observed in wakefulness which is 11 Hz, but there is background theta noted. Features of sleep include slow rolling eye movements and attenuation of the alpha rhythm with low voltage delta theta pattern.
+
+HR:    78 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Generalized background slowing.
+2. Focal slowing with replacement of normal background with right frontotemporal theta delta.
+
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function with a significant impact in the right frontotemporal region, congruent with the history.
+
+

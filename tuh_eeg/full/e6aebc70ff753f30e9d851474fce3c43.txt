@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 69-year-old right-handed male with left thalamic and temporal infarcts, prostate cancer, and an episode of impaired language.
+MEDICATIONS:  Aspirin, atorvastatin, lisinopril, metoprolol, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a symmetric, reactive 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by slow rolling eye movements and an increase in beta and theta.
+Photic stimulation elicits scant driving.
+Focal slowing:  Subtle underlying focal slowing is noted in the left hemisphere, maximum in the central and temporal region with mixed underlying theta delta.
+Epileptiform discharges:  None.
+Heart rate:  60 bpm.
+IMPRESSION:  Abnormal EEG due to focal slowing in the left hemisphere, maximum in the temporal regions.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The focal features may be correlated with clinical history and imaging.
+
+
+

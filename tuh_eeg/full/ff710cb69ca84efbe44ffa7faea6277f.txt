@@ -1,0 +1,26 @@
+History:	26 YR MALE ADM 12/19 FOR ATTEMPT SUICIDE. POST DRINKING. BEING
+DEPRESSED.
+Medications:	DEPAKOTE,  HYDROXYZINE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric diffuse 18-25Hz beta activity is present.  During brief
+drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by
+Continuous polymorphic slow activity is present in the right frontotemporal region (F4/F8) region
+during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving.  HR is 80 bpm.
+Summary of Findings:
+Excessive fast
+Focal slowing, polymorphic, right frontotemporal
+Interpretation:
+Excessive beta activity is likely a medication effect. This is an abnormal EEG due to continuous
+focal slowing in the right frontotemporal region.  This finding is indicative of a focal structural
+lesion in this region.  No clinical or electrographic seizures are present.  The lack of epileptiform
+discharges on a routine EEG does not rule out a diagnosis of epilepsy.
+
+

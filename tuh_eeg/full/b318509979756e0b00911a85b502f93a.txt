@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  37 year old woman with stroke, left-sided hemangioma.
+MEDICATIONS: Oxycodone,  Elavil, Diovan.
+INTRODUCTION: Digital video EEG was performed in lab using standard  10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness there is posterior dominant rhythm. Drowsiness is characterized by an increase in background theta, followed by delta and then vertex waves and POSTS. Hyperventilation does produce background slowing. Photic stimulation elicits scant driving.
+HR:	70 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No focal nor epileptiform features were observed. Normal
+EEG does not exclude a diagnosis of epilepsy.
+
+
+

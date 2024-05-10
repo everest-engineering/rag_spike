@@ -1,0 +1,17 @@
+MEDICINES:  Isoflurane, vecuronium, clindamycin.
+
+HISTORY:  A 75-year-old woman with no known CNS disease for aortic and carotid revision.  Carotid bypass required for the patient's other vascular procedures.
+
+INTRODUCTION:  Digital EEG was performed in the OR using standard-10-20 system of electrode placement with 1 channel of EKG.  Our standard operative montage was utilized.  Impedances were acceptable with the exception of the T1-T2 electrodes, which were not employed during this recording. This EEG included a total physician 1-on-1 remote review time of 30 minutes and physician in the OR time15 minutes.
+
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient has received anesthesia and initially demonstrates a burst suppression pattern.  Medications are adjusted and the EEG demonstrates a relatively synchronous pattern with mixed theta and delta.  There is a very subtle asymmetry noted in the baseline with a bit more slowing in the left posterior quadrant compared to the right.
+
+Heparin was given at 2:59 p.m.  The first clamp was placed at 3:09 and the carotid was clamped at 4:24.  No changes were noted with these procedures.  Recording continued with patency confirmed by Doppler at 4:51.
+
+After patency was confirmed by Doppler, the recording continued towards the close of the procedure and concluded at 5:29.
+
+IMPRESSION/CLINICAL CORRELATION:  This 5-hour EEG monitoring during aortic and carotid surgery was remarkable for:
+* No change with clamp but a very subtly asymmetric baseline.
+
+
+

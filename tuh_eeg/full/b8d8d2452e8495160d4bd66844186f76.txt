@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  52 year old right handed male with history of Parry Romberg Syndrome and seizures.
+MEDICATIONS:  Sertraline, Divalproex, Carbamazepine, Levetiracetam, Baclofen
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is markedly disorganized.  In addition, there is an asymmetry.  There is more arrhythmic slowing from the left hemisphere than the right.  The right hemisphere demonstrates a background with a slower alpha rhythm, 6-7 Hz.  It is relatively rhythmic.  The left hemisphere demonstrates essentially continuous arrhythmic delta activity, most prominent in the left temporal region, but seen to some extent in the central regions.  Sharp or spikes or can be seen in the left hemisphere, some of which are temporal maximum, but others seem to have more of a CZ-C3 maximum.  There are rare sharp waves noted in P4/A2.  Drowsiness is characterized by an accentuation of the rhythmic paroxysmal slowing.  Photic stimulation does not activate the record.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Irregular focal slowing from the left hemisphere, particularly in the temporal regions.
+Left hemisphere sharp waves.
+Left temporal sharp waves.
+Sharp waves which seem to be maximum at the CZ/C3 region.
+Occasional sharp waves in the right.
+CLINICAL CORRELATION:  The epileptiform activity from the right may be a new finding.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  73 year old gentleman with lung cancer, previously evaluated last week for focal features with a normal MRI but now with eye and hand deviation to the right and impaired motor withdraw on the left arm.  Intubated and obtunded. Recent exposure to Ativan and Fentanyl, but none in recent hours.
+MEDICATIONS:  Vancomycin, Medrol, Levo, Cefepime
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  By the time the EEG is performed, the patient is somewhat agitated.
+DESCRIPTION OF THE RECORD:  The background EEG is relatively low voltage with a mixed frequency background.  When the patient is quiet, it is a lower voltage slow pattern, and when he is moving about, there is some higher amplitude theta frequency activity.  There are shifting asymmetries, but no definitive focal slowing.
+HR:    120 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Low voltage generalized background slowing.
+Prominent shifting slowing.
+CLINICAL CORRELATION:  There are no overwhelming focal features noted in this record.  This EEG is most supportive of a diffuse disturbance of cerebral function.  Neuro imaging may be a better way of assessing focal features.
+
+
+

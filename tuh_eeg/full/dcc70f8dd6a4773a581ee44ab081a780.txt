@@ -1,0 +1,22 @@
+
+
+CLINICAL HISTORY: 49 year old right handed gentleman with epilepsy, alcohol abuse, medication noncompliance.
+
+MEDICATIONS: Depakote.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel or EKG. Hyperventilation and photic simulation are performed.
+
+DESCRIPTION THE RECORD: In apparent wakefulness, the background EEG is somewhat slow. There is also an asymmetry. The alpha rhythm is about 7.5 Hz, more prominent on the left than the right. The right hemisphere demonstrates a bit lower voltage, more subtle theta and occasional, small discrete sharp waves which have an F8, T1 T2 maximum. As the patient continues during hyperventilation, more rhythmic slowing is noted out of the right temporal region. As the patient transitions into stage I sleep with vertex wages, occasional right anterior temporal sharp waves are noted and then he transitions to stage II sleep with spindles followed by arousals. Photic stimulation is performed while he is drifting into stage II sleep and does not activate the record. Occasional sharp waves are again noted in sleep which are a little bit broader contour than in wakefulness.
+
+HR: 66 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Right temporal focal slowing.
+3. Right temporal sharp waves.
+
+CLINICAL CORRELATION: The epileptiform activity is identified in the previous EEG. There is more background slowing in this EEG which may be a toxic or metabolic state or post-ictal phenomenon.
+
+
+
+

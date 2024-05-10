@@ -1,0 +1,27 @@
+History:	26 year old woman status post cardiac arrest.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of a variable burst-suppression, from ~1:1
+to up to 1:10.  Bursts consists of moderate amplitude 6-7 Hz theta activity.  Bursts last ~1-1.5
+seconds.  Majority of the bursts are associated with high amplitude very brief EMG artifact.
+Clinically, this EMG artifact correlates with a brief upper body/ facial jerk.
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.  A single EKG lead demonstrates heart rate of
+~120-130 bpm.
+Summary of Findings:
+Burst-suppression pattern
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL portable comatose 21-minute EEG due to burst-suppression pattern.  This
+indicates marked diffuse cerebral dysfunction that is etiologically nonspecific. A brief myoclonic jerk
+is not related to an ictal correlate.  No electrographic seizures are present.  A single EKG lead
+demonstrates heart rate of ~120-130 bpm.
+
+
+
+
+

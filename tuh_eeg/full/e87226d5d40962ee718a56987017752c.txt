@@ -1,0 +1,20 @@
+MEDICINES:
+1. Tramadol.
+2. Ventolin.
+3. Lovastatin.
+4. Others.
+HISTORY:
+A 60-year-old, right-handed gentleman with syncope, recurrent dizziness, stroke 30 years ago, evaluated for complex partial epilepsy.
+INTRODUCTION:
+Digital video EEG was performed in the Jab using standard 10.20 system of electrode placement with one-channel EKG.
+Hyperventilation and photic stimulation were completed. This was an awake and drowsy record.
+DESCRIPTION OF RECORD:
+In maximal wakefulness, the background EEG include an 8.5 Hz alpha rhythm. There was also a squeak 52, squeak-like
+a mouse squeaks. Hypersynchronous rhythmic slowing was noted as the patient becomes drowsy. Deeper stages of
+sleep were not ac hyperventilation produces a small amount of slowing. Photic stimulation elicits scant driving achieved.
+Heart Rate: 66 BPM.
+IMPRESSION:
+Normal EEG in wakefulness and drowsiness.
+
+
+

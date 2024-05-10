@@ -1,0 +1,51 @@
+﻿AGE: 32 y.o.
+SEX: male
+DATE OF STUDY: 09/08/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: routine EEG, awake and drowsy EEG # : 15-1315
+
+HISTORY:
+32 y.o. male referred for routine EEG for a history of seizures.
+
+MEDICATIONS:
+Depakote
+
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen. Sleep is not captured.
+No generalized slowing is present.
+There is frequent left temporal polymorphic slowing.
+
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+
+ACTIVATION PROCEDURES :
+
+Hyperventilation : Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities.
+
+
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+IMPRESSION :
+This is an abnormal awake-and-drowsy routine EEG due to:
+1. Frequent left temporal polymorphic slowing
+
+CLINICAL CORRELATION:
+These findings are nonspecific indicators of left temporal cerebral dysfunction .
+
+
+
+

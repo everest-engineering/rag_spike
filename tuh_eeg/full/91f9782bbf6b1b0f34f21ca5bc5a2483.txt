@@ -1,0 +1,39 @@
+HISTORY:
+24 y.o. male referred for routine EEG as a follow-up study. He has a history of 2 seizures in 2011, after MVA. He has had a history of multiple prior EEGs.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+lamotrigine (LAMICTAL) 100 mg tablet, Take 100 mg by mouth daily. mirtazapine (REMERON) 30 mg tablet, Take 15 mg by mouth nightly. TWO TABLETS DAILY
+alprazolam (XANAX) 1 mg tablet, Take 1 mg by mouth as needed. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), with superimposed 18 Hz harmonic frequencies (fast alpha
+variant) . The normal anterior-to-posterior gradient of frequency
+and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.
+There is occasional sharply-contoured theta-frequency polymorphic slowing over the left posterior quadrant (T5/P3 maximum) , which is accentuated by hyperventilation.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and accentuates focal slowing in the
+left posterior quadrant region (see above) .
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 84 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-drowsy routine EEG due to:
+1. Occasional sharply contoured theta-frequency polymorphic slowing over the left posterior quadrant (T5/P3 maximum)
+CLINICAL CORRELATION:
+These findings are etiologically-nonspecific indicators of left posterior quadrant dysfunction. When compared to his prior
+routine EEGs performed 1/17/2012 and 6/19/2012, the focal slowing is less pronounced in the current study.
+
+
+
+
+

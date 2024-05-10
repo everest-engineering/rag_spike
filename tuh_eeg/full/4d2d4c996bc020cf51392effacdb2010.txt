@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 24-year-old, left handed male, with epilepsy as a child, seizure free for 2 years, but recurrent seizures on October 15, 2012 characterized by right shaking for 1-2 minutes with tongue biting, loss of consciousness, and postictal confusion.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with  channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, there is a glimpse of 9 Hz alpha rhythm, but there is excess theta.  Higher amplitude, triangular shaped, frontal delta was noted even prior to hyperventilation.
+Features of drowsiness include slow rolling eye movements and attenuation of the high amplitude theta, as well as the bursts of FIRDA.  Bursts of higher amplitude delta were noted during photic stimulation and after photic stimulation, but without spike and wave activity.  Photic stimulation elicited a driving response at intermediate and faster flash frequencies.
+Heart rate:  90 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Excess theta.
+It seems to be frontally predominant rhythmic mixed theta delta.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified.  This EEG may hide an underlying frontal epileptiform focus.  A follow up EEG with cognitive testing is advised to more clearly determine when the patient is maximally awake.  In addition, more extended sleep may be helpful in capturing epileptiform activity.  The higher amplitude frontal slowing is not as apparent as the patient transitions into sleep.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 30 year old woman with new onset seizures, headaches, history of seizure-related right scalp injury or head trauma, tonic-clonic disease, asthma, and bipolar disease.
+MEDICATIONS: Depakote, Risperdal, Tegretol.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with high amplitude 10.5 Hz alpha rhythm of 60 microvolts. MU rhythm is observed but testing is not performed to confirm this. Hyperventilation is performed early on in the record, producing bursts of rhythmic frontal slowing, some of which is notched but without definitive epileptiform activity. Following this, the patient reaches stage II sleep with vertex waves and beta spindles. Photic stimulation elicits bilateral driving.
+HR: 80 bpm
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: No focal nor epileptiform features were observed. If epilepsy is an important consideration, a followup study may be of use. In addition, a sleep deprived study with hyperventilation may also help characterize epileptiform activity.
+
+
+

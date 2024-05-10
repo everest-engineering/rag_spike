@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 	24 year old woman with blackout spells following a cortisone shot for degenerative joint disease.
+MEDICATIONS: Tramadol, SOMA,
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz posterior dominant rhythm with alpha squeak. Features of drowsiness include slow rolling eye movements followed by anterior spread of the alpha rhythm. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits bilateral driving.
+HR:   66 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal nor epileptiform features were observed.
+
+
+

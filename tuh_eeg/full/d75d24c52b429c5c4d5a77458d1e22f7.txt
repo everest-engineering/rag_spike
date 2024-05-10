@@ -1,0 +1,25 @@
+LENGTH OF THE RECORDING:  Approximately 8 hours total from approximately 8:40 a.m. until approximately 4:40 a.m. on August 22, 2012.
+
+CLINICAL HISTORY:  The patient is a 65-year-old gentleman admitted after cardiac arrest requiring CPR administration.  Currently exhibiting diffuse myoclonic jerks concerning for seizures.
+
+MEDICATIONS:  Ativan, Keppra, and propofol drip.
+
+INTRODUCTION:  This is a continuous video EEG recording performed according to a standard 2010 EEG system with additional T1 and T2 electrodes, and a single EKG electrode.  Spike detection and seizure detection software were employed, EEG technologist, nursing staff, and medical staff and notations were reviewed.
+
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of diffuse polymorphic mixture of beta and delta activity mixed with frontally predominant intermittent EMG artifact, as well as periods of discontinuity, and periods of burst suppression listing upwards of approximately 23 seconds.  There is a slight interhemispheric asymmetry with additional periods of attenuation over the left hemisphere.
+
+At approximately 1:37 p.m. decrease in the amount of EMG is observed.  The reason for it is unclear.  No annotation of additional medications are not done.  After this time period as the recording progresses there appears to be progressive flattening and attenuation of the wave forms.
+
+By approximately 3:40 p.m. there is diffuse burst suppression with no evidence of bursts captured.  EKG at that time demonstrates widened QRS complex with a heart rate of approximately 90 beats per minute.
+After that point as the recording progresses there is a gradual flattening of the QRS complex, as well as bradycardia captured approximately 3:46 p.m.  Based on the video CPR is initiated at approximately 3:48 p.m.  After CPR there was restoration of EKG rhythm, however, cerebral activity appears to be suppressed diffusely continuously.
+
+At approximately 4:10 p.m. EKG rhythm and QRS complex morphology change again and another round of CPR is initiated at approximately 4:13 p.m.  Again, after several rounds of CPR the EKG rhythm appears to be restored.
+
+At approximately 4:30 p.m. there is gradual flattening of the EKG.  After approximately 4:38 p.m. there is no clear rhythm captured on a single EKG lead.  The recording is stopped at approximately 4:42 p.m.
+
+IMPRESSION:  This is a very abnormal, nearly 8 hour, continuous video EEG due to diffusely severe background slowing, discontinuity, and burst suppression.  As the recording progresses, there is a gradual onset and progression of complete burst suppression with no evidence of underlying cerebral electrical activity.  During the recording, at least 2 separate cardiopulmonary arrests are witnessed with restoration of underlying EKG rhythm after each CPR attempt.
+
+By the end of the recording there is no clear electrocerebral activity or clear activity on the single EKG lead.
+
+Early in the recording frontally predominantly EMG artifact is captured without associated underlying abnormal electrical activity.
+

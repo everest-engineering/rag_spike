@@ -1,0 +1,27 @@
+History:	61 year old woman with a history of seizures and left hemispheric strokes, who
+presents with several typical seizures.
+Medications:	Topamax, Keppra, Ativan, phenobarbital
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left hemisphere.
+The background over the right hemisphere consists of 9-10 Hz alpha activity with preserved AP
+gradient.  The normal anterior to posterior gradient of frequencies is not seen over the left and PDR
+is also absent on the left.  The background over the left consists of a mixture of polymorphic
+moderate amplitude, at times sharply contoured, continuous theta and delta activity.  Occasionally,
+rhythmic delta activity is noted over the left, especially over the posterior quadrant.  No normal
+sleep architecture is present despite presence of clinical sleep.
+Intermittent left midtemporal/ centroparietal sharp waves with after going slow waves are captured.
+They have somewhat variable polarity and maximal scalp negativity occurs over T3, T5, C3, P3
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Sharp waves, intermittent, left, midtemporal/ parietocentral region, variable polarity
+Interpretation:
+This is an ABNORMAL 27-minute portable EEG due to continuous moderate left hemispheric
+slowing and intermittent left midtemporal/ parietocentral epileptiform discharges. These findings
+are indicative focal left hemispheric structural lesion that is potentially epileptogenic.  These
+findings were conveyed to the primary team and patient was placed on continuous EEG monitoring.
+

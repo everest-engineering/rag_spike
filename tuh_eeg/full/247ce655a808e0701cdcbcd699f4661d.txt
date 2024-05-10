@@ -1,0 +1,37 @@
+History:	47 YO FEMALE WITH HX OF SZ. C/O HAVING 2 - 3 SZ'S / DAY. CAN'T
+REMEMBER ANYTHING ABOUT THEM.
+Medications:	Neurontin, Klonopin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 20 hours from 05/13/2014 to 05/14/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.    Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	4
+Description of pushbutton events
+See above
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Mild excessive 5-15uV, 18-25Hz activity is present diffusely but
+maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta
+activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz
+activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+60  Four episodes of head and body irregular low amplitude shaking while unresponsive lasting
+from 1- 6 minutes. With a post event confusion, and difficulty with speech and crying.  EEG during
+the events revealed a normal awake background.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. Multiple shaking events with no EEG correlate.
+This are consistent with psychogenic non-epileptic events.
+.
+
+
+

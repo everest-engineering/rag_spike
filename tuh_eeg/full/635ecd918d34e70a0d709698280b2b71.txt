@@ -1,0 +1,12 @@
+History:	60 year old man with an episode  concerning for a seizure. Patient has a history of Etoh abuse and left hemiparesis.
+Medications:	Carbamazepine, D3, Klonopin,  Lipitor, Metoprolol Hydrochlorothiazide, Lisinopril
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, photic
+Description: The posterior dominant rhythm on the left consists of well a formed and modulated 9-9.5 Hz alpha activity.  PDR on the right is fragmented, polymorphic and reaches 8.5-9 Hz alpha.  The AP gradient is present only on the left.  The background on the right consists primarily of polymorphic theta and delta activity that is most pronounced over the lateral leads.  Sleep consisting of sleep spindles and K-complexes is noted. Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities.  A single EKG lead demonstrates heart rate <60 bpm (as low at 49 bpm).
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric, mild-to-moderate, most pronounced
+No epileptiform discharges
+Interpretation: This is an ABNORMAL awake and asleep 22-minute EEG due to continuous mild-to-moderate focal right hemispheric slowing that is most pronounced over the lateral electrodes. This finding is indicative of a focal structural lesion in this region.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.  A single EKG lead demonstrates heart rate <60 bpm (as low at 49 bpm).
+
+

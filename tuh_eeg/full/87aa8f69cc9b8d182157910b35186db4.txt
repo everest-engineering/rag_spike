@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 26 year old male with craniotomy, CSF drainage, and fever; evaluate for complex partial epilepsy.
+MEDICATIONS: Keppra, Vancomycin, Midazolam, Acetaminophen, Flagyl, Cefepime
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG is almost completely obscured by muscle artifact. There is some lower voltage posterior delta in this tremulous individual who stares at the ceiling and occasionally has movement of the left arm. The technologist utilizes a 15 Hz high-frequency filter at which point much of the muscle is filtered out and there is a 12 Hz background with posterior delta.
+HR: 120 bpm
+IMPRESSION/CLINICAL CORRELATION: This is a technically unsatisfactory EEG due to extreme amounts of muscle artifact. When this patient is more cooperative, or when the cause for the muscle artifact such as rigor, shivering, or other cause is determined, a followup EEG is suggested.
+
+
+

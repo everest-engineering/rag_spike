@@ -1,0 +1,24 @@
+History:	53 year old woman who presents with syncopal episodes.
+Medications:	Gabapentin
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Amplitude of PDR is higher than 50% on the left.  Fast alpha
+variant is present.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal
+regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear
+diffusely, followed by symmetric vertex waves.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric occipital driving at multiple flash rates.  A single EKG lead demonstrates
+frequent up to 2 second inter-QRS pauses.
+Summary of Findings:
+Alpha rhythm, higher voltage over the left
+Cardiac arrhythmia,  frequent up to 2 second inter-QRS pauses
+Interpretation:
+This is an ABNORMAL awake and drowsy 25-minute EEG due to asymmetry in the amplitude of
+posterior dominant rhythm, with higher voltages over the left. This finding is suggestive of focal
+cerebral dysfunction over the right posterior quadrant.  A single EKG lead demonstrates frequent up
+to 2 second inter-QRS pauses.  This finding was conveyed to the primary team.
+

@@ -1,0 +1,28 @@
+History:	41 yo female reported sz 1 year ago, recently pt has periods of passing out for 2 - 3
+min followed by loss of memory and 2 - 3 min to "snap out of it " back to
+baseline._'sz vs passing out cause of anemia".
+Medications:	tramadol, abilify, zoloft, ambien
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by low voltage 10 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  There is an artifact in a single EKG lead despite several attempts by the
+technologist to fix the issue.  Heart rate appears to be <60 but the information provided by that
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Other, faulty EKG lead
+Interpretation:
+This is a NORMAL 21-minute awake and drowsy EEG. No epileptiform discharges are present, but
+stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information.  Due to continuous artifact in the EKG, information provided by the
+EKG lead is not fully reliable.
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  48 year old woman with epilepsy since age 8, tonic clonic seizures in the past, now seizures characterized by a feeling that the middle of her face is numb, tongue is heavy for 2-3 minutes, followed by confusion for 5-10 minutes, and then return to baseline.  She denies that she is unconsciousness with the seizures.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The overall background is relatively low voltage.  Mu activity of 8 Hz is noted.  The alpha is relatively low voltage in this record.  It becomes more prominent as the patient transitions into sleep and a 10 Hz alpha rhythm is noted. Hyperventilation produces an increase in theta. In stage I sleep vertex waves are noted.  Lambda waves and a photic driving response were both observed in photic simulation. At the close of the record, more well defined stage II sleep with spindles and POSTS was noted.
+HR:    60 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The paucity of alpha rhythm can be seen in normals.  If additional information is needed to characterize this patient's epilepsy, a follow up study is suggested.
+
+
+

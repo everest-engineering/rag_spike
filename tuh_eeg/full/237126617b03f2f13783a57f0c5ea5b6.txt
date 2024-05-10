@@ -1,0 +1,21 @@
+History:	35 YR OLD FEMALE PRESENTS FOR FOLLOW UP EEG, PT COMPLAINS OF
+PAIN IN OCCIPITAL AREA OF HEAD AND NECK PAIN. ON NOV.30 PT HAD FALL
+WITH LOC. DENIES SZ ACTIVITY
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, asleep,
+hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR 72
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  Elderly woman with severe heart failure, advanced dementia and recurrent syncopal spells.
+MEDICATIONS:  Carvedilol, Lovenox, atorvastatin, hydralazine.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This is an awake and drowsy record.  The patient was confused.
+TECHNICAL:  This was a technically acceptable EEG with a small amount of muscle.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background is diffusely slow with an alpha rhythm of approximately 8 Hz.  There is intermittent, underlying arrhythmic delta activity with an asymmetry, a somewhat lower voltage record on the left in comparison to the right.  In addition, rhythmic delta on the left is sometimes more sustained than that seen on the right.
+Photic stimulation elicits scant driving at intermediate flash frequencies.
+Heart rate:  96 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting asymmetries with a decrease in amplitude on the left.
+Frontal intermittent rhythmic delta activity (FIRDA).
+CLINICAL CORRELATION:  No epileptiform features were noted.  The findings described above are nonspecific and can be seen as a postictal pattern.  They may also be seen in an individual with advanced dementia.  The asymmetries described above may be correlated with imaging.  No epileptiform features were noted.
+
+
+

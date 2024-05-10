@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  Lung CA, COPD, meningioma, 2 weeks repetitive seizures
+MEDICATIONS:  Dilantin, phenobarbital, Keppra, others.
+INTRODUCTION:  Continuous EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG. Seizure and spike detection software was utilized.   At the time of the recording, the patient had been experiencing intermittent seizures.  When the patient was not experiencing the seizures, he was awake but conversant. Bilateral craniotomy defects noted.
+DESCRIPTION OF THE RECORD:
+Background:  The interictal pattern includes a 7 Hz posterior dominant rhythm on the left.  The background EEG on the right includes arrhythmic delta activity and sharply contoured slowing.  A breach rhythm is noted for this patient with previous bifrontal craniotomies.
+Seizures:  Multiple, repetitive seizures were noted over the record.  In the initial sections of the record, electrographic seizures are characterized by bursts of rhythmic repetitive activity.  Some seizures seem to begin with repetitive fast activity in the right frontocentral regions, others seem to have more of a frontotemporal/centrotemporal onset.  The frontal activity can precede the temporal activity and the frontal fast activity transitions from alpha to beta frequency activity.  Seizure duration is approximately 1-3 minutes in duration.
+Additional patterns which may or may not be epileptiform but without clear clinical correlate include some sharply contoured, arrhythmic delta activity in the right hemisphere.
+Over the course of the record, the patient receives additional doses of phenobarbital.  Additional ictal pattern noted at 5:23 p.m. starts more with fast activity in the right hemisphere, again more right frontocentral.
+The overall seizure frequency waxes and wanes but does seem to respond to infusions of 200 mg of phenobarbital.
+A more prolonged seizure was noted at 11:19. Unfortunately, after this seizure, electrode integrity was lost.
+HEART RATE 100 BPM.
+IMPRESSION/CLINICAL CORRELATION:  This is a technically challenging EEG but abnormal due to multiple repetitive complex partial seizures from the right hemisphere.  Seizure semiology included speech arrest, inability to move the left arm and then head turning to the left arm, followed by brief postictal confusion. Despite the limitations, this EEG is diagnostic of a status epilepticus pattern.
+
+
+

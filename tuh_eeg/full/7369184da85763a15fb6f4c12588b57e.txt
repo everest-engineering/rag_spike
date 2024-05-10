@@ -1,0 +1,19 @@
+History:	49 year old woman with a history of seizures since the age of 5 yr.  Seizures occur monthly.
+Medications: Dilantin, Others in report
+Sedation:
+EEG Type: Routine, awake & drowsy
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, hyperventilation, photic
+
+Description:
+Waking background is characterized by a 25-40uV,  10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Continuous polymorphic, occasionally sharply contoured, theta and delta activity is present in the left temporal region during wakefulness, increasing during drowsiness. Similar activity to a lesser degree is observed over the right temporal region. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal slowing in the left temporal region. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left temporal, mild-to-moderate; often sharply contoured Focal slowing, polymorphic, intermittent, right temporal, mild-to-moderate
+No stage 2 sleep
+No epileptiform discharges
+
+Interpretation:
+This is an ABNORMAL  awake and briefly drowsy EEG due to bitemporal,  left»right, focal mild-to? moderate slowing. These findings indicate focal cerebral dysfunction,  possibly structural in etiology.   No epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional information.
+

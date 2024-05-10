@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 31-year-old right-handed woman with a history of stroke, previous foci tumor, headache, anxiety, and possible seizure during sleep.
+MEDICATIONS:  Gabapentin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10/20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 7-7.5 Hz noted on the left, not as defined on the right.  The background activity was disorganized and diffuse in theta range with a frequency of 5-7 Hz.  There is low amplitude frontocentral beta activity noted with symmetric distribution.  There is occasional right posterior quadrant slowing in theta range at times, with sharply contoured configuration. There is right hemispheric breath rhythm. Photic stimulation was performed at multiple frequencies with bilateral driving response.  Heart rate was 75-80 beats per minutes and regular.
+IMPRESSION:  This is an abnormal EEG due to:
+Slowing of the background and posterior dominant rhythm.
+Occasional right posterior quadrant slowing in theta range with sharply contoured configuration and breach rhythm.
+CLINICAL CORRELATION:  These findings are consistent with toxic, metabolic, infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medications or bilateral cerebral dysfunction or degenerative brain disease.  Breach rhythm in right cerebral hemisphere is consistent with history of right craniotomy.  Right focal slowing is consistent with structural or functional abnormalities in right cerebral hemisphere.  Clinical correlation is recommended.  No epileptiform abnormalities or seizures were captured during this recording.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  If clinically indicated, an ambulatory EEG monitoring may be helpful.
+
+
+

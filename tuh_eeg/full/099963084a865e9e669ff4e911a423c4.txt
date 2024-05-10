@@ -1,0 +1,29 @@
+History:	61 year old man with a history of a prior stroke, now presents with worsening
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+During several brief arousals, the background consists of 7.5 Hz theta posteriorly, poor AP gradient
+and excess polymorphic theta activity.  Patient is asleep throughout the majority of the recording.
+Vertex waves and sleep spindles are captured and there is asymmetry in the sleep architecture with
+sleep architecture better visualized over the right.
+Continuous polymorphic theta and delta activity is present in the left hemisphere.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+No epileptiform discharges
+Asymmetry, sleep architecture, better visualized over the right
+Interpretation:
+This is an ABNORMAL awake and mostly asleep 22-minute EEG due to mild-to-moderate diffuse
+slowing and continuous moderate left hemispheric focal slowing. Diffuse slowing is indicative of
+mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal
+slowing is indicative of a focal structural lesion in the left.  The lack of epileptiform discharges on a
+routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

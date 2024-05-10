@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  73 year old male with excessive drowsiness, evaluate for electrocerebral silence. Seroquel and Zyprexa overdose in an end-stage renal dialysis patient, who has missed dialysis.
+MEDICATIONS:	None listed in chart
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively somnolent, but there is some muscle artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow and disorganized.  There is facial twitching. There are a handful of poorly formed sharp waves in the right frontocentral region, right occipital region and a slight beta accentuation.   Photic stimulation did not activate the record.
+HR: 	84 bpm
+IMPRESSION:  Marked abnormal EEG due to:
+1. 	Background slowing.
+2. 	Beta asymmetry with more marked beta in the right central region.
+3. 	In this sharply contoured record, some simple sharp waves in the right central occipital region.
+CLINICAL CORRELATION:   The background slowing supports diffuse encephalopathy which may be due to the renal failure or the medication overdose.  Epileptiform discharges may be accentuated in the context of acute metabolic encephalopathy such as renal failure and follow up may be appropriate.  The small amount of twitching was that seen was not associated with epileptiform activity.
+
+
+

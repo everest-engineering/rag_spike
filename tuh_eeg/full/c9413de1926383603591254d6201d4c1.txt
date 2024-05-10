@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  63 year old right handed woman with episodic memory loss, depression.
+MEDICATIONS:  Simvastatin, Fosamax.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation was performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9.5 Hz 30 mV posterior dominant rhythm with a small amount of low voltage frontal central beta activity.
+Drowsiness is characterized by slow rolling eye movements and attenuation of the alpha rhythm. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits bilateral driving.
+HR:    66 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  A low voltage record is a normal finding.  No epileptiform features were noted.
+
+
+

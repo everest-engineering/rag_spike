@@ -1,0 +1,16 @@
+
+MEDICATIONS:  Keppra, fentanyl, Ancef, famotidine, Lovenox.
+CLINICAL HISTORY:  A 20-year-old male, admitted on December 28 with traumatic brain injury, occipital fracture, bilateral subdural hematoma, diffuse cerebral edema, transarterial herniation treated transiently with EVD, persistent obtundation.
+MEDICATIONS:  KEPPRA, FENTANYL PRN (4AM), ANCEF, FAMOTIDINE
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was noted to have craniotomy defect and skull fracture.  The patient was poorly responsive, but did demonstrate some interactivity.  The patient also has oral automatisms and hiccups noted during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a dynamic pattern.  Some sections are lower voltage mixed frequency, other sections demonstrate more rhythmic, sustained frontal delta.  There is also shifting delta, at times, a little higher amplitude and more sharply contoured on the left (craniotomy defects).  The EEG pattern seems to wax and wane irrespective of tactile stimulation of the patient or interaction with the patient, and the later sections of the record are richer in theta with another bursts of more sustained semi arrhythmic frontal delta without clinical correlate.
+Heart rate 132 bpm.
+IMPRESSION:  Markedly abnormal EEG due to,
+Dynamic pattern, which varies between semi rhythmic delta activity and lower voltage mixed beta theta.
+Shifting slowing with some bursts of sharply contoured slowing from the left hemisphere.
+Absence of definitive reactivity to stimuli, although there is clear variability.
+CLINICAL CORRELATION:  No seizures were recorded.  The EEG findings described above suggest a severe disturbance of cerebral function.  Contributing factors can include toxic or metabolic as well as bihemispheric cerebral pathology.  If there is any question, additional, prolonged EEG monitoring can be employed to ensure subclinical seizures.
+
+
+
+

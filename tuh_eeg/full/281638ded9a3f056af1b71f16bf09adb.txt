@@ -1,0 +1,24 @@
+History:	86 year old woman who presents with change in mental status.
+Medications:	No AEDs.
+Sedation:	None
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, asleep,
+lethargic
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of polymorphic moderate
+amplitude theta and delta activity without expected AP gradient.  During sleep, faint very low
+amplitude sleep-spindle-like complexes are seen.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate up to 120 bpm during stimulation.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep portable 22-minute EEG due to moderate diffuse
+slowing. This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.  A single EKG lead demonstrates heart rate up to 120 bpm during stimulation.
+
+
+
+
+

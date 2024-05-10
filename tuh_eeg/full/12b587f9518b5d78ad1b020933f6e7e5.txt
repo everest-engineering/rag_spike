@@ -1,0 +1,31 @@
+History:	56 year old female presenting with right hand and forearm shaking for 3 years since
+repair of ROTATOR cuff. EEG is being performed to rule out
+Medications:	Sinemet
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+appear diffusely, followed by symmetric vertex waves and POSTS (positive occipital sharp
+Occasional polymorphic delta activity is noted over the left anterior temporal region.  No
+epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  Right arm/ hand tremors are noted
+throughout the recording.  They are not associated with an abnormal ictal correlate.
+Summary of Findings:
+POSTS (positive occipital sharp transients of sleep)
+No stage 2 sleep
+No epileptiform discharges
+Focal slowing, polymorphic, occasional, moderate, left temporal, anterior
+Other, Right arm/ hand tremors are not associated with an abnormal ictal correlate.
+Interpretation:
+This is a an ABNORMAL awake and drowsy 26-minute EEG due to occasional moderate left
+anterior temporal slowing. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  Right arm/ hand tremors are not
+associated with an abnormal ictal correlate.
+
+

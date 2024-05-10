@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 70 year old right handed woman with a left middle cerebral artery stroke and seizures secondary to the stroke which originated back in July 2010, with short term memory loss.
+MEDICATIONS: Levetiracetam, Glyburide, Fexofenadine, Nitroglycerine, Plavix, Metformin, ASA, Coreg, Simvastatin, Diovan.
+INTRODUCTION: Digital video EEG which was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not performed because of the patient's heart bypass. Photic stimulation was performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: This is a well-organized study showing 10.7 Hz alpha rhythm at 90 millivolts. There was normal amplitude. There was left temporal slowing throughout the record intermittently. During photic stimulation, there was a noticeable photic driving response.
+HR: 80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Left temporal slowing.
+CLINICAL CORRELATION: There was no epileptiform discharge, however, the slowing on the record is likely due to evidence of the old infarct.
+
+

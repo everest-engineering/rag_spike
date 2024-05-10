@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  Eighteen-year-old with attention deficit hyperactivity disorder, congenital right-sided infarct, now with episodes of palpitations, exhaustion and confusion  lasting  30 seconds to one minute.
+MEDICATIONS:  Concerta and Strattera
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was a technically satisfactory, routine EEG with acceptable impedances, aside from T1-T2 electrodes.  This was a 20-minute EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10-hertz alpha rhythm noted on the left.  There is an asymmetry noted between the two hemispheres.  The right hemisphere demonstrates continuous right hemispheric flowing with rhythmic delta.  When an alpha rhythm is present on the right, it is a bit slower, approximately 9 hertz.  Hyperventilation was performed early in the record, accentuating the focal slowing.  During hyperventilation, the patient reported that he felt as if his heart was pounding.  Of note, heart rate increased from baseline of 120 bpm to 156 bpm, during hyperventilation.  Hyperventilation was followed by drowsiness with an increase in beta.  Vertex waves and spindles were noted, which were asymmetric.  The EEG remains asymmetric in phase 2 sleep with continuous focal slowing.
+Photic stimulation elicited bilateral driving.  Following Photic stimulation, the patient starts to transition in and out of stage 2 sleep, at which time rare T2 and T4 sharp waves were noted.
+Heart rate 96 bpm in sleep.
+IMPRESSION:  This is an abnormal EEG due:
+Continuous focal slowing from the right hemisphere with disruption of faster frequency activity.
+Rare right temporal sharp waves noted primarily in sleep.
+Baseline tachycardia, increasing during hyperventilation with clinical symptoms of palpitations.
+CLINICAL CORRELATION:  In this individual with a congenital stroke, focal slowing is an anticipated finding.  The sharp waves noted support a potential for seizures.  What is most significant is that the baseline heart rate was rapid and the patient was symptomatic during hyperventilation.
+
+
+

@@ -1,0 +1,28 @@
+History:	53 yo man who presents for a follow-up EEG. Pt has h/o seizures status post L
+aneurysm clipping several years ago. Pt has been seizure free over 5 years, now
+presenting with mood swings.
+Medications:	Topamax, Keppra, Seroquel
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+The background consists of very low voltage fast activity without clear AP gradient.  Patient remains
+awake throughout the recording.
+Subtle intermittent moderate amplitude polymorphic delta activity is captured over the left anterior
+quadrant.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Low voltage, severe
+Beta, continuous diffuse
+Focal slowing, polymorphic, intermittent, moderate, left anterior
+Interpretation:
+This is an ABNORMAL awake-only 21-minute EEG due to subtle intermittent focal left anterior
+moderate slowing. This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific, but possibly structural in origin.  When compared to prior EEGs, left anterior focal
+slowing has been previously reported.
+
+
+
+

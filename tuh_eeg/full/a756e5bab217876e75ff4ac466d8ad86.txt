@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 39-year-old woman with depression and OCD.  Patient now with new-onset episodes of dizziness occurring 3 times per month.  Patient has fainted twice.
+MEDICATIONS:  Celexa
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was an 11 Hz alpha rhythm.  Alpha supra-harmonic was noted on occasion.  Mu activity was noted, but testing was not performed to confirm this.  Lambda was also seen in wakefulness.
+Drowsiness was characterized by anterior spread of the alpha rhythm followed by brief stage 1 sleep and very brief stage 2 sleep with spindles and K complexes and POSTS.
+Photic stimulation elicited vigorous driving with harmonic and supra-harmonic driving.  Hyperventilation produced rhythmic slowing of the background.  On one occasion, there was a subtle suggestion of an asymmetry in hyperventilation.
+Heart rate:  66 BPM.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  Multiple normal variants were identified.  This was a somewhat cold environment, and shiver artifact was also noted.
+
+
+

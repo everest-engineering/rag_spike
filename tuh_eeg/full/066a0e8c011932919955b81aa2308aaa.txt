@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 54 year old right  handed woman with left sided chest pain, numbness, and a past history of bilateral frontal AVMs and an aneurysm 10 years ago.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a generous amount of low voltage, frontal central beta. Features of drowsiness include an increase of frontal beta.  There is also a subtle breech with some subtle, rhythmic frontal theta, left more so than right. Photic stimulation elicits a bilateral driving response.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Subtle theta, particularly noted in drowsiness.
+CLINICAL CORRELATION:  A breech rhythm is an anticipated finding following craniotomy.  If epilepsy is an important consideration, a follow up study is suggested.
+
+
+

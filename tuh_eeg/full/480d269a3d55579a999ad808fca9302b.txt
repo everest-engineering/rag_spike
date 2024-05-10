@@ -1,0 +1,41 @@
+AGE: 94 y.o.
+SEX: female
+DATE OF STUDY: 11/20/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1707
+HISTORY:
+94 y.o. female with a history of syncope vs TIA referred for routine EEG for evaluation of paroxysmal
+events-PRESENTED TO ED WITH ACUTE R SIDED WEAKNESS. PT HAD FALLEN AND WAS UNABLE TO STAND UP. NOT WITNESSED. PMHX. A FIB,TACHY.BRADY
+SYNDROME S/P Pacemaker, HTN,CAD. Chronic infarctions within the
+anterior and
+posterior right MCA distributions
+MEDICATIONS:
+Current Outpatient Prescriptions:
+metoprolol (LOPRESSOR) 50 mg tablet, Take 1 tablet by mouth 2 times daily.
+ketoconazole (NIZORAL) 2 % cream, Apply bid
+aspirin 325 mg tablet, Take 1 tablet by mouth daily. Lasix
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG.	No	photic stimulation . The patient is initially inattentive and somewhat agitated but was
+able to get to sleep
+EEG BACKGROUND :
+The waking background is slow and somewhat asymmetric . The right hemisphere is lower voltage with a slow, 6 Hz alpha rhythm.	A left hemisphere is somewhat higher amplitude with a 4-5 Hz alpha rhythm
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep includes vertex waves and spindles
+Focal features include subtle slowing in the left hemisphere, with slowing of the alpha rhythm and asymmetry in the delta with somewhat more delta in the left hemisphere than the right
+EPILEPTIFORM ACTIVITY:
+Primarily in stage I sleep sharp waves are noted in the left hemisphere, maximal in the left posterior quadrant including T5-T3 and 01.
+EVENTS:
+There are no electrographic events captured during this study.
+HEART RATE:
+A heart rate of 84 bpm is captured on a single EKG lead.
+IMPRESSION:
+Abnormal EEG due to
+#1 bihemispheric, background slowing and disorganization
+#2 superimposed left focal slowing with disruption of the posterior dominant rhythm on the left
+#3 focal epileptiform activity in the left hemisphere, primarily in the left posterior quadrant
+CLINICAL CORRELATION:
+A focal epileptiform activity supports the diagnosis of epilepsy or seizures.	The focal features may be correlated with clinical history and imaging:	The EEG is lower amplitude on the right, in the region of the prior infarct.
+
+
+

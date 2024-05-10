@@ -1,0 +1,21 @@
+History:		83 year old man who presented with shaking episodes. Left parietal meningioma was found.  Patient also has a history of metastasis cancer, unknown if brain involved.
+Medications:	Keppra, Ativan
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Description:
+During maximal arousal the background consists of low amplitude diffuse beta activity without clear PDR or AP gradient. There is paucity of faster frequencies over the right hemisphere. Sleep spindles are captured.
+Continuous independent right anterior and right posterior rhythmic broadly based sharp waves are captured (PLEDs). They occur at the repetition rate of - 0.75-1 Hz. Maximal scalp negativity is over F8/T2 and 02/P4 leads, respectively. Right posterior sharp waves are frequently accompanied by low amplitude polyspikes.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Beta, excessive
+Focal slowing, polymorphic, continuous, moderate hemispheric
+PLEDs (periodic lateralized epileptiform discharges), continuous, right,independent frontal and po: No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and asleep 23 minute EEG due to continuous moderate right hemispheric focal slowing and independent 0.75-1 Hz right anterior and right posterior rhythmic epileptiform discharges (PLEDs). These findings indicate focal structural abnormality over the right with increases epileptogenic potential in the right anterior and right posterior regions. Please correlate locally.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.  Patient was placed on continuous EEG monitoring.
+
+
+
+
+

@@ -1,0 +1,36 @@
+History:	57 year old male with right ICH and altered mental status, now resolving.
+Medications:
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+There is the appearance of more normal cerebral activity with a more consistent and well formed
+posterior dominant rhythm achieving 8-9Hz..  Rarely, the background activity is characterized by
+diffuse low voltage delta and theta activity with absence of the expected anterior to posterior
+gradient of frequencies.  There remains intermittent frontal Delta activity, with a triphasic
+morphology.  Improving sleep architecture is seen with some stage I and stage II sleep.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, rare, bilateral diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing..  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  Overall the record has
+improved from yesterday.  No clinical or electrographic seizures are present.  These findings were
+conveyed to the primary team.
+
+
+
+

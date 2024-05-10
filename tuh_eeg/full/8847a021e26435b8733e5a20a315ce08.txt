@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   66 year old gentleman with multiple medical problems and seizure, September 5, 2009.
+MEDICATIONS:  Keppra, Insulin, Simvastatin, Carvedilol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 8Hz alpha rhythm with a small amount of excess theta and just scant shifting slowing. Photic stimulation does not activate the record.
+HR: 	96 bpm with notched QRS
+IMPRESSION:  Mildly abnormal EEG due to:
+1.  Mild background  slowing.
+CLINICAL CORRELATION:   This EEG demonstrates less in the way of background slowing than seen in the first study. Neither study identified epileptiform activity.
+
+
+

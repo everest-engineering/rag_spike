@@ -1,0 +1,23 @@
+﻿CLINICAL HISTORY:  81 YR OLD R HANDED FEMALE- TIA ON 10-15 IN ABINGTON HOSPITAL. Doctor THINKS it was a SEIZURE. DM TYPE 2
+
+MEDICATIONS:  Unknown.
+
+INTRODUCTION:  A 24-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is an awake and drowsy record in a patient who was quite drowsy.  Involuntary chew artifacts were noted.  Most impedances were under 5 kilohms.
+
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the overall EEG is very low voltage, but there is a well-defined, 9.7 Hz alpha rhythm, slowing to 8.3 hertz in drowsiness.
+
+There is an asymmetry in this record with higher amplitude alpha and theta frequency noted on the left compared to the right.  There is also some head rocking or other artifacts on the left raising a question of skull deformity or breach rhythm.
+
+Photic stimulation elicited a bilateral driving response with chew and photoelectric artifact noted.
+
+Deeper stages of sleep were not sustained.  Frequent eye blink artifact was noted.
+
+IMPRESSION:  Technically challenging electroencephalogram for this elderly patient remarkable for:
+1. Potential skull deformity or skull defect noted on the left with amplitude asymmetry.
+2. Questionable underlying focal slowing in the left frontotemporal region.
+
+CLINICAL CORRELATION:  No epileptiform features were noted.  The findings described above may be correlated with imaging and physical examination.  If seizures are an important consideration, a followup study may be of value.
+
+
+
+

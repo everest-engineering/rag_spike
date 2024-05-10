@@ -1,0 +1,45 @@
+AGE: 73 y .o.
+SEX : female
+START DATE OF STUDY: 11/13/2015 at 11:19 END DATE OF STUDY: 11/14/2015 at 11:52
+RECORDING ENVIRONMENT : ICU EEG TYPE: LTM
+EEG #: 15-321.1-2
+HISTORY:
+73 y.o. female with a history of CHF, RV failure, OSA, morbid obesity, HTN, OM, stroke 2009, CKD, who presented with L arm cramping and was found in PEA arrest, referred for EEG as part of hypothermia protocol.Temp of 31 C reached 11/13/15 at 01:00. Normothermic at 11/14/2015 at 09:00.
+MEDICATIONS: propofol stopped 11/13/2015 at 09:00 SEDATION: None
+TECHNIQUE :
+A 21 channel electroencephalogram	{EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (11/13/2015, 11:19 - 11/14/2015, 06:00) BACKGROUND:
+The background consists of burst suppression.	Bursts are
+characterized by 2-4 second periods of disorganized theta and delta. Periods of suppression last up to 190 seconds.
+As this day progresses, at times the bursts appear higher in amplitude over the right temporal region .
+There is no reactivity, variability, or state change. Spontaneous eye blinks and chewing artifact are present.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS:
+Clinical: The patient bites down on the tube for 5-15 seconds at a time.
+EEG: Spontaneous chewing artifact is captured on EEG that correlates. There is no underlying epileptiform activity. This artifact resolves by 11/13/15 17:00
+HEART RATE:
+A single EKG captures a heart rate of 54 bpm.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal study due to:
+- Burst suppression pattern with lack of reactivity, variability, or state change. At times bursts appear higher in amplitude over right temporal region.
+Biting movements, which have no epileptiform correlate
+These findings are consistent with severe cerebral dysfunction, which is likely at least in part related to hypothermic state. The chewing motions captured are not seizures.
+DAY 2 (11/14/2015, 06:00 - 11/14/2015, 11:52)
+BACKGROUND: No change GENERALIZED SLOWING: No change FOCAL SLOWING : None
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) : None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS :No clinical or electrographic events reported or detected DAY 2 IMPRESSION & CLINICAL CORRELATION
+Unchanged from Day 1.
+Biting movements not captured on this day.
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Burst suppression pattern with lack of reactivity, variability, or state change. At times bursts appear higher in amplitude over right temporal region.
+Biting movements, which have no epileptiform correlate, seen on Day 1
+FINAL CLINICAL CORRELATION:
+These findings are consistent with severe cerebral dysfunction, which is likely at least in part related to hypothermic state. There is intermittent asymmetry in amplitude of the bursts; correlation with imaging is recommended.
+The chewing motions captured are not seizures .
+
+
+

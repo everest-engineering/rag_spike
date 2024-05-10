@@ -1,0 +1,31 @@
+History:	64 year old woman with a history of a renal transplant and seizures.
+Medications:	Keppra, vancomycin, meropenem, fentanyl
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of polymorphic low
+amplitude theta<delta activity.  No normal sleep architecture is present.
+Subtle paucity of theta activity and attenuation is noted over the right posterior quadrant.
+Hyperventilation and photic stimulation are not performed.  An irregular heart rate is noted on a
+single EKG lead.
+Summary of Findings:
+Attenuation, right posterior
+Focal slowing, polymorphic, nearly continuous, right posterior
+No electrographic seizures
+Cardiac arrhythmia
+Diffuse slowing, polymorphic, moderate-to-severe
+Interpretation:
+This is an ABNORMAL portable 29 minute EEG due to moderate-to-severe diffuse slowing and
+subtle focal slowing and attenuation over the right posterior quadrant. Diffuse slowing is indicative
+of moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific.  Focal right
+posterior quadrant slowing and attenuation indicates focal cerebral dysfunction, possibly structural
+in etiology (including a fluid collection between the brain and the skull (such as SDH)).  Of note,
+similar finding could also be seen if  there is asymmetrical electrode placement or a salt bridge
+(seen in cases when EEG placement is challenging).  An irregular heart rate is noted on a single
+
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  57 year old woman with schizoaffective disorder, stroke, right sided weakness, and heart attack.
+MEDICATIONS:  Abilify, Amiodarone, ASA, Digoxin, Furosemide, Glimepiride, Levothyroxine, Lisinopril, Cipro, Macrobid, Detrol, Ventolin, Oxybutynin, Plavix, Ranitidine, Carvedilol, Coreg, Prandin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The maximal wakefulness there is an 11 Hz alpha rhythm.  There is a suggestion of a mu rhythm.  As the patient drifts into stage I and stage II sleep there are slightly asymmetric vertex waves.  There is a subtle underlying area of slowing in the right central temporal region. Photic stimulation is performed while the patient is drifting in and out of stage II sleep.  No driving response is elicited.
+HR:    60 bpm
+IMPRESSION:  This EEG is remarkable for:
+Asymmetric vertex waves.
+Subtle right central temporal focal slowing in sleep.
+CLINICAL CORRELATION:  There were no epileptiform features noted.  The subtle focal features seen in sleep may be correlated with imaging.
+
+
+

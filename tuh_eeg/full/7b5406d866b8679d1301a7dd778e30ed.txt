@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 61-year-old gentleman who had a dizzy spell after alcohol ingestion on April 4.  Past history of head trauma in 2006.  Past history of seizures and C2 fracture.  Admitted on the 25th after multiple generalized tonic-clonic seizures.
+MEDICATIONS:  Versed drip, phenytoin, Keppra.
+INTRODUCTION:  A digital video EEG was performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated.  The patient has spontaneous eye movements but is not interactive.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow with an intra-hemispheric asymmetry.  The activity from the left is lower voltage with a mixture of beta and lower voltage mixed theta delta.  There is a subtle paroxysmal nature to the right hemisphere with intermittent, paroxysmal faster frequency activity.  There is also a discreet right occipital sharp wave with some bilateral representation.  It is best observed at slow paper speed and is approximately 180 milliseconds duration, 25 to 35 mV in amplitude.  It is continuous but does not evolve.  Tactile stimulation of the patient did not impact this discharge.
+Heart rate:  130 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+A diffusely slow pattern.
+An asymmetry with a relatively homogeneous pattern on the left but a more paroxysmal pattern on the right with intermittent bursts of faster frequency activity.
+A subtle right occipital sharp wave which is continuous but without  evolution.
+CLINICAL CORRELATION:  This EEG demonstrates an ongoing, epileptiform discharge and suggests an increased susceptibility to seizures in this intubated and sedated patient.  These findings were discussed with the team.
+
+
+

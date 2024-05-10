@@ -1,0 +1,30 @@
+History:	74 year old man with right hemispheric hemorrhage, now status post evacuation.
+His mental status remains poor and he has episodes of agitation.
+Medications:	Keppra, Zonisamide
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left hemisphere consists of 8 Hz PDR, poor AP gradient and excess
+polymorphic theta activity.  There is no AP gradient and no PDR over the right hemisphere.  The
+background over the right consists of polymorphic attenuated theta and delta activity.  During brief
+drowsiness, the posterior dominant rhythm attenuates over the left and increase in diffuse theta
+Hyperventilation and photic stimulation are not performed.  Irregular heart rate is noted on a single
+EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate
+No epileptiform discharges
+No stage 2 sleep
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL awake and drowsy 22-minute EEG due to mild diffuse slowing and focal
+continuous moderate right hemispheric slowing and attenuation. Diffuse slowing is indicative of
+mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing and
+attenuation is indicative of a focal structural lesion in this region with a suspected fluid collection
+between the skull and the brain (such as empyema, hematoma).  Irregular heart rate is noted on a
+single EKG lead.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical
+diagnosis of epilepsy.  These findings were conveyed to the primary team.
+
+

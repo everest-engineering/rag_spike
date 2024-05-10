@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 51 year old right handed female with change in mental status, followed by tonic clonic seizures on October 16, 2010.
+MEDICATIONS: Hydralazine, Keppra, ASA, Lovenox, Protonix
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was declined, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a somewhat disorganized pattern with an 8.3 Hz alpha rhythm, generous frontal beta, and a small amount of background theta. Bursts of FIRDA are noted. In the transition towards the sleep, there is a bit more rhythmic slowing in the left frontal region compared to the right. Photic stimulation elicits a bilateral driving response.
+HR: 108 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta.
+2. Mild background slowing.
+3. FIRDA.
+4. Left frontal delta.
+CLINICAL CORRELATION: No epileptiform features are observed. Correlation with this patient's history and imaging may be helpful regarding the FIRDA and the focal features.
+
+
+

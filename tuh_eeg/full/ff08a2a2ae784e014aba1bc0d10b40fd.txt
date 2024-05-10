@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is an 81-year-old gentleman with multiple medical problems, significant heart disease with multiple daily spells, previous stroke in the right brain.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was awake.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontal/central beta.  Discrete, focal slowing is noted in the right hemisphere, particularly posterior temporal and central temporal region.  At times, as the patient becomes drowsy, this becomes a little bit more continuous and rhythmic but in maximal wakefulness, is intermittent.  As the patient becomes drowsy, there is dropout of the alpha rhythm noted on some occasions, more so earlier on the right than the left.
+Heart rate 60 bpm.
+IMPRESSION:  This is a very mildly abnormal EEG for an adult of this age due to:
+Subtle focal slowing noted from the right hemisphere in the right posterior quadrant.
+The focal features described above were seen in the patient's previous EEGs and are in the region of his previous infarcts.  This is the 2nd EEG without epileptiform features for this adult.
+
+
+

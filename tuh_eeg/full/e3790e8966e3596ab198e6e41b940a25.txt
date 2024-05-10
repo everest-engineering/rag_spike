@@ -1,0 +1,28 @@
+History:	62 YO MALE P/W ABDOMINAL PAIN UPPER RIGHT QUAD. FOR 3 DAYS. PT HAS
+TRACE ( TRANSARTERIAL CHEMOEMBOLIZATION) PMHX: HCV, DM, HTN, CVA,
+ESOPHAGEAL CA S/P CHEMO XRT , LIVER METS AND HCC
+Medications:	Ativan, morphine
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Description:
+Waking background is characterized by a 25-40uV, 7.5 Hz posterior dominant rhythm, which
+attenuates symmetrically with eye opening.  Beta activity is present, maximal over bilateral frontal
+regions.  There is diffuse excess 6-7 Hz theta activity during wakefulness.  During brief drowsiness,
+the posterior dominant rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+Almost continuous polymorphic delta activity is present in the left frontocentral region, maximum at
+F3, during wakefulness, increasing during drowsiness.  There is breach artifact over the left
+frontocentral region.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 100-110.
+Summary of Findings:
+Focal slowing, polymorphic, left frontal, frontocentral
+Diffuse slowing, polymorphic
+Breach artifact, left
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of 1) diffuse background slowing and slow
+alpha rhythm. These findings are indicative of mild to moderate diffuse cerebral dysfunction, which
+is etiologically nonspecific.  2) almost continuous focal slowing in the left frontocentral region with
+breach artifact.  This finding is indicative of a focal structural lesion in this region. Breach artifact is
+consistent with a history of craniotomy.  The lack of epileptiform discharges on a routine EEG does
+not rule out a clinical diagnosis of epilepsy.  Please note the patient is tachycardic.
+

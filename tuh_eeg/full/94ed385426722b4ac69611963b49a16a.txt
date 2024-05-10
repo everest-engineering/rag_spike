@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  This is a 73-year-old man status post code at 2:30 a.m. on the 19th, prolonged cardiac arrest, now with myoclonic jerks.  Blood pressure is 85/59 and temperature 34.9.
+
+MEDICATIONS:  Vecuronium, propofol, Keppra, and others.
+
+INTRODUCTION:  Continuous EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient received vecuronium during the EEG.  In addition, a propofol drip was initiated at the end of the EEG.
+
+DESCRIPTION OF THE RECORD:  As the pacing begins, the EEG is essentially obscured by muscle artifact.  Intermittent myoclonic jerking produces artifact in the EEG.  By 5:29 p.m., the patient has received medications.  The EEG demonstrates a low voltage relatively suppressed and subtly discontinuous pattern.  The myoclonic jerks persist and produce muscle artifact as well as an after-going slow wave.  There is slight asymmetry with some variability with right or left-sided sharply contoured transients, but they are bit more prominent in the right frontocentral and left frontotemporal region.  These transients have no definitive relationship to the myoclonic jerks, although some seem to occur about 900 milliseconds before the jerk.  The sharply contoured bursts occur without the jerks and sometimes there is a duration of several seconds between one of the sharply contoured transients and jerks.  The myoclonic jerks typically occur on isolation, but may occur as pairs.  Tactile stimulation of the patient does not alter the EEG.
+
+A propofol drip was initiated, which does seem to produce an increase in factor frequency activity in the frontal regions. It does not attenuate the myoclonic bursts.
+
+Heart rate 60-90 BPM, irregular.
+
+IMPRESSION:  This is a markedly abnormal 3-hour video EEG due to
+1. Replacement of normal background with a markedly suppressed pattern.
+2. Minor asymmetries with bursts of sharply contoured activity, which are not prominent, though definitively present, more particularly in the right frontocentral region.
+3. Myoclonic jerks, which have an after-going slow wave, but without an epileptiform EEG signature.
+
+CLINICAL CORRELATION:  These findings are relatively characteristic of a severe anoxic encephalopathy.  The use of vecuronium eliminated the muscle artifact, but did not entirely eliminate the myoclonus.  No epileptiform seizures or sustained epileptiform activity was identified.
+
+
+
+

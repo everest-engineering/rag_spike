@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 50-year-old male, who has been trying to reduce alcohol, patient had 1 hour seizure on 29th, hit his head.
+MEDICATIONS:  Ativan
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not possible. Photic stimulation was completed.  This was a technically challenging patient who was poorly cooperative. Most of the impedances were under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized with a posterior dominant rhythm ranging from 7-9 Hz.  Generous beta-activity was noted.  As the patient became drowsy, there is a subtle asymmetry with a bit more rhythmic mixed theta delta from the left hemisphere with a phase reversal in the left mid to anterior temporal region.  Rare, discrete left temporal sharp waves with a relatively simple morphology were noted.  These are primarily seen in drowsiness.  These are noted exclusively on the left.  Although, they are simple in morphology, they are seen more often than 1 might anticipate as a benign variant.  In association with temporal focal slowing, they should be considered a localization related mechanism for epilepsy.
+Photic stimulation elicits:  Scant driving.
+Heart Rate:  78 BPM.
+IMPRESSION: Abnormal
+Generalized slowing
+Left temporal sharp waves
+L temporal slowing
+CLINICAL CORRELATION: Please consider a localization related mechanism for seizures. The generalized slowing may be a post ictal pattern or part of a metabolic encephalopathy
+
+
+

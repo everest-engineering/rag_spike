@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 64-year-old gentleman with memory loss, atrial fibrillation, asthma and hearing impairment.
+MEDICATIONS:  Diltiazem, nitroglycerin, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an alpha rhythm of 8 to 8.3 Hz.  Most typically when the patient is maximally awake, the EEG is well organized with 8 Hz alpha rhythm and a small amount of low voltage frontocentral beta.  In hyperventilation and following hyperventilation there are rare bursts of slowing in the temporal regions as the patient becomes drowsy.  Vertex waves are noted in stage I sleep.  The patient transitions in and out of stage I sleep and there is a slight asymmetry with slight disruption of faster frequency activity noted just in the transition in and out of sleep on the right.  Photic stimulation was performed while the patient was drifting and out of stage II sleep, and results in scan driving.
+Heart rate 84 beats per minute.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Slowing of the alpha rhythm.
+Shifting slowing in drowsiness and in the transition to stage II sleep, out of the acceptable range of normal for an adult of this age.
+Slight focality with disruption of faster frequency activity on the right.
+CLINICAL CORRELATION:  The slowing of the alpha rhythm is a nonspecific finding, but supports an organic cause for this patient's clinical complaints.  Slowing of the alpha rhythm is a nonspecific finding, but can be seen in dementia, as well as a toxic or metabolic encephalopathy.  The subtle focal features described above may be correlated with imaging.
+
+
+

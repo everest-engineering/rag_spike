@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 22-year-old gentleman with history of seizures, who had one episode of seizures on 07/15/2013, when he fell down several stairs.
+MEDICATIONS:  Depakote, Risperdal, trazodone.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not performed.  This EEG captured patient during wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD:  In the most alert state, posterior dominant rhythm was 9-10 Hz in frequency, 15-30 microvolt in amplitude in the occipital region distributed symmetrically.  There is diffuse low amplitude beta activity.  The drowsiness is characterized by the disappearance of posterior dominant rhythm, lack of eye blink artifact and muscle artifact.  There is no epileptiform activity or seizures noted during this recording.  Heart rate is 70 beats per minute and regular.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  Normal EEG does not exclude the diagnosis of epilepsy or intermittent seizures.  If seizures are a clinical concern, long-term monitoring EEG may be helpful.  Clinical correlation is recommended.
+
+
+

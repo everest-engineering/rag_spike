@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 67 year old woman admitted on the 19th with a nonhemorrhagic stroke, but found unresponsive.
+MEDICATIONS: Lasix, Vancomycin, Keppra, Digoxin, Tylenol, Pantoprazole, Coumadin, Zosyn
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient is intubated, but is responsive
+DESCRIPTION OF THE RECORD: The background EEG includes a mixed frequency pattern. It is disorganized and both hemispheres are abnormal. In addition, there is shifting asymmetry. On some occasions, the activity is a bit better organized on the left and on others on the right. The alpha rhythm can be seen at 8.3 hertz. In addition, there is a left posterior temporal sharp wave observed as well as prominent shifting arrhythmic delta activity identified from either hemisphere. The activity in both hemispheres is sharply contoured and although there is some artifact, there is also suggestion of a T4 sharp wave not well evaluated by this study nor well defined sharply contoured delta at T3. Using alternative montages, the sharp activity does seem to be a bit more 01 than T3 or T5.
+HR: 160 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. In the sharply contoured record, primarily a left posterior sharp.
+CLINICAL CORRELATION: This EEG is most supportive of a focal mechanism for epileptic procedures. If additional information is needed, a follow up study as this patient improves may be of value.
+
+
+

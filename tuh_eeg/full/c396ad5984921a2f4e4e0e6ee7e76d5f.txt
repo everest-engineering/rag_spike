@@ -1,0 +1,10 @@
+History:	59 year old woman who presents to the hospital after 5 reported convulsions.
+Medications:	Tegretol, Topamax, Ativan
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+
+
+
+

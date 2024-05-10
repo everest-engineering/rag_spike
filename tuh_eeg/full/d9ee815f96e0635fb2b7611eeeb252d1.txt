@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  This is a 32-year-old male with epilepsy since age 13, childhood left parietal injury, and past history of poorly controlled tonic-clonic seizures as many as 6 to 7 per year.
+
+MEDICATIONS:  Dilantin, Keppra
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  The patient was awake and intact throughout the EEG.
+
+DESCRIPTION OF THE RECORD:  This patient was markedly drowsy throughout the EEG.  In maximum wakefulness, there was a low voltage alpha rhythm.  Vertex waves, K complexes, spindles, and POSTS were noted in sleep.
+
+Hyperventilation was performed early on in the record with good effort.  It produced bursts of rhythmic frontal delta.  Following this, more well defined left frontocentral focal slowing with underlying sharp waves were noted.  As the patient drifted off to sleep, frontal 3 Hz delta with an underlying sharp and slow wave was noted.  Some have double phase reversal at F3 (skull defect), but there was clearly an underlying spike and wave complex left frontal maximum.  Testing was not performed to confirm the patient's interactivity during these discharges.  A single discharge of 10 seconds in duration was followed by additional burst and then on spike and slow wave complexes.  When the EEG was reviewed in alternative montages, the epileptiform activity was clearly maximum at the midline or just to the left of the midline.  The patient was not aware of these discharges, which were clearly accentuated in stage II sleep and Dyschromia was noted.  Photic stimulation was performed while the patient was in stage II sleep.  The epileptiform activity continued during stage II sleep, but was not clearly accentuated by photic stimulation.  There may had been a slight driving response at faster flash frequencies; however, this was difficult to differentiate from the generous fast activity described above.
+
+Heart rate 60 bpm.
+
+IMPRESSION:  Abnormal EEG due to;
+1. Spike and wave complex is noted, which are quite prominent particularly in stage II sleep, and seem to be accentuated by hyperventilation.
+2. Left frontal spike and wave, polyspike or paroxysmal fast activity in association with these vertex are left frontal spikes.
+3. BIRDS verging on subclinical seizures
+
+CLINICAL CORRELATION:  The patient is not aware of awake seizures and the majority of epileptiform activity was seen in sleep.  Additional assessment should be undertaken to make sure that subtle seizures are not overlooked. These results were reviewed with the patient.
+

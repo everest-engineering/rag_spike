@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 79 year old right handed woman with a fall, subsequently developing subdural hematoma on 4/19/2010, with a seizure on presentation.
+
+MEDICATIONS: Versed, Fentanyl, Succinylcholine, Dilantin, Insulin
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has scalp laceration which impacts electrode placement. Hyperventilation and photic simulation are performed.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a rhythmic mixture of theta and delta. There is a subtle asymmetry best identified in the right central parietal region with attenuation of activity in that region. Stimulation of the patient produces an increase in faster frequency activity.
+
+HR: 110 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic background slowing.
+2. A more subtle, superimposed asymmetry with lower voltage and slightly slower activity in the right central region.
+
+CLINICAL CORRELATION: No epileptiform features are observed. The focal features described above are quite subtle and, in fact, comparing the central regions bilaterally, the central regions are slower than the temporal regions. This EEG supports a diffuse disturbance of cerebral function.
+

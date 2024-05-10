@@ -1,0 +1,26 @@
+History:	67-YEAR-OLD WOMAN FOR CEREBRAL ANGIOGRAM
+RE-STENOSIS AFTER LEFT CEA  FOR POSSIBLE STENTING
+PMH: LEFT HEMISPHERIC STROKE
+Medications:	FENTANYL, PROPOFOL, VERAPAMIL
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, lethargic
+Description:
+Waking background is characterized by a 25-40uV, 8.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  There is diffuse slowing of the background with intermixed alpha
+and excess theta and intermittent periods of diffuse attenuation.  No normal sleep architecture is
+Intermittent polymorphic delta activity is present in the left parieto central region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  At 10:15 AM the stent was deployed.
+There was no associated EEG changes.  HR is 80-100 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left parietal, left parieto central
+Diffuse slowing, rhythmic
+Attenuation diffuse
+Interpretation:
+This is an uneventful EEG during cerebral angiogram with stent placement for restenosis of left
+carotid artery.  There is diffuse background slowing which may have been related to anesthetic
+medications. The findings are conveyed to the primary team during the procedure.  There was
+intermittent left parieto central focal slowing at the baseline. This finding is indicative of focal
+cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.
+

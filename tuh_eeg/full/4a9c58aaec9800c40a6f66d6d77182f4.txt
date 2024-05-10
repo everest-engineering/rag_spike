@@ -1,0 +1,13 @@
+
+CLINICAL HISTORY:  34 year old right handed woman with epilepsy since age 14
+characterized by tonic-clonic seizures in sleep but with an episode of staring in August
+2009.
+MEDICATIONS:  Depakote
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 11 Hz alpha with a generous amount of low voltage, frontocentral beta activity. Stage I sleep includes an increase in beta followed by vertex waves. Photic stimulation elicits bilateral driving. Hyperventilation produces a small increase in the amplitude of the background.
+HR:	72 bpm
+IMPRESSION: Normal EEG
+CLINICAL CORRELATION:  No epileptiform features are seen.  In this individual with epilepsy, a more prolonged study capturing more extensive sleep may be helpful to identify epileptiform activity, and the beta may be due to anxiety.
+
+
+

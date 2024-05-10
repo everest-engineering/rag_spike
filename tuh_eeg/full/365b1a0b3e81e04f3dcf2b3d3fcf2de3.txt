@@ -1,0 +1,29 @@
+History:	70 year old woman who presents with an episode concerning for a seizure.  Patient
+has a history of stage VI breast cancer.
+Medications:	Keppra, Ativan (for MRI) and fentanyl (for MRI)
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+During maximal arousal the background consists of polymorphic 9-10 Hz alpha activity with
+expected AP gradient.  Superimposed diffuse slow delta activity is present.  Patient rapidly
+transitions to sleep.  Symmetrical sleep spindles are captured.
+Subtle voltage attenuation and paucity of faster frequencies is noted over the right posterior
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+results in better photic response over the left.
+Summary of Findings:
+Other, asymmetry in photic response, better left
+Focal slowing, polymorphic, continuous, mild, right posterior
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and asleep 26-minute EEG due to mild diffuse slowing, subtle focal
+right posterior quadrant focal slowing and asymmetric photic response with better response over the
+left. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Continuous focal slowing and lesser photic response over the right posterior quadrant
+indicate a focal structural lesion in this region.
+
+
+
+
+

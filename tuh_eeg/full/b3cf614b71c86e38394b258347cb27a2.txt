@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  73 year old right handed female, previous stroke with left hemiparesis, now with right sided weakness with loss of consciousness and postictal confusion.  The patient had multiple seizures in the emergency room.
+MEDICATIONS:  Aspirin, Keppra, Mirtazapine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Neither hyperventilation or photic stimulation were possible.
+DESCRIPTION OF THE RECORD:  The overall background is poorly organized.  When the patient is awake there is a fair amount of muscle.  She is asleep throughout much of the EEG. There is a paroxysmal, intermittent periodic discharge noted.  It includes essentially 2 sharp waves out of the right hemisphere.  The first is usually maximum at T4 or O2 and the second T2, but there is some variability and sometimes the first may be maximum at F8.  With the use of an average reference, there appears to be an active reference.  These periodic complexes occur 3-5 times in a 10-second period.
+As the patient transitions into a sleep state, the epileptiform activity becomes a little simpler and is not so clearly a pair of discharges.  In addition, as the patient transitions into a sleep state, the epileptiform activity has a bit more of an anterior and central temporal process rather than occipital or posterior onset. In wakefulness there is 7 Hz alpha rhythm on the left which is relatively disrupted on the right.
+HR:    100 bpm and irregular with occasional premature ventricular contractions.
+IMPRESSION:  Abnormal EEG due to:
+Right focal slowing
+Right temporal sharps waves – anterior or posterior.
+Right temporal PLEDS / periodic complex
+CLINICAL CORRELATION: Supportive of a focal mechanism for epilepsy. No clinical seizures were seen.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  53 year old right handed female with severe migraine headaches, nausea, temporal headaches, visual disturbances since age of 6-months. Evaluate for convulsions.
+MEDICATIONS:  Meclizine, HCTZ, Metoprolol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9 Hz 60 mV posterior dominant rhythm.  In the transition to drowsiness there is an increase in beta activity.  There is intermittent rhythmic mid temporal theta of drowsiness noted on left or right.  Hypersynchronous rhythmic slowing is also noted in the transition to sleep. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits bilateral driving.
+HR:    60 bpm with rare PVCs.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  There are multiple, normal variants in this EEG, but there are no epileptiform features.  If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

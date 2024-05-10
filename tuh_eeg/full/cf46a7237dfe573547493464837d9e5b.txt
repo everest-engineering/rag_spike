@@ -1,0 +1,29 @@
+History:	23 YR OLD FEMALE WITH SZ ONSET 4 YRS AGO.  CANNOT DETERMINE LOC,
+SZ PRECEDED BY SLEEPINESS AND EYE BLINKING OR STARING OCCURRING
+AT
+Medications:	DEPAKOTE
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy,
+hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  Patient
+had an episode during EEG where she became unresponsive at 1:49 and ended 1:53. During the
+episode she was not answering questions asked by EEG technologist. Patient did not have
+movements and eyes were closed for the entire event.  On EEG, patient had posterior dominant
+rhythm of 9 Hz and no epileptiform activity. No EEG correlation during event.
+Summary of Findings:
+Alpha rhythm, normal
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. Of note the patient had a clinical episode of unresponsiveness during the
+EEG which was without change in the background cerebral activity.  This observation is consistent
+with a non-epileptic event such as psychogenic non-epileptic seizure.
+

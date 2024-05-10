@@ -1,0 +1,26 @@
+History:	84 year woman who earlier today had an episode of unresponsiveness and severe
+tachycardia.  Of note, patient is status post a recent fall and a hip fracture.
+Medications:	No AED; pain medications
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 9-10 Hz alpha activity
+that attenuates with eyes opening.  There is an expected anterior-to-posterior frequency -amplitude
+gradient with faster frequencies at lower amplitudes anteriorly.  Intermittent 50-75uV, 4-7Hz waves
+are interspersed throughout the recording.  No normal sleep architecture is present but brief periods
+of increase in theta and delta activity are observed.
+No clear focal slowing is noted.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates
+occasional premature QRS complexes.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and briefly EEG due to mild diffuse slowing. This finding is indicative
+of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  No epileptiform discharges
+are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep
+recording may provide additional information.  A single EKG lead demonstrates occasional
+

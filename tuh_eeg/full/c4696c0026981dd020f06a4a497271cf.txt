@@ -1,0 +1,38 @@
+AGE : 27 y.o.
+SEX: male
+DATE OF STUDY: 10/04/2015
+RECORDING ENVIRONMENT : Inpatient
+EEG TYPE : 20-40 min, Awake and asleep EEG #: 15-1456
+HISTORY :
+27 y.o. male with a past history of epilepsy (suspected IGE), presenting with altered mental status. He suffered a generalized tonic clonic seizure within the past week and has been sleep deprived.	He had been tapering off his oxcarbazepine , but this was restarted after the seizure. He presented to the emergency room today because he is "not himself."
+MEDICATIONS:
+Current Outpatient Prescriptions:
+zonisamide (ZONEGRAN) 100 mg capsule, Take 4 tablets at bedtime Oxcarbazepine (TRILEPTAL) 150 mg tablet, Take 3 tablets once per day
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The majority of the record consists of sleep.
+The waking background is seen for only a few seconds at	time and is characterized by the presence of a fairly well organized symmetric mixture of theta, alpha, and beta frequencies. There are fragments of a reactive 7 Hz occipital rhythm which may represent the posterior dominant rhythm.
+Drowsiness is characterized by attenuation and fragmentation of the posterior dominant rhythm and diffuse background slowing.
+The majority of the record consists of sleep. There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. The record also contains frequent runs of 2-2.5 Hz synchronous delta waves in sleep.
+Mild generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+1. Frequent low amplitude left temporal (T3 > F7 > F3/Fpl/T5) sharp waves are seen in sleep
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 90 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and asleep routine EEG due to:
+Mild generalized slowing
+Finding of frequent runs of 2-2.5 Hz synchronous delta waves in sleep
+Frequent low amplitude left temporal (T3 > F7 > F3/Fpl/T5) sharp waves in sleep
+CLINICAL CORRELATION:
+These findings indicate the presence of left temporal epileptogenic potentials superimposed on mild diffuse cerebral dysfunction . The finding of frequent runs of delta activity in sleep may represent slow wave sleep, which would be suggestive of sleep deprivation. Alternatively, they may represent generalized rhythmic delta activity, which is a nonspecific but pathologic finding associated with toxic-metabolic disturbances, deep structural lesions, or increased intracranial pressure.	If clinically warranted, a follow-up or long-term study may be
+useful to clarify.
+
+
+

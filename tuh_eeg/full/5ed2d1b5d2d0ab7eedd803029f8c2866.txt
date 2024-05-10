@@ -1,0 +1,39 @@
+History:	54 year old woman who presents status post cardiac arrest.
+Medications:	Versed, keppra, Dilantin and phenobarbital IV started in the second half of the
+Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 4/20/2015 till 4/21/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is is no PDR or AP gradient.  The background consists of moderate amplitude relatively
+monomorphic diffuse 10-11 Hz alpha activity admixed with occasional theta and delta activity.  By
+the end of the recording there is gradual voltage attenuation and  additional low amplitude bursts
+of fast activity and periods of discontinuity are captured.  There is continuous subtle underriding
+delta activity over the left posterior-central region.  No normal sleep architecture is present.
+Frequent, sometimes very prolonged (up to 25 minutes), left centroparietal seizures are captured
+early in the recording.  There is no clinical correlate.  Seizures stop by the end of the recording -
+after increased in Versed doses and additional of  phenobarbital.  Seizures start with subtle
+rhythmic left centroparietal sharply contoured delta activity that increases in amplitude and evolves
+into ~ 2.5 Hz sustain activity seen over the the left centroparietal occipital region.
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Status epilepticus, left, centroparietal - resolves by the end of the recording
+Interpretation:
+This is an ABNORMAL continuous video 24-hour EEG due to diffuse and worsening background
+slowing and left parietocentral focal status epilepticus that resolves by the end of the recording
+epoch (after increase in Versed dose and addition of phenobarbital).  Diffuse slowing indicates
+diffuse cerebral dysfunction that in this case at least partially related to the medication effect.
+There is focal epileptogenic focus over the left parietocentral region.  These findings were
+conveyed to the primary team.
+
+
+
+
+

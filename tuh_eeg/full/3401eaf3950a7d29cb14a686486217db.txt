@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  42 year old male with renal failure, multiple amputations, and vascular disease; recent episode of atrial fibrillation followed by delirium.  Evaluate for aphasia or stroke.
+MEDICATIONS:  Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has no eye movements.
+DESCRIPTION OF THE RECORD:  The patient appears to be asleep.  There is a slow delta pattern, but there is also frontocentral beta and even sleep spindles.  Tactile stimulation of the patient produces a scant alerting response.  Review of the video does not clearly identify an eye movement.
+HR:    120 bpm and irregular
+IMPRESSION:  Markedly abnormal EEG due to:
+Markedly low voltage and relatively slow pattern.
+Pattern with central beta, which is nearly in Mv variant.
+There is very slow periodic phenomenon which looks like an eye movement, however, this discharge has some asymmetry.  There may be an underlying right frontal spike noted with it.  Additional testing including more vigorous stimulation of the patient and even passive eye opening would be helpful to clarify this.
+CLINICAL CORRELATION:  This EEG is quite worrisome in terms of a bihemispheric severe disturbance of cerebral dysfunction.  The unusual discharges described above may represent a very slow periodic complex superimposed upon on a beta-theta coma.
+
+
+

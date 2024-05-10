@@ -1,0 +1,11 @@
+HISTORY: 61 year old woman with hypophonia, ambulatory disorder, rheumatoid disease, psychiatric illness, abrupt personality changes.
+MEDICATIONS: Depakote, Cardia, Divalproex, HCTZ, ASA, Benztropine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake record with photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness. the overall background Is a theta frequency pattern with generally a theta background, 8 Hz and an 8 Hz alpha rhythm. Occipital slowing is noted bilaterally but there is greater disruption of the alpha on the right compared to the left. There is a fair amount of muscle artifact. Features of drowsiness include an increasing rhythmicity in the background followed by a handful of vertex waves. There are some shifting asymmetries noted in the frontal regions. Photic stimulation elicits scant driving.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. Shifting asymmetries with a bit more arrhythmic delta activity in the right occipital region as well as occasional disruption of the background on the right.
+CLINICAL CORRELATION: In this sharply contoured record, there are no definitive epileptiform features. If epilepsy is an Important consideration, a repeat tracing may be considered. Correlation with imaging given the focal features described above may be useful.
+
+

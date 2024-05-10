@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  47 year old right handed male found in his basement confused, incontinent, poorly responsive with multiple scalp contusions, required intubation.  Tox screen positive for cocaine and benzodiazepines.
+MEDICATIONS:  Percocet.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was awake.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm.  The patient drifts off to sleep with prominent theta.  Brief epochs of stage I sleep are noted.  Hypersynchronous rhythmic slowing is sometimes noted as he drifts in and out of sleep.  In maximal wakefulness there is a small amount of background theta. Vertex waves are noted as the patient transitions into stage I sleep, but vertex waves and spindles noted in stage II sleep.
+HR:    96 bpm
+IMPRESSION:  This EEG is remarkable for:
+Small amount of background theta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this bedside record.  If epilepsy is an important consideration, a follow up study in the lab after the patient recovers maybe of value.
+
+
+

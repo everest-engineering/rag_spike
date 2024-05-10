@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  38 year old right handed male with intractable epilepsy and right visual field cut, past history of tonic-clonic seizures as well as seizures characterized by a funny feeling in his head.
+MEDICATIONS:  Topamax, Lamictal, Ativan
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized.  In addition, there are bursts of shifting, slowing, and some subtle sharp waves in the left anterior temporal region.  The EEG is a bit more synchronous as the patient becomes drowsy and then there are occasional more subtle bursts of isolated delta in the right mid to posterior temporal region.  Photic stimulation elicits driving at 9 Hz.  Hyperventilation produces an increase in amplitude of the background and perhaps accentuates the left-sided sharp waves.  There are some sharply contoured transients on the right in hyperventilation but none with an after-going slow wave.
+HR:    66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Shifting slowing.
+CLINICAL CORRELATION:  This is the fourth EEG for this patient.  A previous EEG demonstrated a similar pattern with background slowing and shifting slowing, but there are also two EEG reports for this patient demonstrating more of a generalized spike and wave pattern.  The shifting slowing and focal spikes would be a more anticipated pattern for a subject with this clinical history and physical examination.
+
+
+

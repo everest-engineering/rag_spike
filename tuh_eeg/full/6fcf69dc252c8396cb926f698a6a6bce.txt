@@ -1,0 +1,13 @@
+MEDICINES:  Oxycodone, hydralazine, metoprolol, moxifloxacin, Avelox, Coumadin, others.
+HISTORY:  A 79-year-old woman, hit by a car crossing the street, pulmonary infections, DNR, pleural effusions.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was recorded sitting up in bed and seemed to be struggling to stay awake.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates sections of the record with a well-formed alpha rhythm of 9 Hz.  Cognitive testing was performed to make sure that the patient was awake and alert and able to answer questions.  As the patient drifts off into drowsiness, there are intermittent bursts of delta, but relaxed wakefulness.  They are also intermittent bursts of somewhat irregular shifting frontal delta.
+Heart rate:  84 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Intermittent bursts of frontal slowing.
+Intermittent bursts of shifting slowing.
+CLINICAL CORRELATION:  The findings described above are nonspecific for an adult of this age.  They are relatively unremarkable in the context of a 79-year-old treated with opioids.  No epileptiform features were identified.
+
+
+
+

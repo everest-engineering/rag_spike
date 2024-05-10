@@ -1,0 +1,12 @@
+LENGTH OF RECORDING:  Nearly 22 minutes.
+CLINICAL HISTORY:  The patient is a 50-year-old woman status post cardiac arrest on 11/09/2012 for 12 minutes.  Status post cardiac arrest, the patient was in status epilepticus.  The patient is currently with fevers.
+MEDICATIONS:  Include Keppra, insulin, Lopressor, Coumadin, Synthroid, etc.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  The background consists of nearly continuous frequent high amplitude diffuse EMG artifact that corresponds to teeth grinding.  During brief periods of EEG that do not contain this artifact, the background appears to consist of diffuse polymorphic theta and delta activity.  Multiple electrodes have high impedances due to poor patient cooperation with the exam.  Hyperventilation and photic stimulation are not performed.  No normal sleep architecture is observed.  Heart rate of approximately 120 beats a minute is observed on a single EKG lead.
+FINDINGS:
+Moderate diffuse slowing.
+Nearly continuous teeth grinding artifact.
+IMPRESSION:  This is an abnormal awake only 22-minute EEG due to moderate diffuse slowing. This finding indicates etiologically nonspecific diffuse cerebral dysfunction. However, the majority of the recording was obscured by frequent teeth grinding artifact, and epileptiform discharges could have been missed.  If clinically indicated, a repeat study with less artifact may be of benefit.  Tachycardia is noted on the single EKG lead.
+
+
+

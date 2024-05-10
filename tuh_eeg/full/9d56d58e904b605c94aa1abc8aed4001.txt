@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  65-year-old male transferred from an outside hospital for a CABG on March 1st.  Uncomplicated procedure.  Patient developed left hemiparesis on March 6th.
+MEDICATIONS:  Protonix, Lipitor, atorvastatin.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Patient was intubated.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient appears to be awake and to some degree interactive with spontaneous eye opening.  The overall background is significantly diffusely slow and poorly organized.  There is a glimpse of a 7.5 Hz alpha rhythm on the left.  This is seen a little bit better as time goes on, reaching 8 Hz on the left.  There is an asymmetry noted with significantly more 1 Hz delta in the right hemisphere relevant to the left and significantly less alpha and theta frequency activity on the right compared to the left.  This finding is more prominent when the patient is relatively sleepy.  There are a handful of sharply contoured transients in the left hemisphere at T3 as well as some wickets.
+Photic stimulation did not activate the record.
+Heart rate 90 BPM, irregular.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+Superimposed focal slowing on the right.
+CLINICAL CORRELATION:  The focal slowing on the right is supportive of a structural or functional abnormality in that hemisphere.  The bilateral background slowing may represent a toxic or metabolic encephalopathy or bilateral ischemic or other age-related pathologies.
+
+
+

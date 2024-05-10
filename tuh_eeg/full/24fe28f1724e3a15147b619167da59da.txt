@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 50 year old woman with chronic renal failure on dialysis, HIV, hypertension, sepsis, anemia, status post PEA code on 5/24/2010 for 15 minutes. Please perform neurologic evaluation.
+MEDICATIONS: Midazolam, Digoxin, Aranesp, Heparin, Zemplar, Zocor, Haldol, Pantoprazole, Imodium, Coreg, Morphine, Lorazepam, Fentanyl
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated but is responsive. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern. Some sections are rich in theta frequency activity. There are occasionally some 8.8 Hz alpha frequency activity in the posterior region. At times the record is somewhat discontinuous. There are even sections of the record with eye movement where the background EEG demonstrates discontinuity for almost a second in duration. Other sections are rich in beta frequency activity and there are some sections that resemble a lightly sedated pattern with a well-defined posterior dominant rhythm.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent background slowing and discontinuity.
+2. Shifting slowing.
+CLINICAL CORRELATION: This patient may medications may play a significant role in the pattern described above but in an individual with a history of cardiac arrest, this is a positive prognostic pattern.
+
+
+

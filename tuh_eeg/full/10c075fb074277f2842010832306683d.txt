@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 79-year-old male status post cardiac arrest in the field on 12/28, multiple resuscitations with V-tach and cardioversion, history of Parkinson disease, alcoholism, prostate disease cancer.  Previously treated with hypothermia.
+MEDICATIONS:  Protonix, hydralazine, ampicillin, Tylenol, heparin, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the ICU.  Using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not possible for this intubated comatose adult.  Body temperature was not known to the EEG tech at the time of the recording.
+DESCRIPTION OF RECORD:
+The EEG demonstrates a low voltage, relatively featureless pattern with muscle artifact, questionable underlying beta and slow delta.  Eye movement artifacts and sweat artifacts were identified.  There is some variability in this slow, featureless record.  Ventilator artifact is noted as the patient over breathes the vent.  Tactile stimulation did not activate the record.
+Heart rate 90 bpm.
+IMPRESSION:  Markedly abnormal EEG due to:
+replacement with low voltage, relatively featureless and not relatively unreactive pattern.
+CLINICAL CORRELATION:  This record was recorded 1 day after cardiac arrest.  There is low voltage, featureless pattern which is of concern but there is a cerebral pattern.  Clinical assessment is advised and if necessary, a repeat EEG may be performed.
+
+
+
+
+

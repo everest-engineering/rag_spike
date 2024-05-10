@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  49 year old male with a previous fall down 10 stairs with possible loss of consciousness 3 days ago.  Then, he became increasingly drowsy, had a normal CT, but yesterday, had a witnessed tonic-clonic seizure.
+MEDICATIONS:  Midazolam, Ceftriaxone, Lovenox, Vancomycin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation is performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, the background EEG is somewhat disorganized.  There is an 8 Hz alpha rhythm, but there is also some 11 Hz alpha frequency activity.  There is excess theta noted in the background.  In addition, there is an asymmetry with attenuation of faster frequency activity on the left compared to the right.  These findings become a bit more prominent in reference to montage or as the patient becomes drowsy.  Features of drowsiness include slowing of the overall background. Photic stimulation elicits a bilateral driving response, although on some occasions, that driving response is a bit easier to see on the right.
+HR:    60 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Focal features with disruption of faster frequency activity on the right.
+CLINICAL CORRELATION:  There were no epileptiform features noted.  This EEG supports a diffuse disturbance of cerebral function as well as the process impacting the left hemisphere.
+
+
+

@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra.
+CLINICAL HISTORY:  A 33-year-old woman with epilepsy, seizure-free until she had a 15 minute seizure on the 8th.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This routine EEG was remarkable for significant challenges with impedance.
+DESCRIPTION OF RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by slow rolling eye movements with vertex waves and beta spindles in stage II sleep.  Brief sleep is captured.  In the transition to and from sleep, rhythmic mid temporal theta of drowsiness was noted initially on the right but then bilaterally.  The patient was relatively drowsy during photic stimulation and in fact, the same finding was noted on left or right during photic stimulation.
+Hyperventilation produced an increase in amplitude of the background.  Heart rate 60 BPM.
+IMPRESSION:  Technically challenging but otherwise normal EEG.
+CLINICAL CORRELATION:  Rhythmic mid temporal theta of drowsiness is a normal variant.  If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep or with more prolonged sleep is suggested.
+
+
+

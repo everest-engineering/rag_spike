@@ -1,0 +1,65 @@
+AGE : 55 y.o.
+SEX: male
+START DATE OF STUDY : 11/24/2015 at 10:00PM END DATE.OF STUDY : 11/26/2015 at 12:00PM
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: 24 hour, video LTM EEG #: LTM 15-333
+HISTORY:
+55 y.o. male with a history of traumatic brain injury, change in mental status, and observed seizure at outside hospital referred for EEG for screening for subclinical seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+ondansetron (ZOFRAN-ODT) 8 mg disintegrating tablet, PLACE 1 TABLET (8 MG) ON TOP OF THE TONGUE WHERE IT WILL DISSOLVE,THEN SWALLOW BY TRANSLINGUAL ROUTE THREE TIMES A DAY
+esomeprazole (NEXIUM) 40 mg capsule, TAKE ONE CAPSULE BY MOUTH TWO TIMES A DAY
+EPITOL 200 mg tablet, TAKE 2 TABLETS IN THE MORN ING AND EVENING. clonazepam (KLONOPIN) 2 mg tablet, TAKE 1 TABLET (2 MG) BY ORAL ROUTE 3 TIMES PER DAY
+amphetamine-dextro amphetamine (ADDERALL XR) 20 mg Capsule, Sust. Release 24 hr, Take one tablet in the evening.
+Amphetamine-Dextroamphetamine	(ADDERALL XR) 30 mg Capsule, Sust. Release 24 hr, Take one .tablet in the morning.
+carbamazepine (TEGRETOL) 200 mg tablet, Take 2 tablets in the morning and evening.
+meperidine (DEMEROL) 100 mg tablet, Take 1 tablet by mouth every
+4 hours as needed for Pain.
+meperidine (DEMEROL) 50 mg tablet, Take 1 tablet by mouth every 4 hours as needed for Pain.
+clonazepam (KLONOPIN) 2 mg tablet, TAKE ONE TABLET BY MOUTH THREE TIMES A DAY
+Beclomethasone Diprop Monohyd (BECONASE AQ) 42 mcg (0.042 %) Spray, Non-Aerosol, 2 sprays by Nasal route 2 times daily. albuterol (ACCUNEB) 1.25 mg/3 mL nebulizer solution, Take 1 ampule by nebulization 4 times daily. Pt unsure of dose ipratropium (ATROVENT) 0.03 % nasal spray, 2 sprays by Nasal route 3 times daily.
+mometasone (ELOCON) 0.1 % cream, Apply	topically daily.
+Meclizine (ANTIVERT) 12.5 mg tablet, Take 12.5 mg by mouth 3 times daily as needed.
+baclofen (LIORESAL) 2,000 mcg/mL injection, 1,740.9 mcg by Intrathecal route continuously.
+diazepam (VALIUM) 5 mg tablet, Take 5 mg by mouth 3 times daily. FLUTICASONE PROPIONATE (FLOVENT DISKUS IN), Inhale	into the
+lungs 2 times daily. 2 puffs twice a day
+ALBUTEROL SULFATE (PROAIR HFA IN), Inhale	into the lungs. Albuterol (PROVENTIL,VENTOLIN) 90 mcg/Actuation inhaler, Inhale 2 puffs into the lungs every 6 hours as needed.
+benzonatate (TESSALON PERLES) 100 mg capsule, Take 100 mg by mouth 3 times daily as needed.
+epinephrine (EPIPEN JR) 0•.15 mg/0.3 mL injection, Inject 0.15 mg into the muscle as needed.
+cyanocobalamin (CYANOCOBALAMIN) 1,000 mcg tablet, Take 100 mcg by mouth daily.
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+Events were marked by the clinical staff. All clinical events as well as extensive random background samples including wakefulness, drowsiness, and sleep were reviewed.
+DAY 1 (11/24/2015, 10:00PM - 11/30/2015, 06:00) BACKGROUND:
+The waking background is characterized by diffuse low to medium
+amplitude 2-3 Hz delta activity which is more prominent over the left hemisphere.	There is intermittent beta activity which is also more prominent over the left frontal region.
+Posterior dominant rhythm was not present.
+The background is reactive, variable, but slow.
+There was a persistent asymmetry in amplitude and frequency with the left hemisphere showing higher amplitudes and faster frequency activity throughout the recording.
+Sleep was only rarely seen with asymmetric sleep spindles L>R and diffuse slowing.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS: No clinical or electrographic events reported or detected DAY 1 IMPRESSION & CLINICAL CORRELATION:
+Diffuse bihemispheric/bilateral delta slowing, maximal over the
+left frontal region with relative suppression of the right hemisphere. No clinical or electrographic seizures were seen. These finding suggest a toxic-metabolic process, a post-ictal state, or diffuse underlying brain injury, greater on the left. Alternatively, the right hemisphere suppression could also suggest an acute brain injury. Clinical correlation is suggested. These findings were communicated to the primary team.
+DAY 2 (11/25/2015, 06:00 - 11/26/2015 , 06:00)
+BACKGROUND: No change GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured normal sinus rhythm.
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+Diffuse bihemispheric/bilateral delta slowing, maximal over the left frontal region with relative suppression of the right hemisphere. No clinical or electrographic seizures were seen. These finding suggest a toxic-metabolic process, a post-ictal state, or diffuse underlying brain injury, greater on the left. Alternatively, the right hemisphere suppression could also suggest an acute brain injury. Clinical correlation is suggested. These findings were communicated to the primary team.
+DAY 3 (11/26/2015, 06:00 - 11/26/2015, 12:00PM)
+BACKGROUND: No change GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured normal sinus rhythm.
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+Diffuse bihemispheric/bilateral delta slowing, maximal over the left frontal region with relative suppression of the right hemisphere. No clinical or electrographic seizures were seen.
+These finding suggest a toxic-metabolic process, a post-ictal state, or diffuse underlying brain injury, greater on the left. Alternatively, the right hemisphere suppression could also suggest an acute brain injury. Clinical correlation is suggested. These findings were communicated to the primary team.
+
+
+

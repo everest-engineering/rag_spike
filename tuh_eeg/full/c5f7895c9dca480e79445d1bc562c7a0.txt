@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 29-year-old left-handed woman with recurrent changes in mental status.  Daughter describes the patient has had a loss of consciousness for few seconds with slurred speech, but able to answer questions appropriately.  Mother states recurrent episodes earlier this month.  Past history of intellectual disability, allergies, and morbid obesity.
+MEDICATIONS:  Albuterol.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically satisfactory record.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  This low voltage record demonstrates a 9 hertz, symmetric reactive alpha rhythm in wakefulness.  Much of the record includes drowsiness with a low voltage beta pattern.  Brief stage II sleep includes vertex waves, K complexes, and beta spindles.
+Heart rate:  72 bpm.
+IMPRESSION:  Normal, low voltage EEG, drowsiness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In this clinical context, a repeat study in the lab capturing hyperventilation, photic stimulation is suggested.
+
+
+

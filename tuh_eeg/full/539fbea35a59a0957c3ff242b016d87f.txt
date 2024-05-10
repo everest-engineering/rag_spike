@@ -1,0 +1,36 @@
+History:	35 year old man status post cardiac arrest and hypoglycemia.
+Medications:	VERSED, Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~22 hours from 04/21/2015 till 04/22/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse delta
+and theta activity with absence of the expected anterior to posterior gradient of frequencies.  There
+is an intermixed intermittent frontal beta.  With stimulation/ during arousals, rhythmic non-evolving
+bifrontal delta activity is captured.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the right temporal region.  There is focal
+attenuation of beta activity and faster frequencies over the right temporal region.  As the recording
+progresses, the degree of focal right hemispheric slowing decreases.  No clear electrographic
+Electrode artifact affecting several parasagittal leads is seen in the second half of the recording.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right hemispheric, especially temporal, improves by the
+Interpretation:
+This is an ABNORMAL ~22 hour continuous video EEG due to continuous focal slow and
+attenuation of the right temporal region.  This finding is indicative of a focal cortical lesion in this
+region or alternatively there could be a collection of fluid overlying that region.  This focal slowing
+improves as the  recording progresses - it is suggestive of post-ictal phenomenon.  In addition there
+is moderate diffuse background slowing and disorganization.  These findings are etiologically
+nonspecific indicators of moderate diffuse cerebral dysfunction.  These findings were conveyed to the neurology consult team.seizures are present.
+
+
+
+

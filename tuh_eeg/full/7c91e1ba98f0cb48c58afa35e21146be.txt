@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 67-year-old woman with acute onset aphagia, past history of right occipital stroke, right parietal stroke, and subacute right frontal stroke, past history of hypertension and seizures.
+MEDICATIONS:  Depakote, insulin, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the activity from the right hemisphere is low voltage, continuous.  There is a scant, lower voltage 9 Hz alpha rhythm, some beta and some 6 Hz theta.  The left hemisphere demonstrates continuous, rhythmic slowing from the left hemisphere with some sharp waves noted at T1/T3.  The rhythmic slowing has a paroxysmal nature to it, never completely abates and is present in wakefulness and sleep.  There is one section in the record at 9:28 where it does seem to abate a bit and the sharp waves are a bit more defined but as the patient becomes drowsy the activity again has a rhythmic nature to it.
+Photic stimulation elicited a driving response on the right.  Photic stimulation also served to alert the patient and it did seem to decrease a bit the rhythmic slowing from the left.
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Continuous focal slowing from the left hemisphere maximum mid-temporal region.
+Left temporal sharp waves.
+A paroxysmal component with left temporal TIRDA.
+CLINICAL CORRELATION:  These findings can be seen in the context of stroke but in a patient with a history of epilepsy this may be an interictal or postictal phenomenon.  Ongoing evaluation is essential.
+
+
+

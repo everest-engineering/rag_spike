@@ -1,0 +1,29 @@
+History:	56 year old man with a history of left MCA stroke and seizures.  He now reports
+increase in his seizure frequency.
+Medications:	KEPPRA, TOPAMAX
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 9.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+Occasional-to-intermittent  bilateral, mostly synchronous, left>>right, polymorphic theta and delta
+activity is captured over the bitemporal regions.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, bilateral (L>R) temporal, mild-to-moderate
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG due to occasional-to-intermittent mild-to-moderate
+bitemporal (left>>right) focal slowing. This finding is indicative of mild to moderate focal cerebral
+dysfunction that is more pronounced over the left.  Etiology of this funding is non-specific, but
+possibly structural in origin.  No epileptiform discharges are present, but stage 2 sleep was not
+recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional
+
+
+
+

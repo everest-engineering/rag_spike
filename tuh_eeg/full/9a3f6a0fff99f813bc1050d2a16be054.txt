@@ -1,0 +1,24 @@
+History:	76 year woman with altered mental status.
+Medications:	no AEDs, tramadol, flecainide, coumadin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+During maximal wakefulness, 9-9.5 Hz PDR, expected AP gradient and excess diffuse polymorphic
+theta activity are present.  Nearly continuous diffuse overriding monomorphic moderate amplitude
+delta activity is present.  Drowsiness is characterized by decrease in EMG artifact.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute portable EEG due to mild-to-moderate diffuse
+cerebral dysfunction. This finding is indicative of mild to moderate diffuse cerebral dysfunction,
+which is etiologically nonspecific.  The lack of epileptiform discharges on a routine EEG does not
+rule out a clinical diagnosis of epilepsy.
+
+
+
+

@@ -1,0 +1,31 @@
+History:	51 year old male status post right temporal lobectomy with recent cluster of seizures.
+Medications:	Phenobarbital and Zonegran
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-30uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is a right breach artifact present.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+There is rare intermittent focal theta slowing over the right centrotemporal region.  There was a
+single right mid-temporal sharp wave maximal at T4.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces minimal photic driving at
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, right frontotemporal
+Sharp waves, one, right frontotemporal
+Breach artifact
+Interpretation:
+This is an ABNORMAL EEG, awake, drowsy, and asleep due to focal right temporal slowing, a right
+temporal sharp wave, and a right breach artifact. . These findings are consistent with a structural
+brain lesion with epileptiform potential and a prior skull defect on the right.  No clinical or
+electrographic seizures are present.
+
+
+
+
+

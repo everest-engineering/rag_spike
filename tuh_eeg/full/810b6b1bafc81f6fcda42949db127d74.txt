@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 50-year-old woman with a thyroid mass, progressive dysphagia, acute cardiac arrest some days ago, status post long-term EEG monitoring.
+MEDICATIONS:  Insulin.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated.  There is some technical challenges particularly at the T5-O1 or the left occipital scalp electrodes.
+
+DESCRIPTION OF RECORD:  The EEG is a diffusely slow, low voltage pattern.  It includes a pattern of alternating low voltage mixed theta frequency activity and slower delta.  Tactile stimulation of this low voltage record produces an increase in the faster theta.  In some sections of the record, there is a bit more irregular delta on the left.  There is also EKG artifact in the left temporal region, but no sharp waves.
+Heart rate 90 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+A markedly slow background.
+At times in the slow voltage pattern some asymmetry with a bit more irregular slowing on the left.
+A paroxysmal pattern with a variation between slow delta and more rhythmic theta.
+CLINICAL CORRELATION:  No periodic complexes, triphasic waves or sharp waves were identified.  This EEG supports a severe, bihemispheric disturbance of cerebral function, but is starting to demonstrate an increase in faster frequency activity as well as reactivity.   There are number of technical concerns with this record which was terminated at 18 minutes.  In addition, the caliber of the electrodes at T5-O1 are not optimal.
+
+
+

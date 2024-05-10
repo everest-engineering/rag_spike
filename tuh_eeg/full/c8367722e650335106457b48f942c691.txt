@@ -1,0 +1,31 @@
+CLINICAL HISTORY: 45 year old woman with multiple left hemispheric strokes, here for a left pial synangiosis.
+
+
+
+MEDICATIONS:  Sevoflurane, Propofol, Remifentanil, Succinyl, Vecuronium, Keppra.
+
+
+
+REASON FOR STUDY:  Pial synangiosis.
+
+
+
+INTRODUCTION: Digital video EEG was performed for intraoperative monitoring and continuous EEG monitoring during a pial synangiosis.  At the beginning, the standard 10-20 electrode placement system was used for recording the EEG; however, as part of the procedure some electrodes were lost and over the left hemisphere, limited electrodes were available including only T3, O1, and T5.  Over the right hemisphere, the usual 10-20 electrode placement system was used as well as EKG electrode.  Continuous monitoring was performed and the EEG, and the physician was present during the critical aspects of the procedure.  Feedback was given to the surgeon during the entire procedure.
+
+
+
+TECHNICAL DIFFICULTIES:  The T5 electrode was lost during the procedure.
+
+
+
+DESCRIPTION OF THE RECORD:  The EEG revealed a posterior dominant rhythm that could be seen over the right hemisphere only or mainly at 8 Hz with some right midtemporal slowing seen continuously and some left parietal and posterior temporal slowing also seen, but normal faster frequency could be seen over the right and in the limited electrodes over the left hemisphere.  During the recording, the patient was clamped at 10:08:06 a.m., and no clear changes were seen on the faster frequencies of the limited electrodes over the left hemisphere.  This was informed to the surgeon.  As the procedure was continued, the EEG continued to be monitored; however, around 11:10 in the morning there was a slight decrease in the amplitude of the faster frequencies over the left hemisphere, but it appeared to be a more diffuse change, which was informed to the surgeon.  Later on, propofol had been noted to be increased, which was adjusted and the faster frequencies returned by the end of the surgery.  No other major changes occurred during the entire procedure.
+
+
+
+IMPRESSION:  Uneventful EEG intraoperative monitoring of left pial synangiosis with no clear loss of faster frequencies or changes over the left hemisphere electrodes.
+
+
+
+CLINICAL CORRELATION:  Uneventful left pial synangiosis, EEG intraoperative monitoring.
+
+

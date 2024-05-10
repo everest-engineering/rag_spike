@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  53 year old left handed male with a history of alcohol withdrawal seizures in December 2011, currently seizure free, concomitant obesity.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, a low voltage, but normal awake adult pattern is identified with a low voltage 9 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Hyperventilation is performed early on in the record increasing the amplitude of the background and providing a small amount of slowing.  Features of drowsiness include an increase in beta as well as some rhythmic theta.  Vertex waves and POSTs are identified in sleep, as are brief spindles.  Sleep is not sustained.  The patient is falling asleep during photic stimulation.  There is a scant driving response.
+HR:    90 bpm
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A low voltage pattern can be a normal finding in an adult of this age.  In addition, the rapid transitions in and out of sleep can be seen in an underlying sleep deficit.
+__________________________
+
+
+

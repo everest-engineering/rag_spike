@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 41 year old female with a history of epilepsy since age 26. Seizure is described as a funny smell followed by mouth watering and generalized tonic clonic activity.
+MEDICATIONS: Keppra
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 hertz alpha rhythm with a small amount of low voltage beta. Drowsiness is characterized by hypersynchronous background and anterior spread of the alpha rhythm. Hyperventilation produces an increase in bilateral theta. Photic stimulation does not activate the record. Although there are problems with lead placement in the frontal region, (the eye movements on the left is higher amplitude than the right). There is suspicion of focal slowing in the frontal region with questionable left frontal sharp waves. This activity also involves the left fronto-temporal region.
+
+HR: 72 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing in the left fronto-temporal region.
+
+CLINICAL CORRELATION: A repeat tracing capturing sleep with appropriate electrode placement is needed to better define seizures.
+
+
+

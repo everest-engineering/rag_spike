@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  Metastatic lung cancer with fatigue, fever, headaches, evaluate for seizures.
+MEDICATIONS:  Gabapentin, oxycodone, Zofran, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 6 Hz, 60 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta and diffuse, rhythmic background theta.  There are occasional bursts of shifting arrhythmic delta activity, a bit more so on the left hemisphere.
+Photic stimulation did elicit a driving response at faster flash frequencies.
+Heart rate:  84 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized rhythmic background slowing.
+Slowing of the alpha rhythm.
+Occasional shifting slowing with underlying arrhythmic delta activity from either hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In a subject of this age, this EEG is more suggestive of a diffuse disturbance of cerebral function, such as a metabolic encephalopathy.  However, the relatively infrequently, shifting arrhythmic delta activity identified above can be seen in many different clinical syndromes, including metastatic cancer or underlying cerebrovascular disease.
+
+
+

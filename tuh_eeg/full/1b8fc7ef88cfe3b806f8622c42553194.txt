@@ -1,0 +1,17 @@
+MEDICATIONS:  Celexa, clonidine, Klonopin, others.
+HISTORY:  Adult with a psychiatric illness, extrapyramidal symptoms and recent, adult onset episodes of loss of upright posture or loss of consciousness.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  Attempts were made to elicit 1 of the patient's events by having her utilize the bedside bike but no electrographic or clinical seizures were recorded.
+DESCRIPTION RECORD:  Background:  In wakefulness, there is a well defined alpha rhythm which is symmetric and reactive to eye opening.  Abundant stage 2 sleep includes vertex waves, K complexes, spindles, and posts.  Sleep is disrupted and the patient transitions frequently between wakefulness and sleep.
+ELECTROGRAPHIC SEIZURES:  None.
+EPILEPTIFORM DETECTION:  None.
+PUSHBUTTONS:
+Time: 9:21.  The patient is walking around.  The EEG demonstrates a normal awake pattern.  The patient is primarily off camera during this event but this was not considered by the patient to be a seizure.  She was working with the LPN who was getting her into bed with the accidental pushbutton.
+Push button time 2:55:  The patient is awake and walking to the bathroom.  The EEG demonstrates a normal pattern.
+7:54 p.m.  The patient is awake, seems restless.  The EEG demonstrates a normal awake pattern.
+IMPRESSION:  This 24-hour section of video EEG recording was remarkable for:
+Normal awake and sleep pattern.
+Three push button events, none of which had epileptiform activity.  The patient seems a little bit tremulous during the 9:27 a.m. pushbutton but no epileptiform features were noted at that time.
+CLINICAL CORRELATION: No seizures or epileptiform discharges were recorded during this epoch or at any time during the LTM.  Despite attempts to provoke an event, and cessation of Phenytoin, no evidence of an epileptic disorder was found.
+
+
+

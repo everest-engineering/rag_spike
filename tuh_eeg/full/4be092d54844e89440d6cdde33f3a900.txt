@@ -1,0 +1,31 @@
+History:	25YR MALE WITH PMHX OF BRAIN TUMOR RESECTED CHILD WITH CPS.  LAST
+SZ  2007  CHECK UP. (PRIORS) SKULL DEFECT LEFT.  SEE CHART  PT HERE
+TODAY FOR DIFFICULTY SLEEPING KEEPS WAKING UP AND NOT FALLING
+BACK TO SLEEP
+Medications:	Trileptal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9-10 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Asymmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is higher amplitude on the left central region.  During drowsiness,
+the background slows to central theta activity, frontal beta activity becomes more prominent, and
+the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows
+further to moderate voltage 2-4Hz activity, and symmetric sleep spindles appear.
+Continuous polymorphic theta activity is present in the left central region during wakefulness,
+increasing during drowsiness. There is a higher amplitude on the left and increased faster
+frequencies consistent with a breach.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR is
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left central, Associated breach.
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing and
+breach in the left central region.  This finding is indicative of a focal structural lesion in this region.
+
+
+
+
+

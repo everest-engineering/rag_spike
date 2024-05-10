@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  60-year-old with episodic unresponsiveness characterized by head shaking lasting 20 minutes.  Spell may be associated with incontinence.  Associated alcohol abuse, left hemiparesis, depression and psychiatric illness.
+MEDICATIONS:  Keppra, Ativan, metoprolol, Dilaudid, midazolam, others.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was at times a bit confused, but no clinical seizures were recorded.  Seizure and spike detection software was utilized.
+DESCRIPTION OF RECORD:  The background EEG includes an awake and drowsy pattern.
+Wakefulness:  In wakefulness there is generous beta noted.  There is a glimpse of an underlying posterior dominant rhythm.   Focal slowing was noted from the right hemisphere with right mid to posterior temporal sharp waves.
+Interictal epileptiform detections:  Frequent epileptiform activity was noted, particularly in sleep.  The sharp waves identified are from the right hemisphere.  There is a generous field of spread and the maximum varies from right mid to posterior temporal.  The anterior temporal sharp waves have perhaps a greater field of spread then the posterior temporal ones.  In sleep, the epileptiform activity is associated with a polyspike or fast component with a generous right central temporal spread.  Utilizing an average reference, the fast activity is relatively widespread throughout the temporal regions and, again, the sharp waves may be posterior temporal or anterior temporal maximum.  Some of them have more of a central parietal spread and others a bit more central temporal spread.
+Clinical seizures:  None.
+Electrographic seizures:  None.
+By the morning of the 23rd, the patient is awake, interactive and cooperative.  The EEG continues to demonstrate prominent rhythmic slowing from the right hemisphere, particularly  posterior temporal or occipital regions, although there is increasing artifact in the left mid to anterior temporal regions.  There is rhythmic slowing and epileptiform activity, but no clinical seizures were noted.  As the recording continues on the 23rd, the patient has increasing difficulty tolerating the monitoring session.
+Heart rate 78 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Prominent epileptiform activity from the right hemisphere with variable maximum including a posterior temporal or occipital focus, which at times appears to be a bit more anterior temporal or central temporal.
+Associated focal slowing, sometimes rhythmic focal slowing.
+CLINICAL CORRELATION:  This remains a highly epileptogenic EEG, although the findings described above do not appear to be associated with clinical symptomatology.
+
+
+

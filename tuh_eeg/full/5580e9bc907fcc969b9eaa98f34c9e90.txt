@@ -1,0 +1,35 @@
+History:	26 yo male with a history of seizures that started after MVA in 2008. Seizures have
+increases over passed year.
+Medications:	Klonopin, Methadone, Nicoderm, Advair, Zestril, Zyrtec, Sinequan, Desyrel, Prozac,
+Neurontin, Geodon, Ativan, Restoril, Lamictal, Lidoderm, Voltaren, Motrin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 12 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording.  Diffuse excess beta is present.  During drowsiness, the background slows to central theta
+activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz
+activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  Sharp waves with phase reversal over Cz are noted.  These occur
+during wakefulness and drowsiness/ sleep.  Etiology of these sharp waves is not certain - could
+represent intrusions of sleep into wakefulness.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Sleep, stage 2
+Sharp waves, frequent central, Etiology of these sharp waves is not certain - could represent
+Beta, excessive
+Interpretation:
+This is an ABNORMAL 31 minute awake and asleep EEG due to mild diffuse slowing. This finding
+is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but in this
+patient could be related to excessive drowsiness or medication effect.  Frequent central sharp waves
+are present during wakefulness and sleep.  Etiology of these sharp waves is not certain - could
+represent intrusions of sleep architecture into wakefulness.  A repeat study may be of benefit.  Excess
+beta could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  60 year old right handed male with dizziness and 2 episodes of syncope, collapse or seizures, over the last 10 years.
+MEDICATIONS:  Aspirin, Prilosec
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm.  Drowsiness is characterized by prominent increase in beta followed by POSTS.  Hyperventilation produces a small amount of background slowing.  Photic stimulation elicits bilateral driving.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were observed.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat study may be considered.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 57-year-old male with diabetes, hypertension, and alcohol abuse, transferred from an outside hospital after massive pulmonary embolus, now obtunded.
+MEDICATIONS:
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively somnolent and intubated.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage, continuous relatively monomorphic pattern with a mixture of alpha and theta frequency activity, smaller amounts of beta and rare brief attenuations lasting 1-3 seconds.  Stimulation of the patient clearly produces an arousal with brief 7 Hz activity seen diffusely.
+Heart rate 99 bpm.
+IMPRESSION:  Abnormal EEG for this comatose patient due to low voltage, generalized background slowing.
+CLINICAL CORRELATION:  The presence of a clear alerting response is a positive prognostic factor.  Follow up study is suggested.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  An elderly woman with dementia, weakness, and lethargy.
+MEDICATIONS:  Protonix, Aricept, Keppra, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake and drowsy record for a confused adult.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow with a lower voltage record and scant 6 to 7 Hz alpha frequency activity.  In wakefulness, the overall EEG is relatively featureless.  Drowsiness is characterized by a pattern with beta and theta, and the patient fluctuates between wakefulness and drowsiness with occasional bursts of rhythmic frontal delta.
+Photic stimulation elicited scant driving.  Heart rate irregular, 78 beats per minute, with artifact in the EKG lead.
+IMPRESSION:  This is an abnormal bedside EEG in wakefulness and drowsiness due to background slowing and disorganization.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The background slowing and disorganization are nonspecific findings but can be seen in a toxic or metabolic encephalopathy as well as an underlying dementing illness.
+
+
+

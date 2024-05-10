@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 70-year-old woman with long history of epilepsy, but recent Keppra dose reduction followed by blackout spells, eyes open, but not responsive.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable 20-minute outpatient EEG with impedances under 5 kilo ohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized for age.  The patient is primarily awake with frequent eye blink artifact.
+Photic stimulation elicited scant driving.  Brief drowsiness is characterized by an increase in beta with slow rolling eye movements.  Heart rate 54 bpm.
+IMPRESSION:  Normal electroencephalogram in wakefulness to drowsiness.
+CLINICAL CORRELATION:  This is similar to previous EEG.  This is the second EEG for this adult without epileptiform activity.  If additional information is needed, a more prolonged study is advised.
+
+
+

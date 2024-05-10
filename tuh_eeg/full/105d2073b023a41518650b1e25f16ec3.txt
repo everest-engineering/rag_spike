@@ -1,0 +1,18 @@
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement and 1 channel of EKG. Photic stimulation is performed.
+Patient has a skull defect in the right temporal central region, T4 F8 C4.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 30 microvolt
+alpha rhythm. There is a slight increase in theta in the right frontocentral region. The
+breach activity is subtle. Drowsiness is seen, characterized by in crease in beta activity.
+The focal theta on the right is intermittent. Photic stimulation accentuates an asymmetry
+in the alpha rhythm with decreased alpha seen on the right. Bilateral driving is seen.
+The theta is accentuated during photic stimulation. This is seen predominately in the
+frontocentral region on the right.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Mild asymmetry with intermittent slowing on the right.
+2.
+CLINICAL CORRELATION: There are no epileptiform features. There are focal
+features that support gray and white dysfunction, congruent with the patient's clinical
+history.
+

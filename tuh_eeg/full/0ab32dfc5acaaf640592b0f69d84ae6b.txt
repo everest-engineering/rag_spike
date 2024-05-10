@@ -1,0 +1,37 @@
+History:	31  Y/O FEMALE WITH PMHX PCOS, PRE HTN AND GRAND MAL SZ THAT
+STARTED AT AGE 18. LAST SZ  WAS 10 DAYS AGO. SZ WAS DESCRIBED AS
+SHAKING AND STIFFENING WITH INCONT. AND TONGUE BITE.
+Medications:	Topiramate, Carbatrol
+Sedation:	None
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  There are frequent epileptiform discharges during sleep
+There is intermittent focal slowing over the left centroparietal region.  At several times during the 1
+hour recording epoch, there are left sided, medium to high amplitude, PLEDs seen maximal at T5-
+P3-C3. These occur with a variable frequency of 0.5 to 1.5 Hz across a 7 second epoch.  During
+sleep there are frequent left centro-parietal sharp waves maximal at C3-P3. These are most
+common in stage II sleep. These are either single waveforms or clusters of 2-4 in a row.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces minimal photic driving
+Summary of Findings:
+PLEDs (periodic lateralized epileptiform discharges), intermittent, left posterior quadrant
+Focal slowing, polymorphic, intermittent, left posterior quadrant
+Sharp waves, intermittent, left posterior quadrant
+Interpretation:
+This is an ABNORMAL prolonged, 1 hour EEG due to focal slowing, PLEDs, and sharps waves over
+the left centroparietal region. Focal slowing, PLEDs, and sharps waves are strongly suggestive of a
+structural brain lesion over the left centroparietal region with epileptiform potential.
+
+
+
+
+
+
+

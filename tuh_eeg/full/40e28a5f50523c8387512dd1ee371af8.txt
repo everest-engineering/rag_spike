@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 76 year old female, brainstem stroke with encephalopathy, right cerebellar infarct, heart failure.
+MEDICATIONS: Lasix, Heparin, Darbepoetin, Metoprolol, Cardizem, Isordil, Zocor, Metolazone
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: In relaxed wakefulness, the background EEG includes a mixture of rhythmic theta frequency activity. There are intermittent bursts of paroxysmal delta --some of which is regular, some of which is irregular. Shifting slowing is noted. There is a bit more arrhythmic delta activity in the right hemisphere in comparison to the left, and there is some sharply contoured slowing in the posterior or occipital regions, right more so than left.
+HR: 90 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+t. Replacement of normal background with primarily a theta frequency background.
+2. Bursts of paroxysmal rhythmic delta.
+3. Bursts of paroxysmal arrhythmic delta.
+4. Sharply contoured slowing in the occipital region. right greater than left.
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function. There may be toxic or metabolic factors in this individual with renal failure. The sharply contoured stowing and the occipital delta are congruent with the stroke history.
+
+
+

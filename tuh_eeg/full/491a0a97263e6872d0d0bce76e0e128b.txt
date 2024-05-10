@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 47-year-old woman status post right craniotomy for intracerebral hemorrhage/subarachnoid hemorrhage.  Subsequent development of epilepsy, seizure free for the last month.
+MEDICATIONS:  Keppra, Elavil, Celexa, Topamax, verapamil, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Previous EEGs from 2009 and 2010 were available for comparison.  This is a routine 20-minute EEG, capturing photic stimulation.  Hyperventilation was deferred.  This is a technically acceptable EEG with most impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  The background EEG is relatively low voltage.  A 9 Hz posterior dominant rhythm can be identified bilaterally.  There is a fair amount of artifact at the craniotomy site with muscle twitch picked up, particularly at C4-T4, but there is also some subtle, underlying rhythmic slowing in the right hemisphere particularly central temporal.  Features of drowsiness include an increase in beta followed by dropout of the alpha rhythm.  In drowsiness, the asymmetry is a bit more remarkable and there is more prominent dropout of fast activity on the right in comparison to the left.
+Photic stimulation elicited a vigorous driving response bilaterally.
+Heart rate 66 bpm.
+IMPRESSION:  This is a technically somewhat challenging, but satisfactory EEG.  It is remarkable for:
+Breach rhythm on the right.
+Focal slowing on the right with more subtle features in maximal wakefulness with some underlying delta and a more prominent pattern in drowsiness or sleep with a more prominent dropout of fast activity on the right.
+CLINICAL CORRELATION:  The findings identified today are similar to her 2 previous EEGs, which also identified focal slowing on the right and breach rhythm.  None of the EEGs have identified epileptiform activity.  If needed, a followup study in search of epileptiform activity may be of value.
+
+
+

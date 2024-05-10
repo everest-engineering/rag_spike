@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 50 year old right handed woman with otitis this past Fall, history gamma knife surgery for brain tumor, ESRD and Hepatitis C.
+MEDICATIONS: Phenobarbital
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements. Hyperventilation does not activate the record. Photic stimulation does not elicit a driving response.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed in this record. Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   50 year old right handed male with schizophrenia and epilepsy.
+MEDICATIONS:  Depakote, Amlodipine, Lisinopril, Hydrochlorothiazide, Risperdal
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm of 40 mV with a small amount of low voltage, frontal central beta activity. Features of drowsiness include an increase in theta, particularly in the frontal regions.  There are slight asymmetries in terms of frontal theta in both hyperventilation and early drowsiness. Photic stimulation elicits bilateral driving.
+HR:    66 bpm
+IMPRESSION:  Very mildly abnormal EEG due to:
+Subtle shifting theta noted only in hyperventilation and drowsiness.
+CLINICAL CORRELATION:  There are no epileptiform features.  To more completely assess this patient's potential seizures, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

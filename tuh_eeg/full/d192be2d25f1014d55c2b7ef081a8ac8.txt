@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 27 year old gentleman born at 28 weeks' gestation with 4 to 5 seizures per year, none severe. Chronic static encephalopathy.
+
+MEDICATIONS: Keppra, Valium, Baclofen, Alendronate, Carbamoxide, Diazepam, Fexofenadine, Levetiracetam, Nexium, Singulair
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is poorly responsive but this study does include wakefulness and sleep.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and lacks all of the developmental milestones for an adult of this age. The overall background is one of theta with lower voltage slow frequency activity. Superimposed upon this there are occasional high amplitude sharp waves picked up with a generous field of spread which are primarily in the left central regions but are picked up bilaterally. When the patient drifts off to sleep, there is an increase in beta. Posteriorly predominant slow activity is noted.
+
+HR: 96 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of the normal background with more of a beta frequency pattern with slower delta.
+2. High amplitude left central spike and sharp wave activity with a generous field of spread. Sometimes this has a polyspike component
+3. Occasional posteriorly predominant slowing.
+
+CLINICAL CORRELATION: This EEG supports a severe bihemispheric disturbance of cerebral function, but the epileptiform activity came from the left.

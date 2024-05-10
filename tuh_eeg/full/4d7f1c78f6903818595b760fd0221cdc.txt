@@ -1,0 +1,21 @@
+CLINICAL HISTORY: 41 year old right handed male with intermittent episodes of
+vertigo, dizziness, diaphoresis.
+MEDICATIONS: Ceftriaxone, Vancomycin
+INTRODUCTION: Digital video EEG was performed In lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well
+organized with an 11 hertz, 40 microvolt posterior dominant rhythm and a small amount
+of low voltage, frontocentral beta activity. Alpha squeak is observed. Head rocking
+artifact is picked up at TS-02. Drowsiness is characterized by a theta pattern followed by
+vertex waves in stage I sleep. Stage II sleep included vertex waves, spindles and posts
+Snore artifact is picked up in the transition in and out of sleep. Photic stimulation is
+performed while the patient is in stage II sleep and does not activate the record.
+Hyperventilation did not activate the record.
+HR: 66bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features were observed. Normal
+EEG does not exclude a diagnosis of epilepsy. If seizures are an important
+consideration, a repeat study may be considered.
+
+

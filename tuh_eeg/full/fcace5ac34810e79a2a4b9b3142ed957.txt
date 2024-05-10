@@ -1,0 +1,12 @@
+HISTORY:  A 64-year-old male with severe headaches, brought to the Emergency Room after he collapsed, was found minimally responsive, was found to have diffuse subarachnoid hemorrhage with ventriculomegaly.  Right frontal EVD in place, renal failure, type 2 diabetes, atrial flutter, and fistula.
+MEDICINES:  Gentamicin, Lipitor, Keppra, Coreg, others.
+INTRODUCTION:  Routine 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was examined and stimulated during the EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous pattern with primarily theta frequency activity.  The overall pattern is relatively symmetric.  Stimulation of the patient with spontaneous arousals are associated with muscle and an increase in frontal delta.  On other occasions, stimulation of the patient produces an attenuation.  There are occasional bursts of shifting and slowing, a little bit more notable in the left temporal region.
+Heart rate: 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Moderate-to-severe background slowing.
+CLINICAL CORRELATION:    This EEG supports a severe bilateral disturbance of cerebral function.
+The presence of reactivity and variability are considered good prognostic findings.  No electrographic seizures were noted.
+
+
+

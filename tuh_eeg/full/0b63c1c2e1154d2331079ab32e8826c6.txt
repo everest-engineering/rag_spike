@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 56-year-old male with crack cocaine dependence, alveolar hemorrhage, ESRD, E COLI SEPSIS, GOODPASTURE SYNDROME multi-system failure.  The patient had multiple episodes of generalized shaking compatible with status epilepticus earlier today.
+INTRODUCTION:  A 23 minute  digital video EEG was recorded in two sections at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient was intubated with involuntary jerking.  Prior to the EEG, the patient had been on the propofol and Versed drip and when the seizures were identified, the patient's medications were increased.
+MEDICATIONS:  Propofol, Versed, Keppra, and phenytoin.
+DESCRIPTION OF RECORD:  EEG demonstrates a low-voltage suppressed pattern with intermittent diffuse muscle.  The muscle artifact waxes and wane, but demonstrated the frequency evolution characteristic of a tonic- clonic seizure. At 16:49 the propofol infusion was increased; the jerking stopped abruptly, and the EEG transitioned to a diffusely slow pattern with mixed frequency background.
+Heart rate:  120-140 bpm.
+IMPRESSION:  This section of the EEG is remarkable for:
+Markedly suppressed background.
+In initial sections of the record, where the patient has clinical events, there is a pattern of repetitive muscle activity, compatible with tonic-clonic seizure.
+CLINICAL CORRELATION:   The pattern above supports cortical irritability in a critically ill patient.  The initial  pattern may well represent tonic clonic seizure.  Because of the technical issues described above, prolonged EEG recording with other strategies was initiated.
+
+
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 53-year-old woman with childhood epilepsy, tonic-clonic seizures with incontinence, 2 seizures per month.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically satisfactory record with most impedances under 5 kilo-ohms.  The patient was tensed and there was a fair amount of muscle artifact.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 11 Hz alpha rhythm.  The patient is quite drowsy, drifting in and out of sleep.  As she does, there are prominent POSTS.  Of note, at some points, the POSTS are blunted and there is almost more rhythmic 3-4 Hz activity noted in the occipital region.
+Hyperventilation was performed with reasonable effort.  Similar waveforms are noted to have more of the characteristic of lambda during hyperventilation.  At that time, the patient is making an effort to cooperate with hyperventilation and is clearly breathing vigorously.  Of note, her eyes appear to be closed.
+Photic stimulation was performed while the patient was drifting off to sleep.  Despite this, a super harmonic driving response was noted.  When the patient is drifting off to sleep, again the occipital rhythmic and triangular shaped waves were noted compatible with post.
+HEART RATE 78 bpm.
+IMPRESSION:  This EEG must be considered abnormal due:
+rhythmic occipital 4 Hz activity or triangular-shaped waveforms, which occur outside of the acceptable range to be considered normal POSTS or lambda waves.
+CLINICAL CORRELATION:  These findings are of unclear clinical significance.  Lambda waves should be present when an individual has scanning visual eye movements, but in this case the patient was hyperventilating with her eyes closed.  Therefore, they could not be considered to be lambda or POSTS
+and may be part of a underlying pathology relative to the occipital regions.  No definitive sharp or spike wave complexes were noted.
+
+
+

@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  A 56-year-old male with epilepsy after stabbing injury to head age 17, in a coma for 1 month.  Seizures with a funny feeling in the stomach followed by blanking out and waking up in the hospital.  Questionable past stroke.  Intermittent dizziness.
+MEDICATIONS:  Dilantin and Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically challenging EEG for a patient with findings in his scalp.  The patient was reasonably cooperative.
+DESCRIPTION OF THE RECORD:  EEG demonstrates an interhemispheric asymmetry, congruent with his history of cranial pathology in the past.  From the left, there is a 9 Hz posterior dominant rhythm, which is slower on the right.  A breach rhythm is noted with higher amplitude on the right and underlying mixed arrhythmic delta and theta.  In drowsiness, arrhythmic delta activity appears a bit earlier in the right hemisphere, and there is more focal slowing noted in the right in comparison to the left.
+Epileptiform activity was identified.  In the context of a breach rhythm, there appear to be sharp waves maximum at T4.  There are also sharp waves that appear SP2, which can be differentiated from I artifact, some of them SP2-S4.
+Photic stimulation seem to accentuate some of the frontal epileptiform activity.  The driving response was elicited.  Hyperventilation was deferred.
+Drowsiness is as described above.
+Heart rate:  72 bpm, slightly irregular.
+IMPRESSION:  Abnormal EEG due to:
+Nearly continuous focal slowing from the right hemisphere.
+Sharp wave noted in the right hemisphere including frontal, frontotemporal, or anterior temporal.
+Mild disorganization on the left.
+CLINICAL CORRELATION:  These findings have been previously described for this adult.  No seizures were recorded.  This EEG supports a structural or functional process on the right, congruent with his traumatic brain history.  Irregularity noted in the cardiac rhythm should be compared to previous studies.
+__________________________
+
+
+
+
+

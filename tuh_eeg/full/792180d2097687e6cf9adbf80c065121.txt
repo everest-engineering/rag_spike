@@ -1,0 +1,24 @@
+History:	55 year old man who is in coma.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background is completely burst suppressed with no
+discernable cerebral activity detected.  Continues low amplitude EMG artifact is present in the
+anterior leads.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Burst-suppression pattern, marked
+No reactivity
+Interpretation:
+This is an ABNORMAL portable EEG due to complete burst suppression and lack of background
+reactivity. These findings are indicative of marked diffuse cerebral dysfunction, which is
+etiologically nonspecific.  This EEG was NOT performed according the the ACNS guidelines for the
+determination of electrocerebral inactivity.
+
+
+
+

@@ -1,0 +1,10 @@
+Clinical History: Patient is a 20-year-old male who lives in a group home and has a history of childhood seizures. He has a past medical history mental retardation and cerebral palsy. The patient has been seizure free since November of 1998. He was born prematurely at 25 weeks.
+Medications: None.
+INTRODUCTION: Digital video EEG was performed and lab using standard 10-20 system of electrode placement with ore channel EKG. Photic stimulation was performed.
+Description of the Record: This is an awake and drowsy record. In wakefulness, there is alpha activity seen bilaterally. Alpha on the left is around 10.7 Hz. Alpha in the right is 11.2 Hz. The difference is within the limits of normal. It also shows intermittent rhythmic theta. Drowsiness is characterized by background slowing and some vertex waves. Photic stimulation was done, which showed mild drifting at 11 Hz.
+HR: 60 bpm
+Impression: No epileptiform activity seen.
+Clinical Correlation: A normal EEG does not exclude the diagnosis of epilepsy. A sleep deprived EEG or longer duration EEG may be considered to capture epileptiform activity.
+
+
+

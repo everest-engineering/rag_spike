@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 15 year old right handed male with developmental delay and epilepsy. Seizures are characterized by staring and blinking but an episode earlier this week where he felt that things were in slow motion during a math exam.
+MEDICATIONS: Keppra, Oxcarbazepine, Carbamazepine.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. Hyperventilation and photic simulation are performed. This is a 1 hour study.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is slow for a child of this age. There is a glimpse of a 7 Hz alpha rhythm but in wakefulness, there is significant 1.5 Hz delta and smaller amounts of 4 Hz to 5 Hz activity. In apparent wakefulness, there are bursts of prominent frontally predominant rhythmic delta, some of which is notched with a suspicious underlying spike in the frontocentral region. This occurs without a clinical correlate. It is followed by hyperventilation which is performed with good effort producing some generalized delta and paroxysmal delta and a small amount of notched delta but no definitive spikes or sharps. Bursts of frontally predominant delta as the patient drifts off to sleep are associated with a notch component in the left frontocentral region. The delta is very slow approximately 1.5 Hz in frequency and rhythm was almost a slow spike and wave component with an underlying left temporal sharp wave.
+Drowsiness is characterized by bursts of slowing. In drowsiness and in sleep, there are bursts of delta but the bursts are maximum in the left hemisphere, although there is a bilateral component. Although the activity almost looks like a vertex wave, the maximum is in the left temporal region. Photic stimulation was remarkable for artifact but no significant driving.
+HR: 60 bpm and slightly irregular
+IMPRESSION:
+Abnormal EEG due to:
+1. Background slowing.
+2. Unusual bursts of slow paroxysmal delta.
+3. Bursts of some type of activity which resembles slow spike and wave activity.
+4. Left temporal sharply contoured slow and sharp waves and broadly formed delta activity.
+CLINICAL CORRELATION: This EEG is supportive of a diffuse disturbance of cerebral function. This is one of many patterns for this individual and the findings described above have been previously noted.
+
+
+

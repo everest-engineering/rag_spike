@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 27-year-old female with history of cognitive dysfunction secondary to cerebral anoxia.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hz in frequency, seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity, which is distributed symmetrically.  Drowsiness was characterized by diffuse background slowing, shifting of the posterior dominant rhythm to anterior head regions and absence of muscle and eye blink artifact.  There are intermittent bursts of left anterior to mid temporal slowing, 1.5-3 Hz frequency lasting for 1-2 seconds during drowsiness and wakefulness.  Photic stimulation was performed at multiple flash frequencies and resulted in no driving response.  Heart rate was 80 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording capturing wakefulness through drowsiness due to the presence of intermittent left temporal slowing.  No epileptiform abnormalities or electrographic seizures were identified in this record.
+CLINICAL CORRELATION:  The above findings could be due to an underlying structural abnormality in the subcortical white matter of left hemispheres.  Clinical correlation is recommended.  No epileptiform abnormalities or electrographic seizures were seen in this record.  This does not rule out the diagnosis of epilepsy.  If clinically indicated, a repeat sleep deprived EEG or a 24-hour ambulatory EEG may be helpful.
+
+
+

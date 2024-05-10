@@ -1,0 +1,9 @@
+MEDICATIONS:  Gabapentin.
+CLINICAL HISTORY:  A 67-year-old right handed man with a 20 year history of migraine. The patient had head trauma in 2006, developed memory impairment.  Status post bypass surgery in 2010.
+INTRODUCTION:  Digital video EEG was performed in the laboratory using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation was deferred. Photic stimulation was completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized with 10 Hz of alpha rhythm of 50 microvolts which is symmetric and reactive to eye opening.  Drowsiness is characterized by an increase in beta with slow rolling eye movements.  Deeper stages of sleep were not sustained.  Photic stimulation elicits subtle harmonic and supraharmonic driving.  Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If epilepsy is an important consideration, a follow up study may be of use.  In this individual with a question of memory impairment, the overall background was normal.
+
+
+

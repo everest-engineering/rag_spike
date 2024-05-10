@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 31 year old woman who presented to the emergency room with an ankle injury and suffered a seizure.
+
+MEDICATIONS: Tegretol, Phenobarbital, Topamax
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively somnolent and photic stimulation are performed.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly slow. There is little in the way of an alpha rhythm. Beta activity is seen in bursts. Arousals are characterized by muscle artifact. The patient is relatively somnolent with a right gaze preference. In this challenging EEG, subtle frontal sharp waves are noted left more prominent than the right. This is a brief burst of rhythmic, 5 Hz to 6 Hz theta frequency activity which does not evolve and is associated with some of the patient's snoring. The technologist questions as to whether or not this could be seizure but there is no postictal slowing or particular evolution of the activity.
+
+HR: 80 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slow.
+2. Subtle frontal sharp waves a bit more prominent from the left compared to the right.
+
+CLINICAL CORRELATION: The background slowing is a nonspecific findings but could be due to postictal state. There are subtle frontal sharp waves. If there are no previous EEGs, a followup study to more completely evaluate epileptiform activity may be helpful.
+
+
+

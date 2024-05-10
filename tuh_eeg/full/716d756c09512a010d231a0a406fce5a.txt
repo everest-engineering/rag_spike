@@ -1,0 +1,20 @@
+`
+
+
+CLINICAL HISTORY:  73 year old male, status epilepticus.
+MEDICATIONS:  Depakote, Midazolam, Valproic Acid
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a pneumonia.  A pulmonary stimulator is utilized which produces artifact in the right scalp electrodes which resemble a seizures, but this activity is confirmed to be artifactual during the EEG.
+DESCRIPTION OF THE RECORD:  As the tracing opens the patient is quite sleepy.  There are left anterior temporal spikes.  The overall background in rich in theta, but there is an asymmetry in that the left hemisphere is significantly slower than the right.
+Through the course of the record the patient is increasingly awake.  Rhythmic, alpha, and theta frequency activity is noted from the right.  The left hemisphere demonstrates focal slowing and sharp waves with left temporal sharp waves.  These are seen in wakefulness through stage II sleep.  No electrographic seizures are noted.
+As the patient is increasingly awake and is extubated, the vest to mobilize the patient's chest secretions is used more substantially.  This produces artifact from the right temporal region, but the patient can be tested at the bedside.  The artifact will stop when the device is turned off and the patient is awake.
+HR:   80 to 100 bpm
+IMPRESSION:  Abnormal EEG monitoring session due to:
+Prominent epileptiform activity from the left hemisphere, improving over the 24 hour recording.
+Focal slowing with disruption of faster frequency activity on the left.
+Somewhat slow record on the right.
+Rare sharp waves on the right, including T6.
+Interesting artifact produced by the pulmonary device, which resembled a seizure, but was confirmed not to be a seizure.
+CLINICAL CORRELATION:
+
+
+

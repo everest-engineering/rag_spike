@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A young woman with unusual seizure syndrome.
+MEDICATIONS:  Topamax and zonisamide, doses decreasing.
+INTRODUCTION:  Continuous video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  The patient recalls 3 episodes.  The first is on the 19th at noon where she felt a little startled.  The second was at 10 p.m. where she felt a mini aura characterized by tingling sensation on her face.  She did not recall an episode at 5:25, although she did push the button for a tingling sensation.
+DESCRIPTION OF THE RECORD:  Random wakefulness and sleep includes a well-organized 10 Hz alpha rhythm with a small amount of low-voltage frontocentral beta activity.
+Event time 11:22:  There is a burst of rhythmic left temporal theta delta with frequency evolution.  This is 5 seconds in duration.  There is no push button at that time.
+There is a burst at 5:25:20 of rhythmic theta, frequency was subtle, frequency evolution lasting only 3 seconds.  Thirty seconds later the patient reports the mini-aura which she no longer recalled.
+Time 9:58 p.m.  No abnormalities on the EEG were identified at that time.
+There was another burst lasting 4 seconds in duration at 10:25 in the morning on the 20th which is similar to the 2 prior bursts.
+Heart rate 60 BPM.
+INTERVAL IMPRESSION:  There are 2 bursts of rhythmic theta from the left temporal region with frequency evolution.  These are concerning as a potential interictal epileptiform discharge.  They may also be clinically significant with the mini-auras that the patient experienced.
+
+
+

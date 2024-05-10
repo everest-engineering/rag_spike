@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 91-year-old woman with an episode of syncope.  The patient recalls feeling of room spinning on loss of consciousness.
+MEDICATIONS:  Protonix, Lovenox, metoprolol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is somewhat slow and disorganized, although at times, the alpha rhythm does reached 8.3 Hz.  As the patient becomes drowsy, there are more prominent bursts of shifting arrhythmic delta activity, some of which are sharply contoured.  Deeper stages of sleep were not sustained.
+Photic stimulation did not significantly activate the record.  More prominent sharply contoured slowing was seen during photic stimulation.  No definitive sharp waves or spikes were noted, however.  The patient did report that photic stimulation produced burning in her feet.
+Heart rate:  60 to 78 bpm.
+IMPRESSION:  Abnormal EEG for an adult of this age due to:
+Background slowing.
+Disorganization.
+Prominent, sharply contoured, shifting slowing.
+CLINICAL CORRELATION:  No seizures were seen.  The background slowing and disorganization are nonspecific findings and may be correlated with clinical history.  If epilepsy is an important consideration, a more prolonged study capturing deeper stages of sleep may be of value.
+
+
+
+
+

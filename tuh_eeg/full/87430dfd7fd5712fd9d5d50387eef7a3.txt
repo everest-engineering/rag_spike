@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 73-year-old male with 5 days of slurred speech, and acute CVA.  Patient now with random left hand movements and not completely following commands.
+MEDICINES:  Aspirin, atorvastatin others.
+Introduction:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.   Hyperventilation and photic stimulation were deferred. It is a technically acceptable routine 20 minute study
+DESCRIPTION OF THE RECORD:  The waking background is abnormal and demonstrates an asymmetry.  There are abnormalities identified in both hemispheres but there is a 10 Hz alpha rhythm noted on the right which is disrupted on the left.  Both hemispheres demonstrate some degree of background disorganization, but there is more underlying, somewhat periodic slowing noted from the left hemisphere.  This somewhat sharply contoured slowing demonstrate some variability in its maxima sometimes more remarkable in the left central parietal region, and at other times a little bit more mid temporal.  Features of drowsiness include an increase in bilateral background slowing.
+Heart rate 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+A disorganized background noted bilaterally.
+Disruption of faster frequency activity on the left compared to the right.
+Poorly formed but sharply contoured and some periodic slowing noted on the right left.
+CLINICAL CORRELATION:  Evaluation for a structural or functional process on the left is appropriate.  If seizures are an important consideration, additional EEG recording may be valuable.
+
+
+

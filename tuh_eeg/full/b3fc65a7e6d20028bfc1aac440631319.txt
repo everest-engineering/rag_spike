@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 60-year-old gentleman with previous stroke, left-sided weakness with right carotid stenosis for right carotid endarterectomy.
+MEDICATIONS:  Aspirin, hydrochlorothiazide.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is arrhythmic delta activity noted in the right hemisphere.  This is somewhat sharply contoured at times with a phase reversal at T4 and a field for the right-sided delta which is a bit more posterotemporal.  There is also some occasional arrhythmic delta on the left.
+Photic stimulation did not significantly activate the record.
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Shifting arrhythmic delta activity most prominent in the right hemisphere.
+Some sharply contoured slowing maximum at T4.
+CLINICAL CORRELATION:  This EEG will be used for this patient's carotid endarterectomy baseline.
+
+
+

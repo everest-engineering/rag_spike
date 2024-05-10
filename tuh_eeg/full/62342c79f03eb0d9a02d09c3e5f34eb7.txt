@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 21-year-old woman with episodes of auditory disturbance and change in mental status, lupus, and hypothyroidism.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm.  As the patient becomes drowsy, theta is noted in the background, but with stimulation, the EEG returns to the awake pattern.  Hyperventilation produces a small amount of theta.  Photic stimulation elicits bilateral driving.  Heart rate 90 bpm.
+IMPRESSION:  Electroencephalogram within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in this record.  If epilepsy is an important consideration, may repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

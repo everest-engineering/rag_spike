@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  19 year old left handed male admitted on April 22, 2012 with new onset seizure characterized by loss of consciousness, face falling forward from a standing position, with 2 minute tonic clonic seizure, followed by 5-10 minutes of confusion.  Past history of seizure.
+MEDICATIONS:  Lovenox, Percocet,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm of 40 mV.  There is a small amount of low voltage, frontal central beta. Hyperventilation is performed early in the record producing an increase in theta, following this the patient becomes drowsy with attenuation of the alpha rhythm and an increase in both beta and theta.  Vertex waves are noted in stage I sleep.  Vertex waves are slightly asymmetric.
+In stage I and stage II sleep frontal beta is quite prominent. Hyperventilation produces a small amount of theta.  The patient is drifting into and out of stage II sleep during photic stimulation, which does not otherwise activate the record.
+HR:    60 bpm
+IMPRESSION:  This EEG is within normal limits in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Asymmetry in the vertex waves could be related to a head measuring error, therefore, this should not be considered pathological.
+
+
+

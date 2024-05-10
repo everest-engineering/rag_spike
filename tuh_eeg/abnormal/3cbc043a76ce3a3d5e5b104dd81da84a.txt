@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  61 year old gentleman with a past history of stroke, atrial fibrillation, seizures, left frontal lobectomy, admitted with shortness of breath in the emergency room.
+MEDICATIONS:  Zoloft, Famotidine, Keppra, Zosyn, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  There is a great deal of muscle and movement artifact.
+DESCRIPTION OF THE RECORD:  This bedside recording is remarkable for an extraordinary amount of muscle artifact, more so on the right than the left.  This limits the ability to compare the two sides, but the background is abnormal from both sides.  In addition, there seems to be an asymmetry with a bit more focal slowing on the left and some left frontotemporal sharp waves.  The activity is otherwise beta, muscle artifact, and the slow theta-delta pattern.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal delta in the left frontotemporal region.
+Left frontotemporal sharp waves.
+CLINICAL CORRELATION:   This EEG supports a structural or functional process in the left frontal region as well as a focal mechanism procedure.
+
+
+

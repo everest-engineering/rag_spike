@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  Intraoperative EEG monitoring was performed in the OR for an aortic valve repair.  Electrophysiology physicians were present in the OR during the key portions of the record.  This was a 5-hour EEG.  Recording continued until after rewarming had been accomplished.  The patient had both a coronary artery bypass graft and an aortic valve repair.
+MEDICATIONS:  Lisinopril, glucosamine, chondroitin.
+INTRODUCTION:  Five-hour intraoperative EEG was performed using the standard intraoperative montage.  FP-1 and FP-2 electrodes were moved to make room for the anesthetic thermometers in the frontal region.
+DESCRIPTION OF THE RECORD:  When the tracing began at 8:10 a.m., the background EEG was symmetric.  The anesthetic pattern included a bit more posterior delta.
+Cooling of the head began at 9:41.
+The measurements of the temperature of the head started at 24 degrees with a goal of 20 degrees.
+The cooling apparatus was placed in the patient's right innominate.
+By 9:52, sharply contoured slowing and broadly contoured sharp waves were noted from the right frontal region.  In addition, the cooling process was initially subtly focal at 9:50 and then more clearly focal with the first sharp wave noted at 9:51.
+At 9:57, the patient just starts to transition into a burst suppression pattern but the burst suppression pattern is asynchronous.  There is more of a drop out of faster frequency activity from the right hemisphere.  The left hemisphere has a bit faster frequency activity than the right.
+By 10:00 a.m., the sharp waves on the right are disappearing.
+Intermittent suppressions lasting up to 30 seconds were noted.
+At 10:23 the temperature on the right is 67 degrees and on the left 70 degrees.
+As the patient starts to transition into a suppressed pattern, the left hemisphere is sometimes a little bit more prominent than the right.
+Circulatory arrest 10:34.  The patient starts to transition to more sustained suppressed pattern and the 5-minute suppression is reported to the surgeon at 10:31.  There is a single burst of activity and then the EEG remains suppressed.
+There is a very subtle burst of lower voltage slowing noted at 10:34 and the patient returns back to circulatory arrest.  At 10:54 circulatory arrest is off and rewarming resumes with a temperature of 22.8 at 11:00 a.m. The EEG gradually transitions back to burst suppression pattern and then a continuous pattern with a primarily suppressed pattern at 11:21 and then periods of suppression lasting 3 to 5 seconds.  A nearly continuous pattern is noted at 11:59.  The EEG is symmetric and subtly discontinuous at 12:37.  The patient received lidocaine at 12:48 and there were 3 shocks recorded at 12:51.  Defibrillator was used at 12:56.  The EEG pattern was not negatively affected by this.
+At the end of the record at 1:14 p.m. the EEG demonstrates a lower voltage mixed frequency and very subtly discontinuous, but symmetric, pattern.  There is relatively symmetric alpha and theta frequency activity.
+Heart rate:  60 to 80 beats per minute.
+IMPRESSION:  EEG monitoring during this intraoperative study was remarkable for the appearance of a suppressed pattern.  En route to that suppressed pattern, there were focal features including a bit more suppressed pattern on the right and some sharp waves. This may be related to the surgical technique with cooling via the innominate artery.
+
+
+

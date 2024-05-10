@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 64-year-old woman admitted with right-sided weakness, aphasia, and slurred speech, found to have intracranial hemorrhage, status post ventriculostomy placement.
+MEDICATIONS:  Keppra, midazolam, morphine, antibiotics.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, there is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of a mixture of polymorphic low to moderate amplitude theta and delta activity.  Continuous polymorphic low to moderate amplitude delta activity is observed over the left frontal leads.  No normal sleep architecture is captured.  Hyperventilation and photic stimulation were not performed.  An irregular heart rate with a rate of approximately 120 beats a minute is captured on the single EKG lead.  There is nearly continuous EKG artifact that is more prominent over the left hemispheric leads.
+FINDINGS:
+Diffuse moderate slowing and disorganization.
+Focal left frontal slowing.
+No clear epileptiform discharges.
+Cardiac arrhythmia.
+IMPRESSION:  This is a very abnormal 21-minute EEG due to moderately diffuse slowing and disorganization and continuous focal slowing over the left frontal region.  Diffuse slowing indicates etiology of nonspecific cerebellar dysfunction and in this case could partially be related to the medication effect.  Continuous focal left frontal slowing indicates focal cerebral dysfunction, likely structural in etiology, and is consistent with the patient's history of intracerebral hemorrhage.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.  Cardiac arrhythmia is captured on a single EKG lead.
+
+
+

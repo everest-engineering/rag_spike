@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Adult female with 6-month history of episodes with eyes rolling up, loss of consciousness and incontinence, some tongue biting.  Most recent event 48 hours ago. Migraine
+MEDICATIONS: Keppra, Topamax Ativan Neurontin
+INTRODUCTION:  1 hour Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was very drowsy and was asleep throughout most of the EEG.  This was a technically acceptable recording
+DESCRIPTION OF THE RECORD:  This EEG demonstrates almost exclusively stage 2 sleep with vertex waves, K complexes, spindles, and POSTS.  Early slow wave sleep was noted.  Towards the end of the record, the patient was alerted for HV and photic. She was in stage II sleep in photic. HV served to alert the patient with 10 Hz alpha and likely mu.
+As she transitions back to sleep, there are rare asynchronous bursts, one of which was notched.
+Heart rate 72 bmp.
+IMPRESSION:  This EEG is remarkable for an excessively drowsy record.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted.  Overall, consideration for a hypersomnolence syndrome may be appropriate.  If a generalized spike and wave discharge is a consideration, intermittent stimulation; generating arousals from sleep might be helpful.
+
+
+

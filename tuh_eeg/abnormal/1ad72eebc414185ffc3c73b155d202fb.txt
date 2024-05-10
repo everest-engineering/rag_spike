@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  82 year old right handed woman with cardiopulmonary disease, admitted with a syncopal event.  She felt dizzy, then fell and hit her head.  She presented confused with left facial droop, evaluate for new stroke.
+MEDICATIONS:  ASA, Metoprolol, Lisinopril, Digoxin, Atorvastatin, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a challenging EEG for a patient who was coughing and had difficulty cooperating while awake.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized with a 6 to 7 Hz alpha rhythm.  There is an asymmetry.  There is a disruption of the theta frequency activity on the left and a little bit more slowing on the left.  As the patient becomes drowsy, the EEG is more symmetric and synchronous with more of a pattern of rhythmic theta and delta.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background disorganization.
+Slow pattern while awake.
+Superimposed focal slowing with disruption of faster frequency activity on the left.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function affecting both gray and white matter.
+
+
+

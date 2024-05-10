@@ -1,0 +1,11 @@
+ROOM NUMBER:  784.
+CLINICAL HISTORY:  This is an 81-year-old woman with cerebral aneurysms, status post coiling, admitted with generalized weakness and confusion.
+MEDICATIONS:  Ativan, metoprolol, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically appropriate 20-minute EEG with impedances generally under 5 kg.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is in bed, somewhat drowsy.  As she waxes in and out of a drowsy pattern, there is an 8 hertz alpha rhythm.  Prominent eye movement artifact and restlessness is noted in wakefulness and there is some intermittent background theta and occasional bursts of shifting, slowing noted in wakefulness.  As the recording continues, the patient is a little bit more comfortable, a more synchronous record is noted, although with a bit of background theta.
+Heart rate 66 bpm.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to occasional bursts of shifting, slowing noted primarily in wakefulness and in the context of agitation.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This is a dynamic pattern and bursts of shifting, slowing were noted primarily when the patient was restless suggesting a delirium.
+
+
+

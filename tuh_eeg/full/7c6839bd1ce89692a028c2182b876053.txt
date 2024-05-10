@@ -1,0 +1,23 @@
+CLINICAL HISTORY:
+The patient is a 29-year-old lady with new onset seizures of one-month duration. Last seizure was last week that lasted
+three minutes, characterized by left-sided body and face twitching that lasted for four to five minutes and post ictal confusion
+with a tight feeling in the head.
+Has a history of migraines and ??cyst in the head.
+CURRENT MEDICATIONS:
+None.
+INTRODUCTION:
+Digital video EEG was performed using the standard 10-20 system of electrode placement and one channel EKG.
+Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:
+This is an awake and drowsy record. Wakefulness is characterized by low voltage but symmetric and react i-.e alpha of 10
+Hz. There is a lot of beta and also muscle artifact as the patient was tense. Hyperventilation was characterized by slowing
+and an increase in the amplitude. During wakefulness and stage I sleep, this is a normal record with occasional vertex waves
+and occasional spindles. Hyperventilation and photic stimulation did not activate the record.
+IMPRESSION:
+Normal EEG.
+CLINICAL CORRELATION:
+Normal EEG does not exclude the diagnosis of epilepsy. If epilepsy is a clinical consideration, please consider
+Sleep deprived EEG or EEG recording of longer duration to capture epileptiform activity.
+
+
+

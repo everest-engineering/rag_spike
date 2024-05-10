@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 39 year old right handed woman with tonic clonic seizures and depression.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 hertz 30 microvolt posterior dominant rhythm. Features of drowsiness include an increase in beta and an increase in theta. Hyperventilation produces increase in amplitude of the background as well as small amount of slowing. Features of drowsiness include slow rolling eye movements. Photic stimulation does not elicit paroxysmal features.
+HR:    66 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were observed. Normal EEG does not exclude a diagnosis of epilepsy. If this patient's epileptic seizures are not well defined, a followup study capturing deeper stages of sleep is suggested.
+
+
+

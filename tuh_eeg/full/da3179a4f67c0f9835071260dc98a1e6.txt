@@ -1,0 +1,15 @@
+
+CLINICAL HISTORY:	67 year old woman with leg weakness, recurrent falling, breast cancer, anemia, diabetes, hypertension, and mental retardation.
+MEDICATIONS: None listed in chart
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and asleep record.  Photic stimulation is performed.
+DESCRIPTION OF THE RECORD:  In wakefulness,  the background EEG is slow for an adult of this age and poorly organized.  The overall background is sharply contoured with  temporal wicket and significant 5-Hz activity. There are, however, no sharp waves identified in wakefulness.   Brief drowsiness is characterized by an increase in background slowing. Other features of drowsiness include anterior spread of the alpha rhythm. Vertex waves are observed in stage I sleep.   Photic stimulation did not elicit
+any driving response.
+HR:	90 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Background slowing
+2. 	Disorganization.
+CLINICAL CORRELATION:  No epileptiform features are observed.  There are brief sections of the record when the alpha rhythm does reach 1 0 Hz but the majority of the record, the activity is significantly slower.  In an older adult of this age, the background slowing and disorganization may be due to the early developmental brain problems or since patient's current medical illnesses.
+
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 22-year-old woman with a history of infantile meningitis and febrile convulsions, now manic with multiple behavioral events in the EEG lab characterized by kicking and aggressive behavior.
+MEDICATIONS: Haldol, Ativan, Depakote, Keppra.
+INTRODUCTION: Digital video EEG is performed in the LTM Unit using standard 10-20 system of electrode placement with one channel of EKG. The patient has some of her typical spells during the EEG.
+EVENT #1: The patient experiences an episode of flickering movements of her right hand.  This begins at 17:15:20.  She is awake and alert, with repetitive movements.  An observer enters.  The activity is about 40 seconds in duration without impairment of awareness and the EEG demonstrates some artifact but no epileptiform activity.
+EVENT #2: Time 17:30:45.  The patient is awake with a nurse or an aide at the bedside. She has abrupt truncal thrusting with her arms going up.  The activity has a great deal of motor activity.  Immediately post-event, she is awake and alert and complains of discomfort.  The event is over at 17:30:57 with a normal awake EEG immediately afterwards.  She breathes noisily.  Of note, the activity starts with right hand trembling and then some flickering over the face and then the body jerks, which are somewhat asynchronous with a variable frequency.
+RANDOM WAKEFULNESS AND SLEEP:  In wakefulness, the background EEG is well organized with a symmetric, reactive posterior dominant rhythm and no significant focal slowing.  In the transition to stage II sleep, there are occasional high amplitude right anterior temporal spike and slow wave complexes with involvement in the right frontal region.  Other features of stage II sleep include spiky vertex waves, K complexes, and spindles.
+HR:  N/A.
+IMPRESSION: This 24-hour EEG was remarkable for:
+Two behavioral events without EEG correlate.
+Rare right frontal/right frontotemporal sharp and slow wave complexes identified in the context of a patient who has persistent eye movement into stage II sleep.
+CLINICAL CORRELATION: In this individual with a history of CNS infection, the sharp waves raise the possibility of a partial mechanism for this patient’s seizures.  Of note, there is a single discharge on the left, however, this has nearly the periodicity of the patient’s EKG and the EKG electrode, at that time, is lost.
+
+
+
+

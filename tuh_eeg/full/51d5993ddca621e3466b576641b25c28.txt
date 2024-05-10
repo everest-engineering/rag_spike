@@ -1,0 +1,34 @@
+:
+History:	66 FEMALE WITH HA, FEELING OFF BALANCE, FOUND TO HAVE A RIGHT
+FRONTAL SAH. PMH: DM, HTN, HIGH CHOLESTEROL
+Medications:	None
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and
+subtemporal chain, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates and is
+only seen over the left.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral
+frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous polymorphic delta activity is present in the right posterior temporal and parietal region.
+Frequent focal sharp waves are present with phase reversal and amplitude maximum at  T6/P4.
+Two seizures were captured during the record. They begin with T6/P4 rhythmic sharp waves in the
+delta frequency that increase in frequency and appear to become polyspikes. This discharges
+continue to increases in amplitude and then slow down in frequency.  The seizures remains mainly
+focused in the right posterior quadrant but do spread bilaterally in the posterior quadrant and later
+bitemporally. Seizures last about 2 to 2.5 minutes.  Clinically the patient is tested and follows
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+Seizure, right posterior quadrant
+Sharp waves, frequent, right posterior quadrant
+Focal slowing, polymorphic, continuous, right posterior quadrant
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of two electrographic seizures
+arising from the posterior quadrant as well as frequent epileptiform discharges and focal slowing in
+the right posterior quadrant.  These findings are indicative of a structural lesion with an
+epileptogenic focus in this region.
+
+
+

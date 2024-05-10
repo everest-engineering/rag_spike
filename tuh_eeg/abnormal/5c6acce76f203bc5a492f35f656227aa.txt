@@ -1,0 +1,21 @@
+Clinical Center
+CLINICAL HISTORY: 25 year old right handed male with dizziness and loss of
+consciousness in the context of dehydration, but a positive family history of epilepsy.
+MEDICATIONS: Albuterol, Flovent, Veramyst, Concerta, Ambien
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+stimulation are performed. This is an awake and sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized
+with an 11 Hz, 70 microvolt posterior dominant rhythm and a small amount of
+low voltage frontocentral beta activity. Drowsiness is characterized by an increase in
+background theta, followed by POSTS. Hyperventilation produces an increase in
+amplitude in the background. Photic stimulation elicits driving.
+HR: 90bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: There are no focal nor epileptiform features identified in
+this record. A normal EEG does not exclude a diagnosis of epilepsy and if seizures are
+an important consideration, a follow-up study may be considered.
+
+
+
+

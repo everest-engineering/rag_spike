@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 49-year-old woman with chronic back pain, paresthesias, and tremor.  Evaluated for seizures.  The patient had an episode where she woke up with soreness of the left side of her tongue.  Past history of fainting spells, thyromegaly, and childhood epilepsy.
+INTRODUCTION:  One-hour digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This extended study permitted the patient to become somewhat more drowsy.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz posterior dominant rhythm.  Abundant mu activity was noted.  Rhythmic midtemporal theta of drowsiness was also noted.  In the transition to sleep, there are multiple different patterns, which were identified.  These included hypnagogic hypersynchrony.  In addition to the rhythmic temporal theta with characteristics of 5 hertz morphology, there is a bit of underlying, irregular slowing noted in the temporal regions.
+Additionally, when the technologist allowed the record to run a little longer, there are bursts of rhythmic, high amplitude frontal delta, and some of these bursts appear to have an underlying 3-5 Hz spike and wave complex, maximum FZCZ with slight asymmetry, spreading to the right.
+Heart rate: 72 bpm.
+IMPRESSION:  This EEG has multiple normal variants including mu and rhythmic midtemporal theta of drowsiness, but it also has demonstrates the following abnormal findings:
+Shifting arrhythmic temporal slowing in drowsiness.
+In drowsy bursts, there are subtle 3-5 Hz spike and wave complexes
+CLINICAL CORRELATION:  These findings may be correlated with childhood history and imaging.
+
+
+
+
+
+

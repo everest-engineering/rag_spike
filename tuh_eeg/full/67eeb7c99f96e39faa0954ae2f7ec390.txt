@@ -1,0 +1,19 @@
+MEDICATIONS:
+Unknown.
+HISTORY:
+A 51-year-old, evaluate for seizures nursing home resident, stroke in spring of 2010. No other information.
+provided.
+INTRODUCTION:
+Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with one-channel EKG Photic stimulation was performed.
+DESCRIPTION OF RECORD:
+In maximal wakefulness, the background EEG is reasonably well organized, but the alpha rhythm is 7.5 Hz. There is generous low voltage, frontocentral beta. Features of drowsiness include anterior spread of the alpha rhythm.
+Photic stimulation elicits a driving a response.
+Heart rate 48-60 BPM.
+IMPRESSION:
+Abnormal EEG due to: Slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:
+The slow posterior dominant rhythm is a nonspecific finding and may be due to this patient's medications or other diffuse disturbance in cerebral function. The background slowing described above is nonspecific and supports a diffuse disturbance of cerebral function. Medications or an underlying neurologic disorder could be responsible for these
+findings.
+
+
+

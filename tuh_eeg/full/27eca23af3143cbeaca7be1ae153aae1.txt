@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 59-year-old male with recent stroke, atypical MRI appearance and heart failure.
+MEDICATIONS:  Diovan, aspirin, Aldactone, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was awake and answering questions, although with some difficulty.  This is a technically satisfactory record with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG demonstrates a markedly intrahemispheric asymmetry with a 7 Hz alpha rhythm noted on the right.  The alpha rhythm is disrupted on the left and the left hemisphere demonstrates nearly continuous rhythmic delta activity maximum in the left temporal region with rhythmic 2 hertz delta.  Brief drowsiness is characterized by attenuation of the alpha rhythm.  Photic stimulation does elicit a bilateral driving response.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+continuous rhythmic slowing on the left.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the left involving gray and white matter.  No epileptiform features were noted.  If epilepsy is an important consideration, a followup study may be obtained.
+
+
+

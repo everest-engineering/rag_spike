@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  50 year old male with status epilepticus and bilateral MCA infarcts, right greater than left.
+MEDICATIONS:  Keppra, Midazolam, Vancomycin, Zosyn.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is described as poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a significant asymmetry.  The activity from the right is low voltage, relatively featureless.  From the left, there is more theta.  There is also wicket-like rhythm at T1.  There are sharp waves, but they lack after-going slow waves.  The patient is febrile, intubated and poorly responsive.  As the recording continues, the quality of the EEG recording declines as the pace melts off.  Stimulation of the patient produces artifact.  The patient is markedly diaphoretic, but with a temperature of only 99.6.
+HR:    104 bpm and irregular.
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow and suppressed pattern on the right.
+A slow pattern on the left with prominent wicket, but no definitive sharp waves or spikes.
+CLINICAL CORRELATION:  Previous EEGs were not available for comparison.  If seizures are an important consideration, a follow-up study when the patient is not so sweaty is suggested.
+
+
+

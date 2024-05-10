@@ -1,0 +1,21 @@
+CLINICAL HISTORY: 68 year old right handed woman with epilepsy, recent status
+epilepticus, recent hepatic failure. Evaluate for change in mental status.
+MEDICATIONS: Clonidine, Lamictal, Keppra, Labetalol, Haldol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a centrally
+continuous high amplitude spiking from the right posterior quadrant, including parietal,
+posterior temporal, and occipital regions. The activity is nearly isoelectric at T6 and 02,
+but often a bit higher amplitude at 02. The activity waxes and wanes. Stimulation of the
+patient produces a brief alerting, but the patient's mental status is not normal and her
+responses are limited. Photic stimulation does not activate the record.
+HR: 126 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal pattern of status epilepticus with continuous repetitive spiking in the right
+occipital and posterior temporal region with frequency evolution.
+CLINICAL CORRELATION: Particularly in light of the patient's mental status, this study
+must be considered an ictal pattern. Additional evaluation may be important to monitor
+and treat this discharge.
+
+
+

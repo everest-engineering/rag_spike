@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 36-year-old male with limbic encephalitis and several-month history of short term memory problems, and diabetes. Evaluate for complex partial epilepsy.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation was performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with an 11 Hz alpha rhythm.  Mu activity was identified, but testing was not performed to confirm this.
+Drowsiness is characterized by slow rolling eye movements.  Features of drowsiness include attenuation of the alpha rhythm.
+Hyperventilation did not significantly the record.
+Photic stimulation did elicit a driving response.
+Heart rate 72 BPM.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this EEG.  A normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration, a follow up study capturing deeper stages of sleep or capturing one of the confusional spells may be helpful.
+
+
+

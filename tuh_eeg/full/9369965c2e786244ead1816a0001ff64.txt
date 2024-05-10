@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 32-year-old with previous cranial surgery, epilepsy with weekly tonic-clonic seizures with incontinence, migraine headaches, and daily blackout spells.  Positive family history of epilepsy.
+MEDICATIONS:  Depakote, Seroquel, Keppra, Zoloft.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This was an awake and drowsy routine 20-minute EEG with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  As the patient becomes drowsy, there is an increase in beta.  There are also some slightly asynchronous or irregular bursts of slowing noted in the central parietal regions bilaterally.
+Photic stimulation elicited a bilateral driving response.
+Heart rate 72 bpm.
+IMPRESSION:  This is a mildly abnormal EEG due to,
+Rare bursts of shifting slowing, somewhat more prominent in the right hemisphere in drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The patient's previous cranial deformities may contribute to some of the findings described above.  Minimal sleep was captured.  If additional information is needed to characterize this individual's epilepsy, a repeat study in the lab is suggested.
+
+
+

@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  69 year old right handed male with new buzzing sound in his head which lasts a few seconds when he stands up.
+MEDICATIONS:  Novolog, Metformin, Pravastatin, Folate Acid, Lisinopril, ASA, HCTZ, Amlodipine, Tamsulosin,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation is performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm.  There is a modest amount of excess theta noted in the background.  Drowsiness is characterized by an increase in beta and theta.  Photic stimulation elicits bilateral driving.
+HR:    96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excess theta.
+CLINICAL CORRELATION:  These findings are nonspecific and can be seen in a diffuse disturbance of cerebral function.  They can also be seen in the context of medication exposure.  No epileptiform features were identified.

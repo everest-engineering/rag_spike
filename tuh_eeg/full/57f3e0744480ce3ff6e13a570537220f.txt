@@ -1,0 +1,26 @@
+MEDICATIONS:  Heparin, Neo-Synephrine, epinephrine, isoflurane, propofol, lidocaine, rocuronium, fentanyl, others.
+CLINICAL HISTORY:  A 75-year-old woman, with no known neurological disease with large subclavian aneurysm.  Patient is to undergo left and right carotid bypass to secure these vessels, so that the aneurysm can be bypassed.
+INTRODUCTION:  Intraoperative monitoring was performed using the CEA montage.  The recording includes 2 pieces of EEG, 10 minutes of limited awake EEG at 8:50 in the morning and then continuous EEG monitoring from 10:25 to 5:25.  The EEG was reviewed by remote review, live during the procedure.  This was a technically challenging record.  There were some limitations including a limited preoperative baseline and the necessity to utilize levels of anesthesia, which produced burst suppression during the EEG.
+DESCRIPTION OF THE RECORD:  The first section of the EEG demonstrates an awake individual with a 9.7 Hz posterior dominant rhythm.  Intermittent focal slowing was noted from the right posterior quadrant.
+The recording resumed at 10:25 a.m. with the patient under anesthesia.  The initial anesthetic pattern includes generous fast activity in the frontal regions.  Even at the outset, there is intermittent attenuation with brief suppression lasting 1.5 seconds.  The record is a bit slower in the posterior regions noted bilaterally, right greater than left. prior to any surgical intervention.
+Femoral line was placed at 10:44 a.m.  At 11:00 a.m., the EEG demonstrates a relatively low-voltage, attenuated and burst suppression pattern.  The Anesthesia team was notified and the dose of isoflurane is reduced.  During the section with burst suppression, the patient has fluctuating blood pressure ranging from 116/68 to 88/57 and then improving subsequently to 145/93.
+At 11:52 a.m., the EEG becomes continuous with a relatively low voltage, symmetric pattern again with some attenuation in the posterior regions.  By 12:06, the EEG demonstrates an intermittent attenuation in the pattern.  The overall background waxes and wanes and the slowing noted in the right posterior quadrant, seen prior to the procedure is noted intermittently through the record.
+The right carotid artery was clamped at 12:26.  The EEG at this time is continuous.  The focal slowing noted in the right posterior quadrant that was previously reported continues to wax and wane.  This finding was reported to the operative team.  Clamp time of the right carotid was 17:12:19.  No sustained or persistent focal features were seen, just the waxing and waning noted previously.  As the recording continues, prominent fast activity is noted particularly in the frontal central regions.
+The left carotid was clamped for 17 minutes at 1:04:42.  With this placement of the clamp, there were no sustained focal features noted from the left hemisphere.  The features from the right hemisphere continued to wax and wane and there was prominent fast activity in the frontal regions with intermittent attenuation, but no definitive spike and slow wave activity.
+A graft is placed at 1:24.
+Fentanyl was administered at 1:48.  Blood pressure is a little higher at this time, 155/94.
+At 2:39 p.m., a graft is present in the in the upper chest, head and neck area.  The EEG is continuous at this time, slightly more attenuated on the right, as noted earlier.
+At 4:17, the right carotid is manipulated in an attempt to get close to treat the subclavian artery aortic arch aneurysm.  This produces some decrease in attenuation, but not a decrease in fast activity, more decreased in amplitude noted in the right hemisphere.  This was reported to the operative team.  The team places the Springs for stents.
+Additional fentanyl was given at 4:44, though the precise time was not provided to the tech.  At 4:49, the patient's blood pressure is lowered to 77/49.  This produces a significant drop in fast activity, which was reported to the team.  The lower voltage pattern was associated with a lower blood pressure.
+The recording after 4:51 generally demonstrates a lower voltage more suppressed and somewhat discontinuous pattern.  The blood pressure was considerably lower, in the range of  86/55 throughout the remainder of the record.  The technologist conferred with the team and was informed that anesthetic medications were adjusted.
+Heart rate 84.
+IMPRESSION/CLINICAL CORRELATION:  This was a 7 hour 10 minute continuous OR monitoring EEG.  This complex record  was remarkable for:
+Intermittent right focal slowing noted even prior to the right intervention, waxing and waning throughout the procedure.
+Focal slowing noted briefly at 12:45, not sustained, more significantly in association with occlusion of the right at 4:23 p.m.
+A pattern of generalized slowing noted after 4:46, associated with the blood pressure of 77/49 and 88/53.
+Technically challenging record in a patient with likely an abnormal baseline with some focal features on the right.
+CLINICAL CORRELATION:  These findings were reported to the operative team during the procedure.
+
+
+
+

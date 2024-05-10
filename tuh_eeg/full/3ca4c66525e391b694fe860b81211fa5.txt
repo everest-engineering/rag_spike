@@ -1,0 +1,15 @@
+History:	62 YO MAN W/ SZ DISORDER. PT SEIZED AT HOME AND BROUGHT IN BY EMS. GRAND MAL SEIZURE WITNESSED BY NURSE IN ED. LENGTH UNSURE PMHX ETOH, CVA, SEIZURE
+Medications:	KEPPRA, THIAMINE, ASA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description: Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Frontally predominant 5-10uV, 18-25Hz activity is also seen.  As drowsiness progresses, symmetric vertex waves appear. Continuous polymorphic delta activity is present in the right hemisphere maximal in the anterior temporal region during wakefulness, increasing during drowsiness.  Frequent right anterior temporal sharp waves are present with phase reversal at F8/T4.  At times in rhythmic burst for seconds. Hyperventilation and photic stimulation are not performed.
+HR is 60.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right temporal
+Sharp waves, frequent, right temporal, At times rhythmic burst.
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of frequent epileptiform discharges and continuous focal slowing in the right anterior temporal region.  These findings are indicative of a potentially structural and epileptogenic focus in this region, and given the clinical history of partial seizures, are consistent with a diagnosis of localization-related epilepsy.  No clinical or electrographic seizures are present.
+
+
+

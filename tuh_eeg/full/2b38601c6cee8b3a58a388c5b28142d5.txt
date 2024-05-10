@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  60 year old right handed male with weakness, shortness of breath, unsteady gait, incontinence, bipolar disease, status post PEA code December 16 for 4-5 minutes.  Evaluate for encephalopathy.
+MEDICATIONS:  Risperdal, Labetalol, Kayexalate, Amlodipine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD:  In maximum wakefulness the background EEG is somewhat disorganized with excess theta and a 9-Hz alpha rhythm.  The patient is intermittently a bit restless with an increase in theta and beta. Photic stimulation elicits scant driving.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG in wakefulness due to:
+Excess theta.
+CLINICAL CORRELATION:  These findings are nonspecific and can be due to a diffuse disturbance of cerebral function with many different causes.  No epileptiform features were seen.
+
+
+

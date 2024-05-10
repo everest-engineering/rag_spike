@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  29 year old woman with fibromyalgia and multiple seizures per week.
+MEDICATIONS:  Trileptal, Klonopin, Pristiq, Pamelor
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had an event while off camera in the bathroom with loss of consciousness, slumping down on the toilet.  She was able to walk back to the bathroom afterwards.
+DESCRIPTION OF THE RECORD: Random wakefulness and sleep.  In wakefulness there was a well-formed alpha rhythm with a small amount of low voltage, frontocentral beta activity, prominent eye movement artifact is noted, wicket is noted.  Stage II sleep includes vertex waves, K-complexes, spindles, and POSTS.  The patient has somewhat disrupted sleep.
+Event time 7:11 p.m.:  The patient is off camera.  The EEG demonstrates a well-defined awake pattern with an alpha rhythm. The heart rate is 96 beats per minute.
+At 7:12:20, the event monitor is heard to ring.  The nurses came and assist the patient at 7:12:30.  although the description is that the patient was unresponsive, the patient can be heard answering the nurses’ questions at 7:12:50.  She was subsequently able to walk back to bed and get into bed.  She returns to bed at 7:19.  The EEG demonstrates some artifact with movement but the EEG demonstrates an awake pattern.  The patient appears to have difficulty walking or moving about despite the presence of a normal EEG at 7:18.  Vital signs are checked at 7:22 and by 7:39 the patient has drifted off to sleep.
+Event date 07/27, time 11:15 a.m.:  The patient is off camera, in the bathroom.  She develops a rapid heart rate of 136.  The initial cue for the rapid heart rate is the cardiac telemetry.  Of note, the patient's heart rate is about 96 bpm at 11:05.  She goes to the bathroom at 11:10.  The monitor picks up a heart rate exceeding 100 bpm, ranging 120-136 bpm.  The nurses and clinical team go into the bathroom to check on the patient.  The patient tells the team that she feels like she is having a panic attack.  The patient returns to the bed by 11:30, is sitting on the side of the bed.  By 12:19 she has drifted off to sleep and she is waking up by 12:27.
+HR:    96 bpm
+IMPRESSION:  This EEG was remarkable for:
+Two events without EEG change. An episode of tachycardia which the patient described symptomatically as being typical of her panic attacks.
+CLINICAL CORRELATION:   this 5 day EEG monitoring identified multiple events without EEG change.
+
+
+

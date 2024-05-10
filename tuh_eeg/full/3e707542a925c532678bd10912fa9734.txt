@@ -1,0 +1,19 @@
+History:	65 YR OLD MALE R HANDED. NO F H/O SEIZURES HAD HIS FIRST WITNESSED GENERALIZED SEIZURE TONGUE BITING AND INCONTIENCE.PMHX.STROKE,HEP.C A,B ALSO GRAVES DISEASE,ALCOHOL ABUSE AND ADMITS SMOKING MARIJUANA. 60 CM HEAD
+Medications:	Keppra, Celexa
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. Continuous polymorphic delta activity is present in the left frontotemporal region during wakefulness, increasing during drowsiness.  At times this is sharply countoured with some sharp transients.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  Hr was 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left frontotemporal, at times sharply countoured.
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left frontotemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.
+
+
+
+
+
+
+

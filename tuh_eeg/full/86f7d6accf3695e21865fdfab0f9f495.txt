@@ -1,0 +1,27 @@
+History:	47 year old man with 2 episodes of loss of consciousness in the last 30 days.
+Medications:	KEPPRA
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is low voltage and characterized by 18Hz alpha rhythm (fast alpha variant),
+which attenuates symmetrically with eye opening.  Generous symmetric 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontocentral regions.  During drowsiness, the background slows to
+central theta activity, diffuse beta activity becomes prominent, and the alpha rhythm attenuates
+and becomes intermittent. Symmetric vertex waves and POSTS appear.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces a strong symmetric photic driving response.  HR is 60.
+Summary of Findings:
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 23-minute EEG, awake, drowsy, and asleep.  The lack of epileptiform discharges
+on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

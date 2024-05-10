@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 65-year-old woman with history of alcohol abuse, liver dysfunction, and obtundation.
+MEDICATIONS:  Keppra, Ativan, and phenytoin.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Seizure and spike detection software was utilized.
+The patient was obtunded, but had occasional eye blink artifact.
+DESCRIPTION OF THE RECORD:  Background:  The background EEG is markedly slow.  The initial sections of the record include a slow, featureless pattern with a bit more arrhythmic delta noted in the left hemisphere in comparison to the right.  Intermittent arousals were noted with eye blink artifact. EEG recording on the 17th, continued to show a slow pattern, but with intermittent eye movements.  The asymmetry persisted and at times there was a glimpse of a posterior dominant rhythm noted on the right.
+Electrographic Seizures:  None.
+Epileptiform Detections:  None.
+Events:  The patient was observed to have eye blinking at 10:23 p.m.  A House officer reviewed the data, was concerned about potential seizure and treated the patient with Ativan and phenytoin.  The data was reviewed and the electrode issues were addressed.  No epileptiform features were associated with this event.
+Heart rate 60-80 bpm.
+IMPRESSION:  This is the 2nd day of continuous video EEG monitoring.  Overall, this 48 hour session is remarkable for:
+An asymmetric background with focal slowing noted from the left hemisphere.
+A progressively slow pattern, congruent with a history of worsening hepatic function.
+Eye blink and other movements, which were not associated with epileptiform activity.
+CLINICAL CORRELATION:  This EEG is supportive of a toxic or metabolic encephalopathy, as well as a bihemispheric disturbance of cerebral function, but no epileptiform features were identified.
+
+
+

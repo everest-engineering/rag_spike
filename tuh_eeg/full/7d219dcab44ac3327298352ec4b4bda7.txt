@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 31-year-old gentleman, blind, deaf, with severe mental retardation, status post medulloblastoma and suboccipital craniotomy, now with left-sided subdural hematoma and an episode of eye deviation.  Evaluate for seizures.
+MEDICATIONS:  Ativan and Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient was intubated and poorly responsive.
+DESCRIPTION OF RECORD:  The EEG demonstrates markedly abnormal and diffusely slow pattern with marked asymmetry between the two hemispheres.  The left hemisphere demonstrates a slow, featureless record with disruption of faster frequency activity.  The right hemisphere demonstrates a mixed frequency pattern with a suggestion of some 7 Hz activity in the posterior regions.  Arrhythmic delta activity is noted in the right hemisphere, some of which is sharply contoured with a subtle phase reversal at T6.  There are activity from the right hemisphere waxes and wanes and there is very slow, subtle sharply contoured slowing noted on the right.
+Stimulation:  The patient does not seem to activate the record on the left.  When the nurse attempts phlebotomy, there was a brief arousal with an increase in alpha frequency activity on the right.
+Heart rate:  96 bpm.
+IMPRESSIONS:  Abnormal EEG due to:
+Continuous focal slowing from the left.
+Intermittent sharply contoured arrhythmic delta activity in the right hemisphere, sometimes with a phase reversal at T6.
+CLINICAL CORRELATION:  This EEG supports a severe disturbance on the left involving gray and white matter, although there is some sharply contoured slowing in the right hemisphere, tactile stimulation of the patient clearly produces an arousal with an increase in alpha frequency activity on the right.
+
+
+
+
+

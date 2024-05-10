@@ -1,0 +1,27 @@
+History:	51 Y/O FEMALE WITH PMHX OF ANXIETY, DEPRESSION, SCHIZOPHRENIA, AND
+EPILEPSY. PT STATED THAT SHE HAS HAD SZS SINCE SHE WAS A CHILD. PT
+DESCRIBED SZ AS LOC WITH SHAKING WITH TONGUE BITE AND URINARY
+INCONTINENCE
+Medications:	DILANTIN, KEPPRA, RISPERDAL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear
+diffusely, followed by symmetric vertex waves.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  hr 66
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild, bilateral diffuse
+Interpretation:
+This is a ABNORMAL EEG, awake and drowsy due to mild excessive theta in wakefulness. This
+finding is an etiologically nonspecific indicator of mild diffuse cerebral dysfunction.  No
+epileptiform discharges were present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+

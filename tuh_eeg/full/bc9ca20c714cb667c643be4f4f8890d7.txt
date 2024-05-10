@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 58-year-old male with lifelong epilepsy, tonic-clonic seizures, a seizure 4 days ago out of sleep.
+MEDICATIONS:  Dilantin and phenobarbital, previously Tegretol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a greater than 20 minute, technically satisfactory EEG aside from T1-T2 impedances which were slightly greater than 5 kilohms.
+DESCRIPTION OF RECORD:  In wakefulness, the background EEG includes a 7.5 Hz posterior dominant rhythm with generous background theta.
+The overall, awake background is relatively low voltage.  Hyperventilation produces an increase in rhythmic theta.  Photic stimulation did not significantly activate the record.
+Epileptiform discharges:  Notable in this record were left anterior temporal sharp waves, which were relatively rare.  They ranged from a high amplitude 70 microvolt  T1 sharp waves to more discreet left anterior temporal sharp waves with variable maximum.  On 1 occasion, there is a phase reversal in the referential montage between T1 and F7.  One of these discharges also seems to have more of a left frontocentral localization.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Left anterior temporal sharp waves noted in drowsiness.
+Excess theta.
+CLINICAL CORRELATION:  This is the 4th EEG for this patient.  Only 1 prior EEG identified the left temporal sharp waves, but prior EEGs did identify the excess background theta.  This EEG supports a localization-related mechanism for epilepsy.
+
+
+

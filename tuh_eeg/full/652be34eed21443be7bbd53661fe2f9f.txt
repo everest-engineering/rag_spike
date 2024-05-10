@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  49 year old woman with irregular heart rate and epilepsy for the last 6 years, daily seizures characterized by smell, followed by headache, loss of consciousness, tonic clonic activity, and postictal confusion.
+MEDICATIONS:  Lexapro, ASA, Klonopin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz 35 mV posterior dominant rhythm and a small amount of low voltage, frontal central beta. Drowsiness is characterized by attenuation of the alpha rhythm with slow rolling eye movements and increase in beta.  POSTS are noted in sleep. Hyperventilation does not activate the record. Photic stimulation does elicit a driving response.
+HR:    86 bpm
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In this individual with frequent seizures, if not previously done, inpatient or outpatient video EEG monitoring may be important to capture one of her spells.
+
+
+

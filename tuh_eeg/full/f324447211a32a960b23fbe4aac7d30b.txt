@@ -1,0 +1,11 @@
+HISTORY: 47 year old woman  with dizziness associated with movements of her head.
+MEDICATIONS:  None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient declined hyperventilation. Photic simulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9.5 Hz 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Brief epochs of drowsiness are characterized by hypersynchronous rhythmic slowing. Sleep is not sustained.   Photic stimulation elicits scant driving.
+HR: 	84 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were observed.  Normal
+EEG does not exclude a diagnosis of epilepsy.
+
+
+

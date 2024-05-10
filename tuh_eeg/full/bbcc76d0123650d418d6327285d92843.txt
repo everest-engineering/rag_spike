@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  84 year old right handed gentleman with a seizure in November 2011 and then a second in March 2012.  Both of them were seizures out of sleep.  He was hospitalized at Mercer Hospital in West Philadelphia.  He feels like he has not quite returned to himself.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm.  The alpha rhythm tends to be slightly asymmetric, little faster on the right than the left, ranging from 8.3 to 8.7.  Features of drowsiness include an increase in theta.  The record is slightly slower on the left posterior region than the right as the patient drifts off to sleep.  Photic stimulation does not significantly activate the record, although the slight asymmetry in the alpha rhythm was noted.
+HR:    60 bpm, somewhat irregular.
+IMPRESSION:  Abnormal EEG due to:
+An asymmetry in the alpha rhythm with a somewhat slower pattern on the left.
+Occasional, subtle underlying slowing on the left.
+CLINICAL CORRELATION:  In comparison to a previous EEG performed on November 9, 2011 that EEG demonstrated a more focal driving response on the left at 6 Hz compared to the right which was a nonspecific finding.  This EEG does not demonstrate that phenomenon a little slowing on the left.   These findings may reflect the patient's underlying cerebrovascular disease with a past history of silent cerebellar infarct picked up on imaging.
+
+
+

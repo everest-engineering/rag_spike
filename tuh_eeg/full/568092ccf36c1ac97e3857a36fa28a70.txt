@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 52 year old left handed woman admitted with possible drug withdrawal and an episode of tremulousness with central spike-and-wave activity.
+MEDICATIONS: Ativan, Keppra, Thiamine, Protonix
+INTRODUCTION: Continuous digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG. As the recording begins, the patient has received Ativan.
+DESCRIPTION OF THE RECORD: The initial sections of the record include stage II sleep. By 2:00 p.m., the patient is a bit more awake, with intermittent arousals, but the background EEG does demonstrate some slowing. As the patient awakens again around 2:36, she transitions frequently in and out of stage II sleep.
+By 4:00 p.m., the patient is more consistently awake, although the background continues to be slow. As the overnight recording continues, the patient is quite drowsy. There are some bursts of sharply-contoured slowing on the left, but none of the central 6 Hz activity that was initially identified was noted. By the close of the record, the background remained somewhat slow with a 9 Hz alpha rhythm, but excess theta.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess slowing.
+2. Suggestion of occasional sharply-contoured slowing on the left.
+CLINICAL CORRELATION: These are nonspecific findings, but overall, the diffuse background slowing is most compatible with a toxic or metabolic process.
+
+
+

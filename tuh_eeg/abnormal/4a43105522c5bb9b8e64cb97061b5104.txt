@@ -1,0 +1,10 @@
+HISTORY: A 31-year-old male with epilepsy since 1998. Tonic-clonic seizures with loss of consciousness lasting two to five seconds. Postictal headache. The patient is amnestic for his seizures.
+INTRODUCTION: Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one-channel of EKG. Hyperventilation and photic stimulation were performed
+DESCRIPTION OF RECORD: In wakefulness, there was an 11 Hz, 40 microvolts posterior dominant rhythm with a generous amount of low voltage,
+fronto-central beta. Drowsiness is characterized by anterior spread and then an increase in background beta. The ventilation produces an increase in theta. Photic stimulation elicits generous driving.
+HR: 72 bpm
+IMPRESSION: Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: There were no epileptiform features identified in the record. The generous beta may be due to anxiety, medications, or other cause. To more completely characterize this patients epilepsy, a followup study capturing deeper stages of sleep is suggested
+
+
+

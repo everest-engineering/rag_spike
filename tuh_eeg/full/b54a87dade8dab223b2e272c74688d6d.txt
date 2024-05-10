@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 58 year old male with 1 year history of epilepsy.
+
+MEDICATIONS: Keppra
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 hertz posterior predominant rhythm with a small amount of low voltage, frontocentral beta activity. In wakefulness, there are well defined high amplitude right anterior temporal spike and slow wave complexes with maximum at T2. Photic stimulation elicits scant driving, hyperventilation produces a small amount of theta and drowsiness is characterized by slow rolling eye movements.
+
+HR: 66 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Right anterior temporal spike in slow complexes.
+
+CLINICAL CORRELATION: This EEG supports a localization mechanism for epilepsy. Comparison with imaging is advised.
+
+
+

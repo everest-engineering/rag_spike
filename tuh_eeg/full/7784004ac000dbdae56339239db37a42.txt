@@ -1,0 +1,37 @@
+History:	73 YR MALE WITH CHANGE IN MS. APHASIC,  PMHX: HTN, DM, HLD, CHF.
+FOUND TO BE HAVING SZS. MRI NEG
+Medications:	Keppra, Dilantin
+Sedation:	Lorazepam
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic,
+obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 8-9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  There is a moderate amount of symmetric 5-15uV, 18-25Hz
+activity is present, maximal over bilateral frontal regions.  During brief drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.  Brief
+Left hemispheric focal slowing (theta and delta range) is seen intermittently following
+electrographic seizures (see below).  There are at least 11 electrographic seizures seen between
+3PM and 9PM e.g.,  at 3:05, 3:39, 3:59, 4:25, 4:52, 5:20, 5:52, 6:18, 6:46, 7:18, 7:47PM.  These
+all start on the left hemisphere likely frontotemporal, and last approximately 60-90 seconds. There
+is post-ictal slowing seen.  Clinically, the patient has no obvious correlate but is seen to stare and
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Seizure, frequent, left frontotemporal
+Interpretation:
+This is an ABNORMAL 24 hour video EEG, awake, drowsy, and asleep due to at least 11 left
+hemispheric electrographic seizures. Recurrent seizures emanating from the left hemisphere
+suggest a structural lesion in this region.  In the setting of altered mental status, recurrent seizures
+suggest a diagnosis of status epilepticus.  These findings were communicated to the primary team.
+stage II sleep is seen .randomly move his arms and legs.
+
+

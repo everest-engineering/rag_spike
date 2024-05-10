@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 59-year-old woman with past history of seizures, none for 10 years; atrial fibrillation; hypertension.  Baseline EEG for pulmonary thrombectomy.
+MEDICATIONS:  Topiramate, Coumadin, amiodarone, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was a technically acceptable, routine 20-minute EEG with photic stimulation in sleep.  Hyperventilation was deferred.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was a 10 Hz alpha rhythm and lambda was noted.  Drowsiness was characterized by an increase in beta followed by central theta and POSTS.  In the transition to sleep, there is a subtle asymmetry with a small degree of shifting temporal slowing but a bit more so on the left than the right, and an occasional vertex wave which is slightly asynchronous.
+Photic stimulation elicited a bilateral driving response, including supraharmonic driving.
+Heart rate 84 bpm.
+IMPRESSION:  This is a very mildly abnormal EEG for an adult of this age due to subtle, left temporal focal slowing, greater than expected for age.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The findings described above are nonspecific and are not uncommonly seen in the context of cerebrovascular disease.
+
+
+

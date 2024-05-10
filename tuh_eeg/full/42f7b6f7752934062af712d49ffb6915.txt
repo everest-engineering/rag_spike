@@ -1,0 +1,33 @@
+AGE: 26 y.o.
+SEX: male
+DATE OF STUDY : 11/19/2015 RECORDING ENVIRONMENT : ICU
+EEG TYPE: 20-40 min, asleep only EEG #: 15-1695
+HISTORY :
+26 y.o. male with a history of epilepsy, right parieto-occipital encephalomalacia and generalized right cerebral hemiatrophy , colpocephaly .Now referred for routine EEG for 3 minute seizure, possible sepsis . MEDICATIONS:
+Current	Prescriptions:
+levetiracetam (KEPPRA) 750 mg tablet, Take 750 mg by mouth 2 times daily.
+Ativan, no others provided
+TECHNIQUE :
+A bedside portable 21 channel electroencephalogram(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG but no HV nor	photic stimulation.
+EEG BACKGROUND :
+The background is reasonably Symmetric and reactive,and consists of a mixture diffuse beta and smaller amounts of delta . Stimulation of the patient increases the delta and produces eye movement
+Sleep is not captured
+No generalized slowing is present.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 96 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal drowsy bedside portable EEG.
+1. Replacement of normal background with delta/beta pattern
+CLINICAL CORRELATION:
+This EEG supports a diffuse bihemispheric process, congruent with a severe medical process, medication use and /or the neurodevelopmental features described above. No seizures were recorded.
+
+
+
+

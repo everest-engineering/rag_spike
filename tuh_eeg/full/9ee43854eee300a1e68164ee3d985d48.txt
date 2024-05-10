@@ -1,0 +1,31 @@
+History:	40 yo male hx of GSW to the right temporal region in 1999. He subsequently began
+to have seizures.  He became seizure free in 2005 until 2014. His last seizure
+occurred ~ 1 week ago.
+Medications:	Tegretol
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Several synchronous bifrontal low amplitude sharp waves are noted, R>L.  Maximal scalp
+negativity occurs over Fp2>Fp1 leads.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates heart rate <60 bpm.
+Summary of Findings:
+Sharp waves, occasional, bilateral (R>L) frontal, synchronous, low amplitude
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL 22-minute awake and asleep EEG due to several bifrontal synchronous,
+right>left, epileptiform discharges. This finding is indicative of potentially epileptogenic area in the
+bifrontal regions, right>left.
+
+
+
+
+
+

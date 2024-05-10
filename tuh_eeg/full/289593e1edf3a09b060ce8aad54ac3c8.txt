@@ -1,0 +1,35 @@
+History:	56 YO MALE WAS AT A BAR WHEN HE COLLAPSED OFF STOOL.HE WAS DOWN
+5 MIN. BEFORE EMS ARRIVAL AT WHICH TIME HE WAS FOUND TO BE IN
+ASYSTOLE.CPR WAS INITIATED W 3 ROUNDS OF EPI AND ROSC WAS
+ACHIEVED. UPON ARRIVAL HE WAS HYPOTHERMIC 94.3 & LATER
+Medications:	DILANTIN,LOVENOX,LORAZEPAM ,VECURONIUM
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Periodic central maximal (with a large posterior field) synchronous
+complex polyphasic sharp waves with a repetition rate of 1-2 Hz.  There is a myogenic artifact
+associated to the discharges and on video the patient exhibit subtle jerks, consistent with
+myoclonus.  There are intermittent bursts lasting 1-13 seconds. The bursts are composed of low
+amplitude complex fast beta frequency polyspikes that appear to be maximal at CZ, P3 and P4. No
+video correlate is seen.  These are consistent with electrographic seizures.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  The patient received vecuronium which removed the myogenic artifact
+from the discharges.  HR was 84
+Summary of Findings:
+Status epilepticus, continuous, electrographic central and parietal
+PEDs (periodic epileptiform discharges), continuous, central
+Diffuse slowing, polymorphic, continuous
+Interpretation:
+This is an ABNORMAL EEG because of  frequent subclinical electrographic seizures arising from
+the central and parietal region.  These findings are indicative of an epileptogenic focus in this
+region, and are consistent with subclinical status epilepticus. In addition there are  continuous
+periodic epileptiform discharges (PEDs) that are central maximal with associated myoclonus.  In the
+setting of hypoxic injury these findings are indicative of diffuse cortical irritability and dysfunction
+which is suggestive of a very poor prognosis.
+
+

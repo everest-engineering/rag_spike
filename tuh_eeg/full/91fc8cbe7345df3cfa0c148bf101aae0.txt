@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 47-year-old woman, admitted to MICU on December 14th, with acute respiratory failure.  Past history of anxiety, depression, bipolar disease, hypertension, and gastric bypass.  Now, with hallucinations, disorientation, agitation, and B12 deficiency.
+MEDICATIONS:  Rifaximin, B12, and Protonix.
+INTRODUCTION:  A 22-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and poorly responsive.  This is a technically acceptable bedside record with some muscle artifact.  The both most impedances are under 5 kilohms.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous pattern with mixed frequency activity, there is a mixture of theta and delta.  Intermittent attenuation were noted diffusely in the record lasting less than 1 second.  Some sections of the record are more sharply contoured than others.
+Tactile stimulation of the patient produced an arousal response if the patient was able to look at the technologist.  When unstimulated, the muscle and movement artifacts dropout.
+Heart rate 120 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow background.
+Intermittent attenuations.
+CLINICAL CORRELATION:  No definitive epileptiform features were seen.  There were no focal features noted.  Overall, this EEG is most compatible with toxic or metabolic encephalopathy.  Although this patient appeared to be unresponsive to the team, she is clearly interactive with the EEG tech, looking to voice and to some extent interacting with the tech.
+
+
+
+
+

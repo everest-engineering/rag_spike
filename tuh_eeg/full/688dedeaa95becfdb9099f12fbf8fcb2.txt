@@ -1,0 +1,22 @@
+History:	68 year old woman who a history of seizures, now presents with change in mental status. Medications:	Phenobarbital, Versed
+Sedation:
+EEG Type: Technique:
+Continuous (inpt, video), 24 hrs
+International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -13 hours from 10/11/2012 till 10/12/2014.  Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient. The background is diffusely attenuated with slow polymorphic delta activity captured. There are frequent right anterior temporal seizures. They last - 30 seconds.
+Occasional right midtemporal seizures are also captured. These are longer (example, 1:35:30 AM) . Neither seizure type have clinical correlate. Continuous low amplitude sharp waves are captured over T4 lead.  No normal sleep architecture is present.
+Summary of Findings:
+Seizure, frequent, right temporal, anterior
+Secondary bilateral synchrony , occasional, right temporal, mid Diffuse slowing, polymorph ic, severe
+Attenuation, severe
+Interpretation:
+This is an ABNORMAL continuous 13 hour video EEG due to (1) severe background slowing and attenuation; (2) frequent right anterior temporal and occasional right midtemporal seizures and (3) continuous very focal right midtemporal epileptiform discharges. Diffuse slowing and attenuation are etiologically nonspecific indicators of severe diffuse cerebral dysfunction, that, in this case is at least partially related to the medication effect. There is focal irritable epileptogenic, likely structural, focus over the right anterior temporal - midtemporal region. These findings were conveyed to the primary team.
+
+
+
+

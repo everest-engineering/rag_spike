@@ -1,0 +1,26 @@
+History:	78 YO MALE POST SURGICAL FOR R/SDH WITH SHIFT.
+PT R/O POSSIBLE SZ X 2 POST SURGERY.
+HX: PT FELL AND DEVELOPED LARGE SDH.
+Medications:	propofol drip, Keppra, Dilantin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes, drowsy, asleep
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity intermixed with beta on the left side with absence of the expected
+anterior to posterior gradient of frequencies.  Marked hemispheric differences with activity suppressed
+on the right side. There were faster frequencies on the left side.  Eye blinks are asymmetric with
+greater voltage on the right.  No normal sleep architecture was present.
+No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR 70
+Summary of Findings:
+Diffuse slowing, polymorphic diffuse
+Attenuation, bilateral (R>L) diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+Marked hemispheric asymmetry with suppression on the right side is consistent with a history of right
+subdural hematoma.  The lack of epileptiform discharges on a routine EEG does not rule out a
+clinical diagnosis of epilepsy.
+
+

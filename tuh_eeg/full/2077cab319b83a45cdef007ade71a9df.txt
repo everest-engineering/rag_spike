@@ -1,0 +1,14 @@
+LENGTH OF THE RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is a 47-year-old man with a recent stroke in the left MCA territory and now presents with new onset seizures.
+MEDICATIONS:  Keppra.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with the addition of T1 and T2  electrodes and a single EKG lead.   Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  __________ is continuous at variable voltages.  The posterior dominant rhythm consists of very low amplitude at 8-8.5 Hz alpha activity that attenuates with eye opening.  The posterior dominant rhythm is better formed over the right hemisphere.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep symmetric sleep spindles, vertex waves and K complexes are captured.  Brief bursts of theta are observed over the right hemisphere, primarily over the right centrotemporal region.  Hyperventilation is not performed.  Stepped photic stimulation does not result in occipital driving.
+FINDINGS:
+Diffusely very low voltages.
+Slowing of the posterior dominant rhythm over the left hemisphere.
+Occasional mild right centrotemporal slowing.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and asleep 22 minute EEG due to mild diffuse background slowing, slowing of the posterior dominant rhythm over the left, and occasional mild right centrotemporal slowing.  The diffuse slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Slowing of the posterior dominant rhythm over the left and occasional right centrotemporal slowing indicates focal cerebral dysfunction, possibly structural in etiology.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

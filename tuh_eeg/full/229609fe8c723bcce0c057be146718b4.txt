@@ -1,0 +1,30 @@
+:
+History:	58 YO RIGHT HANDED MALE, DX. INTRACRANIAL HEMORRHAGE,  TEMPORAL
+HEMORRHAGE OFF R. LATERAL VENTRICLE ON 2/15/2014.  SECONDARY TO
+Medications:	KEPPRA,LISINOPRIL,ZOSYN, HYDROCHLOROTHIAZIDE METOPROLOL, VANCO.
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+medium voltage delta and theta activity with absence of the expected anterior to posterior gradient
+of frequencies.  There were occasional bursts of frontally intermittent rhythmic delta activity
+(FIRDA), 1.5 -2 Hz in frequency lasting 1-2 seconds.  No normal sleep architecture was present.
+Intermittent polymorphic delta activity is present in the right frontotemporal region.  No epileptiform
+discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 70 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Focal slowing, polymorphic, intermittent, right frontotemporal
+FIRDA (frontal intermittent rhythmic delta activity), occasional
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing, absent alpha rhythm, and
+occasional bursts of frontal intermittent rhythmic delta activity (FIRDA).  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  FIRDA bursts could
+also be seen in increased intracranial pressure or diencephalic midline brain mass. Clinical
+correlation is recommended.  Intermittent focal slowing in the right frontotemporal region.  This
+finding is indicative of focal cerebral dysfunction in this region, likely structural in origin.  No
+clinical or electrographic seizures are present.  The lack of epileptiform discharges on a routine
+
+

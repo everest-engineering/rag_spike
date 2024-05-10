@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  50 year old male admitted on the 24th with an episode of unresponsiveness, hypoglycemic.  Past history of hepatitis, HIV, IVDA, and alcohol abuse.
+MEDICATIONS:  Ativan.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an alpha rhythm of 8.7 Hz, 30 microvolts.  Much of the record includes drowsiness, which may be characterized by excess beta or excess theta but in relaxed wakefulness there is excess theta noted. Photic stimulation elicits scant driving.
+HR:     96 bpm
+IMPRESSION:  This EEG is remarkable for:
+Excess theta.
+CLINICAL CORRELATION:  The excess theta is a nonspecific finding.  It may be associated with many of this patient's underlying medical conditions.  No epileptiform features were noted.
+
+
+

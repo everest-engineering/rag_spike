@@ -1,0 +1,36 @@
+History:	65 year old woman who presented after a presumed syncopal event.  After the
+admission, she had another witnessed event characterized by staring,
+unresponsiveness and arm jerking.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  Underriding monomorphic diffuse
+delta activity is captured- it increases in frequency with drowsiness.  During drowsiness, the alpha
+rhythm attenuates, EMG artifact resolves and degree of underriding delta activity increases.
+Subtle additional polymorphic delta activity is noted over the right anterior temporal region.
+Occasional moderate-to-high amplitude right anterior temporal sharp waves with aftergoing waves
+are captured.  Maximal scalp negativity occurs over F8/T2 leads.  Frequency of these discharges
+increases with drowsiness.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.  A single EKG lead demonstrates heart rate of ~ 60 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, intermittent, moderate
+Sharp waves, occasional, right temporal, anterior
+Interpretation:
+This is an ABNORMAL 30 minute awake and drowsy EEG due to (1) mild diffuse slowing: (2) subtle
+intermittent focal moderate right anterior temporal slowing and (3) occasional right anterior
+temporal epileptiform discharges. Diffuse slowing is indicative of mild diffuse cerebral dysfunction,
+which is etiologically nonspecific.  Intermittent right anterior temporal focal slowing and occasional
+right anterior temporal epileptiform discharges indicate a focal structural cerebral abnormality with
+increased epileptogenic potential.  These findings were conveyed to the primary team.
+
+
+
+

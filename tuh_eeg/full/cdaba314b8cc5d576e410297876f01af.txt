@@ -1,0 +1,23 @@
+History:	36 YR.OLD WOMAN LH WITH HEADACHES FOR ONE YEAR LOCATED IN THE
+FRONTALLY WITH A THROBBING QUALITY. .51 CM HEAD
+Medications:	CYCLOBENZAPRINE,GABAPENTIN,MIRTAZAPINE,AMITRIPTYLINE,OMEPRAZOLE
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present
+throughout the recording and increases during drowsiness.  During drowsiness, the background slows
+to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates the excess
+theta.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild diffuse
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of mild diffuse background slowing.
+This finding is an etiologically nonspecific indicator of mild diffuse cerebral dysfunction.  No
+clinical or electrographic seizures are present.
+
+

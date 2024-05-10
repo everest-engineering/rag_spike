@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  71 year old woman admitted to Frankford Hospital with syncope, orthostatic hypotension, and a history of headaches.  Past history of stroke.
+MEDICATIONS:  Aspirin, Plavix, Cozaar, Simvastatin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 20 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta.
+Features of drowsiness include an increase in beta. Hyperventilation does not activate the record. Photic stimulation elicits scant driving.
+HR:    60 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  There were no focal nor epileptiform features identified in this record.  If seizures are an important consideration for this individual, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

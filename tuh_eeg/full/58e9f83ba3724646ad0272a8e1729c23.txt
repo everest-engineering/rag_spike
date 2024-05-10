@@ -1,0 +1,13 @@
+MEDICINES: Ativan, heparin, Dilantin.
+HISTORY: A 69-year-old male, admitted to the ICU with an episode of right eye deviation, right arm shaking, and then 15-20 second of tonic-clonic activity. History of lung transplant, CAD, atrial fibrillation, diabetes, and COPD.
+INTRODUCTION:   A 20-minute digital video EEG was performed at bedside in ICU using standard  10-20 system of electrode placement with 1 channel EKG.  The patient was intubated and poorly responsive.
+This is a technically satisfactory record with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a diffusely slow pattern with slow rhythmic delta and smaller amounts of theta.  Intermittently, there is an increase in low voltage, 6 hertz theta activity and some 8-9 hertz activity as well. Tactile stimulation of the patient produces a scant amount of theta and then a brief attenuation.
+Heart rate: 86 bpm.
+IMPRESSION: Abnormal EEG due to:
+1.	Marked generalized slowing.
+CLINICAL CORRELATION:  There are no definitive focal or epileptiform features noted in this record, although there is some shifting slowing. This EEG supports a diffuse disturbance of cerebral function as can be seen in a toxic or metabolic stage or even postictal state.  If additional information is needed, a repeat study in search of well-defined epileptiform activity may be obtained when the patient is out of the ICU.
+
+
+
+

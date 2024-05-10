@@ -1,0 +1,35 @@
+History:	76 YO FEMALE CC HEADACHE, CONFUSION, AND APHASIC . CT L PARIETAL ICH.
+.. PT GOING ON LTM
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Limited waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+Continuous polymorphic delta activity is present in the left mid to posterior temporal region during
+wakefulness, increasing during drowsiness.  Thirteen electrographic seizure is recorded beginning
+with rhythmic 6-12 Hz activity in the posterior quadrant region and evolving into 2-4 Hz activity.
+They remain over the same region with minimal spread and lasting from 14 seconds to 2 minutes.
+There was no clinical correlate associated to this EEG activity documented on video.
+Hyperventilation and photic stimulation are not performed.  HR was 84
+Summary of Findings:
+Seizure, frequent, left posterior quadrant, Electrographic
+Focal slowing, polymorphic, continuous, left temporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent subclinical
+electrographic seizures arising from the left posterior quadrant region.  These findings are
+indicative of an epileptogenic focus in this region, and are consistent with subclinical status
+epilepticus. In addition there is  continuous focal slowing in the mid to posterior temporal region.
+This finding is indicative of a focal structural lesion in this region.  These findings were conveyed to
+the primary team. Patient will go on to long term monitoring.
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 60 year old woman with 2 aneurysms and development of epilepsy in 1988.  The patient reported her last seizure either 4 months ago or 18 months ago.  Seizure is described as left-sided shaking.
+MEDICATIONS:  Phenobarbital.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm with generous, low-voltage, frontocentral beta.  Drowsiness is characterized by slowing of the alpha rhythm.  Rare vertex waves were identified.   Hyperventilation produces an increase in amplitude.  The background photic stimulation elicits bilateral driving.
+HR:    78 BPM
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  The generous beta identified may be associated with this patient's medications.  No epileptiform features were identified.  If epilepsy is an important consideration, a follow-up study may be considered.
+
+
+

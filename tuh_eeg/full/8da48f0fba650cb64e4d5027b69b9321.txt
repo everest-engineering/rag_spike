@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Closed-lip schizencephaly, currently seizure free.
+MEDICATIONS:  Ambien, Geodon, Lexapro, Xanax, albuterol, Advair.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  There is some sections of the record with a low voltage 9 Hz alpha rhythm, but others with a significantly slower pattern with more theta and a slower alpha rhythm.  As the patient becomes drowsy there is paroxysmal rhythmic slowing and the posterior dominant rhythm is more of a theta pattern.  The patient transitions briefly in and out of stage 1 sleep with vertex waves and hypersynchronous rhythmic slowing.
+Photic stimulation does elicit a driving response.
+Heart rate 78 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Excess theta.
+A small degree of disorganization.
+CLINICAL CORRELATION:  Given the history of a significant neurodevelopmental anomaly, this EEG is quite unremarkable.  No epileptiform features were seen.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 36 year old woman with episodes of generalized body shaking. Evaluate for tonic clonic seizures.
+MEDICATIONS: Metoprolol, Lyrica, Seroquel, Zolpidem
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 9.5 Hz alpha rhythm. There is scant 7-8 Hz activity in the background. Drowsiness is characterized by an increase in background slowing. Photic stimulation elicits bilateral driving.
+HR: 90 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Minimal excess theta.
+CLINICAL CORRELATION: No epileptiform features were seen. The minimal excess theta identified above is nonspecific, but could be associated with this patient's medications.
+
+
+

@@ -1,0 +1,27 @@
+History:	74 year old woman who presents with progressive confusion that started ~ 1 month
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes, awake
+Description:
+The posterior dominant rhythm reaches 9 Hz alpha activity.  The AP gradient is weak.  The
+background consists predominantly of polymorphic theta and delta activity.  Patient remains awake
+throughout the study.
+Hyperventilation and photic stimulation are not performed.  Patient moves prior and during the
+recording.  Therefore, the impedances are high in some of the electrodes and there is movement
+artifact throughout the study.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Artifact, movement, intermittent
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only 23-minute EEG due to mild-to-moderate diffuse slowing and
+disorganization. These findings are etiologically nonspecific indicators of mild -to-moderate diffuse
+cerebral dysfunction.  Due to intermittent movement artifact throughout the study, subtle focal
+slowing and epileptiform discharges could have been missed.
+
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 49 year old right handed male with right carotid stenosis.
+MEDICATIONS: Propofol, Fentanyl, Vecuronium and Versed.
+INTRODUCTION: Digital video EEG was performed at bedside in the OR using standard 10-20 system of electrode with 1 channel of EKG. The EEG begins when the patient may have already received some sedative hypnotic medications. This is a 3 hour EEG.
+DESCRIPTION OF THE RECORD: As the EEG begins, there is a background rich in beta. Briefly, a 10 Hz alpha rhythm is noted with eye opening and eye closure. Induction of anesthesia appears to have begun at 12:21 with an increase in delta at that time.
+Heparin is given at 1:11. The recording remains symmetric although there is some head-rocking artifact noted from both occipital regions. The carotid ts clamped at 1:49:00. Just at placement of the clamp over the carotid, there is a brief bilateral attenuation. Additional brief bilateral attenuations are seen in the minutes that follow each lasting 1 to 3 seconds. These are quite subtle and are best identified at slow paper speed. No additional changes are noted aside from these generalized changes which may represent anesthesia effect. The clamp is removed at 2:46:30. As that time approaches, the brief attenuations are less prominent. Patency is confirmed by Doppler at 2:50.
+HR: 78bpm
+IMPRESSION: This EEG recording during right carotid endarterectomy was remarkable for: Occasional subtle generalized attenuations noted during the procedure. Because these are bilateral in nature and they were seen even after removal of the clamp, they are most likely to be medication effect.
+
+
+
+

@@ -1,0 +1,15 @@
+EEG LENGTH:  22 minutes
+CLINICAL HISTORY:  The patient is a 29-year-old with a history of craniopharyngioma, now presents with new onset seizures, suspected complex partial seizures.
+MEDICATIONS:  Keppra, metformin, prednisone, Lovenox and insulin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of polymorphic low to moderate amplitude, 8-9 Hz alpha activity that attenuates with eye opening.  The anterior to posterior frequency of the gradient is weak.  Additional diffuse polymorphic theta activity is present.  During sleep, vertex wave sleep spindles and K complexes are captured.  Sleep architecture is more prominent over the right hemisphere.  Continuous polymorphic theta and delta activity is captured over the right anterior region.  Additional underwriting faster frequencies are observed over the right anterior region.  Intermittent moderate to high amplitude spike with after-going slow waves and polyspikes are captured over the right frontal, frontocentral regions, with stage reversal primarily over C4 electrodes.  The right hemispheric also has broad right hemispheric __________ with reflection over the left anterior electrodes.  Frequency of these discharges increases significantly during sleep.  Hyperventilation does not produce significant changes in the background.  Stepped photic  stimulation does not result in additional abnormalities.  A single EKG lead demonstrates the heart rate up to 100 beats per minute.
+FINDINGS:
+Mild diffuse slowing.
+Continuous mild to moderate right frontal slowing.
+Right frontal reach.
+Intermittent spikes with after-going slow waves and polyspikes present over the right frontocentral region, with stage reversal over C4 electrode, with broad field bifrontally.
+No electrographic seizures.
+IMPRESSION:  This is an abnormal awake and asleep EEG due to mild diffuse slowing, mild to moderate focal right anterior slowing, intermittent right frontocentral epileptiform discharges that increase in frequency during sleep.  This diffuse slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Focal slowing and focal epileptiform discharges emanating from the right frontocentral region indicates likely underlying structural lesion, with epileptogenic potential.  Bridge artifact is present over the right frontal region and is seen after a skull defect.  Sinus tachycardia is captured in a single EKG lead.  No electrographic seizures are noted.
+
+
+

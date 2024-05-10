@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 65-year-old woman with recurrent visual hallucinations, chronic diarrhea.  The patient has visual hallucinations cats, people, faces, and lights.
+MEDICATIONS:  Lovenox, carvedilol, nitroglycerin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This EEG captured wakefulness and sleep.  The patient did not experience her typical symptoms during the EEG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is slow with an alpha rhythm at 7 hertz, symmetric and reactive.  There is a small amount of low voltage, frontal central beta activity.  In apparent wakefulness, there are intermittent bursts of paroxysmal rhythmic mixed theta delta.  Drowsiness is characterized by an increase in background slowing with a handful of bursts of shifting slowing.  Vertex waves, K complexes, and spindles were noted in stage 2 sleep, which is somewhat better organized in the awake and drowsy pattern.
+Heart rate:  78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Slowing of the alpha rhythm.
+Bursts of paroxysmal slowing.
+CLINICAL CORRELATION:  These findings are nonspecific, but can be seen in a diffuse disturbance of cerebral function due to many different causes.  If epilepsy is an important consideration, a more prolonged study may be of use.  If needed, more prolonged EEG recording may be helpful to capture 1 of the patient's typical spells.
+
+
+

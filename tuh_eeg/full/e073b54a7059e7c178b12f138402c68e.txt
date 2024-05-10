@@ -1,0 +1,25 @@
+History:		30 year old woman with a history of large right frontal hematoma status post EVD, now out (left frontal approach).   Patient remains unresponsive.
+EEG is performed in 2 parts, - 20 minutes apart. Medications:	Keppra. Propofol turned off - 12 hours earlier. Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description:
+There is right-to-left intrahemispheric asymmetry with voltage attenuation and slower waveforms over the right. The background over the left consists of 8-9 Hz activity posteriorly, with expected but weak AP gradient and diffuse excess theta activity. The background over the right consists of a mixture of attenuated theta and delta activity. Frequent episodes of arousals are noted. Many of them start with a coughing fit or in response to a noise in the room or patient stimulation (such as suctioning).
+Electrographically they are characterized by appearance of diffuse, left anterior   predominant rhythmic delta activity and increase in voltages and prominence of activity seen in the left posterior quadrant.
+Continuous EKG artifact is present. Occasional sleep-spindle-like waveforms are present. Additionally, episodes of arousals and quiescence are captured.
+A single suspected seizure is captured at -11:14 AM. It lasts - 4.5 minutes. It starts gradually with appearance of left anterior rhythmic sharply contoured - 1.5 Hz delta activity and increase in amplitude of activity within the left posterior quadrant. This activity persists with appearance of diffuse fast activities. Blinking artifact appears at - 11:16:11 am and lasts till - 11:17:27 am. Blink artifact is not rhythmic.
+Clinically, patient appears to move her head slightly in the flexion/extension  motion.  Episode of rapid left hand shaking is captured from -12:58:11 PM till - 12:58:47 pm. There is no EEG correlate except for movement artifact seen in the EKG lead.
+Ventilator artifact is intermittently present in the second part of the recording.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right hemispheric, moderate-to-severe Attenuation, moderate, right hemispheric
+Seizure, one, left hemispheric, suspected Other, reactivity is characterized
+, by appears of activity
+, that is similar to the one seen in a suspect seizure Other, episode of left arm shaking
+Artifact, other, ventilator
+Interpretation:
+This is a very ABNORMAL portable -2 hour continuous EEG due to moderate diffuse slowing, focal right hemispheric moderate-to-severe slowing and moderate attenuation; (3) a single SUSPECTED left hemispheric seizure (associated with non-rhythmic blinking). Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific. Continuous focal slowing is indicative of a focal structural lesion on the left and is consistent with a know left ICH. A single SUSPECTED seizure emanating from the left (possibly left anterior region). That episode could also have been a prolonged more profound arousal since activity that was seen within a seizure resembles activity seen during patient's arousals. - 30 second episode of LEFT arm shaking had no abnormal EEG correlate.
+However, only -25% of simple partial seizures are recorded on a scalp EEG. These findings were conveyed to the primary team and patient was placed on continuous EEG monitoring.
+
+
+
+

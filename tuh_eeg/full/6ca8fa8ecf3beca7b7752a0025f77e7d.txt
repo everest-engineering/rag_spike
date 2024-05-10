@@ -1,0 +1,29 @@
+History:	67 year old woman with history of dementia and seizures.  She has been seizure-
+free for ~ 4 years.
+Medications:	Aricept, Carbamazepine, Phenobarbital
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 6-7 Hz theta activity.
+There is an anterior-to-posterior frequency-amplitude gradient with faster frequencies at lower
+amplitudes anteriorly.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording.  Frequent brief (2-5 second) bursts of 100-200uV, 2-4Hz rhythmic bifrontal slow waves
+(FIRDA) occur throughout the recording, increasing in frequency during drowsiness.  During
+drowsiness, there is increase in the amount of FIRDA and diffuse theta.
+No focal slowing is present.  Several independent right midtemporal and right parietal sharp waves
+with aftergoing slow waves are noted.  Phase reversal occurs over T4 and P4 electrodes,
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Sharp waves, few, right, independent T4 and P4 sharp waves
+FIRDA (frontal intermittent rhythmic delta activity), intermittent
+Interpretation:
+This is an ABNORMAL awake and drowsy 26-minute EEG due to mild-to-moderate diffuse slowing,
+several independent right mid-temporal and right parietal epileptiform discharges. Diffuse slowing
+is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+There is a potential epileptogenic focus in the right mid-temporal-parietal region.  FIRDA could be
+seen in various forms of encephalopathy, increased ICP, bilateral deep white matter lesions.
+

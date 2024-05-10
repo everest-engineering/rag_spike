@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 62 year old right handed woman with gunshot injury to the right parietal region in 1989, now with paroxysmal episodes of vertigo.
+MEDICATIONS: Meclizine, Lipitor, Depakote, Baclofen, Prilosec, Prosemax (?)
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.7 hertz alpha rhythm. Arrhythmic delta activity is noted intermittently in the right hemisphere particularly central temporal region. It sometimes disrupts the alpha rhythm, but not always. In addition, there Is some shifting slowing with some rhythmic slowing picked up in the left anterior temporal region during hyperventilation. A breach rhythm is observed. In addition, there is some double phase artifact due to the prior cranial deformity. Photic stimulation elicits a driving response. The driving response is a bit more vigorous on the left and is relatively subtle bilaterally.
+HR: 60 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic slowing from the right central temporal region.
+2. Shifting focal slowing with occasional slowing on the left.
+CLINICAL CORRELATION: Many of the features described above are anticipated findings following the craniotomy. The rhythmic slowing on the right can be seen as an interictal finding in episode, but can also be seen in individuals with head trauma as described above. No sharp waves or spikes were identified.
+
+
+
+

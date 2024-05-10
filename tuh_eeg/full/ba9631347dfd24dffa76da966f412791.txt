@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An elderly gentleman with recent status epilepticus associated with hyponatremia.  The patient was discharged home.  He missed his medications and returned with facial twitching, drooling, worsening aphagia, and hemiparesis.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was as described above.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The activity from both hemispheres is slow.  In addition, there is a high amplitude periodic complex with a little bit of polyphasic activity.  This discharge is noted in the left hemisphere with a wide field of spread and is typically maximum in the left posterior temporal region, T5, but may also be noted at P3, O1, T3.
+With stimulation there is an increase in theta frequency activity on the right.
+Photic stimulation does not significantly activate the record.
+Heart rate:  90 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+The appearance of high amplitude periodic complexes from the left hemisphere with a broad field of spread.
+Significant slowing on the left.
+Moderate slowing on the right.
+CLINICAL CORRELATION:  No clinical seizures were recorded.  The pattern of PLED's was previously noted for this patient, but did abate.  Additional EEG recording may be of value to determine response to therapy.
+
+
+

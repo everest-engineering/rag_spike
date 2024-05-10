@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  28 year old male status post gunshot wound with subsequent quadriplegia, splenectomy, liver and colonic injuries, status post code on January 1, 2012 for 12-15 minutes.  Evaluate for anoxic brain injury.
+MEDICATIONS:  Imipenem, Vecuronium, Pantoprazole, Lovenox, Insulin, Aminophylline, Lorazepam, Colistimethate, Tylenol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  As the tracing begins the patient is intubated.  He demonstrates intermittent grimacing and oral facial movements, which obscure the EEG.  In the interim when the oral facial movements stop, the background EEG is quite slow, featureless, and suppressed.  Vecuronium is administered just prior to 11:00 a.m. and eliminates the muscle artifact.  Subsequently, the background EEG is slow to medium amplitude 0.9 to 2 Hz delta activity.  There is no variability.  There is no reactivity.
+HR:    120 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Replacement of normal background with a slow featureless pattern.
+Apprehensive reactivity.
+Absence of variability.
+CLINICAL CORRELATION:  These findings are worrisome prognostic features, 72 hours post code.
+
+
+

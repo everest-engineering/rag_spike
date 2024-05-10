@@ -1,0 +1,34 @@
+CLINICAL HISTORY:  This is a 57-year-old male with renal failure, HIV, hypertension hepatitis C. The patient presented Feb 22, status post code in the field with 2 additional codes in the emergency room and was admitted to the ICU.
+MEDICATIONS:  Propofol at 30 to 60 per hour, valproic acid 1500 mg per day.
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was described as intubated comatose with subtle underlying twitching noted intermittently and myoclonic jerking with tactile stimulation such as suctioning.  Due to technical issues, the EEG was recorded in 7 pieces, spanning three days and includes two days of LTM in total.
+02/22/2015-02/2315
+DESCRIPTION OF THE RECORD:
+Background: The EEG demonstrates a very low voltage and suppressed pattern with scant cerebral activity and then brief bursts of mixed theta frequency activity.  There is  significant EKG and ventilator artifact.  The record can be reviewed at low sensitivities, which unfortunately produces more significant artifact.
+Later on the 23rd The EEG demonstrates a very low voltage and suppressed pattern with brief bursts of higher amplitude mixed delta/theta activity and ventilator artifact.  Most bursts are 1-3 seconds in duration with no more than 2 bursts per 20 second period. Propofol was adjusted to reduce stimulus induced jerking.
+Attempts to reduce propofol or stimulation of the patient to provide care (1-2 PM example)  produced more sustained jerking of head and trunk with SIRPID activity
+Heart rate 78 bpm.
+IMPRESSION/CLINICAL CORRELATION:  For day 1 of continuous video EEG monitoring:
+Remarkable for markedly suppressed pattern.
+Burst suppression pattern
+No epileptiform activity.
+No electrographic seizures.
+Behaviorally, what appears to be stimulus-induced myoclonus SIRPIDS
+Given the ongoing use of sedative hypnotic medications, EEG monitoring will continue while the team attempts to wean those medications.
+
+02/24/2015-02/25/ 2015 LTM 55-1
+DESCRIPTION OF THE RECORD:
+Background: EEG demonstrates a very low voltage and suppressed pattern with lower voltage, frontal GPEDs seen at times every 1.5 seconds.  Intermittent trembling was associated with muscle artifact but no clear EEG signature. The video shows the patient subtly trembling from side to side.
+Propofol was adjusted and tactile stimulation did not produce major body jerking or SIRPIDS.
+Event:  7:15 a.m.  The patient was suctioned and this produced an increase in body jerking lasting 2 minutes 8 seconds.  No epileptiform features were noted with this and the activity gradually fades and returns to a low voltage suppressed pattern.  The artifact pattern is a low voltage delta pattern and in the absence of the use of neuromuscular blockade agents, the low voltage pattern may in fact represent some cortical reactivity to the unpleasant stimuli, particularly from the left scalp electrodes.
+Later in the morning of the 25th the EEG is markedly suppressed.  The patient remained on Propofol
+IMPRESSION/CLINICAL CORRELATION:  Two days of continuous video EEG monitoring were recorded in several sections: Findings changed over time but included
+Remarkable for markedly suppressed pattern.
+Burst suppression pattern
+Behaviorally, what appears to be stimulus-induced myoclonus SIRPIDS
+Later, a more uniformly suppressed pattern
+This EEG, which concluded approximately 72 hours post cardiac arrest is consistent with a severe CNS insult, congruent with the Neuro-imaging and clinical findings.
+
+
+
+
+

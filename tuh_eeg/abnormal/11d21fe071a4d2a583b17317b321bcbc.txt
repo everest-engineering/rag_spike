@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  73 year old right handed woman with a history of stroke, right sided weakness, vertigo, left MCA and left cerebellar infarct, admitted with epilepsy or seizures.
+MEDICATIONS:  Plavix, Tegretol, Lovenox, Protonix
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity. Of note, as the patient becomes drowsy there is an asymmetry noted with slowing of the faster frequency activity in the left hemisphere occurring before the right.  There are occasional bursts of shifting slowing noted as well.  Other features of drowsiness and sleep include an increase in beta and theta. Photic stimulation elicits a driving response more so on the right than the left.
+HR:     60 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the left hemisphere, primarily characterized by slowing and faster frequency activity.
+An asymmetric photic driving response.
+CLINICAL CORRELATION:  This EEG is most supportive of a structural lesion on the left involving gray matter and may be correlated with imaging.  No sharp waves or spikes were seen.
+
+
+

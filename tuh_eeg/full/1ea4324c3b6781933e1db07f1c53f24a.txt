@@ -1,0 +1,24 @@
+CLINICAL HISTORY:  32 year old right handed woman with epilepsy since age 6, recurred at age 14, currently seizure free since 2006.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   Hyperventilation and photic stimulation were performed.   No clinical seizures were noted.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background includes an 11 Hz 70 mV alpha rhythm. In relaxed wakefulness, hyperventilation, photic stimulation, and in the transition to sleep, there are brief bursts of generalized 4-5 Hz high amplitude spike and wave activity.  The bursts, on the whole, are symmetric.  The first burst occurs so quickly that testing is not performed.  It is difficult to determine if the patient is aware in the second burst, but immediately after the tapping she follows a command.  She is aware that she is sleepy throughout the EEG.  Another bursts of 2 second burst of high amplitude frontally predominantly generalized spike and wave activity occurs during the 19 Hz photic stimulation and the patient is able to follow a command that is given to her during that burst.
+
+A more prolonged burst is seen at 8:54:24 am as she is drifting off to sleep.  The patient has an awareness that the tech told her that she was demonstrating the bursts as she was drifting off to sleep and the stimulation by the tech for the bursts seem to result in an arousal and a termination of the bursts.  Maximum duration of a paroxysmal burst is 5 second, but the spike and wave aspect of it is typically 2-3 seconds in duration.
+
+HR:   60 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Prominent bursts of high amplitude 4-6 Hz paroxysmal spike and wave activity.
+
+These bursts occur as the patient drifts off to sleep.  In wakefulness, when they occur with maximal wakefulness, the patient does not demonstrate impaired awareness.
+
+CLINICAL CORRELATION:  This EEG supports a generalized mechanism for epilepsy.  It is similar to the 2006 and the 2009 EEG.
+
+
+
+DD:02/21/2012
+DT:02/21/2012
+
+
+

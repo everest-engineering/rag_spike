@@ -1,0 +1,26 @@
+History:		50 YR OLD FEMALE PRESENTS ON 7/9/14 WITH H/O SZ VS SYNCOPAL EPISODE AT HOME, 2ND EVENT SZ ACTIVITY NOTED BY EMS LASTING 15 SEC, 3RD EPISODE IN ED.
+Medications:	LORAZEPAM, VECURONIUM, ETOMIDATE, SUCCINYLCHOLINE,  NARCAN
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 36 hours from 07/09/2014 to 07/11/2014.   Nursing? initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	O
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  The background improves after the first 14 hours and then becomes slow again until the last 6 hours of recording where it becomes faster and more organized with some posterior theta discharges and some central and frontal beta. No normal sleep architecture was present.
+
+No focal slowing is present.  During the first 3 hours there where 3 electrographic seizures arising form
+02. They consistent of very focal rhythmic sharp waves in the 02 electrode increasing in frequency.  One of the seizure did have some central spread. They lasted form 1-2 minutes.  There was no clinical correlate with the 3 seizures.   In addition for the first 14 hours the patient had intermittent irregular body shaking for seconds with no EEG correlate.
+
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli.  HR was around 72
+
+Summary of Findings:
+Seizure, few, right occipital, electrographic Diffuse slowing, polymorphic, continuous
+
+Interpretation:
+This is an ABNORMAL EEG because of 3 right occipital seizures and diffuse slowing. The right occipital electrographic seizures suggest that there is a focal epileptogenic focus in that region. The diffuse slowing is an etiologically nonspecific indicators of moderate diffuse cerebral dysfunction, which improved by the end of the record. There was also intermittent irregular body shaking seen that had no EEG correlate and its significance is unclear.
+

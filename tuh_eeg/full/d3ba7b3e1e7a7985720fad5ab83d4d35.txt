@@ -1,0 +1,30 @@
+History:	30 YEAR OLD MALE LEFT-HANDED WITH SEIZURES. FIRST SEIZURE AT 26YRS
+OLD  EYES ROLLING SHAKING TONGUE BITING INCONTINENCE LOC AURA
+SOMETIMES DIZZINESS POST-ICTAL EXCUSED
+
+
+PMHX PT IS HEALTHY. NO FAMILY HISTORY OF SEIZURES.57CM HEAD
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Limited waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 84
+Summary of Findings:
+Focal slowing, polymorphic, few, mild, left temporal, mid
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.
+
+

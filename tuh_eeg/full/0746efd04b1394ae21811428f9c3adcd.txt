@@ -1,0 +1,13 @@
+EEG LENGTH:  24 minutes.
+CONDITION OF THE RECORDING:  The recording was performed according to standard 10-20 system with additional T1-T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+HISTORY:  The patient is a 53-year-old man with significant brain damage with subsequent expressive and receptive aphasia, spinal cord injury, all due to motor vehicle accident in 1990.  The patient has episodes of intermittent episodes of unresponsiveness.
+MEDICATIONS:  Current medications include Tegretol.
+DESCRIPTION OF THE RECORDING:  During maximal wakefulness, the posterior dominant rhythm which is 8 Hz theta activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient that is unstable.  Additional polymorphic diffuse theta and delta activity as well as occasional triphasic waveforms are observed.  During sleep, symmetrical vertex waves with sleep spindles are noted.  Hyperventilation and photic stimulation are not performed.  An irregular heart rate is noted on a single EKG lead.
+IMPRESSION:
+Mild to moderate diffuse slowing.
+Occasional triphasic wave forms.
+No electrographic seizures.
+IMPRESSION:  This is an abnormal awake and asleep 24 minutes EEG due to mild to moderate diffuse slowing and triphasic waveforms.  These findings indicate etiologically nonspecific mild to moderate diffuse cerebral dysfunction, possibly toxic metabolic in etiology.  Triphasic wave forms are seen in various forms of encephalopathy.  No electrographic seizures were captured.
+
+
+

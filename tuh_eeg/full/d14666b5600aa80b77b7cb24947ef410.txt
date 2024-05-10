@@ -1,0 +1,26 @@
+History:	71 YO FEMALE WITH COPD AND PREVIOUS SZ HX FOLLOW UP TO WEAN OFF
+KEPPRA.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Occasional polymorphic delta activity is present in the left temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Diffuse EMG artifact is noted during
+wakefulness.  HR is 70 bpm.
+Summary of Findings:
+Artifact, EMG
+Focal slowing, polymorphic, occasional, left temporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of Occasional focal slowing in the
+left temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.  EEG is limited because of abundant EMG artifact during wakefulness.  If clinically
+indicated, suggest repeat EEG with sedation.
+
+

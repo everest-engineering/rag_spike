@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 74-year-old woman, status post aortic dissection surgery with circulatory and arrest and cooing on the 24th, the patient had postoperative encephalopathy with seizures characterized by twitching.
+MEDICATIONS:  Epinephrine, insulin, Keppra, norepinephrine, Lasix, and others, phenytoin.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically extremely challenging bedside portable EEG with a great deal of muscle and motion artifact.  Two technologists are present at the bedside to work with some of the muscle artifact.  Although it is difficult to see so on the video, the patient has twitching, which the technologists, at the bedside with visual analysis can correlate with the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and includes a pattern of diffuse background slowing with a mixture of theta and delta.  Superimposed upon this is a nearly continuous epileptiform discharge, typically maximum in the right occipital region or right occipital parietal region, but with some variability, sometimes with maximum at O1.  The epileptiform activity waxes and wanes, at brief times abating slightly and then with some faster frequency activity and then returning.  The patient is noted to have twitching of the fingers and toes, left greater than right.
+Tactile stimulation of the patient briefly produces an increase in theta and very briefly seems to stop the epileptiform activity, although the technologist notes that the right shoulder twitches and then the epileptiform activity resumes.
+Heart rate 120 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Pattern compatible with a late electrographic status epilepticus type pattern with repetitive, somewhat poorly defined seizures from the right occipital parietal region.
+Markedly slow background.
+CLINICAL CORRELATION:  This ictal pattern does not have the characteristic paroxysmal buildup aside from the point where it stops with tactile stimulation, but it is compatible with an ongoing late ictal pattern.  EEG monitoring will follow as medications are adjusted to halt this process.
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+﻿History:		24 YR MALE WITH PRESENTS FOR FOLLOW UP EEG, LAST SZ X 1WEEK AGO WITH LOC AND POSTICTAL CONFUSION.
+Medications:	DEPAKOTE 750 MG, KEPPRA 15MG,
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1fr2 electrodes and EKG electrodes,obtunded
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 15 hours from 1211612015 to 12117/2015.  Nursing­
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the attending neurologist for detection of seizures and changes in EEG patterns.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta activity with absence of the expected anterior to posterior gradient of frequencies. There is a frontal predominant but mainly diffuse intermixed beta discharge seen during the entire study. During the last hours of the study the patient is stimulated. The EEG appears reactive with a transient change in the background to a diffuse theta. No normal sleep architecture was present.
+
+No focal slowing is present. No epileptiform discharges are present. The patient had multiple events of sudden arm stiffening and arm trembling with eyes closed for 1-5 seconds with no EEG correlate. These are consistent with psychogenic non-epileptic seizures (PNES).
+
+Hyperventilation and photic stimulation were not performed. HR was 48
+
+Summary of Findings:
+Event intermittent pseudoseizures Diffuse slowing, polymorphic, continuous Excessive fast
+
+Interpretation:
+This is an ABNORMAL EEG because of multiple episodes of arm stiffening and shaking with no EEG correlate consistent with PNES. In addition there is diffuse background slowing. This finding is an etiologically nonspecific indicator of moderate diffuse cerebral dysfunction. The diffuse beta discharge may be indicative of a medication effect. No clinical or electrographic seizures are present.
+

@@ -1,0 +1,26 @@
+History:	66 year old woman who presents with episodes concerning for seizures.
+Medications:	Ativan x1 dose
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, obtunded
+Description:
+There is no PDR or AP gradient.  The background consists of slow attenuated delta activity and
+continues triphasics waveforms.  With stimulation, the background briefly changes and fast delta
+activity appears.  No normal sleep architecture is present.  Patient is not allowed to rest during the
+study due to examinations by various providers.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe
+Triphasic waves, continuous
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL portable 24 minute EEG due to severe diffuse slowing and continuous
+triphasic waveforms. These findings are indicative of a severe diffuse encephalopathy, which is
+etiologically nonspecific, but suggestive of a metabolic origin.  Triphasic waves are a nonspecific
+EEG finding that can be seen in encephalopathy (hepatic most frequently), uremia, anoxia and
+other etiologies.  There is clear background reactivity.  No electrographic seizures are present.
+
+
+
+

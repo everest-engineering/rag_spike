@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 64-year-old woman status post cardiac arrest at home presented in cardiac arrest this morning at 1:40 a.m. down for 10 minutes, now intubated and poorly responsive.  History of hypertension and COPD.
+MEDICATIONS:  Insulin, Protonix , metoprolol, Ativan 2 mg.
+INTRODUCTION:  A Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and not responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is essentially obscured by muscle artifact.  Suctioning of the patient produces additional artifact.  Tactile stimulation and auditory stimulation did not significantly activate the record.
+Heart rate:  126 BPM.
+IMPRESSION:  This is a technically, very challenging EEG but is essentially obscured by muscle artifact.
+CLINICAL CORRELATION:  No clinical seizures or myoclonic jerks were identified.  To more completely evaluate this patient's background, a repeat study is suggested.  If clinical appropriate, the use of a neuromuscular blocking agent would be helpful in eliminating the muscle artifact.
+
+
+

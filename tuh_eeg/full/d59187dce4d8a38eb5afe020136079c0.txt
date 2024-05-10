@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 67-year-old woman with GI bleed, the patient was intubated for respiratory distress on the 19th and is persistently obtunded after sedation was stopped.
+MEDICATIONS:  Insulin, vancomycin, imipenem.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Patient was intubated and relatively somnolent, but was stimulated during the EEG.  This is a technically satisfactory greater than 20 minute EEG.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, with eye opening and stimulation, the overall pattern is a theta pattern with a suggestion of an 6-7 Hz posterior dominant rhythm.  When unstimulated, eye movements and muscle decrease and there is a monomorphic theta pattern.  There are rare bursts of shifting slowing.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+generalized background slowing.
+CLINICAL CORRELATION:  There are no focal or epileptiform features identified.  The findings described above are nonspecific but are most compatible with a toxic or metabolic encephalopathy or other diffuse disturbance of cerebral function.
+
+
+

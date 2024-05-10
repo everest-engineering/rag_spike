@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 58-year-old woman with septic shock, multisystem failure.
+MEDICATIONS:  Insulin, vasopressin, dopamine, heparin.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient was intubated and was in contact isolation.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly low voltage, slow and featureless.  It includes a pattern with slow, low voltage delta and intermittent attenuation.  Stimulation of the patient does not significantly activate the record, although there is some variability with some sections with a bit more continuous delta and small amounts of theta.
+Heart rate 120 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Marked background slowing.
+Intermittent attenuations of suppressions.
+Absence of reactivity.
+CLINICAL CORRELATION:  To place this EEG in the appropriate clinical context, the severity of the patient's multisystem injuries should be known, but this EEG supports a diffuse disturbance of cerebral function which may be toxic, metabolic and/or related to
+this patient's multisystem failure.  This EEG carries a worrisome prognosis, but again, must be placed in the appropriate clinical context.
+
+
+

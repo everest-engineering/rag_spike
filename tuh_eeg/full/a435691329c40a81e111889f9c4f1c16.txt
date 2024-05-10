@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  63 year old gentleman with renal failure on hemodialysis.  Past history of alcohol abuse, gunshot wound to the right eye, now admitted with right intraventricular hemorrhage requiring ventriculostomy.
+MEDICATIONS:  Keppra, Labetalol, Ativan
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow, low voltage record with a mixture of slower delta and smaller amounts of theta.  Scant alpha frequency activity was noted. There is an intermittent subtle asymmetry with a bit more faster frequency activity noted on the left.  This is less apparent in sections of the record with EKG or muscle artifact.  Stimulation of the patient occurs with the patient coughing or with auditory stimulation and produces a bit of the asymmetry with a bit more faster frequency activity on the left.  This is a soft finding.
+HR:    126 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Subtle focal features noted in this record were challenged by the amount of background artifact. This EEG supports a diffuse disturbance of cerebral function.
+
+
+

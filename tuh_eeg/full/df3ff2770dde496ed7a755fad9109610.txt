@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 48-year-old male, on dialysis with hepatitis C, admitted with a left intracerebral hemorrhage.  The patient presented with bizarre behavior.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging bedside record in a relatively uncooperative patient, who was moving about in the bed.
+Medications: KEPPRA, MORPHINE, LABETALOL, HYDRALAZINE
+DESCRIPTION OF THE RECORD:  Much of the EEG includes an awake pattern with eye opening and eye closure.  There is a glimpse of a posterior dominant rhythm present bilaterally of approximately 9 Hz.  Shifting asymmetries are noted.  Despite the patient's movements, there is a bit more arrhythmic delta activity in the left hemisphere as well as an amplitude increased on the left.  Unfortunately, electrode artifacts are also more prominent on the left.  Brief drowsiness is characterized by an increase in beta and there appears to be spindles followed by an immediate arousal.
+Rare, discrete left sharp waves with phase reversal in the mid to anterior temporal region were noted in the drowsy section of the record.
+Heart rate:  96 BPM.
+IMPRESSION:  Technically challenging, but abnormal EEG due to;
+Focal slowing identified despite the technical limitations as described above in the left hemisphere.
+Shifting, slowing, and disorganization.
+Rare, discrete left temporal sharp waves.
+CLINICAL CORRELATION:  The focal slowing is ipsilateral to the intracerebral hemorrhage.  The generalized background slowing may have been partly due to the toxic or metabolic encephalopathy or other diffuse CNS process.
+
+
+
+

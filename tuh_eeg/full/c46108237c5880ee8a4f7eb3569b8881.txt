@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 71-year-old woman, found on the floor with change in mental status.  Past history of epilepsy, seizure-free for the past year, not on seizure medicines, admitted for COPD exacerbation.
+MEDICATIONS:  Ambien, Robitussin, Coreg, and insulin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  Impedances were generally under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by an increase in theta.
+Photic stimulation elicited a subtle underlying driving response.
+There is a fair amount of muscle and movement artifact noted.
+Heart rate 75 bpm.
+IMPRESSION:  EEG within normal limits for an adult of this age.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep is suggested.
+
+
+
+
+

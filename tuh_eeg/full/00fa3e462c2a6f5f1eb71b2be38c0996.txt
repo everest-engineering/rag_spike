@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 71-year-old female with focal features on her neurologic examination and intermittent left-sided numbness with some subcortical white matter disease on MRI.
+MEDICATIONS: Plavix, Lovastatin, others.
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient has two episodes of left arm pain, but no left arm numbness.
+EVENT #1: Time 16:17:45.  The patient is sitting in her room.  She is looking to the left.  She reports to the tech that the symptoms included pain but not numbness.  The EEG at this time demonstrates a normal awake pattern.
+EVENT #2: Time 16:22:44.  The nurse checks in on the patient.  The patient again reports left arm pain.  She is looking to the left.  The EEG demonstrates a normal awake pattern.
+RANDOM WAKEFULNESS AND SLEEP:  In wakefulness, the background EEG is well organized with at times a 9.5 Hz, 35 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  In drowsiness, there are occasional bursts of arrhythmic delta seen bilaterally in the temporal regions.  Stage II sleep is well organized with vertex waves, K complexes, spindles, and POSTS.
+HR:  72 BPM.
+IMPRESSION: Abnormal continuous video EEG monitoring due to:
+1.	Occasional arrhythmic delta and theta as seen bilaterally in the temporal regions in the transition to sleep.
+CLINICAL CORRELATION: In a subject of this age, these features are non-specific, but can be seen in underlying cerebrovascular disease. The patient’s left arm symptoms were not associated with an EEG change, although she didn’t have the numbness, just episodes of pain.
+
+
+
+

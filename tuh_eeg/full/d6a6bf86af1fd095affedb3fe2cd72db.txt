@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  65 year old right handed male with gait difficulties, slurred speech, and weakness.
+MEDICATIONS:  Metformin, Glipizide.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm.  The patient transitions into stage I sleep with stage II sleep demonstrating K complexes, vertex waves, spindles, and posts.
+HR:    90 bpm and irregular
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

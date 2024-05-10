@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 29-year-old man with history of cerebral palsy and epilepsy.  He has history of epilepsy since 1998, status post C-spine surgery.  Patient usually has seizures/status epilepticus once a year.  He had 3 episodes of status epilepticus this year.  He has facial twitching.  Patient is cortically blind.
+MEDICATIONS:  Tegretol, albuterol, Ativan.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  This was a technically limited study due to diffuse muscle and movement artifact through most of the recording.  In awake state, there was diffusely slow background consisting of 2-3 Hz delta activity superimposed by beta activity.  This activity is intermixed with 4-5 Hz  theta activity at times.  There was no anteroposterior gradient or PDR recognized during wakefulness.  There are frequent spikes in Cz and Fz with no evolution or electrographic seizures.  Heart rate is 100 beats per minute.
+IMPRESSION:  This is a technically limited study that is abnormal due to:
+Frequent rhythmic spikes at Fz and Cz without evolution or electrographic seizures.
+Back ground activity in Delta and Theta range superimposed by Beta activity
+No PDR was identified
+CLINICAL CORRELATION:
+Slowed background activity could be due to metabolic disorganized and toxic, infections, degenerative, developmental abnormality. Epileptiform activity in frontal central region is indicative of cortical irritability in this area and places the patient at a higher risk for seizures. Clinical Correlation is recommended.
+
+
+

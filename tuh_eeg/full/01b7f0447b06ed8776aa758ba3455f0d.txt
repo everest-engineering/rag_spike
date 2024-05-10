@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 72-year-old gentleman with GBM, depressed mental status, evaluate for subclinical status epilepticus.
+MEDICATIONS:  Solu-Medrol, phenytoin, Ativan, others.
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient was initially somnolent but somewhat more responsive later on.
+DESCRIPTION OF THE RECORD:  The initial hours of the record demonstrate a very low voltage, markedly slow pattern with marked suppression from the left hemisphere.  As the recording continues, the patient is intermittently more arousable with spontaneous movement and muscle artifact.  Following this, there is a somewhat higher amplitude pattern in the right hemisphere with rhythmic right centrotemporal delta, breach rhythm and some sharply contoured slowing in the right centrotemporal region.
+Seizures:  None.
+Epileptiform discharges:  Right centrotemporal sharply contoured slowing.
+Heart rate: 78.
+IMPRESSION:  This 24 hours of continuous video EEG monitoring was remarkable for:
+A markedly slow pattern, with some improvement in the right hemisphere.
+Left hemisphere that is slower than anticipated.
+Sharply contoured slowing in the context of a breach rhythm on the right.
+CLINICAL CORRELATION: No seizures were seen.  This EEG is slow and supports a bihemispheric disturbance of cerebral function.  The breach rhythm and rhythmic right central temporal slowing are in the region of this patient's previous craniotomy.
+
+
+
+
+

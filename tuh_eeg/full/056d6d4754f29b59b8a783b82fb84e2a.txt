@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is an 85-year-old male with recurrent syncope, pacemaker, previous stroke, primarily with left frontal encephalomalacia, mild left-sided weakness.
+MEDICATIONS:  Unknown, no sedative, hypnotics, or antiseizure medications.
+INTRODUCTION:  A 20-minute digital EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  In wakefulness, the record from the right hemisphere is reasonably well organized with an 8.5 Hz posterior dominant rhythm and a small amount of low voltage, frontal central beta.  Intermittently, the alpha rhythm is disrupted on the left compared to the right and there is intermittent focal slowing noted from the left.  Brief sleep is characterized by rhythmic background theta, attenuation of the alpha rhythm, and then spontaneous arousals.
+In the initial waking record, there is a great deal of muscle artifact.
+Heart rate:  Irregular, 90 BPM.
+IMPRESSION:  Abnormal EEG for an adult of this age due:
+Intermittent focal slowing on the left.
+Intermittent disruption of the alpha rhythm on the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  These findings may be correlated with this patient's clinical history.
+
+
+
+

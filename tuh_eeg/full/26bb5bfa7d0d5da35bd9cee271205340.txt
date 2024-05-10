@@ -1,0 +1,32 @@
+History:	23 yo woman with recurrent episodes of staring and losing time for seconds.
+Medications:	Topamax
+Sedation:
+EEG Type:	Ambulatory (outpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Ambulatory EEG
+Continuous ambulatory EEG recording was performed for 2 days. Patient diaries were reviewed,
+containing descriptions of any events and patient activities during the recording period.  All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	1
+Description of pushbutton events
+08:30 PM As per her diary, she was in a car with her friend. Suddenly midsentence she forgot where
+she was doing and what she was talking about.
+The EEG during that time was normal awake with no changes.
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  Deeper stages of sleep were recorded.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 48 hour ambulatory EEG, awake, drowsy, and asleep.
+
+
+
+

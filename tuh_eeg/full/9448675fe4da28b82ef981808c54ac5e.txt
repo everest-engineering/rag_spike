@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 43 year old male presented with Fever, HIV disease. gaze deviation, multiple medical problems. Evaluate for subclinical status epilepticus.
+MEDICATIONS: Ciprofloxacin, Lopressor, Protonix, Tylenol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively somnolent but does arouse. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The overall background is low to medium amplitude with a diffuse theta pattern. With maximum stimulation the overall background is more of a theta pattern but there are minor shifting asymmetries.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. A pattern of primarily rhythmic background slowing.
+2. Minor shifting asymmetries.
+CLINICAL CORRELATION: No focal neuroepileptiform features are identified. These findings are nonspecific and can be seen in a toxic or metabolic encephalopathy as well as diffuse disturbances of cerebral function due to other causes.
+
+
+

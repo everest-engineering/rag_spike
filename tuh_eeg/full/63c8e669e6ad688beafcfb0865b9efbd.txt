@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 59 year old right handed gentleman with epilepsy since childhood, seizure free for the last 30 years.
+MEDICATIONS: Primidone
+INTRODUCTION: Digital video EEG was performed In lab using standard 10-20 of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and a sleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with symmetric reactive 9.5 Hz posterior dominant rhythm. Hyperventilation produces bursts of paroxysmal frontally predominant delta activity. Some of this is notched with the suggestion of a frontally predominant 3 Hz spike and wave morphology. Drowsiness is characterized by an increase in background beta. Photic stimulation elicits vigorous bilateral driving. Shortly after photic stimulation, a well-defined frontally predominant spike and wave complex is noted. This complex is at the midline and left frontal. Additional complexes with a polyspike component are noted as the patient starts to transition into sleep. There is a handful of discrete lower amplitude spike and wave complexes that are a bit more bilateral. During hyperventilation, there is also the suggestion of some left frontocentral superimposed rhythmic slowing.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. 3 to 4 Hz frontally predominant spike and wave activity with some activity that seems to be maximum at the midline or left frontocentral.
+CLINICAL CORRELATION: This EEG can be seen in the context of a primary generalized epilepsy. It may also represent a frontal lobe focus. In a subject of this age, clinical history, examination, imaging, or comparison with the EEGs from 30 years ago could help resolve this
+discrepancy.
+
+
+
+

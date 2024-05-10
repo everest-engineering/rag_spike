@@ -1,0 +1,28 @@
+:
+History:	58 YO MAN HERE FOR FOLLOW UP 1 HR EEG WITH CC OF SZ/ LOC ONCE
+EVERY 4-8 WKS.  LAST SZ LAST MONTH PT IS VAGUE ON ANY OTHER
+Medications:	LISINOPRIL, PANTOPRAZOLE, PRAVASTATIN
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left anterior temporal region  region.  This finding is indicative of focal cerebral dysfunction, which
+is etiologically non-specific.
+
+
+
+

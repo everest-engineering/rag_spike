@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 50-year-old woman with 30-year history of epilepsy.  The patient has a strange feeling before seizures, which she is not otherwise able to describe.
+MEDICATIONS:  Dilantin and albuterol.
+INTRODUCTION:  This is a 24-minute, technically satisfactory routine EEG with impedances below 5 kilohms with the exception of the T1 and T2 electrodes.  The EEG captures wakefulness and sleep.  The patient has some difficulty sitting still and use of fair amount of muscle noted in the background.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm, which is symmetric and reactive to eye opening with an anterior to posterior gradient.  The patient's transitions rapidly in and out of stage 1 and stage 2 sleep with vertex waves, spindles, and then brief arousals.
+Hyperventilation was deferred.  Photic stimulation was performed while the patient was in stage 2 sleep.  It did not significantly activate the record.
+Heart rate:  78 bpm.
+IMPRESSION:  Normal EEG in wakefulness through brief stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If additional information is needed, a more prolonged study may be of value.
+__________________________
+
+
+
+
+

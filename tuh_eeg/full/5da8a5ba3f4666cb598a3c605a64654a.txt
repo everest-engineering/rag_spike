@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 39 year old right handed female with complex partial epilepsy. The patient reports at least 2 seizures in the past year when she ran out of medication as well as some auras. Seizures began at age 18 and have an aura of staring, confusion and may be followed by tonic-clonic activity with incontinence.
+MEDICATIONS: Topamax
+Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates prominent, background beta. There is also excess background theta and a 9 Hz posterior dominant rhythm. Hyperventilation and drowsiness both seem to accentuate some subtle focal features in the right temporal region. There are occasional right temporal sharp waves, some of which occur with paroxysmal bursts and some of which have clear after-going slow waves and others which are a bit more discrete. Features of drowsiness include an increase in background beta. Photic stimulation does elicit a driving response at intermediate frequencies.
+HR: 78bpm
+IMPRESSION: Abnormal EEG due to:
+1. Right temporal sharp waves and bursts of focal slowing.
+2. Excess beta.
+3. Excess theta.
+CLINICAL CORRELATION: These findings contrast to a previous EEG in 2008. The epileptiform activity is exclusively on the right today. There is also excess beta and theta.
+
+
+

@@ -1,0 +1,18 @@
+CLINICAL HISTORY: This is a 19-year-old male status-post right craniotomy secondary to a subdural hematoma in December 2005.  Admitted for cranioplasty   patient developed status-post operation.
+MEDICATIONS: Amoxicillin, Phenobarbital, Lopressor.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is a 30-minute study.
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is comatose. A right breach rhythm was identified in this record.  The background demonstrates theta and delta activity with different ranges of variability.  Some portions of the record were faster than others.  There is a high amplitude periodic anteriotemporal spike and slow wave complex seen in the right hemisphere.  Throughout the record, three seizure episodes were captured.
+SEIZURE TIME 14:23:49: There is increasing fast activity in the left temporal region.  During the episode, right anteriotemporal spike and slow wave activity continues. The seizure ends at 14:25:40, with a total duration of approximately two minutes.
+SEIZURE TIME 14:38:08: Left-sided spike waves have increased, which is similar to a previous episode in appearance. Right, periodic temporal spike and slow waves are still present during the event.  This event lasts about 40 seconds.
+SEIZURE TIME 14:47:47: There is similar increasing left hemisphere spikes. Right arm twitching by the patient is observed by the medical students and techs.  Right hemispheric spikes at O2 and T6 regions.  Stimulation of the patient produces increased theta activity.
+HR:  80 BPM.
+IMPRESSION: Abnormal EEG due to:
+Three seizures occurring out of the left hemisphere.
+Right anteriotemporal spike and slow wave activity.
+Poorly suppressed background.
+Right periodic spike waves.
+CLINICAL CORRELATION: This EEG is consistent with status epilepticus.
+
+
+
+

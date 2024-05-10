@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 19-year-old with 2-year history of epilepsy.  History of convulsions.  Last seizure was 2 weeks ago when he had an aura of a funny smell while riding his bike that was followed by 30 minutes of confusion.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the overall EEG is low voltage.  There is an 11 Hz alpha rhythm present bilaterally, a bit more apparent on the right compared to the left in this low voltage record.  Features of drowsiness include generous beta followed by rhythmic theta.
+Hyperventilation was performed early in the record and did not significantly activate the record.  Characteristic features of sleep include POSTS and an increase in beta.
+Photic stimulation was performed while the patient was asleep.  Features of stage 2 sleep were noted in photic stimulation with spindles, POSTS, and vertex waves.
+Heart rate 60 BPM.
+IMPRESSION:  This is a technically challenging EEG and is a low voltage EEG but is without epileptiform pathology.
+CLINICAL CORRELATION:  No definitive focal features were noted.  No sharp waves were seen.  In this low voltage EEG, consideration for a follow up study is appropriate.  POSTS are a bit more prominent on the right than the left, but this is not a pathological finding.
+
+
+

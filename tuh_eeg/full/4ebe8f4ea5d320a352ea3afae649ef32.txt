@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  21 year old right handed woman with epilepsy, multiple seizures per day, tonic clonic, with unconsciousness or some form of paralysis.
+MEDICATIONS:  Lamictal, Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is well organized with a lower voltage, 8.5 Hz alpha rhythm, and generous frontal central beta.
+Hyperventilation is performed early in the record and produces a small amount of slowing. Features of sleep include an increase in beta and vertex waves, as well as POSTS. Photic stimulation is performed while the patient is drifting in and out of sleep and does not activate the record.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This EEG contrasts to a previous study which demonstrated rare spike and slow wave activity.  If epilepsy is an important
+consideration, please consider inpatient EEG monitoring to capture her frequent seizures.
+
+
+

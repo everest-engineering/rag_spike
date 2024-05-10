@@ -1,0 +1,38 @@
+History:	56 year old female with improving mental status.
+Medications:
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, photic
+Ambulatory EEG
+Continuous EEG monitoring was performed for 24 hours.   Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, that at best reaches 8.5Hz alpha rhythm, which
+attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present
+throughout the recording and increases during drowsiness.  During drowsiness, the background slows
+to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  There were no clinical episodes
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Diffuse slowing, polymorphic, mild, bilateral diffuse
+Interpretation:
+This is an ABNORMAL 24 hour video EEG awake and drowsy because of intermittent focal slowing
+in the left midtemporal region and mild diffuse background slowing. These findings are indicative
+of focal and diffuse cerebral dysfunction respectively and are etiologically non-specific.  No clinical
+or electrographic seizures are present.  These findings were conveyed to the primary team.
+
+
+
+
+

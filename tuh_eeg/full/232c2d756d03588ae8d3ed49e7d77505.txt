@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 49-year-old woman with recurrent meningioma, seizure-free since December 2013.
+MEDICATIONS:  Trileptal, topiramate, Ativan, Ditropan.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  The patient is noted to have a right frontal craniotomy defect.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes symmetric reactive 10 Hz alpha rhythm of 30 microvolts.  Frequent eye blink artifact is noted.  There is also some craniotomy artifact noted in the right frontal region which appears a bit more prominently in hyperventilation.  Hyperventilation does not otherwise activate the record.  Brief drowsiness is characterized by an increase in beta.  Deeper stages of sleep were not sustained.
+Photic stimulation elicits a vigorous driving response which is initially a little bit more vigorous on the left at lower frequencies, symmetric and at higher frequencies.
+Heart rate 78 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  The artifact from craniotomy defect is not considered a part of cerebral pathology.  No epileptiform features were noted.  In comparison to a previous study in 2013, right frontal focal slowing was not noted.  The 2007 EEGs were not available for comparison.
+
+
+

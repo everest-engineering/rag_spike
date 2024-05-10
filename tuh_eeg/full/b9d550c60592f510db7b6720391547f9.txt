@@ -1,0 +1,30 @@
+History:	64 YR OLD MALE PRESENTS WITH H/O SUDDEN ONSET OF RIGHT WEAKNESS
+NOTED WITH LEFT HAND TREMOR EEG TO R/O SZ.  RECENT DISCHARGE.
+PMHX SIG FOR NEW RT CEREBELLAR INFARCT, OLD LT INFARCT
+FOLLOW UP EEG 10/6 IP
+Medications:	NO AED, HEPARIN, ATORVASTATIN
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+The predominant background is characterized by a 8.5-9 Hz, 25-40uV symmetric alpha rhythm with
+good attenuation on eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording and increases during drowsiness.  During drowsiness, the alpha rhythm attenuates, and 5-
+7Hz slow waves appear diffusely, followed by symmetric vertex waves.  During limited stage 2 sleep,
+the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+Intermittent shifting polymorphic delta activity is present in the bilateral temporal regions during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 66.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral temporal
+Diffuse slowing, polymorphic, continuous diffuse, Excess theta in wakefulness
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+bilateral temporal regions.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific. In addition there’s is diffuse background slowing.  This finding is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy. No
+clinical or electrographic seizures are present.  If clinically indicated, suggest repeat EEG.
+

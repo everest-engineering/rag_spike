@@ -1,0 +1,19 @@
+CLINICAL HISTORY:
+The patient is a 37-year-old male with generalized tonic clonic seizures associated with loss of consciousness followed by
+confusion. He was found down on the stairs. He has a past history of right frontal trauma.
+MEDICATIONS:
+Risperidone and Dilaudid.
+DESCRIPTION OF RECORD:
+This is an awake and drowsy record. In wakefulness, there is 9-10Hz posterior dominant rhythm bilaterally. The patient is
+very drowsy and goes in and out of sleep during the recording. Drowsiness is characterized by generalized slowing. Stage
+1 sleep is characterized by the presence of vertex waves. There were no epileptiform features noted. Hyperventilation did
+not activate the record and there is no driving seen on photic stimulation.
+Heart rate: 72 bpm.
+IMPRESSION:
+Normal EEG in wakefulness to stage 2 sleep. No epileptiform features.
+CLINICAL CORRELATION:
+A normal EEG does not exclude a diagnosis of epilepsy. If epilepsy is a clinical consideration, please consider
+sleep-deprived study or a longer EEG recording to capture epileptiform activity.
+
+
+

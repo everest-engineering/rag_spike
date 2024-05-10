@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 45 year old male with previous C-spine injury as a young adult, now with recurrent syncope and dizziness. Wheelchair bound.
+MEDICATIONS: Meclizine, Ciprofloxacin,
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 40 microvolt, 9.7 Hz alpha rhythm. In relaxed wakefulness, there are occasional bursts of isolated mixed theta delta from either temporal region. These are a bit more prominent from the left than the right. Hyperventilation seems to elicit theta a bit more so on the left than the right. Photic stimulation elicits subtle bilateral driving.
+HR: 96 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Occasional, left greater than right, temporal right.
+
+CLINICAL CORRELATION: No epileptiform features were identified. If epilepsy is an important consideration, a follow-up study capturing sleep is suggested.
+
+
+

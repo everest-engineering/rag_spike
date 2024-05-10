@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 52-year-old woman, status post aortic dissection repair on Sunday, 03/08/2015, for emergent dissection.  Subsequently found to have a massive right hemiparesis with smaller strokes on the left.  Intubated, but responsive.
+MEDICATIONS:  Morphine, nicardipine, Lasix, fentanyl, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the ICU using standard 10-20 system with one channel EKG.  The patient is intubated, but responsive.
+DESCRIPTION OF THE RECORD:  Background EEG is markedly abnormal, but demonstrates a continuous pattern.  The overall pattern is relatively suppressed from the right hemisphere with smaller amounts of alpha and theta frequency activity.  From the left hemisphere, arrhythmic delta activity was noted with occasional sharp waves noted in the left hemisphere including left mid temporal or central regions.  These are medium amplitude sharp waves.  There is also a small amount of wicket noted from the left.  This record does capture some drowsiness with an increase in beta frequency activity.  When the patient is more active, there is a bit more muscle noted.
+Heart rate:  98 BPM to 112 BPM, faster heart rate when the patient is a little bit more active.
+IMPRESSION:  Abnormal EEG due:
+Generalized background slowing.
+An asymmetry with significant disruption of faster frequency activity on the right.
+Intermittent attenuations noted, which are asymmetric, more remarkable from the right.
+Occasional sharp waves noted from the left.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function affecting both gray and white matter, but more significantly involving the right hemisphere with more significant disruption of activity from the right.  The sharp waves are relatively blunted in nature, but in this individual with bihemispheric stroke, raise some potential for seizures.
+
+
+
+

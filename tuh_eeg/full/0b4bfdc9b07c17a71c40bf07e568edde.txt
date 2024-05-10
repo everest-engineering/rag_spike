@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  66 year old female with acute renal failure, tremor, encephalopathy. Status post lung transplant. History of depression.
+MEDICATIONS:  Lipitor, Cefepime, Prograf, Flagyl,Hydrocortisone, ASA, Plavix
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal. It demonstrates a pattern of rhythmic mixed theta delta. There are frontally predominant triphasic waves. In addition, there appears to be a sharp wave focus in the left frontal region. This has a broad confirmation, begins in the frontal region and has clear evolution more posteriorly in the left hemisphere.  The discharge seems to have an unusual morphology. There are also triphasic waves noted which again have a more of an anterior to posterior lag, as is characteristic of triphasic waves. Stimulation of the patient products an increase in faster frequency activity, but does not really alter the triphasic waves or the sharp waves.
+HR:    108 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Triphasic waves.
+A sharply contoured transient or periodic complex noted in the left hemisphere typically left frontal, but with some variability.
+CLINICAL CORRELATION:  The background slowing and triphasic waves are typical of a metabolic encephalopathy, but the focal, periodic complexes suggest a focal potential for seizures.
+
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 19-year-old female with episodes of seizure-like activities.  She states that she has been blacking out for 3 years.  Last week found unresponsive and ended up in the emergency room with 2 episodes of generalized tonic-clonic seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This EEG captured patient in wakefulness through stage II sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 9-10 Hz in frequency and 20-50 microvolts in amplitude in occipital region distributed symmetrically.  There is low amplitude frontocentral beta activity distributed symmetrically.  Stage I sleep is characterized by the absence of a blink artifact and muscle artifact, and slowing of the posterior dominant rhythm as well as the presence of posts and vertex sharp transients.  Stage II sleep is characterized by K complexes and sleep spindles.  There are no epileptiform activities or seizures noted during this recording.  Heart rate was 70 beats per minute and regular.
+IMPRESSION:  This is a normal EEG capturing patient's during wakefulness through a stage II sleep.
+CLINICAL CORRELATION:  Normal EEG does not exclude the possibility of epilepsy or intermittent seizures.  If clinically indicated, a repeat EEG or a long-term monitoring may be helpful.  Clinical correlation is recommended.
+
+
+

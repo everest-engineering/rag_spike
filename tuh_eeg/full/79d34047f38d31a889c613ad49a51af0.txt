@@ -1,0 +1,40 @@
+History:	76 year old woman with left parietal ICH and persistent confusion.  A spot EEG
+revealed recurrent seizures.
+Medications:	Keppra, Dilantin, Ativan
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 3/10/2015 till 3/11/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient.  During maximal stimulation the background consists of a
+mixture of polymorphic low amplitude theta, delta and underriding beta activity.  As the recording
+progresses, periods of wakefulness/ arousals become less frequent.
+Left posterior quadrant seizures are captured.  They last ~5-15 seconds and occur several times per
+hour. Their frequency varies throughout the recording from occasional to intermittent.  There is no
+clinical correlate documented on the video.  Additionally,  there are frequent brief 1-5 second left
+posterior quadrant runs that resemble the activity that is seen in the above seizures but they do not
+have clear evolution (BIRDs - brief ictal or rhythmic discharges).
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Beta, excessive
+Seizure, left posterior quadrant
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG due to moderate diffuse slowing and left
+posterior quadrant seizures and brief runs of epileptiform discharges (BIRDs). Diffuse slowing is
+indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific, but in this
+patient at least partially related to the medication effect.  There is continuous epileptogenic focus
+emanating from the left posterior quadrant.  When compared to the prior recording epoch, this EEG
+demonstrates decrease in seizure frequency and duration.  These findings were conveyed to the
+primary team
+
+
+
+
+

@@ -1,0 +1,14 @@
+HISTORY:  57year old man with history of TIA and stroke with right sided weakness. Past medical history is significant for hypertension, diabetes,  and cardiac stents.   Indication is for rule out seizures.
+MEDICATIONS: Plavix,  ASA, Methimazole,  Coreg, Diovan, Allopurinol, Carvedilol, Lantus, Metformin, Novolog, Plavix, Zocor.
+MEDICATIONS: Digital video EEG was performed in lab using standard 10-20 system of electrode placement and 1 channel EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  This EEG shows asymmetry. There was a shifting slowing bilaterally with theta and delta waves on the left. There was low amplitude on the left and some muscle artifact on the right. There was a suggestion of higher amplitude on the right. There is also double phase reversals on the right. The background rhythm reaches about 7Hz.  Photic stimulation does not activate the record.
+HR:	84 bpm
+HR: Mildly abnormal EEG due to:
+1.	Occasional shifting slowing.
+2. 	Amplitude asymmetry.
+3.	Increased right hemisphere amplitude.
+4. 	Some head rocking signs suggestive of cranial deformity.
+CLINICAL CORRELATION:  There are no spikes or epileptiform activity. However, with increased right sided amplitude,  clinical correlation is suggested.
+
+
+

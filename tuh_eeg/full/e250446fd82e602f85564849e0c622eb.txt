@@ -1,0 +1,25 @@
+CLINICAL HISTORY:  This is a 49-year-old woman with developmental delay, autism and epilepsy.  Patient was seen in the Emergency Room in July after two 30-second seizures with generalized shaking and incontinence.
+
+MEDICATIONS:  Tegretol.
+
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This was a technically acceptable EEG, with appropriate impedances.
+
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm.  Excess background theta was noted.  Intermittent arrhythmic delta activity was noted, particularly in the left temporal region, but there is some shifting slowing, occasionally seen on the right.  Well-defined left temporal sharp waves as well as pairs of sharp waves were identified.  Some of these have more conventional classic sharp and slow waves, morphology, others appear as pairs  Finally, there are others that are medium amplitude, a bit more blunted and more subtle.  They are consistently most prominent in the T1 electrode.
+
+Photic stimulation did not produce a driving response, but it may have accentuated the temporal sharp waves.  Hyperventilation seems to accentuate the left temporal focal slowing.
+
+No significant sleep was obtained.
+
+Heart rate 66 bpm.
+
+IMPRESSION:  Abnormal EEG due to:
+1. Left temporal sharp waves and occasional spikes.
+2. Left temporal focal slowing.
+3. Occasional right focal slowing.
+4. Excess background theta.
+
+CLINICAL CORRELATION:  This EEG supports a localization related mechanism for epilepsy.
+
+
+
+

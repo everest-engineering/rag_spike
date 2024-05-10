@@ -1,0 +1,27 @@
+History:	64 year old man found pulseless, now undergoing hypothermia protocol.
+Medications:	Propofol, 1x dose of Ativan 2MG at 9AM on 07/25/14
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background is severe attenuated with occasional bursts of
+polymorphic theta and delta activity.  There is continuous EMG artifact in bifrontal< bitemporal
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.  An irregular heart rate is noted on a single
+Summary of Findings:
+Burst-suppression pattern, severe
+No reactivity
+Artifact, EMG, continuous
+Cardiac arrhythmia
+Interpretation:
+This a very abnormal 24-minute EEG due to severe burst-suppression pattern and lack of reactivity.
+These findings are indicative of marked diffuse cerebral dysfunction, which is etiologically
+nonspecific.  There is continuous EMG artifact in bifrontal< bitemporal leads that limits EEG
+interpretation.  An administration of a paralytic agent would improve this artifact and the quality
+and interpretability of the recording.  These findings were conveyed to the neurology consult team.
+Patient will be placed on a long term EEG monitoring.
+
+
+
+

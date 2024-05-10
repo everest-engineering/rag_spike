@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 54-year-old male with epilepsy, hepatic encephalopathy, now in
+coma.
+
+MEDICATIONS: Keppra, Rifaximin, Pentoxifylline, Octreotide, Midodrine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated. There is a fair amount of muscle artifact noted in the background.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly low voltage. There is muscle, underlying slow, rhythmic delta 1.5 Hz and both muscle artifact and beta. The overall frequency is beta. Stimulation of the patient does not activate the record.
+
+HR: 72 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a low voltage, beta pattern.
+
+CLINICAL CORRELATION: No epileptiform seizures were identified. This is a markedly abnormal pattern. Considerations for diffuse disturbance of cerebral function as well as exposure to a medication which would produce beta activity should be considered. In comparison to previous studies during this individuals hepatic encephalopathy, this pattern demonstrates worsening of the background slowing.
+
+
+
+

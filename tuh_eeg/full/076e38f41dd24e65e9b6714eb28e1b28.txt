@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 61 year old right handed woman with transient left-sided weakness with lip smacking.  The patient reports ongoing unsteadiness and lip smacking since November 11, 2011.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  The patient was experiencing involuntary mouth movements during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm at 70 microvolts which is symmetric and reactive to eye opening.  The patient is asked to count backward from 11.  The EEG demonstrates a normal awake pattern.  It is difficult to see if the involuntary oral movements responded to the maneuvers.  Hyperventilation did not activate the record.  Photic stimulation did not activate the record.
+HR:    90 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This patient's involuntary movements were not associated with an EEG signature.  Additional neurodiagnostic assessment may be appropriate.
+
+
+

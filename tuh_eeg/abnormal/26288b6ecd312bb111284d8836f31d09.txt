@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 31-year-old woman with epilepsy, seizure free for 15 years but with recurrent seizures 6 months ago.  The patient also had a recent seizure 6 days ago described as eyes rolling up with generalized shaking for 10 minutes and incontinence with tongue biting.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  This is an unusual background.  Some sections of the record in wakefulness are well organized.  There is a 10 Hertz alpha rhythm.  In wakefulness there is intermittent, rhythmic, 4-6 Hertz theta activity.  In addition, there is irregular, left temporal theta as well as some rhythmic left temporal theta with sharp wave or sharply contoured slowing typically maximum at T3, occasionally T1.  Focal features were also noted from the right with occasional bursts of slowing on the right.  There is EKG artifacts but the sharply contoured slowing is more prominent on the left.
+Photic stimulation elicited bilateral driving.  Heart 84 beats per minute.
+IMPRESSION:  This is an abnormal electroencephalogram due to:
+Left temporal focal slowing.
+Intermittent generalized slowing.
+Independent, rhythmic slowing from the right.
+CLINICAL CORRELATION:  This EEG demonstrates a bi-hemispheric disturbance.  The mechanism for this patient's epilepsy, however, may be in the left temporal region.
+
+
+

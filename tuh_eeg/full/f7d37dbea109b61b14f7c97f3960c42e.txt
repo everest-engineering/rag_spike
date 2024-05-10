@@ -1,0 +1,25 @@
+History:	62 year old woman undergoing left carotid endarterectomy.
+Medications:	MIDAZOLAM,FENTANYL 25 MG, PROPOFOL,ROCURONIUM,PROTAMINE
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+There is no PDR or AP gradient.  Patient is intubated when the recording opens.  The background
+throughout the recording consists of a mixture of frequencies and some periods of discontinuity.
+Internal carotid is clamped at ~1:09 PM.  There is no change in the background.  By 2:22:40 PM,
+both internal and external carotid arteries are unclamped.  There is a sudden change in the
+background at ~ 3:15 PM.  It is characterized by appearance of diffuse polymorphic delta activity.
+This change corresponds to change in anesthesia administered.  By  the end of the recording, there
+is increase in EMG artifact and patient appears awake with fragmented PDR present.
+Summary of Findings:
+Interpretation:
+This is an uneventful 4 hour continuous intraoperative EEG recording.  EEG was reviewed remotely
+live by the attending at and following the clamping of the left internal carotid artery (~ 15 min
+total); at the time of unclamping of the left carotid artery and the last 30 minutes of the recording.
+There was no change in the background at the time of clamping and unclamping the left internal
+
+
+
+
+

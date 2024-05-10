@@ -1,0 +1,21 @@
+History:	67 year old man who underwent cardiac ablation yesterday.  This am, following a
+successful extubation, patient developed acute change in mental status in the
+setting of severe HTN.  Stroke code was activated and patient received tPA.
+Medications:	Propofol drip, versed drip and versed IVP
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage polymorphic delta and theta activity with absence of the expected anterior to posterior
+gradient of frequencies.  Frequent low amplitude brief diffuse sleep-spindle-like waveforms are
+noted.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+Interpretation:
+This is an ABNORMAL 22-minute portable EEG due to moderate-to-severe diffuse slowing. This
+finding is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically
+nonspecific, but at least partially is medication induced.  Patient was placed on continuous EEG
+

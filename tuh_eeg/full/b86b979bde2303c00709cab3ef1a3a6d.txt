@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  70 year old right handed male admitted with confusion.  Not taking his medications, hallucinating, and paranoid.  Past history of stroke, schizophrenia, and Parkinson's disease.
+MEDICATIONS:  Cogentin, Ativan, Seroquel, Lovenox, ASA, Benztropine, Bisacodyl,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The patient is very sleepy and spends much of the EEG in stage II sleep with vertex waves, K-complexes, spindles, and POSTS.  With stimulation an 8.7 Hz alpha rhythm is noted. Photic stimulation is performed as the patient is drifting off to sleep, but does elicit a driving response.
+HR:    66 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  No specific metabolic features were noted as well.
+
+
+

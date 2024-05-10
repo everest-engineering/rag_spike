@@ -1,0 +1,17 @@
+History:		77 yo female presented with 3 episodes of unresponsiveness. Pt slumped over to the left, eyes open starring to the left, drooling. Lasting seconds to 1 min. Pt does not recall these events. Pmhx: stroke 1/2015 left subcortical infarct, HTN, HLD
+Medications: Sedation: EEG Type: Technique:
+Plavix, Losartan, Lipitor, Coreg
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Awake only.
+Frequent polymorphic delta activity is present in the left frontotemporal region during wakefulness, increasing during drowsiness.  Intermittent polymorphic delta activity is present in the right frontotemporal region during wakefulness , increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed. HR was 54
+Summary of Findings:
+Focal slowing, polymorphic, frequent, left frontotemporal Focal slowing, polymorphic, intermittent, right frontotemporal
+Interpretation:
+This is an ABNORMAL awake EEG because of intermittent focal slowing in the bilateral frontotemporal regions (left more than right). This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.  No clinical or electrographic seizure	represent.
+
+
+
+

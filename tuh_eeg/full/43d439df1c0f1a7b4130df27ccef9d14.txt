@@ -1,0 +1,17 @@
+History:	71 year old man admitted after a syncopal episode with associated arm and leg shaking, lasting several minutes. Patient had a similar episode - 5 years ago.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Awake & asleep
+Technique:		International 10-20 System; standard 21 electrodes with T1ff2 electrodes and EKG electrodes, awake, drowsy, asleep, folic
+Description:
+The background consists of unstable PDR that reaches 8.5 Hz, preserved AP gradient and excess diffuse theta activity. Patient rapidly transitions to sleep. Sleep consists of symmetrical sleep spindles, vertex waves and K-complexes.
+··- ---· - Hyperventilation is- not performed. Stepped photic stimulation from 1'21 flashes per second (fps} does · ·­ not produce additional abnormalities. Paced rhythm is noted on a single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate Other, rapidly transitions to sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG due to mild-to-moderate diffuse slowing. This finding is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific. However, given the fact that patient rapidly transitions to sleep, excessive drowsiness could contribute to the degree of diffuse slowing noted. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

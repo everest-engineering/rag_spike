@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 61-year-old woman with epilepsy since the 1990s, seizure free for many years, off seizure medications and hoping to return to driving.
+MEDICATIONS:  none
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.  It is a technically satisfactory 20-minute record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Drowsiness is characterized by slow rolling eye movements.  In the transition to drowsiness, there is a single isolated burst of left mid temporal focal delta.
+Photic stimulation elicits bilateral driving.  Hyperventilation produces an increase in beta.
+Heart rate: 66 bpm.  Frequent PVCs.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  There is a single burst of isolated delta on the left, which may be correlated with imaging, history, and age.  If the PVCs are new finding, additional cardiac evaluation may be a value.
+
+
+

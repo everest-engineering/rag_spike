@@ -1,0 +1,24 @@
+History:	83 YO MALE  BROUGHT IN BY EMS S/P PEA CODE. EMS EPI X 4, CPR IN ED
+EPI X 3. INDICATION STROKE AND POSSIBLE HYPOXIC EVENT
+PMHX: DM, CAP, HTN, HLD, CKD
+Medications:	HYDRALAZINE, INSULIN, DEXTROSE, POTASSIUM
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and ekg
+electrodes, lethargic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing was present.  No epileptiform discharges were present.  No clinical or
+electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was stimulation reactivity in the
+background activity.  HR is 80 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Attenuation
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and attenuation.  These
+findings are etiologically nonspecific indicators of diffuse cerebral dysfunction.
+

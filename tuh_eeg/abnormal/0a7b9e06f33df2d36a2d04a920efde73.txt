@@ -1,0 +1,14 @@
+RECORD START TIME:  11:59 a.m.
+RECORD FINISH TIME:  12:21 p.m.
+RECORDING LENGTH:  22 minutes.
+CLINICAL HISTORY:  The patient is a 58-year-old female with a history of epilepsy since age 11.  Her seizures occur more frequently now and are largely nocturnal.
+MEDICATIONS:  Diazepam, divalproex and zonisamide.
+INTRODUCTION:  __________
+DESCRIPTION OF THE RECORD:  As the record opens, there is a well-formed and symmetric 9 to 10 Hertz posterior dominant rhythm that is reactive to eye opening.  There is a small amount of frontocentral beta activity identified which is symmetrically distributed.  Stage 1 sleep is characterized by attenuation and fragmentation of the existing posterior dominant rhythm and the appearance of central theta activity.  Stage 2 sleep is not appreciated.
+On at least 4 occasions during the record, there is the appearance of spike and wave discharges.  On at least 2 of these occasions, the discharges appear generalized with a bifrontal maximum.  These appear during periods of light drowsiness.  For approximately 3 to 4 seconds, there is a disruption of the background and the appearance of bihemispheric slowing superimposed upon which there is a sharply contoured activity.  There is, however, a definitive bifrontal generalized spike.  Later in the recording, there is a similar brief background slowing, and there is again bifrontal generalized spike and wave discharges.  These discharges are singleton events and thus it is difficult to determine what their frequency is.  On the third appearance, the spike wave discharges appears predominantly over the left frontal region and is maximal at FT7.  This discharge has the appearance more consistent with a localized focal spike in the left frontal region.
+Hyperventilation was not performed.  Photic stimulation was performed in multiple flash frequencies and did not induce a significant photic driving response.  Of note, a photoparoxysmal response was not identified.  During the course of the recording, the heart rate varied between 70 and 90 beats.
+IMPRESSION:  This is an abnormal EEG capturing wakefulness and drowsiness due to the presence of generalized bifrontal spike and wave discharges and a focal left frontal spike and wave discharge.
+CLINICAL IMPRESSION:  The presence of bifrontal generalized spike-wave discharges may suggest an idiopathic generalized epilepsy in this patient.  The appearance of a focal spike in the left frontal region may suggest fragmentation of the generalized pattern during drowsiness but may also suggest the concomitant appearance of a generalized process plus a localized process, such as may be seen in __________ epilepsy or possibly in generalized epilepsy with febrile seizures plus (GEFS+).  Clinical correlation is advised.
+
+
+

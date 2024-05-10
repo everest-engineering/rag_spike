@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 47-year-old woman with stroke 3 years ago, left-sided weakness and aphasia, now with stress, anxiety, and intermittent paresthesias on the left.
+MEDICATIONS: Vitamins
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta.  The overall amplitude of the background is relatively low voltage.
+Drowsiness is characterized by slow rolling eye movements, followed by rhythmic central theta.  The patient transitions in and out of stage 1 sleep with vertex waves.  She is drifting into stage 1 sleep during photic stimulation, which does elicit a bilateral driving response.
+Hyperventilation increases the amplitude of the background.
+Heart rate:  66 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in this EEG.  A normal EEG does not exclude a diagnosis of epilepsy.  In addition, despite the previous stroke, no focal features were seen.  If epilepsy is an important consideration, a more prolonged study capturing her clinical symptoms may be of value.
+
+
+

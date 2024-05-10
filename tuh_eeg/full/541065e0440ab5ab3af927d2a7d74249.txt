@@ -1,0 +1,29 @@
+History:	20 year old woman with a progressive decline in mental status.  As per report, a
+prior EEG showed epileptiform activity.
+Medications:	Vancomycin, Lamictal
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+This is a technically limited EEG due to nearly constant eye movement that results in large
+amplitude anterior artifact.  With eyes closed, the background consists of low-to-moderate
+amplitude fast activity, poor AP gradient and excess polymorphic low amplitude theta and delta
+activity.  With eyes opened, the background voltages are low and the background consists of a
+mixture of excess beta, theta and delta activity.  Patient remain awake throughout the recording.
+No appreciable focal features are captured.  No clear epileptiform discharges are seen.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Beta, excessive
+Technically limited
+Interpretation:
+This is a TECHNICALLY LIMITED EEG due to frequent movement artifact and eye movement
+artifact. Otherwise the background is moderately diffusely slow burst clearly reactive.  These findings
+are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  Patient will be
+placed on continuous EEG monitoring.
+
+
+
+
+

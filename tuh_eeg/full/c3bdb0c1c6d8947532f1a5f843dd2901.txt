@@ -1,0 +1,25 @@
+Technologist:
+History:	25 year man admitted with drug overdose
+Medications:	Depakote
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes
+Description:
+No clear posterior dominant rhythm was present.  Background activity was characterized by diffuse
+low voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  During sleep, there is diffuse voltage attenuation, resolution of diffuse delta activity
+and rare diffuse vertex-like waveforms.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation were not performed.  There was reactivity to auditory,
+tactile, or painful stimuli.  A single EKG lead demonstrates heart rate up to ~ 110 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Other, background is reactive with arousals and sleep-like cycles
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL 22-minute EEG because of moderate diffuse background slowing and
+absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse
+cerebral dysfunction.  Clear evidence of reactivity and sleep/wake cycles indicate favorable
+prognosis for recovery of at least some neurological function.
+
+

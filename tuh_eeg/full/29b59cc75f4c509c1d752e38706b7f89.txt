@@ -1,0 +1,28 @@
+:
+History:	64 YR MALE WITH PRESENTS WITH SZS.  PMHX: ICH LEFT, SZS, HEP C., DVT.
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates with eye
+opening and can only be seen over the right hemisphere.  A 5-15uV, 18-25Hz activity is present,
+maximal over the right frontal and central regions.  During drowsiness, the background slows to
+central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the frontal
+region during wakefulness, increasing during drowsiness.  There is an associated loss of faster
+frequencies over this region.  Very frequent  focal sharp waves are present with phase reversal and
+amplitude maximum at F3, F7 and rarely Fp1.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 72
+Summary of Findings:
+Sharp waves, frequent, left frontal
+Focal slowing, polymorphic, continuous, marked, left hemispheric, Maximal frontal and with
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of frequent epileptiform discharges in the
+left frontal region along with continuous focal slowing.  These findings are indicative of a
+potentially epileptogenic focus and a structural lesion in this region .  No clinical or electrographic
+seizures are present.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 68 year old woman found unresponsive, evaluate for stroke, impaired mental status.
+MEDICATIONS: Lasix, Atenolol, Diovan, Nifedipine, Gabapentin, Famotidine, Prilosec
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are not possible. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The overall background is quite slow with a mixture of delta and smaller amounts of faster frequency activity. There are occasional shifting asymmetries noted. An interesting artifact is observed in the right anterior temporal and left frontal temporal regions, which correlates with a right ocular artifact Stimulation of the patient does not significantly activate the record, although it does produce a little bit of beta frequency activity briefly.
+HR: 80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing.
+CLINICAL CORRELATION: There are no definitive epileptiform features, but additional evaluation may be appropriate, including evaluation of this patient's right extraocular movements, particularly the lateral rectus
+
+
+

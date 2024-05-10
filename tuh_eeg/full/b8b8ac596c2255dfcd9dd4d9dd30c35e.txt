@@ -1,0 +1,23 @@
+History:	62 YO FEMALE S/P  ASCENDING HEMIARCH REPLACEMENT, TEE, EEG
+Medications:	None
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Hr was 72
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, mild, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left
+anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+
+
+
+

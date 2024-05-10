@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  26 year old right handed woman with a history of seizures in pregnancy February 8, 2012,history of childhood epilepsy, and hypertension, as well as drug use.  Preeclampsia versus eclampsia.  Following delivery of infant, patient continued to have seizures with tonic clonic seizures with tongue biting and incontinence in August.
+MEDICATIONS:  Procardia, Zofran, Colace, Prenatal Vitamins.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.   During hyperventilation, as well as in relaxed wakefulness, there are irregular bursts of 5 Hz activity in the temporal regions, left more so than the right.  The bursts are somewhat asynchronous and they seem to start at T5 before T3, suggesting that there is a focality to this. The bursts always have some bilateral representation, but they seem to be maximum on the left.
+During hyperventilation, there is a high amplitude burst of paroxysmal theta, but underlying this there seems to be a 5 Hz spike and wave complex with bilateral representation, but again maximum in the left hemisphere, including T5, C3, T3.
+Following hyperventilation, as the patient becomes drowsy, there is an additional burst of frontally more symmetrical, frontally predominant spike and wave activity of 4-5 Hz, followed by the transition to sleep. Additional, isolated frontal predominant 5-6 Hz spike and slow wave complexes are noted which are relatively symmetric.
+Photic stimulation is performed as the patient is drifting off to sleep and also seems to be associated with spike and wave activity, although this is not significantly different than the spike and wave activity which occurred in drowsiness.
+Stage II sleep with vertex waves, K-complexes, and spindles were noted in the transition to stage II sleep.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Frontally predominant 4-6 Hz spike and wave activity.
+Additional bilateral discharges which are not as symmetric and seems to be maximum on the left with an associated fast activity.
+CLINICAL CORRELATION:  The findings described above can be seen in the context of an inherited mechanism for epilepsy. However, given some of evidence of focality, a secondary generalized mechanism or more than one process may be considered.
+
+
+

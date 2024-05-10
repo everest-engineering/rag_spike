@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 31 year old right handed male with new onset seizures a year ago with tonic clonic seizures lasting 2-3 minutes. His last seizure was 11 months ago.
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is well organized with a 9 Hz 40 mV posterior dominant rhythm. Features of drowsiness include hypersynchronous rhythmic background slowing. This is followed by attenuation of the alpha arid POSTS. Photic stimulation does not activate the record. Hyperventilation produces an increase in the background which is very subtly asymmetric with, at times, a bit more theta on the left.
+HR: 72 bpm
+IMPRESSION: Mild abnormal EEG due to:
+1. A subtle asymmetric hyperventilation response.
+CLINICAL CORRELATION: No epileptiform features were noted. The subtle asymmetric hyperventilation response is a nonspecific finding, out may be correlated with history and imaging. If additional information is needed, a more prolonged study capturing deeper stages o sleep or a sleep deprived EEG is suggested.
+
+
+

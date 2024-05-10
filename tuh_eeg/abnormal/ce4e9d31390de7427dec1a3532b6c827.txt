@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  20 minutes.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10/20 system with additional T1 and T2 electrodes and single EKG lead.  Hyperventilation and photic stimulation were performed.
+CLINICAL HISTORY:  The patient is a 21-year-old man with a history of seizures since the age of 8.  Last seizure occurred in February 2013.  Seizures are characterized by __________ associated with shaking, biting, incontinence.
+PAST MEDICAL HISTORY:  Notable for anxiety, bipolar depression, ICD, ADD, memory deficits and iron deficiency.
+MEDICATIONS:  Current medications are not known.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of well formed and modulated 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at low amplitudes anteriorly.  During drowsiness __________ demonstrates __________ bursts of theta are captured.  Hyperventilation is performed with good effort and results in no change in the background.  Stepped photic stimulation does not result in occipital driving.
+FINDINGS:
+No epileptiform discharges.
+No stage 2 sleep.
+IMPRESSION:  This is a normal awake and drowsy 20-minute EEG.  No epileptiform discharges were captured, however, the patient's sleep was not recorded.  If clinical indication for seizures persists, a repeat study with stage 2 sleep may be of benefit.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 27 year old woman pregnant with hyperglycemia coma.
+MEDICATIONS: Azithromycin, Ceftriaxone, Insulin, Keppra
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is described increasingly responsive during this overnight recording.
+DESCRIPTION OF THE RECORD: The background starts out at a markedly abnormal background with a mixture of theta and delta. The pattern includes some frontally predominant triphasic waves which improve over time and bilateral generalized periodic epileptiform discharges. Focal sharp waves are seen in the left posterior temporal region at T3 and T5, but those are improving to some extent during the course of the record. Over the course of the record there is an increase in spontaneous arousals which are associated with muscle artifact. The discontinuity improves and the triphasics resolve, but the overall starts out with a markedly slow delta/theta pattern and transitions to a very slow, but with increasing theta quantity pattern.
+HR: 120 bpm
+IMPRESSION: Markedly abnormal EEG due to:
+1. Marked background slowing.
+2. Triphasic waves.
+3. Bilateral frontal generalized periodic complexes.
+4. Focal epileptiform activity primarily in the left posterior regions.
+CLINICAL CORRELATION: There are no definitive seizures with characteristic frequency evolution, although there are portions of the record where the frontal sharp waves do appear in trains. Overall, this EEG demonstrates an improving but markedly abnormal process. Ongoing vigilance is suggested.
+
+
+

@@ -1,0 +1,26 @@
+History:	29YO MALE WITH SZ HISTORY WAS BROUGHT INTO ED AFTER WITNESSED
+SZ AT WORK EPISODE OF GENERALIZED SHAKING, TONGUE BITING,
+INCONTINENCE OF UNKNOWN DURATION.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is excess 7 Hz theta activity during wakefulness.  During drowsiness,
+the background slows to central theta activity, frontal beta activity becomes more prominent, and
+the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows
+further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Intermittent brief bursts of diffuse, frontally-maximal 2-3 Hz, 50-60 uV slow waves are observed
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 75-80 bpm.
+Summary of Findings:
+, Excess theta during wakefulness.
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing during wakefulness and
+intermittent brief bursts of diffuse, frontally-maximal delta activity during drowsiness.  These
+findings are indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific. This
+pattern could also be seen in post-ictal state.  Clinical correlation is recommended.
+
+

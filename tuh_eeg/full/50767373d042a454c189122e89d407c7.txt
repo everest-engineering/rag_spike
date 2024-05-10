@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 87 year old woman with low-grade fever, cough, delirium, dementia, and falling.
+MEDICATIONS: Haldol, Metoprolol, Heparin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: The overall EEG includes a low voltage pattern, which includes primarily slower delta frequency activity of 2 to 3 Hz, a small amount of theta, and a small amount of alpha frequency activity, particularly in the frontocentral region. There is no well-defined alpha rhythm. Features of drowsiness include an increase in background slowing with some hypersynchronous rhythmic slowing followed by vertex waves. There is also some more sharply contoured high amplitude slowing in this bedside recording in the parietal occipital regions, a little bit more prominent at P3.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing
+2. Disorganization.
+3. A relatively low voltage pattern.
+CLINICAL CORRELATION: Some of the triangular shape waves noted in the background in sleep are probably POSTS, which are a normal variant. No epileptiform features are seen. The pattern described above is nonspecific and can be seen in the context of dementia or toxic or metabolic encephalopathy.
+
+
+

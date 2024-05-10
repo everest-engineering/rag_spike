@@ -1,0 +1,29 @@
+History:	65yo woman who presents with a history of 2 seizures that occurred 2 years ago, since
+then has been seizure free. Patient had another seizure 6/21/15 after not taking her
+medications correctly.
+Medications:	Neurontin, Tegretol, Oxycodone, Lipitor, Aspirin, others
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  Patient is asleep throughout the majority of the recording.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+No epileptiform discharges
+Sleep, stage 2
+Interpretation:
+This is a NORMAL 22-minute EEG, awake, drowsy, and mostly asleep. Patient very rapidly
+transitions to sleep and is unable to stay awake even with stimulation - please correlate clinically
+with an underlying sleeping disorder.
+
+
+
+

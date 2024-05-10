@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 78-year-old woman admitted with confusion.  At baseline, she is awake and can communicate.  History of essential tremor treated with primidone, epilepsy, A flutter, vent-dependent respiratory failure, tracheostomy, and long hospital stay.
+MEDICATIONS:  Keppra, vancomycin, imipenem, ropinirole, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This is an awake and drowsy record in a confused and poorly responsive patient.
+DESCRIPTION OF THE RECORD:  The background EEG is a mixture of delta and theta, but there is a suggestion of a 6 Hz posterior dominant rhythm noted at times, right greater than left.  Shifting slowing is noted from either hemisphere with arrhythmic delta.  There is variability in the record with some sections of the record with more theta and other with more delta.  Tactile stimulation of the patient produces a small increase in theta activity but only briefly.
+Heart rate irregular, 126 BPM.
+IMPRESSION:  This is an abnormal EEG due to generalized background slowing and disorganization.
+CLINICAL CORRELATION:  No epileptiform features are identified.  These findings are nonspecific and can be seen in a toxic or metabolic or other disturbance.
+
+
+

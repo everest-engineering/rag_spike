@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 50 year old right handed female with chronic paranoid schizophrenia.
+MEDICATIONS: Ability, Ativan, Lisinopril, Benadryl, Zoloft, Propranolol, and Zydis.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat slow and disorganized. There is a 7.5 Hz alpha rhythm with a small amount of rhythmic, 4 Hz occipital activity. In addition, rare alpha squeak is observed. Central mu rhythm is observed but testing is not performed to confirm this. Features of drowsiness include increasing synchronicity of the background. Photic stimulation does not activate the record.
+HR: 55 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing.
+2. Background disorganization.
+CLINICAL CORRELATION: There are no epileptiform features observed. This EEG does not exclude a diagnosis of epilepsy.
+
+
+

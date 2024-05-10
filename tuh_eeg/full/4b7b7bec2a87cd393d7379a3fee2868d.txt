@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  31 year old woman with new onset seizures characterized by eye rolling back in her head, stiffening of the body, and twitching with postictal confusion.  Past history of HIV, anxiety, suicide attempt, and hepatitis C.
+MEDICATIONS:  Xanax, Prozac, Ativan, Neurontin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm of 40 microvolts.  There is generous frontocentral beta.  Features of drowsiness include an increase in beta and attenuation of the alpha with rhythmic temporal wicket.   Hyperventilation produces a small amount of slowing.  Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage I sleep.
+CLINICAL CORRELATION:  There are no focal nor epileptiform features identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy, and if seizures are an important consideration, a followup test may be considered.
+
+
+

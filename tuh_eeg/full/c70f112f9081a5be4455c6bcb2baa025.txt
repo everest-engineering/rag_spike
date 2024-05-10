@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 29 year old male with epilepsy since childhood, 2-3 per year.  Typical seizures are characterized by tingling in the back of the head with loss of consciousness and tonic clonic activity.  Past history of diverticulitis and cardiac disease.
+MEDICATIONS:  Depakote, ASA,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz 30 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta activity.  Prominent eye movement artifact is noted, as is lateral rectus (extraocular movement muscle) artifact. Features of drowsiness include attenuation of the alpha rhythm with some hypersynchronous rhythmic slowing. Photic stimulation elicits bilateral driving.
+Very brief stage I sleep with vertex waves is noted.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  A normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, a follow up study with more extensive sleep is suggested. No epileptiform features were identified, although there was limited sleep.
+
+
+

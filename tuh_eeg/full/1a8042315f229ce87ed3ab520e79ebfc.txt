@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  53 year old woman with epilepsy since age 12, last seizure
+11/24/2009.
+MEDICATIONS:  Tegretol, Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG.  Photic simulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is mildly slow in the 8.0 Hz alpha rhythm. There is asymmetric eye movement artifact and frequent
+eye flutter. Photic stimulation does not activate the record.
+HR:   66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. 	Mild background slowing.
+CLINICAL CORR ELATION:
+No epileptiform features are observed. The mild
+background slowing supports a diffuse disturbance of cerebral function and may be correlated with history, imaging, and medications.
+
+
+

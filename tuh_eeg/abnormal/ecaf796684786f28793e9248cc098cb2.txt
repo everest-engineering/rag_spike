@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  66 year old right handed woman with hypertension, diabetes, and multiple sclerosis with recurrent syncope, 3 episodes since January.
+MEDICATIONS:  Micardis, prazosin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation and hyperventilation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with symmetric reactive 10 Hz, 50-70 microvolt alpha rhythm.  Drowsiness is characterized by attenuation of the alpha rhythm.  Deeper stages of sleep are not sustained.  Hyperventilation produces an increase in the amplitude of the background.  Photic stimulation elicits subtle bilateral driving.
+HR:   60 bpm and irregular
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified. The irregular heart rate may be evaluated with a routine EKG.
+
+
+

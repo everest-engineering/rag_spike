@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 62-year-old man with history of epilepsy admitted with breakthrough seizures and right-sided weakness.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  20 minute digital video EEG was performed at bedside using standard 10-20 system electrode placement.  The patient was lethargic.  Hyperventilation and photic stimulation were deferred. LENGTH OF STUDY:  21 minute 21 seconds.
+DESCRIPTION OF THE RECORD:  As the tracing began, the patient is quite somnolent.  The background EEG demonstrates an asymmetry.  The right hemisphere demonstrates a mixed frequency pattern rich in beta frequency.  The left hemisphere demonstrates loss of faster frequencies.  There is more delta on the left.  Sharp waves are noted from the left hemisphere.  These have unusual field of spread.  They are maximum in the left temporal region with an average reference, there is a transverse dipole.  Some of the sharp waves demonstrate a double phase reversal in the lateral temporal electrodes.  They may demonstrate a positive phase reversal in the average reference.
+With stimulation, the patient awakened, but is confused.  In wakefulness, the right hemisphere demonstrates an alpha rhythm, not as well defined on the left.  The left continues to demonstrate focal slowing and sharp waves.  At the end of the EEG, the patient drifts off into stage II sleep.  The heart rate during this recording was 66 beats per minute.
+IMPRESSION:  This EEG was abnormal due to:
+Focal slowing on the left.
+Sharp waves on the left.
+Modest background slowing and disorganization on the right.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.  A focal structural lesion on the left hemispheric may be considered.
+
+
+

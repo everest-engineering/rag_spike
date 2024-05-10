@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 54 year old male with diabetes, ventilatory dependent respiratory failure, history of seizures, found hitting his head into the wall, alcohol abuse, amputations, many medical illnesses.
+MEDICATIONS: Keppra, Heparin, Pantoprazole, Ceftriaxone, Azithromycin, Lorazepam, Fentanyl, Insulin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has been sedated with fentanyl, Versed and Ativan.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern rich in beta and theta frequency activity. Stimulation of the patient produces an alerting response with a bit more theta.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a mixed frequency pattern rich in beta and theta.
+CLINICAL CORRELATION: These findings are compatible with pharmacologic coma as might be anticipated given the medications used in this clinical scenario.
+
+
+

@@ -1,0 +1,30 @@
+AGE: 54 y.o.
+SEX:male
+DATE OF STUDY: 10/03/2015 RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, Asleep only EEG i: 15-1455
+HISTORY:
+54 y.o. male who presented with seizures .
+MEDICATIONS: Keppra, Ativan
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+Most of the record consists of sleep.
+During brief seconds of wakefulness , fragments of a posterior dominant rhythm of about 10 Hz are appreciated. The background is well organized with a mixture of alpha and a moderate amount of bifrontal beta activity.
+Sleep is characterized by symmetric spindles and K complexes . Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: The patient responds to commands to squeeze the technician 's hands; the background is reactive
+Hyperventilation : Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 114 bpm is captured on a single EKG lead.
+IMPRESSION / CLINICAL CORRELATION:
+This routine EEG is remarkable only for the patient's tendency to sleep through almost all of it, even when stimulated by the technician. Sleep transients and brief fragments of wakefulness are within normal limits. Taken as a whole, the findings may be consistent with sleep deprivation or a mild encephalopathy.
+
+
+
+

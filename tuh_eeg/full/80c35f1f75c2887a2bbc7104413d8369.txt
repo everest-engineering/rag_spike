@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 56-year-old with aortic valve dysfunction, in isolation, GI bleed, and atrial fibrillation. Evaluate for encephalopathy.
+INTRODUCTION: Routine digital video EEG was performed at the bedside in the ICU using standard 10- 20 system of electrode placement with one channel of EKG. This is a technically extremely difficult EEG for an isolation patient with a trach. There is a great deal of ICU artifact noted. EKG channel was not functional.
+DESCRIPTION OF THE RECORD: In limited sections of the record, in which the EEG is interpretable, there is a low voltage, diffusely slow theta pattern. The patient demonstrates eye movements at that time.
+Throughout the EEG, the patient was receiving dialysis. EKG, N/A.
+IMPRESSION: This is a technically extremely limited, but abnormal EEG due to excess background theta.
+CLINICAL CORRELATION: Although, there were no focal or epileptiform features noted, this EEG is so limited that it does not meet the technical standard for an adequate 20-minute evaluation. A repeat test will be performed when the patient is not receiving dialysis.
+
+
+

@@ -1,0 +1,25 @@
+History:	63 year old woman with an episode of slurred speech and confusion.
+Medications:	Metoprolol, Asa, Lisinopril, Lipitor, Lasix
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation
+Description:
+Waking background is characterized by a 25-40uV, 9.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Patient remains awake throughout the recording.
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation is not performed.  Frequent 50-75uV, 100 msec positive sharp transients
+occur bilaterally over the occipital regions of the head during saccadic eye movements with the
+eyes open.  Intermittent eye flutter artifact is present.
+Summary of Findings:
+No stage 2 sleep
+Artifact, other, intermittent, eye flutter
+Interpretation:
+This is a NORMAL awake-only 21-minute EEG.  No epileptiform discharges were present, but stage
+2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. Intermittent eye flutter artifact could have obscured subtle anterior slowing.
+
+
+

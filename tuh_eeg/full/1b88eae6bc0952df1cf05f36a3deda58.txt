@@ -1,0 +1,28 @@
+History:	58 year old man with a history of a stroke and now new seizures.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, photic
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 9 Hz alpha activity that attenuates with eye opening and the
+expected AP gradient.  The background over the left consists of polymorphic 8 Hz theta activity
+posteriorly with lack of AP gradient and excess polymorphic attenuated theta and delta activity.
+Sleep spindles and K-complexes are captured.  They are better formed over the right hemisphere.
+No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+No epileptiform discharges
+Asymmetry, sleep architecture, better formed over the right
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EGG due to continuous moderate left
+hemispheric slowing that is more pronounced anteriorly. Continuous focal slowing is indicative of a
+focal structural lesion in this region.  The lack of epileptiform discharges on a routine EEG does not
+rule out a clinical diagnosis of epilepsy.
+
+
+
+

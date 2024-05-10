@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 19 year old right handed female with absence epilepsy diagnosed in 2nd grade characterized by eye flutter, particularly with bright lights. Seizures recurred when medications were eliminated as she started high school but currently seizure free. Metabolic syndrome, menstrual irregularity.
+MEDICATIONS: Depakote.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for a young adult of this age with an alpha rhythm of 11 Hz, 60
+microvolts. Posterior slow waves of youth are identified.
+Hyperventilation is performed in the non-fasting and non-sleep deprived state. It produces a small amount of theta but no epileptiform activity. Drowsiness is characterized by anterior spread of the alpha rhythm and an increase in beta.
+Photic stimulation elicits driving. It also elicits a brief photo paroxysmal response with frontally predominant 3Hz or paroxysmal frontal activity. This activity is initially subtle and can be seen in the 9Hz stimuli and subsequent stimuli. it may occur at the beginning of the photic stimuli or at the end. The duration of the paroxysmal activity is approximately 1.5 seconds. Although some of it is not such a clearly defined spike and wave discharge, it is clearly a photo paroxysmal discharge with an underlying burst of frontal delta admixed with faster frequency activity. The 17Hz stimuli produces the activity which makes the patient feel uncomfortable, but she has no clinical seizures in response to it, just simply a feeling that she does not like it. Despite the appearance of the discharges in her EEG. she remains completely communicative during both the 17 Hz and the 19Hz stimuli. The 21 Hz stimuli produces not clearly as defined activity.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Photo paroxysmal activity elicited by photic stimulation .
+CLINICAL CORRELATION: In this young adult with a history of absence epilepsy in
+childhood, this EEG supports an ongoing tendency towards seizures. Of note, hyperventilation did not produce abnormalities but photic stimulation did produce the discharges.
+
+
+
+

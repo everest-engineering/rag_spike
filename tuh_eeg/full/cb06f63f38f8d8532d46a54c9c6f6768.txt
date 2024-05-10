@@ -1,0 +1,31 @@
+History:	B/L FRONTAL SKULL DEFECT, HX OF STARING SPELLS , PRIOR EEG
+FOLLOW UP EEG FOR EMU ADMISSION PENDING
+PMH: PAD, HTN, DM, DIFFUSE MYOFASCIAL PAIN SYNDROME, DEPRESSION,
+OSTEOARTHRITIS, CEREBRAL ANEURYSM (2012).
+Medications:	KEPPRA, SEROQUEL, ASA, LIPITOR, KLONOPIN, BENADRYL, LISINOPRIL,
+PROTONIX, METOPROLOL, AMBIEN
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, photic
+Description:
+The waking background is symmetric, reactive, and well-organized with a posterior dominant
+rhythm of 9 Hz, which attenuates symmetrically with eye opening.  Drowsiness is characterized by
+background slowing and attenuation of the posterior dominant rhythm.  Sleep transients are not
+captured during this study.
+There is abundant, nearly continuous, left frontotemporal polymorphic slowing.  There is
+occasional, milder independent right frontotemporal polymorphic slowing.  No epileptiform
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Hyperventilation is not performed.  A heart rate of 78 bpm is captured on a single EKG lead.
+Summary of Findings:
+Focal slowing, polymorphic, abundant, left frontotemporal
+Focal slowing, polymorphic, occasional, right frontotemporal, independent
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of abundant left frontotemporal
+polymorphic slowing and independent right frontotemporal polymorphic slowing. These findings
+are etiologically nonspecific indicators of left > right frontotemporal cerebral dysfunction, which
+may be structural or physiologic in origin.
+
+
+
+

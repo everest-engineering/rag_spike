@@ -1,0 +1,12 @@
+CLINICAL HISTORY:
+MEDICATIONS:  Heparin and Morphine.
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Impedances were generally under 5 kilos Ohms.  This was an acceptable, but technically challenging EEG.
+DESCRIPTION OF THE RECORD:  The patient is awake, but lethargic.  The background EEG is poorly organized with a mixture of theta and smaller amounts of delta.  There is a small amount of low voltage frontocentral beta.  Asymmetric eye movement artifacts are noted, and there is a significant amount of EKG artifact.  The accompanying video demonstrates asymmetric eye movement, in addition to the asymmetric eye movement artifact.
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to;
+Generalized background slowing.
+Poor organization.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This is an acceptable, but technically challenging bedside ICU record.  If epilepsy is an important consideration, a followup study may be performed when the patient is out of the ICU.  The clinical correlate explains the asymmetric eye movement artifact, and lead placement appears to be satisfactory.
+
+
+

@@ -1,0 +1,26 @@
+History:	62 year old woman who presents with confusion, generalized weakness, slurred
+Medications:	no AEDs, solumedrol, aspirin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+The posterior dominant rhythm reaches 7-8 Hz.  AP gradient is weak.  The background consists
+primarily of polymorphic moderate amplitude theta activity.  Patient is awake throughout the
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  Frequent slow eye flutter artifact is present.
+Summary of Findings:
+Artifact, eye movement, frequent, eye flutter
+Diffuse slowing, polymorphic, mild-to-moderate
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only 24-minute EEG because of mild-to-moderate diffuse slowing
+and disorganization. These findings are etiologically nonspecific indicators of mild -to-
+moderate diffuse cerebral dysfunction.  Since there is frequent eye flutter artifact, subtle anterior
+focal slowing could have been missed.  The lack of epileptiform discharges on a routine EEG does
+not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

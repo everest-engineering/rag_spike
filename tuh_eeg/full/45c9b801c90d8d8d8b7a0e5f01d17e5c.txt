@@ -1,0 +1,30 @@
+History:	63 year old man with seizure onset in 2012.  His last seizure was in 3/2014.
+Medications:	Keppra
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms at higher voltages over the
+left hemisphere.  The background over the right consists of well formed and modulated low-to-
+moderate 9-9.5 Hz alpha activity posteriorly that attenuates with eyes opening and normal AP
+gradient.  The background over the left consists of polymorphic moderate amplitude 8.5 Hz PDR
+with absence AP gradient.  Additional polymorphic theta and delta activity is noted over the left
+hemisphere with delta activity especially prominent anteriorly.  During drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, especially pronounced
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 43 minute EEG due to continuous moderate focal
+slowing over the lest hemisphere and, especially, over the left anterior region.  This finding is
+indicative of a focal cerebral dysfunction, likely structural in etiology.  No epileptiform discharges
+are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep
+recording may provide additional information.
+
+
+
+

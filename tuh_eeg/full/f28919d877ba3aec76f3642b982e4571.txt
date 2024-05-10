@@ -1,0 +1,39 @@
+AGE: 62 y.o.
+SEX: female
+DATE OF STUDY: 12/05/2015
+RECORDING ENVIRONMENT: bedside portable EEG TYPE: 20 minute, EEG TYPE STAT
+EEG # : 15-1770
+HISTORY:
+62 y.o. female with a history of long hospitalization referred for routine EEG for persistently altered MSE after seizure earlier today.	Multisystem injury.
+MEDICATIONS:
+No current outpatient prescriptions on file.
+No current facility-administered medications listed SEDATION: none
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically limited but satisfactory record and included a single channel of EKG.	Posterior electrodes had to be modified ..
+EEG BACKGROUND:
+The background is symmetric and diffusely slow.	There is a mixed frequency pattern, medium amplitude, with delta, theta and occasional bursts of alpha.	Stimulation of the patient elicits generalized attenuation. Spontaneous attenuations as well as rare triphasics were seen.
+Sleep includes vertex waves
+Generalized slowing is present.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY:
+None
+ACTIVATION PROCEDURES: See above
+Hyperventilation : n/a Photic Stimulation: n/a
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 96 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal	EEG.
+Marked generalized slowing.
+Intermittent attenuation
+Triphasics
+CLINICAL CORRELATION:
+This is EEG supports a diffuse bihemispheric process, such as a toxic or metabolic encephalopathy.
+There are no epileptiform features.	If needed, continuous EEG monitoring may be considered.
+These findings were discussed with the team 12/05/2015
+This EEG does not support or refute the diagnosis of epilepsy.
+
+
+

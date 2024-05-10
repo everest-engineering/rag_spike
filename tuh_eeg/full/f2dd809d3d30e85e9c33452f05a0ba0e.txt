@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  Spinal epidural abscess with neurological complaints and encephalopathy, COPD, acute renal failure, on hemodialysis and IVDA.
+MEDICATIONS:  Methadone, Ferrex, Dilaudid, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a relatively continuous and homogeneous pattern with rhythmic mixed theta delta.  Frontally predominant triphasic waves were noted.  There were also some posteriorly predominant triphasic waves observed.  Intermittent brief attenuations of the background were noted.
+Heart rate: 104 bpm.
+IMPRESSION:  Abnormal EEG due to;
+Replacement of normal background with a markedly slow and relatively rhythmic pattern.
+Intermittent attenuations.
+Triphasic waves.
+CLINICAL CORRELATION:  These features are relatively characteristic of a toxic or metabolic encephalopathy.  They can be seen in other diffuse disturbance of cerebral function.  If epilepsy or subclinical seizures are an important consideration, additional recording may be obtained.
+
+
+
+

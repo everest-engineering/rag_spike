@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 53-year-old gentleman with glioblastoma, past history of status epilepticus, recurrent seizures when the patient forgets to take his medicine.
+MEDICATION:  Tegretol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was awake and cooperative.  This was a somewhat limited record and the impedances were not exclusive below 5 kilohms.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous pattern with an asymmetry.  The activity from the right hemisphere is somewhat disorganized, but does include a glimpse of a 7.3 Hz posterior dominant rhythm.  Arrhythmic delta activity was noted from the left hemisphere, which was nearly continuous.  A breach rhythm was noted from the left, which is sharply contoured.  The sharply contoured activity demonstrates phase reversals at T3 and O1.  Drowsiness is characterized by an increase in background slowing.
+Heart rate:  78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing from the left hemisphere with prominent arrhythmic delta and breach rhythm.
+In this sharply contoured record, occasional sharp waves at O1 and T3.
+Background slowing noted from the right hemisphere.
+CLINICAL CORRELATION:  These findings are similar to previous EEGs from November 2015.  No seizures were recorded today.  The background slowing from the contralateral hemisphere as well as the disorganization may be correlated with imaging and clinical history.
+
+
+

@@ -1,0 +1,25 @@
+History:	88 y/o F c/c chest pain, congestive heart failure, PMHX- afib,dyspnea, lower
+extremity adema, HTN, MM, HLD, BPV
+Medications:	Heparin, Lasix
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 9 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording and increases during drowsiness.  During drowsiness, the background slows to central
+theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and stepped photic stimulation were not performed.  HR was 84.  There was a
+persistent muscle artifact in the frontal leads.
+Summary of Findings:
+Diffuse slowing, polymorphic, frequent, mild diffuse
+No epileptiform discharges
+Interpretation:
+This is a limited ABNORMAL awake and drowsy EEG due to mild  diffuse background slowing.  This
+finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+

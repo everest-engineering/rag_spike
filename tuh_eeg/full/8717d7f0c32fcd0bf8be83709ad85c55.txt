@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 68-year-old woman with left sided weakness and metastatic pancreatic cancer, DVT, PE, and obstructive sleep apnea.  Evaluate for seizure.
+MEDICATIONS:  Hydralazine, Vimpat, Zocor, labetalol, oxycodone, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a mixture of theta and arrhythmic delta activity.  The central regions are richer in theta than the temporal regions.  Shifting arrhythmic delta activity is noted.  The arrhythmic delta activity is a bit slower in the right posterior quadrant.  There are a handful of sharply contoured wave forms noted in the background including at P3/C3.  There are also a handful of discreet, more sharply contoured, wave forms noted on the right, but none that represent definitive sharp waves.
+Heart rate:  126 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Shifting arrhythmic delta activity, more prominent in the right posterior quadrant.
+In this complex record, occasional sharp waves are noted in the left central parietal region.
+
+
+

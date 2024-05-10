@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 69-year-old woman, status post cardiac arrest January 13, 2015.
+MEDICATIONS:  Epinephrine, norepinephrine, thyroid supplement, others, dobutamine, vasopressin, phenylephrine.  No sedative hypnotics listed.
+INTRODUCTION:  20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was comatose and unresponsive.  Tactile stimulation of the patient was performed.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly low voltage with very low voltage isolated theta delta.  EKG artifact was relatively prominent when the EEG is reviewed at very low sensitivities of 2 or 3.
+Tactile stimulation of the patient, when reviewed at very low sensitivities may produce an attenuation on this, otherwise, markedly low voltage record.
+Heart rate 66 bpm.
+IMPRESSION:  Markedly abnormal EEG due to low voltage, suppressed pattern.
+CLINICAL CORRELATION:  No epileptiform features were noted in the record.  There was no variability in the record and the reactivity identified was a pathological pattern with further suppression of the low voltage pattern.  These findings are worrisome in the context of an anoxic insult at 48 hours.
+
+
+
+
+

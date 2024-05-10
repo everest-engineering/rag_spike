@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 57-year-old woman presented to the emergency room having been found down. History of mental illness, anxiety, depression, hypertension, COPD.
+.
+MEDICATIONS:  Vancomycin, Protonix, heparin, moxifloxacin.
+INTRODUCTION:  A 22-minute digital bedside EEG was performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Impedances were under 5 kilo-ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  As the tracing begins the patient is intubated, unresponsive in the ICU with a temperature of 100.8.  The background EEG demonstrates a low voltage, continuous pattern with a mixture of delta and theta.  Intermittent, frontalis twitch artifact was observed.  Intermittent 2 or other involuntary muscle artifacts were noted.  There was some waxing and waning pf the EEG, some sections of the record demonstrate a bit more vigorous theta than others but behaviorally, the patient appeared to the technologist to be unchanged.
+Heart rate 111.
+IMPRESSION:  This is an abnormal EEG due to:
+generalized background slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, a follow-up study when the patient is out of the ICU may be considered.
+
+
+

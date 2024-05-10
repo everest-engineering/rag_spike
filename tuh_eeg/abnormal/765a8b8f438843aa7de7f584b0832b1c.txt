@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 38-year-old woman admitted on the 21st for an overdose, found pulseless with overdose of cocaine, opiates and benzodiazepines.
+MEDICATIONS:  Ampicillin, Ativan, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated.  Subtle head movement and eye movements were noted.  This is a technically satisfactory ICU bedside record with acceptable impedances.  There was some movement artifact noted in the background.
+DESCRIPTION OF RECORD:  The background EEG demonstrates a diffusely slow, relatively featureless delta pattern which is medium amplitude.  Eye movement artifacts were noted.  The patient was arousable with intermittent gagging, which produced muscle artifact and some bursts of FIRDA.
+Tactile stimulation of the patient produced an increase in muscle artifact.
+Heart rate:  120 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to replacement of normal background with a markedly slow delta pattern.
+CLINICAL CORRELATION:  There is evidence of some reactivity and variability in this EEG, but the overall prognostic significance of this EEG should be considered in the larger clinical context.
+
+
+

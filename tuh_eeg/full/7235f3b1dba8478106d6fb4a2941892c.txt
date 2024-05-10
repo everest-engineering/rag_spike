@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 67 year old man with bilateral carotid occlusions, right more than left.  He is here for a right carotid endarterectomy.
+MEDICATIONS:  Propofol, Versed, fentanyl.
+REASON FOR STUDY:  OR monitoring for right carotid endarterectomy.
+INTRODUCTION:  Digital video EEG was performed during a right carotid endarterectomy using the standard 10-20 electrode placement system with additional anterior temporal and EKG electrodes.  The patient was recorded throughout the procedure and the surgeon, as well as the anesthesia team, were informed of any changes throughout the recording. The patient was clamped at 11:43:56 and was unclamped at 12:25:10.
+DESCRIPTION OF THE RECORD:  At onset the record reveals mildly diffuse low background with a posterior dominant rhythm that times can be seen reaching up to 8 Hz bilaterally.  Some frontal central beta can also be seen.  No focal slowing or abnormal discharges were seen in the background.
+During the recording, especially at the beginning, there was also some intermittent diffuse suppression thought to be related to medication.  Adjustments in the medication were performed and blood pressure was let to be increased, which caused some improvement in the EEG, however, later on a dose of propofol was given which caused a diffuse loss of amplitude and faster frequencies, which later improved again after stopping that medication and decreasing all anesthesia, specifically down to 20%.  At that baseline with some normal diffuse faster frequencies seen intermittently and some burst suppression, the carotid was clamped and no changes were seen to this background after 3 and 5 minutes and this was reported to the surgeon.
+During the procedure the EEG had some diffuse changes, which appeared to be related to blood pressure changes and as the blood pressure was elevated they would return.  This was also informed to anesthesia and the surgeon.
+The artery was unclamped and the EEG remained similar to the background with some diffuse slowing and some faster frequency seen equally.  This was also informed to the physician and anesthesia.
+IMPRESSION:  Uneventful right carotid endarterectomy.
+CLINICAL CORRELATION:  This is an uneventful right carotid endarterectomy.  No changes were seen due to clamping during the recording.
+
+
+

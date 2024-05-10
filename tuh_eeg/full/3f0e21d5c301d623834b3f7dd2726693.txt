@@ -1,0 +1,29 @@
+History:	18 YR OLD MALE PRESENTS WITH H/O EPILEPSY LEFT TEMPORAL LOBE.
+PMHX SIG FOR PROLONGED FEBRILE SZ AT AGE 13 MONTHS.
+Medications:	LAMICTAL, ATIVAN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous rhythmic delta activity is present in the midtemporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left.  Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving.  HR is 90
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left temporal, mid
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+left temporal region.  This finding is indicative of a focal structural lesion in this region, which is
+consistent with the know surgery.
+
+
+
+
+

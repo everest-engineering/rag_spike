@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 69-year-old woman, transferred from outside hospital for schizoaffective disorder with aggressive behavior.  The patient required intubation and then was extubated and re-intubated.
+MEDICATIONS:  Depakote, propofol drip, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient is intubated, poorly responsive.  This is a technically acceptable record.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a medium amplitude, mixed frequency pattern.  The patient is resting quietly, there is primarily a theta pattern with delta and some bursts of frontal delta.  Intermittently, the patient has eye opening, stiffening, and muscle artifact is noted, but underneath this, the EEG is interpretable and the background is relatively unchanged.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG for an awake and drowsy individual due to generalized background slowing.
+CLINICAL CORRELATION:  Stiffening with muscle artifact is not a seizure.  Overall diffusely slow background supports a diffuse disturbance of cerebral function and be correlated with imaging.
+
+
+

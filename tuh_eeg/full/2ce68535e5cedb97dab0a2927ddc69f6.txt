@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 74 year old right handed woman with a tonic clonic seizure Saturday night, passed history of breast cancer, heart failure, diabetes, and hypertension.
+MEDICATIONS:  Atenolol, Glyburide, Metformin, Loratadine, Gemfibrozil, Simvastatin, Percocet
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and a bit disorganized.  The alpha rhythm is at best 8 Hz.  In relaxed wakefulness there is some shifting slowing, but at some points more of a pattern of an asymmetry with a bit more theta and delta in the left hemisphere, particularly frontal temporal regions.  There is some sharply contoured regions, but no sharp waves.  Mid temporal theta of drowsiness is identified.  Photic stimulation does not significantly activate the record.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background disorganization for an adult of this age.
+Slowing of the alpha rhythm.
+Intermittent focal slowing, left temporal, particularly in drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In this older adult with cardiovascular disease, correlation with imaging is suggested.
+
+
+

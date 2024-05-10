@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 62 year old woman with cancer in the posterior palate, status post resection, unstable airway, status post anoxic arrest x2, most recently at 2:50 a.m.
+MEDICATIONS: Lovenox, Antihypertensives
+INTRODUCTION: Digital video EEG was performed at beside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated, comatose. She has occasional eye movements or tongue movements in response to tactile stimulation.
+DESCRIPTION OF THE RECORD: This EEG demonstrates a burst suppression pattern with a markedly suppressed background. The suppressions are on the order of 30 to 50 seconds. The patient has bursts of generalized higher amplitude sharply contoured activity. There ·are also some occasional more brief bursts and non-sustained right temporal sharp waves, although those are not particularly frequent and are less frequent as the record goes on. Stimulation of the patient does not activate the record. Valium is given at 11:19 and seems to increase the duration of the epochs of suppression. The right temporal focal features are not seen afterwards.
+HR: 135 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Burst suppression pattern.
+2. Right temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a severe anoxic injury. There are worrisome prognostic features. Neuro imaging evaluation may be helpful in this individual with 2 anoxic insults.
+
+
+

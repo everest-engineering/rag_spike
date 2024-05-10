@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  28 year old right handed woman with a 3 to 5 year history of complex partial epilepsy for which she has an aura of depersonalization.  Past history of seizure while driving, a postal truck. Seizure related fall with facial lacerations.
+MEDICATIONS:  Lamictal, Zonisamide.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG includes a 10 Hz, 40 microvolt posterior dominant rhythm.  At the close of hyperventilation and in the transition to drowsiness, there is subtle slowing in the left mid to posterior temporal region with rhythmic 3-5 Hz activity and disruption of faster frequency activity.  In some sections of the record there is some underlying head rocking artifact which may obscure focal features in the same region in relaxed wakefulness.  Deeper stages of sleep were not achieved.  Photic stimulation elicits brief bilateral driving.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Subtle focal slowing in the left mid to posterior temporal region.
+CLINICAL CORRELATION:  No epileptiform features were identified in this individual with the diagnosis of complex partial epilepsy who reports that she had temporal lobe epilepsy, the rhythmic mix 3-5 Hz activity in the left temporal region is relatively characteristic as an intraictal finding in this syndrome.
+
+
+

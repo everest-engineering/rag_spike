@@ -1,0 +1,36 @@
+AGE: 24 y.o.
+SEX: male
+DATE OF STUDY: 09/10/2015
+RECORDING ENVIRONMENT:  Inpatient 778A EEG TYPE: 95819
+EEG #: 15-1328
+HISTORY:
+24 y.o. male referred for routine EEG for recurrent seizures- 1 SZ IN HIGH SCHOOL.  THEN HAS MVA ABOUT A MONTH AGO AND THEY CAME BACK
+MEDICATIONS:
+No current outpatient prescriptions on file.
+No current facility-administered medications for this visit. Vimpat, Ativan? Keppra
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with T1/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG, HV and limited photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a generous amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. PSWY and Mu (normal findings) were noted
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+No generalized slowing is present.  No focal slowing is present. Posterior head rocking was seen
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION  PROCEDURES:
+Hyperventilation:did not activate the record Photic Stimulation: did not activate the record
+EVENTS:
+Intermittent left leg shaking had no EEG correlate.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-drowsy routine EEG. There are no electrographic events detected.
+CLINICAL  CORRELATION:
+This is a normal awake-and-drowsy/asleep routine EEG. The generous beta may be medication effect.
+A normal routine EEG does not support or refute the diagnosis of epilepsy. Consider sleep
+EEG when the patient is able to cooperate
+
+
+

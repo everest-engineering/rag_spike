@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 48 year old right handed woman who was admitted with back pain, intubated for shortness of breath and respiratory failure, hypertension, diabetes, hepatitis-C with associated seizure with respiratory distress.
+MEDICATIONS: Lovenox, Moxifloxacin, Insulin, Tylenol, ASA, Metoprolol, Oxycodone
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz alpha rhythm but there is excess background theta. Features of drowsiness include hypersynchronous slowing with vertex waves. Photic stimulation is remarkable for photoelectric artifacts which could obscure underlying spike and wave activity.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess background theta.
+CLINICAL CORRELATION: No epileptiform features were identified but given the magnitude of the photoelectric artifact, a repeat study with repeat photic stimulation is advised. The background theta could be due to the patient's medical illness or medications.
+
+
+

@@ -1,0 +1,15 @@
+HISTORY:  An 82-year-old woman, admitted with shortness of breath, had an episode of generalized shaking and then cardiac arrest.  The patient experienced the arrest on the 19th of February.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient was intubated and comatose.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, relatively featureless pattern with intermittent attenuation.  There is a significant amount of muscle and other artifacts noted in the background.  Intermittent jerking was noted with jerking of the patient's head.  The overall pattern was a low voltage, suppressed pattern with intermittent myoclonic jerking.
+Tactile stimulation of the patient was not performed.
+Heart rate:  96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+A discontinuous, overall relatively suppressed pattern.
+Intermittent, slow bursts of delta, there is cerebral activity.
+Post-anoxic myoclonus with primarily a jerking muscle pattern.
+CLINICAL CORRELATION:  This is a worrisome pattern for this EEG recorded at 12:28 p.m. on the 19th, on the day of cardiac arrest.  If clinically indicated, ongoing EEG monitoring may be of value.
+
+
+
+
+

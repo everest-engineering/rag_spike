@@ -1,0 +1,19 @@
+History:	33 Y. O. MAN RIGHT HANDED S/P A MOTORCYCLE ACCIDENT WITH MULTIPLE UPPER AND LOWER EXTREMITY FRACTURES.
+Medications:	MORPHINE.TYLENOL,LOVENOX
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse marked delta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+Continuous high amplitude polymorphic delta activity is present in the right midtemporal region during wakefulness, increasing during drowsiness. Left hemisphere attenuation. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, marked diffuse Attenuation, continuous, marked, left generalized
+Focal slowing, polymorphic, continuous, continuous, right temporal, mid
+Interpretation:
+This is an ABNORMAL EEG because of continuous focal slowing in the right midtemporal region. This finding is indicative of a focal structural lesion in this region. In addition, there is continuous attenuation in the left hemisphere region. This finding is indicative of a focal cortical structural lesion in this region.
+Lastly, there is diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. No clinical or electrographic seizures are present.
+.
+
+
+

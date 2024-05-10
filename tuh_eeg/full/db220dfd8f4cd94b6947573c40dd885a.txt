@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 25 year old right handed woman with childhood epilepsy, seizure free since the age of 9 or 10.
+
+MEDICATIONS: None
+
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG. Hyperventilation was performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz alpha rhythm with a small amount of low voltage frontocentral beta activity. Hyperventilation is performed early on in the record which produces head rocking artifact. Features of drowsiness include rhythmic theta in the background.
+
+IMPRESSION: Normal EEG.
+
+CLINICAL CORRELATION: No focal nor epileptiform features are identified. Hypnagogic hypersynchrony is a normal phenomenon. If this individual is thought to have subtle seizures, a more prolonged study or sleep deprived study may be helpful looking for a generalized spike and wave activity.
+
+
+

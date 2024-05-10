@@ -1,0 +1,32 @@
+History:	PRIOR EEG 65 YO PT WITH CHILDHOOD EPILEPSY AFTER MENINGITIS. PT
+CLAIMS TO HAVE 2 - 3 SZ A MONTH WITH LOC, CONTINENCE LASTING 15 MIN
+. PT WANTS TO SLEEP AFTER REACHING BASELINE.
+Medications:	TEGRETOL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Very frequent polymorphic delta activity is present in the bilateral mid and anterior temporal
+regions.  Right anterior temporal intermittent rhythmic activity (TIRDA) is noted  Very frequent focal
+sharp waves are present in the bilateral anterior temporal region, with phase reversal and amplitude
+maximum at F7/T3, T3, F8/T4 and T4. The discharges became more prominent and frequent in
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR is
+Summary of Findings:
+Sharp waves, frequent, bilateral temporal
+Focal slowing, polymorphic, frequent, bilateral temporal
+TIRDA (temporal intermittent rhythmic delta activity), intermittent, right temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of frequent epileptiform discharges in the
+bilateral temporal region.  These findings are indicative of a potentially epileptogenic focus in this
+region, and given the clinical history of partial seizures, are consistent with a diagnosis of
+localization-related epilepsy.In addition there is  intermittent focal slowing in the bilateral temporal
+region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+No clinical or electrographic seizures are present.
+

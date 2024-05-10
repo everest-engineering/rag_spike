@@ -1,0 +1,27 @@
+History:	70 YO FEMALE WITH INCREASED WORSENING LEFT SIDE WEAKNESS, AND
+NUMBNESS FOR 2 WEEKS. PT NEVER HAD SYMPTOMS BEFORE. PMHX: HTN,
+CAD, HLD, GERD, DEPRESSION, SEASONAL ALLERGIES, T2OM ?
+Medications:	Heparin, Insulin, ASA, Prozac, Dexamethasone
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 10Hz alpha rhythm, well-formed in left occipital region
+which attenuates with eye opening.  There is hemispheric asymmetry characterized by continuous
+polymorphic delta activity in the right hemisphere (2-2.5Hz in frequency) , most pronounced in
+temporal and parietal regions.  Diffuse beta activity is present, maximal over bilateral frontal
+regions.  No sleep architecture is present during this recording.
+No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric
+Interpretation:
+This is an ABNORMAL awake EEG because of continuous focal slowing in the right hemisphere,
+most pronounced in temporal and parietal regions.  This finding is indicative of a focal structural
+lesion in this region.  No epileptiform discharges are present, but stage 2 sleep was not recorded.  If
+clinically indicated, repeat EEG with sleep recording may provide additional information.  Diffuse
+beta activity could be due to medication effect.
+
+

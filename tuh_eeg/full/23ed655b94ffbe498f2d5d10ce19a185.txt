@@ -1,0 +1,34 @@
+History:	57 YR FEMALE WITH PMHX: CAD, COPD, HTN,  WITH CHANGE IN MS. RIGHT
+EYE GAZE DEVIATION. AROUND 7:30 AM VOCAL BUT CONFUSED BLURRY
+VISION COULD HARDLY SEE FOR 1 WK.  CT ACUTE INF OF POSTERIOR LEFT
+PARIETAL LOBE INTO LEFT PCA  CHRONIC SM VES DS
+Medications:	ASA, LOVENOX, INSULIN, PLAVIX, FAMOTIDINE, MOXIFLOXACIN, INSULIN,
+XANAX, LOPRESSOR
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake
+Description:
+Waking background is characterized by a PDR that at best reaches 7Hz.  Mild excessive diffuse 5-
+15uV, 13-25Hz activity is present.  Frequent 50-75uV, 4-7Hz waves are interspersed throughout the
+recording.  Frontal intermittent rhythmic delta (FIRDA) is seen.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.
+continuous polymorphic delta activity is present in the left parietal at P3 region during wakefulness,
+increasing during drowsiness.  Frequent focal spikes and polyspikes are present in the left parietal
+region, with phase reversal and amplitude maximum at P3.  At times these become very rhythmic
+but reveal no clear evolution.
+Hyperventilation and photic stimulation are not performed.  HR was 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left parietal
+Spikes, intermittent, left parietal, with polyspikes and at times rhythmic
+Diffuse slowing, polymorphic
+FIRDA (frontal intermittent rhythmic delta activity)
+Interpretation:
+This is an ABNORMAL awake EEG because of continuous focal slowing and frequent rhythmic
+spikes in the left parietal region.  This findings are indicative of a focal structural lesion with a
+potentially epileptogenic focus.  Please note that the spikes become rhythmic at times but do not
+clearly evolve. If  there is clinical concern for subclinical seizures a prolonged 24 EEG should be
+performed.  In addition there is mild to moderate diffuse background slowing.  These findings are
+etiologically nonspecific indicators of mild to moderate diffuse cerebral dysfunction.
+
+

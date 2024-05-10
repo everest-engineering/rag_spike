@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 61-year-old male with traumatic brain injury, failure to thrive, status post PEG and trach.  The patient now awake and alert after multiple seizures.
+MEDICATIONS:  Keppra, Trileptal.  Others, metoprolol.
+INTRODUCTION:  A 20 minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is quite fragile, but awake.  He is responsive to questions.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The right hemisphere is low voltage and relatively featureless.  The left hemisphere is remarkable for a craniotomy defect, but also periodic, high amplitude delta activity with a left central parietal spike and wave complex.  The spike and wave complex is periodic in nature and has the periodicity of about 8 per 10 seconds.  There is a small amount of waxing and waning of the epileptiform discharge, but no clear ictal pattern.  Stimulation of the patient produces an increase in theta in the left hemisphere as well as eye movement.
+Heart rate:  80 bpm.
+IMPRESSION:  Markedly abnormal EEG due to:
+A continuous periodic discharge, which includes a spike as well as periodic delta from the left hemisphere, maximum in the central parietal region.
+Markedly slow and suppressed pattern from the right with volume conduction of the epileptiform discharge on the left to the right.
+CLINICAL CORRELATION:  The patient seems to be awake and interactive despite the discharge described above.  In addition, stimulation of the patient clearly produces an alerting response on top of the periodic complex.  The discharge described above may be a chronic finding or a post-ictal finding, but does not appear to be to be a true seizure.   Ongoing vigilance is suggested. No clinical seizures noted at this time.
+
+
+
+
+

@@ -1,0 +1,8 @@
+CLINICAL HISTORY: 42 year old right handed woman with migraine headaches, remote history of nocturnal seizures, and a previous MVA. Unclear historian today.
+MEDICATIONS: Megestive (?), Levetiracetam, Temazepam, Valium, Benadryl, Hydrocodone
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10 Hz 50 mcV posterior dominant rhythm with a generous amount of low voltage, frontocentral beta activity. Drowsiness is characterized by an increase in beta and an increase in theta as well as disappearance of the alpha rhythm. Hyperventilation does not activate the record but photic stimulation does elicit a driving response.
+HR: 104 bpm
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No epileptiform features were observed. The generous beta described above may be due to this patient's medications. The rapid heart rate could be due to anxiety but may be evaluated clinically.
+

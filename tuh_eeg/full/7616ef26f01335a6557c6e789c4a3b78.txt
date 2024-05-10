@@ -1,0 +1,35 @@
+History:	35 year old man status post cardiac arrest and hypoglycemia.
+Medications:	VERSED, Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 04/23/2015 till 04/24/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  With stimulation, the background voltages increase and a mixture
+of polymorphic moderate amplitude theta and delta activity with underriding low amplitude fast
+activity appears.  Periods of quiescence are characterized by large amount of low-to-moderate
+amplitude fast activity admixed with bursts of theta-delta activity.  In the second half of the
+recording, sleep spindles and vertex waves appear.  There is persistent subtle paucity of faster
+No clear electrographic seizures are present.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate, continues to improve
+Sleep spindles, present by the end of the recording
+Focal slowing, polymorphic, continuous, right hemispheric
+Interpretation:
+This is an ABNORMAL ~24 hour continuous video EEG due to moderate diffuse slowing and
+continuous subtle focal right hemispheric slowing. There is focal cerebral dysfunction over the right,
+possibly post-ictal in etiology since it continues to improve.  Diffuse slowing is a  nonspecific
+indicator of moderate diffuse cerebral dysfunction.  Presence of normal sleep architecture indicates
+a favorable prognosis in terms of meaningful neurological recovery.  These findings were conveyed
+
+
+
+
+

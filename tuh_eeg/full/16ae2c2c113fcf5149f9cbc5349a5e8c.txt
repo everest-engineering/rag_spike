@@ -1,0 +1,33 @@
+History:	53 YR MALE WITH A HX OF POST-TRAUMATIC EPILEPSY. ADMITTED FOR
+RECENT SEIZURE ACTIVITY.
+SZ RIGHT EYE GAZE, RIGHT ARM EXTENSION.
+Medications:	Dilantin, Phenobarb
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Excess beta 5-15uV, 18-25Hz activity is present diffusely.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous rhythmic delta activity is present in the right hemisphere maximal in the mid-temporal
+region. There is also associated loss of faster frequencies in this region.  Intermittent polymorphic
+delta activity is present in the left midtemporal region.  No epileptiform discharges are present.  No
+clinical or electrographic seizures were present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 108
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, right hemispheric, maximal mid-temporal, with
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Excessive fast
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+right hemisphere maximal in the mid-temporal region with associated loss of faster frequencies.
+This finding is indicative of a focal structural lesion in this region involving gray matter. In addition
+there is  intermittent focal slowing in the left midtemporal region.  This finding is indicative of focal
+cerebral dysfunction, which is etiologically non-specific.  Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+

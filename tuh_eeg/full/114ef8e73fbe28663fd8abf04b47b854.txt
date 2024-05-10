@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  An 82-year-old male with an episode of loss of consciousness with shaking, found by a nurse twice today.  Likely seizure versus stroke, COPD, hypertension, lung nodule, possible brain mets.
+MEDICATIONS:  Morphine and Keppra.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  This is a somewhat technically challenging EEG with a fair amount of muscle and movement artifact.  Despite this, 6 hertz posterior dominant rhythm is identified and this is accompanied by a more of a pattern of diffuse background theta.  With eye opening and eye closure, there is attenuation of the alpha rhythm.  The patient is having difficulty with his dentures and demonstrates some involuntary movements to left or right without change in the EEG.  In drowsiness, ongoing clench artifact was noted.  The patient seems to be snoring when nearly awake.
+Photic stimulation did not significantly activate the record.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to
+generalized background slowing.
+CLINICAL CORRELATION:  This is technically challenging EEG.  No significant focal or epileptiform features were noted.  If epilepsy is an important consideration, a followup test may be obtained, but overall, this EEG supports a diffuse disturbance of cerebral function, which may be related to medications, or other underlying chronic or acute CNS disturbance.
+
+
+

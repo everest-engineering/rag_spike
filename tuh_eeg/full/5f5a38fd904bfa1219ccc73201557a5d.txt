@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 19-year-old, right-handed woman with infantile cerebral tumor, epilepsy since age 3, seizure on May 9, 2014.
+MEDICATIONS:  Dexmethylphenidate, Remeron, Benadryl, Vimpat, Depakote, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  The patient had difficulty cooperating with the test and her caregiver had limited language competency.
+This was a technically challenging record.
+DESCRIPTION OF THE RECORD:  In wakefulness, a 9 Hz posterior dominant rhythm is identified on the right.  It is more difficult to identify on the left and the left has slower, 5 Hz activity in the occipital region.  Frequent eye blink artifact was noted in wakefulness.
+Hyperventilation accentuates the asymmetry between the 2 hemispheres by increasing the amplitude of the alpha rhythm on the right with the absence of a well-defined alpha on the left.  Photic stimulation elicited in asymmetric driving response, better developed on the right in comparison to the left.
+Drowsiness was achieved at the end of the EEG with an increase in theta bilaterally.
+Frontal eye movement artifacts were noted, which were sharply contoured, but there were no definitive frontal sharp waves.
+Heart rate 84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal features in the left hemisphere including disruption of the alpha rhythm and rhythmic theta within the left hemisphere.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted, but this individual had difficulty getting comfortable.  A more prolonged record capturing sleep may be helpful in search of frontal sharp waves.
+
+
+

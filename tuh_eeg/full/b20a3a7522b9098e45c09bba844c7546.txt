@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 24-year-old male status post MVA September 18.  Patient became unresponsive at the scene, pulseless, required CPR.  Now intubated, unresponsive, with left femur deformity.
+MEDICATIONS:  Keppra, Protonix, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically satisfactory EEG with impedances below 5 kiloohms.  The patient is intubated and unresponsive.  EEG duration greater than 20 minutes.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, relatively featureless with slow delta.  Using sensitivity of 3 microvolts per millimeter, a low voltage pattern with fast activity and eye movements was identified.  Tactile stimulation of the patient did not significantly activate the record.  There was little in the way of variability in the record aside from the eye movements.  Heart rate 90 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Replacement of normal background with a low voltage, slow featureless pattern.
+Paucity of reactivity and variability.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this EEG.  This EEG supports a severe disturbance of cerebral function.  Clinical factors to consider include the use of sedative hypnotic medications in the last 24 hours.  If indicated, a follow-up study may be helpful to evaluate cerebral function.
+
+
+

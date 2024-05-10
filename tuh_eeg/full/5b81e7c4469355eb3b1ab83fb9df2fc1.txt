@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 57 year old woman found unresponsive with demonstration of a severe intracerebral hemorrhage with midline shift and generalized brain edema.
+MEDICATIONS: Norepinephrine, Vasopressin, Phenylephrine.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The ECS montage was employed in obtaining these records. In addition, the entirety of the system is checked; the sensitivity used during this study is a sensitivity of 2. The patient was not hypothermic during the acquisition of the record.
+DESCRIPTION OF THE RECORD: The background EEG using the ECS montage demonstrates no electrical cerebral function. During the acquisition of the record the patient is examined. Stimulation does not activate the record. There are some sporadic EKG artifacts due to the increased sensitivity used for the acquisition of this study.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. The record demonstrated absence of electrical cerebral activity.
+
+CLINICAL CORRELATION: This EEG may as used for the primary team in determination as brain death.
+
+
+

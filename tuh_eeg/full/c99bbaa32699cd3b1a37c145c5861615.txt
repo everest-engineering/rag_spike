@@ -1,0 +1,29 @@
+
+
+History:	19 yr male with episodes of heart palpitations, exhaustion and confusion x 30 sec.
+Medications:	Concerta, Strattera, Lamictal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, hyperventilation, photic
+
+
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Patient remains awake throughout the entire study.
+
+Continuous polymorphic theta activity at higher voltages is present in the right posterior quadrant. No epileptiform discharges are present.
+
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild generalized slowing. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at all flash rates. A single EKG lead demonstrates heart rate of 100-120 bpm.
+
+Summary of Findings:
+No stage 2 sleep
+Focal slowing, polymorphic, continuous, mild, right posterior No epileptiform discharges
+
+Interpretation:
+This is an ABNORMAL awake-only 23-minute EEG due to continuous mild right posterior quadrant focal slowing. Continuous focal slowing is indicative of a focal structural lesion in this region. No epileptiform discharges are present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. A single EKG lead demonstrates heart rate of 100-120 bpm.
+
+
+
+
+
+.
+

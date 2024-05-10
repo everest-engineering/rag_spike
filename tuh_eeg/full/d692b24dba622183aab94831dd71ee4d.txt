@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 36-year-old male with epilepsy, seizure-free for the last 1-2 years.
+MEDICATIONS:  Keppra, thyroid medicine.
+INTRODUCTION:  1 hour digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically satisfactory 1-hour EEG with most impedances less than 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz, 30 microvolt posterior dominant rhythm and a small amount of low voltage, frontocentral beta.  In drowsiness, rhythmic temporal theta was noted.  Extended sleep was attempted.  The patient was noted to have snore artifact, and POSTs but sustained stage II sleep with vertex waves, K complexes, and spindles was not achieved.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited bilateral driving.
+Heart rate 72 bpm.
+IMPRESSION:  Normal 1-hour EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  This is the 2nd normal EEG for this patient who has been seizure-free for 1-2 years.
+
+
+

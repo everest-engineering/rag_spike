@@ -1,0 +1,28 @@
+History:	62 YR OLD FEMALE PRESENTS WITH H/O NEW ONSET SZ IN SEPT 2015. S/P
+RESECTION OF LT MENINGIOMA ON 12/2/15 . NOW WITH APHASIA.
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  There is an asymmetry of beta with increase activity on
+the left and higher amplitude.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 84
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left temporal, anterior
+Breach artifact, continuous, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+left anterior temporal region and breach artifact.  This finding is indicative of a focal structural
+lesion in this region and consistent with the known meningioma and surgery.
+
+
+
+

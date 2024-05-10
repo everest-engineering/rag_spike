@@ -1,0 +1,32 @@
+AGE: 69 y.o.
+SEX: male
+DATE OF STUDY: 10/08/2015 RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and drowsy EEG #: 15-1486
+HISTORY:
+a 69 y.o. male with a history of bipolar disease referred for routine EEG for recurrent falls, episodes of confusion, nursing home resident.
+MEDICATIONS: PAROXETINE,TERAZOSIN,TRILEPTAL,HYDROXYZINE,ZYPREXA
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is some what disorganized and slightly symmetric, but reactive, and consists of a mixture of theta with alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.	Wakefulness is characterized by a symmetric and reactive 7.8 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Modest generalized slowing is present.	Intermittent left focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+A single well defined left temporal sharp wave & rare subtle left temporal sharp waves were seen.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces focal slowing in the left hemisphere
+Photic Stimulation: does not activate the record EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 90 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an	abnormal Awake and drowsy	routine EEG.
+1. Left temporal focal slowing
+CLINICAL CORRELATION:
+This abnormal routine EEG supports a structural process on the left. There is only one well defined sharp wave with associated slow wave, which must therefore be considered potentially an artifact. The sharp wave is ipsilateral to the focal slowing
+
+
+
+

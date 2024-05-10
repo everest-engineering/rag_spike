@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 73-year-old male with a seizure January 7th.  He was found to have generalized tonic-clonic shaking and postictal confusion.  Previous episodes with shaking and confusion.  Alzheimer disease, alcohol abuse, heart surgery, aggressive behavior.
+MEDICATIONS:  Aricept and Haldol
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation was performed.  Hyperventilation was not.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.5 Hz alpha rhythm.  The overall EEG is relatively low voltage.  The patient transitions in and out of a drowsy state and as he does so, there are occasional bursts of shifting slowing followed by a pattern with rhythmic slowing.  Rare FIRDA is noted as the patient becomes drowsy.  Sleep was not sustained.
+Photic stimulation elicited driving and supraharmonic driving.
+Heart rate 42 BPM.
+IMPRESSION:  This is a very mildly abnormal EEG for an adult of this age due to a bit more shifting slowing in drowsiness than is otherwise accepted.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The mild shifting slowing is a nonspecific finding in an adult of this age and can be related to the patient's cognitive impairment or other age-related factors.  In this individual with multiple episodes which may be seizures, a repeat EEG or even more prolonged EEG recording may be of value.
+
+
+

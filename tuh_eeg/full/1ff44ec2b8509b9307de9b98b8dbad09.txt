@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 62 year old male with epilepsy partialis continua, characterized by ongoing twitching of the left hand. NMS, Hepatitis cirrhosis
+MEDICATIONS: Ativan, Seroquel, Keppra, Phenobarbital
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:
+Day #1: March 23 through March 24, 2011: The patient is moving about quite a bit. The overall background is relatively low voltage and slow. Using an average reference, a period complex can be identified in the occipital regions much more so from the right than from the left in the right posterior quadrant but with some volume conduction to the left. The accompanying background EEG includes some fast activity and some low voltage theta. The patient is frequently awake moving about. He appears to have been intubated prior to the baseline EEG. As the record continues in the first day, the patient is awake and relatively interactive. This triangularly shaped sharp wave in the right posterior quadrant persists and is sometimes picked up on the left. It is best seen in the averaged reference and it continues to have somewhat of a phase reversal on the right central parietal region. Review of this discharge in other montages really highlights its electronegativity in the most posterior regions.
+HR: 130 bpm
+Day #2 - March 26 through March 27. 2011: This section of the record continues to demonstrate a slow pattern with a right occipital, periodic sharp wave. The periodic sharp activity is lower voltage. The EEG continues to demonstrate attenuation in the background. By the late night of the 26th, the EEG demonstrates a much more attenuated periodic complex. In the overnight recording, the complex is seen again but no longer evolves. There are some aspects with problematic electrode but by and large the epileptiform activity when present can be identified.
+The EEG concludes on the afternoon of the 27th and despite some artifacts it is still possible to see some of the activity. Unfortunately the P4 electrode has been lost. It is possible to identify the periodic complex in the right occipital region, although it is much improved.
+HR: 130bpm
+IMPRESSION: This continuous video EEG monitoring sessions is remarkable for a PLEDS Plus right pathology in the right occipital region which clearly improves over the 48 hour EEG monitoring. It is still present at the end of the record but it is much lower voltage and is no longer evolving.
+CLINICAL CORRELATION: This EEG is diagnostic of a focal mechanism for seizures.
+
+
+

@@ -1,0 +1,36 @@
+AGE: 95 y.o.
+SEX: female
+DATE OF STUDY: 12/29/2015
+RECORDING ENVIRONMENT : ED
+EEG TYPE: 20-40 min, awake only EEG #: 15-1871
+HISTORY:
+95 y.o. female who presented with right sided twitching and aphasia, then obtundation . She is referred for routine EEG for evaluation of this episode and for mental status change.
+MEDICATIONS: None listed
+SEDATION : None listed TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically difficult study, with diffuse muscle artifact obscuring both temporal chains. The study included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is continuous, symmetric, reactive, and has fair organization , consisting of predominantly alpha frequencies with admixed theta and delta.	There is a posterior dominant rhythm of 8 Hz. The patient is noted by the technician to follow simple commands .
+Drowsiness and sleep are not captured.
+Mild generalized slowing is present.
+There are very frequent 1-2-second bursts of sharply contoured theta frequency activity over the left hemisphere.
+There are very frequent 2-second bursts of delta activity over the left fronto-temporal region. Occasionally this delta activity is rhythmic at 1 Hz for <3 sec periods (TIRDA-like, or temporal intermittent rhythmic delta activity).
+EPILEPTIFORM ACTIVITY:
+There is no definite epileptiform activity. Delta activity noted over the left fronto-temporal regions appears rhythmic at times, but does not meet persist for long enough to meet criteria for TIRDA (temporal intermittent rhythmic delta activity)
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+An irregular heart rate in the 80s-90s is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake only routine EEG due to:
+Mild generalized slowing and suboptimal organization
+Very frequent 1-2-second bursts of sharply contoured theta frequency activity over the left hemisphere.
+Very frequent 2-second bursts of delta activity over the left fronto-temporal region that is occasionally rhythmic but does not persist long enough to meet criteria for temporal intermittent rhythmic delta activity (TIRDA)
+CLINICAL CORRELATION:
+These findings indicate the presence of left hemisphere and left fronto-temporal dysfunction, superimposed on mild diffuse cerebral dysfunction .
+If clinically indicated, a more prolonged study may be of value to assess for definite epileptogenic discharges.
+
+
+

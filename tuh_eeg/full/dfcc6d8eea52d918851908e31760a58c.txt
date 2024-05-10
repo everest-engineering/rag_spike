@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  77 year old right handed male with TIA, aphasia, stroke and benign brain tumor.
+MEDICATIONS:  Zocor, Metformin, ASA, Diovan, Glipizide, Oxybutynin, Lovastatin, Levetiracetam
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG is relatively low voltage.  There is also an asymmetry.  The left hemisphere has significant 8-8.5 Hz activity but the right hemisphere is a bit lower voltage and it is more difficult to identify an alpha rhythm on the right compared to the left.  Head rocking artifact is noted on the left.  There are occasional bursts of higher amplitude mixed theta delta.  Again, this is a bit more prominent on the left.   Photic stimulation elicits scant driving a bit more so on the left than the right.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Some degree bilateral background slowing,
+Shifting asymmetry.  The activity is a bit lower voltage on the right compared to the left but the left hemisphere on occasion has more arrhythmic frontal delta.
+CLINICAL CORRELATION:  There were no definitive sharp waves noted in this record.  There is a suggestion of a breach rhythm.
+
+
+

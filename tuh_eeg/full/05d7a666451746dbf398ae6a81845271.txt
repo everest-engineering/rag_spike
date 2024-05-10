@@ -1,0 +1,49 @@
+AGE: 67 y.o.
+SEX: male
+DATE OF STUDY: 12/05/2015
+RECORDING ENVIRONMENT: LAB
+EEG TYPE: 20 minutes, STAT 95822,
+EEG #: 17-1769
+HISTORY:
+67 y.o. male with a history of ESRD referred for routine EEG for abrupt decline in MSE.	Cerebral atrophy MEDICATIONS:
+Current Outpatient Prescriptions:
+oxycodone (ROXICODONE) 15 mg immediate release tablet, Take 1 tablet by mouth every 8 hours as needed for Pain.
+pantoprazole (PROTONIX) 40 mg tablet, lisinopril (PRINIVIL,ZESTRIL) 40 mg tablet,
+carvedilol (COREG) 6.25 mg tablet, Take 6.25 mg by mouth 2 times daily (with meals) .
+Darbepoetin Alfa In Polysorbate (DARBEPOETIN ALFA IN POLYSORBATE) 100 mcg/0. 5 mL Syringe, ,Inject 40 mcg as directed once a week. nifedipine (PROCARDIA XL) 60 mg 24 hr tablet, Take 60 mg by mouth daily.
+aspirin (BAYER) 325 mg Tablet tablet, Take 325 mg by mouth daily. clonidine (CATAPRES) 0.2 mg/24 hr, Place 1 patch onto the skin once a week.
+methylcellulose	(ARTIFICIAL TEARS) 1 % ophthalmic solution, Place 1 drop into both eyes as needed.
+topiramate (TOPAMAX) 25 mg tablet, Take 1 tablet by mouth every 8 hours. (not listed in IP list) albuterol (PROAIR HFA) 90 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 4
+hours as needed.
+levothyroxine (SYNTHROID, LEVOTHROID) 150 mcg tablet, Take 1
+tablet by mouth daily.
+gabapentin (NEURONTIN) 100 mg capsule, Take 1 capsule by mouth daily.
+calcium acetate (PHOSLO) 667 mg Capsule, Take 2 capsules by mouth 3 times daily.
+B Complex-Vitamin C-Folic Acid (B COMPLEX-C-FOLIC ACID) 1 mg Capsule, Take 1 capsule by mouth daily.
+Albuterol, Refill, 90 mcg/Actuation Aero, Inhale 2 puffs into the lungs 4 times daily as needed.
+Current facility-administered medications for this visit. Keppra
+Coreg
+SEDATION: none given TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The background is symmetric and consists of a mixture of diffuse theta with some delta.	There is no - alpha nor normal
+anterior-to-posterior gradient.	Wakefulness is not captured. Sleep I drowsiness: the background attenuates briefly
+Marked generalized slowing is present.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY: FIRDA ACTIVATION PROCEDURES:
+Photic Stimulation: no driving was elicited EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 96 bpm is captured on a single EKG lead.Irregular IMPRESSION:
+l.Markedly slow
+Intermittently attenuates.
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+Most supportive a diffuse process such as toxic or metabolic encephalopathy.
+Somnolent patient.
+This EEG does not support or refute the diagnosis of epilepsy.
+
+
+

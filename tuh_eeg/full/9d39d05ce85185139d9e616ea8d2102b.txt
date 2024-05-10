@@ -1,0 +1,27 @@
+History:	50yo M with refractory localization-related epilepsy due to right mesial temporal
+sclerosis. Here for WADA testing.
+Medications:	ZONISAMIDE, PHENOBARBITAL
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  As drowsiness progresses, symmetric vertex waves appear.
+First injection on the right carotid was at 11:14AM which produced a nice focal slowing over the
+right hemisphere with minimal slowing seen on the left hemisphere.  Second injection on the left
+carotid was at 11:51AM which produced a nice focal slowing over the left hemisphere with minimal
+slowing seen on the right hemisphere.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 66.
+Summary of Findings:
+No epileptiform discharges
+No electrographic seizures
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep with normal changes during a WADA.
+
+
+
+
+
+

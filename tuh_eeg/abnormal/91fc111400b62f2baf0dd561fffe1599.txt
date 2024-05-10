@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  76 year old right handed woman with episodes of dizziness, weakness, and full body shaking while standing.  Heart failure, defibrillator.
+MEDICATIONS:  Allopurinol, Plavix, Isosorbide, Carvedilol, Omeprazole, Metolazone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm.  There is a small amount of focal slowing, primarily with theta or delta, a little bit more in the left temporal region than the right.  These features are a bit more prominent as the patient drifts off to sleep.  Vertex waves are observed in sleep.  Photic stimulation elicits brief bilateral driving.
+HR:    70 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Right or left temporal arrhythmic delta, left greater than right.
+CLINICAL CORRELATION:  In an adult of this age, these are nonspecific findings.  They can be seen in underlying cerebral disorder or even in underlying cerebrovascular disease.
+
+
+

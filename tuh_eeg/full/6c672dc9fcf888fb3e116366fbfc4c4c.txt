@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 62 year old male with new onset status epilepticus, now intubated but responsive.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated but moving about.
+DESCRIPTION OF THE RECORD: The overall pattern includes a theta frequency pattern. Lambda waves are noted when the patient is looking about. Eye movement and other artifacts are noted in the background.
+HR: 126 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with this beta frequency pattern.
+CLINICAL CORRELATION: There were no focal nor epileptiform features noted. Movement artifact may have obscured focal features. A follow up study when the patient is extubated may be helpful to search for focal and/or epileptiform activity.
+
+
+
+

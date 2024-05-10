@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  36 year old woman with seizures characterized by whistling sound, followed by loss of consciousness and incontinence.  Multiple medical problems.
+MEDICATIONS:  Keppra, Topamax
+INTRODUCTION:  Digital video 1 hour sleep-deprived EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This EEG captures wakefulness and stage II sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a symmetric reactive 50 mV posterior dominant rhythm.  Mu activity is noted. In sleep there are vertex waves, K-complexes, spindles, and POSTS.  There is some occasional head rocking artifact noted in sleep.  There are a handful of bursts as if the patient is about to transition into stage II sleep.  In some sections of the record there is muscle artifact that persists into sleep.  There is also some muscle twitch artifact noted in the right frontal electrodes.
+Hyperventilation produces an increase in slowing in the background.  Spontaneous arousals are noted in and out of stage II sleep. Photic stimulation elicits scant driving.
+HR:    60-90 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were noted.  This EEG was remarkable for some facial twitching and some muscle twitching, but no epileptiform activity was noted.  The technologist was noted to perform cognitive testing with the
+patient, although reviewing the video it does not appear that the patient had clinical symptoms aside from falling asleep.
+
+
+

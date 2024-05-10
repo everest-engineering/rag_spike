@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  60 year old right handed woman with renal failure, hypertension, asthma, and severe arthritis.  The patient presented the previous day with an episode of visual hallucinations, hypersomnolence, small pupils, optic apraxia.  Evaluate for top of the basilar syndrome.  History of right frontal gliosis.
+MEDICATIONS:  Singular, Clonidine, Zofran, Oxycodone, Cozaar
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background includes a low voltage, but 10 Hz alpha rhythm. Drowsiness is characterized by slowing of the alpha rhythm to 7.5 Hz, followed by rhythmic central theta.  Generous beta is noticed as the patient drifts in and out and of stage I sleep.  Photic stimulation elicits a driving response, as well as some artifact.
+HR:    60 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

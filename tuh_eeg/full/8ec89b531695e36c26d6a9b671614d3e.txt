@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  74 year old woman with throat cancer, breast cancer, new episode with headaches, followed by generalized shaking and unresponsiveness.  CT scan demonstrated chronic infarcts.
+MEDICATIONS:  Keppra, Celexa, Plavix, Metoprolol, Lipitor, Levothroid
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm, sometimes somewhat slower.  There are intermittent bursts of arrhythmic delta activity, particularly in the posterior temporal regions, somewhat more remarkable on the right than the left.  Some of these are sharply contoured. As the patient becomes drowsy, there is an increase in background slowing and the arrhythmic delta is a little bit more prominent.  There are problems with the T3 electrode throughout the EEG. Photic stimulation does not significantly activate the record.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent background disorganization.
+Bursts of irregular slowing in the bilateral posterior temporal regions, right greater than left.
+CLINICAL CORRELATION:  Although the focal slowing was sharply contoured, there were no sharp waves or spikes.  If seizures are an important considerations, a repeat study capturing deeper stages of sleep may be considered.
+
+
+

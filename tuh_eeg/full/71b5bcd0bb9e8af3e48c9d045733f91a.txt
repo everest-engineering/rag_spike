@@ -1,0 +1,27 @@
+History:	54 yo woman with h/o narcolepsy diagnosed over 10 years ago and reports hx of
+seizures but has not had one in years. PMH DVTs.
+Medications:	Adderall
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-50uV alpha rhythm reaching 11Hz, which attenuates
+symmetrically with eye opening.  Generous predominately frontocentral beta activity is present.
+Wicket activity is noted.  As drowsiness progresses, the alpha rhythm becomes intermittent, diffuse
+theta activity appears, POSTS and symmetric vertex waves appear.  No stage 2 sleep is recorded.
+Intermittent delta activity is present in the left anterior temporal region during wakefulness,
+increasing during drowsiness and hyperventilation.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left anterior temporal region.  Stepped photic stimulation from 1-21 flashes per
+second (fps) induces a strong symmetric photic driving response.  HR is 90.
+Summary of Findings:
+Interpretation:
+This is a mildly ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the
+left anterior temporal region. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.  No epileptiform discharges are present, but stage 2 sleep was not
+recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional
+information.  
+
+
+

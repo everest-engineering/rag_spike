@@ -1,0 +1,35 @@
+History:	49 YR MALE WITH PMHX OF CHRONIC STATIC ENCEPH AND SZS.  FOLLOW UP
+EEG.  PER MOM LAST  SZ 1 WK AGO.  INCREASE IN SZS WITH SWITCH OF
+MEDS FROM BRAND TO GENERIC KEPPRA
+Medications:	KEPPRA, PHENOBARBITAL, CITRACAL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+appear diffusely, followed by symmetric vertex waves.
+Intermittent delta activity is present in the left temporal region during wakefulness, increasing
+during drowsiness.  Occasional focal sharp waves are present in the right temporal region, with
+phase reversal and amplitude maximum at F8.  There are occasional bursts of bifrontal spike and
+slow wave discharges greater on the right side with a frequency of 3-4 Hz lasting 1-2 seconds with
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce any effect.  HR is 55-60 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, left temporal
+Sharp waves, occasional, right temporal
+Spike-and-wave complexes, intermittent, bilateral (R>L) frontal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left
+temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-
+specific.  bifrontal spike-and-wave discharges, which are potentially epileptogenic.  occasional
+sharp wave discharges in the right temporal region.  These findings are indicative of a potentially
+epileptogenic focus in this region  These findings are most supportive of a diagnosis of localization-
+related epilepsy.  Clinical correlation is recommended.
+
+
+
+

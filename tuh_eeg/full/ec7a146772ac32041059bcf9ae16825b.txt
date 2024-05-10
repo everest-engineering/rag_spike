@@ -1,0 +1,39 @@
+AGE : 87 y.o.
+SEX: female
+DATE OF STUDY: 10/12/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake only EEG #: 15-1501
+HISTORY :
+87 y.o. Female with a history of Parkinson's disease and COPD referred for routine EEG after 3 episodes of loss of consciousness with right facial drooping, and eye closure (there is no accompanying incontinence or tongue biting).
+MEDICATIONS : carbidopa SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies with occasional admixed delta, with a symmetric and reactive 8.5-9 Hertz posterior dominant rhythm (PDR) . The normal
+anterior-to-posterior gradient of frequency and amplitude is present.
+Drowsiness and sleep are not captured.
+There is mild generalized slowing.
+There is frequent left temporal polymorphic slowing, and occasional both synchronous and independent right temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake only routine EEG due to:
+Mild generalized slowing
+Frequent left temporal polymorphic slowing
+Occasional right temporal polymorphic slowing, which is at times synchronous with and other times independent of the left temporal slowing
+CLINICAL CORRELATION:
+These findings are etiologically nonspecific indicators of bitemporal (left > right) cerebral dysfunction superimposed on mild diffuse cerebral dysfunction.
+No epileptiform discharges were present, but stage 2 sleep was not recorded.	If clinically indicated, repeat EEG with sleep recording may provide additional information.
+
+
+
+

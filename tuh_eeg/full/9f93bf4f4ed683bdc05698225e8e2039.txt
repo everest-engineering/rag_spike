@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 59 year old right handed male with end-stage renal disease, dialysis and an episode of right leg numbness, vomiting and dizziness one day prior to this EEG.
+MEDICATIONS: Metoprolol, Bumex, Insulin, Allopurinol, Zocor, Zitre (?)
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic simulation was completed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8-8.3 Hz alpha rhythm a small amount of background theta. Features of drowsiness include slow rolling eye movements and slowing of the background. Vertex waves and spindles are observed In stage II sleep. Photic stimulation does not produce driving. The patient falls asleep during photic stimulation.
+HR: 96bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Mild background slowing.
+CLINICAL CORRELATION: The slowing described above is nonspecific and may be due to this patient's metabolic problems. No epileptiform features Were noted in this study.
+

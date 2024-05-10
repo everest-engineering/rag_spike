@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 61-year-old woman with CPA angle lesion, history of seizures; EEG monitoring requested.
+MEDICATIONS: Unknown.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. There is no clinical history provided.  The patient remains intubated. There are no notes in the event list to indicate that any individual caring for this patient thought that the patient was experiencing seizures.
+DESCRIPTION OF THE RECORD: The initial portions of the record demonstrate ongoing spike and slow wave activity, poly spike and slow wave activity from the right hemisphere, maximum in the temporal regions and an overall low voltage and suppressed pattern.  By 17:57, electrode integrity is compromised. By 1800 hours, the epileptiform activity is lower voltage and less prominent, however, the overall quality of the EEG has deteriorated substantially.
+HR:  108 BPM.
+IMPRESSION: Abnormal 48-hour bedside EEG monitoring due to:
+Ongoing spike and slow wave, poly spike and slow wave activity, PLEDS, and rhythmic, evolving epileptiform activity from the right hemisphere maximum in the right temporal region.
+CLINICAL CORRELATION: While this activity appears to have decreased in the second 24 hours, the quality of the electrodes may provide false information.  This tracing is supportive of an ongoing epileptiform process including a late status epilepticus.
+
+
+
+

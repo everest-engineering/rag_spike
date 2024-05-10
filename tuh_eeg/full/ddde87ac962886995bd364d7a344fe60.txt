@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 54 year old right handed woman, admitted on the 4th with a diagnosis of nonconvulsive status epilepticus, persistently drowsy, now awaiting right carotid endarterectomy.
+MEDICATIONS: Keppra, Folate Acid, Percocet, Ativan, Cipro, Lorazepam
+INTRODUCTION: Digital video EEG was performed in lab using standard 1 0-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: In maximal wakefulness the background is well-organized with an 11 Hz alpha rhythm. This bedside recording includes significant electrode artifacts including T2 more than T3. In relaxed wakefulness the background EEG becomes disorganized a bit early on with some underlying 7 Hz theta. Despite the artifact noted in the right, there does appear to be some underlying slowing from the right and, in fact, as she becomes drowsy and theta frequency activity appears, that theta frequency activity is a little slower on the right compared to the left. While there is electrode artifact at T2, there is a bit of sharply contoured slowing in the right central region. Photic stimulation did elicit a brief driving response.
+HR: 104 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Greater than anticipated disorganization for age.
+2. Subtle slowing from the right hemisphere despite the artifacts described above.
+
+
+

@@ -1,0 +1,21 @@
+CLINICAL HISTORY: 77 year old male with status post surgery for abdominal aortic aneurysm, now unresponsive. The time and date of his code are unknown.
+
+MEDICATIONS: Vasopressin, EPI, Amidone, Zocor, Protonix, Ceftriaxone, Versed, Morphine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is intubated but not sedated.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage, continuous EEG. There is prominent background artifact from one of his bedside devices. In this relatively low voltage, somewhat suppressed background there is more delta, theta and even some alpha frequency activity in the frontal regions. Tactile stimulation produces some increase in theta.
+
+HR: 60 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. A pattern of mostly delta and theta.
+
+CLINICAL CORRELATION: These findings are nonspecific and can be seen in the diffuse disturbance of many different causes. No epileptiform features were identified.
+
+
+
+
+
+
+

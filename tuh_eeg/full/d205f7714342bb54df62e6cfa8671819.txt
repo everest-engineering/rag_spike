@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  50-year-old male with past history of stroke and TIA, now with acute left-sided weakness.
+MEDICATIONS:  Protonix, methadone.
+INTRODUCTION:  20-minute digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This is an awake and asleep record in a very drowsy individual.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm.  The patient quickly transitions in and out of stage 2 sleep with vertex waves, K complexes, spindles, and POSTs.
+Heart rate:  58 bpm.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were noted.  Sleep deprivation or other clinical causes could be responsible for the patient's sleepiness.
+
+
+
+

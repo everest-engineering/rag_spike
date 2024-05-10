@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 61-year-old male with alcohol abuse, admitted with change in mental status, right arm tremor, and eye deviation to the left; evaluate for seizures.
+MEDICATIONS:  Metoprolol, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was confused.
+DESCRIPTION OF THE RECORD:  The background EEG includes a fair amount of muscle and movement artifact.  There is a mixed frequency pattern with generous faster frequency activity and some slow activity with a mixture of theta/delta.  There is a great deal of chew artifact noted.  Shifting asymmetries were observed.  Very brief epochs to suggest stage I sleep were noted, followed immediately by spontaneous agitation.
+Heart rate 84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Prominent shifting slowing.
+CLINICAL CORRELATION:  Sleep was not sustained.  There is shifting slowing in the sleep morphologies as well as in the overall background.  These findings may be correlated with imaging.  No epileptiform features were identified, but a toxic or metabolic encephalopathy should be considered.
+
+
+

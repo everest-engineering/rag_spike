@@ -1,0 +1,62 @@
+History:	An UNKNOWN female patient was found down with systolic blood pressure of ~250.
+When the patient was weaned off propofol drip she was observed to have 4 episodes
+of rhythmic right upper extremity shaking followed by secondary generalization.
+Events stopped after administration of 2 mg of Ativan.
+Medications:	Ativan 2 mg, Dilantin, Versed drip
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous EEG monitoring was performed for ~17 hours  from 10/19/2014 till 10/20/2014.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+The Persyst Reveal spike and seizure detection algorithm and AutoLearn neural network were
+utilized to screen the EEG in real time for electrographic seizures and interictal epileptiform
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR, AP gradient or normal sleep architecture captured.  The background changes
+throughout the recording epoch.  Early in the recording, the background consists of bursts to
+suppression pattern with frequent electrographic seizures.  Bursts last ~1-4 seconds with interburst
+interval of ~4-7 seconds.  Bursts consist predominantly of low amplitude polymorphic  fast activity
+anteriorly and moderate to high amplitude irregular sharp waves accompanied by low amplitude
+fast activity (polyspike-like).  Maximal scalp negativity occurs over O1 and O2 electrodes but the
+overall field is broad and  these discharges often appear generalized.  Seizures occur every other
+minute at the beginning of the recording.  With increasing doses od versed, their frequency
+gradually decreases and they stop around 9 pm.  Seizures start suddenly from the suppressed
+background.  Seizures start with the activity that resembles the activity seen within the bursts.  There
+is rapid build up of generalized rhythmic activity, especially over the bilateral occipital regions
+(right>left).  Rhythmicity reaches ~ 3 Hz.  Majority of seizures end abruptly.  However, occasionally
+(example at ~1:45:35 pm),  rhythmic 3 Hz occipitally predominant generalized gradually decreases
+to ~ 1.5 Hz and stops but then low amplitude anterior quadrant  (right>left) rhythmic theta activity
+appears and lasts ~ 5-10 seconds.  This activity is terminated by a burst of  activity seen in bursts
+described above.  By ~ 9 PM, the background is no longer burst suppressed.  It consists of
+generalized occipitally predominant epileptiform discharges (GPEDs) occurring at ~ 0.75 Hz with
+brief periods of background discontinuity between the bursts.  GPEDs are  accompanied by
+generalized polymorphic low amplitude fast activity.  As the recording progresses, they decreased in
+amplitude, increase in frequency up to ~ 1Hz and low amplitude polymorphic theta activity appears
+found between GPEDs is intermittently seen.
+
+At ~ 12:25 AM, there is rapid change in the background characterized by diffuse voltage
+attenuation.  This change corresponds with increase in versed drip dose.  There is progressive
+voltage attenuation and replacement of faster frequencies with very low amplitude polymorphic
+delta activity.  Epileptiform discharges are also not seen by the end of the recording.
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.  Sinus
+tachycardia with heart rate up to 120 bpm is noted on a singe EKG lead.
+Summary of Findings:
+Status epilepticus, appears to be bi-occipital and generalized
+Burst-suppression pattern, early in the recording
+Diffuse slowing, polymorphic, severe, by the end of the recording
+Attenuation, by the end of the recording
+PEDs (periodic epileptiform discharges) generalized, up to ~ 1 Hz, seen by ~ 9 pm and resolve by
+No reactivity
+Interpretation:
+This is a very abnormal 17 hour continuous video EEG monitoring due to burst-suppression, status
+epilepticus, generalized diffuse slowing and generalized epileptiform discharges observed. These
+findings indicate severe diffuse cortical dysfunction and highly irritable cortex, especially over the
+bioccipital region.  Primary team was notified of the findings.
+
+
+
+

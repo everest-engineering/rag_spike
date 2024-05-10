@@ -1,0 +1,17 @@
+EEG REPORT
+CLINICAL HISTORY: 41 year old right handed woman with episodes lasting 10-15 minutes with eyes rolling back in head, head turning to the left, confusion, seizure versus nonepileptic seizure.
+MEDICATIONS: Keppra, Phenytoin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is completed.
+DESCRIPTION OF THE RECORD: As the tracing begins, the background EEG is somewhat abnormal. There is excess theta. There are bursts of slowing. Right frontal temporal sharp waves are noted. There is also some shifting slowing. As the patient becomes drowsy, the asymmetry is a bit more remarkable with focal slowing in the right anterior temporal region and higher amplitude right anterior temporal spike and slow wave complexes. Bursts of sharp waves are noted as the patient transitions into sleep, which are seen first on the right and then on the left. The patient starts to transition into stage sleep. Sharp waves at that point are seen with an unusual field of spread, F8, T4, and then frontal left or right, or with an asymmetry, but with some bilateral representation. Photic stimulation elicits a vigorous driving response.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Abundant epileptiform activity with more than 1 localization.
+2. Right anterior temporal sharp waves.
+3. Sharply contoured delta from the left mid temporal region.
+4. Some bifrontal sharp activity.
+CLINICAL This EEG supports a focal mechanism for epilepsy. The
+background slowing and the focal slowing may be correlated with imaging.
+
+
+
+

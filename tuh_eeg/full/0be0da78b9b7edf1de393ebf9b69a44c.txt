@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 69-year-old male who presented in cardiac arrest on 06/17/2015, down for an unknown duration, but had myoclonic jerks in his legs.
+MEDICATIONS:  Insulin, aspirin, prednisone, cefepime, vancomycin, morphine and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrated somewhat slow record with excess theta.  There are occasional bursts of shifting, slowing, left more so than right.  As the recording continues, the patient is increasingly awake and alert and a well-defined alpha rhythm, ultimately reaching a 0.5 Hz was noted.  The patient demonstrated brief bursts of frontally predominant intermittent rhythmic delta.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG in awake and drowsiness due to:
+Excess background theta.
+Mild background slowing.
+Intermittent focal slowing from the left.
+CLINICAL CORRELATION:  In the context of a patient with an acute cardiac arrest, this is an awake and drowsy record with an overall favorable pattern.  The excess theta and the rare bursts of FIRDA may be correlated with the current clinical picture.  Intermittent left focal slowing was noted, which again may be correlated with clinical picture.
+
+
+

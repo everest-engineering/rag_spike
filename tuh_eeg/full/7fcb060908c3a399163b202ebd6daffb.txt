@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  48 year old right handed male with new onset seizures, May 16.
+MEDICATIONS:  Keppra, Lyrica, Omeprazole
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This seems to be a very drowsy patient.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.3 Hz alpha rhythm.  Mu rhythm is noted in the central region, but testing is not performed to confirm this.  In relaxed wakefulness, even prior to hyperventilation the patient starts to become drowsy with rhythmic theta.  In addition, hypnagogic hypersynchrony is noted, and on rare occasions there is an alerting with a 9 Hz alpha rhythm. Photic stimulation elicits scant driving.
+HR:    90 bpm
+IMPRESSION:  EEG is within normal limits.
+CLINICAL CORRELATION:  When maximally awake, the patient does have a 9 Hz alpha rhythm.  A sleep disturbance, sleep deprivation, or a sleep deprived EEG can all produce the pattern described above.
+
+
+

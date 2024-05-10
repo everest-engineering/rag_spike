@@ -1,0 +1,42 @@
+History:	63 Y/O FEMALE WITH S/P COILING R P COMM,S/P COILING OF LEFT ICA
+ANEURYSM ORDERED EEG BECAUSE OF L SIDED DECREASING
+MOVEMENT.
+P/W HEADACHE, NECK PAIN, NAUSEA AND LIGHT HEADEDNESS. HX HTN, HLD,
+Medications:
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  The delta activity is more prominent over the left hemisphere compared with the right.
+No normal sleep architecture was present.
+There is focal delta activity noted over the left hemisphere.  Rare left fronto-temporal sharp waves
+are identified.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was minimal reactivity to
+auditory, tactile, or painful stimuli.
+Summary of Findings:
+Sharp waves, rare, left frontotemporal
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Focal slowing, polymorphic, intermittent, left hemispheric
+Interpretation:
+This is an ABNORMAL 24 hour video-EEG because of diffuse background slowing and absent
+alpha rhythm, focal left hemispheric slowing, and rare left fronto-temporal sharp waves.  These
+findings are consistent with diffuse structural brain injury and focal left hemispheric brain injury with
+epileptiform potential.  These findings were conveyed to the primary team.
+
+DM2, HYPOTHYROIDISM, DEPRESSION. CT: SUBACUTE BLOOD IN…
+
+
+
+

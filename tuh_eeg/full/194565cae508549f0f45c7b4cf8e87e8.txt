@@ -1,0 +1,31 @@
+History:	83 yr found to have right hemiparesis and aphasia. found to have left mca/cva..   Pt
+more drowsy today.
+Medications:	Valproate, Metoprolol, Tamsulosin, Latanoprost, Cyancobalamin, Simvastatin,
+Plavix, Protonix
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Throughout the record there are intermittent and frequent global changes in the
+background cerebral activity. These consist of a sudden appearance of faster frequency waveforms
+(alpha) bilaterally and muscle artifact in the frontal regions.  Clinically, the patient either does not
+move, or exhibits a cough or swallowing motion during these episodes.  These last approximately
+10-20 seconds and resolve spontaneously. During these episodes, there is focal theta and delta that
+persists over the left hemisphere.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, nearly continuous, bilateral diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+The intermittent episodes of fast activity are not clearly ictal discharges and may reflect
+waxing/waning level of consciousness or an arousal response.  Alternatively, the episodes may
+represent baseline activity interrupted by diffuse slowing as a consequence of increase intracranial
+pressure.  A repeat tracing or more prolonged monitoring may be indicated.
+

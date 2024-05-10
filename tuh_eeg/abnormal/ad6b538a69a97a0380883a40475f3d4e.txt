@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 15 year old right handed female with migraine headaches with blackout spells. Family history of absence or other types of epilepsy. Recurrent blackout spells since age 12 lasting 15 seconds.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Head rocking artifact is picked up at T6. Drowsiness is characterized by anterior spread of the alpha rhythm and then attenuation of the alpha rhythm and is followed by POSTS. Hyperventilation does not significantly activate the record. Photic stimulation does elicit a driving response.
+HR: 66 bpm
+IMPRESSION: Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION: There are no focal nor epileptiform features observed in this record. If epilepsy is an important consideration, a follow-up study in attempt to capture one of her spells may be of value.
+
+
+
+

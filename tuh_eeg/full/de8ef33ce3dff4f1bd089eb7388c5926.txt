@@ -1,0 +1,37 @@
+AGE: 44 y.o.
+SEX: female
+DATE OF STUDY: 12/30/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, drowsy and asleep EEG #: 15-1886
+HISTORY:
+44 y.o. female with a history of eclampsia, leukodystrophy, migraine headache and prior history of seizures referred for routine EEG for stumbling episodes.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+hydrochlorothiazide (HYDRODIURIL) 25 mg tablet, Take 1 tablet by mouth daily.
+naproxen (NAPROSYN) 500 mg tablet, Take 1 tablet by mouth 2 times daily as needed.
+topiramate (TOPAMAX) 50 mg tablet, Take 1 tablet by mouth 2 times daily. Take one in the AM and two at bed
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG HV and photic stimulation . The patient was very drowsy and, was falling asleep during photic stimulation
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9.5 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Age 1 sleep includes prominent vertex waves
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Elicits an increase in amplitude of the background in this otherwise somewhat lower voltage pattern.
+There is also a small increase in background slowing
+Photic Stimulation: Although the patient was drifting into stage II sleep, scant driving was noted
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal drowsy and asleep	routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake and asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.	Previous EEGs are not available at this time for comparison

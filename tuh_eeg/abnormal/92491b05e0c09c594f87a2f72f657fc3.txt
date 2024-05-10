@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 53 year old right handed woman with epilepsy, alcohol abuse and alcohol withdrawal seizures..
+MEDICATIONS:  Keppra, Lovenox.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the patient appears to be jittery with a fair amount of eye movement.  There is a 9 Hz alpha rhythm identified on the left.  It appears to be disrupted on the right.  As the patient transitions to sleep, faster frequency activity drops out on the right before the left and there are rare right central temporal sharp waves observed.  Hyperventilation does not significantly activate the record.  As the recording continues, the patient is awake and quite jittery.  The disrupt alpha on the background is a bit more prominent. Photic stimulation elicits a driving response more prominent on the left than the right.
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Disrupted alpha rhythm on the right.
+Right focal slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Comparison with previous EEGs may be of value.
+
+
+

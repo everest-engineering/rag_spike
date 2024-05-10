@@ -1,0 +1,27 @@
+
+CLINICAL HISTORY:  A 21-year-old right-handed male with a history of febrile seizures, anxiety, strong family history of epilepsy, and a confusional episode while driving.  This is the patient's fourth EEG.
+
+MEDICATIONS:  Lamictal, Remeron, Xanax, doxycycline.
+
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9.7 Hz alpha rhythm with generous background beta.  Drowsiness is characterized by a prominent increase in beta. Deeper stages of sleep are not achieved.
+
+During hyperventilation, there is an increase in background theta.  A single, T5 and another single T6 sharp waves were noted in hyperventilation.
+
+Photic stimulation elicits a driving response, but there seems to be underlying spike outside of the harmonic and super harmonic driving response elicited in the left occipital region.
+
+Heart rate 120 BPM.
+
+IMPRESSION:  This EEG is notable for:
+1. Excess beta.
+2. Left occipital spikes in photic stimulation.
+3. Isolated, right or left posterior temporal sharps in hyperventilation.
+4. Prominent beta and tachycardia.
+
+CLINICAL CORRELATION:  This is one of many EEGs for this individual who has had posterior temporal or parietal epileptiform activity and OIRDA in previous studies.  This EEG has far less epileptiform activity then the previous EEGs.  The generous beta and the tachycardia may be related to this patient's comorbidities.
+
+
+__________________________
+
+

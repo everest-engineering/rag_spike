@@ -1,0 +1,42 @@
+History:	18 year old woman with a history of seizures since 6 years of age.  Seizure
+frequency has recently increased.  Patient's compliance with antiepileptic
+medications is questionable.
+Medications:	Keppra and Lamictal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The posterior dominant rhythm reaches 10 Hz moderate amplitude alpha activity.  The AP gradient
+is unstable.  Excess diffuse admixed 50-75 uV, 4-7Hz activity is present throughout the recording
+and increases during drowsiness.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Continuous polymorphic delta activity is present in the right temporal region during wakefulness,
+increasing during drowsiness.  Less prominent theta and delta activity is noted over the left
+temporal region.  Frequent right anterior temporal moderate-to-high amplitude sharp waves with
+after going slow waves are captured.  Maximal scalp negativity occurs over F8/T4 and F4 electrodes.
+Frequency, amplitude and field of these sharp waves increase during  drowsiness and
+hyperventilation, they become semirhythmic occurring in brief runs with a regular repetition rate of ~
+1.5-2 Hz and low amplitude synchronous sharp waves appear over the left temporal region.  No
+Hyperventilation is performed for 240 seconds with good cooperation.  It produces increase in
+diffuse slowing, accentuates focal slowing in the right temporal region and results in increase in
+frequency of right anterior temporal sharp waves.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, continuous, moderate, right temporal
+Focal slowing, polymorphic, continuous, left temporal, mild-to-moderate
+Sharp waves, frequent, right temporal, anterior, increase in frequency with hyperventilation and
+No stage 2 sleep
+No electrographic seizures
+Interpretation:
+This is a very abnormal 32 minutes awake and drowsy EEG due to mild-to-moderate diffuse
+slowing, continuous moderate right temporal and mild-to-moderate left temporal slowing and
+frequent right anterior temporal epileptiform discharges that increase in periodicity and frequency
+during hyperventilation and drowsiness.  Diffuse slowing is indicative of mild to moderate diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Focal slowing indicates focal cerebral
+dysfunction, possibly structural in etiology.  Continuous focal slowing and frequent epileptiform
+discharges in the right anterior temporal region are indicative of a potentially epileptogenic focal
+structural abnormality and,  in the proper clinical context,  suggest the diagnosis of localization-
+related epilepsy.  No seizures are captured. Electrographic seizures are captured.
+
+

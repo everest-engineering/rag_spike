@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 23-year-old male with epilepsy since age 12. Typically, seizures occur in sleep or during the day with an aura of dizziness.  Postictal confusion.
+FAMILY HISTORY:  Negative.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is a technically satisfactory record, which captured wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm reaching 40 microvolts with subtle underlying posterior slow waves of youth.  Brief drowsiness is characterized by attenuation of alpha rhythm and a little bit of central theta, but deeper stages of sleep were not achieved.
+Hyperventilation did not activate the record.  Photic stimulation elicited scant driving.  Heart rate 72 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a followup study may be of value.
+
+
+

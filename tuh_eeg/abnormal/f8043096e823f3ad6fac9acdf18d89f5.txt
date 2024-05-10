@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 51-year-old man status post TDI with subdural hematoma, tracheostomy, nursing home resident, vegetative state.  No report of seizures.
+MEDICATIONS:  GlucaGen, metoprolol, and others.  No anti-seizure medications listed.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel of EKG.  The patient was recorded on the stretcher.  He was not able to cooperate with testing.  Photic stimulation was completed but hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  Technical:  There is a fair amount of muscle artifact.  The EEG was recorded for 24 minutes in an attempt to reduce the muscle.
+When the patient is not experiencing muscle artifact, the EEG is low voltage and featureless.  There is a suggestion of low voltage alpha frequency activity in the background with some 8 Hz activity.  There is also some low voltage theta.  The patient is not able to cooperate with testing to determine if there is an alpha rhythm.  The overall pattern is more of a low voltage alpha theta pattern of 6-8 Hz.  The patient is spastic and the technologist attempts to reposition the patient to reduce the muscle artifact without success.  Lateral rectus and lateral eye movement artifacts were noted.
+Photic stimulation:  No photic driving response was identified.
+Heart rate:  112 BPM.
+IMPRESSION:  This is an abnormal EEG due to replacement of normal background with a low voltage mixed frequency pattern rich in alpha and theta frequency activity.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In terms of assessing the patient's interactivity with the environment, this EEG was not successful at doing so.  If seizures are an important consideration a more prolonged tracing capture in sleep might be of value.  Alternatively, evoked potentials may play some prognostic role in this clinical scenario.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 23-year-old woman with recurrent syncope.
+MEDICATIONS:  None.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This EEG captures wakefulness through stage 2 sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm.  There is abundant, low voltage, frontal central beta.  Stage 2 sleep includes vertex waves, K complexes, spindles, and posts.
+Photic stimulation elicited vigorous bilateral driving.
+Hyperventilation produces an increase in amplitude of the background.
+Heart rate 50 bpm.
+IMPRESSION:  Normal EEG, bradycardia.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, a repeat tracing may be of value.
+
+
+

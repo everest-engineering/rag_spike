@@ -1,0 +1,23 @@
+History:	58 year old man with a history of HIV now presents with change in mental status.
+Medications:	zosyn, ativan during intubation
+Sedation:	None
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Description:
+There is no PDR, no AP gradient and no reactivity.  The background consists of attenuated slow
+polymorphic delta activity and intermittent eye-blink-like deflections that correlate with brief
+abdominal jerks that are seen on the video.  No normal sleep architecture was present.
+No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was minimal reactivity to
+auditory, tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe
+No reactivity
+Interpretation:
+This is an ABNORMAL 22-minute portable EEG due to severe diffuse background slowing and lack
+of reactivity. These findings are indicative of severe diffuse cerebral dysfunction, which is
+etiologically nonspecific.
+
+
+
+

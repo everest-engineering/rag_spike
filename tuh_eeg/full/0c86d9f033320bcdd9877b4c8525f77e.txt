@@ -1,0 +1,29 @@
+History:	68 year old man with intermittent episodes of expressive aphasia over the last
+several weeks.  Patient was unaware of these events.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic theta and delta activity is present in the left anterior temporal region,
+increasing in frequency during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash frequencies.  HR 78
+Summary of Findings:
+No stage 2 sleep
+Focal slowing, polymorphic, intermittent, left temporal, anterior, mild-to-moderate
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute EEG because of intermittent focal slowing in
+the left anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in etiology.  No epileptiform discharges are
+present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep
+
+
+
+

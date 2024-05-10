@@ -1,0 +1,30 @@
+History:	25 YR OLD MALE  WITH NEW ONSET SZ. ONSET IN FEB X 2, SZ W/LOC AND NO
+RECALL OF EVEN.T PT SEEN HERE AT TUH.
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+As drowsiness progresses, symmetric vertex waves appear.
+Intermittent polymorphic delta activity is present in the temporal regions during wakefulness,
+increasing during drowsiness.  Frequent frontally-maximal, spike-and-wave discharges that could
+represent fragments of generalized spike and wave.  However at times the discharges appear to have
+a slight right hemisphere amplitude predominance and may represent focal discharges with a
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Spikes
+Focal slowing, polymorphic, bilateral (L>R) temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of frequent frontally-maximal, spike-and-
+wave discharges that could represent fragments of generalized spike and wave or focal discharges
+with rapid secondary synchrony. This findings are supportive of a diagnosis of epilepsy.  The
+intermittent temporal slowing supports focal temporal cerebral dysfunction, which is non-specific
+with regards to etiology.  No clinical or electrographic seizures are present.
+
+

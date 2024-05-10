@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 65 year old right handed female with tonic-clonic seizures, following increase in alcohol ingestion.  Previous seizure in August.
+MEDICATIONS:  Norvasc
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation was not performed, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm.  Features of drowsiness include anterior spread of the alpha rhythm.  Photic stimulation elicits scant driving.
+HR:    96 bpm
+IMPRESSION:  Normal EEG with wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow-up study in search of epileptiform activity is suggested.
+
+
+

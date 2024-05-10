@@ -1,0 +1,38 @@
+History:	52 year old man with a history of a liver transplant in 2011 now presents with
+episodes characterized by flushing lights and confusion.  A spot EEG on 1/23/2015
+showed focal status epilepticus.
+Medications:	Vimpat
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~20 hours from 1/24/2015 till 1/25/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+Awake background is characterized by low amplitude 10 Hz alpha activity with preserved AP
+gradient.  Diffuse excess beta activity is present.  During sleep, symmetrical vertex waves and sleep
+spindles are captured.  At least one epoch of REM sleep is present.
+No clear seizures are captured.  However, there is progressive worsening electrode artifact that
+affects especially left hemispheric leads, and O1 especially.  So subtle seizures could have been missed.
+Summary of Findings:
+No electrographic seizures
+Beta, excessive
+Artifact, electrode, progressive and excessive by the end of the recording epoch
+Interpretation:
+This is a NORMAL 20 -hour continuous video EEG. No clear seizures are captured.  However, there
+is progressive worsening electrode artifact that affects especially left hemispheric leads, and left
+occipital lead especially.  So subtle seizures could have been missed.  Excessive beta activity
+could be secondary to the medication effect, such as benzodiazepines or barbiturates.  These
+findings were conveyed to the primary team.
+
+
+
+
+

@@ -1,0 +1,34 @@
+History:	66 year old man with a history of strokes, now presents with unresponsiveness.
+Medications:	LASIX, NEBULIZER, SALINE, METHYLPREDNISOLONE, INSULIN, FENTANYL
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+No posterior dominant rhythm is present.  Background activity is characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Occasional triphasic waveforms with predominance over the occipital region appear
+with stimulation.  They are more prominent over the left.  No normal sleep architecture is present
+but periods of quiescence are captured.
+There is subtle paucity of faster frequencies and voltage attenuation over the right, especially over
+the anterior and middle quadrants.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There is reactivity to, auditory, tactile,
+and noxious stimuli.
+Summary of Findings:
+Triphasic waves, occasional, better seen over the left
+Focal slowing, polymorphic, continuous, right hemispheric, especially over the anterior and
+Diffuse slowing, polymorphic, moderate-to-severe
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL 21-minute portable EEG due to moderate-to-severe diffuse slowing;
+continuous right hemispheric focal slowing (more pronounced over the anterior and middle
+quadrants) and attenuation and occasional triphasic waveforms. Diffuse slowing is indicative of
+moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous
+focal slowing and attenuation are indicative of a focal structural lesion over the right, possibly
+secondary to a fluid collection between brain and a skull (such as subdural hematoma, empyema et
+etc).  Triphasic waves are a nonspecific EEG finding that can be seen in hepatic encephalopathy,
+uremia and anoxia.  No electrographic seizures are present.
+
+
+
+

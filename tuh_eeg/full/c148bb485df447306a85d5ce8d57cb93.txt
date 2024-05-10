@@ -1,0 +1,19 @@
+History:	20 yr old male R handed h/o seizure. pt found down in bathroom seizing for 5 min in bathroom after hearing a thumb parents went to bathroom and found son on floor next to him a needle.
+Medications:	Lamictal, Zonegran, Versed
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 48 hours from 08/20/2014 to 08/22/2014.   Nursing-initiated event buttons were correlated with clinical behavior.    Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description: No posterior dominant rhythm was present.  Background activity was characterized by a burst suppression pattern with absence of the expected anterior to posterior gradient of frequencies.  The burst last 1-2 seconds and consist of 2-4Hz rhythmic bifrontal predominant slow waves. In between the bursts there is complete attenuation of the background.  The burst become shorter and more attenuated over the first 24 hrs. Over the next 24hrs the background progressively becomes almost completely attenuated to the point of electrocerebral inactivity.  No normal sleep architecture was present. No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.
+Summary of Findings:
+Burst-suppression pattern
+Electrocerebral inactivity
+Interpretation:
+This is an ABNORMAL 48hrs EEG because of burst suppression pattern which progresses to diffuse background attenuation and electrocerebral silence.  These findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction which can be seen with hypoxic injury and the electrocerebral silence can be consistent with brain  death.
+
+
+

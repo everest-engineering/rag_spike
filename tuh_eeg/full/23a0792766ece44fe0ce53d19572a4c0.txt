@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 87 year old right handed woman, with hypothyroidism, B12 deficiency, and a change in mental status. Baseline impaired vision, impaired hearing, and incontinence.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD: In maximal wakefulness there is an 8 Hz alpha rhythm. The overall background includes a small amount of beta and theta. There is occasional rhythmic right temporal slowing noted in drowsiness. Photic stimulation elicits minimal driving at 13 Hz.
+HR: 66 bpm
+IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+1. Mild excess beta.
+2. Mild excess theta.
+3. Occasional right temporal slowing.
+CLINICAL CORRELATION: No epileptiform features were seen. In the context of this patient's age and other metabolic problems, these findings are relatively subtle.
+
+
+

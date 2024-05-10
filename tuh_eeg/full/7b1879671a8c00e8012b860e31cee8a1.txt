@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  64 year old woman with end-stage renal disease, status post prolonged PEA Code on 10/31, now poorly responsive, intubated.
+MEDICATIONS:   Fentanyl, Lorazepam
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, featureless pattern.  There is the suggestion of a bit more lower voltage, slow activity in the right hemisphere.  There is muscle artifact.  Stimulation of the patient does not produce a change in the record.
+HR:	90 bpm
+IMPRESSION:   Abnormal EEG due to:
+1. 	Replacement of normal background with a low voltage, slow, relatively featureless pattern.
+2. 	Superimposed right frontocentral delta.
+CLINICAL CORRELATION:  These findings, 48 to 72 hours post cardiac arrest, are worrisome, particularly in light of the prolonged PEA Code.
+
+
+

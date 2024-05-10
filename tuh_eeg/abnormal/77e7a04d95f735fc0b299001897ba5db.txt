@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 74-year-old woman with episodes of lightheadedness and faint-feeling associated with strange smells.  The last such episode was on 07/19/2012.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  Voltages are diffusely very low. The background is symmetric.  There is right-to-left interhemispheric symmetry.  The background consists of very low amplitude diffuse fast activity without clear posterior dominant rhythm.  During hyperventilation bursts of diffuse delta are observed.  Photic stimulation does not result in change in the background.  No normal sleep architecture is captured.  Sinus bradycardia with heart rate of less than 60 beats per minute is captured in a single EKG lead.
+FINDINGS:
+Sinus bradycardia.
+Excess beta.
+No sleep.
+IMPRESSION:  This is a normal awake-only EEG.  No epileptiform discharges are captured, but stage II sleep is not recorded.  If clinical diagnosis for seizures persists, a
+repeat study with sleep may be of benefit.  Sinus bradycardia with heart rate of less than 60 is captured in a single EKG lead.
+
+
+

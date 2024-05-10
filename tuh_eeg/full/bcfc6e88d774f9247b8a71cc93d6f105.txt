@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 55-year-old woman with right temporal pain lasts for 5 minutes, no aura, no postictal headache, diabetes, hypertension.
+MEDICATIONS:  Norvasc, Percocet, Neurontin, Zyrtec, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a routine 20-minute record with hyperventilation, photic stimulation, and impedance under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is symmetric reactive alpha rhythm of 8.5-9 hertz, 30 microvolts.  It is symmetric and reactive to eye opening.  Drowsiness is characterized by a slow rolling eye movements and attenuation of the alpha rhythm.  As the patient becomes drowsy, there is a small amount of shifting slowing.  Other features of drowsiness include an increase in amplitude of the background.
+Hyperventilation produces a small amount of slowing.  Photic stimulation elicited symmetric, bilateral driving.
+Heart rate 80 bpm.
+IMPRESSION:  EEG within normal limits for an adult of this age.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

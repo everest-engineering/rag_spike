@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 68-year-old woman with seizure and then postictal impairment of awareness on November 20th.
+MEDICATIONS:  Dilaudid, metoprolol, vancomycin, and others.
+INTRODUCTION:  A 20-minute digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel EKG.  Patient is poorly cooperative during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow and poorly organized.  With stimulation, the patient alerts with an increase in theta and a glimpse of an alpha rhythm.  When unstimulated, bursts of rhythmic, frontal delta were noted.
+Heart rate, irregular, 104 bpm with frequent PVCs
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Poor organization.
+Frontal irregular rhythmic delta activity.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  The pattern described above is nonspecific, but is typical of a diffuse disturbance of cerebral function as may be seen in a toxic or metabolic encephalopathy.
+
+
+

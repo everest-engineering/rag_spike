@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 41-year-old male who developed ineffective endocarditis after multiple dental extractions and had a brief episode of change in mental status today.
+MEDICATIONS:  Vancomycin, cefuroxime, oxycodone, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel EKG.  This was a patient in isolation.
+TECHNICAL:  There is some muscle artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow.  In wakefulness, there is more of a pattern of rhythmic slowing with an alpha rhythm ranging from 6.5 to 8 Hz.  There are bursts of rhythmic frontal delta and some occasional bursts of shifting asymmetries.  Features of drowsiness including increase in background slowing.  Snore artifact was identified.  Intermittent, paroxysmal bursts was slow, delta were observed.
+Two simple morphology left temporal sharp waves were noted.
+Heart rate 96 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Frontal intermittent rhythmic delta activity (FIRDA).
+Occasional shifting slowing.
+Two simple sharp waves.
+CLINICAL CORRELATION:  This EEG is most supportive of diffuse disturbance of cerebral function such as toxic or metabolic encephalopathy.  There are minor shifting asymmetries and 2 simple sharp waves.  Correlation with imaging is suggested, but there are no prominent epileptiform features noted.
+
+
+

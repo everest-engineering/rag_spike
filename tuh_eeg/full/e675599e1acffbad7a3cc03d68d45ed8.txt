@@ -1,0 +1,26 @@
+History:	33 Y/O MALE R HANDED. PT STATES HE WAS OUT DRINKING BEER AND DID A
+SHOUT OF FIREBALL AND THEN WENT OUTSIDE WHERE HE FAINTED. NO
+Medications:	LEXAPRO
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Rare polymorphic delta activity is present in the bilateral midtemporal region independently during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed with good cooperation, and produces no effect.  Stepped photic
+stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  Heart rate was 66.
+Summary of Findings:
+Focal slowing, polymorphic, rare, bilateral temporal, mid
+Interpretation:
+This is an abnormal awake and drowsy 1 hour EEG because of rare focal slowing in the bilateral
+midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.
+
+
+
+

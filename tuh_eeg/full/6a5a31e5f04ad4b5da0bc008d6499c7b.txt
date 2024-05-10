@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 44-year-old woman with refractory complex partial epilepsy, mesiotemporal sclerosis, patient admitted earlier today with status epilepticus requiring intubation and midazolam drip.
+MEDICATIONS:  Dilantin, Depakote, Ativan, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  During the EEG, the patient was intubated and sedated.
+DESCRIPTION OF THE RECORD:  The background begins with a sedated patient with a low-voltage beta frequency pattern and smaller amounts of lower voltage delta.  The overall background is very low in amplitude.
+Occasional spike-and-wave complexes were noted from the right temporal region, maximum at T1.  Maximal amplitude, 45 microvolts.  The EEG is reviewed at a sensitivity of 3 given the overall background and the epileptiform activity stands out in that sensitivity.  There is intermittent alpha frequency activity noted in the background, which waxes and wanes.
+As the recording continues, the EEG is richer in alpha and theta frequency activity.
+Tactile stimulation of the patient produces primarily artifact.
+Heart rate:  106 bpm.
+IMPRESSION:  This is an abnormal EEG due to.
+Replacement of normal background with a low voltage, slow pattern.
+Relatively infrequent, but well-defined right anterior temporal sharp waves.
+CLINICAL CORRELATION:  No seizures were noted.  The use of anesthetic doses of antiepileptic medications may produce the pattern described above. EEG monitoring will continue to make sure that this patient is not experiencing additional subclinical seizures.
+
+
+

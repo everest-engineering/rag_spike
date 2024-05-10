@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 66-year-old woman presented with 4-minute tonic clonic seizure and mild, hemorrhagic conversion of left posterior cerebral artery infarct.  Patient had stroke 2 weeks ago.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically acceptable routine 20-minute study without hyperventilation or photic stimulation.  The patient was awake and is following commands.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a pattern with bilateral slowing and disorganization.  There is a glimpse of a posterior dominant rhythm, which at best is 8 Hz and is identified in the right hemisphere.  The left hemisphere contained significant, arrhythmic delta activity.  Slow delta is noted in the left hemisphere particularly in the frontal regions.
+With the use of a slow paper speed, there is clear rhythmic delta from the left hemisphere, which waxes and wanes.  This activity evolved at times.  In addition, there are some sections of the record where the activity is much more prominent in the left frontal region than any other region.  When the activity abates, at times the record is modestly slow and the asymmetries between the 2 hemispheres are quite variable with a more symmetric pattern versus a pattern with more significant disruption of faster frequency activity on the left relevant to the right.  There are some sections of the record where this activity builds up, as best demonstrated with an average reference with activity at F7 and FC.  At other sections of the record, the activity seems to drop out and there is more of a bilateral theta pattern.  In addition, there are some bursts of bilateral, frontal rhythmic delta.
+Heart rate 66 bpm.
+IMPRESSION/ CLINICAL CORRELATION :  In this individual with recent convulsions, and acute CNS hemorrhage, this EEG is supportive of a subtle, ictal pattern with a focus in the left hemisphere.
+Paroxysmal delta at 1-2.5 hertz, sometimes building up with ictal pattern best demonstrated with slow paper speed and average reference montage.
+Of note, the patient had an episode of shaking of the legs.  It is difficult to correlate this with a specific electrographic pattern.
+
+
+

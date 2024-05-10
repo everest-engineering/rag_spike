@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 46-year-old woman with epilepsy since age 23.  Seizures characterized by paralysis, followed by shaking and loss of consciousness for 15-20 minutes with postictal headache and numbness of the head.
+MEDICATIONS:  Depakote, Abilify, Klonopin, Halcion, and topiramate.
+INTRODUCTION:  A 1-hour digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is reasonably well organized, but the posterior dominant rhythm reaches only 7.5 hertz, 40 microvolts.  Drowsiness was characterized by slow rolling eye movements, followed by an increase in beta and then vertex waves and spindles noted in stage 2 sleep.  Hyperventilation elicited scant background slowing.  Photic stimulation did not significantly activate the record.
+Heart rate:  72
+IMPRESSION:  This is a mildly abnormal EEG due to
+mild slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Previous EEG also identified background slowing.  This is the second EEG without epileptiform features.  Of note, this patient's medications may contribute to the pattern described above.
+
+
+

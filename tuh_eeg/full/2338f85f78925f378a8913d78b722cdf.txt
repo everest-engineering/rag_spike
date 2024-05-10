@@ -1,0 +1,9 @@
+MEDICATIONS:  Depakote, Ativan.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electro placement with one channel of EKG.  The patient is somewhat restless.
+DESCRIPTION OF RECORD:  As the tracing begins, the patient is awake.  Despite the movement artifact there is an 9 Hz alpha rhythm with a generous amount of low voltage fronto central beta.  Frequent eye flutter was noted.  Drowsiness was characterized by attenuation of the alpha rhythm with an increase in beta.
+IMPRESSION:  This is an unremarkable electroencephalogram in wakefulness.  No focal or epileptiform features were noted in the record
+.
+CLINICAL CORRELATION:  Normal electroencephalogram does not exclude a diagnosis of epilepsy.
+
+
+

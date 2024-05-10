@@ -1,0 +1,19 @@
+History:	51 year old man status post anoxic brain injury. Medications:	Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video}, 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -13 hours from 3/14/2015 till 3/15/2015.    Nursing­ initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient. The background consists of burst-suppression, with variable burst­ suppression ratio. Early in the recording, bursts generally last -1 second with some intervals of suppression lasting up to 40-50 seconds. Clinically, bursts are associated with complex facial movements/ twitching and eye opening. Electrographically, bursts contain high amplitude sharply contoured theta and delta activity and intense EMG artifact  There is a subtle generalized occipitally predominant spike and wave discharge at the beginning of each burst, but due to presence of EMG artifact, presence of this spine and wave is not certain. As the recording progresses, bursts become longer with clear generalized occipitally predominant spike and wave activity seen within the bursts. Additionally, as the recording progresses, facial movements resolve and only eye openings are associated with each burst of activity. No normal sleep architecture is present.
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.  Summary of Findings:
+Burst-suppression  pattern
+Interpretation:
+This is an ABNORMAL continuous -13 hour video EEG due to burst-suppression pattern with bursts of activity that correlate with clinical facial movements/ twitching/ eye opening and contain clear epileptiform discharges.   These findings indicate severe diffuse cerebral dysfunction and increase cortical irritability. These findings were conveyed to the neurology consult team.
+
+
+
+
+

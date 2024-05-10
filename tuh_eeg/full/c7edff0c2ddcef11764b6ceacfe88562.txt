@@ -1,0 +1,24 @@
+History:	43yo F with a Hx anxiety, possible syncope vs seizure 3 years ago, now with
+Medications:	effexor, hydroxyzine, ziprasidone, trazodone
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  No sleep was captured.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect. There is
+a prominent electrical artifact during photic stimulation.  There was prominent EMG and
+movement artifact throughout the record.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. These findings are indicative of mild to moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  EEG is limited because of abundant EMG and
+movement artifact.  If clinically indicated, suggest repeat EEG with sedation.
+

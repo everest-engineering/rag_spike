@@ -1,0 +1,18 @@
+CLINICAL HISTORY: This is a 63-year-old gentleman with seizures associated with a fall down the stairs, loss of consciousness, change in mental status, history of alcohol abuse, and stroke.
+
+MEDICATIONS: Ativan, Midazolam, Haldol, Nizoral, and Keflex.
+
+INTRODUCTION: Long-term digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is primarily a drowsy record with the patient falling off to sleep at times. Also, there are multiple push button events while the patient dozes off to sleep.
+
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with theta, intermittent bursts of frontal delta, and right hemispheric delta.
+
+HR:  84 BPM.
+
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Right focal delta.
+
+CLINICAL CORRELATION: This tracing is consistent with a diffuse disorder of cerebral function.  The record improves in the last 24 hours due to richer background and more high frequency theta and alpha. This may be due to recovery from his head trauma.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  72 year old woman with a past medical history of stroke in 2003 with subsequent left-sided weakness.  She now presents with change in mental status.
+MEDICATIONS:  Insulin, Baclofen, Heparin, Ciprofloxacin, Amlodipine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm reaches 8 Hz theta.  The anterior to posterior frequency amplitude gradient is weak.  Voltages are diffusely low.  There is frequent movement artifact throughout the majority of the study.  Additional diffuse polymorphic low amplitude theta and delta are captured.  No sleep is captured.  Increase polymorphic theta and delta activity is observed over the right frontal, central, and temporal regions.  Intermittent T4 and F4 artifact is present.
+FINDINGS:
+Mild diffuse slowing.
+Moderate right frontotemporal and central slowing.
+No sleep.
+No clear epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is a normal awake 23-minute EEG due to mild diffuse slowing, disorganization, and focal slowing over the right frontotemporal and central regions.  Diffuse slowing indicates nonspecific cerebral dysfunction.  Focal slowing could be a sign of an underlying structural abnormality.  No clear epileptiform discharges are captured.  The lack of epileptiform discharges in a routine EEG does not exclude the clinical diagnosis of epilepsy.
+
+
+

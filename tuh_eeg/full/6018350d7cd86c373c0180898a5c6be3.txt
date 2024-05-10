@@ -1,0 +1,11 @@
+EEG NUMBER: 11-915  HISTORY: This Is a 62-year-old right-handed male admitted 6/27/2011 with difficulty speaking, dysphagia, facial droop. PMH: migraine headaches and CABG.
+MEDICATIONS: None reported.
+INTRODUCTION: Digital video EEG Is performed in the lab using standard 10-20 system of electrode placement with one-channel EKG. Photic stimulation is performed.
+DESCRIPTION OF RECORD: In wakefulness, there is a 10Hz alpha rhythm, but there is a small amount of 8Hz activity In the background. In drowsiness, there is a small amount of shifting temporal theta. Brief epochs of stage I sleep include vertex waves. Photic stimulation elicits scant driving. The driving is visualized with digital analysis of the EEG.
+Heart rate 90 bpm.
+IMPRESSION: This EEG is within normal limits for age.
+CLINICAL CORRELATION: No epileptiform features are observed. Normal EEG doesn't exclude a diagnosis of epilepsy.
+
+
+
+

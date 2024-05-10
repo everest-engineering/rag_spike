@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 48-year-old woman admitted on October 23, with fatigue and a fever found to have a right frontal subdural hematoma and a left MCA infarct.
+MEDICATIONS:  None reported.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  Sections of the record include a rhythmic approximately 7 Hz theta frequency background with a 7-8 Hz alpha rhythm, but much of the record include significantly more slower rhythmic mixed theta and delta.  Superimposed upon this is some focal slowing with a bit more arrhythmic alpha on the left compared to the right and disruption of faster frequency activity.  In addition, occasional sharp waves are noted independently at T4, P4 and T1.  Sharp waves are relatively infrequent.  Stimulation of the patient produces an alerting response with an increase in the faster frequency activity.  Rare triphasic waves were observed.  Heart rate 97 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Intermittent, paroxysmal slowing.
+Superimposed asymmetry with disruption of faster frequency activity on the left in comparison to the right.
+Independent sharp waves seen from either hemisphere.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function affecting gray and white matter.  In addition, a structural or functional process on the left should be considered.  There are infrequent sharp waves seen from either hemisphere.  These findings may even be correlated with imaging and clinical history.
+
+
+

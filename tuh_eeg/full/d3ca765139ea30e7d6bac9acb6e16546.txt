@@ -1,0 +1,26 @@
+
+CLINICAL HISTORY:  A 35-year-old woman with cerebral palsy and epilepsy, ongoing seizures including drop attacks
+
+MEDICATIONS:  Depakote, albuterol.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred, but photic stimulation was completed.  This was a technically challenging EEG in an uncooperative patient . In addition, T1-T2 impedances were challenging.
+
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is awake.  There is significant muscle artifact noted in the background.  Underneath the muscle artifact, there appeared to be frontal spike and slow wave complexes, maximum at the midline with variable spread to the right or left.  These bursts occur in wakefulness lasting 1 to 3 seconds.  There are irregular, but clearly present underneath the muscle and movement artifact.  In addition, there is also frontal eye movement artifact.  A 9Hz alpha rhythm is noted in wakefulness
+
+As the patient becomes drowsy, high amplitude irregular, 2.5 Hz spike and wave activity and polyspike and wave complexes are identified.  Some of these are frontally predominant and a little bit more maximum on the left.  As the patient becomes drowsy, additional frontally predominant spike wave bursts reaching 4.5 Hz are noted.  Some of these are a bit more maximal on the right and others a bit more at PZ.  Other features of relaxed wakefulness include intermittent attenuations of the background.  Rare, frontal polyspike activity was also noted.
+
+Photic stimulation was performed while the patient was becoming drowsy.  Photic stimulation elicits a driving response with an increase in faster frequency activity, but it may also accentuate the spike and wave activity.
+
+IMPRESSION:  Abnormal EEG due to:
+1. Marked background slowing and disorganization.
+2. Frontally predominant spike and wave activity and polyspike and wave activity.
+3. Variability in terms of epileptiform activity which may be more maximum in the left hemisphere or on the right.
+
+CLINICAL CORRELATION:  In comparison to the previous EEG 3 years ago, this EEG demonstrates more slow spike and wave activity and less in the way of focal epileptiform features.  Both EEGs are supportive of a secondary generalized mechanism for epilepsy.
+
+__________________________
+
+
+
+
+

@@ -1,0 +1,26 @@
+History:	64 year old woman with a known seizure disorder, now presents with seizures characterized by right sided twitching and jerking.
+Medications:	Keppra, Ativan Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -30 hours from 4/25/2014 till 4/26/2014.	Nursing? initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No anteroposterior gradient was seen. No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.   Fragmented sleep architecture appears as the recording progresses. Sleep architecture is better formed over the right.
+
+Left hemisphere focal slow maximal in the midtemporal region with associated attenuation of faster frequencies. Periodic lateralized epileptiform discharges (PLEDs) are present in the T3 region at a rate of 1-2 Hz. Frequency of PLEDs improves to -1 Hz as the recording progresses.  Frequent focal left frontocentral seizures are captured early in the recording. Last seizure occurs at - 8:30 PM. Seizures last -35-50 seconds and clinically are always associated with right arm shaking.
+
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+PLEDs (periodic lateralized epileptiform discharges), continuous,  left, frontocentral Seizure, left, frontocentral, seen early in the recording
+
+Interpretation:
+This is an ABNORMAL -30 hour continuous EEG due to diffuse slowing that is more pronounced over the left, continuous left midtemporal periodic epileptiform discharges and focal clinical brief left frontocentral seizures that are seen early in the recording There is an epileptogenic structural focus in the left frontocentral region.  Diffuse slowing indicates moderate diffuse cerebral dysfunction, which is non? specific with regards to etiology.  These findings were conveyed to the primary team.
+
+.
+

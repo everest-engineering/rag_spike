@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This patient has a history of generalized tonic-clonic seizures, the most recent of which was 4 weeks ago. He carries the diagnosis of bipolar disease and possible dementia, pugilistic.
+RECORDING START TIME:  12:41 p.m.
+RECORDING END TIME:  1:04 p.m.
+MEDICATIONS:  Include Keppra, oxcarbazepine, buspirone, and Lotrel.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  As the record opens, there is evidence of diffuse low-amplitude activity in the beta frequency range.  There is prominent excessive beta activity in the frontal-central, central-parietal, and occipital regions.  At times, there was a very low-voltage and fragmentary posterior dominant rhythm identified that achieves 10 Hz.  This is reactive to eye opening.  Hyperventilation was performed and failed to significantly activate the tracing.  There were no ictal discharges.  There were no spikes or sharp waves.  There were no clinical events identified during this recording. Heart beat varied from 60 - 80.
+IMPRESSION:  This is a mildly abnormal EEG due to diffuse low-amplitude and symmetric beta activity throughout the recording.  Diffuse low-amplitude beta activity may be seen in individuals with medications such as benzodiazepines or serotonin-reuptake inhibitors.  In addition, low-voltage diffuse attenuation of brain activity may be seen in certain dementias, such as Alzheimer's disease, frontotemporal dementia, and dementia pugilistic.  If clinically indicated, a repeat tracing capturing deeper stages of sleep may be helpful in assessing this patient.
+
+
+

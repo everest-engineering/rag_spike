@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 45-year-old woman with HIV disease, thrush, history of epilepsy, history of syphilis, admitted with agitation, delirium and paroxysmal spells with left eye deviation and automatic behavior for which the patient is amnestic.
+MEDICATIONS:  Dilaudid, fluconazole, phenytoin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The patient appears to have been sedated prior to the EEG.  There is a diffuse beta pattern.  Stimulation of the patient produces brief eye alerting and then the patient transitions in and out of stage II sleep with vertex waves and spindles. Wicket is noted with 8 Hz activity from the right or left temporal regions as the patient transitions in and out of sleep.  Photic stimulation elicits scant driving.  Heart rate irregular 60-90 bpm.
+IMPRESSION:  This EEG is remarkable for:  Excess beta.
+CLINICAL CORRELATION:  The primary pattern in this record is stage I or stage II sleep.  The excess beta may reflect the use of benzodiazepines.  No focal or epileptiform features were identified.
+
+
+

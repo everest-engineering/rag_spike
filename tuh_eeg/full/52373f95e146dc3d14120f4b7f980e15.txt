@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This 40-year-old left-handed woman with asthma, stroke, migraine headache, and seizures.  Patient had recurrent seizures, 1-2 days prior to admission with 2 seizures, and then 3 seizures on the day of admission with 1 hour postictal confusion.  The patient is on the 4th floor.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was performed.  Photic stimulation was not completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG was somewhat slow and disorganized.  With a posterior dominant rhythm of 7 Hz, intermittent background theta was noted.  As the recording continues, the patient was stimulated and briefly a 9 Hz alpha rhythm emerges.  Hyperventilation was performed with good effort, serving to alert the patient, and a more normal pattern was identified.  Following hyperventilation, the patient drifts off into drowsiness.  There is a bit of irregular slowing in the right hemisphere particularly centrotemporal and centroparietal.
+Posts were noted in stage 1 sleep.
+Heart rate 60 bpm.
+IMPRESSION:  Technically challenging bedside record with some impedances greater than 5 kilohms, but abnormal due to paroxysmal slowing and apparent wakefulness in the context of a patient who seemed to be quite drowsy.
+CLINICAL CORRELATION:  There were subtle focal features noted only on 1 section in this bedside record.  These findings may be correlated with imaging.  The background slowing is a nonspecific finding, but this paroxysmal pattern can be seen in a postictal pattern or in the context of a toxic or metabolic pattern.
+
+
+

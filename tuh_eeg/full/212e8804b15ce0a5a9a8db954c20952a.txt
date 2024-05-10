@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  37 year old right handed male with a gunshot wound to the abdomen and an episode of syncope with nausea, vomiting and abdominal pain.
+MEDICATIONS:  Zofran, ASA, Pantoprazole, Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Alpha squeak is noted.  Stage 2 sleep is characterized by vertex waves, K complexes, spindles, and POSTs.  The patient transitions in and out of stage 2 sleep.  Hyperventilation does not significantly activate the record in this drowsy patient.  Photic stimulation elicits driving and intermediate flash frequencies.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This seems to be a drowsy individual.  If epilepsy is an important consideration, a follow-up study can be of value.
+
+
+

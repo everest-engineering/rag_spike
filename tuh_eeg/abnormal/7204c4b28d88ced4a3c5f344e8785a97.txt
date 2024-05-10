@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 32 year old male with epilepsy, seizure-free for some years.
+
+MEDICATIONS: Carbatrol.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.7 Hz alpha rhythm with a small amount of low voltage frontocentral beta activity.There is eye flutter artifact noted in wakefulness. In the transition to drowsiness, there is prominent theta activity. Vertex waves and spindles were observed in stage II sleep. Hyperventilation produces rhythmic frontal slowing. Photic stimulation elicits bilateral driving.
+
+HR: 60 bpm
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No epileptiform features were observed today. Of note, some prior EEGs have demonstrated a bit of background theta, a bit of disorganization or a vertex wave in wakefulness, however, these were not identified in this record.
+
+
+

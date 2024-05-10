@@ -1,0 +1,13 @@
+CLINICAL HISTORY:    37 year old woman with Tylenol overdose and hepatic failure. MEDICATIONS:  Zosyn, Vancomycin, Klonopin, Ativan,Topamax.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background  EEG demonstrates  a continuous pattern between 9 to 13.5 Hz activity reaching 100 mcV. In addition, these bursts of activity are up to 3 seconds in duration and can be followed by bursts of irregular slow delta.  There are shifting asymmetries, but overall the pattern is relatively symmetric.  At some point an EEG can be considered briefly discontinuous, but the epochs of discontinuity  rarely exceed 1 second.
+Tactile stimulation may have elicited a suppression of cerebral activity.  The patient occasionally trembles, but there is no definitive epileptiform  activity associated with trembling.  The alpha and beta frequency  activity is high amplitude but there is no definitive spike in slow wave activity associated with this.
+HR:   120 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. 	Replacement of normal pattern with alpha-beta burst-like activity.
+2. 	Intermittent  discontinuity.
+3. 	What may well be suppressions  with tactile stimulation.
+CLINICAL CORRELATION: This EEG supports a severe underlying encephalopathy.  This patient's medications  which include benzodiazepines may contribute to the faster frequency activity described above.  No definitive epileptiform features were seen and no clinical seizures were recorded.  The patient's tremulousness  did not carry an EEG signature.
+
+
+

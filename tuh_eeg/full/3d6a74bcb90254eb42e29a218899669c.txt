@@ -1,0 +1,35 @@
+AGE: 55 y.o.
+SEX: male
+DATE OF STUDY: 09/22/2015 RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, coma study EEG #: 15-1390
+HISTORY:
+55 y.o. male with a history of DM 2 who presented to ER with chest pain, then became unresponsive.
+MEDICATIONS: propofol, lorazepam, bicarbonate
+SEDATION: propofol (stopped prior to study), lorazepam TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This study was at times technically limited by low amplitude muscle artifact in all leads. It included a single channel of EKG.
+EEG BACKGROUND:
+The background is continuous, symmetric, poorly organized and consists of delta with admixed alpha and theta frequencies.
+During stimulation the background demonstrates reactivity, with disorganized alpha, theta, and beta activity.
+There is moderate generalized slowing. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Noxious stimulation is performed as described under "background "
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 90 bpm, at times irregular and with wide-complex beats, is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal, somewhat technically-limited routine EEG due to:
+Moderate generalized slowing and suboptimal organization
+Heart rate abnormalities noted on a single EKG strip, as above
+CLINICAL CORRELATION:
+These findings indicate the presence of moderate diffuse cerebral dysfunction , which may at least in part be associated with medication effect. Irregular heart rate with wide-complex beats
+is noted on a single EKG strip.
+
+
+
+

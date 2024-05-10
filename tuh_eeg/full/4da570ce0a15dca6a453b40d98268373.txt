@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An 81-year-old woman status post aortic valve replacement and CABG, with failure to wean. Patient self extubated and then required propofol for agitation, evaluated for encephalopathy. Past history of stroke with right sided weakness.
+MEDICATIONS:  Propofol, Norvasc, Fentanyl, Heparin and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a mixed frequency background with
+slow delta, small amounts of theta and some beta. ICU artifacts were observed. Stimulation of the patient produced an increase in faster frequency activity. There was some variability in the record and later sections of the record demonstrated a bit more alpha and theta frequency activity.
+Heart rate was irregular at 66 BPM.
+IMPRESSION:  This is an abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified. The findings described above are nonspecific and can be seen in a diffuse disturbance of cerebral function due to mini different causes including pharmacologic sedation.
+
+
+

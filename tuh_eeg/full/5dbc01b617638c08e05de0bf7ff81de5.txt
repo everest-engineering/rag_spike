@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  70 year old right handed male with Myelodysplastic syndrome, previous history of PRES with seizures.  He has been seizure free for 2 years, July 2010.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  The patient is drowsy.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm identified bilaterally.  As the patient hyperventilates or transitions in and out of drowsiness, the alpha rhythm on the right drops out before the alpha rhythm on the left.  There is some very subtle underlying focal slowing on the right. Photic stimulation does not significantly activate the record.  Drowsiness is characterized by drop out of the alpha rhythm, the subtle right posterior slowing, spindles, and then rare vertex waves.
+HR:    66 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+A subtle focus of right posterior delta with very subtle disruption of the alpha rhythm on the right.
+CLINICAL CORRELATION:  These findings have been previously identified.  This follow up EEG does not identify epileptiform features.
+
+
+

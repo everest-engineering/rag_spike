@@ -1,0 +1,18 @@
+History:	81 yr female with cc of dementia. problems with articulating, will mean door but say window.  per sister pt has gotten much worse in the last yr since daughter and husband died. pmhx: dm, htnm osa, cognitive def, hyperlipidemia, pvd, gerd.
+Medications:	Keppra, Risperdal, Melatonin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, photic
+Description:
+The posterior dominant rhythm reaches 9 Hz low-to-moderate amplitude polymorphic alpha activity. The AP gradient is weak. Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording. Patient remains awake throughout the entire recording.
+Paucity of faster frequencies is noted over the left hemisphere, especially over the left temporal region. No clear electrographic seizures are noted.
+Hyperventilation and photic stimulation are not performed. There is frequent diffuse EMG artifact. That limits interpretation of the recording.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, left temporal, mild-to-moderate Artifact, EMG, frequent
+Interpretation:
+This is an ABNORMAL awake-only 20 minute EEG due to mild diffuse slowing and focal left hemispheric slowing, most pronounced over the left temporal region. Diffuse slowing is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific. Continuous focal slowing is indicative of a focal cerebral dysfunction, likely structural in etiology. Please correlate clinically. Frequent diffuse EMG artifact limits interpretation of the recording and subtle changes and epileptiform discharges might have been missed.
+.
+
+
+

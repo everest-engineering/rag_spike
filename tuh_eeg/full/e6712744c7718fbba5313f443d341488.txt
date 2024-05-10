@@ -1,0 +1,28 @@
+
+History:	71 YO MALE SCHEDULED FOR R CAROTID  SURGERY 1/8/2014
+PMHX: CAD, OSTEOARTHRITIS,PVD, COPD, GERD, CATARACTS, INCREASED
+GLUCOSE LEVEL.
+SMHX:: ALCOHOL, 1.5 PACK A DAY SMOKER
+Medications:	ASPIRIN, CODEINE, PERIACTIN, TAGAMET, TOPROL-XL
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 8-8.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is diffuse 7Hz theta activity during wakefulness.  During brief
+drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by
+Occasional polymorphic delta activity is present in the left temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 60 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Focal slowing, polymorphic, occasional, left temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of 1) diffuse background slowing and slow
+alpha rhythm.  These findings are etiologically nonspecific indicators of diffuse cerebral
+dysfunction.  2) occasional focal slowing in the left temporal region.  This finding is indicative of
+focal cerebral dysfunction in this region.  Clinical correlation is recommended.
+
+

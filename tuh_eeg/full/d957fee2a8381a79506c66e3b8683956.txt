@@ -1,0 +1,22 @@
+CLINICAL HISTORY: 67 year old female with a 2.5 minute seizure with associated alteration in mental status and fever.
+
+MEDICATIONS: Depakote, Tylenol, Diflucan, Iron, Thyroid, Trazodone, B12.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. The right hemisphere demonstrates a low voltage beta and theta pattern without the typical morphologies of an awake adult. The left hemisphere demonstrates essentially rhythmic 6 7 hertz theta which is interrupted by sharply contoured delta, maximum at T1-T3. There are bursts of rhythmic delta that disrupt the rhythmic theta on the left. Occasional sharp waves are noted. This activity waxes and wanes but does not undergo characteristic frequency evolution. Left anterior temporal sharp waves become more prominent as the patient becomes drowsy. Photic stimulation does not significantly activate the record.
+
+HR: 90 bpm
+
+IMPRESSION: Markedly abnormal EEG due to:
+1. Prominent, rhythmic theta from the left hemisphere, particularly the left temporal region.
+2. Sharply contoured delta, bursts of sharply contoured delta, again maximum T1-T3.
+3. T3 sharp waves.
+4. Background slowing on the right.
+
+CLINICAL CORRELATION: This is a highly irritative-appearing EEG. If this patient's seizures are recent, ongoing evaluation is important because it does not appear that the epileptiform process has resolved.
+
+
+
+
+

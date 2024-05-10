@@ -1,0 +1,29 @@
+﻿
+CLINICAL HISTORY:  Adult onset spells with childhood incontinence. Incontinence improved with Keppra
+
+MEDICATIONS:  Lamictal, low-dose Keppra.
+
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and spike detection software was utilized.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a symmetric reactive 10 Hz alpha rhythm.  Stage II sleep includes vertex waves, K complexes, spindles, and POSTS.  Slow wave sleep include higher amplitude delta.
+
+Epileptiform Detections:  Primarily in sleep and drowsiness, there are left anterior temporal sharp waves and spikes.
+
+Focal slowing:  Left TIRDA.
+
+Seizure:  11:36:08, the patient is drowsy.  She is under the covers.  She looks to the right, pushes the button, and reports 2 second episodes of twitching in the leg.  The nurse enters and by at that time, the symptoms have resolved.  The EEG at this time demonstrates left temporal rhythmic delta, similar to a pattern noted in the patient's baseline.  No sharp waves or spikes were noted, and the patient herself notes no impairment of awareness.  In the minutes to follow, intermittent brief bursts of rhythmic 3 to 4 Hz activities in the left temporal region are again observed, but the patient does not experience the same clinical features.
+
+Seizure 1:00 AM. on 06/24/2015:  The patient is asleep.  She awakens abruptly from sleep at 1:00:22 and looks for the alarm button.  She seems to be looking for the alarm button and experiencing something for 24 seconds.  The nurse comes and the patient indicates that she was experiencing twitching in her left thigh.  The EEG demonstrates a normal awake pattern and then the nurse is testing the patient, there is no epileptiform activity.  The previously described left TIRDA is not apparent at that time.
+
+Seizure:  8:44:03 AM duration 4 minutes and 7 seconds with actual seizure offset unclear due to artifact.  The patient is in the room.  She reports that she did not know that she was about to have the seizure had no warning.  She has a detailed recall of looking out the window and the things that she was seen out the window, and her next recollection is being in bed with the nurse at the bedside and the side rails up.
+
+Clinical features of the seizure: the patient looking out the window, away from camera and has her left hand resting on the window sill and then on her face.  She rock from side to side and may have automatisms of the feet.  Then she falls to the right side, lands on the floor with legs bent, knees upright.  The patient was able to stand, nurses returned her to bed.  She did not bite her tongue and was not incontinent, and recovered quite quickly.
+
+Electrographic features of this seizure include rhythmic 3 to 5 hertz activity evolving with a sharp wave in the left mid temporal region and a phase reversal at T1-T3.  This was seen at 8:44:11.  The patient is looking out the window and turns just slightly to the right.  At 11:44:27:  There is a clear increase in frequency of the activity with the appearance of 10 Hz activity in the left temporal region.  The right hemisphere demonstrates some slowing at this time.  The activity is clearly evolving on the left.  At 8:46:46, the patient falls to the right.  She is on the floor with her knees bent and her right arm up.  She is motionless and then starts to move to her side at 8:44:50.  She is lying on her back as the nurses come in at 8:44:57.  At this time, the EEG electrodes demonstrate artifact.  The nurses are interacting with the patient, who is somewhat confused, and the EEG is interpretable again at 8:46:02 with generalized background slowing.  The patient is put in bed at 8:48:30 again with a pattern of background slowing, which starts to resolve by 9:32.
+
+Heart rate:  60-120 BPM.
+
+IMPRESSION/ CLINICAL CORRELATION:  Three events were recorded in this section of the EEG.  The complex partial seizure had a clear EEG signature, localizing to the left temporal region, but the patient's symptom of twitching in the right thigh did not carry an EEG signature.
+
+\
+

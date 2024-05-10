@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This 53-year-old with 20-year history of epilepsy, seizure 2 weeks ago with tonic-clonic activity, shaking, tongue biting.  Patient requires EEG for neurological clearance for blepharoplasty.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record in a cooperative patient.  It is a technically satisfactory 24-minute EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 11 hertz, 70 microvolt alpha rhythm, which is symmetric and reactive, achieving amplitudes of 90 microvolts in drowsiness.  The patient transitions in and out of a drowsy state with rhythmic central theta, hypersynchronous pattern, and intermittent attenuation of the posterior dominant rhythm, but stage 2 sleep was not achieved.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited a vigorous bilateral driving response despite the fact that the patient was falling asleep.  Heart rate 80 BPM.
+IMPRESSION:  Normal EEG in wakefulness through stage 1 sleep.
+CLINICAL CORRELATION:  No epileptiform features were noted.
+
+
+

@@ -1,0 +1,28 @@
+CLINICAL HISTORY: 28 year old woman admitted 2 days ago status post severe
+head trauma with cerebral edema.
+
+MEDICATIONS: Vasopressin, Epinephrine, Dopamine, Phenylephrine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20
+system of electrode placement with 1 channel of EKG. The patient is intubated and
+comatose.
+
+DESCRIPTION OF THE RECORD: The patient is examined during the EEG. The EEG
+is an electronic format. Sections of the record are performed with the ECS montage.
+There is no definitive cerebral activity. There is EKG and other artifacts, including some
+rhythmic artifacts picked up at 02. Stimulation of the patient does not activate the
+record. There is no variability. The electrode integrity is tested by the technologist.
+
+HR: 120 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Electrocerebral inactivity.
+
+CLINICAL CORRELATION: In the appropriate clinical context, in the absence of
+profound hypothermia or medications which might explain this pattern, this EEG is
+compatible with electrocerebral silence.
+
+
+
+
+

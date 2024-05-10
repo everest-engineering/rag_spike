@@ -1,0 +1,15 @@
+
+
+CLINICAL HISTORY: 45 year old right handed woman with epilepsy, infrequent seizures, recent increasing emotional issues.
+MEDICATIONS: Topamax, Gabapentin, Neurontin, Haldol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz alpha rhythm. There is excess background theta noted in the background. In addition, there is intermittent rhythmic theta observed and rare, right temporal sharp waves. In the transition to sleep, there is rhythmic slowing from the right temporal region. Photic stimulation does elicit a slight driving response. Hyperventilation does not active the record.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Mild background slowing.
+2. TIRDA.
+3. Rare right temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a localization mechanism for epilepsy.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  The patient is a 42-year-old woman who presents with cognitive dysfunction, concern for encephalopathy.  She has a history of drug abuse, on methadone, hepatitis and migraines.
+MEDICATIONS:  Methadone, Wellbutrin, gabapentin, Vistaril, Risperdal, Topamax, albuterol and Advair.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 7.5 to 8.5 Hz in frequency, 30 to 50 microvolts in amplitude seen in the occipital region which attenuates with eye opening.  There is excess 5-7 Hz diffuse theta activity during wakefulness which is distributed symmetrically.  There were also triphasic waves seen intermittently with an anteroposterior gradient at times which were bilaterally synchronous, occurring with a frequency of 1 to 1.2 Hz.  During wakefulness and sleep, there were intermittent bursts of frontal intermittent delta activity seen with a frequency of 1.2 Hz and an amplitude of 50 to 70 microvolts lasting for 1 to 2 seconds.  Stage I sleep is characterized by disappearance of the posterior dominant rhythm, slowing of the background and absence of muscle and eye blink artifact, as well as the presence of vertex sharp transients and posts.  Photic stimulation was performed at multiple flash frequencies and did not result in a driving response.  Hyperventilation was performed with further slowing of the background activity.  Heart rate was 60 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording due to:
+Diffuse slowing of the background with theta activity seen during wakefulness.
+Slowing of the posterior dominant rhythm.
+Presence of triphasic waves.
+Presence of FIRDA.
+No electrographic seizures were captured.
+CLINICAL CORRELATION:  The above findings could be due to metabolic, toxic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medications or bilateral cerebral dysfunction or degenerative brain disease or postictal state.  The FIRDA bursts could also be due to increased intracranial pressure or a deep midline lesion in the brain.  No epileptiform abnormalities or electrographic seizures were identified in this record.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  If clinically indicated, a continuous bedside EEG monitoring may be helpful.
+
+
+

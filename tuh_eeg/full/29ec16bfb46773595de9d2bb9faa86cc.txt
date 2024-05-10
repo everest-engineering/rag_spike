@@ -1,0 +1,27 @@
+History:	52 YR OLD MALE R HANDED FOUND DOWN OUTSIDE ED. PT HAD A SDH PMHX
+HTN DM.60 CM HEAD
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the right central region during wakefulness,
+increasing during drowsiness.  There is an asymmetry of faster frequencies with an absence on the
+left.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 66
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right central
+Attenuation, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL EEG because of  continuous focal slowing in the right central region.  This
+finding is indicative of a focal structural lesion in this region. In addition there is loss of faster
+frequencies on the left hemisphere which is indicative of a cortical structural  lesion or subdural
+collection in that region. Lastly there is  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+

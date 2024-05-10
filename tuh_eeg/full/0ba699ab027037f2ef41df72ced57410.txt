@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 42-year-old male with multiple tonic-clonic seizures and blood glucose of 846.  Please evaluate for status epilepticus.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low-voltage slow, relatively featureless pattern with intermittent, although somewhat higher paroxysmal mixed theta delta.  Stimulation of the patient produces an increase in muscle.  Spontaneous arousals were noted.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The background slowing is compatible with the patient's clinical picture of a severe underlying encephalopathy.  The presence of reactivity and variability are positive prognostic finding.
+
+
+
+
+

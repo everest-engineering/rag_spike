@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  48 year old left handed woman with a history of head trauma 18 years ago.  Previously epilepsy was controlled but increasingly frequent seizures with postictal confusion, aura of loss of train of thought.
+MEDICATIONS:  Gabapentin, Lasix, Tegretol, Fluticasone, Insulin, Lisinopril, Furosemide, ASA, Pravastatin, Carbamazepine, Mometasone,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  In maximal wakefulness, there is scant 7-8 Hz activity in wakefulness.  Central mu activity is seen, but testing is not performed to confirm this.  Features of stage II sleep include vertex waves, K-complexes, spindles.  Hyperventilation produces an increase in rhythmicity of the background.  Photic stimulation is performed while the patient is transitioning in and out of stage II sleep and does not activate the record.
+
+HR:     60 bpm
+IMPRESSION:     There is a slight amplitude asymmetry with slightly higher beta frequency activity in the left frontal region in comparison to the right.
+CLINICAL CORRELATION:  No epileptiform features are identified.  The scant theta identified above is a nonspecific finding.  It may be due to this patient's medications.  The beta asymmetry with slightly higher amplitude beta frequency activity and the slight frequency asymmetry is of unclear clinical significance.  If needed, a repeat tracing capturing deeper stages of sleep or one of her typical seizures is suggested.
+
+
+

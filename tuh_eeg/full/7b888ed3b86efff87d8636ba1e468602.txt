@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 69 year old woman, status post code on February 26 at 2:15 a.m. for 30 minutes, now with myoclonus. DNR 1.
+MEDICATIONS: Depakote, Propofol, Midazolam, Cardizem
+INTRODUCTION: Digital video EEG was performed at bedside using the standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated with occasional intermittent twitching.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a discontinuous pattern. Sections of the record that are suppressed are approximately 4 seconds in duration. Sections of the record with rhythmic theta frequency activity and a combination of irregular theta and delta ranged from 2 to 4 seconds in duration as well. Stimulation of the patient does not seem to activate this pattern. As the recording continues, the patient's twitching seems to abate. In addition, as the recording continues, the sections of the record with cerebral activity include a bit more of a rhythmic mixed frequency pattern with 0.5 Hz delta but a bit more 4 to 5 Hz theta and some 7.5 Hz activity.
+HR: 120 bpm and irregular
+IMPRESSION/ CLINICAL CORRELATION: Abnormal EEG due to:
+Replacement of a normal pattern with a burst suppression pattern. This finding, 16 hours post code, is supportive of a severe anoxic insult.
+
+
+

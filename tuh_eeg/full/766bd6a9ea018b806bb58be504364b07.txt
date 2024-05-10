@@ -1,0 +1,43 @@
+AGE: 36 y.o.
+SEX: male
+DATE OF STUDY: 09/01/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: Routine awake and asleep EEG #: 15-1274
+HISTORY:
+36 y.o. male with a history of TBI s/p decompressive right craniectomy (SDH; no bone flap), s/p left craniotomy (EDH) 7/15. He awoke 8/1 with his scalp bleeding and not knowing what happened; he was found to have a right temporal intraparenchymal hemorrhage. PMH: TBI, PTSD, Hep C, substance abuse (actively using heroin), depression, anxiety.
+MEDICATIONS:
+Tegretol Keppra Celexa Tramadol
+Klonopin (ran out)
+Last used heroin 2 days ago
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized mixture of alpha and beta frequencies, with a symmetric and reactive 9-10 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.
+There is continuous polymorphic slowing broadly distributed over the right fronto-temporal region .
+There is occasional milder left fronto-temporal polymorphic slowing.
+Higher amplitude, faster frequency activity is seen independently over the bi-central regions (F3-C3, F4-C4 max) .
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES :
+Hyperventilation: Not performed
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities .
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 42 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG due to:
+Continuous polymorphic slowing broadly distributed over the right fronto-temporal region.
+Occasional milder left fronto-temporal polymorphic slowing.
+Higher amplitude, faster frequency activity is seen independently over the bi-central regions (F3-C3, F4-C4 max) .
+CLINICAL CORRELATION:
+These findings indicate the presence of right fronto-temporal cerebral dysfunction and additional milder left fronto-temporal
+cerebral dysfunction. Bi-central high-amplitude fast frequency activity is likely a breach rhythm and is consistent with this patient 's known prior history of bilateral skull surgeries.
+
+
+

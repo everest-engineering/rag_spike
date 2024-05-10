@@ -1,0 +1,50 @@
+CLINICAL HISTORY:  This is a 48-year-old male with childhood epilepsy, complicated by AVM resection, with recurrent and refractory seizures experienced by the patient as right arm jerking.  Patient feels that he is aware during his seizures.
+MEDICATIONS:  Aptiom, Keppra, and Depakote.
+INTRODUCTION:  Continuous video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG and seizure and spike detection software.
+October 20-21, 2014 During the 1st 24 hours of recording, medications were not reduced.
+DESCRIPTION OF THE RECORD:  Background:  In wakefulness, there is a 10 Hz posterior dominant rhythm.  A subtle breach rhythm is noted from the right temporal region.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTS.  in sleep, there is some subtle features including an amplitude asymmetry with somewhat higher amplitude activity on the right compared to the left, but without clear left temporal focal slowing.  Intermittent focal slowing is noted in the right posterior temporal region.
+Clinical seizures:  None.
+Interictal Epileptiform Detections:  This section of the record identifies primarily brief or isolated spike and wave complexes.  These are variable in nature and are typically brief, 4-5 Hz spike and wave complexes.  They appear to be somewhat distorted by the breach rhythm.  The vast majority of them have a phase reversal at the midline.  Additional discharges include some alpha or beta frequency activity in the right hemisphere, which typically seen in drowsiness without a clear spike and wave component, but with a little bit of after going slowing.  One example of this is at 1:53:13 a.m. on the morning of the 21st.  Many of the epileptiform discharges occur in stage 2 sleep.  Some of them seem to be superimposed on sleep morphology, essentially maximum at the vertex with some asymmetry in terms of a field.  There was also a single left temporal sharp wave noted.
+IMPRESSION:  This 1st 24 hours of EEG monitoring was remarkable for:
+Interictal epileptiform discharges, which were primarily generalized spike and wave complexes with a very unusual field and morphology.
+Intermittent focal slowing and a breach rhythm in the right posterior quadrant.
+Rare, more isolated higher amplitude theta in the right posterior quadrant.
+CLINICAL CORRELATION:  No clinical seizures were recorded.  Additional EEG monitoring will continue in search of the patient's typical seizures.
+October 21-22, 2014
+DESCRIPTION OF THE RECORD:   BACKGROUND: In wakefulness, the background EEG is well organized with generous background beta.  Sleep is characterized by vertex waves, K complexes, and spindles.  The patient's breach rhythm is more prominent in the posterior region.
+Seizures:  None.
+Interictal Epileptiform Detections:  This section of the record captures occasional spike and wave complexes, although few were typed in the sample file.  The seemed to be the 3-4 hertz generalized, but somewhat irregular discharges.
+Heart rate 60 bpm.
+IMPRESSION:  This section of EEG monitoring was remarkable for:
+No seizures.
+Interictal spike and wave complexes.
+A breach rhythm with occasional focal slowing.
+October 22-23, 2014
+DESCRIPTION OF THE RECORD:  Background:  In wakefulness, there is a symmetric reactive 9 Hz alpha rhythm.  The overall waking background is low voltage.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTs.
+Electrographic Seizures:  The 1st event for this individual occurs at 5:28:00.  The patient is eating.  He is noted to have an increase in heart rate from 90 beats per minute to 114 beats per minute with some irregularity.  He is eating and his right hand is underneath the tray, but the elbow jerks and the lid to the tray falls.  He pushes the button and reports to the nurse that he had a seizure.  The EEG is obscured by muscle and chew artifact, and no epileptiform activity was identified.
+In the 1.5 hours that follow, the patient was noted to have somewhat sustained tachycardia with heart rate approximately 120 bpm, slightly irregular heart rate, and occasional PVCs, occasional isolated approximately 4 Hz spike and wave discharges were noted, some of which have a bifid component in the right posterior quadrant.
+A cluster of 50 seizures was identified beginning at 8:05.  Most seizures were 4-8 seconds in duration.  Seizures were characterized by a burst of 3-4 Hz spike and wave activity, which was somewhat irregular.  Using various montages, the activity is maximum at the midline,Cz though a few discharges maximum in the right or left central region were noted.
+Behavioral characteristics of these seizures included no clinical signs in the 1st second or the first 2-3 discharges.  The 2nd finding was jerking of the right arm.  If the patient was speaking, he would speak in the 1st second, but speech arrest was noted during the 3rd through 5th second of the discharge.  He seemed to be aware of all events and did not appear to lose his train of thought during seizures.  Clinical staff was present through the vast majority of these seizures.
+Tonic-Clonic Seizure:  Time, 8:29:30, duration 1 minute 1.15 seconds.  This was a tonic-clonic seizure.  It began with a burst of spike and wave activity, maximum at the midline with 3-5 Hz spike and wave activity.  By 8:29:04, polyspike or fast activity was noted with rhythmic theta and then the EEG was obscured by tonic motor activity.
+Behavior:   After 1 second, the patient had right arm trembling.  At 8:29:03 as the fast activity increases, the right arm comes up and then the left arm comes up a second later.  Both arms were elevated in a salaam like posture.  At  8:29:08, the patient's mouth opens and then clonic activity is noted at 8:29:15.  Tonic-clonic activity is noted at the end and the postictal EEG is diffusely slow with prominent delta at the midline.  The physician and nurse are at the bedside.  Ativan was given Prolonged postictal delta was noted with the appearance of beta by 8:42.  By midnight, the patient seems to have transitioned to stage 2 sleep with beta spindles.  The remaining sections of the overnight recording demonstrates, little in the way of interictal epileptiform activity.
+Interictal epileptiform activity:  As noted previously, 3.5-4 Hz spike and wave activity often occurring in stage 2 sleep on the context of a vertex wave.
+IMPRESSION:  Abnormal 24-hour EEG monitoring due to:
+Cluster of seizures, which all began with right arm jerking, although there is a generalized EEG signature.  Speech arrest was a later finding in the brief seizures and the patient did appear to be aware during the seizures.
+Tonic-clonic seizure with same initial features.
+INTERVAL CLINICAL CORRELATION:  This section of the EEG was diagnostic with generalized epilepsy and consideration for a secondary generalized mechanism is appropriate.
+October 23-24, 2014
+MEDICATIONS:  Eslicarbazepine, Keppra.  Depakote on hold.
+INTRODUCTION:  This 24-hour video EEG monitoring, was performed after a cluster of seizures the night before with the use of benzodiazepines.
+DESCRIPTION OF THE RECORD:  Background:  In wakefulness, there is an 11 Hz alpha rhythm.  Abundant stage 2 sleep include vertex waves, K complexes, spindles, and POSTS.  Early slow wave sleep was noted.  Subtle underlying focal slowing in the breach rhythm were noted in the right posterior quadrant.
+Electrographic seizures:  None.
+Epileptiform Detections:  There are some brief bursts of spike and wave activity, typically less than 2 seconds in duration.  The patient was not aware of symptoms during these brief bursts.  Epileptiform activity can be reviewed in multiple different montages and includes a 3 to 4.5 Hz spike and wave complex, which is somewhat irregular in nature.  Using an average reference, some waveforms are maximum either at CZ or FP1.  There are also some irregular bursts.  Rare bursts of more paroxysmal theta with an amplitude accentuation in the right posterior quadrant were noted in sleep.  In addition, there were a handful of lower voltage discreet sharp waves in the right posterior quadrant.
+Heart rate 78, BPM without PVCs or other cardiac anomalies today.
+IMPRESSION:  This is a final day of continuous video EEG monitoring.  The overall session was remarkable for:
+Electrographic seizures, which began with a subtle seizure without clear scalp EEG correlate.  All seizures began with jerking of the right with arm, approximately 1 second after the spike and wave discharge followed by speech arrest and then little in the way of postictal period with the exception of the tonic-clonic seizure.  The discharges noted were generalized in morphology with a CZ localization, but without a definite scalp localization.
+Tonic-clonic seizure, which began with a similar electrographic and behavioral characteristics with tonic and clonic activity as well as prolonged postictal slowing.
+Interictal epileptiform detections, which include an irregular 3-4 Hz spike and wave complex.  Some of these are maximum at the midline, but using alternative techniques some can be demonstrated to be left frontal and less so right frontal.
+Marked tachycardia and frequent PVCs noted on the day of the seizures, eat well before the first seizure occurs.
+CLINICAL CORRELATION:  This EEG is diagnostic of a generalized epilepsy, which is likely a secondarily generalized epilepsy.  All  seizures were stereotypic in initial characteristics
+
+
+

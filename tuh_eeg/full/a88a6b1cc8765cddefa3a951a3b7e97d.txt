@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 47 year old right handed female with left middle cerebral artery infarcts, transient aphasia.
+MEDICATIONS: ASA, Imdur, Hydralazine, Lisinopril, Furosemide, Lovastatin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz alpha rhythm which is relatively low voltage. Brief vertex waves are noted in stage 1 sleep. In the transition to sleep, there are minor shifting asymmetries. Photic stimulation does not significantly activate the record.
+HR: 66 bpm
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. Of note, the EEG is not as sensitive as an imaging test in identification of small cerebral infarcts.
+
+
+

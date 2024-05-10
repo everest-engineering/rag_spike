@@ -1,0 +1,30 @@
+History:	48 YR OLD MALE WITH PMHX SIG SEIZURES,ASTHMA . SKULL DEFECT  ON LT
+OCCIPITAL. NOW PRESENTS WITH UN WITNESSED SZ, PT CANT RECALL
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 6Hz posterior dominant rhythm, which
+attenuates  with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Background activity is predominantly irregular, 6-7Hz activity, with poorly
+formed anterior to posterior gradient of frequencies.  During brief drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely, followed by vertex waves.
+Intermittent polymorphic delta activity is present in the left posterior quadrant, most pronounced at
+T5 during wakefulness, increasing during drowsiness.  Background activity shows higher amplitude
+over the left hemisphere.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR 92
+Summary of Findings:
+Diffuse slowing, rhythmic, continuous, mild diffuse
+Focal slowing, polymorphic, intermittent, left posterior quadrant, T5
+Breach artifact, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage
+2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. diffuse background slowing and slow alpha rhythm.  These findings are
+etiologically nonspecific indicators of mild diffuse cerebral dysfunction.  intermittent focal slowing
+in the left posterior quadrant.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  Breach artifact is consistent with the
+

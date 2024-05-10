@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 20 year old right handed male with recurrent blackout spells.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 40 microvolt, 10.5 Hz alpha rhythm with a small amount of low voltage frontocentral beta activity. Drowsiness is characterized by rhythmic slowing followed by vertex waves. Hyperventilation produces an increase in amplitude of the background as well as some artifact in the single channel electrode artifact in the temporal regions. Photic stimulation elicits driving with supraharmonic driving.
+HR: 72 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are identified. The supraharmonic driving is a normal variant. If epilepsy is an important consideration, a repeat study may be considered.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 87-year-old woman with sudden onset left-sided weakness, slurred speech, and right frontoparietal infarct.
+MEDICATIONS:  Norvasc, Protonix.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was relatively drowsy.
+DESCRIPTION OF RECORD:  The background EEG is diffusely slow with an asymmetry between the 2 hemispheres.  The left hemisphere demonstrates primarily 5-7 Hz, theta activity.  The right hemisphere demonstrates attenuation of faster frequency activity, particularly of the theta with some slow delta in the right central and mid temporal regions.  As the patient becomes drowsy, slow rolling eye movements were noted.
+Heart rate irregular 40-50 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Significant background slowing noted even with stimulation for this adult.
+An asymmetry with disruption of faster frequency activity on the right.
+Occasional focal delta from the right as well.
+CLINICAL CORRELATION:  The background slowing bilaterally demonstrates a bihemispheric disturbance.  The right focal slowing with disruption of faster frequency activity supports a right cortical process, congruent with the history provided.
+
+
+

@@ -1,0 +1,12 @@
+LENGTH OF THE RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is an 86-year-old woman with a right temporal intraparenchymal hemorrhage status post a right temporal craniotomy with evacuation of a hematoma on 07/08/2013.
+CURRENT MEDICATIONS:  Keppra and Protonix.
+CONDITION OF THE RECORDING:  The recording was performed at the bedside.  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  There is right to left interhemispheric asymmetry with slower waveforms at high amplitudes over the right hemisphere.  The posterior dominant rhythm over the left hemisphere consists of well-formed and modulated moderate amplitude of 9 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly over the left hemisphere.  Over the right hemisphere the posterior dominant rhythm reaches 8.5 Hz alpha activity, but it is unstable and polymorphic.  There is no anterior to posterior frequency amplitude gradient over the right hemisphere.  The background over the right hemisphere consists primarily of a mixture of polymorphic theta and delta activity.  Slowing is especially pronounced over the right frontotemporal region.  Additionally, rhythmic non-evolving 1 Hz prevalent delta runs observed over the posterior right quadrant.  These runs did not have either temporal or spatial evolution, and unlikely to represent electrographic seizures.  Hyperventilation and photic stimulation were not performed.  Periods of quiescence are captured, however, normal sleep relaxation is not observed.
+FINDINGS:
+Continuous moderate right hemispheric slowing most pronounced over the frontotemporal region.
+Rhythmic and non-evolving 1 Hz delta activity observed over the right posterior quadrant unlikely representing an electrographic seizure.
+IMPRESSION:  This is an abnormal 22 minute EEG due to continuous focal right hemispheric slowing that is especially pronounced over the right frontotemporal region.  This finding indicates focal cerebral dysfunction likely structural in etiology, and in this patient is consistent with a history of right temporal intraparenchymal hemorrhage and a craniectomy.  No clear electrographic seizures are captured.
+
+
+

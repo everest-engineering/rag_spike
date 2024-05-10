@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 68 year old right handed male with prostate cancer and right temporal and ocular headache with visual obscurations, syncope.
+MEDICATIONS: Tylenol #3, Lovastatin, Norvasc, Ranitidine, Lovastatin, Quinapril, Amlodipine.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In wakefulness there is 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity. The patient rapidly transitions to stage II sleep with vertex waves and POSTS. Photic stimulation is performed as he is transitioning in and out sleep, but does elicit a driving response. Hyperventilation produces rhythm slowing.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features were observed, but a normal EEG does not exclude a diagnosis of epilepsy. If seizures are an important consideration, a repeat tracing may be considered.
+
+
+

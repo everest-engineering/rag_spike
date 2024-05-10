@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 62-year-old woman with obstructive sleep apnea, epilepsy, Bell’s palsy.
+MEDICATIONS:  Norvasc, Keppra, Lasix, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation was performed.  Hyperventilation was deferred.  This was an EEG that was at times technically challenging.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz 40 microvolt posterior dominant rhythm.  Drowsiness is characterized by an increase in rhythmic theta.  In the transition to sleep, there is some irregular sharply contoured theta noted from the right.  Some of this has the morphology of rhythmic midtemporal theta of drowsiness, but it is irregular.  Similar activity was noted on 1 occasion from the left.  Vertex waves, K complexes and spindles were noted in stage 2 sleep.  Snore artifact was noted in stage 2 sleep, producing an arousal.  Photic stimulation elicited bilateral driving, as well as photoelectric artifact.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+irregular bursts of sharply contoured slowing with subtle underlying sharp wave noted in the right mid to posterior temporal region.
+CLINICAL CORRELATION:  This patient appears to have  Rhythmic Midtemporal Theta of Drowsiness which can resemble an epileptiform discharge.   5 Hz activity was noted bilaterally in the transition to sleep. Snore arousals are characteristics of OSA
+To more completely characterize this patient's epileptiform activity, a more prolonged study capturing sleep is suggested.
+
+
+

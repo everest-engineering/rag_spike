@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  Adult male with severe chronic static encephalopathy and occasional seizures lasting 1-2 minutes with stiffening, nonverbal, wheelchair bound.
+MEDICATIONS:  Phenobarbital, Depakote, carnitine, Ativan, Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic  stimulation was performed.  This adult was recorded in his wheelchair.  Hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal, lacks the normal developmental milestones for an adult of this age.  Frequent sharp waves and spikes are noted diffusely or focally with many different localizations, including left frontal temporal, anterior temporal, slow spike and wave, and slow generalized spike and wave.  Other localizations include C5, P4, T6.  There are brief sections of the record without sharp wave or spike, typically no longer than 2 seconds in duration.  Epileptiform activity ranges from lower amplitude and discreet to higher amplitude and the EEG is best reviewed at a sensitivity of 10 microvolts/mm.
+As the recording continues, the patient has some behavioral events, laughing, smiling which produce muscle artifact, but these are not epileptiform seizures.
+In addition, there is a brief train of left frontal sharp waves, again without clear clinical correlate.  The patient becomes briefly drowsy with a decrease in muscle, but no real change in the background EEG pattern or the epileptiform activity.
+Heart rate:  72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Markedly abnormal background with absence of the normal adult awake pattern.
+Slow spike and wave activity, frontally predominantly generalized.
+Multifocal spikes noted from either hemisphere.
+CLINICAL CORRELATION:  Previous EEGs from September 11, 2005 and January 26, 2009 were not available for comparison, but this EEG is characteristic of Lennox-Gastaut syndrome with slow spike and wave activity.  There was frequent epileptiform activity, but no clear clinical change with the patient.  These findings may be correlated with exam and clinical history.
+
+
+

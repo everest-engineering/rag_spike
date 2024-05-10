@@ -1,0 +1,30 @@
+History:	77 year old woman status post recent tPA, now with episodes concerning for
+Medications:	Valproic Acid
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  The
+background over the left consists of polymorphic 9 Hz alpha activity, weak AP gradient and excess
+theta.  There is no clear PDR or AP gradient over the right hemisphere.  The background over the
+right hemisphere consists of a mixture of polymorphic low-to-moderate amplitude theta and delta
+activity and intermittent right anterior temporal- frontocentral  sharp waves.  Maximal scalp
+negativity occurs over F8/T2 and, to a lesser degree, F4/C4 electrodes.  Sharp waves are more
+prominent during drowsiness.  Drowsiness is characterized by decrease in EMG artifact, fragmented
+Hyperventilation and photic stimulation are not performed.  EKG artifact is present.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+Sharp waves, intermittent, right temporal, anterior, primarily over F8/T2 leads
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 23-minute EEG due to mild diffuse slowing,
+moderate continuous right hemispheric slowing and intermittent right anterior temporal
+epileptiform discharges that increase in frequency during drowsiness. Diffuse slowing is indicative of
+mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing and
+intermittent epileptiform discharges are indicative of a potentially epileptogenic focal structural
+lesion over the right hemisphere and, especially, over the anterior temporal region.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  An 80-year-old male with change in mental status, right PCA stroke, atrial fibrillation.
+MEDICATIONS:  Albuterol, Keppra, metoprolol, Protonix.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively somnolent throughout.
+DESCRIPTION OF THE RECORD:  Background EEG is diffusely slow, relatively low voltage and featureless.  As the tracing continues, there is an asymmetry with a little bit of greater suppression of faster frequency activity in the right hemisphere, particularly in the posterior quadrant.  Brief arousals are characterized by an increase in theta with the exception of the right posterior quadrant or right hemisphere.
+Heart rate 104 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Asymmetry noted at times somewhat more intermittently with more slow, low voltage arrhythmic delta activity in the right hemisphere compared to the left.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function affecting both hemispheres but the attenuation of faster frequency (albeit only theta) on the right is congruent with a history of an acute process involving gray and white matter.
+
+
+

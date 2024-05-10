@@ -1,0 +1,41 @@
+AGE: 63 y.o.
+SEX: male
+DATE OF STUDY : 12/10/2015
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: 60 min - 3 hr, asleep only EEG #: 15-1792
+HISTORY:
+63 y.o. male with a history of epilepsy and alcohol abuse referred for routine EEG for persistent obtundation after seizure with eye deviation.
+MEDICATIONS :
+Current Outpatient Prescriptions: amlodipine (NORVASC) 10 mg tablet,
+clopidogrel (PLAVIX) 75 mg tablet, Take 1 tablet by mouth daily. levetiracetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily .
+lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, Take 1 tablet by mouth daily.
+pantoprazole (PROTONIX) 40 mg tablet, Take 1 tablet by mouth daily .
+aspirin EC 81 mg EC tablet, Take 1 tablet by mouth daily.
+current facility-administered medications for this visit. Keppra and Dilantin
+SEDATION: None TECHNIQUE:
+One-hour bedside portable ICU 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with
+Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of · EKG, there was no photic stimulation.
+EEG BACKGROUND:
+This is a dynamic record in a post ictal patient.	The initial sections of the record demonstrate a diffusely slow record with primarily of theta delta pattern.	In this drowsy pattern there are 2 left temporal sharp waves noted.	As the recording continues, the patient is more awake with eye opening.	The background .slowing improves over the course of the record but by the end of the record in wakefulness there is a 78 Hz alpha rhythm seen on the right not is well appreciated on the left.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.	Rhythmic temporal theta of drowsiness was noted, left greater than right.
+Sleep	includes vertex waves and spindles Moderate generalized slowing is present.
+Subtle left hemispheric focal slowing is present.	This is seen
+primarily in the early part of the record drowsiness
+EPILEPTIFORM ACTIVITY:
+2 left temporal sharp waves
+OTHER PAROXYSMAL ACTIVITY
+None
+ACTIVATION PROCEDURES: none EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is one-hour bedside portable EEG is remarkable for:
+#1 marked background slowing, improving over the course of one hour
+#2Subtle left temporal focal features
+#32 left temporal sharp waves
+CLINICAL CORRELATION:
+The background slowing described above has been seen in other EEGs recorded after this patient' s acute seizures. The focal sharp waves support diagnosis of epilepsy.
+
+
+

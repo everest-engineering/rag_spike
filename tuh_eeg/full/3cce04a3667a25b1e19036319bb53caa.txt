@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 51 year old right-handed male with encephalopathy with word finding difficulty, Parkinson disease, hypertension.
+MEDICATIONS: Protonix, Lovenox, Klonopin, Amantadine, Clonazepam
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very drowsy. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: Much of the record includes drowsiness or sleep with generous beta and posts. Stimulation of the patient produces brief eye opening. Photic stimulation elicits bilateral driving.
+HR: 84 bpm
+IMPRESSION: This EEG is remarkable for:
+1. Excess beta.
+CLINICAL CORRELATION: There are no epileptiform features. In the context of excess beta in an excessively drowsy patient, consider an excessively sedated individual.
+
+
+

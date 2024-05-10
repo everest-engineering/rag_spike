@@ -1,0 +1,30 @@
+History:	33 year old with a history of deja-vu episodes and episodes of abnormal smells.
+Medications:	Prilosec
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Occasional left anterior temporal polymorphic theta-delta activity is noted.  No epileptiform
+discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, left temporal, anterior
+No epileptiform discharges
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG because of occasional mild focal slowing
+in the left anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which
+is etiologically non-specific, but possibly structural in origin.  The lack of epileptiform discharges on
+a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

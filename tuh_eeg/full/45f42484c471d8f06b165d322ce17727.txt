@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 31-year-old male admitted to the hospital after a seizure characterized by shaking of the right arm, followed by generalization with loss of consciousness and tongue biting.  Tox screen positive for cannabis and street drugs.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation was completed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm with a generous amount of low voltage, frontal central beta.  In the transition to drowsiness there are occasional bursts of right or left temporal isolated theta or delta.  A handful of these are sharply contoured.
+Features of stage I sleep include vertex waves with vertex waves and spindles in stage II sleep.
+Photic stimulation elicits scant driving.
+Heart rate:  60 to 96 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:  Independent, shifting, right or left temporal focal slowing.
+CLINICAL CORRELATION:  These findings are nonspecific and can be seen in the context of underlying cerebrovascular disease.  The findings are out of the range of normal for a subject of this age.  Correlation with imaging and exam is suggested.
+
+
+

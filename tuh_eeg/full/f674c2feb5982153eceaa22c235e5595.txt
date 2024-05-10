@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 68-year-old male with acute renal failure, septic shock, and multiple other medical issues.
+MEDICATIONS:  Cefepime, insulin, Ativan (none for 3 days), Solu-Medrol, and thiamine.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was evaluated for unresponsiveness.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a very low-voltage pattern.  There are small amounts of rhythmic low voltage, 4-5 Hz activity.  This varies with a slow, 1-2 hertz delta pattern.  Eye movements were noted.
+Stimulation of the patient produced an alerting response and the technologist found the patient to be interactive, despite the very slow EEG pattern.
+EKG:  66 bpm (not working well).
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Marked background slowing.
+Low-voltage pattern.
+CLINICAL CORRELATION:  This EEG supports a diffuse, bihemispheric disturbance of cerebral function.  Contributing factors can include atoxic or metabolic process as well as a diffuse or chronic neurological process.  In that, this patient is more interactive than one might expect in this clinical context, a chronic process may be considered, although the patient is currently in the ICU for acute renal failure.
+__________________________
+
+
+

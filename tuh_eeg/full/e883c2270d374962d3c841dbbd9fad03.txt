@@ -1,0 +1,34 @@
+:
+History:	75 year old man with a history of seizures.  Patient was seizure-free until recently,
+but in the last month he had 2 reported generalized convulsions.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by low voltage 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Fast alpha variant is present.  Symmetric 5-15uV, 18-25Hz activity
+is present, maximal over bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates,
+and bursts of ~5 Hz monomorphic sharply contoured diffuse stereotyped theta activity appears.  This
+activity becomes more prominent as drowsiness deepens.  No clear stage II sleep architecture is
+Frequent polymorphic theta and delta activity is noted over the right anterior temporal region,
+increasing in frequency during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, frequent, right temporal, anterior, mild-to-moderate
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 25-minute EEG due to frequent mild-to-moderate focal
+slowing in the right anterior temporal region.  This finding is indicative of focal cerebral
+dysfunction, which is etiologically non-specific, but possibly structural in origin.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+
+
+

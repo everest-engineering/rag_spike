@@ -1,0 +1,17 @@
+CLINICAL HISTORY:á 58 year old male with cirrhosis; shortness of breath, pleural
+effusion, alcoholism, withdrawal seizures, and syncope.
+MEDICATIONS: Zosyn, Fentanyl, Ativan, pantoprazole, Thiamine, Folate Acid,
+Tylenol, Lorazepam
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is poorly responsive.
+
+DESCRIPTION OF THE RECORD: The background EEG is variable, but quite slow with a mixture of theta and delta. There is shifting asymmetries noted and the activity seems to be a lower voltage and a bit slower on the right, although this is an intermittent finding. With stimulation there is a bit more theta of the left. There may also be accentuation of beta activity and/or potentially a skull deformity or skull change at C3. Vertex waves are noted in sleep. There are a handful of triphasic waves.
+
+HR: 100 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing
+2. Shifting requiring clinical correlation.
+
+CLINICAL CORRELATION: There are no epileptiform features noted. This EEG supports a severe disturbance in cerebral in cerebral function as can be seen in the context of toxic or metabolic encephalopathy and/or cirrhosis.
+

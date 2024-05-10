@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 52-year-old with epilepsy since childhood, status post craniotomy in the right hemisphere, left eye blindness, left arm weakness, complex partial seizures characterized by dizziness and loss of consciousness, last seizure 1 week ago.
+MEDICATIONS:  Zyprexa.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was a primarily drowsy record.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is abnormal.  There is a low voltage alpha rhythm which ranges from 7-9 Hz.  There is a glimpse of new activity on the left at 9 Hz.  A breech rhythm is noted in the right hemisphere with higher amplitude in that region and also some destruction of faster frequency activity.  Focal slowing is noted from the right frontocentral region with subtle underlying right central sharp waves with a characteristic field of spread as may be recorded with a craniotomy defect.  In addition, there are bursts of bilateral, frontal slowing.  Features of sleep include vertex waves which are sometimes asymmetric.  In addition, there is some accentuation of faster frequency activity from the right hemisphere relative to the left as the patient drifts in and out of sleep.  Some of the sharp waves transition more to a right frontocentral location as the patient becomes drowsy.  More sustained stage II sleep includes bursts of high amplitude vertex waves, maximum at CZ, but with higher amplitude on the right.
+Photic stimulation does not significantly activate the record.  Heart rate 66 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the right frontocentral sharp waves.
+Occasional bilateral bursts of slowing or somewhat irregular FIRDA.
+Right frontocentral focal slowing.
+CLINICAL CORRELATION:  These findings are in the region of this patient's previous craniotomy and support a right frontocentral localization for the patient's epilepsy.
+
+
+

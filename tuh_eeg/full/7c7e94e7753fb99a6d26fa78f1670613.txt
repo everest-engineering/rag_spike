@@ -1,0 +1,32 @@
+History:	26 year old woman with reported seizures and a prior stroke.
+Medications:	Paxil, Temazepam, Depakote, Fluphenazine
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 11-11.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Patient remains awake throughout the study.
+No focal slowing is present.  No epileptiform discharges are present.  A single event characterized
+by eye closure, eye flutter, foaming from the mouth, non-responsiveness and subtle high frequency
+head bobbing is captured.  At the end patient cannot recall her name and is slow to respond.  The
+event lasts ~ 3 min 20 seconds.  Diffuse muscle artifact, eye flutter artifact and movement artifact
+with underlying normal background are captured during the event.  EEG is reviewed during the
+event and patient is evaluated with the attending physician after the episode ends.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Other, 1 event with no EEG correlate
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is a NORMAL 26-minute EEG, awake-only.  No epileptiform discharges were present, but stage
+2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. A single event characterized by eye closure, eye flutter, foaming from the
+mouth, non-responsiveness and subtle high frequency head bobbing has no abnormal ictal EEG
+
+
+
+
+

@@ -1,0 +1,22 @@
+History:	59 year old male with intractable epilepsy admitted for medication adjustment and evaluation for possible seizures in setting of altered mental status.
+Medications: Sedation: EEG Type: Technique:
+None
+Continuous (input, video), 24 hrs, portable	,
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG was available at the bedside and over the hospital network for continuous review by trained nurses and EEG technologists. Ongoing raw EEG data was reviewed at least twice daily by the EEG team including attending physician for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the ICU monitoring technician and the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During rare stage 2 sleep,the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+There was intermittent left temporal focal slowing (theta and less often, delta) seen with a broad field covering T3-T5-01. There were intermittent left mid-temporal sharp waves and rare spikes observed, maximal at T3-T5.  No clinical or electrographic seizures were observed.
+Hyperventilation and photic stimulation are not performed. The EKG showed a regular rate and rhythm.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, mid Sharp waves, intermittent, left temporal, mid
+Spikes, rare, left temporal, mid
+Interpretation:
+This is an ABNORMAL 24 hour video-EEG, awake, drowsy, and asleep due to intermittent focal slowing, sharp waves, and spikes (rare) in the left mid-temporal region. These findings suggest a structural brain lesion in the left temporal lobe with epileptogenic potential.  No clinical or electrographic seizures are present. These findings were conveyed to the primary team.
+
+
+
+

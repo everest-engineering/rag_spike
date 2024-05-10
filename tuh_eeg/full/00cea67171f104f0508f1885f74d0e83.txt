@@ -1,0 +1,30 @@
+History:	72 year old man with extensive PMH, now presents with change in mental status
+and a low  blood sugar.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, lethargic, photic
+Description:
+During maximal arousal, the background is characterized by a 25-40uV, 9-9.5Hz alpha rhythm,
+which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present
+throughout the recording and increases during drowsiness.  During drowsiness, the background is
+characterized by a mixture of moderate voltage theta and delta activity.  Patient rapidly transitions
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+Interpretation:
+This is a mildly abnormal awake and drowsy 24-min EEG due to mild diffuse slowing. This finding
+is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but in this case
+likely related to an excessively drowsy patient, given the fact that he rapidly transitions between
+arousals and drowsiness.  The lack of epileptiform discharges on a routine EEG does not rule out a
+clinical diagnosis of epilepsy.
+
+
+
+
+
+

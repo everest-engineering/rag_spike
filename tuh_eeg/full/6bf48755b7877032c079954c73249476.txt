@@ -1,0 +1,17 @@
+MEDICATIONS:  Depakote, Keppra.
+
+CLINICAL HISTORY:  A 28-year-old male admitted to the hospital on the 26th following a tonic/clonic seizure at home.  Typical seizure is characterized by blank stare with metallic taste followed by postictal confusion.  Recently, the patient developed drop attacks followed by head-turning to the right with shaking and tongue biting.  Epilepsy for the past 2 years.
+
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are completed.  This is an awake and asleep record.  There are no previous records for comparison.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by rhythmic slowing of the background and some hypersynchronous rhythmic slowing with symmetric vertex waves.  Hyperventilation produces an increase in the amplitude in the background.  Photic stimulation elicit subtle driving supra-harmonic driving.
+
+Heart rate 78 beats per minute.
+
+IMPRESSION:  Normal EEG in wakefulness and brief sleep.
+
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy and if seizures are a consideration, a repeat tracing is suggested.
+
+
+
+

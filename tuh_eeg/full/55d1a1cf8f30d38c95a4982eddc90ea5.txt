@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 54-year-old woman, status post right temporal lobectomy 5 years ago, with incomplete control of complex partial seizures.
+MEDICATIONS:  Keppra, Vimpat.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm identified bilaterally with a small amount of frontal central beta.  Prominent breach rhythm is noted in the right temporal region with accentuation of faster frequency activity as well as arrhythmic delta activity.  In the context of a breach rhythm, there are occasional right mid temporal sharp waves with T4 maximum.  Drowsiness is characterized by accentuation of the breach rhythm and more prominent disruption of faster frequency activity on the right.  Deeper stages of sleep were not achieved.
+Photic stimulation did not activate the record.  Stage II sleep was captured in the final minutes of the EEG.
+Hyperventilation was not completed.
+Heart rate 60 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Right temporal focal slowing.
+Rare right temporal sharp waves, T4 maximum.
+CLINICAL CORRELATION:  Breach rhythm is an anticipated finding following craniotomy.  The focal slowing and the sharp waves are in the region of the patient's previous resection.
+
+
+

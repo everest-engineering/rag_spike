@@ -1,0 +1,31 @@
+History:	50 year old woman admitted for a right frontal contusion after falling forward from a
+gtc seizure for 45 seconds. Pmhx: Localization-related Epilepsy, depression,
+anxiety.  Morphologic features suggestive of chiari malformation, agenesis of the
+corpus callosum and subependymal heterotopia.
+Medications:	TEGRETOL, KEPPRA
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which is best seen over the
+right hemisphere.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal
+regions.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic theta activity is present in the left mid and posterior temporal region
+during wakefulness, increasing during drowsiness.  There is associated loss of faster frequencies over
+the left temporal region.  Rare focal spikes are present with phase reversal and amplitude
+Hyperventilation and photic stimulation are not performed.  Verbal stimuli did not activate the
+record.  HR was 72.
+Summary of Findings:
+Sharp waves, rare, left temporal, mid
+Focal slowing, polymorphic, nearly continuous, left temporal, Mid and posterior temporal with
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of Rare spike in the left mid
+temporal region.  These findings are indicative of a potentially epileptogenic focus in this region,
+and given the clinical history of partial seizures, are consistent with a diagnosis of localization-
+related epilepsy. There  is also nearly continuous focal slowing in the left mid and posterior
+temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-
+
+
+

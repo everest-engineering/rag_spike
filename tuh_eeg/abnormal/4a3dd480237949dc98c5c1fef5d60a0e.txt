@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 42 year old female who is status post right craniectomy and left-sided weakness with change in mental status days after surgery for brain cancer, possible mets and status post radiation.
+MEDICATIONS:  Keppra, Decadron, Dilaudid.
+REASON FOR STUDY:  Concern for seizures and change in mental status
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while lethargic.  No activating procedures were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a symmetric amplitude of frequencies which are increased over the right hemisphere, maximum in the temporal lobe.  Despite stimulation, there is only mild increase in the faster frequencies.  No normal sleep architecture is seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:
+Focal slow waves seen continuously at T4/T6 at 2-4 Hz with an amplitude of 20-100 microvolts.  This pattern is seen continuously throughout the recording and at times becomes more monomorphic and almost rhythmic, but does not clearly evolve.  It also at times has a more contoured pattern.  This pattern has an associated breach rhythm to it.
+Generalized slow waves as described at 2-4 Hz with an amplitude of 20-60 microvolts seen diffusely with intermittent periods of more suppressed activity.
+IMPRESSION:  Abnormal EEG due:
+1.  Continuous mid to posterior temporal slowing in the setting of a breach.
+2.  Marked generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right mid to posterior temporal region, which is consistent with a known surgery and tumor removal.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology and may be due to at least in part medication effect, bilateral white matter disease, or toxic metabolic encephalopathy.  No clear seizures were seen.  It would helpful if the patient continues to not improve to have a repeated EEG to reevaluate this intermittent rhythmic pattern in the right temporal lobe, especially is seizures remains a consideration.
+
+
+

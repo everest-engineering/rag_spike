@@ -1,0 +1,28 @@
+History:	49 yo for thrombectomy.
+Medications:	ETOMIDATE, VERSED, FENTANYL, ISO FLURANE, SUCCINYLCHOLINE,
+HEPARIN, EPINEPHRINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, comatose
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During the surgery the EEG became progressively slower and more
+attenuated. No asymmetry was noted during this time.  No normal sleep architecture was present
+No focal slowing is present.  No epileptiform discharges are present.  With hypothermia some sharp
+waves are noted prior to attenuation of the EEG.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  Cardiac arrest at 9:40 AM. EEG became continuously attenuated at
+10:35AM.   Patient background did not return to baseline and remained diffusely slow and
+somewhat attenuated at the end of the study. This changes where informed to the surgical team.
+Summary of Findings:
+No electrographic seizures
+Interpretation:
+This is a uneventful 8 hour EEG during a  pulmonary thrombectomy.
+
+
+
+
+
+

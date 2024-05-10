@@ -1,0 +1,43 @@
+﻿CLINICAL HISTORY:  Refractory seizures.  Patients presents with daily events, for which she often has no warning and can otherwise describes seizures may have stroke like features.
+
+MEDICATIONS:  Topiramate, Trileptal, Lexapro.
+
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement of seizure and spike detection software.
+05/18/2015- 05/19/2015
+The patient experienced 1 event in the first 24 hours of recording.
+
+Background:  In wakefulness, the background EEG includes a 10 Hz alpha rhythm with symmetric reactive alpha.  Stage 2 sleep includes vertex waves, K complexes, spindles, and Posts.
+Epileptiform Detections:  None.
+Epileptic seizures:  None.
+Events:  The patient had an event at 4:31.  The patient was awake, but the push button was pushed at 4:33.  EEG pattern during this clinical event was characterized by a normal awake EEG with heart rate 80 bpm.
+
+05/19/2015- 05/20/2015
+During this section of the record, the patient's Trileptal and topiramate doses were reduced.  The patient had 4 push button events, only one clinically significant  while off camera in the bathroom.
+
+Background:  In wakefulness, there is a 9.5 Hz posterior dominant rhythm, which is symmetric and reactive to eye opening.  Stage 2 sleep includes vertex waves, K complexes, and spindles.
+
+Epileptiform abnormalities:  None.
+
+Epileptic seizures:  None.
+
+Push buttons:
+
+1. Shaking spell off camera:  EEG demonstrates a normal awake pattern.
+2. Questionable event noted by nurse.  It is not clear that it was a seizure.  No EEG change.
+
+05/20/2015- 05/21/2015
+
+Background:  In wakefulness, the background EEG includes a 10 Hz alpha rhythm with symmetric reactive alpha. Wicket activity was seen in drowsiness, left more than right
+Stage 2 sleep includes vertex waves, K complexes, spindles, and Posts.
+Epileptiform Detections:  A single left temporal sharp wave was seen in drowsiness
+Epileptic seizures:  None.
+
+Impression: 72 hour EEG remarkable for:
+1. Two events without EEG change, with behaviors typical of non-epileptic seizures
+2. No additional events could be elicited with medication reduction
+3. A single Left temporal sharp wave
+
+CLINICAL CORRELATION:
+As discussed with the patient, the current events appear to be stress related non epileptic seizures.
+The possibility of an underlying epilepsy is not excluded, but if present appears to be controlled by current therapies.
+

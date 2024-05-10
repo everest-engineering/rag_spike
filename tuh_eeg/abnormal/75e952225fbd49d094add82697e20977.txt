@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 51 year old male with fungal cellulitis, septicemia.
+MEDICATIONS: Keppra, Protonix, Folic Acid, Lantus, Bicitra, Protonix
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is not intubated, he sits with his head turned to the left and his right arm postured.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a overall slow pattern with a mixture of beta, theta and delta. There is a high amplitude periodic complex noted in the right hemisphere with some variability in terms of amplitude maximum. Sometimes it is maximum C4, other times right frontal. It may be high or low in amplitude. It does not demonstrate frequency evolution but it does have a very large field of spread. With the use of an average reference it is typically right frontal or central parietal. Occasionally after the sharp waves there is a brief attenuation in the background lasting approximately a second. The epileptiform activity can be reviewed at slow paper speed. In using slow paper speed there is no definitive evolution of the activity. Stimulation of the patient produces a withdrawal response but does not particularly activate the EEG.
+HR: 112 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Continuous epileptiform activity from the right hemisphere with subtle frequency evolution and some bursts.
+2. Epileptiform activity right frontal or central and parietal regions.
+3. Generalized background slowing.
+4. Intermittent attenuation of the background.
+CLINICAL CORRELATION: This EEG continues to demonstrate a highly epileptogenic pattern with subtle frequency evolution but without frank seizures.
+
+
+

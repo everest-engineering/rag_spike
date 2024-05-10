@@ -1,0 +1,33 @@
+History:	57 year old man who has a history of left cerebral AVM, status post craniotomy.  Left
+facial twitching was recently noted.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 8 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  There is continuous ~2 Hz moderate
+amplitude EMG artifact that affects primarily left hemispheric leads, specifically, left frontopolar
+leads.  EEG technologist reports intermittent left facial twitching and perioral twitching - there is no
+Summary of Findings:
+Sleep, stage 2
+No electrographic seizures
+Artifact, EMG, continuous, rhythmic at ~ 2 Hz, L>R
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute portable EEG due to minimally slower
+posterior dominant rhythm, than that expected for the patient's age. This finding is indicative of
+mild diffuse cerebral dysfunction, which is etiologically nonspecific.  No electrographic seizures are
+present.  Left facial and perioral rhythmic subtle twitching are only associated with rhythmic EMG
+artifact - please note that only ~ 25% of simple partial seizures are captured on the scalp EEG.
+
+
+
+
+

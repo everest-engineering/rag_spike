@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 70-year-old woman with a history of left MCA stroke who presents with a generalized tonic-clonic convulsion that started with eyes deviation to the right.  The event occurred approximately 14 days ago.
+MEDICATIONS:  Current medications:  Keppra, clonidine, Plavix, amlodipine.
+INTRODUCTION:  The recording is performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Step photic stimulation was performed.  The recording was performed in the laboratory.
+DESCRIPTION OF THE RECORD:  There is right-to-left interhemispheric asymmetry with faster waveforms at higher amplitudes over the right hemisphere.  The posterior dominant rhythm over the right consists of moderate amplitude well-formed and modulated 10Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient over the right as well.  The posterior dominant rhythm over the left reaches approximately 9 to 9.5 Hz alpha activity.  There is an AP gradient over the left hemisphere with faster frequencies at lower amplitudes anteriorly.  Additional polymorphic theta activity is present over the left hemisphere, most pronounced over the left temporal region.  During drowsiness the posterior dominant rhythm attenuates and bursts of theta are captured.  Hyperventilation is not performed.  Photic stimulation does not result in additional abnormalities.  A regular cardiac rhythm is noted on the single EKG lead.  There is diffuse excess beta throughout the recording.
+FINDINGS:
+No epileptiform discharges.
+Continuous mild left hemispheric slowing, most pronounced over the left temporal region.
+Excess beta.
+No stage II sleep.
+IMPRESSION:  This is an abnormal awake and drowsy 21-minute EEG due to mild continuous left hemispheric slowing, most pronounced over the left temporal region.  This findings indicates focal cerebral dysfunction, likely structural in etiology, and in this patient is consistent with a history of left middle cerebral artery territory stroke.  Excess beta could be secondary to the medication effect such as benzodiazepines or barbiturates.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical indication for seizures persists a repeat study with stage II sleep may be of benefit.
+
+
+

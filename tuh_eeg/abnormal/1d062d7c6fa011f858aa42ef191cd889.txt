@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  81 year old right handed male with right MCA infarct, renal failure, slurred speech on the 8th.
+MEDICATIONS:  Keppra, Plavix, Lantus, Heparin, Atorvastatin, Imdur, Pantoprazole, Insulin, Cyclosporine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is relatively drowsy.
+DESCRIPTION OF THE RECORD:  The patient is quite drowsy, but when he is awake, there is an 8 hertz alpha rhythm which is starting to emerge. There is occasional shifting slowing. Some of this is prominent in the posterior regions, left and right parietal region. Arrhythmic delta is seen a little bit more frequently in the left central parietal region rather than the right.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting focal slowing.
+Arrhythmic delta activity primarily in the left parietal region.
+CLINICAL CORRELATION:  In comparison to a previous EEG, the right parietal sharp waves have resolved. The focal slowing is a bit more prominent in the left.
+
+
+

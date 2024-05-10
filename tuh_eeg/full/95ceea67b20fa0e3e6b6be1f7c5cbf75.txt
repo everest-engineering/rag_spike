@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 67-year-old male with intermittent episodes of dizziness and loss of balance.  Intermittent paroxysmal spells with bending or movement.
+MEDICATIONS:  Metformin, insulin, nitroglycerin, gabapentin, and many others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel of EKG.  Photic stimulation was performed.  Hyperventilation was deferred.  This is an awake and sleep record in a very drowsy individual.  Technical quality was acceptable.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm.  Drowsiness is characterized by slowing of the background with slow rolling eye movements.  Brief epochs of stage II sleep are observed followed immediately by arousals.  Photic stimulation elicits driving.  Occasional muscle artifact, compatible with snoring, was noted.
+Heart rate:  Irregular 66 BPM.
+IMPRESSION:  This is a normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were observed.  This is a very drowsy individual with fragmented sleep.  In addition, there seemed to be some muscle artifact suggesting that there may have been snore arousals.  If appropriate an evaluation for hypersomnolence may be needed.
+
+
+

@@ -1,0 +1,28 @@
+History:	81 year old woman with change in mental status.
+Medications:	Keppra, lasix, heparin, hydralazine, metoprolol, trazodone, amlodipine
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+During maximal arousal the PDR reaches polymorphic 8.5 Hz alpha activity.  The AP gradient is
+weak.  Frequent 50-75uV, 4-7Hz waves are interspersed throughout the recording.  Patient remain
+awake throughout the recording.
+Continuous polymorphic delta activity is present in the left hemisphere, especially over the left
+temporal region.  Less frequent polymorphic delta activity is noted over the right temporal region.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, left, hemisphere, especially left temporal
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only EEG due to mild diffuse slowing and continuous moderate left
+hemispheric slowing that is most pronounced over the left temporal region. Diffuse slowing is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal
+slowing in the left temporal region is indicative of a focal cerebral dysfunction, likely structural in
+etiology.  Occasional right temporal slowing is not considered pathologic in patients over 65 years
+of age.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis
+
+

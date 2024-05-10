@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  47 year old right handed male with a 4-year history of epilepsy, last seizure 2 days ago with tonic/clonic activity, loss of consciousness, and confusion.  Family history of asthma.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm of 30 microvolts with a generous amount of low voltage, frontocentral beta.  Features of drowsiness include attenuation of the alpha rhythm.  An increase in theta and rare vertex waves are also noted in sleep.  K-complexes, spindles, and POSTs characterize stage II sleep.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits bilateral driving.
+HR:    60 bpm
+IMPRESSION:  This is a lower voltage but normal EEG.
+CLINICAL CORRELATION:  This is the second normal EEG for this individual.  The previous EEG identified a normal variant.  If further characterization of his epilepsy is important, consideration for a sleep deprived EEG or inpatient video EEG recording
+may be of value. A previous EEG was performed February 17, 2006 and was normal.
+
+
+

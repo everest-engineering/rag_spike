@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  54 year old male with epilepsy, multiple break through seizures which were tonic clonic, non-adherent with medications.
+
+MEDICATIONS:  Keppra, Topamax.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed. The patient is poorly cooperative and poorly responsive during the EEG. He has had 5 seizures.
+
+DESCRIPTION OF THE RECORD:  The background EEG is quite abnormal. When the patient is not having a seizure, it is a lower voltage mixed frequency pattern with frontal bursts of left frontal theta frequency activity.  There are 5 seizures noted in the EEG which seem to be left frontal or frontotemporal maximum with high amplitude sharp activity. Characteristic frequency evolution is noted. During most of the seizures, the patient is motionless and afterward, he is confused. The technologist does not appear to recognize the seizures. The discharges are typically 1-2 minutes in duration. Additional seizures are characterized by oral automatisms. Photic stimulation is performed while the patient is continuing to have seizures.
+
+HR:    96 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Ictal pattern compatible with a focal status epilepticus complex partial status epilepticus.
+
+CLINICAL CORRELATION:  These findings were reported to the clinical team. Additional evaluation and intervention was implanted..
+
+DD:01/03/2012
+DT:01/03/2012
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 54-year-old female with new onset episodes of confusion while driving.  She also has bilateral frontal headaches on a daily basis and past medical history of TIA in 2009.
+MEDICATIONS:  Clonazepam, doxepin, risperidone, and sertraline.
+INTRODUCTION:  Digital video EEG was performed in the lab/bedside using standard 10-20 system of electrode placement with one-channel of EKG.  Photic stimulation was performed.  Hyperventilation was not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 11 Hz in frequency, 30-50 microvolts in amplitude, seen in the occipital region, which attenuates with eye opening.  There is generalized low-amplitude beta-activity, which is distributed symmetrically.  There are frequent bursts of bitemporal slowing at F7/T3 and F8/T4, more prominent on the left side or independent left temporal slowing at F7/T3, in wakefulness and sleep consisting of 1.5-2 Hz delta frequency, 50-70 microvolt in amplitude lasting from 1-2 seconds.  Stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background,, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves.  Photic stimulation was performed at multiple frequencies and resulted in a driving response.  Heart rate was 55 to 60 beats per minute and it was regular.
+IMPRESSION:  This is an abnormal EEG due to bitemporal slowing, left more than right side seen during wakefulness and sleep.  No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  The above findings are suggestive of either by bilateral structural abnormalities or bilateral cerebral dysfunction.  Other causes include metabolic, toxic, or infectious encephalopathy.  The generalized beta-activity could be due to medication effect including benzodiazepines, barbiturates, or could be due to anxiety or hyperthyroidism.
+No epileptiform abnormalities were seen in this record.  This does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, a repeat sleep deprived EEG or a 24-hour ambulatory EEG may be helpful.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  58 year old right handed gentleman with a right subdural hematoma, followed by development of seizures with left sided shaking in sleep.  Currently seizure free in June.  Seizures characterized by left leg shaking.  AICD, sarcoid, and coronary artery disease.
+MEDICATIONS:  Keppra, Lasix, Amiodarone, Coreg, Warfarin, Digoxin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  A subtle breech rhythm is identified in the right central temporal region with higher amplitude vertex waves in that area.   As the patient transitions to sleep, there is some subtle underlying slowing noted in the right central temporal region. Features of stage II sleep include vertex waves, K-complexes, and spindles, as well as POSTS. Photic stimulation elicits some photoelectric artifact, but also a driving response.
+HR:    60 bpm and irregular
+IMPRESSION:  This EEG is remarkable for:
+Mild subtle slowing in the right central temporal region.
+CLINICAL CORRELATION:  A breech rhythm is an anticipated finding following cranial trauma.  No epileptiform features were identified.  In comparison to a previous study, there is less in the way of focal slowing noted today.
+
+
+

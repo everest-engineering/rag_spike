@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 26 -year-old male with epilepsy since age 11.  Seizures began while he was watching television.  Last seizure June 27. Seizures characterized by eye blinking, swallowing, loss of consciousness, convulsive activity and confusion.  The patient is unclear as to how often he has these seizures but notes that flashing lights exacerbate them.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was an awake through stage II sleep record in a patient who was quite sleepy. Photic stimulation was repeated during the EEG and cognitive testing was completed.  Impedances and technical aspects were acceptable.
+DESCRIPTION OF THE RECORD:  The patient is very drowsy with an 11 Hz alpha rhythm, generous low voltage, frontocentral beta.  He quickly transitioned from wakefulness to stage II sleep with generous beta followed by vertex waves, K-complexes, and spindles and POSTS.
+Hyperventilation produces an increase in beta.
+Photic stimulation elicited driving, superharmonic driving and a photo- paroxysmal response.  __________ can be seen as early as 1 Hz with superharmonic driving at 3 Hz.  Epileptiform activity was noted as early as the 7 Hz stimulation with a high amplitude burst of paroxysmal spike and wave activity with polyspike and wave activity.  Typical frequencies include 3 to 5 Hz and the spike and wave activity is typically under a second in duration.  This can be followed by lower voltage spike and wave activity in the occipital regions.  It seems to be a little bit more rapid on the right than the left when reviewed with an average reference.  This pattern of lower voltage spike and wave activity was seen at 7 Hz but consistently at the  faster frequency bursts.
+Most bursts of paroxysmal epileptiform activity were less than 2 seconds.  Using a referential montage, they seemed to be maximum at the bin line but sometimes the polyspike activity is a little bit more prominent on the right.  The patient was given a reading task.  No interruption in reading was noted during the brief bursts, none of which were longer than 3 seconds.
+An additional interictal epileptiform activity included a generalized  spike and wave discharge superimposed upon a vertex wave which was a little bit maximum to the left.
+Heart rate 66 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+A photo- paroxysmal response with spike and wave activity at 7 Hz and above.
+A single generalized discharge noted in stage II sleep.
+CLINICAL CORRELATION:  On the whole, the features described above are relatively symmetric with polyspike and wave activity.  No impairment of awareness occurred with these events.  This EEG is most compatible with a generalized mechanism for epilepsy.  Plans were initiated to step up the patient's outpatient EEG appointment.
+
+
+

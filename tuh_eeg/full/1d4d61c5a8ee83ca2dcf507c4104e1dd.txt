@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  71 year old right handed male with recurrent syncopal episodes, including 2 episodes of lightheadedness and loss of consciousness 7 days ago.
+MEDICATIONS:  Gabapentin, Oxybutynin, ASA, Omeprazole, Loperamide, Meclizine, Enablex, Lisinopril, Combivent, Doxepin, Mirtazapine, Advair, Finasteride.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is an 8.3 Hz alpha rhythm. Drowsiness is characterized by some slightly asynchronous bursts.  There are a handful of asynchronous bursts noted in relaxed wakefulness, but there is also a bad T1 electrode. Photic stimulation elicits scant driving. Hyperventilation produces primarily head rocking artifact.
+HR:  72 bpm with occasional premature ventricular contractions.
+IMPRESSION:  Mildly abnormal EEG for an adult of this age due to:
+Slow alpha rhythm for age.
+Mild, shifting asymmetries.
+CLINICAL CORRELATION:  No epileptiform features were observed.  Given the T1 electrode artifact, consideration for a repeat study in the laboratory may be warranted.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 26-year-old right-handed male with episodes of loss of consciousness, incontinence, and shaking for the past 2 weeks.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG performed using 10/20 system of electrode placement with 1-channel EKG. Hyperventilation and photic stimulation are performed. This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9Hz symmetrical reactive posterior dominant rhythm. In wakefulness, there is some rhythmic background slowing as the patient transitions rapidly between wakefulness and sleep. Most importantly,
+there are a handful of left temporal sharp waves or rhythmic left temporal theta. These occur around the time of hyperventilation. They are typically 4.4 Hz, but there is clear frequency evolution with these discharges.
+The discharges are maximum at T1 and are seen around the time of hyperventilation and in early drowsiness, but not in deeper stages of sleep.
+Photic stimulation elicits bilateral driving.Heart rate 8 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+1.	Left temporal rhythmic theta activity.
+2.	Left temporal sharp waves.
+CLINICAL CORRELATION:  These findings are relatively characteristic of temporal lobe epilepsy. Given the frequent evolution of sharp waves, these would be considered epileptiform rather than a normal variant.
+
+
+

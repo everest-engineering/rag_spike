@@ -1,0 +1,49 @@
+AGE: 37 y.o.
+SEX: female
+DATE OF STUDY: 12/17/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE : 20-40 min, awake and asleep EEG #: 15-1827
+HISTORY:
+37 y.o. female with a history of renal transplant and recent absence seizure referred for routine EEG for evaluation of paroxysmal events.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+calcitriol (ROCALTROL) 0.5 mcg capsule, Take 0.5 mcg by mouth daily.
+albuterol (PROAIR HFA) 90 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 6 hours as needed for Wheezing.
+famotidine (PEPCID) 20 mg tablet, Take 20 mg by mouth 2 times daily.
+mycophenolate	(MYFORTIC) 360 mg Tablet, Delayed Release (E.C.), Take 720 mg by mouth 2 times daily.
+magnesium oxide (MAG-OX) 400 mg tablet, Take 400 mg by mouth 2 times daily.
+ferrous sulfate 325 mg (65 mg iron) tablet, Take 325 mg by mouth daily (with breakfast) .
+cyclosporine (SANDIMMUNE) 100 mg capsule, Take 100 mg by mouth 2 times daily.
+lamotrigine (LAMICTAL) 100 mg tablet, Take 100 mg by mouth 2 times daily .
+cyclosporine (SANDIMMUNE) 25 mg capsule, Take 25 mg by mouth 2 times daily.
+BUDESONIDE (PULMICORT IN), Inhale	into the lungs.
+lamotrigine (LAMICTAL) 25 mg tablet, Take 1 tablet by mouth 2 times daily.
+HYDROCHLOROTHIAZIDE PO, Take	by mouth daily. Pt. Is unaware of dose
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+corticotropin (ACTHAR H.P.) 80 unit/mL injectable gel, Inject into the muscle twice a week.
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Photic Stimulation : elicits scant driving EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and asleep routine EEG.
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake and asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of Epilepsy.	This is the 5th normal EEG for this subject
+
+
+

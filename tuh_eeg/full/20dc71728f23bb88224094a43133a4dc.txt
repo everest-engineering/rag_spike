@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 30 year old left handed woman with MVA 5 years ago followed by nocturnal tonic-clonic seizures.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation is performed. This is an awake and drowsy record.
+DESCRIPTION OF RECORD: In wakefulness, there is a lower amplitude 10.5 Hz alpha rhythm, better identified on the right compared to the left. Even with adjusting the sensitivity, the alpha seems to be slightly disrupted on the left. Electrode artifact is picked up T 4 throughout the EEG. With the use of a digital EEG technology again, the alpha activity on the right is more than twice the amplitude on the left. It is slightly faster. Beta frequency activity is also slightly faster. In some sections of the record, the profile is nearly symmetric for the overall frequencies and can be symmetric for the alpha frequency activity. Features of drowsiness include an increase in beta. Posts are observed In stage I sleep followed by spindles. Photic stimulation is performed while the patient is in stage II sleep and does not significantly activate the record.
+HR: 60 bpm
+IMPRESSION: Minimally abnormal EEG due to:
+1. An intermittent slight asymmetry in absolute frequency of the beta and alpha frequency activity for this individual.
+CLINICAL CORRELATION: There are no epileptiform features noted. These findings may be correlated with the patient's imaging. No epileptiform features were observed and, In fact, without the use of more advanced technologies, the subtle findings described above would not otherwise be assessed by more conventional techniques.
+
+
+

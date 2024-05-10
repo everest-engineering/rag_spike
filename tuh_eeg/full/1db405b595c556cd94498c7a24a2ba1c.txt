@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 52-year-old male with posttraumatic epilepsy.  The patient was in a recent MVA.  Was a restrained passenger when airbags deployed, and had a tonic-clonic seizure at the scene with recurrent seizure in the field.
+MEDICATIONS:  __________ , Ativan, Seroquel.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This patient was quite somnolent.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is very sleepy.  The overall pattern is low voltage, a little bit lower voltage on the right than the left (there is no mention of a __________ defect).  The patient transitions in and out of stage II sleep with spindles and K complexes.  There are some bursts of sharply contoured slowing with some arrhythmic delta activity in the left hemisphere, particularly mid temporal region.
+As the recording continues, the technologist is able to alert the patient, who demonstrates a 7.5 Hematochezia alpha rhythm.  In the transition in and out of sleep, there are some bursts of sharply contoured delta which are relatively subtle in the left hemisphere, including mid temporal or central temporal region.
+Photic stimulation is performed while the patient was relatively drowsy, and did not activate the record.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+An amplitude asymmetry with a lower voltage record on the right compared to the left.
+Background slowing in apparent wakefulness.
+Rare bursts of sharply contoured slowing from the left hemisphere.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  The amplitude asymmetry may reflect previous CNS injury or changes in the thickness in the patient's skull.  The sharply contoured slowing on the left may be correlated with underlying changes in the left hemisphere.  Hypersomnolence noted may be due to postictal state or medications.
+
+
+

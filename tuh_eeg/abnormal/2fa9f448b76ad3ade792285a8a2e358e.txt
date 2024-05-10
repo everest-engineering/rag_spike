@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 27 year old right handed woman with a subarachnoid hemorrhage now with spells of right-sided numbness, confusion, and headache lasting 1/2 hour.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz alpha rhythm of 40-50 microvolts. The alpha rhythm is a little higher on the left compared to the right. Features of drowsiness include attenuation of the alpha and the appearance of rhythmic theta. Hyperventilation produces an increase in amplitude in the background. Photic stimulation elicits harmonic and super harmonic driving which is relatively symmetric.
+HR: 66 bpm
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: No pathologic features were observed. The alpha amplitude asymmetry is of no clinical significance. If epilepsy is an important consideration, a follow-up study may be considered.
+
+
+

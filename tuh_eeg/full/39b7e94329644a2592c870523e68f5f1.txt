@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 25-year-old male with toxic ingestion causing acute renal failure, ventilator dependent respiratory failure, hospital day #15.  Evaluate for ECS.  His body temperature was 91.3.
+MEDICATIONS:  Norepinephrine, vasopressin, and ampicillin.
+INTRODUCTION:  A 1 hour EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a digital, reformattable EEG which can be reviewed in ECS and other montages.  ECS montage was employed in this protocol.  This is a technically satisfactory EEG.  Electrode integrity and the integrity of the system was checked and the patient was stimulated during the EEG.
+DESCRIPTION OF THE RECORD:  No cerebral activity was noted.  No variability was noted.  No reactivity was noted.
+HEART RATE 75 BPM.
+IMPRESSION:  Abnormal EEG due to:  Absence of cerebral activity.
+CLINICAL CORRELATION:  In the appropriate clinical setting, this EEG may be used in a brain death evaluation.
+
+
+

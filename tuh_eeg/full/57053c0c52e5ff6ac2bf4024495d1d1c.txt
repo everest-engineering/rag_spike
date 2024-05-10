@@ -1,0 +1,42 @@
+History:	81 year old man with metastatic melanoma status post recent right frontal
+craniotomy, now presents with confusion and aphasia.
+Medications:	Keppra, Ativan 2 mg IVP, phenytoin load
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~18 hours from ~11 AM on 12/24/2013 till ~ 5 AM
+on 12/25/2013.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing
+raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and
+changes in EEG patterns.   All automatically detected events were reviewed in detail by the
+attending neurologist.   The Gotman spike and seizure detection algorithm (Stellate) was used to
+screen the EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right to left interhemispheric asymmetry with slower waveforms over the right.  There is
+fragmented 8 Hz PDR observed over the left hemisphere with weak AP gradient over the left.
+Additional polymorphic irregular theta and delta activity is noted over the left.  There is no clear
+PDR or AP gradient over the right.  The background over the right consists of a mixture of
+polymorphic low-to-moderate amplitude theta and delta activity.  There are clear sleep-wake
+cycles.  Sleep is characterized by sleep-spindles-like waveforms, fragments of K-complexes,
+increase in the degree of diffuse delta activity and disappearance of EMG artifact.
+A single poorly localized right hemispheric seizure is captured at ~ 11:20 am.  It lasts ~ 4 minutes.
+It is characterized by gradual appearance of rhythmic right hemispheric delta activity.  Video
+review does not demonstrate any clear clinical correlate.
+All of the leads are disconnected from ~ 11:30 AM till ~ 1:30 PM.
+Summary of Findings:
+Seizure, one, right hemispheric, poorly localized
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate
+Interpretation:
+This is an ABNORMAL continuous 18-hour video EEG due to mild diffuse slowing, focal moderate
+right hemispheric slowing and at least one focal right hemispheric seizure. Diffuse slowing is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Focal right
+hemispheric slowing and seizure indicate focal cerebral dysfunction, likely structural in etiology and
+
+is consistent with patient's history of metastatic cerebral disease.  These findings were conveyed to
+the neurology consult team and the primary team.
+
+

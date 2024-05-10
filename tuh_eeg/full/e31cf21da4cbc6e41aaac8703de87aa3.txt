@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  The patient is a 48-year-old man with a history of recurrent episodes of dizziness followed by loss of consciousness.
+MEDICATIONS:  Keppra 750 mg b.i.d.  Percocet, lisinopril and hydrochlorothiazide.
+INTRODUCTION: The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  The patient was provided with an event button.  Seizure detector and spike detector were activated.  Nursing notes and medical staff notes were reviewed.
+DESCRIPTION OF THE RECORD:  Dates of the recording 12/17/2012, from approximately 4:45 p.m. until 12/18/2012, until approximately 7:45 a.m.
+The posterior dominant rhythm consisted of a well formed and modulated moderate amplitude 10.5 to 11 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, symmetrical vertex waves, sleep spindles, K complexes, slow wave sleep and a single epoch of a REM sleep are captured.  Hyperventilation and photic stimulation are not performed.  No typical events are captured.
+FINDINGS:  No events.
+IMPRESSION:  This is a normal 15 hour continuous audio video EEG monitoring.  No epileptiform discharges or typical events were recorded during that recording.
+
+
+

@@ -1,0 +1,18 @@
+CLINICAL HISTORY:   50 year old female in for follow-up EEG. Patient has history of "an aura" of responsiveness lasting 2-3 minutes occurring 4-6 times per day, none at present. Low grade glioma diagnosed in 1999.
+
+MEDICATIONS: Lamictal, Lisinopril, Haldol, Metformin.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD:   In wakefulness  there is a 9.5 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta activity. Hyperventilation
+is performed early on in the record and accentuates some left temporal focal slowing
+with rhythmic theta, some of which is sharply contoured. Features of drowsiness include anterior spread of the alpha rhythm and a bit more left temporal focal slowing with isolated theta/delta.   Rare focal slowing is also observed on the right.  Photic stimulation elicits bilateral driving.
+
+HR: 	66 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. 	Left temporal focal slowing, some of which is sharply contoured.
+2. 	Rare right temporal slowing.
+
+CLINICAL CORRELATION: In comparison to previous studies, no epileptiform features were noted today.
+

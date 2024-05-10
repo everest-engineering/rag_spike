@@ -1,0 +1,31 @@
+History:	43 YR MALE WITH H/O SZS. PER AIDE LAST SZ ONE YR AGO.  EVAL OF SZ.
+AUTISM, SZS. HYPERLIPIDEMIA,
+Medications:	LAMICTAL, DEPAKOTE, LEXAPRO, RISPERIDONE
+Sedation:	None
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+There is focal slowing in the left and right fronto-temporal region independently.  Frequent focal
+sharp waves, spikes and polyspikes present with phase reversal and amplitude maximum at F7, FP1,
+T5 and independently at F8/T4.  Some of the left frontotemporal sharps have a large field that
+spreads prefrontally and more frontal.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was
+Summary of Findings:
+Focal slowing, polymorphic, bilateral frontotemporal
+Sharp waves, bilateral (L>R) frontotemporal
+Polyspikes, right frontotemporal
+Sharp waves, left frontal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the bilateral fronto-temporal and left posterior temporal region.  These findings are indicative of
+a potentially epileptogenic focus in this region, and given the clinical history of partial seizures, are
+consistent with a diagnosis of localization-related epilepsy with multiple possible epileptogenic foci.
+
+

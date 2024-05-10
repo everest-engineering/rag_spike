@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  78-year-old woman with dementia, atrial fibrillation, hospitalized on the 10th with right arm shaking and hallucinations.  Was found to have a markedly low voltage and suppressed EEGs.  Patient continues to have problematic behavior.
+MEDICATIONS:  Lisinopril, vancomycin, Coumadin, Aricept, prednisone.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This was a challenging EEG due to the patient's persistent movement.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a very low voltage and slow pattern.  The patient has constant mouth movements.  Despite this, there is some underlying, slow periodic sharply contoured delta from the left hemisphere and potentially some from the right.
+Stimulation of the patient produces muscle artifact.  During some sections of the record the patient is awake and talking with a markedly slow background.
+Although this is a challenging EEG, there is a suggesting of additional asymmetry with a bit more rhythmic theta from the left hemisphere compared to the right.
+Heart rate irregular, 72 BPM.
+IMPRESSION:  Very challenging awake EEG but abnormal due to:
+Marked background slowing.
+A suggesting of an asymmetry with a bit more arrhythmic theta from the left compared to the right.
+Questionable slow periodic delta from the left and potentially from the right.
+CLINICAL CORRELATION:  To more completely evaluate this patient, a sleep EEG would be helpful.  This would eliminate the muscle artifact noted in wakefulness.  A single, more prolonged bedside recording, with sleep would eliminate the muscle and chew artifacts.
+
+
+

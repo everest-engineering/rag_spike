@@ -1,0 +1,30 @@
+History:	45 year old man undergoing aortic repair, aortic valve replacement and a cardiac
+bypass.
+
+This is intraoperative EEG monitoring.
+Medications:	Anesthesia, rocuronium
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, comatose
+Description:
+Patient is awake at the beginning of the procedure with normal background.  Once general
+anesthesia is initiated, the background consists of a mixture of polymorphic theta and delta activity
+with occasional periods of discontinuity.  This background is observed for the duration of the
+recording.  P4 and O2 leads are dislodged around 9:30 am and they remain as such for the rest of
+the recording.  At ~ 12:06 am, 4 Hz monomorphic activity appears in P4 and O2 leads.  This
+activity persists without change until ~ 12:25 PM and resolves spontaneous.  It reappears
+occasionally throughout the rest of the recording.  This activity is artifactual in  etiology.  T3 lead
+too becomes faulty by the end of the recording.  Circulatory bypass is initiated twice during the
+procedure: from ~10:05 am till ~1:18 am and from ~1:33 pm till ~2:07 pm.  The background
+remains grossly symmetrical throughout the procedure.  Right hemispheric lead artifact overall limit
+Summary of Findings:
+Interpretation:
+This is an unremarkable ~7 hour continuous intraoperative monitoring, with ~4 hours of direct live
+remote EEG monitoring and ~15 minutes of monitoring inside the OR.
+
+
+
+
+
+

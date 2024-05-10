@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  The patient is a 47-year-old man with past medical history of bilateral foot drop, diabetes, chronic kidney disease, status post unilateral nephrectomy, who woke up on 1/20/2013 feeling weak and unwell.  The patient fell to the floor, he started shaking, and was unable to stand and move his right arm.  Of note, he also had pain in his right shoulder.
+MEDICATIONS:  Lisinopril, Protonix, and others.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG LEAD.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated 8.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequency at lower amplitudes anteriorly.  There is nearly continuous frontally predominant EMG artifact.
+Hyperventilation is performed with good effort and produces no change in the background.
+Stepped photic stimulation results in no significant change in the background.
+During drowsiness, symmetrical vertex waves are captured.
+FINDINGS:
+No stage II sleep.
+No clear epileptiform discharges.
+Nearly continuous frontally predominant EMG artifact.
+IMPRESSION:  This is a normal awake and drowsy 40 minute EEG.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical indications for seizures persist, a repeat study with stage II sleep may be of benefit. Additionally, nearly continuous EMG artifact might have obscured some portions of the recording and epileptiform discharges might have been missed.
+
+
+

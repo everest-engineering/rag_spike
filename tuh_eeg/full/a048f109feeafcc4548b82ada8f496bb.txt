@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 62 year old right handed woman with right-sided GBM and seizures from the left brain. Her acute problem is left-sided tingling.
+MEDICATIONS: Keppra, Zonegran, Synthroid, Effexor
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was completed.
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and includes multiple focal features. A breech rhythm is identified from the right central region with prominent accentuation of faster frequency activity. There is also some underlying slowing, particularly in the right central temporal, and posterior temporal region. The alpha rhythm on the left is somewhat slow, 7.5 Hz, and the alpha rhythm on the right is intermittently disrupted. There is some sharply contoured slowing and a T4 sharp wave noted in relaxed wakefulness. Features of drowsiness include an increase in rhythmicity. There is some shilling slowing noted from either hemisphere, particularly the central regions. Photic stimulation produces scant driving. Occasional right temporal sharp waves are noted during photic stimulation.
+HR: 72 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Shifting focal slowing.
+3. Right temporal sharp waves.
+
+CLINICAL CORRELATION: This patient's breech rhythm is most prominent in the right frontocentral region and the sharp waves are in a slightly different localization. These findings support a bihemispheric process as may be anticipated with a pre-existing epilepsy and then the GBM.
+
+
+

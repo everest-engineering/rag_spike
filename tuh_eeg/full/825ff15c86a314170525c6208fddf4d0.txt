@@ -1,0 +1,14 @@
+MEDICATIONS:  Metoprolol, others.
+CLINICAL HISTORY:  A 60-year-old male with bilateral hand tremor.  Patient reports that the tremor waxes and wanes.  He had difficulty providing the history.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+TECHNICAL:  No significant issues.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background includes a well organized pattern with a 9 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by slow rolling eye movements why deeper stages of sleep were not sustained.
+Photic stimulation did not significantly activate the record.
+Hyperventilation did not activate the record significantly.
+Heart rate 72 beats per minute.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this EEG.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an
+important consideration, a follow up tracing capture in deeper stages of sleep is suggested.
+
+
+

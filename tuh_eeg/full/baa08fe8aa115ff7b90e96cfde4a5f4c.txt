@@ -1,0 +1,13 @@
+EGG LENGTH:  Approximately 24 minutes.
+CLINICAL HISTORY:  The patient is a 50-year-old man with a past medical history of a right MCA stroke, CHF, AICD, who now presents with a single episode of a fall followed by confusion and urinary incontinence.
+CURRENT MEDICATIONS:  Aspirin, Keppra, Zocor, etc.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  There is right to left interhemispheric asymmetry with slower waveforms at higher amplitudes over the right hemisphere.  The posterior dominant rhythm over the left hemisphere consists of well-formed and modulated 9 Hz alpha activity that attenuates with eyes opening.  There is also anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes observed over the left hemisphere.  There is no posterior dominant rhythm or anterior to posterior frequency amplitude gradient over the right hemisphere.  The background over the right hemisphere consists of a mixture of polymorphic theta and delta activity with under riding faster frequencies.  Diffuse excess beta is observed.  During sleep vertex waves, sleep spindles and K-complexes are captured.  Sleep architecture is better formed over the left hemisphere.  Hyperventilation is not performed.  Stepped photic stimulation does not result in additional abnormalities.  Premature QRS complexes are captured on a single electrocardiogram lead.
+FINDINGS:
+Moderate continuous right hemispheric slowing.
+Excess beta.
+Stage 2 sleep.
+IMPRESSION:  This is an abnormal wake and asleep 24 minute EEG due to continuous moderate right hemispheric slowing.  This finding indicates focal right hemispheric dysfunction, likely structural in etiology, and in this patient is consistent with a history of a prior right MCA stroke.  Excess beta could be secondary to a medication effect, such as benzodiazepines or barbiturates.  The lack of epileptiform discharges on a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

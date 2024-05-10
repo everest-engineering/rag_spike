@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 60 year old right handed female with right frontal meningioma, status post resection, with headaches which are increasingly frequent.
+MEDICATIONS: Pamelor, Neurontin, Valium, Diazepam, Nortriptyline, Gabapentin, Lisinopril, Diphenoxylate, Levothyroxine, Propoxyphene.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was completed.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 9.5 Hz alpha rhythm. Central mu rhythm is identified, but testing is not performed to confirm this. As the patient becomes drowsy, there is rhythmic slowing, more prominent in the posterior regions and significant electrode artifact in the temporal electrode, left more so than right. Other features of drowsiness include an increase in beta. As the patient transitions into stage 1 sleep, vertex waves are slightly asymmetric, a bit more so marked on the right. Photic stimulation is remarkable for both a driving response and a great deal of artifact.
+HR: 60-70
+IMPRESSION: This EEG is remarkable for:
+1. Somewhat asymmetric vertex activity with vertex waves which are maximum on
+the right.
+CLINICAL CORRELATION: In the context of previous surgery for meningioma, the breech rhythm may be responsible for this finding. Correlation with imaging may be helpful. In any case, no epileptiform features were seen. Additional cardiac evaluation may be appropriate for the ectopy, if not previously addressed.
+
+
+

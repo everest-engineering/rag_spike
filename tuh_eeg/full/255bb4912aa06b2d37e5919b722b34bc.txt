@@ -1,0 +1,31 @@
+History:	69 YR OLD MALE PRESENTS WITH H/O STATUS EPILEPTICUS,NOTED WITH 5
+WIT, SZ. PMHX. H/O SZ. AND POSS.STROKE? 67 CM HEAD
+Medications:	Phenobarbital, Keppra, Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse theta
+activity with absence of the expected anterior to posterior gradient of frequencies.  Background
+activity is predominantly irregular 50-75uV, 6-7Hz activity, with absence of the normal anterior to
+posterior gradient of frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Occasional focal sharp waves are present with phase reversal and
+amplitude maximum at O1 and T4.  No clinical or electrographic seizures were present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 60  technical difficulties: A T3 electrode artifact is noted
+causing an atypical field at T3.
+Summary of Findings:
+Sharp waves, occasional, left occipital
+Sharp waves, rare, right temporal, mid
+Interpretation:
+This is an ABNORMAL EEG because of moderate occasional epileptiform discharges in the right
+midtemporal and left occipital region.  These findings are indicative of a potentially epileptogenic
+focus in this region,  and given the clinical history of partial seizures, are consistent with a diagnosis
+of localization-related epilepsy. In addition there is mild  diffuse background slowing.  This finding
+is indicative of mild cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+
+

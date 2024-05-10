@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 60-year-old admitted on the 5th, status post cardiac arrest on the 7th, status post BIVAICD, persistently intubated, comatose, but does over-breathe the ventilator.
+MEDICATIONS:  Vancomycin and antibiotics.  No sedative hypnotic medications listed.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and comatose.  The patient was stimulated during the EEG.
+DESCRIPTION OF THE RECORD:  This is a technically somewhat challenging ICU record.  The overall activity is markedly low voltage and suppressed.  There are some ICU artifacts noted in the record.
+Reviewing the record with an average reference, there appears to be some scant cerebral activity, essentially an island of cerebral activity at the midline at PZ/P4 with a scant amount of low voltage 5 to 6 Hz theta which cannot be considered definitively an artifact.  There is no reactivity, and aside from the activity described above, there is no variability.
+Heart rate 108 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to marked paucity with scant cerebral activity.
+CLINICAL CORRELATION:  This EEG carries an extremely worrisome prognosis in the context of anoxic encephalopathy, 48 hours after the event.  If there are any additional questions, a followup study may be of value.  Given the ICU artifacts described above, should this patient need additional end-of-life neurophysiological evaluation, a blood flow study may be helpful.
+
+
+

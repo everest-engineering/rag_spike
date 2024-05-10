@@ -1,0 +1,15 @@
+RECORDING LENGTH:  23 minutes.
+CLINICAL HISTORY:  The patient is an 80-year-old woman with past medical history of dementia, TIA, left frontal infarct.  She is admitted now from a nursing home for change in mental status.  The patient had a staring episode lasting a few minutes.
+MEDICATIONS:  Lisinopril, donepezil, atorvastatin.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm reaches 9 Hz activity. There is an anterior-to-posterior gradient but it is weak.  Additional diffuse polymorphic theta activity is present. Nearly continuous bifrontal polymorphic delta activity is captured as well.  Frontally predominant generalized delta activity (FIRDA) is observed occasionally.  Sleep is very fragmented with some sleep spindles captured.  No epileptiform discharges are captured.
+FINDINGS:
+Mild diffuse slowing.
+Bifrontal slowing.
+FIRDA.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal 23-minute awake and asleep EEG due to mild diffuse slowing, moderate bifrontal slowing, and occasional frontal intermittent rhythmic delta activity (FIRDA).  Diffuse slowing is a nonspecific indicator of diffuse cerebral dysfunction.  Focal bifrontal slowing may be indicative of bifrontal structural abnormalities. FIRDA (frontal intermittent rhythmic delta activity) is a nonspecific finding and could be seen in encephalopathy, increased intracranial pressure, and deep white
+matter abnormalities.  No epileptiform discharges are captured.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  This is a 65-year-old male with a past medical history remarkable for depression, hypercholesterolemia, diabetes and seizures.  He described seizures as feeling pressure in his head and shaking of the right hand.  He also described loss of consciousness with generalized shaking.
+MEDICATIONS:  The patient is taking medications for high cholesterol, depression, and diabetes.
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard International 10/20 System of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation was performed, photic stimulation was not performed. This tracing captures wakefulness through drowsiness.
+DESCRIPTION OF THE RECORD:  In the most alert state, alpha rhythm is 9-10 Hertz in frequency, 30-50 microvolts in amplitude, seen in all critical region which attenuates with eye opening.  There is small amount of low amplitude, which was frontal central beta activity, which is distributed symmetrically, drowsiness is characterized by disappearance of the alpha rhythm and slowing of the background and access of motion and eye-blink artifact.  Heart rate was 50-60 beats per minutes.
+IMPRESSION:  This is a normal EEG during wakefulness and drowsiness.  Normal EEG, does not exclude diagnosis of epilepsy.
+
+
+

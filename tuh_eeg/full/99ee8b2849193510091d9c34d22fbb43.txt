@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  55 year old right handed woman with dystonia.  The patient had an episode today characterized by shaking with loss of consciousness and pupillary dilatation.  Dystonia usually involves neck and tongue.
+MEDICATIONS:  Lexapro, Baclofen, Valium, Ativan.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz, 30 microvolt posterior dominant rhythm with a small amount of low voltage frontocentral beta.  Generous beta is noted. During hyperventilation, the patient reports feeling uncomfortable.  She seems to be having muscle spasms involving the muscles in the neck and face.  This produces muscle artifact in the EEG. A cloth is used to alleviate these symptoms. Photic stimulation elicits vigorous driving.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were noted.  This patient's motor symptoms were not associated with a change in her EEG.
+
+
+

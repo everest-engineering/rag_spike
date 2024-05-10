@@ -1,0 +1,32 @@
+History:	UNKNOWN MALE PRESENTS WITH H/O FOUND DOWN, RT SDH
+Medications:	VALPROIC ACID
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 39 hours from 07/01/2015 to 07/03/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was some variability and
+reactivity to tactile stimuli  Hr was 90
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+
+

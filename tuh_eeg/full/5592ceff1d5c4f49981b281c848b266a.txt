@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Memory loss.
+CLINICAL HISTORY:  An 86-year-old man with a history of dementia, progressively worsening now with hallucinations for 1 year, now more forgetful.
+MEDICATIONS:  Metformin, Haldol, Aricept, and Synthroid.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  Movement and muscle artifact seen throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  The patient is recorded mainly awake, although no clear typical sleep architecture is seen, some changes are seen.  Photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:
+General slow waves at 2-4 Hz at an amplitude of 20-60 microvolts seen throughout the recording.  At times.
+Focal slowing at C4 at an amplitude of 20-40 microvolts seen almost continuously throughout the recording, at times with very sharply contoured discharges that appear at times more centrally at CZ.  In addition, there appears to be an asymmetry where the left central region appears to be slightly attenuated.
+HEART RATE:  66.
+IMPRESSION:  Abnormal EEG due to generalized slowing and right central slow in addition to some left central attenuation.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction and some right central focal cerebral dysfunction in addition to left central attenuation, all of which are nonspecific in regards to etiology. However the attention may signify cortical dysfunction. No clear seizures or epileptiform discharges were seen.
+
+
+

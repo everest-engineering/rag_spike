@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 38-year-old woman with episodic loss of consciousness since age 12 which remitted.  Her symptoms recurred six months ago.  They are described as panic attacks or possible seizures characterized by feet becoming cold and shaking and loss of consciousness for two to three minutes with incontinence and biting of the tip of the tongue.  In addition, intermittent light-headedness and falling without postictal state.
+MEDICATIONS:  Phenytoin, Klonopin and Keppra.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+TECHNICAL ISSUES:  Impedances were satisfactory, but the patient was a bit fidgety with a fair amount of muscle artifact.
+DESCRIPTION OF RECORD:  The overall EEG is low voltage with a 10 Hz alpha rhythm.  Drowsiness is characterized by an increased in beta followed by vertex waves and spindles and stage 2 sleep.  As the recording continues, the technologist notes some sort of electrical interference, although no electrical devices were reported by the patient and there did not seem to be a cell phone ringing or other cause for the electrical artifact.  Hyperventilation produces a small increasing amplitude of the background.
+Photic stimulation did elicit driving bilaterally.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness and stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features are identified in this EEG.  A normal EEG does not exclude a diagnosis of epilepsy and, if seizures are an important consideration, a repeat study may be evaluated.
+
+
+

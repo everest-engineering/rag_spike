@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 45 year old male with tonic-clonic seizures preceded by an aura of an unpleasant smell or taste. Past history of heart transplant in 2002. Last seizure April 4th.
+MEDICATIONS: Tacrolimus, Zocor, Rapamune, Keppra, Simvastatin, Enalapril, Omeprazole, Calcium, Folic Acid, Isosorbide, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode placement with 1 channel EKG. Photic stimulation was performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG is somewhat low-voltage, but there is a 9 Hz posterior dominant rhythm with a generous amount of low-voltage frontocentral beta. MU activity is identified, but testing is not performed to confirm this. Features of drowsiness include an increase in rhythmic theta. Although the awake record is somewhat low voltage, the sleep record is significantly higher voltage with higher-voltage vertex waves, some of which have a slightly asymmetric spread. Electrode artifact is also noted in the C3 electrode. Photic stimulation is performed as the patient is drifting in and out of stage II sleep, but does elicit a driving response. Electrode artifact is seen at C3 during that section of the record.
+HR: 103 bpm
+IMPRESSION: This EEG is remarkable for:
+1. Scant theta in maximal wakefulness.
+2. C3 electrode artifact.
+CLINICAL CORRELATION: The C3 electrode artifact may be the cause of the asymmetric vertex waves. No epileptiform features were observed in this study. Comparison with this patient's previous EEGs may be important.
+
+
+
+
+

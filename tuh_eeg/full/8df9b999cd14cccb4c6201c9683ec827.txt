@@ -1,0 +1,27 @@
+CLINICAL HISTORY: 20 year old male with childhood epilepsy, last seizure February of 2010
+with prolonged post-ictal state. No other information available.
+
+MEDICATIONS: Tegretol.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of
+electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are
+performed.
+
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9Hz posterior dominant rhythm.
+The waking background is intermittently disrupted by focal slowing, particularly in the right hemisphere and including the right occipital region with delta. Some of this activity is also picked up on the left, but the left sometimes has a preserved alpha rhythm with a focal posterior delta. Hyperventilation is performed early on in the record and clearly accentuates focal delta and theta, right more than left, and again with more prominent disruption of the alpha rhythm on the right compared to the left. Features of drowsiness include a prominent increase in beta. As the patient drifts off to sleep there is an area of focal slowing in the left parietal temporal region. In addition, the right occipital slowing can still be identified. Photic stimulation elicits no driving.
+
+HR: 78 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Occipital delta, primarily identified on the right.
+2. Intermittently disrupted alpha on the right.
+3. A single left parietal sharp wave.
+
+CLINICAL CORRELATION: This EEG should be correlated with imaging. Although there was
+only a single sharp wave, the focal features were more prominent on the right compared to the
+left.
+
+
+
+
+

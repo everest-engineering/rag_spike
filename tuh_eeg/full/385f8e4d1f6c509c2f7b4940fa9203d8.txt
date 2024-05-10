@@ -1,0 +1,47 @@
+AGE:65 y.o.
+SEX: male
+START DATE OF STUDY :09/26/2015 at 21:47 END DATE or STUDY :09/27/2015 'at 17:45
+RECORDING ENVIRONMENT :ICU EEG TYPE:LTM
+EEG lt: 15-163
+HISTORY :
+65 y.o.Male presenting with cardiac arrest and myoclonic jerks.He was connected to video EEG four hours following initiation of hypothermia protocol.
+MEDICATIONS : fentanyl, versed, propofol SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (9/25/2015, 21:47 - 9/26/2015, 08:00) BACKGROUND:
+The background is suppressed, with continuous low amplitude muscle artifact.
+There is no reactivity, variability, or state change. PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) :see "events"
+EPILEPTIFORM ACTIVITY: see "events" EVENTS :
+Clinical: Only the patient's head, neck, and proximal shoulders are captured in the video frame. Approximately every 2-4 seconds, the patient spontaneously opens his eyes, with upward gaze deviation, for <1 second. He then closes his eyes.This recurs
+3-10 times, followed by 10-30 seconds of quiet. As the record progresses on this day, the episodes of eye opening occur more regularly (every 5-10 seconds)
+EEG: Correlating with each eye movement is are diffuse delta waves with a minimal amount of admixed theta seen in all leads. The waves begin before the eye movement. However, they do not appear epileptiform.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal video long term EEG due to:
+Severe generalized slowing with background disorganization
+Lack of reactivity
+Episodic eye movements captured, as described above, associated with a preceding EEG change that is not clearly epileptiform.
+These findings are consistent with severe cerebral dysfunction, some of which may at least in part be associated with hypothermia and medication effect.
+The episodic eye movements, while preceded by an EEG change, are not clearly epileptic.
+DAY 2 (9/26/2015, 08:00 - 9/27/2015, 08:00)
+BACKGROUND : remains suppressed, no muscle artifact GENERALIZED SLOWING: profound
+FOCAL SLOWING: none
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) :none SPORADIC EPILEPTIFORM ACTIVITY:none
+EVENTS:No clinical or electrographic events reported or detected
+*Note that rewarming begins at 17:00 on 9/26. DAY 2 IMPRESSION & CLINICAL CORRELATION
+Profound diffuse cerebral dysfunction, which may in part be explained by medication effect and therapeutic hypothermia.
+DAY 3 (9/27/2015, 08:00 - 9/27/2015, 17:45)
+BACKGROUND : no change GENERALIZED SLOWING :profound FOCAL SLOWING: none
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):none SPORADIC EPILEPTIFORM ACTIVITY:none
+EVENTS:No clinical or electrographic events reported or detected DAY 3 IMPRESSION & CLINICAL CORRELATION
+Profound cerebral dysfunction.
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Severe generalized slowing and disorganization, worsening to profound generalized slowing over the course of the recording
+Lack of background reactivity
+Episodic eye movements seen on Day 1 that, while preceded by an EEG change, are not clearly epileptic
+FINAL CLINICAL CORRELATION:
+These findings are consistent with severe diffuse cerebral dysfunction that worsens over the course of the recording and may in part be explained by medication effect and induction of hypothermia. The episodic eye movements that are seen on Day 1, while preceded by an EEG change, are not clearly epileptic.
+
+
+
+

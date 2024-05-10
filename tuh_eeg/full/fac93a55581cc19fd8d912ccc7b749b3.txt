@@ -1,0 +1,34 @@
+CLINICAL HISTORY:  A 30-year-old woman with chronic pain, newly diagnosed with epilepsy, recurrent refractory seizures, not responsive to medications.
+MEDICATIONS:  Keppra, Tegretol, and tramadol
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient and the clinical team were able to use a push button for clinical events.  Patient's events include seizures with impairment of awareness and falling to the floor, feeling as if she is spacing out and involuntary jerks.
+DESCRIPTION OF THE RECORD:
+August 19 through 20th:  During this section of the record, the patient was not aware that she should push the button for all of her symptoms.  No clear clinical seizures were recorded.
+Background:  In wakefulness, there is a 9 Hz alpha rhythm.  Intermittently in wakefulness, there is rhythmic left temporal theta.  Stage 2 sleep includes vertex waves, K complexes, spindles, and posts.  Sleep is relatively disrupted.
+Interictal Epileptiform Detections:  There is subtle, left temporal sharp waves noted with intermittent bursts of rhythmic theta, most of which are less than 10 seconds in duration, for which there were no clinical findings or clinical changes.
+Heart rate 66 bpm.  Prominent muscle activity and impedance issues were notable in the 1st day of recording.
+IMPRESSION: No electrographic seizures were identified but the interictal EEG demonstrates left temporal theta
+August 20 to 21, 2014:  Long-term monitor 14-197-2
+During this section of the record, the patient experiences involuntary jerks, for which she is able to push the button.  Multiple practice push buttons were also noted.
+Background:  In wakefulness, the background includes a 9 Hz posterior dominant rhythm.  Abundant sleep includes vertex waves, K complexes, spindles, and a transition to slow wave sleep.
+Pushbuttons:  The patient has multiple push buttons at approximately 11-12 a.m. for involuntary jerking of the extremities.  These are not associated with changes in the background EEG.
+Clinical Event Time:  5:27:36 p.m.  The patient was awake.  She reports feeling as if she is losing contact with reality.  The EEG demonstrates intermittent rhythmic left temporal theta, similar to that noted in the interictal background.  This activity is not sustained and there is little in the way of background slowing that follows the bursts.
+Interictal Epileptiform Detections:  Intermittent bursts of rhythmic theta are noted from the left temporal region with some associated sharp waves.  These are seen primarily in relaxed wakefulness.
+Heart rate 104 bpm.
+DATE OF STUDY:  August 21, 2014 to August 22, 2014.
+CLINICAL HISTORY:  This is a 30-year-old woman with recent onset refractory epilepsy, chronic pain, and intermittent tramadol use.
+MEDICATIONS:  Keppra, Tegretol, and tramadol.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  During the section of the record, the patient had episodes of the feeling a bit spacey and occasional myoclonus.  In addition, an event was reported characterized by involuntary movements of alternating arms or legs, which could not be found subsequently.
+DESCRIPTION OF THE RECORD:  Background:  This is a technically challenging recording with frequent loss of scalp electrodes in the EKG.  Despite this, there is a well-defined 9 Hz posterior dominant rhythm.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTS.  Intermittent, subtle, left anterior temporal theta was noted.  Some of this was confounded by asymmetric eye artifacts and prominent lateral rectus artifact.
+Interictal discharges:  In relaxed wakefulness, there is rhythmic 4-5 hertz theta noted from the left temporal region with a subtle sharp waves mixed in.  This can be differentiated from the patient's extraocular movements.
+Well-defined electrographic seizures:  None.
+Push buttons:  Multiple practice push buttons were performed including those on the morning of the 21st, which are significantly obscured by artifact.  In addition, additional push buttons were noted at 05:36, 06:53, and 07:50 p.m.  No electrographic features were noted with these.  For the 06:53 p.m. push button on the 21st, the patient puts her hands to her face.  She appears to feel unwell.  The EEG demonstrates a normal awake pattern with a heart rate of 104 bpm.  No epileptiform features are noted at that time.
+Heart rate 60 to 100 bpm.
+IMPRESSION:  This is the 3rd day of continuous video EEG monitoring.  The overall session is remarkable for:
+Left temporal rhythmic theta and subtle admixed sharp waves.
+Intermittent myoclonic jerks of the extremities without EEG change.
+Symptoms such as feeling as if she spacing out without clear EEG signature.
+CLINICAL CORRELATION:  This session did not identify the patient's spells in which she becomes unresponsive.  Additional recording strategies in an attempt to obtain the most clinically significant
+symptoms that the patient experiences can be undertaken.  Overall, a focal or localization-related epilepsy should be considered given the interictal EEG findings.
+
+
+

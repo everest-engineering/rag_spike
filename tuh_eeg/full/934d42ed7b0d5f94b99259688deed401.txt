@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 43-year-old woman with intermittent dizziness and syncope.  Episodes can last 1 minute, occasional right-sided migraine headaches or depression.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 10 Hz alpha rhythm.  Drowsiness is characterized by attenuation of the alpha rhythm with vertex waves, K complexes, spindles, and posts noted in sleep.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited scant driving.  Heart rate 96 bpm with frequent PVCs.
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  There were no focal or epileptiform features identified in the EEG.  A normal EEG does not exclude a diagnosis of epilepsy.  Additional evaluation for the frequent PVCs may be appropriate for this patient with intermittent paroxysmal dizziness.
+
+
+

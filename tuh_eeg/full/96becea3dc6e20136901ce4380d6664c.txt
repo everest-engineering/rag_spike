@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  78 year old right handed male with panic and anxiety disorder, as well as other medical problems, admitted with an episode of generalized twitching.
+MEDICATIONS:  Depakote
+INTRODUCTION:  Digital EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is awake, but confused.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 6 Hz alpha rhythm.  There is excess theta noted in the background.  The patient remains awake.  Frontal eye movements are noted.
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+CLINICAL CORRELATION:  The background slowing is nonspecific.  Consideration for a toxic or metabolic process is appropriate. This is one of many EEGs for this patient, none demonstrates epileptiform activity.
+
+
+

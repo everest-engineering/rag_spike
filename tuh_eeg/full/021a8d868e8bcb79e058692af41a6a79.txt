@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is an 18-year-old ambidextrous female who presents with 6-month pregnancy and past medical history of seizure disorders.  Her last seizure was in 2006 and she has been off antiepileptic medications since then. She complains of left leg tingling and numbness.
+MEDICATIONS:  The patient's medications include prenatal vitamins.
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard international 10-20 system of electrode placement in addition to T1 and T2 electrodes and 1 channel of EKG monitoring.  Hyperventilation was not performed.  Photic stimulation was performed.  This tracing captures wakefulness through stage 2 sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 10-11 Hz in frequency, 40-50 microvolts in amplitude seen in the occipital region which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity which is distributed symmetrically. Stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts. Stage 2 sleep is characterized by the presence of K complexes, sleep spindles, and posthyperventilation was not performed.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate is 90 beats per minute.
+IMPRESSION:  This is a normal EEG recording, capturing wakefulness through stage 2 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy. If seizures are clinical concern, a repeat EEG or a 24-hour ambulatory EEG may be helpful.
+__________________
+
+
+

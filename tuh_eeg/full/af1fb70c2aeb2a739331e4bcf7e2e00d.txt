@@ -1,0 +1,12 @@
+LENGTH OF THE RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 64-year-old woman with a past medical history of a stroke in 2001, seizures and VP shunt.  The patient now presents to the hospital with headaches with associated nausea.  Additionally, the patient was observed to have an episode of left hand shaking.
+MEDICATIONS:  Depakote, metformin, aspirin, Lovenox.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T2 and T2 electrodes and single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  There was right to left interhemispheric asymmetry with slower waveforms observed over the right hemisphere.  The posterior dominant rhythm over the left hemisphere consists of 10-11 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient observed over the left hemisphere.  The posterior dominant rhythm over the right hemisphere is unstable and reaches 8-9 Hz alpha with a weak anterior to posterior frequency amplitude gradient.  Additional continuous polymorphic theta and delta are captured over the right hemisphere, most notably over the right frontotemporal leads.  During sleep vertex waves and sleep spindles are captured.  Sleep architecture is higher in amplitude over the right hemisphere.  Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Focal moderate right hemispheric slowing is most pronounced over the frontotemporal region.
+No clear epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and asleep 22 minute EEG due to continuous moderate right hemispheric slowing that is most pronounced over the right frontotemporal region.  This finding indicates underlying cerebral dysfunction likely structural in etiology, in this case it is likely related to the patient's prior history of a stroke.  No clear epileptiform discharges are captured.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

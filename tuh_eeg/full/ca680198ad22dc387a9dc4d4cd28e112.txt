@@ -1,0 +1,21 @@
+
+CLINICAL HISTORY: An adult male with head and neck cancer status post multiple cardiac arrests on 01/19/2006 lasting 12-20 minutes.
+
+MEDICATIONS: Zosyn, Vanco, Heparin, Cipro, Norepinephrine, Vasopressin, Epinephrine, Phenylephrine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patients intubated. He is poorly responsive.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern. Much of the record includes a pattern with a monomorphic 6 to 7 Hz pattern. There are occasional bursts of focal slowing with a sharp wave in the right temporal region. This patient has multiple episodes of right eye deviation. These are associated with a change in the background EEG. There is a never a well defined ictal pattern, but there seem to be sharp waves out of the right in associated with eye deviation to the left. Tactile stimulation of the patient does also seem to produce some changes in the background, particularly with muscle and a bit of higher amplitude theta.
+
+HR: 104 bpm
+
+IMPRESSION: Markedly abnormal EEG due to:
+1. Replacement of normal background with a theta pattern.
+2. Some sharp waves on the right.
+3. What may very well be an underlying epileptiform seizure characterized by sharp waves in the right temporal region and eye deviation to the left.
+
+CLINICAL CORRELATION: Additional management of this patient's seizures may be important.
+
+
+
+

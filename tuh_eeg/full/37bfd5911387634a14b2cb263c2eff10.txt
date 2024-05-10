@@ -1,0 +1,19 @@
+History:	56 YR FEMALE WITH SEIZURES SECONDARY TO BRAIN SURGERY (NO
+INFORMATION). BUT HAS BEEN SEIZURE FREE FOR LONG TIME. EVAL TO STOP MEDS. PMHX; HEART SURGERY, COPD, OSA.
+Medications:		KEPPRA, PRILOSEC, LOTRIMIN, ALBUTEROL , PREDNISONE, GABAPENTIN, ALDACTONE, SYNTHROID, SPIRIVA
+Sedation: EEG Type: Technique:
+None
+Extended, 40-60 min
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes,awake, drowsy, photic
+Description:
+The waking background is symmetric, reactive, and well-organized with a posterior dominant rhythm of 10 Hz, which attenuates symmetrically with eye opening.  Drowsiness is characterized by attenuation of the posterior dominant rhythm and mild background slowing. Sleep transients, including K-complexes and spindles, are symmetric and normal.
+There is frequent right frontotemporal polymorphic slowing. In addition, higher amplitudes and faster frequencies (alpha-range) are seen intermittently during drowsiness over the right frontotemporal region (F8/T4 maximal).  No epileptiform discharges are present.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect. Hyperventilation is not performed. A heart rate of 48 bpm is captured on a single EKG lead.
+Summary of Findings:
+Focal slowing, polymorphic,frequent, right frontotemporal Breach artifact, intermittent, right frontotemporal , F8/T4 max
+Interpretation:
+This is an abnormal awake and asleep 1-hour EEG due to: 1. Frequent right frontotemporal polymorphic slowing 2. Finding of intermittent higher amplitudes and faster frequencies (alpha-range) over the right frontotemporal region (F8/T4 max). These findings are consistent with right frontotemporal cerebral dysfunction which may be structural or physiologic in origin. The findings of higher amplitudes and faster frequencies over the right frontotemporal region is consistent with a breach artifact, and is consistent with this patient's known prior history of brain surgery.
+
+
+
+

@@ -1,0 +1,32 @@
+History:	28 year old man with episodes concerning for seizures.  Episodes started after a
+MVA in 2013 and occur several times per day.
+Medications:	Percocet PRN
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Patient is asleep throughout most of the recording.  Brief waking background is characterized by a
+25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-
+15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  Patient very rapidly
+transitions into drowsiness and sleep.  During drowsiness, the background slows to central theta
+activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz
+activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.  An episode of diffuse body
+weakness and incoherent speech is captured.  During the episode EEG demonstrates a mixture of
+wakefulness and drowsiness and rapid transition into sleep.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Patient falls asleep during hyperventilation.  Stepped photic stimulation from 1-21 flashes per
+second (fps) does not produce any effect.
+Summary of Findings:
+Sleep, stage 2, nearly continuous
+Event, one, patient is awake, rapidly transitions to drowsiness and sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL mostly asleep and briefly awake 25 minute EEG. Rapid transitions to sleep
+indicate excessively drowsy patient.  Please correlate clinically and consider an underlying sleep
+disorder.  An episode of diffuse body weakness and incoherent speech is captured and is associated
+with an awake patient who rapidly transitions into  drowsiness and sleep.
+
+

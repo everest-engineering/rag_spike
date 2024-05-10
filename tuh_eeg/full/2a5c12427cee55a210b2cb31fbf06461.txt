@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 62-year-old woman with a ruptured left MCA aneurysm, status post coil.  Evaluate for seizures.
+MEDICATIONS:  Midazolam, propofol and Versed.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and sedated with occasional movements of the lower extremities.
+DESCRIPTION OF THE RECORD:  The background EEG is slow, lower voltage.  The patient has intermittent spontaneous movements.  There is an asymmetry noted in this diffusely slow background with a bit more beta noted on the right compared to the left.
+Tactile stimulation of the patient does not significantly activate the record.  The technologist notes that the patient has staples or craniotomy scar at T1 and the cerebral activity is somewhat more blunted in that region.
+Heart rate 60 to 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing.
+Paucity of reactivity or variability.
+CLINICAL CORRELATION:  The beta asymmetry described above may be due to this patient's recent surgery.  In addition, the possibility of a fluid collection on the left attenuating cerebral activity may be considered.
+
+
+

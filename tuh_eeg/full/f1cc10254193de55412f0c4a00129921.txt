@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 37-year-old male with a history of epilepsy, but seizure free for 1 year.
+MEDICATIONS:  Depakote, Paxil, and Xanax.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake stage 2 sleep record.  Impedances were general and are 5 kiloohms.  It is a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in beta with rhythmic central theta and then vertex waves and spindles.
+Hyperventilation produces slight increase in amplitude.  Photic stimulation elicited vigorous driving.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were noted in this record.  There is generous beta noted: this is not uncommon in patients treated with benzodiazepines.
+
+
+

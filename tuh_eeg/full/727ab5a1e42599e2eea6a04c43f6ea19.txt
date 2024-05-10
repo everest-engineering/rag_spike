@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   39 year old right handed woman with 2 spells in September 2011.  The patient unable to describe the spells.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized.  There is a 10 Hz alpha rhythm with generous, low voltage, frontal central beta.  Rhythmic temporal theta drowsiness appears as the patient transitions into drowsiness and then very brief stage I sleep. Hyperventilation produces a small amount of theta.  Photic stimulation is performed while the patient is drifting off to sleep.  There is scant driving, but again the temporal theta.
+HR:    90 bpm
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In this individual with new onset seizures, if indicated, a follow up, sleep deprived study looking for deeper stages of sleep may be helpful in capturing epileptiform activity.
+
+
+

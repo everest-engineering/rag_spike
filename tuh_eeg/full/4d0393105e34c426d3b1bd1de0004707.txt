@@ -1,0 +1,26 @@
+History:	60 year old woman with a history of strokes, now scheduled to undergo right carotid
+stenting.
+Medications:	Insulin, Methimazole, Protonix, Coumadin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm consists of moderate amplitude 9.5 Hz alpha activity that attenuates
+with eyes opening and is better formed over the right.  AP gradient is present.  During drowsiness,
+the background slows to central theta activity, frontal beta activity becomes more prominent, and
+the alpha rhythm attenuates and becomes intermittent.
+Paucity is faster frequencies is observed over the left hemisphere.
+Hyperventilation and photic stimulation are not performed.  EMG artifact is frequent and more
+prominent over the right hemisphere.  That limits interpretation of the recording over that region.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, mild, left hemispheric
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy portable 21-minute EEG due to continuous mild
+left hemispheric slowing. This finding is indicative of a focal structural lesion in this region.  EMG
+artifact is frequent and more prominent over the right hemisphere.  That limits interpretation of the
+recording over that region.
+
+
+

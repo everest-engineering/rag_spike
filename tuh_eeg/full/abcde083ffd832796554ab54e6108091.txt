@@ -1,0 +1,38 @@
+AGE: 58 y.o.
+SEX: male
+DATE OF STUDY: 09/01/2015 RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: Routine awake and drowsy EEG #: 15-1273
+HISTORY :
+58 y.o. male referred for routine EEG for history of TBI and subsequent seizures , who has been seizure-free for years . Of note, patient has functional problems and cannot
+go out alone and does not remember the year.
+MEDICATIONS :
+No current outpatient prescriptions on file; patient was unable to remember
+SEDATION : None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR) . The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.
+There is frequent left temporal polymorphic slowing. There is independent right temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+1. There are occasional wicket spikes seen over the left temporal region (Tl maximal) .
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with·good cooperation and produces no effect. Of note, the tech notes a possible hesitation 35 seconds into hyperventilation; no EEG electrographic correlate is noted.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no other clinical or electrographic events captured during this study (see above, under "Hyperventilation") .
+HEART RATE :
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-drowsy routine EEG due to:
+Frequent left temporal polymorphic slowing
+Independent occasional right temporal polymorphic slowing
+Possible hesitation noted by the tech during hyperventilation; however, there was no electrographic correlate to this behavior
+CLINICAL CORRELATION:
+These findings indicate the presence of bitemporal independent cerebral dysfunction, left greater than right, which may be structural in origin.	Of note, wicket waves are a benign variant.	If clinically warranted, a recording with sleep may be helpful.
+
+
+

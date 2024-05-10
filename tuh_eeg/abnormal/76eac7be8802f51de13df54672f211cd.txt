@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  85 year old male with left frontoparietal tumor, atrial fibrillation, cerebral edema, cerebral herniation, progressive somnolence and loss of speech.
+MEDICATIONS:  Keppra, Protonix, Labetalol.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is quite drowsy.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates primarily a rhythmic, 6.5 Hz theta frequency pattern.  There is significant lateral rectus spike artifact picked up on the left.  There is also some subtle focal slowing with some underlying slower delta picked up at T1, T3, T5.  As the patient drifts off to sleep, there is a bit more sharply contoured theta in the left frontotemporal region.
+HR:    90 bpm and irregular
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Intermittent, subtle asymmetry primarily in the left midtemporal region.
+A handful of very subtle, low amplitude F7 sharp waves.
+CLINICAL CORRELATION:  In this individual with a focal process on the left, the overall appearance of the EEG is primarily one of more of a generalized process.
+
+
+

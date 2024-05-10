@@ -1,0 +1,29 @@
+History:	54 year old male with history of subdural hematoma and now status epilepticus.
+Medications:	Dilantin, Keppra, Phenobarbital, Midazolam, Coumadin, Lovenox, Protonix
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the central
+region during wakefulness, increasing during drowsiness.  There is an asymmetry of beta activity,
+with increase amplitude and faster frequencies on the left consistent with a breach.  Periodic
+lateralized epileptiform discharges (PLEDs) are present in the left region at a rate of 1 Hz. They
+have a complex field that begins with maximum negativity in the occipital region and then moves
+centrally.  Clinically with each discharge there is an associated right shoulder jerk.
+Hyperventilation and photic stimulation are not performed.  HR was 102
+Summary of Findings:
+Seizure, continuous, left central, Focal motor
+PLEDs (periodic lateralized epileptiform discharges), continuous, left central
+Focal slowing, polymorphic, continuous, left hemispheric, with an associated breach
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL EEG because of continuous focal motor seizures arising from the left central
+region. In addition there is evidence of irritability and structural dysfunction in the same region,
+which is consistent with the known previous SDH. Lastly there is diffuse background slowing and
+absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse
+
+

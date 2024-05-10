@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 55 year old left gentleman with a history of primary generalized epilepsy, multiple epilepsy risk factors, plus complicated liver transplant, now with increasing avis (?).
+MEDICATIONS: Keppra, Lamictal, Gabapentin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. We did hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat slow with an alpha rhythm of 8.3 Hz and a small amount of frontal central beta. There is also diffuse beta. Hyperventilation produces some rhythmic background slowing. Photic stimulation does not elicit a driving response.
+HR: 66 bpm
+IMPRESSION: EEG is remarkable for:
+1. Excess background theta.
+2. Slowing of the alpha rhythm.
+3. A small amount of shifting slowing.
+CLINICAL CORRELATION: No generalized spike and wave activity was seen today. The background slowing is a nonspecific finding and may be part of this patient's underlying medical problems. If additional seizures are concern, a follow up study may be of value.
+
+
+

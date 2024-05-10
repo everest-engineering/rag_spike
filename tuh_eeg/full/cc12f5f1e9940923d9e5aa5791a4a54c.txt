@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 33 year old woman admitted on the 6th status post cardiac arrest. History of renal failure, seizures, diabetes, stroke, right-sided weakness.
+MEDICATIONS: Ativan, Keppra, Pentobarbital, Rocuronium
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is intubated and comatose.
+DESCRIPTION OF THE RECORD: The background is comprised of a PLED-plus pattern with a generalized periodic discharge which is bihemispheric in nature, a little higher amplitude on the left than the right, clearly present bilaterally. It is a PLED-plus like phenomenon with some 7-8Hz theta activity and a notch discharge set is associated with it. Although there are no clinical or electrographic seizures, review at slow paper speed demonstrate some subtle frequency evolution and intermittent attenuation. Stimulation of the patient does not activate the record and there is little in the way of variability.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. PLEDS plus with evolution.
+CLINICAL CORRELATION: Worrisome pattern post anoxia; potentially epileptiform.
+
+
+

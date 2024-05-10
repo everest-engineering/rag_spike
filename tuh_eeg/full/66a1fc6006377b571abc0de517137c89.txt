@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 55-year-old nursing home resident with past history of stroke, disabled with dysphagia, tube feeds, evaluated for epilepsy, no history of seizures noted in the intake information provided.
+MEDICATIONS:  Ondansetron, thyroid, Ritalin, Reglan.
+INTRODUCTION:  Digital video EEG was performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  This was a technically, very challenging EEG in a patient who was somewhat confused, tensed, insisted on sitting up straight and did not relax.  There was a fair amount of muscle artifact noted in the background.
+DESCRIPTION OF THE RECORD:  Underneath the underlying muscle and movement artifact, the background EEG is diffusely slow with a 7.5 Hz posterior dominant rhythm and an overall background with excess theta.  There is a suggestion of alpha squeak.  They are minor, shifting asymmetries.
+Photic stimulation did not activate the record although there is a fair amount of muscle and this could be overlooked.
+Heart rate 108 bpm.
+IMPRESSION:  Technically challenging, but abnormal EEG due to #1 generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified in this primarily awake record.  If epilepsy is an important consideration, additional techniques to enable the patient to relax would be beneficial.  There were no significant focal features for this adult with a history of stroke.
+
+
+

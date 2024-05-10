@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 56-year-old woman with an episode of transient global amnesia.  In addition, she has a 1 year history of headaches with a pressure-like sensation with dizziness, but no visual changes.
+
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This EEG includes a fair amount of muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a somewhat slow posterior dominant rhythm reaching 7.5 Hz and 60 microvolts.  There is an amplitude asymmetry, the alpha rhythm is sometimes higher amplitude on the left compared to the right.  Features of drowsiness include an increase in beta.  POSTS were observed in sleep.  There are minor, shifting asymmetries noted in the background.  These disappear as sleep continues and the patient transitions in and out of stage II sleep with spindles.  In the sharply contoured record, there is some sharply contoured slowing as the beta activity increases.
+Photic stimulation did elicit a driving response.
+Heart rate was 72 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Slowing of background alpha rhythm.
+Shifting slowing, some of which was more prominent in the posterior temporal regions,  a bit more so at times in the right posterior quadrant.
+CLINICAL CORRELATION:  No epileptiform features were noted.  This is a somewhat interesting record in that the patient drops into stage II sleep with POSTS and spindles, but without so much in the way of vertex waves.
+n this patient who seems quite drowsy, if there is any question, a repeat study having the patient count backwards from 10 may be helpful to make certain that we have assessed maximal wakefulness.
+
+
+

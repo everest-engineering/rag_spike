@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  30 year old male with Charcot-Marie tooth, muscular dystrophy, and epilepsy since age 6.  The patient has seizures characterized by staring lasting 2-6 seconds.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 50 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta. In relaxed wakefulness bursts of high amplitude, paroxysmal spike and wave activity were identified.  Some of these bursts are proceeded by rhythmic paroxysmal theta frequency activity and then 3 or more generalized, frontally predominant 3-6 Hz spike and wave discharges.  Some of them are prolonged bursts with rhythmic paroxysmal frontal theta and then a spike and wave activity, and then paroxysmal delta.  These are noted in relaxed wakefulness. The patient starts to transition into a somewhat drowsy state and the spike and wave activity starts to slow just before hyperventilation is initiated.  Hyperventilation also accentuates the spike and wave activity with some more clearly prolonged discharges lasting more than 3-5 seconds in duration.  Impaired awareness was not demonstrated during these discharges. Photic stimulation elicited a driving response with spike and wave activity noted following the 21 Hz discharge, but not during it.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Frontally predominant 3-6 Hz bursts of spike and wave lasting 3-5 seconds augmented by hyperventilation and early relaxation.
+CLINICAL CORRELATION:  This EEG is most supportive of a generalized mechanism for epilepsy.  No clinical seizures were demonstrated during the discharges.  Based on this EEG, the technologist arranged for an earlier office visit for this patient.
+
+
+

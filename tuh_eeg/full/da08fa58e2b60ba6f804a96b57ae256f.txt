@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 64-year-old woman with bipolar disease, epilepsy, diabetes, and asthma: evaluate for seizures.
+MEDICATIONS:  Topiramate, Celexa, Risperdal, many others, and Synthroid.
+INTRODUCTION:  A 1-hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  It is technically acceptable record with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.3 hertz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by rhythmic background slowing and smaller amounts of muscle artifact, compatible with snoring, but deeper stages of sleep were not sustained.
+Photic stimulation, elicited a driving response.
+Heart rate 60 bpm.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  This is the 2nd EEG for this adult.  No epileptiform features were identified in either study.  In comparison to the previous EEG, again stage 2 sleep was not recorded.
+
+
+
+
+

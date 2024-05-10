@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  45 year old right handed male with recurrent syncopal spells lasting a few seconds.  He lives alone; no witness to the recurrent events.
+MEDICATIONS:  Omeprazole, Acetaminophen, Fentanyl, Flomax, Methadone, Hydrocortisone, Carafate
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  In relaxed wakefulness, there is a handful of discrete right temporal sharp waves.  These are seen as the patient transitions into sleep.  They are quite rare, but some are associated with background slowing.   Photic stimulation elicits scant driving.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rare right anterior temporal sharp waves.
+CLINICAL CORRELATION:  This EEG captures only wakefulness and drowsiness.  The sharp waves identified above have morphology that suggests that they are not
+normal variants.  If further information is needed, a followup study capturing deeper stages of sleep is suggested.
+
+
+

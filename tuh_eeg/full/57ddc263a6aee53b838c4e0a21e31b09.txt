@@ -1,0 +1,12 @@
+MEDICATIONS:  Diovan, Keppra, verapamil, and Cymbalta.
+CLINICAL HISTORY:  A 64-year-old right-handed woman with previous left ocular infarct, admitted on the 24th, with recurrent focal seizures, characterized by twitching of the left arm and face with incontinence, followed by generalized convulsion.  CT identified right extra-axial frontal mass.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically acceptable record, although, there is some muscle artifact.  Wakefulness through abundant stage 2 sleep was captured.  Impedances are under 5 kilohms with the exception of the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm with a modest amount of low voltage, frontal central beta activity, and a small amount of background theta and disorganization.  As the patient transitions to drowsiness, there are some bursts of frontal delta, which are slightly asymmetric, slightly more prominent on the right.  Abundant stage 2 sleep included vertex waves, K complexes, spindles, and POSTS.
+Heart rate:  Irregular, 96 bpm.
+IMPRESSION:  Mildly abnormal EEG for an adult of this age due to:
+Background slowing and disorganization.
+A slight asymmetry in the transition to sleep with right greater than midline frontal delta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a diffuse disturbance of cerebral function as may be seen in postictal state, or other toxic or metabolic phenomenon.  The subtle focal features noted in the transition to drowsiness, are unremarkable in an adult of this age, but are congruent with the clinical history.
+
+
+

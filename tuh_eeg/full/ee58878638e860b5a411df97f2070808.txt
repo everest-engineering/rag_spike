@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  56 year old right handed woman with right carotid stenosis, right-sided MCA, past history of vertigo, headaches and bypass surgery.
+MEDICATIONS:  Sevoflurane, Propofol, Vecuronium
+INTRODUCTION:  Digital EEG was performed at bedside using standard CEA montage with 10-20 system of electrode placement and 1 channel EKG.  This was a 4 hour and 20-minute EEG.
+DESCRIPTION OF THE RECORD:  As the record begins, the patient is very briefly awake.  By 10:11, there is a sedated pattern with generous theta.  The patient seems to be lightly sedated in the initial sections of the record.
+At 10:28 with an anesthetic pattern, the EEG is intermittently discontinuous, but it is intermittently more suppressed on the right compared to the left.
+The right carotid was clamped at 11:12.  The internal carotid was clamped.  The external was clamped at 11:12:23.  With placement of the carotids, there is transiently, an increase in the suppression on the right, but by 11:16, the EEG has returned to its previous, somewhat discontinuous and asynchronous pattern.
+The carotid was unclamped at 12:06.  No significant changes were noted with removal of the clamp.  The EEG remains in discontinuous pattern with an asymmetry with a more discontinuous pattern on the right.
+HR:    96 bpm
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this right carotid endarterectomy was remarkable for a discontinuous pattern in the context of anesthetic challenges and a focal anesthetic pattern, congruent with a history of preexisting central nervous system ischemic pathology.
+
+
+

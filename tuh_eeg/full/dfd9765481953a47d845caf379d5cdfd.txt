@@ -1,0 +1,37 @@
+AGE : 48 y.o.
+SEX: female
+DATE OF STUDY: 10/12/2015
+RECORDING ENVIRONMENT: Inpatient
+EEG TYPE: 20-40 min, Awake and drowsy EEG #: 15-332
+HISTORY:
+48 y.o. female with a history of ESRD on HD and seizures referred for routine EEG for altered mental status and word-finding difficulties.
+MEDICATIONS : Dilantin
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND :
+The waking background is characterized by the presence of a fairly well organized symmetric mixture of alpha and occasional beta, with excess of theta and delta frequencies with shifting laterality. There is a symmetric and reactive 8 Hertz posterior dominant rhythm (PDR).
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+There is mild generalized slowing.
+There is bilateral shifting hemispheric slowing.
+EPILEPTIFORM ACTIVITY:
+1. There is frequent medium amplitude generalized rhythmic delta slowing, at times sharply contoured , at 1-1.5 Hz for 5-7 seconds
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and drowsy	routine EEG due to:
+Mild generalized slowing and suboptimal organization
+Bilateral shifting hemispheric slowing
+Frequent medium amplitude generalized rhythmic delta slowing, at times sharply contoured, at 1-1.5 Hz for 5-7 seconds
+CLINICAL CORRELATION:
+These findings indicate the presence of mild diffuse cerebral dysfunction. Generalized rhythmic delta slowing is a nonspecific but pathologic finding that is most commonly seen in toxic metabolic states, but can also be seen with hyperexcitability, increased intracranial pressure, or deep structural lesions - clinical correlation is advised. These findings were discussed with the patient 's neurology team.
+
+
+

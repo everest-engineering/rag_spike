@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  65 year old left handed female admitted for left CEA
+MEDICATIONS:  Propofol, Versed, Fentanyl
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Recording is performed during the procedure until patency is confirmed.  This is a 2.5 hour study.
+DESCRIPTION OF THE RECORD:  As the recording begins the patient has received anesthesia.  There is a mixed frequency background rich in theta frequency activity.  There is an asymmetry with a lower voltage pattern on the right compared to the left.  Intermittent attenuations are noted in the background.  Intermittent Bovie artifact is noted.  The carotid is clamped at 10:18 and 10:19.  The carotid is unclamped at 11:10.
+With placement of the clamp, no additional focal features are seen.  The carotid is unclamped at 1:10 and patency is confirmed by Doppler at 1:11.
+HR:    80 bpm
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this left carotid endarterectomy was remarkable for baseline asymmetry with a slower pattern on the right, but no additional focal features were noted with the placement of the clamps on the left.
+
+
+

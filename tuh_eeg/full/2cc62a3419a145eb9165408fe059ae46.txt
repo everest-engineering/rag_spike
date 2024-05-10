@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 83 year old right handed woman with left carotid stenosis.
+MEDICATIONS: Propofol, Esmolol, Versed, Vecuronium
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The recording begins at 7:49 in the OR and concludes at 10:51. This is a 3 hour study.
+DESCRIPTION OF THE RECORD: Digital video EEG begins in the OR using standard 10-20 system of electrode placement with our standard CEA montage. The patient is initially receiving some sedation and there are sections in the record where she is initially awake. The induction of anesthesia is around 8:47 a.m. producing a theta pattern and then a briefly discontinuous pattern. Heparin is given at 9:18 and at that time the EEG again shows a subtle discontinuous pattern. The surgeon works with intraoperative Doppler. At 9:44 the background is discontinuous and it fact it is slightly more discontinuous on the right. The left internal carotid is clamped at 9:44. No focal features are seen in association with the clamp. Recording continues throughout the procedure. As anesthetic medications are adjusted including at 10:00 a.m., the EEG is increasingly lower voltage and more discontinuous. This pattern starts to emerge at 10:09 and is quite prominent throughout the remainder of the record with a transition to a more suppressed than a burst of suppression pattern.
+HR: 66 bpm
+IMPRESSION/CLINICAL CORRELATION: This EEG was remarkable for:
+1. The appearance of a early burst suppression pattern prior to the placement of the clamp.
+2. No changes with placement of the clamp.
+3. A pattern of increasingly discontinuous EEG activity, which makes the latter sections of the record more difficult to interpret.
+
+
+

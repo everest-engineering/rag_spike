@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 32-year-old right-handed woman with history of seizure-like activity in 2012.  She also has a history of migraine.
+MEDICATIONS:  Lamictal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 1020 system of electrode placement with 1 channel EKG.  Photic stimulation and hyperventilation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hz in frequency 30-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity, which is distributed symmetrically.  A stage 1 sleep is characterized by disappearance of the alpha rhythm slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  Stage 2 sleep is characterized by the presence of K-complexes, sleep spindles, and posts hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate is 70 beats per minute.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 2 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are of clinical concern, a repeat EEG capturing deeper stages of sleep or a 24-hour ambulatory EEG may be helpful.
+
+
+

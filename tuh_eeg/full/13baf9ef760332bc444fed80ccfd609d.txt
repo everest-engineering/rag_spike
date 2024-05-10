@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   84 year old woman admitted with facial shingles, left temporal hypodensity, and confusion.
+MEDICATIONS:  Keppra, Ativan, Acyclovir, Ceftriaxone.
+INTRODUCTION:  Digital video EEG was attempted at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and has difficulty cooperating.  In addition, her facial rash prohibits good impedance for some of the scalp electrodes.
+DESCRIPTION OF THE RECORD:  The background EEG is slow and poorly organized with a mixture of delta and theta.  There are some sections where the muscle activity or other artifact drops out and it is a relatively slow, featureless record with a handful of triphasic waves.  Later sections of the recording as the patient drifts off to sleep again demonstrate a slower more featureless pattern without periodic sharp waves.  Spontaneous arousals are noted with an increase in beta and some of the faster theta frequency activity.  At this time, the patient is able to follow commands.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized slowing.
+Triphasic waves.
+CLINICAL CORRELATION:  Although there were some problems with muscle artifact, when the patient is drowsy there are no periodic sharp waves. This EEG is most compatible with a diffuse disturbance of cerebral function involving gray and white matter.  Of note, however, the patient is arousable and interactive.
+
+
+

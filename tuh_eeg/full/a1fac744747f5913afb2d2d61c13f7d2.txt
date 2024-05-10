@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 66 year old right handed male with right carotid stenosis.
+MEDICATIONS: Aspirin, Plavix, Metformin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well
+organized with a 10.5 Hz alpha rhythm. Drowsiness is characterized by slowing of the alpha rhythm, and increase in beta and then rhythmic theta. There are slight asymmetries in the theta in the temporal regions. Photic stimulation scant driving.
+HR: 90bpm
+IMPRESSION: EEG within normal limits for age.
+CLINICAL CORRELATION: There is a small amount of shifting temporal theta. This is considered a normal finding in an adult of this age, although there is a bit more of a temporal theta on the right than the left.
+
+
+
+

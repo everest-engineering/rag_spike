@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  68 year old right handed woman with tingling in her hands and arms, followed by staring off into space.  The patient had a subsequent loss of consciousness for 10 minutes and was drowsy afterwards.
+MEDICATION:  Lisinopril, Ambien, Norvasc
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had very knotted and tangled hair.
+DESCRIPTION OF THE RECORD:  In wakefulness there was a 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  Early in drowsiness there is prominent rhythmic background slowing.  Wicket was identified.  There is some occasional shifting slowing in the temporal regions that hyperventilation also identifies.
+Photic stimulation is performed while the patient is becoming somewhat drowsy and does not significantly activate the record.
+HR:    72 bpm
+IMPRESSION:  This EEG is at the limits of normal.
+CLINICAL CORRELATION:  When maximally awake the EEG is appropriately organized, but if the patient drifts off to sleep there is background slowing and a small amount of shifting slowing.  No epileptiform features were observed.
+
+
+

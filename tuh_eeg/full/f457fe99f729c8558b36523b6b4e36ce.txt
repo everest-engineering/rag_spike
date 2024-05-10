@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 55-year-old male with chronic kidney disease, lupus, admitted in respiratory failure with atrial fibrillation now with intermittent jerking activity.
+MEDICATIONS:  Keppra, Ativan, fentanyl.
+INTRODUCTION:  A digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  This was a technical difficult bedside record in a critically ill patient who was receiving treatments during the EEG and awaiting dialysis.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow but continuous and lacks the typical hallmarks of either an awake or asleep individual in this obtunded patient.  There is primarily rhythmic theta with some arrhythmic delta.  Although this is a technically challenging record with perhaps some attenuation in the electrodes in the right temporal region, there is an occasional right occipital temporal sharp wave noted in the background.  No clinical jerking of the extremities is seen with the jerking.  Finally, predominant triphasic waves were noted as was shifting slowing in this overall slow record.  Intermittent attenuations were noted.
+Towards the close of the record, intermittent jerking was noted.  On some occasions this was associated with movement artifact, on other occasions attenuation and on other occasions the jerkiness is associated with an overall attenuation of the background.
+Heart rate:  120 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Replacement of normal background with primarily a theta frequency background.
+Shifting slowing.
+Triphasic waves.
+A right occipital sharp wave.
+Intermittent attenuation of the background which was sometimes associated with jerking of the body or limbs.
+CLINICAL CORRELATION:  No epileptic seizures were identified.  Overall, the pattern described above is one more commonly seen in the context of metabolic encephalopathy as described above.
+
+
+

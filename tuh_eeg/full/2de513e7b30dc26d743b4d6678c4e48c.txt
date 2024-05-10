@@ -1,0 +1,23 @@
+History:	77 YR FEMALE  SHAKING L U&LE. FACE TWISTED AND X2 MIN, EYE GAZE LEFT. CT. OLD R MCA CVA, LEFT MCA CVA NEW. PT SEDATED IN ER.
+Medications:	DILANTIN, PROPOFOL DRIP Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 29 hours from 03/05/2015 to 03/06/2015.  Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by an almost attenuated delta activity over the left hemisphere. The right hemisphere there is diffuse low voltage delta more than theta activity. The amplitude in the right hemisphere improves over time. with the absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+As the EEG progresses there is more clear continuous polymorphic delta activity is present in the right mid to posterior quadrant region during wakefulness, increasing during drowsiness. Frequent focal sharp waves are present with phase reversal and amplitude maximum at P4. During the last hours of the record these appear at times to become pseudo-rhythmic at 1 Hz. No seizures were captured.
+Hyperventilation and photic stimulation were not performed. HR was 60
+Summary of Findings:
+Attenuation, continuous, left hemispheric
+Diffuse slowing, polymorphic, continuous diffuse Sharp waves, frequent, right parietal
+Interpretation:
+This is an ABNORMAL   hours EEG because of left hemisphere attenuation.   This findings is suggestive of cortical structural dysfunction and consistent with the history of a large stroke over this region. In addition there is  right parietal sharp waves and focal slowing this are indicative of focal cerebral dysfunction and irritability. They may be potentially epileptogenic.  Lastly,  diffuse background slowing and absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+.
+
+
+
+
+

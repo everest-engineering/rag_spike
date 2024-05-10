@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 68-year-old male, status post femoral bypass surgery requiring volume resuscitation.  Patient subsequently had an episode of unresponsiveness with lip smacking, but returned to baseline mental status 20 minutes later.
+MEDICATIONS:  Keppra, Dilaudid, oxycodone.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically satisfactory record with most impedances under 5 kilohms.
+There is some ICU artifact noted in the record as well as some muscle artifact.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG includes excess theta.  There is a discernable posterior dominant rhythm, better identified on the left than the right.  There is more muscle artifact noted on the right.
+In maximal wakefulness, there is an 8 hertz alpha rhythm, again easier to define on the left compared to the right.  The patient transitions back into a drowsiness state with some bursts of rhythmic frontal delta and then more consistently theta pattern.
+Heart rate: 96 BPM.
+IMPRESSION:  Technically challenging bedside portable EEG, but remarkable for:
+Excess background theta.
+Generalized background slowing.
+FIRDA
+CLINICAL CORRELATION:  The slowing suggests a diffuse or metabolic process.  The asymmetry of the alpha rhythm may represent artifact.  No epileptiform features were noted.  If seizures are an important consideration, a follow-up study when the patient is able to come to the lab for a more conventional study is suggested.
+
+
+

@@ -1,0 +1,33 @@
+History:	55 YR OLD MALE PRESENTS WIT HX OF METASTATIC MELANOMA, LT CRANI
+5/2014, SZ, MVA, PT NOW REPORT OF 1 SZ ONSET 4 WEEKS AGO, WITH 2
+MORE SZ FOLLOWING APPROX 1 WEEK APART. SZ ARE WITH LOC, SHAKING,
+TONGUE BITING AND POSTICTAL CONFUSION.
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+Intermittent polymorphic theta activity is present in the left frontal region during wakefulness,
+increasing during drowsiness.  There is also an associated increased amplitude of the faster
+frequencies over this region which is consistent with a breach.  No epileptiform discharges are
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  HR was 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left frontal, with an associated breach
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous left frontotemporal focal
+slowing. This finding is indicative of  focal cerebral dysfunction in this region, likely structural in
+origin and consistent with the known craniotomy.
+
+
+
+
+

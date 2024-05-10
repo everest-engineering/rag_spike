@@ -1,0 +1,23 @@
+CLINICAL HISTORY:  A 43-year-old male, admitted May 29, 2015 following heroin overdose, anoxic insult of unknown duration.  Myoclonus and body stiffening noted on May 29, requiring medication adjustment
+MEDICATIONS:  Ativan drip, later Fentanyl. Transition to Propofol on May 30 and low dose Propofol and Precedex on May 21.
+INTRODUCTION: continuous bedside video EEG monitoring was performed for this patient, who was found down earlier on the 29th, after ingestion of opioids.  The patient was intubated and poorly responsive with and at times involuntary movements noted on the 29th
+DESCRIPTION OF THE RECORD:
+May 29-30, 2015
+The EEG demonstrates a burst suppression pattern.  The early hours demonstrates significant muscle artifact, but reviewing the video, a little in the way of motor activity.  During the overnight section of the record, periods of suppression are longer than 10 seconds.  By the morning of the 30th, the periods of suppression can be as brief as 5 seconds, and the bursts of activity are increasing from 1.5 seconds to as long as 3 to 5 seconds.  No clear responsiveness to tactile stimulation was identified.
+Heart rate:  126 BPM.
+IMPRESSION/ CLINICAL CORRELATION:  This first 24 hours of continuous video EEG monitoring demonstrates a burst suppression pattern.  This pattern must be placed in the appropriate clinical context, as both anoxia and pharmacologic, can produce this pattern.
+May 30-31, 2015
+Background:
+Initial sections of the record include a low voltage, very suppressed pattern with very slow frontal periodic delta.  On the morning of the 30th, medications are reduced and the patient is taken off fentanyl and Ativan and switched to propofol.  By 8 a.m., the EEG is transitioning more to an intermittently burst suppression pattern.  Over the course of the day, the burst suppression pattern becomes lower voltage.  There is a bit more right frontal fast activity noted.  The bursts of activity are typically less than 2 seconds in duration.  By the morning of the 31st, the EEG is low voltage and featureless.
+No involuntary movements can be seen on the video in this section of the record.
+May 31st through June 1, 2015
+Background:
+during this section of the record, the patient's sedative hypnotic medications are reduced and low dose of propofol was utilized.  No clinical seizures or clinical myoclonus was reported.  The EEG continues to demonstrate a low voltage relatively suppressed pattern with ICU artifact.  At 10:50 a.m., artifact from the automated chest CT was picked up by the computer.  The overall pattern is a markedly suppressed pattern without definitive cerebral activity. No improvement was noted on the morning of June 1, 2015
+Heart rate:  100 to 130 bpm.
+IMPRESSION/ CLINICAL CORRELATION:
+EEG monitoring will continue, but this EEG supports a severe CNS insult, congruent with the other neurodiagnostic and clinical findings.
+
+
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  43 year old left handed male with oligodendroglioma, now with episodes of arm flexion and eyes rolling up in his head.  VP shunt.  Altered mental status.
+MEDICATIONS:  Propofol, Zonisamide, Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern with generous beta.  There are bursts of relatively symmetric theta.  Superimposed on this there is a subtle asymmetry which at times drops out of faster frequency activity on the left.  The record intermittently attenuates and that attenuation may be symmetric.  In the context of a breach rhythm on the left, there are some small discrete left frontotemporal sharp waves.
+HR:    144 bpm
+IMPRESSION:  Abnormal EEG due to:
+A continuous pattern with rhythmic theta followed by brief attenuation.
+Generous beta.
+An intermittent asymmetry with occasional attenuation on the left.
+Occasional to rare lower amplitude discrete left frontal sharp waves.
+CLINICAL CORRELATION:  This EEG is most supportive of an anesthetic pattern for this patient on a propofol drip.  The generous beta may represent the medications
+utilized and the brief attenuations can be part of the acute brain process or the medications.  Focal and epileptiform features in this record are quite subtle.
+
+
+

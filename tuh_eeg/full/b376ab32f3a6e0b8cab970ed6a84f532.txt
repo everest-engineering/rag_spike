@@ -1,0 +1,42 @@
+AGE: 18 y.o.
+SEX: female
+DATE OF STUDY: 12/30/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1883
+HISTORY:
+18 y.o. female with a history of benign brain tumor, narcolepsy and childhood seizures, currently seizure-free for
+many years referred for routine EEG for epilepsy evaluation.	Now
+12 weeks pregnant patient could not provide her childhood neurology history.
+MEDICATIONS:
+Current Outpatient Prescriptions :
+PRENATAL PLUS, CALCIUM CARB, 27 mg iron- 1 mg Tablet,
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.
+Craniotomy defect was noted on the right
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a
+mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. Mu rhythm was seen, more prominently on the right.	Breach rhythm is noted with exenteration of beta and faster frequency activity on the right.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.	The breach rhythm is apparent, again with accentuation of beta activity in the right frontocentral region
+Sleep is not sustained
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Deferred in pregnancy
+Photic Stimulation: Elicits driving response, accentuated in the breach rhythm
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal routine EEG.
+The breach rhythm described above is an anticipated finding following craniotomy
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal outline EEG does not support or refute the diagnosis of epilepsy.	Although this patient has a history of narcolepsy, stage II sleep was not achieved.
+Previous studies are not available for comparison.
+
+
+

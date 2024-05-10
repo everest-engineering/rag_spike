@@ -1,0 +1,26 @@
+:
+History:	74 year old male with events of numbness on left side, slurred speech, hoarseness.
+Medications:	Zonisamide, keppra, dexamethasone, insulin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+There is right-to-left intrahemispheric asymmetry with paucity of faster frequencies over the right.
+The background over the left consists of 8 Hz theta posteriorly with weak AP gradient and excess
+polymorphic theta activity.  The background over the right consists of occasional fragmented
+unstable 7-7.5 Hz PDR, poor AP gradient and excess polymorphic theta and delta activity.  During
+sleep, faster frequencies disappear and diffuse delta activity appears.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, nearly continuous, moderate, right hemispheric
+Interpretation:
+This is an ABNORMAL awake and briefly asleep EEG due to mild diffuse slowing and moderate
+focal right hemispheric slowing. Diffuse slowing is indicative of mild diffuse cerebral dysfunction,
+which is etiologically nonspecific.  Focal right hemispheric slowing indicates focal cerebral
+dysfunction, likely structural in etiology.
+
+
+

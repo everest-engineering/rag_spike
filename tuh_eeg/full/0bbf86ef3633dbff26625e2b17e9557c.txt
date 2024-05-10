@@ -1,0 +1,33 @@
+History:	50 year old woman with rapidly progressive cognitive decline.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  ~22 hours from 4/21/2015 to 4/22/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+The background consists of 6-8 Hz moderate amplitude polymorphic theta activity posteriorly with
+poor AP gradient and excess diffuse polymorphic theta activity.  Patient moves nearly continuously
+throughout the recording.  About 2-2.5 hours of sleep is captured in this 22 hour recording epoch.
+No clearly normal sleep architecture is present except for vertex-like waveforms.
+Summary of Findings:
+Artifact, movement, abundant
+Diffuse slowing, polymorphic, mild
+Other, only sleeps for ~2-2.5 hrs, sleep is fragmented
+Disorganization
+Interpretation:
+This is an ABNORMAL ~22 hours continuous video EEG due to mild background slowing and
+disorganization. These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  Only ~ 2-2.5 of fragmented sleep is captured in this recording epoch - sleep is
+fragmented and sleep architecture is not normal.  These findings were conveyed to the primary
+
+
+
+
+

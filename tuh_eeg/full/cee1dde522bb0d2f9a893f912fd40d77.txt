@@ -1,0 +1,40 @@
+History:	33 yr old male after a surgery, presents with events concerning for seizures (gaze
+deviation and facial twitching).
+Medications:	Depakote, Keppra, Versed, Vancomycin, Zosyn, propofol,
+Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 03/102015 till 3/11/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Early in the recording, while awake, the background consists of a
+mixture of polymorphic theta <delta activity.  As versed is added, the background changes to
+primarily diffuse spindle-like/ alpha-frequency monormophic activity.
+Focal right occipital seizures are captured.  Early in the recording seizures last ~1.5-2.5 minutes
+and occur several times per hour.  As the recording progresses, their frequency and duration lessen
+with no clear seizures identified by the end of the  recording epoch.  Seizures are confined to to the
+occipital region/ right occipital- parietal region (O2/P4 and O1 leads) and have no clear clinical
+correlate.  Additionally, right posterior quadrant spikes are captured.  Their frequency, too,
+decreases as the recording progresses.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+Spikes, right posterior
+Seizure, intermittent, right posterior
+Interpretation:
+This is an abnormal 24 hours continuous video EEG due to (1) moderate-to-severe diffuse slowing
+and (2) right posterior seizures and epileptiform discharges that resolve by the end of the recording
+epoch.  Diffuse slowing is indicative of moderate-to-severe diffuse cerebral dysfunction, which is
+etiologically nonspecific, but in this case at least partially related to the medication effect (versed).
+There is an epileptogenic, likely structural focus, in the right occipital/ parietal (right posterior
+quadrant) region.  These findings were conveyed to the neurology consult team on several occasions.
+
+
+
+
+

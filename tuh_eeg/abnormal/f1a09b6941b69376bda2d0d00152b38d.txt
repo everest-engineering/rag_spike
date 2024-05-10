@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 34-year-old with recurrent spells in which he becomes unaware of his environment and is disoriented.  The patient is amnestic for the spells.  Has 2 syncopal spells as well which he did recall.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were both completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm.  Drowsiness is characterized by hypersynchronous rhythmic slowing, slow rolling eye movements and an increase in beta.
+Hyperventilation did not activate the record.  Photic stimulation elicited scant driving.
+Heart rate 96-104 BPM.
+IMPRESSION:  This is a normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Of note, the patient has a somewhat rapid heart rate for a resting adult.
+
+
+

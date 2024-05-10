@@ -1,0 +1,35 @@
+History:	33 yr old male after a surgery, presents with events concerning for seizures (gaze
+deviation and facial twitching).
+Medications:	Keppra; Depakote, Ativan
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  While awake, the background consists of a mixture of polymorphic
+theta <delta activity.  Fragmented periods of quiescence/ sleep are characterized by background
+discontinuity and diffuse sleep-spindle-like waveforms.
+Focal right occipital seizures are captured.  Seizures last ~3 minutes.  Seizures start with repetitive
+~ 3 Hz spikes over the right occipital region and spread throughout the right hemisphere with
+reflection over the left hemisphere.  There is diffuse delta activity after seizures cease.  About 4
+seizures are captured in the first 30 minutes of the recording.  They are associated with left facial
+twitching.  Seizures stop at ~ 12 AM (related to administration of Ativan).  They recur at ~ 5 am at
+several seizures per hour.  Once they recur, they are more focal and confined to to the occipital
+region/ right occipital- parietal region (O2/P4 and O1 leads) and have no clear clinical correlate
+Persistent  tachycardia is captured on a single EKG lead (up ~ 120-130 bpm).
+Summary of Findings:
+Status epilepticus, right occipital, early in the recording, resolves with Ativan
+Diffuse slowing, polymorphic, moderate-to-severe
+Seizure, intermittent, right occipital, several per hour by the end of the recording
+Interpretation:
+This is an abnormal >5 hours continuous video EEG due to (1) moderate-to-severe diffuse slowing
+and (2) right occipital seizures that are more prolonged and frequent early in the recording and
+improve with Ativan administration. Early in the recording seizures are associated with left facial
+twitching.  Diffuse slowing is indicative of moderate-to-severe diffuse cerebral dysfunction, which is
+etiologically nonspecific.  There is an epileptogenic, likely structural focus, in the right occipital/
+parietal (right posterior quadrant) region.  These findings were conveyed to the neurology consult
+
+
+
+
+

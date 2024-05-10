@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 69-year-old left-handed woman with hyperglycemia and observed convulsion 2 days ago.
+MEDICATIONS:  Metformin, albuterol, and Norvasc.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically satisfactory record, although hyperventilation and photic stimulation were not possible.  Impedances were generally under 5 kilohms with the exception of the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  With the patient resting comfortably, the background EEG is diffusely slow with a glimpse of a 6 Hz posterior dominant rhythm.  When unstimulated, the patient drifts off to sleep with bursts of delta.  Snore artifact was noted.  Rhythmic 7 hertz theta activity was noted from the temporal regions as the patient drifts off to sleep.
+Heart rate: 114.
+IMPRESSION:  This is an abnormal, primarily sleep EEG due to generalized background slowing.
+CLINICAL CORRELATION:  Limited wakefulness was obtained in this relatively hypersomnolent patient.  The overall background with diffuse slowing is most supportive of a diffuse disturbance of cerebral function, nonspecific in origin, but can include a toxic or metabolic encephalopathy.  If seizures are an important consideration, a follow-up study when the patient's metabolic issues have been resolved may be a value.
+
+
+

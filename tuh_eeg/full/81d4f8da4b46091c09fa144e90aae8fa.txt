@@ -1,0 +1,44 @@
+History:	43 YR MALE WITH CC OF INCREASE IN SZS. AND FALLS   PMHX: RASMUSSENS
+ENCEPHALITIS (SURGERY ON LEFT.  WITH REFRACTORY SZS.
+INCREASED  SEIZURE ACTIVITY.
+Medications:	SOLU MEDROL, PHENOBARBITAL, TOPIRAMATE, VIMPAT, ATORVASTATIN,
+LISINOPRIL, COUMADIN, LORAZEPAM, PYRIDOXINE,  RITUXIMAB.
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and
+subtemporal chain, awake, drowsy, asleep, lethargic, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 44 hours from 04/15/2014 to 04/17/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None.
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms at higher amplitudes over
+the left hemisphere.  The background over the right hemisphere consists of a mixture of theta, delta,
+beta, with unstable 8-9 Hz PDR and weak AP gradient.  No normal background organization is
+present over the left.  The background on the left consists of polymorphic moderate amplitude theta
+and delta admixed with overriding fast activity.  Patient remains awake throughout the entire
+Continuous polymorphic delta activity is present in the left posterior quadrant during wakefulness,
+increasing during drowsiness.  Frequent high amplitude almost periodic posterior temporal (T5)
+more than left parietal (P3) sharp waves are seen.  Multiple clinical seizures are captured about 18
+per hour, lasting ~60-140 seconds.  Electrographically seizures start with left parietal beta discharge
+that spreads over the posterior temporal leads and over the left hemisphere increasing in
+amplitude and decreasing in frequency. During the last hours the seizure improved to 12 per hour.
+Clinically the patient appears to flex his right arm tonically.
+Summary of Findings:
+Seizure, frequent
+Sharp waves, frequent
+Focal slowing, polymorphic, continuous
+Interpretation:
+This is a very abnormal awake and sleep 44 hour EEG due to recurrent 60-140 second clinical focal
+seizures with left posterior quadrant onset. Continuous focal slowing, frequent epileptiform
+discharges and seizures emanating from the left posterior temporoparietal region indicate focal
+
+recording .irritable structural lesion.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.  This EEG remains similar to the previous EEG recorded on 03/10/2014.
+These findings were conveyed to the primary team.
+
+

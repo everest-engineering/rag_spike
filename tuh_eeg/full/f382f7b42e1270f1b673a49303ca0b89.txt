@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  87 year old woman  found confused.  Left frontal infarct.  Pulmonary fibrosis.  Exacerbation of CHF.
+MEDICATIONS:  Heparin, ASA, Lasix, Amlodipine, Omeprazole, Clonidine, Simvastatin, Glyburide, Loratadine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is an alpha rhythm of approximately 8 Hz on the right.  In maximal wakefulness there is an asymmetry with disruption of faster frequency activity in the left hemisphere, particularly frontotemporal in comparison to the right.  In the transition to sleep, these features are not quite so prominent.  Vertex waves and spindles are present bilaterally.  There is a bit more left frontal delta in comparison to the right.  Abundant stage II sleep with vertex wave K complexes and spindles are noted.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the left frontal region characterized by primarily by disruption of fast or frequency activity in wakefulness/early drowsiness.
+CLINICAL CORRELATION:  These findings are congruent with a history of a left frontal infarct.  No epileptiform features were noted.
+
+
+

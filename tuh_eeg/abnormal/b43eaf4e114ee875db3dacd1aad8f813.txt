@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  27 year old right handed male with epilepsy.  The patient missed his seizures medications on the 19th as he was n.p.o. for hernia repair and had 3 seizures.
+MEDICATIONS:  Tegretol, Keppra, Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This was an awake, postictal individual.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates frequent, nearly continuous left anterior temporal spike and slow wave, and sharp and slow wave complexes in wakefulness.  The majority of these are maximum at T1, some spreading to S7.  The sharp waves and spikes build up and they are sometimes periodic in nature and/or are associated with rhythmic delta from the left temporal region.  Hyperventilation and drowsiness both seem to accentuate these. The right hemisphere demonstrates mild background slowing, but there is a 7 Hz mean rhythm and an 8 Hz alpha rhythm.  Features of drowsiness include an increase in beta and theta as well as occasional vertex waves.  Photic stimulation elicits scant driving.
+HR:    108 bpm
+IMPRESSION:  Abnormal EEG due to:
+Prominent, left anterior temporal sharp waves and spikes noted in wakefulness and drowsiness.
+Left temporal rhythmic focal slowing.
+Mild background disorganization on the right.
+CLINICAL CORRELATION:  This is a highly epileptiform-looking EEG.  Ongoing vigilance is appropriate to make sure that this patient is improving after 3 seizures.  The left temporal sharp waves were noted o prior EEGs.
+
+
+

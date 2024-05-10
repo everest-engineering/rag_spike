@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 65 year old right handed male with perinatal hypoxia, history of epilepsy which stopped at age 28 but with recurrent episodes of left hand tremor and finger numbness.
+MEDICATIONS: Glipizide, Levothyroxine, Simvastatin
+INTRODUCTION: Digital video EEG was performed in lab using the standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized with a posterior dominant rhythm of 7 to 8 Hz. There is some shifting arrhythmic delta activity, particularly in the frontotemporal regions. Some of this is sharply contoured at T1. Hyperventilation produces rhythmic slowing as well as shifting delta from either hemisphere. Arrhythmic delta activity can be seen particularly in the right posterior quadrant with hyperventilation. During this record, no involuntary movements were noted. There was a relatively prolonged section with early drowsiness, light sleep, where the overall background is rhythmic and the patient transitions to and from an awake and sleep pattern. Photic stimulation does not activate the record.
+HR: 55 bpm.
+IMPRESSION: Abnormal EEG due to:  1. Excess theta.
+2. Shifting and slowing including the bilateral anterior temporal regions and occasional posterior regions and in the case of the posterior regions, a bit more remarkable on the
+right.
+CLINICAL CORRELATION: No epileptiform features were observed. At the very end of the record just prior to the technologist telling the patient that she is going to end the study, the patient does have a little bit of tremor which produces 6 Hz artifact. The focal features may support this patients early developmental anoxic injury. In this case, the burst of theta was clearly not associated with any behaviors that seemed to be ictal, and there were no features about that burst of tremor that suggested a seizure.
+
+

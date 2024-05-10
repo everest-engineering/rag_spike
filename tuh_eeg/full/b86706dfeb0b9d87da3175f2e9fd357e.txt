@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 57-year-old male with epilepsy, status post craniotomy.  The patient was admitted 2 days ago with a seizure and aspiration pneumonia with metabolic acidosis.
+MEDICATIONS:  Zonisamide, ciprofloxacin, Ativan, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized.  There is an alpha rhythm which is typically 8 Hz, sometimes reaching 9 Hz with generous beta and theta.  A likely breach rhythm is noted in the left frontocentral region with accentuation of faster frequency activity in that region.  Additional, irregular mixed theta and delta seen in the left mid and posterior temporal regions intermittently.  Features of drowsiness including increasing beta as well as somewhat irregular delta in the left temporal region and rare left temporal sharp waves.  The focal slowing is more prominent as the patient becomes drowsy.  It is also a bit more continuous.  Spontaneous arousals from sleep were observed.
+Heart rate 102 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+Left temporal focal slowing.
+Excess beta.
+Occasional left temporal sharp waves.
+CLINICAL CORRELATION:  Previous EEG's were not available for comparison.  This EEG supports a focal mechanism for epilepsy.  Comparison of previous EEG's may be valuable.
+
+
+

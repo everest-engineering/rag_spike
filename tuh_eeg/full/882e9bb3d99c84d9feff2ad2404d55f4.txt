@@ -1,0 +1,14 @@
+Dates of the recording 12/18/2012 from approximately 8:00 in the morning until 12/19/2012 until approximately 8:00 in the morning.
+This recording was done according to a standard 10/20 system with an additional T1 and T2 electrodes in a single EKG lead.  Continuous video EEG monitoring was performed.
+Spike detector and seizure detector were activated.  The patient's push button events, nursing notes and medical staff notes were reviewed.
+HISTORY OF PRESENT ILLNESS:  The patient is a 48-year-old man with a history of episodes of dizziness followed by loss of consciousness.  More recently these episodes have been preceded by headaches.
+CURRENT MEDICATIONS:  Keppra 500 in the morning and 250 at night.
+DESCRIPTION OF RECORDING:  The posterior dominant rhythm consisted of well-formed and modulated 10.5 Hz alpha activity that attenuates with eyes opening with preserved anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep symmetrical vertex waves, sleep spindles, K complexes, slow wave sleep and multiple epochs of REM sleep are captured.  There were several push button events.  The events occurred at approximately 4:32 p.m., 5:49 p.m., 7:05 p.m., 8:50 p.m.  During most of these events, the patient reported significant left sided headache.  Scalp EEG showed normal awake background during these events.  During the event at 7:05 p.m. the patient was slow to respond to questions.  Scalp EEG showed drowsy background without evidence of focal slowing, epileptiform discharges or ictal activity.  Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Multiple events of significant left-sided headache without an abnormal ictal correlate.
+A single episode of decreased responsiveness that correlated with a normal drowsy background.
+No epileptiform discharges or ictal events.
+IMPRESSION:  This is a normal awake and asleep 24-hour continuous audio video electroencephalogram monitoring.  Multiple events of left-sided headache had no abnormal ictal correlate. A single event of decreased responsiveness and headache was associated with a drowsy background.  No epileptiform discharges or ictal events have been captured.
+
+
+

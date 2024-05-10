@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 19-year-old woman, 7 months pregnant with seizures occurring only during pregnancy.  Past seizures in __________.  Patient subsequently had a miscarriage.  Patient now experiences episodes where she is aware, but cannot speak in feels jumpy.  Has family history of mothers and aunts experiencing seizures during pregnancy.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically satisfactory routine 20-minute EEG with photic stimulation.  Hyperventilation was deferred.  Impedances were satisfactory.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Mu activity was noted, but testing was not performed to confirm this.  Frequent eye blink artifact was noted.  Despite the eye blink artifact, as the patient becomes drowsy, there is a subtle, infrequent, slowing noted in the left mid temporal region, maximum at T3-T1 and there are rare, medium amplitude left anterior sharp waves.  Some of these have a 5 hertz component, but they are associated with a subtle underlying focal slowing.  As the patient becomes drowsier, there is also some rhythmic temporal theta of drowsiness noted from either side.
+Deeper stages of sleep include an increase in Synchronicity of the background.
+Photic stimulation elicited bilateral driving.
+Heart rate 100 bpm.
+IMPRESSION:  This is a subtly abnormal EEG due to:
+Subtle, infrequent, left temporal focal slowing.
+In the context of multiple normal variants, there are rare, left anterior temporal sharp waves or mid temporal sharp waves.
+CLINICAL CORRELATION:  This EEG is most supportive of a focal mechanism for epilepsy.  If there is any question, a more prolonged study capturing deeper stages of sleep could be of value.
+S
+
+
+

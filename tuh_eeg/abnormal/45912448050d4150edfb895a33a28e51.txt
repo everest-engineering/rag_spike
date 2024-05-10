@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  61 year old right handed male found confused today, required sedation.  Previous history of MI and diabetes.
+MEDICATIONS:  Ceftriaxone, Haldol, Vancomycin, Versed, Ativan, Azithromycin, Zosyn, Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm with a small amount of low-voltage frontocentral beta activity.  As the patient transitions to drowsiness, there are occasional bursts of isolated right or left temporal delta but outside of the acceptable range for normal.  Deeper stages of sleep are not achieved.  Photic stimulation elicits bilateral driving. The patient is confused during the EEG.
+HR:   66 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow-up study may be considered.
+
+
+

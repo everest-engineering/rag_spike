@@ -1,0 +1,27 @@
+History:	70 year old woman with limb jerking for several hours.  Patient has a history of
+ESRD on HD.  She has missed last two HD sessions.
+Medications:	Heparin, insulin, zosyn, vancomycin, asa, keppra,
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+The PDR is 6-7 Hz activity and AP gradient is weak.  The background consists of irregular
+polymorphic theta activity.  Patient is asleep throughout the recording with poorly formed vertex
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  Various limb and mouth movements are captured
+throughout the recording have no abnormal ictal correlate.  Irregular heart rate is noted on a single
+EKG lead with inter-QRS pauses up to 1.5 seconds long.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Cardiac arrhythmia, Irregular heart rate is noted on a single EKG lead with inter-QRS pauses up
+Other, Various limb and mouth movements are captured throughout the recording have no
+Interpretation:
+This is an ABNORMAL awake and mostly asleep 23-minute EEG because of mild-to-moderate
+diffuse background slowing and disorganization.  These findings are etiologically nonspecific
+indicators of mild-to-moderate diffuse cerebral dysfunction.  Various limb and mouth movements
+are captured throughout the recording have no abnormal ictal correlate.
+
+
+
+

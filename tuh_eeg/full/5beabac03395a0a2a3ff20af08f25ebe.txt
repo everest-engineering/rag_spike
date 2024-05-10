@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  31 year old right handed male with tonic clonic seizure on March 13, 2012 with postictal confusion, no known epilepsy risk factors.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 50 mV alpha rhythm with a generous amount of low voltage, frontal central beta. Features of drowsiness include a prominent increase in beta, followed by attenuation of the alpha.  Occasional vertex waves are observed. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits scant driving.
+HR:    100 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This EEG is remarkable for generous beta.  No epileptiform features were seen.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  61-year-old woman who presents with headaches, increased blood pressure, change in mental status with hallucinations, later developing twitching on the left side with head deviation to the left = status epilepticus. End-stage renal disease, hypertension, and diabetes.
+MEDICATIONS: Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and sedated.  Noxious stimulation of the patient was performed.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized with attenuation of the left hemisphere and mixed theta and delta frequency background from the right hemisphere.  Five brief clinical seizures are detected in this recording with involuntary movements of the left upper extremity and EEG correlates lasting 50 to 100 seconds, which initially starts out with sharply contoured theta frequency activity.  The right temporal region with sharp waves maximally from the right anterior temporal region shows a phase reversal primarily at T1.  There is clear frequency evolution of those discharges with volume conduction to the left frontal regions.  Stimulation of the patient does not significantly alter the record.
+HR:  102 BPM.
+IMPRESSION: Abnormal EEG due to:
+Onset of complex partial seizures with onset in the right frontotemporal region with subsequent spread.
+Suppression of EEG activity over the left hemisphere.
+CLINICAL CORRELATION: The recurrent seizures  from the right temporal region seen in this recording correlates with the clinical seizures. This tracing supports a focal mechanism for this patient’s frequent seizures, which can be classified as status epilepticus.  The suppression of the left hemisphere may be due to previous ongoing seizure activity and/or medication effect. Correlation with neuroimaging  is appropriate.
+
+
+
+

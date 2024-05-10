@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  63 year old male found unresponsive on April 1st, still not back to baseline, somnolent.  Renal failure, diabetes, hepatitis C, hypertension, nonadherent to medications.
+MEDICATIONS:  Insulin, Heparin, Carvedilol, Fentanyl
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a 2-4 Hz background.  It is relatively rhythmic.  There are some sections of the record with an increase in beta activity in the frontal regions.  FIRDA is noted.  Stimulation of the patient produces lower voltage, less rhythmic pattern.
+HR:    66 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The picture described above is most compatible with a metabolic pattern.
+
+
+

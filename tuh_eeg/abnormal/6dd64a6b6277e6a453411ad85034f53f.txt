@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 26-year-old male with past history of scoliosis.  Patient was diagnosed with epilepsy 2 years ago.  Seizures characterized by blank stares and a metallic taste and then waking up confused.  Over the last 2 weeks, he has had increasing drop attacks, followed by head turning to the right, shaking tongue and body, and tonic-clonic seizures.
+MEDICATIONS:  Depakote, Keppra.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low-voltage, frontocentral beta activity.  The patient rapidly transitions in between wakefulness and stage 2 sleep.  Features of stage 2 sleep include vertex waves, K complexes, spindles, and posts.
+Hyperventilation does not activate the record.
+At the closing of the record, head rocking artifact was noted in the right occipital scalp region.
+Photic stimulation was not performed.
+Heart rate 78 bpm.
+IMPRESSION:  Normal electroencephalogram in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

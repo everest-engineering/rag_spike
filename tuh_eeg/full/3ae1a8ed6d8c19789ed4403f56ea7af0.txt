@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 22 year old left handed male with onset epilepsy, 6 months ago without any provocation. Seizures with loss of consciousness, postictal confusion. The patient denies tonic clonic activity, but reports a family history of epilepsy.
+MEDICATIONS: Lamotrigine, Tricor, Prozac, Lisinopril, HCTZ
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz 40 microvolt posterior dominant rhythm. Features of drowsiness include anterior spread of the alpha rhythm and an increase in beta. Rhythmic frontal delta is seen in the transition to sleep. Deeper stages of sleep are not sustained. Photic stimulation elicits brief bilateral driving. Hyperventilation produces an increase in amplitude of the background.
+HR: 90 bpm
+IMPRESSION: EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION: There are no focal nor epileptiform features identified. If additional information is needed, a more prolonged tracing capturing sleep is suggested.
+
+
+

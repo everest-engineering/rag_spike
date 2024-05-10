@@ -1,0 +1,35 @@
+History:	56 YO MALE WITH SEIZURE HX SINCE CHILDHOOD WITH GTC TONGUE BITING
+AND LOSS OF CONTINENCE. LAST EVENT 4 WEEKS AGO.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording and increases during drowsiness.  During drowsiness, the background slows to central
+theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz
+activity, and symmetric sleep spindles and K complexes appear.
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  Occasional focal sharp waves are present phase reversal
+and amplitude maximum at F7.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Sharp waves, intermittent, left temporal, anterior
+Focal slowing, polymorphic, intermittent, left temporal, anterior
+Diffuse slowing, polymorphic, excessive diffuse
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent epileptiform
+discharges  and focal slowing in the left anterior temporal region.  These findings are indicative of
+a potentially epileptogenic focus in this region, and given the clinical history of partial seizures, are
+consistent with a diagnosis of localization-related epilepsy. In addition there is mild  diffuse
+background slowing.  This finding is indicative of mild diffuse cerebral dysfunction, which is
+
+
+
+
+

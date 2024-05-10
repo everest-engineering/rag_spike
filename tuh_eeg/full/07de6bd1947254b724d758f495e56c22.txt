@@ -1,0 +1,30 @@
+History:	71 year old woman with a history of narcolepsy since the age of 17.
+Medications:	patient could not recall
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, photic
+Description:
+Waking background is characterized by a low amplitude fast alpha variant rhythm which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Occasional 50-75uV, 100 msec positive sharp transients occur bilaterally
+over the occipital regions of the head during saccadic eye movements with the eyes open.  Diffuse
+excess beta activity is noted  During drowsiness, the background slows to central theta activity,
+frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes
+intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and
+symmetric sleep spindles and K complexes appear.  POSTS (positive occipital sharp transients of
+sleep) and right RMTD (rhythmic midtemporal theta activity of drowsiness) are noted during sleep.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Sleep, stage 2
+Beta, excessive
+Alpha variant, fast
+Interpretation:
+This is a NORMAL 22-minute EEG, awake, drowsy, and asleep. The lack of epileptiform discharges
+on a routine EEG does not rule out a clinical diagnosis of epilepsy.  Excess beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+

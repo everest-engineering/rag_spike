@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 77-year-old woman with retinal detachment of both eyes, basal cell carcinoma, cervical stenosis and syncope with associated tingling in the legs.  Past history of stroke with left hemiparesis and renal failure.
+MEDICATIONS:  Gabapentin, Lyrica, and others.
+INTRODUCTION:  Routine digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically difficult EEG with T1-T2 impedances greater than 5 kilohms.  The patient had difficulty cooperating in the EEG as well.
+DESCRIPTION OF THE RECORD:  In apparent, maximal wakefulness, the background EEG is slow and at best, on occasion of 7 Hz posterior dominant rhythm was noted.  Immediately without stimulation, as the patient becomes drowsy, EEG becomes quite slow with a slow more featureless delta pattern and intermittently some theta.  There is some shifting and slowing noted with at times relatively symmetric arrhythmic delta.  On other occasions, there is a bit more arrhythmic delta activity on the left compared to the right and there are a few bursts of more sharply contoured delta noted on the right.  By the end of the record when the patient is a bit more cooperative, the EEG is symmetric, but slow.
+Photic stimulation did not significantly activate the record.  Heart rate 54 BPM.
+IMPRESSION:  Abnormal EEG in wakefulness and sleep due to:
+Slowing of the alpha rhythm.
+Focal features noted in each hemisphere with a bit more disruption of faster frequency activity noted on the left and drowsiness.
+Isolated, rare bursts of slowing on the right.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No epileptiform features are identified.  This EEG demonstrates an overall slow pattern.  The focal features may be correlated with imaging.  If additional information is needed, a more prolonged study may be of value.
+
+
+

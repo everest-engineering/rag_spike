@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  epilepsy since infancy
+MEDICATIONS:  Tegretol, zonisamide on hold.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the inpatient EEG monitoring unit using standard 10-20 system of electrode placement with 1 channel EKG and seizure and spike detection software.  Telemetry was added for cardiac monitoring.  The patient experienced 1 clinical seizure and 1 push button which may have been a practice push button versus aura.
+DESCRIPTION OF THE RECORD:  Some sections of the waking background include a well-defined alpha rhythm of 9 Hz.  Other sections include a slower background or intermittent shifting slowing.
+Interictal spikes:  Primarily in sleep, there are infrequent, independent right or left temporal sharp waves.  There are also some bursts of sharply contoured slowing.
+Push button:  1 p.m.  No clinical information was noted.  No electrographic seizures or significant tachycardia were noted.
+Seizure:  9:56 p.m.  This is a 56-second seizure.  The 1st ictal sign is an increase in heart rate from 78 bpm to 120 bpm.  Then slowing is noted in the temporal regions bilaterally, perhaps with attenuation in the right temporal region for 3 seconds.  This is followed by 6-7 Hz theta frequency activity from the right temporal region at 9:56:18.  By 9:56:26, the ictal activity is slowing on the right and increasing on the left.  As the seizure ends, the epileptiform activity has already resolved on the right and the final discharges are noted on the left.  Afterwards, profound postictal slowing was noted, and then the patient discontinued herself from the EEG electrodes.
+The ictal behavior included the patient looking to the right.  She was noted to be writing with her right hand at seizure onset.  She demonstrates some circular movements with the right hand and seems to be holding the left hand rigidly although it is not possible to say if this is a dystonic posture.  She seems to have automatisms on the right and then at one point has extension of both arms.  After this, she is able to get out of bed and is off camera.
+The clinical seizure was recognized rapidly and a nurse pushed the alarm bell within 26 seconds and called for help.  Although there were 3 nurses in the room, the patient was still able to remove her EEG electrodes.  The electrodes were reconnected and monitoring continued over the course of the night.
+IMPRESSION AND CLINICAL CORRELATION:  One clear complex partial seizure was recorded.  This seizure was not optimally characterized by scalp electrodes as there is a clear increase in heart rate before the first ictal change.
+
+
+

@@ -1,0 +1,37 @@
+AGE: 73 y.o.
+SEX: male
+DATE OF STUDY: 12/15/2015
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: 40-60 min, asleep only EEG #: 15-1812
+HISTORY:
+73 y.o. male who presented with a 3-day history of altered mental status, found to have a left frontal intracranial hemorrhage. He is referred for routine EEG for assessment of mental status change.
+MEDICATIONS: Keppra SEDATION: None TECHNIQUE :
+A 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG .
+EEG BACKGROUND:
+The waking background is continuous and symmetric, but consists of poorly organized delta with admixed theta. There is no posterior dominant rhythm.
+The background is not clearly reactive. State change is not captured .
+There is severe generalized slowing.
+No focal slowing is present. EPILEPTIFORM ACTIVITY:
+There are continuous sharply contoured delta waves with superimposed sharply contoured beta frequencies, periodic at 1 Hz, diffusely over the left hemisphere, with reflection over the right (bilateral asymmetric lateralized periodic discharges, also known as PLEDs or
+LPD+FR) .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate in the 130s, with occasional pauses up to 1.2 seconds, is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal asleep only routine EEG due to:
+Severe generalized slowing, with lack of clear reactivity
+Background disorganization
+Left hemispheric lateralized periodic discharges (LPD+FR)
+CLINICAL CORRELATION:
+These findings indicate the presence of left hemispheric highly epileptogenic potentials superimposed on severe diffuse cerebral dysfunction.
+A single EKG lead captured tachycardia but with occasional pauses up to 1.2 seconds
+Following this study the patient was continued on long term monitoring.
+
+
+
+

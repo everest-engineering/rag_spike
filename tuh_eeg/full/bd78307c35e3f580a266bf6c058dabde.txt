@@ -1,0 +1,27 @@
+History:	65 Y/O MALE R HANDED HAVING SURGERY TODAY PTE EEG TEE. PMHX.,N/A 60
+CM HEAD
+Medications:	ROCURONIUM,ETOMIDATE,FENTANYL,PHENYLEPHRINE,MIDAZOLAM,EPHEDRINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  As surgery starts the EEG reveals a background that consists of mixture of
+diffuse delta with interposed beta that occurs only in bursts of 1-3 seconds with intermittent
+attenuation.  As the EEG progresses the background again becomes more continuous mixture of
+diffuse delta with interposed beta and slowly becomes slower and more diffusely attenuated as the
+patient is cooled. Until the background becomes  symmetrically completely isoelectric.  The EEG
+remains Isoelectric for hours and then as the patient is warmed the background slowly become a
+symmetric mixture of delta frequencies with some frontal beta until the end of the record.
+INCISION 8:34:11 AM,  HEPARIN 8:53:09 AM, Cooling; 9:10AM, SUPPRESSION 9:51AM, CIRC
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+Interpretation:
+This is an uneventful 6.5 hour EEG during cooling for a pulmonary thromboendarterectomy.
+
+
+
+

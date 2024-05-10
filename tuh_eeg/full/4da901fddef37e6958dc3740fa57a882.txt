@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 25-year-old woman with recurrent syncopal spells for the past 5 years.  They occur once per month with sudden loss of consciousness and  quick return to baseline.  She may be confused afterwards.  She may have an aura of a strange smell prior to the spells.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel  EKG.  This was a routine 20 minute EEG with photic stimulation.  Hyperventilation was deferred.  Impedances were generally under 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10.5 Hz posterior dominant rhythm with a small amount of low voltage frontocentral beta.  There is significant eye movement artifact.  Drowsiness was characterized by generous beta.
+Photic stimulation elicited vigorous driving with supra harmonic driving.
+HEART RATE 48 BPM, irregular.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The supraharmonic driving was a normal finding, but the electrocardiogram lead was abnormal.
+
+
+

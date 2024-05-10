@@ -1,0 +1,16 @@
+EEG LENGTH:  Nearly 22 minutes.
+CLINICAL HISTORY:  The patient is an 81-year-old woman with a history of atrial fibrillation, pancreatic cancer, strokes, who was observed to have left-sided arm and leg twitching earlier today.
+MEDICATIONS:  Keppra, warfarin, loratadine, Cardizem, metoprolol, imipenem, Zocor, and diltiazem.
+INTRODUCTION:  The recording was performed at the bedside.  The recording was performed according to standard 10/20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  There is right-to-left interhemispheric asymmetry with faster frequencies at lower amplitudes over the left hemisphere.  The posterior dominant rhythm over the right hemisphere reaches 8.5 to 9 Hz alpha activity.  The anterior-to-posterior frequency amplitude gradient over the left hemisphere is unstable.  The posterior dominant rhythm over the right hemisphere is rarely observed.  The background over the right hemisphere consists primarily of a mixture of polymorphic theta and delta activity more pronounced posteriorly.  Additional diffuse polymorphic theta is captured.  Periods of quiescence of capture, however, no normal sleep architecture is observed.  Continuous moderate amplitude right posterior quadrant sharp waves with after-going slow waves are observed.  Maximal scalp negativity is over O2 electrode.  Intermittent brief right posterior quadrant electrographic seizures are captured.  They last for approximately 20-40 seconds.  They are poorly formed.  They are characterized by disappearance of the right posterior quadrant epileptiform discharges and appearance of rhythmic sharply contoured theta and delta activity.  There are at least 5 such events captured during the recording period.  Irregular heart rate is noted in the single EKG lead.
+FINDINGS:
+Mild diffuse slowing and disorganization.
+Focal left hemispheric slowing and disorganization most pronounced over the right posterior quadrant.
+Continuous right posterior quadrant sharp waves with after-going slow waves, with a maximal scalp negativity over the O2 electrode.
+Intermittent brief focal, 20-40 seconds, right posterior quadrant electrographic seizures.  There are at least 5 such seizures during the recording.
+Cardiac arrhythmia.
+IMPRESSIONS:  This is a very abnormal 22-minutes EEG due to mild diffuse background slowing, focal right hemispheric slowing that is most pronounced posteriorly, continuous right posterior quadrant epileptiform discharges, and intermittent brief focal right posterior quadrant electrographic seizures.  Diffuse slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Focal right hemispheric slowing, most pronounced over the right posterior quadrant, right posterior quadrant epileptiform discharges, and seizures indicate focal cerebral dysfunction likely structural in etiology and is consistent with patient's history of prior stroke over that region.  Cardiac arrhythmia is noted on a single EKG lead.
+These findings were conveyed to the primary team at the time of the review.
+
+
+

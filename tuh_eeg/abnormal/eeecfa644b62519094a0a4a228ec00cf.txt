@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 66 year old woman with epilepsy and syncopal spells which typically occur in church.
+MEDICATIONS: Topamax, Carbamazepine, ASA
+INTRODUCTION: Digital video EEG was performed In lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9.5 Hertz alpha rhythm with a generous amount of tow voltage, frontal central beta activity. Hyperventilation produces an increase in slowing. Drowsiness is associated with slow rolling eye movements. Photic stimulation elicits scant driving.
+HR: 60 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Excess theta.
+CLINICAL CORRELATION: The excess theta has been described in 2 previous EEGs. No epileptiform features were identified today. At least one of the previous EEGs demonstrated some generalized spike and slow wave activity.
+
+
+
+

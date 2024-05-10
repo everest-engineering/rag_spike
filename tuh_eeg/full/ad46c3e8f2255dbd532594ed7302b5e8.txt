@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 38 year old woman with a seizure while at Episcopal Hospital.  She was hospitalized there for a suicide attempt.  Past history of recurrent suicide attempts, depression, osteomyelitis, and overdoses.
+MEDICATIONS:  Dilaudid, Neurontin, Topiramate, Lovenox, Seroquel, Synthroid Effexor
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  This is a dynamic EEG in wakefulness.  Some sections are reasonably well organized, but relatively slow with a 7.5-8 Hz alpha rhythm.  Other sections demonstrate bursts of irregular, paroxysmal delta activity.  Within that paroxysmal delta, there is sharply contoured activity.  This can been seen from either side.  Stimulation of the patient produces an alerting response with anguish.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+Paroxysmal slowing.
+Shifting, sharply contouring slowing particularly in the temporal regions.
+CLINICAL CORRELATION:  These findings are nonspecific.  They can be seen in a toxic or metabolic encephalopathy as well as a bihemispheric disturbance affecting gray and white matter.  As this patient's medical condition stabilizes, a follow-up EEG in search of epileptiform activity is suggested.
+
+
+

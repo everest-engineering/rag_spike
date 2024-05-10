@@ -1,0 +1,9 @@
+History:	79 YR FEMALE WITH DM, HTN, PARKINSON, Patient told that she had seizure but she is adamant that she did not. Calcified Left temporal
+Medications:	LEVADOPA, Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, photic
+Description: Waking background is organized and characterized by an 8.5 Hz alpha rhythm.  Symmetric beta activity is present, maximal over the frontocentral regions.  The overall background is well organized  As drowsiness progresses, the record shows mild diffuse slowing. Intermittent mild left occipital slowing is present during drowsiness.  Wicket activity is present, more predominately in the left temporal region.  No definitive epileptiform discharges are present. Stepped photic stimulation from 1-21 flashes per second produces minimal driving response. Hyperventilation is not performed.  HR:  72.  Technical limitations include muscle and motion artifact, particularly on the right.
+Summary of Findings: Focal slowing, rhythmic, occasional, left posterior
+Interpretation: This is a mildly abnormal awake and drowsy EEG due to mild left posterior focal slowing in drowsiness only.  Wicket activity is a normal variant.  No epileptiform discharges are present. The focal slowing may be correlated with imaging.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+

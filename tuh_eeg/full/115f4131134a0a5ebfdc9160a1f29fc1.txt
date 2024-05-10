@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  67 year old male admitted on August 5, 2012, found down with seizure like movements and was then pulseless.
+MEDICATIONS:  Ativan, Depakote, Vecuronium.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated.  He appears to have a large growth in the right neck.  The head is turned to the left and, in addition, to having continuous tremor in the right leg, he also had a mechanical device that shakes the bed.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage and markedly suppressed.  The initial sections of the record with the artifact demonstrates significant 5 Hz artifact.  After the use of vecuronium, the EEG pattern transitions to more of a low voltage, relatively suppressed pattern, with intermittent bursts, typically lasting 2-3 seconds with a mixture of 1.4, 3.7, and 5 Hz activity.  Some of the bursts are slightly asynchronous and there may be a bit more cerebral activity in the left temporal region.  Tactile stimulation of the patient does not alter the record.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+A burst suppression pattern.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  No epileptiform features were identified.  There were minor, not significant asymmetries noted in the background.  This EEG supports a severe disturbance of cerebral function, particularly 24-hours after cardiac arrest.
+
+
+

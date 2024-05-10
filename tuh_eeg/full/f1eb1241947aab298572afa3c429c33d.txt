@@ -1,0 +1,16 @@
+\
+
+
+CLINICAL HISTORY:  The patient is a 26-year-old woman with recent seizure characterized by generalized tonic-clonic shaking with loss of consciousness for 20 minutes, incontinence, and postictal confusion.  History of panic attacks, fibroids, asthma, and family history of epilepsy.
+MEDICATIONS:  Klonopin, Zoloft, trazodone, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is generally a technically acceptable EEG with impedances under 5 kg.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an alpha rhythm of 10 Hz, 30 microvolts, which is symmetric and reactive to eye opening.  Generous, frontal central beta was noted.  Drowsiness was characterized by an increase in beta.
+Hyperventilation produces an increase in both theta and beta.  Photic stimulation elicited vigorous driving.
+Heart rate: 60 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this outpatient routine record in this individual with a relatively recent and prolonged convulsion, if epilepsy is an important consideration a more prolonged study capturing sleep is suggested.
+
+
+
+
+

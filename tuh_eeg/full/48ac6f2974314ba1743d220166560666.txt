@@ -1,0 +1,28 @@
+History:	32 YO FEMALE FOUND DOWN BY MOTHER WHO CALLED EMS. EMS ARRIVED
+10 -15 MIN, PEA, IN AMBULANCE, CHEST COMP FOR 3 MIN , PLUS 2 ROUNDS
+Medications:	None
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation of activity with absence of the expected anterior to posterior gradient of frequencies.
+No normal sleep architecture was present.
+No focal slowing is present.  Intermittent burst of generalized but frontal predominating complex
+polyphasic sharp waves at 4Hz lasting 10-20seconds are present.  During this discharges some eye
+twitching can be seen on the video.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 90.  Please note that there was a diffuse multiple electrode
+artifact that affects the interpretation of the background.
+Summary of Findings:
+PEDs (periodic epileptiform discharges), frequent generalized, Frontal predominant
+Attenuation, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL EEG because of generalized periodic epileptiform discharges and diffuse
+background attenuation with absent alpha rhythm.  These findings are indicative of severe diffuse
+cortical dysfunction and irritability, which can be seen as a consequence of anoxic brain injury.
+The eye twitching seen associated with the discharges is consistent with myoclonus. The overall
+findings along with the clinical history of hypoxia suggest a poor prognosis.  Primary team was
+informed about the findings after the EEG was completed.
+

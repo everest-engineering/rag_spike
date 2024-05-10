@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  81 year old male found, status post PEA code for 1 hour.
+MEDICATIONS:  Captopril, Plavix, ASA, Famotidine
+INTRODUCTION:  Digital video EEG was performed at bedside in using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates primarily a theta frequency pattern with 7 Hz theta.  There are portions of the record where the patient transitions to an 8 Hz pattern.  Eye blink is noted and there is evidence of an alerting or an awake pattern which is somewhat slow, but there is a definitive posterior dominant rhythm of 7 to 8 Hz in theta background.
+HR:    90 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Modest background slowing in an awake patient.
+CLINICAL CORRELATION:  For this individual, three days following cardiac arrest, this EEG carries a positive prognosis.  Clinical evaluation is necessary to put this in the appropriate context.
+
+
+

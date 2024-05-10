@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  60 year old right handed woman with epilepsy including absence and myoclonic seizures.
+MEDICATIONS: Divalproex, Topiramate,  Lamotrigine, Amlodipine
+INTRODUCTION:  Digital video EEG was performed in lab using standard  10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm. Some portions of the awake record are somewhat disorganized. There are bursts of frontally predominant delta activity some of which have well defined sharp and slow wave complex and others are without as clearly defined spike and wave morphology. These bursts are seen in relaxed wakefulness but also present during photic stimulation. Features of drowsiness include an increase in background slowing.
+HR:	90 bpm
+IMPRESSION: Abnormal EEG due to:
+1.     Background slowing and disorganization.
+2.  Some poorly formed spike and wave activity.
+CLINICAL CORRELATION:   These findings suggest a primarily or secondarily generalized mechanism for epilepsy. Additional evaluation and clinical history is important to determine if these findings are postictal or due to another process.
+
+
+

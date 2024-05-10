@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 26-year-old woman with tubular sclerosis, lupus nephritis, past history of cerebral resection, multiple repetitive seizures, characteristics of seizures not described.
+MEDICATIONS:  Versed, fentanyl, and Ativan.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a tracheostomy.  She receives Ativan during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a highly irritative, periodic focus in the right posterior temporal region.  There is prominent fast activity in the right hemisphere.  The epileptiform activity on the right is specifically T6/02.  From the left the primary pattern is a low voltage beta pattern with scant additional frequencies.
+The patient receives sedative hypnotic medications.  Afterwards there is less in the way of eye movement artifact.  In the initial sections of the record she has frequent blinking.  She is described as awake, but it is difficult to see that she is interactive.  The end of the record is remarkable for a bit more beta frequency activity.  The epileptiform activity slows a bit, but does not disappear.  It demonstrates some frequency evolution.
+Heart rate:  90 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Prominent epileptiform activity which is periodic in nature in the right posterior temporal region.
+Background slowing bilaterally.
+Absence of normal wave form anticipated in wakefulness for an adult of this age.
+CLINICAL CORRELATION:  These findings may be correlated with clinical history and imaging.  They are congruent with the MRI.
+
+
+

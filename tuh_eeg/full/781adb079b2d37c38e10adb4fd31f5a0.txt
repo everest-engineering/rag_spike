@@ -1,0 +1,21 @@
+History:	60 year old woman presents with change in mental status.
+Medications:	fentanyl, aspirin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Description:
+During brief arousals, the background consists of polymorphic low-to-moderate amplitude 8-9 Hz
+PDR with excess polymorphic theta activity and weak AP gradient.  Sleep is captured throughout
+the majority of the recording.  It is characterized by diffuse theta and delta activity with intermittent
+sleep spindles and K-complexes.  Patient rapidly transitions into drowsiness and sleep.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+Interpretation:
+this is an abnormal mostly asleep and briefly awake 22-minute EEG due to mild diffuse slowing.
+This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but,
+in this patient, it is at least partially related to excessive drowsiness.  The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+

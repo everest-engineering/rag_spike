@@ -1,0 +1,27 @@
+History:	57 YR MALE WITH CC RIGHT SIDE WEAKNESS, NUMBNESS, SLURRED
+SPEECH,  D/C OSH  ADM (HTN) PMHX: HTN, HEP C, DRUG ABUSE, MANDIBLE
+FX, LEFT FRONTO PARIETAL ICH.
+Medications:	KEPPRA, COREG
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 11 Hz alpha rhythm, which is only seen on the
+right.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During
+stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the
+midtemporal and frontal region during wakefulness, increasing during drowsiness. There is a loss of
+faster frequencies over the left hemisphere.  At times there is sharply contoured activity at F3.  No
+epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Irregular HR with average of 90 bpm
+and PVCs.
+Summary of Findings:
+Focal slowing, polymorphic, continuous hemispheric, Maximal midtemporal and frontal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the left
+hemisphere maximal in the midtemporal and frontal region.  This finding is indicative of a focal
+structural lesion in this region and consistent with the known ICH.  No clinical or electrographic
+
+

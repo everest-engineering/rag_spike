@@ -1,0 +1,48 @@
+History:	58 year old man with a history of lymphoma and focal status epilepticus.
+Medications:	KEPPRA, VERSED IVP, DEPAKOTE, PHENOBARBITAL
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from ~8 am on 12/17/2013 till ~ 8 am on
+12/18/2013.   Nursing-initiated event buttons were correlated with clinical behavior.   Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+neurologist.   The Gotman spike and seizure detection algorithm (Stellate) was used to screen the
+EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+Early in the recording, the posterior dominant at best consists of polymorphic moderate amplitude
+6-7 Hz activity  There is no clear AP gradient.  Additional, polymorphic diffuse theta and delta
+activity is noted.  As the recording progresses, background becomes more disorganized, PDR
+disappears and there is increase in theta and delta activity.  This corresponds to initiation of
+phenobarbital.  At ~ 11 PM there is rapid progression to diffuse voltage attenuation and further
+disappearance of faster frequencies.  This corresponds to IV push of Versed.  Period of burst-
+suppression is noted starting at ~ 11:20 PM lasting ~ 20 minutes. This corresponds to the use of
+anesthetic agents and patient intubation.  By the end of the recording epoch, the background
+consists of frequent periods of discontinuity, low amplitude delta activity with underriding fast
+activity and diffuse sleep-spindle-like waveforms.  During sleep, symmetrical sleep spindles are
+Multiple electrographic seizures are captured. They last on average ~ 100-120 seconds and tend
+to occur in clusters, with seizures occurring every 5-10 minutes during the seizure cluster.  Seizures
+start with low amplitude sharply contoured fast activity in Fp1 electrode that gradually increases in
+frequency and decreases in amplitude and evolves into rhythmic 8-9 Hz sharp activity.  Seizure
+remains primarily within Fp1 electrode with some  minimal spread vs reflection into Fp2 electrode.
+Seizure frequency and duration gradually decrease throughout the recording epoch (corresponding
+to increase in the doses of antiepileptic medications). Last electrographic seizure occurs at ~1:25
+AM.  Video review does not demonstrate clear correlate.  Patient is not formally tested during the noted seizures.
+Summary of Findings:
+Seizure, frequent, left focal frontopolar seizures.  Last at ~1:25 AM.
+Diffuse slowing, polymorphic, becomes more severe as the recording progresses
+
+
+
+Interpretation:
+This is an ABNORMAL continuous 24-hour video EEG due to increasing degree of diffuse
+background slowing and frequent left focal frontopolar seizures, with last recorded seizure at ~1:25
+AM. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific but in this patient at least partially is related to the medication effect.  There is
+epileptogenic focus in the left frontopolar region.  The results were conveyed to the primary team.
+
+

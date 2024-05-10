@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 63-year-old woman status post left parasagittal meningioma resection, seizure free, medication reduction in place.
+MEDICATIONS:  Keppra, others
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This patient has a left central craniotomy defect.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  Breach rhythm was characterized by an increase in amplitude of the background, this is a little bit more notable in sleep.
+Features of drowsiness include an increase in beta, followed by attenuation of the alpha rhythm and POSTS.
+In sleep, focal slowing is noted primarily left frontal central or left posterior temporal.  Vertex waves and spindles were noted in sleep.
+Photic stimulation was performed while the patient was drifting in and out of sleep, but did elicit a driving response.  Hyperventilation produces an increase in amplitude of the background, as well as an increase in faster frequency activity and a subtle accentuation of the breach rhythm.
+Heart rate:  78 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  Focal slowing in the left hemisphere, particularly central and mid to posterior temporal region.
+CLINICAL CORRELATION:  This is the sixth EEG for this adult which identified focal slowing ipsilateral to the meningioma.  None of them have identified sharp waves or spikes.
+
+
+

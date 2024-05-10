@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 48 year old woman with meningitis, asthma, schizophrenia, and a stroke 4 years ago.
+
+MEDICATIONS: Ativan, Rocuronium, Ampicillin decadron
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is a technically challenging EEG with a great deal of 60 Hz and muscle artifact.
+
+DESCRIPTION OF THE RECORD: The background EEG includes a pattern with underlying, relatively featureless delta of 2 Hz and scant amounts of theta frequency. There is some muscle artifact. Stimulation of the patient elicits some muscle withdrawal but no real alerting response.
+
+HR: 120 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with relatively slow featureless delta.
+
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function. The absence of reactivity is a poor prognostic feature.
+

@@ -1,0 +1,7 @@
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The first section of the record spans from 17:56 to 20:27.  No clinical correlates or medication list is provided.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly suppressed pattern.  The previously described activity in the right posterior quadrant seems to be changing a bit.  There is less rhythmic theta and a bit more fast activity.  The activity from the right posterior quadrant varies from three seconds to seven seconds and at times, there seems to be a bit more fast activity in that region.  The left hemisphere remains markedly suppressed.
+HR:  58-60 BPM.
+
+
+
+

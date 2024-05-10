@@ -1,0 +1,40 @@
+AGE : 23 y.o.
+SEX: male
+DATE OF STUDY: 09/08/2015
+RECORDING ENVIRONMENT :Outpatient
+EEG TYPE: Routine, awake-and-drowsy EEG #: 15-1310
+HISTORY:
+23 y.o. Male with a history of tonic-clonic seizures.
+MEDICATIONS :
+Current Outpatient Prescriptions:
+lamotrigine (LAMICTAL) 200 mg tablet, Take 1 tablet by mouth 2 times daily.
+levetiracetam (KEPPRA) 750 mg tablet, Take 0.5 tablets by mouth 2 times daily. Long term plan is to wean Keppra
+methylphenidate	(RITALIN) 20 mg tablet, Take 1 tablet by mouth 2 times daily. ONLY FOR SCHOOL
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+ascorbic acid (VITAMIN C) 500 mg tablet, Take 500 mg by mouth daily.
+CALCIUM CARBONATE (CALCIUM 600 PO), Take 1,000 mg by mouth daily. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements , attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+Note is made of frequent eye-flutter artifact at the beginning of the study.
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background slowing.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 48 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-drowsy routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-drowsy routine EEG.
+
+
+

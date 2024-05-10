@@ -1,0 +1,19 @@
+HISTORY:
+A 28-year-old male with recurrent seizures in 2007, subsequently seizure-free and off seizure medications since 2008.
+
+INTRODUCTION:
+Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel EKG.
+Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF RECORD:
+In Maximal wakefulness is 10Hz alpha rhythm with a small amount of low voltage, fronto-central beta Mu rhythm was
+identified, but testing is not performed to confirm this. There appears to be lambda.
+Drowsiness is characterized by slow rolling eye movements and subsequent slowing of the alpha rhythm.
+Hyperventilation produces a small amount of theta. Photic stimulation elicits scant driving.
+Heart rate 70 BPM.
+IMPRESSION:
+EEG within normal limits in wakefulness and stage I sleep.
+CLINICAL CORRELATION:
+No focal nor epileptiform seizures were identified. The patient's previous EEGs were not available for comparison.
+
+
+

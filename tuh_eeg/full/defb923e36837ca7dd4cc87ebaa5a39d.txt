@@ -1,0 +1,35 @@
+AGE: 19 y.o.
+SEX: female
+DATE OF STUDY: 11/30/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1743
+HISTORY:
+19 y.o. female with history of "passing out" and headache presents for evaluation following an episode on 11/22/15 of feeling hot with chest pain, then shaking with LOC and postictal confusion (event lasted -45 min) .
+MEDICATIONS: none SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND;
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening .
+During drowsiness, there is early dropout of alpha rhythm, and
+prominent runs of diffuse theta slowing.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes . Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) during drowsiness does not produce any EEG changes .
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake and asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+

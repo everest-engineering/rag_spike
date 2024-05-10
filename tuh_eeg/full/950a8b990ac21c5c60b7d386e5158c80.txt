@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 39-year-old woman with epilepsy, seizure-free since October 2013 and tonic-clonic seizures since 1990.
+MEDICATIONS:  Plaquenil, prednisone, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.  It was technically acceptable with impedances under 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In maximum wakefulness, there is a 9 hertz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Head rocking artifact and an increase in slowing in the background as well as a small amount of theta were noted in early drowsiness.  Deeper stages of sleep were not sustained.
+Photic stimulation elicited bilateral driving.  Hyperventilation produced an increase in theta.  At the close of hyperventilation, the patient is becoming a bit more drowsy and there are rare asynchronous bursts noted in the transition to drowsiness.
+Heart rate 72 bpm.
+IMPRESSION:  Electroencephalogram within normal limits in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The features described above are within the range of normal for a subject of this age particularly with a transition to sleep.  If epilepsy is an important consideration, a repeat, more prolonged study may be of value.
+
+
+

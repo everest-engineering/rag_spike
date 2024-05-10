@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 47 year old right handed woman with a 2-year history of epilepsy, currently seizure-free. Past history of anxiety, panic attacks, rheumatoid arthritis, and mitral valve prolapse.
+MEDICATIONS: Tegretol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage, but there is an 11 Hz alpha rhythm, generous frontocentral beta. Wicket activity is noted. In this at times challenging EEG, occasional right temporal sharp waves are noted as is some right anterior temporal focal slowing characterized by somewhat irregular theta. The theta appears as the patient is drifting off to sleep with an increase in beta and then the right temporal area that is somewhat slower. Epileptiform activity is overall scant in this record. Electrode placement is not ideal in this study.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Right anterior temporal sharp waves.
+CLINICAL CORRELATION: Given the technical challenges described if there
+are any questions, a followup prolonged EEG with additional sleep may be helpful.
+
+
+
+

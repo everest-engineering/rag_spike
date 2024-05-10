@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 49-year-old woman with history of complex partial seizures characterized by loss of awareness, staring, wandering.  The patient is currently admitted to the epilepsy monitoring unit for presurgical evaluation.
+MEDICATIONS:  Include Vimpat 200 mg twice a day, Lyrica 150 mg twice a day, Seroquel.
+INTRODUCTION:  The recording was performed according to the 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Seizure detector and spike detector were activated.  The patient was equipped with an event button.  Medical staff notes and nursing staff notes were reviewed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consisted of a well-formed and modulated 10-11 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Excess beta is captured.  Lambda is occasionally observed.  During sleep POSTS (positive occipital sharp transients of sleep), vertex waves, sleep spindles, K complexes, slow waves, sleep, and several epochs of REM sleep are captured.  Occasional polymorphic theta and delta activity is observed over the left temporal region.  No typical events occurred.
+FINDINGS:
+Occasional mild-to-moderate left temporal slowing.
+No electrographic seizures.
+No events.
+IMPRESSION:  This is a mildly abnormal 24-hour continuous audio-video EEG monitoring due to occasional mild-to-moderate left temporal slowing.  This findings indicate focal cerebral dysfunction, possibly structural in etiology.  No events captured.
+
+
+

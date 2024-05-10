@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 37 year old right handed male with bipolar disease, hypertension, hyperlipidemia with episodes of vertigo, feeling as if the floor is vibrating.
+MEDICATIONS: Ambien, Valium and many others
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 hertz microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta. Hyperventilation produces an increase in amplitude In the background. Drowsiness is characterized by disruption of the alpha rhythm and a small amount of frontocentral theta. Photic stimulation elicits scant bilateral driving.
+HR: 78bpm
+IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: There are no epileptiform features observed. A normal
+EEG does not exclude a diagnosis of epilepsy and if seizures are a strong consideration, a follow up study, perhaps capturing one of his spells is suggested.
+
+
+

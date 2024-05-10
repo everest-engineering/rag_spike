@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  39 year old right handed woman with multiple sclerosis, stroke, asthma, now admitted with visual hallucinations and binocular double vision.
+MEDICATIONS:  Insulin, Solu-Medrol, ASA, Lovenox, Benadryl, Seroquel.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm.  As the patient becomes drowsy or in relaxed wakefulness, the alpha rhythm slows to 7 Hz.  There are intermittent bursts of generalized theta as well as some head rocking artifact as the patient becomes drowsy.  Photic stimulation elicits bilateral driving.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to
+Intermittent, generalized slowing in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features are identified.  The intermittent background slowing is a nonspecific finding which can be seen in metabolic encephalopathy or any other bihemispheric disturbance of cerebral function.
+
+
+

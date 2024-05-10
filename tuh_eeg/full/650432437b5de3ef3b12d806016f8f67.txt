@@ -1,0 +1,11 @@
+CLINICAL HISTORY:
+INTRODUCTION:  Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has continuous seizure and spike detection.  She is not thought to have clinical seizures by the team.
+DESCRIPTION OF THE RECORD:  The background EEG continues to demonstrate prominent epileptiform activity in the right posterior temporal and occipital region.
+Of note, in the previous 24 hours, the patient had clinical seizures which seemed to be characterized by head turning to the left.
+There is a similar discharge noted at 11:42, but she is not turning to the left.  Additional discharges are noted at 6:00 p.m., again without clear change in the patient's behavior.
+At 11:14 the patient has eye blinking when looking to the left.  The EEG pattern again is similar to an ictal pattern, but without an individual to test her it is difficult to tell if this has a clear clinical correlate.
+IMPRESSION/CLINICAL CORRELATION:  During this section of the record her caregivers did not feel that she had clinical seizures.  The EEG pattern sometimes demonstrates frequency evolution of the epileptiform activity when the patient seems to
+be asymptomatic.  She also had frequent eye blinking, which is an ictal pattern for her even when she is interacting with someone else.
+
+
+

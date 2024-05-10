@@ -1,0 +1,27 @@
+History:	46 year old man with right ICH.  Patient remains comatose.
+Medications:	Versed, Dilantin, Propofol, Keppra, Fentanyl drip
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+No posterior dominant rhythm was present.  Background activity is characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Periods of discontinuity are noted.  They are more pronounced over the right.  No
+normal sleep architecture is present.
+No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There is nearly continuous low
+amplitude EMG artifact.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Discontinuous background
+Focal slowing, polymorphic, right hemispheric
+Interpretation:
+This is an ABNORMAL 26-minute EEG due to moderate diffuse slowing and periods of
+discontinuity that are more pronounced over the right. These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.  Focal right hemispheric slowing indicates focal
+cerebral dysfunction, likely structural in etiology.  Nearly continuous low amplitude EMG artifact
+limits somewhat interpretation of the recording.
+
+
+

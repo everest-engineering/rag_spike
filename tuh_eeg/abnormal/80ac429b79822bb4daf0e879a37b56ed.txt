@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 21 -year-old woman with seizures at age 12, not treated.  Recurrent seizures in sleep with an event with foaming at the mouth and unresponsiveness. A total of 3 nocturnal seizures.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+This is an awake and asleep record in a very drowsy patient.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is in stage 2 sleep with vertex waves and spindles.  With stimulation as the patient awakens from sleep, brief, frontal polyspike complexes were observed.  This was followed by a 9.5 Hz alpha rhythm and then new activity of 10 Hz although testing was not performed to confirm the presence of new.
+Hyperventilation was performed after this which did not produce an alerting response.  Following hyperventilation, the patient drifted back into stage 2 sleep with vertex wave, K-complexes, spindles and posts.
+Photic stimulation was remarkable for photoelectric artifact.
+Heart rate:  60 BPM.
+IMPRESSION:  This is a subtly abnormal EEG due to rare, frontally predominant polyspike activity which was elicited when the patient was awakened from stage 2 sleep.  This activity is approximately 6.5 Hz.
+CLINICAL CORRELATION:  Although the epileptiform activity described above is subtle and is seen in a record with frontal muscle artifact, there is a clear frontal 6.5 Hz spike and wave or polyspike and wave discharge noted in the arousal from sleep.  This seems to be frontally predominant and bilaterally symmetric and more compatible with a generalized mechanism for epilepsy.
+
+
+

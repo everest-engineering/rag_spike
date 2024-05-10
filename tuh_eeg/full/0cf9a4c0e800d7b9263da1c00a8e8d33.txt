@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 76-year-old woman, who stopped her seizure medication approximately 2 weeks ago.  The patient presented to an outside hospital with left hemibody twitching without loss of consciousness.  Received PB,  Keppra and phenytoin in the outside hospital.
+MEDICATIONS:  As above, otherwise unclear.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Despite unilateral twitching, the patient was responsive.
+DESCRIPTION OF THE RECORD:  Background EEG is markedly abnormal.  The overall background includes generous beta.  There was a glimpse of 9 hertz alpha on the left.  The right hemisphere demonstrates a high amplitude, irregular discharge with pseudo-periodicity.  It has some unusual field of spread, typically maximum at C4, but with a negativity at O2 as well.  With the use of an average reference, it is negative at C4 and then followed by a positivity at O2.  The right hemisphere contains more delta than the left.
+Heart rate irregular 60-90 bpm.
+
+IMPRESSION:  Abnormal EEG due to:
+Nearly continuous, irregular periodic complex in the right hemisphere with associated twitching in the hemibody.
+Excess beta.
+Excess theta.
+Focal slowing in the right hemisphere.
+CLINICAL CORRELATION:  These findings are characteristic of an epilepsy partialis continua.  The activity does not evolved and has a certain degree of irregularity to it.
+
+
+
+

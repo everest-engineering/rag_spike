@@ -1,0 +1,25 @@
+75 years
+Department of
+History:	75 year old man with a tumor, undergoing left meningeal artery embolization.
+Medications:	Induction Meds and isoflurane
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+comatose
+Description:
+Approximately 6 minutes of the EEG is recorded before patient is intubated.  Awake EEG
+demonstrates 9 Hz PRD with preserved AP gradient.  There is paucity of faster frequencies over the
+left hemisphere.  Burst-suppression is noted at the time of intubation.  There is gradual
+improvement in the background to a mixture of bursts consisting of a polymorphic low amplitude
+theta, delta and underriding fast activity and periods of  background discontinuity and frank burst-
+suppression.  Bursts of activity are less prominent and voltage attenuation are more pronounced
+over the left hemisphere.  The timing of the embolization is not recorded.
+Summary of Findings:
+Focal slowing, polymorphic, left hemispheric
+Interpretation:
+This is an unremarkable nearly 2 hour continuous EEG monitoring during IR-guided embolization,
+however, the timing of embolization is not recorded, so subtle changes might have been missed.
+This is an abnormal EEG due to left hemispheric focal slowing that indicates focal cerebral
+dysfunction, possibly structural in etiology.
+
+

@@ -1,0 +1,18 @@
+History:	PRIOR EEG41YO FEMALE WITH REFRACTORY EPILEPSY, LAST SEIZURE 8/2013 .
+S/P RIGHT TEMPORAL LOBECTOMY, IMPAIRED VERBAL MEMORY, AND PARANOIA, SZ DESCRIBED FALL/ FOAMING OF MOUTH KNOWS NOTHING ELSE HEAD 52.5 CM
+8/4/15- PT STATES BEEN A LONG TIME SINCE LA Medications:	NEURONTIN,DILANTIN,HALDOL,COGENTIN,VI T  D,CALCIUM
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases during drowsiness.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Very frequent polymorphic delta activity is present independently in the bilateral frontotemporal region (right more than left) during wakefulness, increasing during drowsiness.  Frequent focal sharp waves are present with phase reversal and amplitude maximum at F7, T3 and F8. Some have a large prefrontal field.
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  Hr was 84.
+Summary of Findings:
+Sharp waves, frequent, bilateral frontotemporal, Some have a large prefrontal field. Focal slowing, polymorphic, nearly continuous, bilateral (R>L) frontotemporal Diffuse slowing, polymorphic, excessive, mild diffuse
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges in the bilateral frontotemporal and left midtemporal region.  These findings are indicative of a potentially epileptogenic focus in this region,  and given the clinical history of partial seizures, are consistent with a diagnosis of localization-related  epilepsy. In addition there is  very frequent focal slowing in the bilateral frontotemporal  region (right more than left) region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific. Lastly there is mild  diffuse background slowing.  This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+

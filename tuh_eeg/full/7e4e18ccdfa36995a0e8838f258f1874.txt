@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 79-year-old woman with epilepsy and dementia compared to previous EEGs.  Patient was previously treated Dilantin and Tegretol.
+MEDICATIONS:  Keppra, Norvasc, Lipitor, Depakote, and Dilantin ?
+INTRODUCTION:  Digital video EEG, 1-hour study was performed in the lab using a standard 10-20 system of electrode placement with 1-channel EKG.  Impedances were under 5 kilohms with the exception of T1-T2 electrodes.  Photic stimulation was completed.  Hyperventilation was deferred.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm.  There is limited, well organized awake pattern.  The most common findings in this record include right temporal rhythmic slowing with associated sharp waves.  The rhythmic slowing becomes more prominent.  The patient transitions into stage 2 sleep with vertex waves, K complexes, spindles, and posts.
+There are rare, independent sharp waves noted from the right anterior temporal region, but they tend to be lower amplitude.  There is also some independent, much less prominent right temporal focal slowing and sharp waves.  The right temporal sharp waves are seen primarily in stage 2 sleep.
+Photic stimulation elicits a driving response.
+Heart rate 54 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Left temporal focal slowing.
+Left temporal sharp waves.
+Much less prominent right temporal focal slowing and sharp waves.
+CLINICAL CORRELATION:  No seizures were recorded.  These findings have been previously identified in other studies, although some studies were postictal studies.  Given the abundance of epileptiform activity and TIRDA, a more prolonged study may be of value to make sure that this patient is not experiencing subclinical seizures.
+
+
+

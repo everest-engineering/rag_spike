@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 79-year-old woman with history of epilepsy, cognitive issues and combative behavior.  Recent seizure.
+MEDICATIONS:  Ativan, trazodone, Depakote, Seroquel, Zolpidem, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.  Hyperventilation was deferred.  Electrode impedance was generally satisfactory with some problems with the T1 and T6 electrodes.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient is somewhat drowsy.  The background is continuous, relatively symmetric, with a mixed frequency background with theta and some underlying delta.  The patient intermittently arouses with eye opening but demonstrates a slow background with primarily theta frequency activity.  In sleep, she demonstrates an intermittent involuntary jerking of the right leg which does not carry an EEG signature, aside from some muscle artifact.  As the patient becomes a little drowsier, the muscle jerking disappears.  There is a single, discrete, right frontal sharp wave noted on only 1 occasion.
+Photic stimulation was performed while the patient is relatively drowsy.  The tech attempts to have the patient interact and remain awake, although she has great difficulty doing so.  No driving response was noted.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing.
+Hypersomnolence.
+CLINICAL CORRELATION:  Only a single, right frontal sharp wave was noted therefore this EEG cannot be considered an epileptiform EEG.  The marked background slowing may be due to this patient's medications and other CNS pathologies.  If epilepsy is an important consideration additional EEG recording may be of value.  Alternatively, comparison with previous studies may also be useful.
+__________________________
+
+
+

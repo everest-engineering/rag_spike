@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 32-year-old male with 3 grand mal seizures in 2001, 2002, and 2007 but currently seizure free.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a routine outpatient EEG.  Impedances were satisfactory aside from T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The patient is drowsy throughout much of the EEG.  In maximal wakefulness, the background EEG is disorganized with a theta pattern.  The overall pattern is relatively high amplitude.  There is a glimpse of an alpha rhythm which is slow.
+Hyperventilation was performed early in the record producing bursts of high amplitude, slow delta which were somewhat irregular.  Following this, the patient drifts off to sleep with somewhat chaotic delta and then vertex waves.  The patient transitions in and out of sleep.
+Photic stimulation did not significantly activate the record.  The technologist noted that the patient had some involuntary oral movements during photic stimulation.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+A slow alpha rhythm, at best 8 Hz.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Additional evaluation of this patient to understand the underlying neurological picture and the cause for a diffusely slow and disorganized pattern is appropriate.  The response to hyperventilation with a slow high amplitude, somewhat disorganized delta pattern but there were no definitive spike and wave complexes.
+
+
+

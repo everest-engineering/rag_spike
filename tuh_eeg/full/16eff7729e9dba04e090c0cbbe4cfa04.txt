@@ -1,0 +1,30 @@
+History:	87 year old woman with a history of dementia, strokes, CAD, a-fib, now presents with
+generalized convulsion.  There was reported gaze deviation to the left.
+Convulsions stopped with Ativan.
+Medications:	ativan, Dilantin, Cardizem
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, lethargic, photic
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture of polymorphic low
+amplitude theta and delta activity with underriding fast activity.  During sleep, low amplitude sleep
+spindles and periods of discontinuity are noted.
+There is subtle paucity of faster frequencies over the right lateral leads.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates irregular heart rate up
+to 120 -150 bpm with occasional inter-QRS pauses up to 1.5 seconds.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Cardiac arrhythmia
+No electrographic seizures
+Focal slowing, polymorphic, continuous, moderate, right lateral leads
+Interpretation:
+This is an ABNORMAL awake and asleep 25-minute EEG due to moderate diffuse slowing and
+focal right temporoparietal slowing. Diffuse slowing is indicative of moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a focal
+cerebral dysfunction, likely structural in etiology.  A single EKG lead demonstrates irregular heart
+rate up to 120 -150 bpm with occasional inter-QRS pauses up to 1.5 seconds.  No electrographic
+
+
+

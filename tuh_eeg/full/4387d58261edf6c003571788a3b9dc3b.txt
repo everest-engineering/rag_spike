@@ -1,0 +1,22 @@
+History:	An unknown male who presented with a TBI. Found to have left SDH status post evacuation. Prior EEG showed left hemispheres seizures.
+Medications:	KEPPRA, MORPHINE, DILANTIN
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+
+
+Description:
+There is no PDR and no AP gradient. The background consists of a mixture of attenuated polymorphic delta>> theta activity with increase in theta activity with stimulation. Low amplitude sleep spindle-like waveforms are noted. They are slightly more prominent over the right.
+
+Frequent brief bursts of higher amplitude polymorphic sharply contoured delta activity are present over the left, maximal over temporocentral regions.
+
+Hyperventilation and photic stimulation are not performed. There is reactivity to visual, auditory, tactile, or noxious stimuli. A single EKG lead demonstrates heart rate up to 120 bpm.
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+Focal slowing, polymorphic, frequent, severe, left hemispheric, most prominent over temporocentral No electrographic seizures
+Other, reactive
+
+Interpretation:
+This is an is an abnormal 22 minute EEG due to moderate-to-severe diffuse slowing, voltage attenuation and frequent focal left hemispheric slowing that is most pronounced over the left temporocentral region. Diffuse slowing is etiologically nonspecific indicator of moderate to severe diffuse cerebral dysfunction. Focal left hemispheric slowing indicates focal cerebral dysfunction, likely structural in etiology and is consistent with a history of focal subdural hematoma status post evacuation. No clinical or electrographic seizures are present.
+

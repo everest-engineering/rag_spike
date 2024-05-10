@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 47 year old right handed woman with epilepsy and an unusual seizure, followed by left facial numbness and weakness.
+MEDICATIONS: Depakote, Mirapex, Celexa, Valproic Acid, Lisinopril, Synthroid, Mirtazapine, Risperidone, Omeprazole, Citalopram
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake. Hyperventilation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hz alpha rhythm with a small amount of low voltage frontal central beta. The initial sections of the record demonstrate slight disorganization. As the patient transitions towards relaxed wakefulness there is a slight asymmetry noted with a slight disruption of the alpha rhythm on the right compared to the left. Photic stimulation elicits a driving response bilaterally.
+HR: 70 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Mild background disorganization.
+2. Subtle asymmetry with a disruption of the alpha rhythm on the right as the patient transitions towards relaxed wakefulness.
+CLINICAL CORRELATION: No epileptiform features are observed. The features described above may be transient and part of a postictal state or related to the patient's underlying cerebrovascular ischemia. If more information is needed regarding this patient's epilepsy, a follow up study is suggested.
+
+
+

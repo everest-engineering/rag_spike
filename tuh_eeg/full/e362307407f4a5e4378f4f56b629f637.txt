@@ -1,0 +1,20 @@
+
+History: PRIOR EEG ON 54 YR OLD MALE WITH HX OF SZ ONSET 312008. PT REPORTS SZ ON 10/18/13 W/LOC AND NO RECALL OF SZ, SEEN HERE@TUH. 11125113
+ROUTINE FOLLOW UP EEG. PMHX SIG FOR PARANOID SCHIZOPHRENIA
+Medications: Lisinopril, Norvasic, Tenoretic, Keppra
+Sedation:
+EEG Typo: Routine. Awake & drowsy
+Technique: International 10-20 System; standard 21 electrodes with T11T2 electrodes and EKG electrodes. Awake, hyperventilation, photic
+
+Description:
+Waking background is characterized by a 2f>.40uV, 9-10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric S-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear. Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness. No epileptiform discharges are present.
+
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second {fps) does not produce any effect. Continuous eye blinking artifact seen throughout the study.
+
+Summary of Findings:
+No epileptiform discharges
+
+Interpretation:
+This is an ABNORMAL awake EEG because of intermittent focal slowing In the left midtemporal region. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+

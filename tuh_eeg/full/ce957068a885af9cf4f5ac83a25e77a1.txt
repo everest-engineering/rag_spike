@@ -1,0 +1,42 @@
+:
+History:	76 year old woman found unresponsive yesterday.  She was found to have PEA.
+Diffuse body jerks were noted this am.
+Medications:	Depakote, Propofol at 20, Vecuronium 8 mg total during the study
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture of polymorphic
+theta<<delta activity and diffuse frontally predominant polyspikes.  As the recording opens,
+polyspikes are low in amplitude and infrequent. As the recording progresses,  they gradually
+increase in frequency, amplitude and duration.  Clinically, they are associated with diffuse body
+jerks.  Four brief (~20 seconds) clinical and electrographic seizures are captured.  Clinically patient
+has diffuse body jerks that rapidly evolve into rhythmic clonic movements of upper extremities.
+Patient is given vecuronium at the time of the last seizure, so no movement is identified with that
+event.  Electrographically, the first 3 seizures are characterized by diffuse EMG artifact. Patient is
+paralyzed at the time of the fourth seizure.  That seizure starts with moderate amplitude diffuse
+polyspikes that evolve into a mixture of diffuse 8-10 Hz  activity with underriding low amplitude fast
+activity.  At the end of the seizures, rhythmic ~ 3 Hz diffuse delta activity is seen accompanied by
+the underriding fast activity.  After each seizure, frequency, duration and amplitude of polyspikes
+decrease dramatically.
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Seizure, few, ~20 second each, generalized
+Polyspikes, abundant diffuse
+No reactivity
+Diffuse slowing, polymorphic, severe
+Interpretation:
+This is a very abnormal 1 hour EEG in a comatose patient due to severe diffuse slowing, lack of
+reactivity, frequent diffuse epileptiform discharges (clinically associated with generalized body jerks)
+and 4 brief generalized seizures. These findings are etiologically nonspecific indicators of marked
+diffuse cerebral dysfunction and profound cortical excitability and in a patient with post-anoxic
+brain injury indicate low likelihood of full neurological recovery.  These findings were conveyed to
+the neurology consult team and to the primary team at the time of the recording.  Patient will be
+placed on a long-term EEG monitoring.
+
+
+
+
+

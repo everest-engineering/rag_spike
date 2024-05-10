@@ -1,0 +1,58 @@
+History:	56 year old woman who presents with focal status epilepticus.  Patient has a history
+of stroke, focal seizures and HIV.
+Medications:	Depakote, Ativan, Vimpat and Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~20 hours from 1/15/2015 till 1/16/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 7 Hz PDR posteriorly but poor AP gradient with delta activity
+anteriorly and excess polymorphic theta.  The background over the left consists of a mixture of
+polymorphic theta and delta activity, predominantly delta activity anteriorly and continuous
+anterior temporal periodic epileptiform discharges that occur with a regular repetition rate of ~1-1.5
+Hz.  Many of the discharges are accompanied by low amplitude fast activity (PEDs-plus).  Maximal
+scalp negativity occurs over Fp1, T3/F7 and F3/C3 leads.  Sleep spindles are captured.
+Until ~ 12 PM, occasional seizures that last ~20 seconds to >2 minutes are noted.  Seizures are
+characterized by disappearance of PEDs and appearance of fast activity over the left frontal leads
+and  rhythmic 4-5 Hz activity over the left temporal/ central leads.  This activity gradually evolves
+into rhythmic ~3 Hz left hemispheric delta activity.  This rhythmic delta activity reflects over the
+right anterior region.  Starting at ~ 12 PM, very frequent and prolonged (~10 minutes) episodes of
+rhythmic left hemispheric (predominantly frontotemporal) ~ 3 Hz delta activity appear.  As the
+recording progresses, this activity becomes nearly continuous (focal status  epilepticus).  At the
+same time  patient's behavior changes, she becomes more agitated and restless.
+Patient is treated with 2 mg of Ativan and continuous rhythmic delta activity stops and is replaced
+by 1 Hz PLEDs noted earlier in the recording.  Since intermittent brief anterior quadrant seizures
+are still noted, patient received additional 2 mg of  Ativan and is loaded simultaneously with IV
+phenytoin.  All ictal activity resolves and ~ 1 Hz quasi-rhythmic (quasi-PLEDs), PLEDs and PLEDs-
+plus are noted over the left frontotemporal region for the rest of the recording with no additional
+seizures.  Seizures stop by ~ 6-7 pm.  There are several push buttons for events during which
+patient claps her hands and sings.  Those are not associated with clear ictal activity.
+Summary of Findings:
+Status epilepticus, left hemispheric
+PEDs (periodic epileptiform discharges), nearly continuous, left frontotemporal
+Diffuse slowing, polymorphic, mild-moderate
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, more so anteriorly
+Interpretation:
+This is an ABNORMAL continuous video 20 hours EEG due to (1) mild-to-moderate diffuse slowing;
+(2) continuous left hemispheric slowing that is most pronounced over the anterior region; (3) nearly
+continuous left frontotemporal epileptiform discharges(PEDs and PEDs-plus), (4) occasional left
+hemispheric seizures that are frontotemporal in onset seen early in the recording and (5) frank left
+hemispheric status epilepticus from ~ 2pm till  ~ 5 pm that resolves with 4 mg of Ativan and IV
+phenytoin load.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.  There is epileptogenic focal structural lesion over the left.
+
+
+
+
+
+

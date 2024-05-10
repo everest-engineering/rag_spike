@@ -1,0 +1,37 @@
+History:	57 year old woman who presents with change in mental status.
+
+Of note, patient has braids, so some of the lead location could be off.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The awake background consists of polymorphic moderate amplitude 9 Hz alpha activity.  The AP
+gradient is unstable.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording and increases during drowsiness.  Bilateral vertex-like waveforms are captured.
+Nearly continuous polymorphic theta and delta activity is over the bilateral lateral electrode chains,
+especially over the midtemporal- posterior temporal regions, right>left.  Additionally, faster
+underlying frequencies are seen over the right posterior temporal- occipital region, suggesting
+Hyperventilation is not performed.  Stepped photic stimulation does not produce additional
+abnormalities.  Photic stimulation was stopped prematurely as per patient's request.  A single EKG
+lead demonstrates frequent premature QRS complexes and possible 6 beats of ventricular
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, nearly continuous, moderate, bilateral (R>L), midtemporal-posterior
+Breach artifact, right temporal, posterior
+No electrographic seizures
+Cardiac arrhythmia, possible 6 beats of ventricular tachycardia on a single EKG
+Interpretation:
+This is an ABNORMAL awake and drowsy 23 minute EEG due to (1) mild diffuse slowing and (2)
+nearly continuous midtemporal- posterior temporal moderate focal slowing, right>left. Diffuse
+slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Focal
+slowing is indicative of a focal structural lesion in bilateral temporal region.  There is a suggestion
+of breach artifact over the right posterior temporal region.  Breach artifact is seen in a skull defect.
+No clinical or electrographic seizures are present.  A single EKG lead demonstrates frequent
+premature QRS complexes and possible 6 beats of ventricular tachycardia.
+
+
+
+
+

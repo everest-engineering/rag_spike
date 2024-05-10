@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  An 84-year-old woman with episodes of recurrent syncope.  Episodes of feeling off balance.  No loss of consciousness.  Past history of bradycardia, asthma.
+MEDICATIONS:
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  There was no hyperventilation or photic stimulation.  During the EEG, the patient reported to the tech that she had features similar to those she had in the grocery store, feeling lightheaded, breaking out in a sweat with nausea.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the overall EEG is well organized with 9.2 Hz symmetric, reactive alpha rhythm.  As the patient becomes drowsy, there are bursts of rhythmic frontal slowing, a handful of bursts of shifting, slowing and then bursts of rhythmic frontal delta, followed by spindles and POSTs.
+Heart rate irregular, 66 bpm.
+IMPRESSION:  Unremarkable EEG for a subject of this age.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This is an awake and drowsy record, but maximal waking record is normal for an adult of this age.  No epileptiform features were noted.  The patient does have an irregular heart rate, which may have contributed to the clinical symptoms.
+
+
+

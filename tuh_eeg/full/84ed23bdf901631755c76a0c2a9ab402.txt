@@ -1,0 +1,49 @@
+AGE : 70 y.o.
+SEX: female
+DATE OF STUDY: 10/15/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG lt : 15-1527
+HISTORY:
+a 70 y.o. female with a history of stroke referred for routine EEG for MEMORY PROBLEMS FOR THE PAST FEW YEARS, now worsening. PT SAYS SHE CAN REMEMBER ANYTHING FROM YEARS AGO, BUT HAS PROBLEMS WITH SHORT TERM MEMORY. HX OF STROKE ON THE RIGHT SIDE MANY YEARS AGO.	Childhood TBI (also on the right)
+MEDICATIONS :
+Current Outpatient Prescriptions :
+oxycodone-acetaminophen (PERCOCET) 10-325 mg per tablet, Take 1 tablet by mouth 4 times daily.
+oxycodone (ROXICODONE) 15 mg immediate release tablet, Take 1 tablet by mouth 4 times daily as needed for Pain.
+sodium hyaluronate, viscosup, (EUFLEXXA) 10 mg/mL injection, Inject 2 mLs into the articular space once a week. Dispense 6 (six) prefilled syringes	Indications: Osteoarthritis of the Knee simvastatin (ZOCOR) 40 mg tablet, Take 40 mg by mouth nightly . gabapentin (NEURONTIN) 800 mg tablet, Take 800 mg by mouth daily. carvedilol (COREG) 12.5 mg tablet, Take 12.5 mg by mouth 2 times daily (with meals) .
+LIRAGLUTIDE (VICTOZA 2-PAK SC), Inject	into the skin. tizanidine (ZANAFLEX) 4 mg tablet, Take 4 mg by mouth every 6 hours as needed.
+Docusate Sodium (STOOL SOFTENER) 100 mg Tablet, Take by mouth. MULTIVITAMIN W-MINERALS/LUTEIN	(CENTRUM SILVER PO), Take by mouth.
+krill-omega-3-dha-epa-lipids	(KRILL OIL) 300-90-24-50 mg Capsule, Take by mouth.
+anastrozole (ARIMIDEX) 1 mg tablet, Take 1 tablet by mouth daily. irbesartan-hydrochlorothiazide (AVALIDE) 150-12.5 mg per tablet, Take 1 tablet by mouth daily.
+aspirin 81 mg EC tablet, Take 81 mg by mouth daily.
+Calcium Carbonate-Vit D3-Min (CALTRATE PLUS) 600 mg calcium- 400 unit Tablet, Take	by mouth. Take twice daily
+metformin (GLUCOPHAGE) 500 mg tablet, Take 1,000 mg by mouth 2
+times daily (with meals) .
+oxycodone (ROXICODONE) 15 mg immediate release tablet, Take 1 tablet by mouth 4 times daily as needed for Pain.
+oxycodone-acetaminophen (PERCOCET) 10-325 mg per tablet, Take 1 tablet by mouth 4 times daily.
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation. She has right cranial scars.
+EEG BACKGROUND:
+The waking background is low voltage but symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 8.5 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen. Head rocking artifact is picked up in drowsiness
+No generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation:	Was deferred
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces scant symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead. Occ PVCs
+IMPRESSION:
+This is a normal, low voltage Awake and drowsy	routine EEG. There are no clinical or electrographic events reported or detected. There is some head rocking artifact due to skull deformity but no definitive focal slowing
+CLINICAL CORRELATION:
+This is a normal Awake and drowsy routine EEG. A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+
+

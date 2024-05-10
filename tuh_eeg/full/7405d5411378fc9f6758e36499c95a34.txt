@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 56-year-old right-handed woman presents with episodes of loss of consciousness for the last 3 years.  She feels hot, dizzy, and then experiences loss of consciousness.
+PAST MEDICAL HISTORY:  Significant for hepatitis C and hypertension.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed at EEG lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient is awake.  This EEG captures wakefulness through stage II sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-10 Hz posterior dominant rhythm with generous amount of low voltage frontocentral beta activity with symmetrical distribution.  The stage I sleep is characterized by disappearance of the alpha rhythm slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  This stage II sleep was characterized by the presence of K complexes, sleep spindles, and posts.  Hyperventilation results in symmetrical slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate is 60 beats per minutes.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage II sleep.  No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  A normal EEG and does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, repeat EEG capturing deeper stages of sleep or a 24-hour ambulatory EEG may be helpful.
+
+
+

@@ -1,0 +1,22 @@
+History:	33 year female with pmhx of left temp epil s/p lobectomy.  increase in sz about 1 a month..  stress related.  migraines. ( see chart for skull defect left
+Medications:	Lyrica, Lamictal
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9.5Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Nearly continuous polymorphic delta activity is present in the left temporal region during wakefulness, increasing during drowsiness.  Additional fast frequencies are observed over the left frontotemporal region (breach rhythm).  During sleep, occasional low to moderate amplitude synchronous spikes with aftergoing slow waves are noted over the bilateral occipital leads.
+Hyperventilation is performed for 240 seconds with fluctuating cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional information
+Summary of Findings:
+Breach artifact, left frontotemporal
+Focal slowing, polymorphic, nearly continuous, left temporal, mild-to-moderate
+Spikes, occasional, bilateral occipital, more so during sleep
+Sleep, stage 2
+Interpretation:
+This is an abnormal awake and asleep 29 minute EEG due to nearly continuous mild-to-moderate left temporal focal slowing and occasional synchronous bi-occipital epileptiform discharges. Focal slowing indicative of a focal structural lesion and is consistent with patient's history of left temporal lobectomy.  Bi-occipital epileptiform discharges indicate a potential epileptogenic focus over the occipital region.  Breach artifact is a sign of a skull defect.
+
+
+
+
+

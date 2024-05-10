@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 64-year-old male found with an empty bottle of Januvia, and glucose of 99.  Given Narcan, Ativan and moxifloxacin.  He has a history of diabetes and neuropathy.  Previous EEG in 2003 is not available.
+MEDICATIONS:  Ativan, Narcan, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a mixed frequency background with spontaneous arousals and generous beta.
+The patient drifts off to sleep and there is an increase in background slowing.  Occasional FIRDA was noted.
+IMPRESSION:  This is an abnormal EEG due to:  Generalized background slowing.
+CLINICAL CORRELATION:  The generous beta described above may be due to this patient's medications.  If epilepsy is an important consideration a follow up study when the patient is out of the ICU may be helpful.
+
+
+

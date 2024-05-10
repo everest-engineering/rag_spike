@@ -1,0 +1,13 @@
+HISTORY:  A 62-year-old woman with previous left MCA infarct and epilepsy, seizures described as 1-2 minutes of staring spells.  Seizure free since 2012.
+MEDICINES:  Keppra, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record capturing photic stimulation in brief drowsiness.
+DESCRIPTION OF RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta.  Drowsiness was characterized by a small degree of slowing in the background and a small amount of theta as well as head rocking.  Photic stimulation elicited scant driving.
+Heart rate 64-78 beats per minute.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  No significant focal features were noted in this adult with a past history of stroke.
+If seizures are an important consideration, a more prolonged study capturing sleep may be of value.  Previous EEGs were not available for comparison today.
+
+
+
+
+

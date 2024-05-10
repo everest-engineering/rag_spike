@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   67 year old woman status post code following C-spine surgery earlier today, anoxia, myoclonus.
+MEDICATIONS:  Versed, Vecuronium, Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrodes placement with 1 channel of EKG at 10:49 p.m. following cardiac arrest earlier in the day.
+DESCRIPTION OF THE RECORD:  The overall EEG is a suppressed pattern with brief bursts typically lasting 600-700 msec with a triplet of spikes in that burst.  There is a high amplitude frontal burst, typically a triplet and then a suppressed pattern.  Stimulation of the patient does not activate the record.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+A marked suppressed, low voltage background.
+A burst suppression pattern with a triplet of generalized spike pattern.
+CLINICAL CORRELATION:  This EEG carries a very worrisome prognosis following cardiac arrest.  If indicated, a follow-up study may be of use, but alternative neurodiagnostic methods may be more important to characterize the anoxic insult.
+
+
+

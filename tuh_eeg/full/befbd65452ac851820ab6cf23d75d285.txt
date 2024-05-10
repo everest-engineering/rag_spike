@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  35 year old woman with morbid obesity, generalized weakness, hypothermia, hypotension, and sepsis, as well as anemia and hypothyroidism.
+MEDICATIONS:  Zosyn, Vancomycin, Bactrim
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and on a warming blanket.
+DESCRIPTION OF THE RECORD:  The background EEG is very low voltage with a mixture of 1.5 Hz, 4.5 Hz, and scant 7 Hz activity.  Tactile stimulation by the nurse clearly produces an increase in higher amplitude 4.5 to 7 Hz activity. By the end of the record the patient is starting to have shivering activity which starts to obscure the EEG.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+A low voltage pattern.
+CLINICAL CORRELATION:  These findings are nonspecific and can be seen in a toxic or metabolic encephalopathy due to many different causes. No epileptiform features were identified.
+
+
+

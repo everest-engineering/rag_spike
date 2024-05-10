@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 30-year-old woman, 34 weeks pregnant, currently off seizure medications admitted with recurrent seizures.
+MEDICATIONS:  Keppra, morphine, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was quite drowsy.  This is a technically acceptable bedside record with most impedances below 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a very drowsy pattern with the patient who transitions in and out of stage 2 sleep.  Tactile stimulation of the patient produces a brief arousal when the patient is oriented to date and then drifts back into stage 2 sleep.  The technologist attempts to awaken the patient on multiple occasions, achieving an awake state for only seconds.
+Heart rate 60 BPM.
+IMPRESSION:  Normal sleep EEG.
+CLINICAL CORRELATION:  No previous EEGs were available for comparison.  No focal or epileptiform features were noted.  If epilepsy is an important consideration, a follow-up study may be of use.  The sleep study may be correlated with this patient's clinical history including time since most recent seizure and use of sedative hypnotic medications.
+
+
+

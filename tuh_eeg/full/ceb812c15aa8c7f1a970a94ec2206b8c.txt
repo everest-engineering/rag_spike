@@ -1,0 +1,39 @@
+History:	54 year old female with persistent encephalopathy.
+Medications:	levetiracetam, lacosamide
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+The background is characterized by bilateral slowing in the theta range. There is a fragmentary
+posterior dominant rhythm reaching 7-8Hz that is reactive to eye opening.  There is an excessive
+amount of beta seen in the frontocentral region bilaterally.  Stage I and Stage II sleep are seen.
+During sleep there is the appearance of spikes within the right temporal region.
+There is intermittent focal theta slowing over the right temporal region during wakefulness..  There
+are nearly continuous right temporal periodic epileptiform discharges over the right temporal region
+that appear during sleep.  These are maximal at F8-T4.  These spikes disappear with the transition
+Hyperventilation and photic stimulation are not performed.  Throughout wakefulness, the patient
+exhibits repetitive orofacial chewing movements that are not associated with ictal brain activity.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Focal slowing, polymorphic, intermittent, right frontotemporal
+PEDs (periodic epileptiform discharges), intermittent, right frontotemporal
+Interpretation:
+This is ABNORMAL 24 hour video EEG due to diffuse slowing, focal right temporal slowing, and
+right temporal PLEDs. These findings suggest diffuse brain injury or a toxic metabolic
+encephalopathy. Focal slowing and right PLEDs suggest a structural brain injury with epileptiform
+potential.  The orofacial movements are not associated with ictal discharges and are non-
+epileptiform events, perhaps orofacial dyskinesias.  These findings were conveyed to the primary
+team. to waking.
+
+
+
+

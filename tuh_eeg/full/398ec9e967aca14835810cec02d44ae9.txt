@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  26 year old right handed woman with epilepsy, seizure free since 2008, 2007 EEG demonstrates a 3.5 spike and wave activity.
+MEDICATIONS:  Lamictal, Zonisamide.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with symmetric reactive 10 Hz alpha rhythm and a small amount of low voltage, frontal central beta activity.  In relaxed wakefulness, prior to hyperventilation, there are bursts of high amplitude, frontally predominant spike and slow wave activity, which are relatively symmetric.  The discharges are less than 2 seconds and start with a 5 Hz discharge transitioning more to a 3 Hz over time.  The bursts are so brief and they are not associated with impairment of awareness.  The technologist gives the patient tasks to do and she is able to count during these brief bursts which wax and wan.
+Hyperventilation accentuates the bursts of frontally predominant spike and slow wave activity.  As the patient becomes drowsy, there is a more of a polyspike component to the bursts.
+Photic stimulation elicits a driving response.  It does not accentuate the epileptiform activity.  The epileptiform activity does occur around the time of stimulation, but it also occurs even just prior to her following the stimulation.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Bursts of high amplitude frontally predominant 3-5 Hz spike and wave activity.
+CLINICAL CORRELATION:  These bursts are quite prominent.  None were longer than 2 seconds in duration and none were associated with impairment of awareness.  The
+technologist did extensive testing of the patient to try and see if there would be a pause during the bursts, but she was not able to demonstrate any impairment of awareness.
+
+
+

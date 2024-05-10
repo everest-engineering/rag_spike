@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 61-year-old male with alcohol withdrawal or hyponatremia related seizures characterized by right facial twitching.  The patient had 2 to 3 episodes in the emergency room recently in November of 2012, after missing medications.  He had another seizure on February 5.  No other information is available.  He lives in Andorra Woods.
+MEDICATIONS:  Keppra, Vimpat, Seroquel, Ativan, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed, but hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  The awake EEG is quite abnormal.  The right hemisphere is nearly normal with a 9 Hz alpha rhythm and a pattern with generous beta.  The left hemisphere has a continuous, periodic complete with a generous field of spread throughout the left hemisphere, but maximum in the left mid to posterior temporal region.  This also has significant involvement in the left parietal and occipital region.  Using an average reference, this activity is nearly maximum at O1 with a phase reversal at P3.  The phase reverses at P3-C3.  Features of drowsiness including increase in beta is noted throughout the right hemisphere, less so on the left.  Photic stimulation does not activate the record.  Heart rate is 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+A complex, epileptiform discharge in the left hemisphere with some variability and even a polyphasic component.  This discharge may begin in the left frontocentral region, but its highest amplitude is in the left occipital region with a generous field of spread in the left posterior quadrant.
+This is essentially a periodic complex without frequency evolution.
+Disruption faster frequency activity from the left hemisphere.
+CLINICAL CORRELATION:  The periodic complexes in the left hemisphere are similar to previous EEG, including previous EEG monitoring.  These findings should be placed in the appropriate clinical context.
+
+
+

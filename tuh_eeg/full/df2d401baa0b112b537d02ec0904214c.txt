@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This 45-year-old male with an episode of dizziness, lightheadedness, and fever.  The patient stood up and had a loss of consciousness for unknown period of time, the patient's 1st recollection is waking up in the hospital.
+MEDICATIONS:  Lipitor, oxycodone, and nicotine patch.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not possible.  This is a technically acceptable bedside record with impedances under 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The patient appears to be quite drowsy, but in maximal wakefulness.  There is a 9 Hz posterior dominant rhythm.  As the patient becomes drowsy, the posterior dominant rhythm slows with a relatively low voltage pattern and then vertex waves.  Deeper stages of sleep are not sustained.
+Heart rate 66 bpm.
+IMPRESSION:  Unremarkable awake and asleep record.
+Clinical Correlation:  No focal or epileptiform features were identified.  Normal EEG, does not exclude a diagnosis of epilepsy.
+
+
+

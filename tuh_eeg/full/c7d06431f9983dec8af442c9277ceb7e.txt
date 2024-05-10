@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  52 minutes.
+CLINICAL HISTORY:  The patient is a 66-year-old woman who presents with 6-7 months of intermittent left eye and mouth twitching.
+MEDICATIONS:  Coreg, Metformin, aspirin, and simvastatin.
+INTRODUCTION:  The study was done according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low amplitude, well-formed and modulated 10-11 Hz alpha activity that attenuates with eye opening.  There is an anterior to posterior frequency with a gradient.  During drowsiness, roving eye movements, POSTS (posterior occipital sharp transients of sleep), and bursts of diffuse theta and delta are captured.  Stage II sleep is not recorded.  Hyperventilation is performed with good effort and produces mild diffuse symmetric background slowing.  Step photic stimulation induces symmetrical occipital driving at multiple flash frequencies.  Occasional premature atrial contractions are captured on a single EKG lead.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+Occasional premature atrial contractions captured on the single EKG lead.
+IMPRESSION:  This is a normal 52 minute awake and drowsy EEG.  No epileptiform discharges are captured, however, stage II sleep was not recorded.  If clinical indication for seizures persist, a repeat study with sleep may be of benefit.  Premature atrial contractions are captured on the single EKG lead.
+
+
+

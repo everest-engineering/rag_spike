@@ -1,0 +1,33 @@
+History:	20 year old man with anoxic brain injury (as a result of several gun shot wounds),
+now with continuous facial twitching.
+Medications:	Ativan, rocuronium x2, Versed, Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+and EMG electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~18 hours from 4/26/2015 till 4/27/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Early in the recording the background consists of high amplitude
+generalized spikes with aftergoing slow waves that occur occur with a regular repetition rate of ~1
+Hz.  Each of these discharges is associated with brief facial twitch.  After administration of
+rocuronium, these discharges persist at the same rate but lower amplitude.  As the recording
+progresses, frequency of these discharges increases up to 3 Hz and their amplitude lessens.  Facial
+twitching is replaced by frequent eye blinking as the recording progresses.  No normal sleep
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+No reactivity
+Status epilepticus, myoclonic
+Interpretation:
+This is an ABNORMAL ~18-hour continuous video EEG due to presence of myoclonic status
+epilepticus that progressively worsens as the recording progresses, despite initiation of Depakote and
+versed drip. This finding indicates marked diffuse cerebral dysfunction and cortical excitability and,
+in the setting of anoxic brain injury, indicates poor chance of neurological recovery/ survival.
+These findings were conveyed to the primary team.
+
+

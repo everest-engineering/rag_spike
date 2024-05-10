@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 20-year-old woman with pulmonary embolus and pulmonary thrombosis.
+MEDICATIONS:  Fentanyl, __________, antibiotics.
+INTRODUCTION:  Intraoperative monitoring was performed using a standard operative montage with 1 channel EKG.  The patient was cool during the procedure.  The initial hours of the recording were reviewed online one on one with final sections reviewed.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake with symmetric reactive background.  The patient receives anesthetic medications and a relatively symmetric pattern, rich in faster frequency activity and delta was noted.
+Cooling begins at 10:18 a.m. with cooling to 35 degrees.  As the patient is cooled, the EEG demonstrates increasing amounts of delta.  The EEG transitions to more of a delta and featureless pattern by 10:50, with intermittent attenuations noted as the temperature transitions to 25 degrees.  The patient is placed on cardiac bypass. 10:53 was the time for cardiac arrest.  After 11:11 a.m., the EEG starts to disappear.  At times, the pattern may include only artifacts, but there were 1 or 2 bursts of low voltage cerebral activity before the EEG pattern __________ demonstrates an isoelectric pattern at 11:58 a.m.  The EEG remains suppressed until rewarming at 11:39 a.m., and with rewarming, the cerebral pattern rapidly returned.  Although, there is some head rocking artifact, the overall pattern was symmetric.
+Heart rate: 97-48 BPM.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during the surgical procedure demonstrates transient suppression of cerebral activity.
+Circulatory arrest was declared at 11:58 am and the EEG at that time is definitively flat without any artifacts whatsoever.
+
+
+

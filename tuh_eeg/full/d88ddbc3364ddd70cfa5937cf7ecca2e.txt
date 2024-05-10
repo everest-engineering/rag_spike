@@ -1,0 +1,12 @@
+History:
+Medications:
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Summary of Findings:
+Interpretation:
+
+
+

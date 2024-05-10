@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  85 year old right handed male with recurrent episodes of syncope versus possible seizures.  Episodes with which the patient has dizziness, a blank stare, unresponsiveness and drooling.  He may then slump over and become disoriented.  These spells last 15 minutes.  Pacemaker, hypertension, hyperlipidemia and aspiration difficulties.
+MEDICATIONS:  Keppra, Norvasc, ASA, Metoprolol, Simvastatin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  This patient is extremely sleepy and spends much of the record in stage 1 or stage 2 sleep.  Brief, maximal wakefulness includes a well organized pattern with a low voltage, 9 Hz alpha rhythm.  In the transition in and out of sleep, there are mild shifting asymmetries, but well-defined vertex waves, K complexes, spindles, and POSTs are noted in stage 2 sleep. Photic stimulation is performed while the patient is transitioning in and out of stage 2 sleep, but a driving response is elicited.
+HR:    72 bpm
+IMPRESSION:   EEG is within normal limits, although there is very little wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Additional evaluation to assess the reason for this patient's excessive sleepiness may be appropriate.  Even sleep deprivation could produce the pattern described above.
+
+
+

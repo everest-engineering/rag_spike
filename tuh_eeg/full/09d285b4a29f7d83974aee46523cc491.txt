@@ -1,0 +1,20 @@
+History:	53 YEAR OLD RIGHT HANDED MAN WITH HISTORY OF SEIZURES. PT HAD A SURGERY IN THE AREA OF C3 P3.
+Medications:	KEPPRA,LAMICTAL,TEGRETOL,VIREAD,HYDROCHLOROTHIAZIDE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+
+
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+
+Continuous polymorphic delta activity was seen at C3 with associated increase in faster frequencies, which is consistent with a breach rhythm. No epileptiform discharges are present.
+
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving. HR 54
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left central, with an associated breach
+
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the left central region. This finding is consistent with a structural lesion in that region.
+

@@ -1,0 +1,40 @@
+History:	71 year old female with a known left ICA occlusion and left hemispheric strokes,
+undergoing IR-guided right ICA stenting.
+
+No stent was placed since no significant right ICA stenosis was identified.
+Medications:	Lidocaine, pressors
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+At baseline, there is right to left interhemispheric with slower waveforms over the left.  The
+background over the right hemisphere consists of low amplitude 9-10 Hz alpha activity with
+preserved AP gradient.  The background over the left hemisphere consists of polymorphic moderate
+amplitude 9 Hz alpha activity, additional continuous polymorphic theta and delta activity with
+unstable AP gradient.  Most pronounced theta and delta activity is present over left temporal
+region.  Diffuse excess beta activity is present.  Sudden change in the background is noted at ~40
+minutes into the recording.  Electrographically, diffuse underriding moderate amplitude delta
+activity and, more prominent, bursts of diffuse frontally predominant high amplitude delta activity
+(FIRDA)  appear.  Additionally, no eye blinking artifact is identified.  This change lasts ~ 3 minutes
+with rapid nearly complete resolution of underriding delta activity.  Similar change but to a lesser
+degree re-appears ~ 3 minutes later and lasts ~ 6 minutes.  It gradually resolves and for the rest of
+the recording the EEG background remains at the baseline.  Clinically, the first EEG change is
+associated with blood loss, decrease in systemic blood pressure and unresponsive patient.  The
+background improves once pressors are initiated and blood pressures improve.
+Periodically extra p-waves are noted on a single EKG lead.  This change corresponds to
+paroxysmal atrial flutter noted on the EKG by the anesthesia.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric, mild-to-moderate, most over the
+Diffuse slowing, polymorphic, occasional, moderate, 2 discrete periods, lasting 3 and 6 minutes
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL ~1.5 hours continuous intraoperative EEG (monitored remotely) due to two
+episodes of transient diffuse slowing that correspond to decrease in systemic blood pressures and
+decrease responsiveness in the patient. These changes correspond to global cerebral
+hypoperfusion.  The operating physician was notified immediately of the changes.  Continuous
+focal slowing in the left hemisphere and, especially, over the left temporal region indicate focal
+cerebral dysfunction, likely structural in etiology.  In this patient this slowing corresponds to known
+left hemispheric strokes.  Paroxysmal atrial flutter is noted on a single EKG lead.
+
+

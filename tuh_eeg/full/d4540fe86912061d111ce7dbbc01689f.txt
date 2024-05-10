@@ -1,0 +1,38 @@
+AGE: 57 y.o.
+SEX: female
+DATE OF STUDY : 09/16/2015 RECORDING ENVIRONMENT: Outpatient EEG TYPE: 95819
+EEG #: 15-1366
+HISTORY:
+57 y.o. female referred for routine EEG for seizures with LOC and eyes rolling, Hx of	facial twitching, .
+MEDICATIONS:
+Current Outpatient Prescriptions:
+clonazepam (KLONOPIN) 0.5 mg tablet, Take 0.5 mg by mouth 2 times daily as needed for Anxiety.
+trifluoperazine (STELAZINE) 2 mg tablet, Take 2 mg by mouth 2 times daily.
+Lorazepam (ATIVAN) 0.5 mg tablet, Take 2 tablets by mouth 2 times daily.
+levetiracetam (KEPPRA) 750 mg tablet, Take 750 mg by mouth 2 times daily.
+No current facility-administered medications for this visit .
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+Frontal artifact was present
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by scant, low voltage symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Frequent frontal twitch artifact was seen.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: elicits an increase in amplitude Photic Stimulation: elicits bilateral driving
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-drowsy routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-drowsy routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+

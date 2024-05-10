@@ -1,0 +1,12 @@
+CLINICAL HISTORY:
+MEDICATIONS:  None.
+INTRODUCTION:  During this section of the EEG monitoring, the patient had episodes of disequilibrium, but none of her typical complex partial seizures or simple partial seizures with olfactory aura.
+DESCRIPTION OF THE RECORD:  Background:  In wakefulness, there is a 10 Hz alpha rhythm.  Vertex waves, K complexes, and spindles were noted in stage 2 sleep.
+Seizures:  None.
+Pushbuttons:  Only practice pushbutton detections.
+Interictal epileptiform detections:  In the transition from wakefulness into stage 2 sleep, there are occasional independent right or left temporal sharp waves.  These stand out from the background although they are discrete.  They have a somewhat more generous field of spread than 1 might expect for a benign epileptiform variant.  It may occur in pairs.  They are overall, quite rare and are less remarkable than in the baseline.  In stage 2 sleep at times, there is a suggestion of a breach rhythm noted at the vertex.
+Heart rate 72 bpm.
+IMPRESSION:  There is no impression or clinical correlation because EEG recording continues.
+
+
+

@@ -1,0 +1,33 @@
+History:	58 YR MALE WITH CC OF 2 SZS IN ER HAD 2 MORE. GTC.  PMHX; ESRD (MWF),
+HTN, SPINAL STENOSIS, HYPOTHYROIDISM, HCV
+Medications:	HEPARIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+A posterior dominant rhythm reaches at best 8Hz.  Background activity was characterized by diffuse
+disorganized theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Diffuse, intermixed frontally predominant 5-10uV, 18-25Hz activity is also seen.
+Frequent brief (2-5 second) bursts of 100-200uV, 2-4Hz rhythmic bifrontal slow waves occur
+throughout the recording, increasing in frequency during drowsiness consistent with frontal
+intermittent delta activity (FIRDA).  Some sharply contoured discharges seen but none clearly
+epileptic.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  Hr was 66
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Disorganization, persistent
+FIRDA (frontal intermittent rhythmic delta activity), intermittent frontal
+Excessive fast, continuous diffuse
+Interpretation:
+This is an ABNORMAL awake EEG because of diffuse background slowing, FIRDA and slow alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+
+

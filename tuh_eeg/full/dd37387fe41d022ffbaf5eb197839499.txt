@@ -1,0 +1,34 @@
+History:	52 year old man with a history of seizures since childhood. Last reported seizure
+occurred within the last month.
+Medications:	PHENOBARBITAL, KEPPRA
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the bilateral fronto temporal regions during
+wakefulness, increasing during drowsiness.  During HV the focal slowing seen frontally becomes
+more prominent and monomorphic.  Occasional brief bursts (<3 seconds) of generalized frontally-
+maximal spike-and-wave discharges discharges (GSW)  occur with a regular repetition rate of 3-
+4.5Hz.  At times they appear to be slightly asymmetric in onset (right > left).
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates generalized
+spike and wave discharges.  Stepped photic stimulation from 1-21 flashes per second (fps) and
+accentuates generalized spike and wave discharges.  A single EKG lead demonstrates heart rate
+Summary of Findings:
+Spike-and-wave complexes, frequent, 3-4.5 Hz, at times asymmetric in onset (right>left)
+Interpretation:
+This is an ABNORMAL 21-minute awake and drowsy EEG because of frequent 3-4.5 Hz generalized
+spike-and-wave discharges, which are epileptogenic. These findings may  consistent with a
+diagnosis of primary generalized epilepsy.  However, the slight asymmetry may suggest the
+presence of partial epilepsy with rapid secondary bilateral synchrony.  No seizures are present.  A
+single EKG lead demonstrates heart rate <60 bpm.
+
+
+
+
+
+

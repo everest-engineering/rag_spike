@@ -1,0 +1,15 @@
+
+
+CLINICAL HISTORY: 58 year old male with previous strokes and two tonic-clonic seizures.
+MEDICATIONS: None listed in chart
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation are performed.
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the EEG. Stage II sleep includes vertex waves and spindles. In the transition from wakefulness to sleep, there is some subtle, focal slowing in the right frontocentral region. Photic stimulation is performed as the patient is drifting in and out of sleep but supraharmonic driving is noted.
+HR: 78 bpm
+IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+1. Mild background slowing and disorganization.
+2. Mild excess theta.
+3. Rare focal slowing from the right hemisphere.
+CLINICAL CORRELATION: In this individual with new onset seizures, there is no epileptiform activity. The background slowing and disorganization may be part of this individual's postictal state. Additional recording may be appropriate.
+
+
+

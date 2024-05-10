@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  31 year old right handed male with new onset epilepsy.
+MEDICATIONS:  Keppra, Lamictal, Crestor, Elavil, Flexeril, Nexium
+INTRODUCTION:  Continuous digital video EEG monitoring using seizure and spike detection was performed in the inpatient monitoring unit.  The patient was instructed to be as active as possible.  No clinical seizures were reported by the patient, nursing team, and none were identified by the computer.
+DESCRIPTION OF THE RECORD:  Although the patient spent much of his time in bed, there is abundant wakefulness.  He seems to be quite drowsy with behavioral affects of drowsiness, including yawning, although the EEG demonstrated an awake pattern.  Vertex waves, K-complexes, spindles, and POSTS were noted.
+HR:    90 bpm
+IMPRESSION:  This 24-hour section demonstrated normal awake through stage II sleep.
+CLINICAL CORRELATION:  Overall, this 3-day inpatient EEG monitoring session identified occasional focal slowing in the region of the patient's shunt, but no sharp waves or spikes were noted in this EEG.
+
+
+

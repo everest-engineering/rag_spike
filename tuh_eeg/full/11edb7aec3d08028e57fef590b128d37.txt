@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 55-year-old found unresponsive with a pontine hemorrhage.
+MEDICATIONS:  Cardene, Versed drip, fentanyl and others.
+ROOM NUMBER:  ED-10.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG includes a pattern with generalized beta.  The beta is most prominent frontal.  There are minor asymmetries noted in the posterior region.  Occasional rhythmic isolated waves of theta or delta were noted.
+Tactile stimulation of the patient did not significantly activate the record.
+As the recording continues, there a bit more slowing in the right posterior quadrant relevant to the left.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Replacement of normal background with excess beta.
+Minor asymmetry with a bit more slowing in the right posterior region.
+CLINICAL CORRELATION:  Generous beta may reflect this patient's medications.  The slight focality described above may be correlated with imaging.  No epileptiform features were identified.
+
+
+

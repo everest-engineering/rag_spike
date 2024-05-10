@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 62-year-old female with history of cognitive dysfunction, depression, asthma, and hypertension who presents for memory problems.
+MEDICATIONS:  Omeprazole, memantine, lactulose, clonazepam, aspirin, and Claritin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  This is a technically limited study due to diffuse muscle artifact during most of the recording.  In the most alert state, the posterior dominant rhythm was noted in a brief period of time, 7.5-8.5 Hz in frequency and 20-40 microvolt in amplitude in the occipital region, which attenuates with eye opening.  There is 5-6.5 diffuse theta activity seen during wakefulness, which is distributed symmetrically.  There is diffuse low amplitude beta activity, which is distributed symmetrically.  Photic stimulation was performed, but cannot be interpreted due to diffuse muscle artifact.
+IMPRESSION:  This is a technically limited study due to diffuse muscle artifact during short period of time without muscle artifact.  There was excess theta activity and slowing of posterior dominant rhythm noted.  No epileptiform abnormalities was noted during the short period of time that recording was readable.
+CLINICAL CORRELATION:  This is a technically limited study, but the above findings are suggestive of toxic, metabolic, anoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of medications or bilateral cerebral dysfunction.  No epileptiform abnormalities are identified in this record.  Due to technically limited study, repeat EEG is highly recommended.
+
+
+

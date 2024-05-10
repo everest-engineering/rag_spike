@@ -1,0 +1,14 @@
+HISTORY:  A 67-year-old male with complex right carotid stenosis.
+MEDICATIONS:  Sevoflurane, Versed, propofol, fentanyl, vecuronium, and others.
+INTRODUCTION:  A 4-hour digital EEG was performed in the OR using standard 10-20 system of electrode placement with 1 channel EKG.  CEA montage was employed.  This record includes of one-to-one physician remote review with 3 hours physician remote review.  The recording was intermittently paused for Bovie or other surgical maneuvers.  No baseline EEG was provided prior to the study.
+DESCRIPTION OF THE RECORD:  The recording begins with the patient in the OR.  The overall pattern is relatively symmetric, somewhat lower voltage with a mixed frequency pattern.  Occasional head rocking artifact is noted on the right in the early sections of the record including at noon.  The pre-clamp section of the record suggests variability in the level of anesthesia with some sections of the record returned alpha and theta frequency than others.  The head rocking artifact is relatively consistent in the right posterior temporal region.
+Clamp #1:  2:41 p.m., duration 5 minutes 47 seconds with clamping of the internal 5 minutes 54 seconds.  The EEG prior to the clamp demonstrates a slightly asymmetric baseline as previously identified with intermittent attenuation in the right posterior quadrant.  There is a transient decrease in amplitude noted bilaterally, right more than left, which was reported to the Surgical team.  The clamp was released without other changes in the EEG.
+Clamp #2:  2:50:22.  The second clamp was placed, duration 53 minutes 25 seconds.  This section of the record demonstrates the previously described asymmetry.  In addition to a decrease in amplitude noted in the right, there seems to be some fluctuation in the level of anesthesia with a decrease in amplitude and intermittent bilateral attenuation.  Clamp was removed at 3:44.  EEG demonstrates a relatively stable pattern following this with a mixture of theta and delta.
+Clamp #3.  3:58  16:37 minutes Prior to the placement of this clamp, there seems to be an accentuated anesthetic pattern with intermittent bilateral attenuation.  Placement of the third clamped does not impact the overall tracing.  Clamp was removed at 4:15.
+By the end of the record, the EEG was similar to the pre-clamp study, rich in mixed frequency backgrounds with some head rocking artifact; again, noted on the right and occasional slowing in the right hemisphere.
+Heart rate:  90 bpm.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this complex right carotid endarterectomy with three clamps was remarkable for intermittent focal slowing noted in the baseline and
+intermittent bilateral features, but no sustained focal slowing.  The intermittent attenuations and focal features noted late in the clamp after clamp #2 were reported to the Surgical team during the procedure.
+
+
+

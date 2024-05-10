@@ -1,0 +1,13 @@
+DATE OF BIRTH:  08/15/1931
+CLINICAL HISTORY:  An 80-year-old woman with bilateral strokes, recent hospitalization for a fall, and then recurrent hospitalizations for acute right MCA infarct.
+MEDICATIONS:  Vancomycin, Zosyn, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly interactive and appeared to be very uncomfortable.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal, diffusely slow and disorganized with prominent arrhythmic delta activity in the frontal regions.  There is a glimpse of an alpha rhythm of 8.7 Hz noted more so on the right than the left and overall the activity a bit more preserved in the right posterior quadrant in comparison to the left.  Occasional frontal bilateral delta was noted.  Stimulation of the patient produces an increase in faster frequency activity.  Heart rate 96 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Bilateral background slowing.
+Prominent slowing in the frontal regions.
+In this significantly abnormal record, an asymmetry with perhaps more slowing on the left compared to the right.
+CLINICAL CORRELATION:  These findings may be correlated with history and imaging.  No epileptiform features were noted and, overall, this EEG supports a bihemispheric disturbance of cerebral function.
+
+
+

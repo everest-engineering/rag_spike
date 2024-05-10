@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 78 year old male with expressive aphasia and confusion.
+
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+
+DESCRIPTION OF THE RECORD: The background EEG includes a relatively low voltage pattern. There is a glimpse of a 9 Hz posterior dominant rhythm. There is a prominent intrahemispheric asymmetry with some rhythmic slowing from the left mid temporal region and at times T1-T3 sharp waves. As the patient drifts off to sleep, some of these sharp waves are a bit more prominent at P3. The rhythmic slowing persists into stage 2 sleep and occurs as brief bursts but without definitive frequency evolution. During the prominent bursts of rhythmic slowing, testing is not performed and during the later section of the record there are trains of sharp waves noted in the record now at T5. Photic stimulation elicits driving response better represented on the right than the left, but present bilaterally. In the end of the record, which is when photic stimulation is seen the sharp waves are a bit more prominent at T5, T3.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing in the left hemisphere most prominent in the temporal regions.
+2. Sharp waves which may be prominent at T1, T3 or more posteriorly in the posterior temporal parietal region.
+CLINICAL CORRELATION: This EEG supports a structural abnormality in the left temporal region. Epileptiform activity is relatively wide spread in the temporal and parietal regions. Additional EEG recording in search of subclinical seizures may be appropriate.
+
+
+

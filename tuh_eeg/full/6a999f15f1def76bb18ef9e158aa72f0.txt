@@ -1,0 +1,13 @@
+History:	47 YO FEMALE ADMIT FROM OSH FOR FATIGUE, NAUSEA, VOMITING. PT COULD NOT PROVIDE EKG, WENT TO CCU. PT CURRENTLY ARTIFICIAL HEART.
+Medications:	DEPACON, ERYTHROMYCIN, DIPYRIDAMOLE, PENTOXIFYLLINE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description: Waking background is characterized by a low voltage poorly formed posterior dominant rhythm that at best reaches 9Hz, which attenuates symmetrically with eye opening.  Background is slightly disorganized and consists almost entirely of moderate diffuse 2-3Hz delta activity with some centrally predominant 5-7Hz theta activity which at times has intermixed 8-9Hz discharges. No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  No HR was obtained from EKG lead.
+Summary of Findings:
+Diffuse slowing, rhythmic, continuous diffuse
+Interpretation: This is an ABNORMAL awake EEG because of diffuse background slowing.  These findings are etiologically nonspecific indicators of mild to moderate diffuse cerebral dysfunction.  No clinical or electrographic seizures are present.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL 50 year old right handed woman, Status post clip and coil of aneurysm with subarachnoid hemorrhage. The patient had an episode of loss of awareness with elevated drug alcohol level. She thought that she was having a seizure, but others thought she was drunk.
+MEDICATIONS: Keppra, others.
+Digital video EEG was performed in lab using standard 10 20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and sleep record. The patient is noted to have a left craniotomy defect
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 hertz alpha rhythm.
+Hyperventilation is performed early on in the record producing an increase in background slowing. In addition, the breach rhythm and focal slowing from the left hemisphere particularly frontocentral and frontotemporal is noted. There is also some shifting slowing. In hyperventilation, there is a suggestion of underlying sharp wave in the left frontocentral and frontotemporal region, but unfortunately, these areas are also seen in areas with a breach rhythm. As the patient becomes drowsy, wicket is also noted in the frontocentral and frontotemporal region, again with the same caveat of the breach accentuating the amplitude. During photic stimulation, after the 5 hertz stimulation concludes, the patient is observed to be  having ocular Twitching which does not carry an EEG scalp correlate. Photic stimulation also  elicits a driving response.
+HR: 60bpm
+IMPRESSION: abnormal EEG due to:
+1. Focal slowing in the left frontotemporal and frontocentral region accentuated by hyperventilation.
+CLINICAL CORRELATION In the context of a significant breach rhythm, epileptiform activity may be elusive to identify. A follow up study capturing sleep is important if there are additional events to more completely exclude a frontotemporal or frontocentral epileptiform focus.
+
+
+
+

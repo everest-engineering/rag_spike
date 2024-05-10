@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 35 year old woman with history of encephalitis at 8 months of age with BP shunt, tonic clonic seizures. Last seizure was a year ago with numbness and her mouth shaking, but no loss of consciousness.
+MEDICATIONS: Lamictal.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In relaxed wakefulness, the background EEG includes a 9.5 hertz alpha rhythm. There is a small amount of excess background theta, quite subtle and a bit more so on the right than the left. Hyperventilation produces rhythmic slowing, a bit more so on the left than right, but most of which is bilateral. Drowsiness is characterized by increasing background slowing with vertex waves and then very brief stage II sleep followed by arousal. Photic stimulation elicits no driving response. The patient is drifting into sleep.
+HR: 78bpm
+IMPRESSION: Mildly and subtly EEG due to:
+1. Mild excess theta.
+2. Very mild shifting asymmetry.
+CLINICAL CORRELATION: There are no epileptiform features. If additional evaluation for epilepsy is an important consideration, a followup study may be of value.
+
+
+
+

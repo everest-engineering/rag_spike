@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 52-year-old woman with bipolar disease, hepatitis C, admitted with abdominal pain, vomiting, and change in mental status.  No history of seizures.
+MEDICATIONS:  Not reported.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hyperventilation was not possible.  The patient was confused.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous, high amplitude, primarily theta frequency pattern with a glimpse of a 7 Hz posterior dominant rhythm and generous theta.  Bursts of shifting slowing were noted.  Wicket was noted from the right or left temporal region.  Features of drowsiness include an increase in beta.  Photic stimulation did not activate the record.
+Heart rate 84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+A pattern of rhythmic high-amplitude theta.
+CLINICAL CORRELATION:  High amplitude, primarily theta background, also has a normal variant, wicket, which has an epileptiform appearance, but no definitive sharp and slow waves or epileptiform features were noted.
+
+
+
+

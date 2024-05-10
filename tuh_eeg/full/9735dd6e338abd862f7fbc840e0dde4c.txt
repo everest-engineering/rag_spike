@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is an 83-year-old woman with an episode of left-sided shaking.  Previously evaluated in 2010 for similar symptoms.
+MEDICATIONS:  Neurontin, Plavix, Keppra, others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.
+Hyperventilation was completed.
+The patient had an event lasting approximately 10 minutes in the EEG lab characterized by moaning with relatively preserved consciousness and repetitive movements of the left hand, and some shaking from side to side.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the background EEG is reasonably well organized with a 10 Hz alpha rhythm.  There is a bit of shifting asymmetry noted in the posterior regions and a little bit of underlying focal slowing with some slow underlying delta in right posterior region.  Hyperventilation was remarkable for an increase in amplitude of the background.
+EVENTS:  The patient was awake at 9:37.  There is an initial subtle EEG change with a suggestion of an underlying right posterior sharp wave really maximum at T6 in an average reference, but with clear involvement T602 primarily.  This discharge can be attributed to movement artifact, as there is some clear rocking movement noted up until 9:40:45.  Then this activity is quite subtle.  At 9:48:05, the patient seems to have trouble stopping the involuntary movements and there may be some underlying subtle rhythmic slowing despite the artifacts.  At 9:45:29, there is clearly an alpha rhythm that has returned.  When the physician enters to perform testing, the alpha rhythm is present and the patient is able to answer questions. The artifact demonstrates “frequency evolution”
+Heart rate 66 bpm.
+IMPRESSION:  This EEG is remarkable for:  An indeterminate event.
+CLINICAL CORRELATION: The patient had a behavioral event which had many characteristics of a nonepileptic seizure.  Curiously, however, there does appear to be a focal underlying discharge which would be very difficult to attribute to artifact and has some frequency evolution raising the possibility that this is, in fact, a simple partial seizure.  Clinical correlation and additional recording may be necessary to clarify this.
+
+
+

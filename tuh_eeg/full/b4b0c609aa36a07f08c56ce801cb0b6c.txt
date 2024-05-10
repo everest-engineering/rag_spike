@@ -1,0 +1,17 @@
+CLINICAL HISTORY: The patient is a 67-year-old man with a history of coronary artery disease, pacemaker, and a prior right hemispheric stroke, now presents with confusion and right facial droop.  He was subsequently found to have a left MCA territory stroke.
+MEDICATIONS: Plavix, aspirin, metoprolol, Keppra, vitamin B12, Coumadin, and others.
+INTRODUCTION: The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single lead EKG lead.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: During maximal wakefulness the posterior dominant rhythm reaches 8 Hz theta activity.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly. Posterior dominant rhythm and AP gradient are weak and unstable over the left hemisphere.
+During sleep symmetrical and vertex waves, sleep spindles, and K-complexes are captured.  There is continuous polymorphic theta and delta activity over the left temporal region. This activity is often sharply contoured, without clear epileptiform discharges.
+Hyperventilation is not performed.
+Stepped photic stimulation does not result in additional abnormalities.
+A single EKG lead demonstrates widened QRS complexes and irregular heart rate.
+FINDINGS:
+Continuous moderate left temporal slowing.
+Mild diffuse slowing.
+No clear epileptiform discharges.
+Cardiac Arrhythmia
+IMPRESSION:  This is an abnormal awake and sleep EEG due to mild diffuse slowing and continuous moderate left temporal slowing.  Mild diffuse slowing indicates etiology nonspecific diffuse cerebral dysfunction.  Focal left temporal slowing indicates a focal underlying cerebral dysfunction, likely structural in etiology, and in this patient is consistent with a history of subcortical left MCA territory stroke.  There were no clear epileptiform discharges. Cardiac arrhythmia with widened QRS complexes is noted on a single EKG lead.
+
+
+

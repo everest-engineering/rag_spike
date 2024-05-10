@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  22 minutes.
+
+CLINICAL HISTORY:  The patient is a 61-year-old man with a recent pontine hemorrhage, now with worsening mental status since this a.m., 01/02/2013.  EEG is performed since there is a possibility of nonconvulsive status epilepticus.
+CURRENT MEDICATIONS:  Tylenol, Colace, ciprofloxacin, nystatin.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  Voltages are diffusely low.  The posterior dominant rhythm over the left hemisphere consists of low amplitude 8-9 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient over the left hemisphere with faster frequencies at lower amplitudes anteriorly.  There is nearly continuous EMG artifact over the right hemispheric leads that obscures most of the right hemispheric recording.  No sleep architecture is observed.  Hyperventilation and photic stimulation are not performed.
+FINDINGS:
+Nearly continuous EMG artifact over the right hemispheric leads that obscures those leads.  This EMG artifact makes interpretation of the activity over the right hemisphere not reliable.
+No clear epileptiform discharges.
+No electrographic seizures.
+IMPRESSION:  This is a normal awake only 22-minute EEG.  There is nearly continuous EMG artifact over the right hemispheric leads that obscures significant portions of the recording over the right hemispheric leads.  Therefore, interpretation of the background over the right hemisphere is not reliable.  If concern for seizures persists, a repeat study with less EMG artifact may be of benefit.  No clear electrographic seizures are captured.
+
+
+

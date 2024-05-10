@@ -1,0 +1,34 @@
+History:	46 year old man with a history of seizures.  His current events are induced by stress.
+His last event occurred out of sleep ~2-3 weeks ago.
+Medications:	Tegretol,Insulin,Neurontin,Klonopin,Zoloft,Oxycodone
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles appear.  Left RMTD (rhythmic midtemporal
+theta activity of drowsiness) and POSTS (positive occipital sharp transients of sleep) are captured.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+RMTD (rhythmic midtemporal theta activity of drowsiness)
+POSTS (positive occipital sharp transients of sleep)
+Sleep, stage 2
+Beta, excessive
+Interpretation:
+This is a NORMAL 23-minute EEG, awake, drowsy, and asleep. Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+
+

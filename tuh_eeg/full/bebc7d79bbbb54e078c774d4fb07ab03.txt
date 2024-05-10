@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 59 year old male of unknown-handedness with agitation following resection for brain tumor, suboccipital craniectomy, cerebellar mass.
+MEDICATIONS: Ativan, Insulin, Lovenox; Atenolol, ASA
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is in restraints and is agitated.
+DESCRIPTION OF THE RECORD: The background EEG includes generous, diffuse beta and rhythmic 5 Hz theta activity. There is a suggestion of perhaps a bit more occipital rhythmic slowing on the right compared to the left, but there is a great deal of movement artifact.
+HR: N/A.
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta/background slowing.
+CLINICAL CORRELATION: Due to the degree of artifact noted in this record, focal and epileptiform features may be under-recognized. If epilepsy is an important consideration, a follow-up study when the patient is more cooperative is suggested.
+
+
+

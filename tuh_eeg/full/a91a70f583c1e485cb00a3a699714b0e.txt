@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  60 year old right handed woman admitted on May 11, 2012 with dramatic TIA with left sided weakness and slurred speech.
+MEDICATIONS:  Serax, Gemfibrozil, Oxazepam
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 11 Hz alpha rhythm with generous beta.  The technologist works to try and reduce the amount of muscle artifact noted in the EEG without much success. Features of drowsiness include a decrease in muscle activity.  Photic stimulation does elicit a driving response underneath all the other artifacts.
+HR:    72 bpm
+IMPRESSION:  This EEG is remarkable for:
+Excess beta.
+CLINICAL CORRELATION:  If epilepsy is an important consideration, a repeat tracing with sleep is suggested.
+
+
+

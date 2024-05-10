@@ -1,0 +1,11 @@
+CLINICAL HISTORY: A 55-year-old gentleman with a history of dementia, depression and stroke who has had episodes of loss of awareness lasting 1-2 minutes occurring every 6-8 weeks.
+MEDICATIONS: Synthroid, Zoloft, others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic simulation is completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with 10.3 Hertz alpha rhythm of 40 microvolts. Prominent eye movement artifact is observed.
+Drowsiness is characterized by anterior spread of the alpha rhythm.
+Photic stimulation elicits scant driving. Heart rate 60 bpm.
+IMPRESSION: Normal EEG in wakefulness.
+CLINICAL CORRELATION: No epileptiform features are identified. If epilepsy is an important consideration a repeat study either captured sleep or one of his specific events may be useful.
+
+
+

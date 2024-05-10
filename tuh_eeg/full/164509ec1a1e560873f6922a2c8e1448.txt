@@ -1,0 +1,27 @@
+
+History:	29 year old woman who became progressively less responsive today during
+hemodialysis.
+Medications:	sedation used for intubation and propofol that is now stopped
+Sedation:
+EEG Type:	Asleep only
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  With stimulation, the background consists of  attenuated slow
+delta activity, periods of discontinuity and diffuse sleep-spindle-like waveforms.  During periods of
+quiescence, the background becomes more continuous and faster frequencies appear.  No normal
+sleep architecture is captured.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate of ~120-130 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate to severe
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL portable 20-minute EEG due to moderate-to-severe diffuse slowing. This
+finding is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically
+nonspecific, but at least partially related to the medication effect.  A single EKG lead demonstrates
+heart rate of ~120-130 bpm.
+
+
+
+

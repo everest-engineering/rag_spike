@@ -1,0 +1,24 @@
+History:
+Medications:	HEPARIN 9:48 AM 5000 UNITS
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Diffuse symmetric 5-15uV, 18-25Hz activity is present throughout
+the entire study.  The waking background does appear to show some diffuse slowing related to
+sedation.  No normal sleep architecture was present despite prolonged clinical sleep.
+Intermittent polymorphic delta activity is present in the right anterior temporal region during
+wakefulness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  INCISION 9:44AM, HEPARIN 9:48 AM
+5000 UNITS, COIL 1ST 10:23A. No changes seen in the EEG background after coil was placed.
+Summary of Findings:
+Other, Uneventful EEG monitoring during angiogram and coiling.
+Focal slowing, polymorphic, right temporal, anterior
+Interpretation:
+This is a uneventful one hour EEG monitoring during angiogram and left aneurysm coiling.
+Please note there is focal slowing noted on the right anterior temporal region which is an
+abnormality suggesting focal cerebral dysfunction, which is non-specific with regards to etiology.
+
+

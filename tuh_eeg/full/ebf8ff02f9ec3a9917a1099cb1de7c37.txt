@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 60 year old right handed woman with a history of migraine headaches, tachycardia and a family history of epilepsy.  On May 7, she began to have 5 seizures characterized by tonoclonic activity with loss of consciousness and  incontinence.  The seizures occur out of sleep.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel  EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy EEG.  It was an extended study in an attempt to obtain sleep, completing 40 minutes.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm at 40 microvolts with generous, frontocentral beta activity.  Wicket activity is noted as is rhythmic temporal theta of drowsiness.  Hyperventilation produces an increase in theta.  Photic stimulation produces bilateral driving.
+HR:    90 bpm
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  Given the normal variant identified above, a repeat study capturing deeper stages of sleep would be helpful to search for epileptiform features in this patient with newly diagnosed epilepsy.
+
+
+

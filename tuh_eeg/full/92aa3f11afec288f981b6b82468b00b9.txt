@@ -1,0 +1,18 @@
+ADDENDUM:
+CLINICAL HISTORY:
+MEDICATIONS:
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1-channel EKG.  Seizure and spike detection software was not utilized.  The patient was initially drowsy and much more awake as the EEG continued.
+DESCRIPTION OF THE RECORD:  As this long-term monitoring begins, the patient was drowsy.  Overall pattern includes a beta frequency pattern with an asymmetry and significant attenuation of faster frequency activity in the right hemisphere relevant to the left.  There is subtle, underlying somewhat periodic delta noted in the right hemisphere sometimes with a phase reversal in the right posterior quadrant.
+As the recording continues and the patient is a bit more awake, additional movement artifacts are noted.  There is some sharp waves and some periodic slowing noted in the right hemisphere with variable maximum including T4, right anterior temporal, or right posterior temporal.
+By the end of the recording, the patient is increasingly alert, moving about.  The patient has been extubated.  The periodic delta activity and some of the sharp waves persist.
+Seizures:  None.
+Interictal Epileptiform Activity:  As described above.
+Heart rate:  84 beats per minute.
+IMPRESSION:  This 24-hour video EEG monitoring was remarkable for:
+Focal slowing from the right hemisphere.
+Periodic delta noted from the right hemisphere improving over time.
+Epileptiform activity or focal sharp waves noted in the right hemisphere particularly temporal, central temporal, and posterior temporal region also improving over time.
+CLINICAL CORRELATION:  This patient's status epilepticus has resolved.  There is an ongoing epileptiform focus in the right hemisphere as well as focal slowing, which may be correlated with imaging.
+
+
+

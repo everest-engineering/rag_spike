@@ -1,0 +1,35 @@
+History:	42 YEAR OLD MALE PRESENTING WITH HEADACHE AND STATES HE HAS
+STARING SPELLS.  DX: ENCEPHALITIS IN 2006 WITH SURGERY FOR VP SHUNT
+PLACEMENT ON THE RIGHT.
+Medications:	Topamax
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-30uV, 8-9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Alpha rhythm, normal
+Interpretation:
+This is a NORMAL 24 hour video EEG, awake, drowsy, and asleep. No clinical episodes were
+captured.  No clinical or electrographic seizures are present.  These findings were conveyed to the
+
+
+
+
+

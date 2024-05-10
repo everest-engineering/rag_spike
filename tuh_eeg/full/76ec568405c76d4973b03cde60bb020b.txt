@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An elderly man who had a seizure following dental work with lidocaine on the 5th, transferred to the hospital on a propofol drip.  After extubation, the patient was noted to have intermittent tremulousness.
+MEDICATIONS:  Keppra, Ativan
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  The patient had 2 episodes of tremulousness, both of which seemed to occur when he was stimulated from sleep.
+DESCRIPTION OF THE RECORD:  Random wakefulness and sleep.  In wakefulness, the background EEG is well organized.  In sleep, there are normal features of stage I and stage II sleep.  No epileptiform features were observed.
+Description of record:  The patient seems to be falling out of bed at 12:02.  He is awake, leans backward.  He has titubation of the head and body.  When he is trying to get up, there is some rhythmic 5 Hz artifact, but when he stops moving, there is a normal awake pattern.
+He has some vocalizations but does not seem to be able to call the nurse.
+The nurse enters and provides 2 mg of Ativan at 12:14.  The patient drifts off to sleep.  The pattern after the Ativan is relatively low voltage and slow.  Features of sleep are noted, but spontaneous arousals are also noted by 3:00 a.m.
+The patient is resting comfortably.  With tactile stimulation, the patient alerts and has titubation of the head.  No epileptiform activity is accompanied by this behavior.
+Heart rate 115 bpm with frequent PVCs.
+IMPRESSION:  This is a normal 24-hour video EEG with 2 events without epileptiform signature.
+CLINICAL CORRELATION:  Titubation of the head or tremulousness was not associated with an epileptiform activity.  No epileptiform features were identified.  The behaviors described above had characteristics to suggest that they were not seizures including preserved interaction and purposeful movement.
+
+
+

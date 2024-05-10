@@ -1,0 +1,19 @@
+History:	85 YR OLD FEMALE PRESENTS WITH H/O S/P CODE APPROX 45 MIN. NOW ON HYPERTHERMIA  PROTOCOL
+Medications:	Propofol, fentanyl, versed Sedation:
+EEG Type:	Continuous (inpt, video}, 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes,  comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 3/11/2015 till 3/12/2015.    Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were  reviewed in detail by the attending neurologist..
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient. The background consists of generalized periodic broad sharp waves (GPEDs}. Their frequency increases in the course of the recording from 1-1.5 Hz to 2.5 Hz. By the end of the recording, the background is more attenuated and GPEDs have been replaced by attenuated 1-1.5 Hz bifrontal periodic sharp waves (biPEDs}. No normal sleep architecture is present.
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.  Summary  of  Findings:
+Periodic discharges generalized, 2-2.5 Hz maximally Attenuation, progressive and generalized
+Interpretation:
+This is a very abnormal 24 hour continuous video EEG monitoring due generalized periodic epileptiform discharges (GPEDs} that become more blunted/ attenuated and more frontally predominant by the end of the recording. These findings indicate marked diffuse background dysfunction and diffuse cortical irritability and in a post-anoxic injury patient indicate poor chance of meaningful neurological recovery.
+Attenuation of the voltages and cerebral activity that are seen by the end of the recording could indicate progressive worsening of diffuse cerebral dysfunction vs the effect of escalating medical therapy. These findings were conveyed to the neurology consult team.
+
+
+
+

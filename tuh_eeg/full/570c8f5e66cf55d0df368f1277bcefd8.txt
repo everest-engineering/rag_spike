@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 30-year-old woman with frontal parenchymal hemorrhage, requiring EVD.  The patient was treated with propofol.  Initially admitted, found unresponsive and intoxicated.  Obtundation
+MEDICINES:  Keppra, morphine, and lisinopril.
+INTRODUCTION:  A 21-channel digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was poorly responsive.
+DESCRIPTION OF THE RECORD:  When unstimulated, the background EEG demonstrates a diffusely slow pattern with initially a pattern of frontal delta.  There is an asymmetry between the 2 hemispheres with disruption of faster frequency activity on the right compared to the left.  The left hemisphere demonstrates more significant delta.  Tactile stimulation of the patient including suctioning or use of G-tube produces an alerting response with a clear increase in theta and even a glimpse of an alpha rhythm of 8 hertz on the left.  The patient, however remains somnolent and rapidly drifts off to sleep.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+A prominent asymmetry with prominent disruption of the of faster frequency on the right compared to the left.
+CLINICAL CORRELATION:  Breach rhythm and high amplitude slowing are anticipated findings following intracerebral hemorrhage with EVD.  No epileptiform features were noted.  These findings may be correlated with the overall clinical picture.  If there are additional concerns regarding seizures, a follow up study may be of value.
+
+
+
+
+

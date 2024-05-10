@@ -1,0 +1,39 @@
+DATE OF STUDY: 08/28/2015
+RECORDING ENVIRONMENT: Outpatient EEG TYPE: 95819 Routine
+EEG #: 15-1251
+HISTORY:
+63 y.o. female referred for routine EEG for worsening seizures: ONSET AGE 12. 1-2 sz MONTH. ONSET FEELS
+NERVOUS, ANXIOUS/ LOC/ GTC/ URINARY INCONT. POST SAYS FEELS FINE. PRIMARY WANTED PT TO TAKE DILANTIN BUT PHARMACY WOULD NOT FILL
+IT.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+phenytoin (DILANTIN) 100 mg/4 mL suspension, Take by mouth 2 times daily. Not taking.
+Keppra Naprosyn
+No current facility-administered medications for this visit.
+SEDATION: none TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. Intermittent bursts of left temporal focal slow, some with medium amplitude left temporal sharp waves were seen.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen. The left temporal focal slowing becomes more prominent.
+Subtle generalized slowing is present. There is a small amount of excess theta in the central regions
+LEFT temporal Focal slowing is present. It is characterized by bursts of mixed theta/delta, seen in wakefulness, accentuated by
+activity seen in some of these bursts.
+PAROXYSMAL ACTIVITY
+None
+EPILEPTIFORM ACTIVITY:
+Intermittent, somewhat irregular left temporal sharp waves, primarily in early drowsiness.
+ACTIVATION PROCEDURES:
+Hyperventilation: accentuates underlying theta activity Photic Stimulation: Driving response present, R>L.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+Abnormal awake-and-asleep routine EEG: Left temporal sharp waves
+Left temporal focal slowing CLINICAL CORRELATION:
+This is an sharp waves epilepsy.
+Abnormal awake-and-drowsy routine EEG. Left temporal Support the diagnosis of localization related
+
+
+
+

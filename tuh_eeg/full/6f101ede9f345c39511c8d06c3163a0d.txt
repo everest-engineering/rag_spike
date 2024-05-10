@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 55-year-old woman with past history of right-sided stroke, left-sided weakness, aneurysm and aneurysm surgery, now with headaches, rule out seizures.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a routine outpatient 20 minute study, with hyperventilation and photic stimulation.  It was technically acceptable, although T1, T2 electrodes have slightly increased impedance.  No previous EEGs were available for comparison.
+DESCRIPTION OF THE RECORD:  Background EEG includes a 9 Hz alpha rhythm.  A breach rhythm is noted with accentuation of fast activity in the frontocentral regions bilaterally (the patient is noted to have bilateral craniotomy defects).  There are intermittent focal features noted, including some focal slowing in breach in the right frontal, temporal, and right mid to posterior regions.  Stage 2 sleep includes vertex waves, spindles, and posts.  In the transition to sleep, the EEG is relatively symmetric, but there is a little bit of slowing in the posterior regions bilaterally prior to the appearance of a vigorous stage 2 sleep pattern.
+Hyperventilation produces an increase in theta.
+Photic stimulation was performed while the patient was in stage 2 sleep and did not significantly activate the record.
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to Intermittent focal slowing, with on one occasion a burst of sharply contoured slowing.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified in this record.  The features described above with the generous theta activity, the breach rhythm, and the intermittent focal slowing on left or right, may be correlated with imaging.  If epilepsy is an important consideration, a more prolonged study, capturing one of this patient's events may be of value.
+
+
+

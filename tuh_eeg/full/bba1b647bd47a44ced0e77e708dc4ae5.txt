@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 75-year-old woman admitted with acute and chronic subdural hematoma status post surgery 04/04/13 with left frontal skull defect.  History of dementia, psychosis, autism, depression, hypothyroidism.
+MEDICATIONS:  Tegretol, Klonopin, Gabapentin, Seroquel, and many others.
+INTRODUCTION:  Digital video EEG is performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is in a hard collar and isolation.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetry.  The activity from the right hemisphere includes a mixture of data with smaller amounts of delta in this awake patient.  There is abundant 6 Hz activity and a glimpse of an 8 Hz alpha rhythm. The activity is relatively attenuated on the left.  As the patient becomes drowsy, the right hemisphere transitions a bit more towards the delta pattern.  There is some sharp wave contoured theta noted in the right hemisphere, particularly at T2 and there was also some arrhythmic delta activity in the right posterior quadrant as the patient becomes drowsy.
+Heart rate 96 BPM.
+IMPRESSION:  This is an abnormal electroencephalogram due to:
+Intra-hemispheric asymmetry with relative attenuation of the activity on the left compared to the right.
+Background slowing noted bilaterally, right greater than left.
+There are some subtle sharp waves noted on the right.
+CLINICAL CORRELATION:  This EEG supports a structural or functional abnormality on the left and the attenuated pattern is relatively characteristic of a subdural hematoma.  The sharp waves noted are relatively subtle.  These findings should be correlated with imaging.  Overall, this electroencephalogram supports a bihemispheric process, impacting the left hemisphere more so than the right but a subdural hematoma can attenuate the EEG.
+
+
+

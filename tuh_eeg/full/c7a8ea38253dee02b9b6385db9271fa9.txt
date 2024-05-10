@@ -1,0 +1,13 @@
+LENGTH OF THE RECORDING:  20 minutes.
+CLINICAL HISTORY:  The patient is a 53-year-old woman who presents with change in mental status.  EEG is performed to rule out seizures.
+MEDICATIONS:  Lamictal, Protonix, Seroquel, Lasix, digoxin.
+CONDITION OF THE RECORDING:  The recording was performed according to standard 10/20 system with additional T1-T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of a mixture of polymorphic low to moderate amplitude theta, delta, and occasional alpha activity.  No normal sleep architecture is noted.  There appears to be a paucity of faster frequencies over the right hemisphere.  There is nearly continuous EMG artifact primarily over the right hemisphere that somewhat obscures the right hemispheric leads and limits interpretation of EEG. Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Moderate diffuse slowing.
+Focal right hemispheric slowing.
+Nearly continuous EMG artifact more pronounced over the right hemispheric leads that limits interpretation the recording over those leads.  No clear seizures.
+IMPRESSION:  This is an abnormal awake only 20 minute EEG due to moderate diffuse slowing that is more pronounced over the right hemisphere.  Diffuse slowing indicates etiologically nonspecific moderate diffuse cerebral dysfunction.  Focal right hemispheric slowing indicates focal cerebral dysfunction, possibly structural in etiology.  EMG artifact affects especially right hemispheric leads somewhat limits interpretation of the recording.  There were no clear electrographic seizures.
+
+
+

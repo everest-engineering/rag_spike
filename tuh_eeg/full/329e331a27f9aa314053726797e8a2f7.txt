@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 51 year old male with alcohol abuse, dementia, and epilepsy, found seizing today.
+MEDICATIONS: Ativan, Thiamine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG
+DESCRIPTION OF THE RECORD: This digital video EEG performed at the bedside in the ICU for this intubated patient demonstrates a markedly slow pattern with rhythmic lower voltage delta and theta. As the recording continues, there is a little bit more rhythmic theta frequency activity seen from either hemisphere. Throughout the EEG, there are occasional sharp waves in the right frontal, frontal central, or central temporal regions. There are also rare isolated sharp waves in the left anterior temple region. There is a small amount of sharply contoured periodic slowing beginning to emerge at the end of the EEG, particularly out of the right hemisphere.
+HR: 110 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Markedly slow background.
+2. Occasional medium to low amplitude sharp waves in the right hemisphere including C4, T4, and F4.
+3. Rare sharp waves on the left
+CLINICAL CORRELATION: Although this is a very slow record with some evidence of improvement of the background, the primary concerning features today include the emergency of some periodic slowing in the right hemisphere at the close of the record.
+
+
+

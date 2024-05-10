@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 87 year old male, admitted with zygomatic fracture on 5/16/2010. An 87-year-old male with bradycardia, prostate cancer, hypertension, dementia, fall with zygoma fracture.
+MEDICATIONS: Ativan, Hydralazine, Atropine, Lorazepam, Atropine, Lovenox, Penicillin, Famotidine, Clindamycin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates low voltage pattern alternating with a markedly slow pattern. Features of stage I sleep include vertex waves. Photic stimulation produces an alerting response and during photic stimulation and only following photic stimulation, a truly awake pattern is identified with a glimpse of a 7.3 Hz alpha rhythm.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG for an adult of this age due to:
+1. Background slowing of alpha rhythm.
+2. Intermittent, significant background slowly.
+CLINICAL CORRELATION: If epilepsy is an important consideration, a repeat tracing as an outpatient looking for epileptiform activity could be considered.
+
+
+

@@ -1,0 +1,41 @@
+History:	76 year old woman with left parietal ICH and persistent confusion.  A spot EEG
+revealed recurrent seizures.
+Medications:	Keppra, Dilantin, Ativan
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  ~14 hours from 3/09/2015 till 3/10/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient.  During maximal stimulation the background consists of a
+mixture of polymorphic low amplitude theta, delta and underriding beta activity.  As the recording
+progresses, the background becomes more attenuated consisting  primarily of low amplitude delta
+and beta activity.  Some sleep spindles (right>left) are seen early in the recording.
+Frequent left posterior quadrant seizures are captured.  They last 10-30 seconds and occur several
+times per hour.  By the end of the recording, they lessen to 5-20 seconds.  Their frequency varies
+throughout the recording.  Early on seizures begin with rhythmic 6-12 Hz activity in the posterior
+quadrant region and evolving into 2-4 Hz activity. They remain over the same region with minimal
+spread.  There is no clinical correlate documented on the video.  Additionally,  there are frequent
+brief 1-5 second left posterior quadrant runs that resemble the activity that is seen in the above
+seizures but they do not have clear evolution
+Summary of Findings:
+Seizure, frequent, left posterior quadrant
+Focal slowing, polymorphic, continuous, left temporal
+Interpretation:
+This is an ABNORMAL  EEG because of frequent subclinical electrographic seizures arising from
+the left posterior quadrant region.  These findings are indicative of an epileptogenic focus in this
+region, and are consistent with subclinical status epilepticus. In addition there is  continuous focal
+slowing in the left mid to posterior temporal region.  This finding is indicative of a focal structural
+lesion in this region.  These findings were conveyed to the primary team.
+
+
+
+
+
+

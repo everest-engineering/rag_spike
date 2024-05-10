@@ -1,0 +1,29 @@
+History:	44 year old man with a history of seizures, cognitive impairment, self-injurious
+behaviors.
+
+Medications:	Keppra, Tegretol and Seroquel
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Patient is cooperative during the first several minutes of the recording.  The background consists of
+9-9.5 Hz alpha activity posteriorly and expected AP gradient.  For majority of the recording, patient
+grinds teeth and has to be held down - EEG during that portion of the recording demonstrates large
+amplitude abundant EMG artifact and diffuse beta activity.  Diffuse excess beta activity is present.
+Patient is awake throughout the recording.
+Hyperventilation is not performed.  Hyperventilation is performed for 240 seconds with very poor
+cooperation, and produces no effect.  Of note, F7-T3 and Fp2 and F4 leads are nearly isoelectric -
+likely placed too close to each other.
+Summary of Findings:
+Beta, excessive
+Technically limited
+Interpretation:
+This is a TECHNICALLY LIMITED 22-minute awake-only EEG because of abundant EMG (teeth
+grinding artifact).  During a brief interpretable portion of the recording, the background appears
+normal. Excessive beta activity could be secondary to the medication effect, such as
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 18 year old right handed male with headaches following heat stroke on 08/15/2010. Difficulty concentrating, difficulty maintaining his focus.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background includes a 10.5 Hertz posterior dominant rhythm with posterior slow waves of youth. The overall background is medium amplitude. Features of drowsiness include rhythmic theta followed by vertex waves. MU is identified in wakefulness but testing is not performed to confirm this. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits bilateral driving.
+HR: 80bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed in this EEG. A normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration a repeat study may be considered.
+
+
+

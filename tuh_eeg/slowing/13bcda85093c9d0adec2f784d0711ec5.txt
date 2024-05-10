@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 	A 64-year-old woman with fever, confusion,
+and headache followed by development of complex partial seizures characterized by staring and lip smacking.
+MEDICATIONS: 	None.
+INTRODUCTION:   Digital video EEG is performed at bedside in ICU using standard 10-20 system electrode placement and one channel of EKG. Patient is confused. She is intermittently agitated.
+DESCRIPTION OF RECORD: 	The background EEG is markedly high amplitude. As the recording begins, there is a homogeneous, high amplitude pattern with a 2 Hz periodic complex. The activity can be reviewed as a sensitivity of 10 at which point activity is maximum in the right hemisphere. It is present bilaterally, but is clearly maximum in the right in the posterior regions and has fast activity superimposed upon it. With the use of an average reference, despite some artifacts, the activity is clearly maximum in the right occipital electrode and is high amplitude, requires a sensitivity of 20 and has a periodicity of 2 to 3.5
+Hz. Using the average reference, the activity is also seen at T6. The activity is actually electropositive at 0.2 rather than electronegative but with a typical after going slow waves in that region. Positivity suggesting that there could be a horizontal dipole is picked up with a lower amplitude activity seen in the referential at S7, ST1 suggesting that while referential montage produces a clear idea of a voltage dependency, the activity could actually be faulty localized or has a transverse dipole. This activity is seen at the onset of the EEG at 11:39 and drops out abruptly at 11:43:19. As it does
+so, there is a pattern of theta frequency activity. The activity recurs again while the patient is somewhat just after 11:44 but there is muscle artifact. It is clearly seen to be developing at
+11:45:00. The 11:45:00 captures the onset of a seizure with staring and faster amplitude much higher activity as was seen initially with the electropositivity at 02 a little bit but not much electronegativity in the frontal region. Reviewing this
+seizure with a referential montage again, this activity seems to begin with fast activity seen at 11:44:31. That activity seems
+to be excluded in the occipital regions and there can be seen to be frequency evolution. Again an abrupt drop out is noted with a theta pattern at 11:44:51. The seizures can be reviewed with multiple different montages. By the end, it is clear that there is a high amplitude more generalized bursts maximum in the occipital regions, left or right occipital, likely right
+although the amplitude is slightly higher at 01 than at 02. This is followed by the patient pursing her lips and staring slightly to the left. Seizure duration is variable and ranges from 2-3 minutes to one which is as long as 9 minutes but is typically in the 3-minute section. Some automatic behavior is possible during the seizures. For example, the nurse checks the patient's temperature during the EEG and does not seem to be aware that
+the patient is having a seizure.
+HR:	96 BPM.
+IMPRESSION: 	Abnormal EEG due to:
+1. Complex partial status epilepticus.
+CLINICAL CORRELATION: 	These patterns is supportive of a localization related mechanism for epilepsy. The accurate localization was somewhat challenging and there were some atypical features such as a high amplitude but positive rather than negative discharge using the referential montage. In that one of the behaviors is eye deviation to the left, consideration for right occipital focus with perhaps a transverse dipole is appropriate.
+
+
+
+

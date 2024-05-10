@@ -1,0 +1,35 @@
+AGE: 32 y.o.
+SEX: female
+DATE OF STUDY: 09/10/2015
+RECORDING ENVIRONMENT: Outpatient EEG TYPE: 95819
+EEG # : 15-1326
+HISTORY :
+32 y.o. female referred for routine EEG for	BLACK OUT 2 DAYS AGO WHILE EXERCISING. PT LOC WITH SHAKING EYES ROLLED UP LASTING 20 - 30 SECONDS , PT returned BACK TO BASELINE IN 1 MINUTE. SAME EPISODE X2 : 2000 AND 2003. PT HAS "RAYNAUDS DISEASE".
+MEDICATIONS:
+No current outpatient prescriptions on file.
+No current facility-administered medications for this visit. Norvasc
+SEDATION: none TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically limited record as the single channel of EKG was not functioning, HV and photic stimulation were completed.
+EEG BACKGROUND :
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically	· with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There was generous beta noted
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: did not activate the record Photic Stimulation: elicited vigorous driving
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+Dysfunctional	EKG lead.
+IMPRESSION:
+This is a normal awake-and-asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.	Consider repeat study with EKG and stage II sleep if epilepsy an important consideration
+
+
+

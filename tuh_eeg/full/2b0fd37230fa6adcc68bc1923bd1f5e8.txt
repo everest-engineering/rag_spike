@@ -1,0 +1,14 @@
+INPATIENT
+CLINICAL HISTORY:  A 78-year-old woman with a history of seizures following stroke, now presents with increasing aphasia, slurred speech, and visual impairment.
+MEDICATIONS:  Keppra and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was awake and cooperative.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow pattern.  The left hemisphere demonstrates a posterior dominant rhythm of approximately 7 Hz with excess theta.  The right hemisphere is remarkable for disruption of faster frequency activity, most prominent in the right occipital region.  Sleep was not achieved, but in drowsiness, there is more widespread disruption of faster frequency activity in the right posterior and temporal regions.
+Heart rate:  90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing, right posterior predominant.
+Generalized background slowing.
+CLINICAL CORRELATION:  Previous EEGs were not available today for comparison.  This EEG supports a structural or functional process, congruent with a history of acute stroke.  The generalized background slowing may be part of this patient's diffuse CNS process.  Previous studies are not available at this time.
+
+
+
+

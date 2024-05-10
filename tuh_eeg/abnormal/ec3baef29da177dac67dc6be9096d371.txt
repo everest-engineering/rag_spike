@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 40 year old right handed male with recurrent status epilepticus.
+MEDICATIONS: Solu-Medrol, Lacosamide, Topamax, Benzodiazepines, Klonopin, Zocor, Lovenox, Protonix
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is drowsy. He has multiple clinical seizures characterized by twitching on the right. In addition, he has a vagal nerve stimulator. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG even before the patient begins to have seizures is markedly abnormal. The right hemisphere is slow with a theta frequency pattern and the left hemisphere has a higher amplitude sharply contoured delta in the context of a breach rhythm. The left TS sharp waves are noted. The TS sharp waves start to build up into a train and as they do, fast activity is noted particularly in the central regions Cz/C3 and then with some transmission to the contralateral side. Using alternative montages, the activity seems to generate from TS to a Cv/C3 focus. The activity can also be reviewed with average reference and seems to emanate from TS to a CZ more than C3 focus, building up along the midline with 13 Hz activity which gradually slows and the seizure seems to end in the left central parietal region with a spiking at CZ rather than P3 or TS. In the postictal section, the background is slow and then additional seizures build up again with this bursts of 13 Hz activity in the left central and midline region. The patient is uncomfortable during the seizures. In addition, he is drowsy but is somewhat responsive. He experiences uncomfortable focal motor activity and confusion and staring. Multiple brief seizures occur during the EEG.
+HR: 120 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Status epilepticus pattern with recurrent seizures.
+CLINICAL CORRELATION: This EEG supports a focal mechanism for seizures. The fast activity at the midline is a relatively new pattern for this individual.
+
+
+

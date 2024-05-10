@@ -1,0 +1,24 @@
+History:	52 year old man who presents with confusion.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  During drowsiness, the background slows to central theta activity,
+frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes
+intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation is not performed.  HR: 78
+Summary of Findings:
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 23-minute EEG, awake, drowsy, and asleep. The lack of epileptiform discharges
+on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

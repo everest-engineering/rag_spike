@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  56 year old left handed male with an episode of loss of consciousness, followed by confusion, neck pain, and arm pain associated with a fall.
+MEDICATIONS:   Hydrocodone.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage, but well organized with symmetric reactive 9 Hz alpha rhythm and generous frontal, central beta. Hyperventilation does not activate the record. Drowsiness is characterized by an increase in theta. Photic stimulation elicits a driving response.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The generous beta described above for the patient can be associated with anxiety or medication effect.
+
+
+

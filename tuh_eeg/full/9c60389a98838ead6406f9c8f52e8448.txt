@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 45-year-old right-handed male with epilepsy, recent hospitalization for seizure with agitation  patient not able to provide additional history.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a very tense patient.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there was a 10.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness was characterized by attenuation of alpha rhythm with slow rolling eye movements.  In drowsiness, the rhythmic theta was slightly asymmetric, slightly more prominent on the right.  Unfortunately, sleep was not sustained.
+Hyperventilation produced a small amount of slowing in the frontal regions without definitive asymmetry.
+Photic stimulation elicited a driving response.
+Heart rate 90 bpm.
+IMPRESSION:  This EEG is at the limits of normal in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  Limited sleep was identified, but there is a suggestion of some focal slowing on the right in the transition to sleep. This is the second EEG without epileptiform activity.  Consideration for a more prolonged study capturing deeper stages of sleep is suggested.
+
+
+

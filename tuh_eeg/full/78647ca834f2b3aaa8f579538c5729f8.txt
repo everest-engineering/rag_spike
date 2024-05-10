@@ -1,0 +1,29 @@
+History:	73 year old man who presents with change in mental status change.  Patient has a
+history of stroke with residual right sided weakness.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists 9 Hz low amplitude alpha activity with preserved AP gradient.
+The background over the left consists of polymorphic low amplitude 8 Hz theta activity posteriorly,
+unstable AP gradient and overriding polymorphic theta and delta activity.  Sleep is characterized
+by increase in diffuse theta activity and several waveforms resembling K-complexes.
+No clear epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric, mild-to-moderate
+No epileptiform discharges
+Sleep, stage 2, brief
+Interpretation:
+This is an ABNORMAL awake and briefly asleep portable 23-minute EEG due to continuous focal
+mild-to-moderate left hemispheric slowing. This finding is indicative of mild-to-moderate focal
+cerebral dysfunction, likely structural in etiology.  The lack of epileptiform discharges on a routine
+EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

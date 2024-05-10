@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  24 year old right handed male who developed epilepsy March 1, 2012, with 2 tonic-clonic seizures.  History of head trauma at age 13 with a seizure 10 years ago.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-formed alpha rhythm reaching 40-50 microvolts with posterior slow waves of youth.  Both drowsiness and hyperventilation produce some hypersynchronous rhythmic slowing.  Photic stimulation elicits scant driving.  Minimal stage 1 sleep with vertex waves was noted.
+HR:    60 bpm
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If additional information is needed, a follow-up EEG capturing deeper stages of sleep is suggested.
+
+
+

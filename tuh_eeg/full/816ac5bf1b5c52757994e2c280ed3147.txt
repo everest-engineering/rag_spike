@@ -1,0 +1,34 @@
+History:	56 year old woman status post PEA code, now with reported myoclonic jerks
+concerning for seizures.
+Medications:	Ativan
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~26 hours from 11/10/2015 to 11/11/2015.
+Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists of slow low amplitude non-reactive delta
+activity.  On several occasions (example 11:31 am), high amplitude brief (<0.2 sec) generalized
+EMG artifact is captured.  It corresponds to a very brief head jerks (only upper chest and head are
+visualized on the video).  Around 12:26 pm on 11/11/2015 EKG fails to capture any QRS
+complexes.  EEG subsequently becomes more attenuated and suppressed.  Occasional QRS
+complexes are subsequently seen.  By the end of the recording epoch, no QRS complexes are
+visible on a single EKG lead and there is no discernable cerebral activity captured.
+Summary of Findings:
+Burst-suppression pattern, marked, by the end of the recording epoch
+Diffuse slowing, polymorphic, marked, throughout most of the recording
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous video ~26 hour EEG due to marked diffuse slowing throughout
+the recording with no discernable cerebral activity (and no QRS complexes) seen by the end of the
+recording epoch.
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 31-year-old woman with questionable seizure, which was described as lightheadedness followed by darkness in the vision and loss of consciousness and episode of shaking that lasted for 5 minutes and confusion for 5 minutes.  She then had another episode with the same semiology.
+MEDICATIONS:  Singulair.
+INTRODUCTION:  This is a digital video EEG performed at bedside using standardized 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation was performed and photic stimulation was deferred.
+DESCRIPTION OF THE RECORD:  In wakefulness, the posterior dominant rhythm is at 9 Hz.  There is low amplitude frontal central beta activity. Drowsiness is characterized by disappearance of posterior dominant rhythm, eye blink artifact, and muscle artifact.  Hyperventilation did not cause any significant changes in the background activity.
+Heart rate was 90 BPM and there was no PVCs noted on this EKG.
+IMPRESSION:  This is a normal EEG capturing the patient during wakefulness and drowsiness.
+CLINICAL CORRELATION:  Normal EEG, does not exclude diagnosis of epilepsy.  If clinical seizures are concerned, a long-term monitoring could be helpful.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 50-year-old woman with headaches preceded by a smell of burning plastic than left frontal pressure and trembling of all 4 extremities.  These spells occur 1-4 times per week.
+MEDICATIONS:  Neurontin, Klonopin, topiramate, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable EEG with most impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm and a small amount of low voltage, frontal central beta.  Abundant drowsiness is characterized by rhythmic background theta followed by vertex waves.
+Hyperventilation produces a small increase in amplitude of the background.  Photic stimulation was performed while the patient was drifting off to stage 2 sleep and did not significantly activate the record.
+Heart rate 60 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep may be of value.
+
+
+

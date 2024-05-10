@@ -1,0 +1,13 @@
+Location: OP
+DATE: 06/0212011
+CLINICAL HISTORY: 25 year old right handed woman with apparent lightheadedness followed by generalized weakness. Recent 10-minute loss of consciousness at previous Hospital.
+MEDICATIONS: Unknown.
+INTRODUCTION Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.7 Hz alpha rhythm. There is a fair amount of head rocking artifact in the posterior quadrants. Features of drowsiness include attenuation of alpha rhythm followed by rhythmic theta and then POSTS. Hyperventilation produces background slowing. Photic stimulation is performed while the patient is drifting in and out of sleep. It does elicit a driving response.
+HR: 60bpm
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: There is some head-rocking artifact in the background but no definitive epileptiform features and no definitive focal features. If the are additional questions, a follow-up study with careful detail to electrode placement may be considered.
+
+
+
+

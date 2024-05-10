@@ -1,0 +1,40 @@
+History:	22-year-old right-handed woman presents with a history of epilepsy of 4 years
+duration. Her last seizure was 3 weeks ago. Semiology: dizziness followed by
+unresponsiveness with head and eyes deviation to the right, some jaw twitching. It
+usually lasts for 3-5 minutes. Per her uncle, she may have several episodes per
+month. She feels sleepy for several minutes post-ictally.
+Medications:	Depakote 500 mg BID
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, well-formed on the right
+side, which attenuates with eye opening.  Symmetric beta activity is present, maximal over bilateral
+frontal regions.
+Intermittent polymorphic delta activity is present in the temporal (maximum at F7) region during
+wakefulness, increasing during drowsiness.  Frequent focal sharp waves are present in the left
+temporal region, with amplitude maximum at F7/T3, with a field involving O1 and F3.  During
+hyperventilation, a single focal seizure with left-sided frontotemporally predominant rhythmic sharp
+and slow waves is present  at the onset with a higher amplitude at F7 and T3. This activity spreads
+over 2-3 seconds to the left occipital and right hemisphere.
+The amplitude increases bilaterally with the seizure onset, but the left temporal region has greater
+rhythmicity with a focal high frequency rhythm at F7/T1/T3. The muscle artifact begins to obscure
+the cerebrally generated EEG activity. Some of the leads  are pulled out due to the patient's
+involuntary movements. Diffuse background suppression is noted between bursts of muscle artifact.
+The EEG corresponds to a versive gaze and head deviation to the right followed by loss of
+consciousness and tonic posturing lasting for about 3-4 minutes.  Stepped photic stimulation is not
+Summary of Findings:
+Focal slowing, polymorphic, left temporal
+Sharp-and-slow-wave complexes, left frontotemporal, with secondary generalization
+Seizure, left hemispheric seizure
+Interpretation:
+This is an ABNORMAL EEG because of intermittent focal slowing in the left temporal region. This
+finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly
+structural in origin.  frequent epileptiform discharges in the left temporal region. This finding is
+indicative of a potentially epileptogenic focus in this region  , and given the clinical complex
+partial seizure captured during this recording, is consistent with a diagnosis of localization-related
+epilepsy with secondary generalization.  The patient is advised to see her neurologist ASAP
+performed.  HR 60 -110
+
+

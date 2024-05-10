@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 41-year-old male with epilepsy, a 6-month history of seizures with loss of consciousness, shaking, incontinence and postictal confusion.  Last seizure 48 hours ago. Evaluate for encephalopathy.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed, but hyperventilation was deferred.  This is a technically acceptable routine 22-minute EEG with electrodes under 5 Kilo-Ohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz posterior dominant rhythm which is present bilaterally but slightly higher amplitude with a slightly greater field in the left hemisphere in comparison to the right.  The overall EEG is somewhat poorly organized with excess theta.
+In hyperventilation and relaxed wakefulness, in this sharply contoured record, there is subtle underlying sharply contoured slowing noted in the left mid temporal region.  There is also some irregular slowing in the right posterior quadrant.
+HYPERVENTILATION produces the changes described above.  Drowsiness was characterized by an increase in beta as well as slow rolling eye movements.
+HEART RATE 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+An asymmetry with a higher amplitude more sharply contoured activity in the left hemisphere in comparison to the right.
+Some sharply contoured slowing in the left hemisphere.
+Rare, somewhat irregular slowing in the right posterior quadrant.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No seizures were recorded, and the sharply contoured activity described above was quite subtle.
+
+
+

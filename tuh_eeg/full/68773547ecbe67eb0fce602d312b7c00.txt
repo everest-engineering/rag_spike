@@ -1,0 +1,10 @@
+HISTORY: epilepsy since childhood, including absence seizures, currently seizure free, ITP.
+MEDICATIONS:  Topamax, Depakote, lisinopril, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  Technical issues for this record include muscle artifact.
+DESCRIPTION OF RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  Drowsiness is characterized by rhythmic background slowing and an increase in beta.
+Hyperventilation produces some rhythmic slowing, but no definitive spike and wave activity.  Photic stimulation elicited bilateral driving.
+IMPRESSION:  This is a technically challenging EEG due to electrode and muscle artifact, but it is within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  For this individual with epilepsy, in the past 9 years, none of his EEGs have demonstrated focal or generalized spike and wave activity.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: A 62 year old woman with metastatic breast cancer status post right sided craniotomy and chemotherapy, admitted to the hospital after she was found poorly responsive.
+MEDICATIONS: Keppra, Morphine, Heparin, Pantoprazole, Dopamine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is intubated and comatose.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very low voltage featureless record with some facial twitching. There are some very slow, periodic complexes primarily picked up in the left temporal region with a T2 maximum. Stimulation of the patient produces artifact, but no alerting response. Occasional, poorly formed bifrontal period complexes are identified. Occasional eye movement artifact is also observed.
+HR: 104 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Markedly slow, featureless pattern.
+CLINICAL CORRELATION: Because of the degree of muscle artifact, this Is a quite challenging EEG. There is a periodic complex in the left frontotemporal region and some sharply contoured activity in the left at times and some activity on the left. These findings all support a severe disturbance of cerebral function although technical Issues including those in the ICU and the facial twitching preclude an ideal quality record.
+
+
+

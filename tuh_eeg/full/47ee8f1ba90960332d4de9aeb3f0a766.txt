@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 57 year old right handed woman with epilepsy, anxiety disorder and a history of an aneurysm which was clipped in 2007. The patient stopped her seizure medications 1 week ago and was admitted on the 12th with seizures.
+MEDICATIONS: Phenobarb, Diovan, Pravachol, Clonazepam, Prilosec
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 Hz alpha with generous 15 Hz beta and some 6Hz theta activity. Photic stimulation does elicit a driving response. Deeper stages of sleep are not achieved.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to: 1. Excess beta. 2. Excess theta.
+CLINICAL CORRELATION: This patient's medications may play a role in the patterns described above. Previous EEGs were not available for comparison and additional evaluation may be helpful to assess underlying epileptiform activity.
+
+
+

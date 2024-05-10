@@ -1,0 +1,12 @@
+.
+CLINICAL HISTORY:  A 57-year-old woman, seizure free for 1-2 years.  Characteristics of seizures included oral automatisms and tongue biting, positive family history of epilepsy.
+MEDICATIONS:  Keppra, multivitamins, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a routine outpatient EEG with hyperventilation and photic stimulation.  Impedances were acceptable aside from the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  In relaxed wakefulness and early drowsiness, rhythmic midtemporal theta activity was noted with 5 Hz activity seen infrequently, left more so than the right.  Stage 2 sleep was captured at the close of the recording with vertex waves, K complexes, and spindles.  No temporal theta was noted at that time.
+Photic stimulation was performed while the patient was drifting off to sleep, but produced vigorous bilateral driving response with supraharmonic driving.  Hyperventilation produced an increase in amplitude of the background.
+Heart rate 66 BPM.
+IMPRESSION:  Normal EEG in wakefulness through brief stage 2 sleep.
+CLINICAL CORRELATION:  This is the third EEG for this subject which did not identify epileptiform activity.  The rhythmic midtemporal theta noted in drowsiness is a normal variant.
+
+
+

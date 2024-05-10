@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 45-year-old right handed male with a history of motor vehicle accident 12 years ago and subsequent seizures.  Most recent seizure was approximately 3 to 4 months ago.
+MEDICATIONS:  Current medications include Trileptal, Coumadin and Synthroid.
+RECORDING TIMES:  Recording start time is 9:13 a.m.
+Recording end time is 9:36 a.m.
+Recording length is 21 minutes.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  As the record opens, there is a symmetric 10 Hz posterior dominant rhythm that is of medium amplitude and is reactive to eye opening.  There was a small amount of frontocentral beta activity that is symmetrically distributed over the frontocentral regions bilaterally.  Throughout the recording, there is intermittent focal slowing noted over the left hemisphere.  This is maximal in the frontotemporal and frontocentral regions.  This is characterized by brief epochs of 5 to 6 Hz theta activity and rare very brief epochs of 2 to 3 Hz low amplitude delta activity.  When this is seen, it does disrupt the integrity of the posterior dominant rhythm on the left.  In addition to the focal slowing, there are sharp transient waves identified over the left frontal region.  These are not frankly epileptiform but are suggestive potentially of actual sharp waves.  There are no electrographic seizures detected and there were no clinical events denoted by the patient.  Hyperventilation was not performed.  Photic stimulation was performed at multiple flash frequencies and did not induce a significant photic driving response.  The heart rate was between 60 and 90 beats during the recording.
+IMPRESSION:  This is an abnormal EEG capturing wakefulness through drowsiness due to the presence of focal slowing over the left frontotemporal and frontocentral regions.
+CLINICAL CORRELATION:  The presence of focal slowing may suggest a structural brain lesion in the left hemisphere.  Sharp transient waves are not frankly epileptiform but may be suggestive of an epileptiform discharge over the left hemisphere.  Clinical correlation is suggested.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 30-year-old woman with headaches, dizziness, and a feeling during her headaches as if she is drifting off, with incontinence.  Rule out seizures.
+MEDICATIONS:  Oxycodone.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.  It was technically acceptable with the exception of the T1-T2 electrode which demonstrated impedance slightly greater than 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm in the background with generous background beta and muscle artifact.  Testing was performed to assure maximal wakefulness.  In relaxed wakefulness, there is a small amount of theta.  Other features of drowsiness include an increase in beta.
+Hyperventilation produces a small increase in amplitude of the background and a small amount of theta.  Photic stimulation was performed as the patient was drifting off to sleep, and elicited a driving response.
+HEART RATE:  78 BPM.
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were noted.  A normal EEG can demonstrate generous beta.  When the patient is tested and is maximally awake there is no background theta, but an underlying sleep disturbance may be considered.
+__________________________
+
+
+

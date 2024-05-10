@@ -1,0 +1,27 @@
+History:	69 year old man who presents with near-syncope
+Medications:	zosyn
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm is 8.5 Hz maximally.  There is an anterior-to-posterior frequency-
+amplitude gradient with faster frequencies at lower amplitudes anteriorly.  There is mild excess of
+diffuse theta activity.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+Intermittent polymorphic theta and delta activity is present in the left temporal region.  Similar
+activity but less frequent is observed over the right temporal region.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates
+regular heart rate.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, right temporal
+No epileptiform discharges
+Focal slowing, polymorphic, intermittent, mild, left temporal
+Diffuse slowing, polymorphic, very mild
+Interpretation:
+This an abnormal awake and drowsy 22-minute EEG due to mild diffuse slowing, intermittent mild
+left temporal slowing and occasional mild right temporal slowing. Diffuse slowing is indicative of
+mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Focal slowing indicates focal
+cerebral dysfunction, possibly structural in etiology.  A single EKG lead demonstrates regular heart
+
+
+

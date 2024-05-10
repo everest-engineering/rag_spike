@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 64-year-old gentleman who presents with history of fall and left-sided weakness.  He was found to have right intracranial hemorrhage and pneumonia.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed at the bedside using a standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were not performed.
+This EEG captures patient's in a drowsy/stuporous state.
+DESCRIPTION OF THE RECORD:  In the drowsy/stuporous state, the background activity is characterized by diffuse slowing consisting of 3-4 Hz delta activity intermixed periods 5-6 Hz theta activity most pronounced on the right hemisphere.  There is reactivity to the stimulation of the patient characterized by increase in frequency in left cerebral hemisphere, most pronounced posteriorly.  There was continuous slowing in delta and theta range noted in right frontotemporal region.  There was no epileptiform abnormalities or seizures noted during this recording.  Heart rate was 70 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording capturing the patient in a drowsiness/stuporous state due to 1.diffuse slowing of the background, 2.almost continuous slowing of right frontotemporal region.  No epileptiform activities or seizures noted during this recording.
+CLINICAL CORRELATION:  Diffuse slowing of the background is suggestive of encephalopathy caused by toxic metabolic, infectious causes.  Alternatively, it could be due to the effect of medications or bilateral cerebral dysfunctions.  The presence of almost continuous right hemispheric slowing is consistent with hemispheric structural lesions in right cerebral hemisphere.  Clinical correlation is recommended.  No epileptiform abnormalities or seizures are identified in this record.  This does not rule out the diagnosis of epilepsy or intermittent seizures.
+
+
+

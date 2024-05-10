@@ -1,0 +1,29 @@
+History:	67 year old man who presents with change in mental status.
+Medications:	ativan
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+At best, the posterior dominant rhythm reaches 8 Hz.  AP gradient is poor.  The majority of the
+recording consists of a mixture of diffuse excess beta activity with slow low amplitude underriding
+delta activity.  Patient moves throughout the recording.  Patient remains awake throughout the
+No clear epileptiform discharges are captured.
+Hyperventilation and photic stimulation are not performed.  Occasional abnormal QS complexes
+are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Beta, excessive
+No epileptiform discharges
+No stage 2 sleep
+Artifact, movement
+Interpretation:
+This is an ABNORMAL awake-only 21-minute portable EEG due to mild-to-moderate diffuse
+slowing. This finding is indicative of mild to moderate diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Excessive beta activity could be secondary to the medication effect, such
+as benzodiazepines or barbiturates.
+
+
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  33-year-old woman with multiple sclerosis, bipolar disease, and celiac.  The patient now has episodes in which she sees bright colors, becomes emotional, and becomes confused.  Positive family history of epilepsy.
+MEDICINES:  Buspar, Ativan, others.
+INTRODUCTION:  40 minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was tense and anxious during the EEG. Sleep was attempted but not achieved. Hyperventilation and Photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior-dominant rhythm with a small amount of background theta and generous, low voltage, frontal central beta.  Intermittently in wakefulness, there is rhythmic 3.5 to 5 hertz frequency activity in the left temporal region, which is somewhat irregular.  On one occasion, there is a single left temporal sharp wave with these bursts.
+Hyperventilation seems to accentuate left temporal theta.
+Photic stimulation produced blinking and twitching, but no epileptiform activity.
+Rhythmic left temporal 4 to 5 Hz activity was augmented in drowsiness, but deeper stages of sleep could not be achieved.
+Heart rate:  72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+somewhat irregular left temporal theta.
+CLINICAL CORRELATION:  The findings above may be correlated with imaging.  While the waveforms have some of the morphologies of rhythmic mid temporal theta of drowsiness, ( a normal variant)  the activity described above is somewhat more irregular.   Given the patient's complex history described above, a more prolonged study capturing well-defined deeper stages of sleep is suggested.
+__________________________
+
+
+
+

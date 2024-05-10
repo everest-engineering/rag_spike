@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  27 minutes.
+CLINICAL HISTORY:  The patient is a 21-year-old man with a new onset seizure on 08/27/2012.  Seizure was characterized as a fall down the stairs, although the patient is not sure what occurred first, the fall or the seizure.  The patient also has a history of schizophrenia and asthma and he reports being dizzy for the last couple of weeks.
+MEDICATIONS:  Depakote and Risperdal.
+ACTIVATION PROCEDURES:  HV and photic.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low amplitude 10-11 Hz alpha activity that attenuates with eyes opening.  There is an appropriate anterior-to-posterior frequency amplitude gradient with faster frequencies in lower amplitudes anteriorly.  No sleep is captured.  Hyperventilation produces diffuse mild symmetric slowing.  Photic stimulation results in appropriate photic driving at multiple frequencies.  Regular heart rate is noted on the single EKG lead.
+FINDINGS:
+No stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal awake only 27-minute EEG.  No epileptiform discharges are captured, however, stage 2 sleep is not recorded.  If clinical indication for epilepsy persists, a repeat study with stage 2 sleep may be of benefit.  The lack of
+epileptiform discharges in a routine EEG does not exclude a clinical diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An 81-year-old woman with a 20-year history of Parkinson disease, progressive, demented, and wheelchair bound.  Patient found to have right MCA clot and right MCA infarct on the 16th.
+MEDICATIONS:  Sinemet, Coumadin on hold, and others.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was initially febrile, had parkinsonian tremor on the right and intermittent shivering was noted.  This is a technically challenging record, although most impedances were below 5 kilohms.
+DESCRIPTION OF THE RECORD:  Underneath the muscle and artifact, there is a discernable asymmetry.  Faster frequency on the right is attenuated relative to the left.  Despite the artifacts noted above, there is a left posterior temporal/occipital sharp waves, T5 maximum.  With the use of an average reference, this complex has a generous field of spread in the left hemisphere and may emanate in the left frontal region, and then spread to the occipital region subsequently.  It is also picked up in a referential montage in the right occipital electrode.  That complexes noted intermittently and variability in this record.  On occasion, it has a phase reversal at P3 in a referential montage.  In bipolar montages, it seems to have a generous field of spread in the left hemisphere and is maximum at T5/P3.
+Tactile stimulation of the patient produces muscle artifact.
+Significant artifact is noted throughout the record at T3 and could not be alleviated.
+Heart rate 96 bpm.
+IMPRESSION:  Technically challenging, but abnormal EEG due to:
+Attenuation of faster frequency activity in the right hemisphere.
+A periodic complex in the left hemisphere, given the limitations of this record, seems to be maximal in the left posterior temporal region.
+CLINICAL CORRELATION:  This EEG demonstrates reactivity and variability.  The patient is responsive.  No electrographic seizures were identified.  Ongoing vigilance for the possibility of subtle seizures is advised.  Of note, the patient's mental status was improving during the EEG, despite the presence of fever.
+
+
+

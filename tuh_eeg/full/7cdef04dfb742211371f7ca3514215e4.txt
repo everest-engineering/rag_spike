@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 48-year-old woman with multiple medical problems and 2-month history of recurrent seizures with involuntary movements of the tongue and fingers, shaking, and headache, but no loss of consciousness.  History of leukemia, anxiety, osteoporosis, and cardiac disease.
+MEDICATIONS:  Zoloft, Bentyl, Flexeril, Xanax, many others.
+INTRODUCTION:  A 41-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically somewhat challenging EEG due to patient's twitch artifact.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm.  This is an extremely drowsy patient who transitions rapidly into stage II sleep and is falling into stage II sleep during photic stimulation.  Muscle artifact is noted intermittently.  There are rare bursts of delta suggesting that the patient was about to transition into slow wave sleep prior to photic stimulation.  Photic stimulation elicited vigorous driving.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness and generous sleep in a very drowsy individual.
+CLINICAL CORRELATION:  No focal or epileptiform features were seen.  There was some muscle artifact, which may be part of the clinical question.
+
+
+

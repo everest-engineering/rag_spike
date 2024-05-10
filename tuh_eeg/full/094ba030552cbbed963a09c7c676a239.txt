@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  19 year old right handed male with asthma and a tonic-clonic seizure in 2005.  Past history of learning disorder and closed head injury at age 6.  Now with increasing seizures, 2-4 a month.  Last seizure 1 week ago.
+MEDICATIONS:  Depakote, Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The background EEG is poorly organized for age.  The posterior dominant rhythm is 7 Hz.  There are triangular-shaped frontal sharp waves noted in relaxed wakefulness.  These demonstrate some shifting asymmetries but also occur as bursts of 3-4 Hz activity but without a definitive spike and wave complex.  Hyperventilation clearly accentuate these discharges and there was a question of discrete vertex sharp waves during hyperventilation.  As the patient just asked to sleep, there are a handful of 4 Hz bursts, some of which have a tiny discrete spike noted. Photic stimulation elicits driving response at 11 and 21 Hz.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG and wakefulness and drowsiness due to:
+Somewhat slow and disorganized background.
+Frontally predominant triangular-shaped waveforms which are not definitive sharp waves or spikes.
+A handful of 4 Hz frontally predominant bursts of rhythmic, paroxysmal delta, some of which have a tiny discrete spikes.
+CLINICAL CORRELATION:  All of these findings were identified in the previous EEG.  This EEG does differ in that there were no temporal sharp waves.
+
+
+

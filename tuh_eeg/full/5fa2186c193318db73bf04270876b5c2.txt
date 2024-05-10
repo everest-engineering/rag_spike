@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  67 year old right handed male with head trauma in 2008, developed epilepsy in 2009, developed 3 seizures on August 8.
+MEDICATIONS:  Keppra, Ativan, ASA, Coumadin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG demonstrates a somewhat slow pattern with an 8 Hz alpha rhythm.  Features of drowsiness include an increase in background slowing.  Brief theta spindles are followed by arousals.  Photic stimulation does not activate the record.
+HR:    50 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Mild generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified. If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

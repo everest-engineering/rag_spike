@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 49 year old right handed male with long history of epilepsy and auditory hallucinosis, tonic-clonic seizures.
+MEDICATIONS: Tegretol, Risperidone, Albuterol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD: The overall background is somewhat slow and disorganized. High amplitude temporal sharp and slow wave complexes are noted which can be seen independently from the right or left temporal region. Features of drowsiness include vertex waves. Photic stimulation does not significantly activate the record. Hyperventilation accentuates left temporal sharp waves.
+HR: 60 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Significant slowing of the alpha rhythm.
+3. Independent, right or left temporal sharp waves.
+4. Some rhythmic temporal slowing which is a bit more prominent on the left.
+CLINICAL CORRELATION: These findings maybe correlated with imaging. Hyperventilation did seem to accentuate the left temporal sharp waves. This EEG supports a localization related mechanism for epilepsy.
+
+
+

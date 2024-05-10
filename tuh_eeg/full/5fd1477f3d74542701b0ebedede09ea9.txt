@@ -1,0 +1,14 @@
+LENGTH OF EEG:  22 minutes.
+CLINICAL HISTORY:  The patient is a 37-year-old man who had 3 episodes of loss of consciousness while eating seafood/shellfish.  The last such event occurred on 12/31/2012.  As per patient, after eating the aforementioned foods he felt hot, throat began to swell and feeling tight, and then he lost consciousness and woke up with hives.
+MEDICATIONS:  No medications mentioned.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Both hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated moderate amplitude 9 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.
+During sleep POSTS (positive occipital sharp transient of sleep), symmetrical vertex waves, and spindles are captured.
+Hyperventilation produces bursts of diffuse delta, as well as mild diffuse symmetrical background slowing.
+Stepped photic stimulation results in symmetrical occipital driving at high frequency flash rate.
+A regular heart rate is noted on a single EKG lead.
+FINDINGS:  No epileptiform discharges.
+IMPRESSION:  This is a normal awake and sleep 23-minute EEG.  The lack of epileptiform discharges on a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

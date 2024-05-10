@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  64 year old right handed woman with diabetes and hypertension, referred for memory problems.
+
+MEDICATIONS:  Unknown
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11.5-Hz, 50 to 60 microvolt alpha rhythm with a small amount of low-voltage frontocentral beta.  Drowsiness is characterized by rhythmic central theta with vertex waves in stage I sleep and rare spindles in stage II sleep.  Hyperventilation produces an increase in beta.  Photic stimulation elicits vigorous driving with harmonic and supraharmonic driving.  Heart rate 96 beats per minute, occasional PVCs.
+
+IMPRESSION:  Normal EEG in wakefulness through brief stage II sleep.
+
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The PVCs may be elevated clinically.

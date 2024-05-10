@@ -1,0 +1,9 @@
+CLINICAL HISTORY: Left carotid stenosis.
+MEDICATIONS: Crestor, aspirin and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 hertz, 30 microvolt, posterior dominant rhythm. There is a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by an increase in theta in the background as well as slowing of the alpha rhythm. Photic stimulation elicits bilateral driving. Heart rate is 70BPM.
+IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: There are no epileptiform features noted. There are no focal features noted. This study will be used for the patient's baseline carotid study.
+
+
+

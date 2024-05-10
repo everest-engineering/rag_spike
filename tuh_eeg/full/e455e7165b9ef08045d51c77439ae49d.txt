@@ -1,0 +1,26 @@
+History:	25 year old man who has a history of seizures and schizophrenia, now presents with
+worsening psychosis.
+Medications:	Valproic Acid
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+No clear PDR or AP are observed.  The background consists of a mixture of low amplitude fast
+activity admixed with overriding diffuse frontally predominant semirhythmic 5-5.5 Hz theta activity.
+This activity does not evolve.  Patient remains awake throughout the recording.
+No clear epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Beta, excessive
+Other, frontally predominant semi-rhythmic theta activity
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake-only 22-minute EEG due to diffuse frontally predominant slowing.
+This finding is indicative of diffuse cerebral dysfunction, which is etiologically nonspecific.  The
+lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

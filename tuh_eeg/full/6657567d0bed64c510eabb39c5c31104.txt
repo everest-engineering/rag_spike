@@ -1,0 +1,13 @@
+Bedside portable EEG.
+CLINICAL HISTORY:  A 59-year-old male, status post benzodiazepine overdose, history of liver disease, and COPD.
+MEDICATIONS:  Ativan, Keppra, Lovenox, albuterol, morphine, and levofloxacin.
+INTRODUCTION:  A 20-minute digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is moving about during the EEG.  The patient was having difficulty cooperating with the initial hook up.  The patient was relatively somnolent, but alert by coughing.
+DESCRIPTION OF THE RECORD:  In the awake pattern, there was symmetric eye movement with primarily a low voltage theta pattern and smaller amounts of alpha frequency activity.  Prominent beta activity was noted intermittently in wakefulness.  There were bursts of shifting frontal delta activity and shifting slowing was noted with intermittent attenuation of faster frequency activity in the left frontocentral region.  Drowsiness was characterized by an increase in beta activity.
+Heart rate:  112 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excess beta.
+Background slowing and disorganization.
+Shifting slowing.
+
+
+

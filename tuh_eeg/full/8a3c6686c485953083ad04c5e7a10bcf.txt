@@ -1,0 +1,33 @@
+History:	54 YO FEMALE WITH A HX OF SEIZURES
+ADMITTED TO EMU FOR SEIZURE EVALUATION.
+Medications:	TRILEPTAL
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the bilateral anterior temporal  region (left more
+than right)  during wakefulness, increasing during drowsiness.  At times this is sharply countoured.
+Two focal sharp waves are present with phase reversal and amplitude maximum at F8/T4. There
+are also two suspicious F7/T3 sharp transients present.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Sharp waves, few, right temporal, anterior
+Sharp transients, few, left temporal, anterior
+Focal slowing, polymorphic, frequent, bilateral (L>R) temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of epileptiform discharges in the
+right anterior temporal region.  These findings are indicative of a potentially epileptogenic focus in
+this region, and given the clinical history of partial seizures, are consistent with a diagnosis of
+localization-related epilepsy.  The sharp transients on the left anterior temporal region are
+suspicious but not clearly epileptogenic. Lastly there is  intermittent focal slowing in the bilateral
+anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+
+
+
+

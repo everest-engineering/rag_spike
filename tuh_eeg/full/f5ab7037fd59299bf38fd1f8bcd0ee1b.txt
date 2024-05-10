@@ -1,0 +1,11 @@
+HISTORY: 73 year old right handed female with epilepsy or seizures following meningitis.
+MEDICATIONS: Depakote,  Tramadol, Plavix, Amaryl
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Awake and drowsy record.
+DESCRIPTION OF 	RECORD:  In wakefulness the background EEG is well organized with 9.8 Hz 50 mcv posterior dominant rhythm and a small amount of low voltage frontocentral beta activity. Remarkable in this record is that in the transition to drowsiness there is a bit more irregular delta in the central temporal regions bilaterally in the transition to sleep.  No definitive sharp waves are observed. Photic stimulation does not impact the record.
+HR: 	90  bpm.
+IMPRESSION: Very mildly abnormal EEG due to:
+1.  Some irregular slowing in the central regions in drowsiness.
+CLINICAL CORRELATION:  The features described above are nonspecific and can be seen following a CNS infection or in an adult of this age due to underling cerebrovascular disease.  No epileptiform features were seen, and if epilepsy is an important consideration a second study with more prolonged sleep may be useful.
+
+
+

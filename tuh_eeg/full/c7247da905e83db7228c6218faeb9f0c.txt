@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 48-year-old woman with left ACA infarct nearly 1 month ago, right frontal gliosis, persistent obtundation/lethargy.
+MEDICATIONS:  Trileptal, metoprolol, others.
+INTRODUCTION:  A digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient has a tracheostomy.  She is at times awake but not particularly interactive.
+DESCRIPTION OF THE RECORD:  This is a dynamic record.  There are sections of the record when the patient appears to be awake with eye opening and a mixed frequency background rich in theta with a glimpse of an 8 Hz alpha rhythm.  Other sections of the record demonstrate asymmetries which can include prominent arrhythmic delta on the left with disruption of faster frequency on the left, though occasionally a similar pattern noted on the right.  Occasional right frontal sharp waves were observed.  There are also a handful of left mid temporal sharp waves and 1 or 2 bursts of left mid temporal sharp waves with rhythmic slowing.  Rare triphasic waves were observed.  Sleep was characterized by a pattern with more significant arrhythmic delta activity and fewer eye movements.
+Heart rate 90 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Arrhythmic delta activity which can be identified independently from either hemisphere, but is a bit more prominent on the left.
+Right frontal sharp waves, infrequent.
+Occasional bursts of left mid temporal sharp waves.
+Rare triphasic waves.
+CLINICAL CORRELATION:  The independent focal slowing from the right or left hemisphere can be correlated with the patient's ACA infarction and right frontal gliosis.  Overall, the epileptiform activity is markedly improved and there are fewer triphasic waves.  This EEG continues to support a bihemispheric disturbance of cerebral function.  Of note, at times the patient is awake but not interactive, which may represent a bilateral stroke syndrome at this time.
+
+
+

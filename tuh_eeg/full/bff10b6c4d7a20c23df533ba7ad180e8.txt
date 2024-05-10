@@ -1,0 +1,28 @@
+History:	65 year old man with extensive PMH, now presents with 1 week of left sided
+numbness/ paresthesia.
+Medications:	zofran,heparin,cellcept,asa,lopressor,protonix,plavix,amlodipine
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+PRD reaches maximally 9 Hz.  AP gradient is weak.  Excess diffuse admixed 50-75 uV, 5-7Hz
+activity is present throughout the recording.  Frequent brief (2-5 second) bursts of 100-200uV, 2-4Hz
+rhythmic bifrontal slow waves occur throughout the recording (FIRDA).  Patient remains awake
+throughout the recording.
+Continuous polymorphic theta and delta activity is present in the left hemisphere, especially over
+the left frontotemporal region.
+Hyperventilation and photic stimulation are not performed.  Frequent blink artifact is captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Disorganization, mild
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, especially frontotemporal
+FIRDA (frontal intermittent rhythmic delta activity)
+Interpretation:
+This is an ABNORMAL awake-only 21-minute EEG due to mild diffuse slowing and continuous
+focal left hemispheric slowing that is most pronounced over the left frontotemporal region. Diffuse
+slowing indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+Continuous focal slowing is indicative of a focal structural lesion.  FIRDA is seen in
+encephalopathy, increased ICP, bilateral deep white matter lesions.  No epileptiform discharges
+are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep
+

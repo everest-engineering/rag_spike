@@ -1,0 +1,12 @@
+TYPE OF STUDY:  Routine EEG capturing patient in a stuporous state.
+CLINICAL HISTORY:  This is an 84-year-old lady who admitted because of right-sided weakness with past medical history significant for CHF with an ejection fraction of 10%, hypertension and diabetes.
+INTRODUCTION:  Digital EEG was performed in the lab using the standard International 10-20 System of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation and photic stimulation were not performed.  This tracing captures patient in a stuporous state.
+DESCRIPTION OF RECORD:  The background activity is characterized by generalized slowing consisting of theta activity 6-7 Hz in frequency and 40-50 microvolt in amplitude.  There is bilateral independent sharp wave seen at T1, F4, F3 with no evolution.  There was also slowing and loss of acid frequency in left temporal region.
+IMPRESSION:
+This is an abnormal EEG due to generalized slowing of background activity and excess theta.
+Bilateral independent sharp wave seen in superior frontal on the right, superior frontal on the left and inferior temporal on the left side.
+Left focal slowing with loss of acid frequency, most pronounced in anterior and mid temporal region.
+CLINICAL CORRELATION:  The above finding set are suggestive of 1 loss of acid frequency and slowing on the left temporal can be consistent with cortical insult likely due to ischemia, multifocal sharp waves is suggestive of cortical irritability that put the patient at higher risk for seizures.  Generalized slowing can be seen associated with toxic metabolic hypoxic insult alternatively would be due to medication effect, degenerative disorders or even postictal state.
+
+
+

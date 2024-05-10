@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 25-year-old male admitted with acute encephalopathy, temp 100.3.  Intermittent trembling versus shivering, evaluate for seizures.  Recently discontinued Versed drip.  MRI suggesting diffuse anoxic insult.
+MEDICATIONS:  Depakote, Versed drip, Fentanyl, acyclovir, Flagyl,  ceftriaxone, albuterol.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was intubated, febrile with intermittent facial twitching during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow but demonstrates a continuous pattern with diffuse slow 0.5 to 2 Hz delta activity.  Intermittently, there is an intermittent attenuation in the record and there is intermittent, 10 to 13 Hz rhythmic activity noted relatively diffusely.  Intermittent muscle twitch artifact was noted.  Shivering was also identified.  Stimulation of the patient produced a brief attenuation in the background.
+Heart rate: 104 bpm.
+IMPRESSION:  This is a markedly abnormal EEG in a significantly febrile patient due to marked background slowing.
+CLINICAL CORRELATION:  The faster activity described above may be due to this patient's sedative hypnotic medications.  No epileptiform features were noted.  The focal facial twitching was not associated with an ictal signature.
+
+
+

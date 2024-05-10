@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 76 year old right handed woman with lupus, heart failure and carotid stenosis.
+MEDICATIONS: Plavix, Metoprolol, Celexa, ASA, Ecotrin, ISOSORBIDE, Synthroid, Zocor, Micardis, Citalopram, Detrol, Protonix, Lovenox
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake record. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.8 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. As the patient becomes drowsy, there is an increase in beta and a small amount of theta. Photic stimulation elicits a scant driving response.
+HR: 60 bpm
+IMPRESSION: Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: No epileptiform features are observed. A normal EEG
+does not exclude a diagnosis of epilepsy.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 64 year old right handed female with nonhemorrhagic stroke with dementia and confusion.
+MEDICATIONS: Pantoprazole, Aspirin, Insulin, Lovenox
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very confused and has a lot of oral facial movements.
+DESCRIPTION OF THE RECORD: The background EEG is primarily a theta pattern with generous 4.8 Hz and 7.5 Hz activity. There are smaller amounts of beta and alpha frequency activity. There is some shifting slowing, particularly on the right. The overall appearance of this record, however, is one of relatively rhythmic background slowing. Features of drowsiness include the appearance of vertex waves. There are some sections of the record with a somewhat faster alpha rhythm at times reaching 8.3 Hz, but unfortunately when the patient is maximally awake she is also moving about. Although the maximally awake record is limited by the patient's cooperativity, it does appear to be slightly slower on the right. Photic stimulation does not activate the record.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Primarily a pattern of rhythmic background slowing.
+2. Shifting slowing, sometimes a little slower on the right.
+CLINICAL CORRELATION: The rhythmic slowing described above is nonspecific, but is relatively characteristic of Alzheimer's type dementia. The shifting slowing may be correlated with imaging. No epileptiform features were observed, however, in wakefulness, this EEG is somewhat confounded by the muscle artifact.
+
+
+
+

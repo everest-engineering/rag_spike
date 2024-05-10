@@ -1,0 +1,27 @@
+History:	60 year old female presenting with an episode concerning for a seizure.
+Medications:	metformin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by low amplitude fast alpha rhythm (~18 Hz), which attenuates
+symmetrically with eye opening.  The normal anterior to posterior gradient of frequencies is seen.
+Diffuse excess beta activity is noted.  During brief drowsiness, the alpha rhythm attenuates, and 5-
+7Hz slow waves appear diffusely.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  EKG artifact is present.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Beta, excessive
+Alpha variant, fast
+Interpretation:
+This is a NORMAL 21 minute EEG, awake and drowsy.  No epileptiform discharges were present,
+but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information. Excessive beta activity could be secondary to the medication effect,
+such as benzodiazepines or barbiturates.
+
+

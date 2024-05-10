@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 45-year-old male admitted 1 day ago following multiple seizures with postictal amnesia.  Past history of epilepsy and alcohol abuse.
+MEDICATIONS:  Ativan.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This was a technically challenging EEG for a patient who was very sweaty.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is generous diffuse beta.  A 9.5 Hz alpha rhythm can be identified at times.  Patient drifts off to sleep and had more diffuse beta with smaller amounts of central theta was noted.
+Hyperventilation produced primarily movement artifact.  No significant background slowing.  Photic stimulation elicited a driving response.
+Heart rate 72 bpm.
+IMPRESSION:  This is a technically challenging EEG, but it is remarkable for
+generous beta.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The generous beta may be due to this patient's medications or clinical scenario.
+
+
+

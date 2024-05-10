@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  71 year old male with COPD and Parkinson disease with a seizure 1 year ago when he fell and hit his head.  Past history of epilepsy.
+MEDICATIONS:  Trileptal, Keppra, Novolin, Combivent, Isopto tears, Plavix, Zestril, Prilosec, Advair
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is cooperative.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm.  In relaxed wakefulness, there is subtle underlying 3-5 Hz activity in the right temporal region.  Mu activity is noted.  As the patient becomes drowsy, additional, subtle right temporal rhythmic 3-5 Hz activity is identified. Photic stimulation does not activate the record.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Subtle, right temporal rhythmic 3-5 Hz activity.
+CLINICAL CORRELATION:  This is the fourth EEG for this individual.  The first two did not show epileptiform activity, but the third demonstrated right temporal focal slowing and sharp waves.  The rhythmic slowing identified from the right temporal region today is relatively characteristic of temporal lobe epilepsy.

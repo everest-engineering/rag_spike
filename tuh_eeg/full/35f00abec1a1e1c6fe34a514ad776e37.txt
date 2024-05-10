@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 38-year-old gentleman with quadriparesis after a gun shot wound, chronic UTI.  Patient was admitted with back pain radiating down the legs for three days, but developed an altered mental status.  Evaluate for seizures.
+MEDICATIONS:  Ampicillin, Keppra, meropenem, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  This is a technically somewhat challenging EEG in the ICU.  The background includes a mixture of rhythmic theta and arrhythmic delta activity.  There is intermittent attenuation in the background.  Frontally predominant triphasic waves were noted, but not all of the wave forms have a frontal predominance and, in fact, some of them are a bit more focal in the left central parietal region or posteriorly.  As the recording continues, the background muscle artifact decreases and the periodic complexes in the record, while they do have a metabolic feel, are more posteriorly predominant.  The intermittent attenuations in the background are typically 1-1.5 seconds in duration.  Stimulation of the patient clearly produces an increase in faster frequency activity.  Heart rate 90 beats per minute.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Markedly abnormal background with replacement of normal background with a mixture of theta and delta.
+Intermittent attenuation.
+Triphasic waves.
+Periodic complexes some of which have a triphasic morphology, but which are not anterior and which seem to have a bifed or polyphasic component in the posterior parietal regions; left more so than the right.
+Clinical Correlation:  This is a complex EEG.  There are many abnormalities.  Many of them are metabolic or representative of a diffuse disturbance of cerebral function such as intermittent attenuations, but there are focal and potentially epileptiform morphologies noted in this record.  These findings were reported to the clinical team this morning.
+
+
+

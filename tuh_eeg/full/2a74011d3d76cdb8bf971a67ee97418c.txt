@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  26 year old female, overdose of Tylenol and Percocet with the development of hepatic failure followed by hepatorenal syndrome.
+MEDICATIONS: Ativan, Mucomyst,  Keppra, Zosyn, heparin, Pantoprazole, Vasopressin
+INTRODUCTION: Digital video EEG was performed  at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated.  She is examined during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates  a slow pattern with delta.  There are intermittent bursts of beta.  There are also bursts of FIRDA. Electrode artifact is noted, sometimes at F7, and then there are some higher frequency artifacts on the right.  Stimulation of the patient produces some movement and a scant amount of slower frequency activity.  There is also some variability in the quantity of theta and delta in the background.
+HR:	126 bpm.
+IMPRESSION:  Abnormal EEG due to:
+1. 	Marked background slowing.
+2. 	Question of an asymmetry with perhaps a little bit more delta, theta on the left compared to the right.
+CLINICAL CORRELATION: These findings suggest a severe encephalopathy.   No epileptiform features were observed nor were triphasic waves.
+
+
+

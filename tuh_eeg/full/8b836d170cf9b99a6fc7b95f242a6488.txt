@@ -1,0 +1,38 @@
+AGE: 48 y.o.
+SEX: female
+RECORDING ENVIRONMENT: inpatient EEG TYPE: Routine, 40 min
+EEG #: 15-1414
+HISTORY:
+a 48 y.o. female referred for EEG for a history of bilateral cerebrovascular disease and confusion.
+MEDICATIONS:
+Seroquel, Plaquenil, Humulin SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+Events were marked by the clinical staff. BACKGROUND:
+The waking background is continuous and asymmetric.
+The left hemisphere is well organized with a posterior dominant rhythm of 8 Hz, with a moderate amount of frontal beta activity. The right hemisphere is poorly organized with no posterior dominant rhythm, and consists of mostly delta with admixed theta activity; faster frequencies are attenuated.
+The background is reactive and variable.
+Drowsiness is characterized by further background slowing. Sleep is not captured.
+There is mild generalized slowing.
+There is abundant left hemispheric polymorphic delta slowing; occasionally this slowing has a semi-rhythmic quality.
+There is continuous right hemispheric polymorphic delta slowing. PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : None.
+EPILEPTIFORM ACTIVITY:
+Occasionally, the left hemispheric delta slowing develops a rhythmic quality at 2 Hz for <5 sec
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS: No clinical or electrographic events were reported or detected.
+HEART RATE: A heart rate of 96 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal study due to:
+Mild diffuse cerebral dysfunction
+Abundant left hemispheric polymorphic slowing
+Continuous right hemispheric polymorphic slowing and attenuation of faster frequencies
+Occasional rhythmic left hemispheric slowing
+CLINICAL CORRELATION:
+These findings are consistent with right hemispheric dysfunction and cortical injury, and independent (and lesser extent) left hemispheric dysfunction,
+superimposed on mild diffuse cerebral dysfunction. Occasionally, the left hemispheric slowing becomes rhythmic, which is suggestive of hyperexcitability.
+There were no clinical or electrographic seizures.
+
+
+
+
+

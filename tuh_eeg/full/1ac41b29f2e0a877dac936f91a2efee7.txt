@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  23 minutes.
+CLINICAL HISTORY:  Patient is an 81-year-old man who presents with change in mental status.  Past medical history is notable for hypertension, prostate cancer, COPD, prior right hemispheric strokes.
+MEDICATIONS:  Aspirin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and single EKG lead.  Neither hyperventilation and photic stimulation were performed.  EEG was performed at the patient's bedside.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, the posterior dominant rhythm consisted of well formed and modulated 9 Hz alpha activity that attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitude anteriorly.  Diffuse excess beta is present.  During sleep, symmetrical vertex waves, sleep spindles, and K complexes are captured.  Occasionally, bursts of theta and delta observed during sleep but also captured during wakefulness.  Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Mild diffuse slowing.
+No epileptiform discharges.
+Excess beta.
+IMPRESSION:  This is an abnormal awake and asleep 23 minute EEG due to intrusions of sleep architecture and to wakefulness.  This could be related to excessively drowsy patient.  Excess beta could be seen secondary to medication effect such as benzodiazepines or barbiturates.  The lack of epileptiform discharges in routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

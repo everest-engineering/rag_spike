@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  82 year old with acute onset of aphasia, metastatic lung cancer with cerebral metastasis.
+MEDICATIONS:  Oxycodone, Folate Acid, Keppra, Remeron
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was noted to have a very oily scalp and appropriate impedances could not be achieved.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly disorganized and slow.  In addition, in this technically challenging EEG there is an asymmetry.  The left hemisphere demonstrates rhythmic theta and delta, and an attenuation.  At times the right hemisphere demonstrates more attenuation than the left. There is a subtle sharp wave noted at T3/T5.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to;
+A markedly slow background.
+A pattern with intermittent attenuation of the background which may be unilateral, bilateral, or slightly asymmetric.
+Left parietal temporal sharp wave.
+CLINICAL CORRELATION:  The sharp wave is in the region of the patient's chronic subdural hematoma.  Clinical correlation for this patient is important to determine if the patient's clinical features and imaging are congruent with the EEG described above.
+
+
+

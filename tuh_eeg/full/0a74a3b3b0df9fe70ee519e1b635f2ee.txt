@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 23 year old right handed male who developed grand mal seizures at age 12. Epilepsy began at age 3, remitted at age 12.  Positive family history of epilepsy.
+MEDICATIONS:  Phenytoin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a youthful pattern with a 10-Hz alpha rhythm reaching 70 to 90 microvolts.  Posterior slow waves of youth were identified.  The patient has a particularly high amplitude alpha rhythm in the right occipital region.  Hyperventilation produces an increase in amplitude of the background.  Brief drowsiness includes slow rolling eye movements.  Photic stimulation does not activate the record.
+HR:    78 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If ongoing seizures are a concern or if characterization of the patient's underlying epileptic focus is important, a repeat tracing capturing deeper stages of sleep is advised.
+
+
+

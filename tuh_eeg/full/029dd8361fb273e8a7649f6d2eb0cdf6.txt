@@ -1,0 +1,13 @@
+History:	PT PRESENTS WITH H/O SZ EVENTS PER WIFE WITH NO POSTICTAL. PT HAS SKULL DEFECT ON RT SIDE AND SHUNT PLMT ON LT.
+Medications:	Phenobarb
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.  No normal sleep architecture was present. Nearly continuous polymorphic delta activity is present in the left hemisphere at times maximal more anterriorly and at times more posterior.  Two electrographic seizures were noted in the record. The first appears as soon as the record start and the second appears to have a left frontal onset. It commences with rhythmic left frontal sharp waves that increase in frequency and rapidly spread  to the occipital region. It last 8 minutes. During the first one the pt follows verbal commands. Not tested during the second one.
+Hyperventilation and photic stimulation were not performed.
+HR was 54.
+Summary of Findings:
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of two left frontal electrographic seizures. These findings are indicative of an epileptogenic focus in this region, and are consistent with subclinical status epilepticus. In addition there is  diffuse background slowing and absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.  Pt will be placed on LTM.
+
+
+

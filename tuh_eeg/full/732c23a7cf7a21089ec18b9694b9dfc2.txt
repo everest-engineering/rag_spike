@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 61-year-old gentleman status post bilateral posterior circulation infarcts with significant gliosis, limited vision, prominent cortical changes on MRI, rule out seizures.
+MEDICATIONS:  Aspirin, Plavix, and blood pressure medicines.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  This was an awake EEG.  No clinical symptoms were noted during the record.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous pattern.  There is a glimpse of an 8 hertz posterior dominant rhythm on the left, slower activity was noted in the right occipital region.  Overall, the amplitude of the background is medium 30-40 microvolts.  Arrhythmic delta activity was noted in the posterior regions with sharply contoured slowing noted in the left mid to posterior temporal region.  Independent slowing is seen in the right hemisphere as well with more of parieto-occipital phase reversal.  The activity on the right is a bit more blunted.  In the transition to stage 2 sleep, vertex waves, K complexes, and spindles were noted.  As the patient transitions in and out of sleep, frontally predominant delta was noted.  Vertex waves and spindles were at the midline.
+HEART RATE 80 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Shifting slowing with variable maximum left posterior temporal, independent right posterior temporal though more anteriorly on the left.
+Background slowing.
+CLINICAL CORRELATION:  In this individual with significant posterior circulation infarcts, there was a glimpse of a posterior dominant rhythm noted.  No epileptiform features were noted, although there is some sharply contoured slowing noted more so on the left than the right in wakefulness..
+
+
+

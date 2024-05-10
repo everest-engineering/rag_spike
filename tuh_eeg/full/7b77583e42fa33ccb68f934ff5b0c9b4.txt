@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Nursing home resident, 74-year-old male with generalized weakness, heart failure, history of intracranial injury, unspecified without mention of skull defect.
+MEDICATIONS:  Insulin, metoprolol, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  Technical:  Technical quality was acceptable although impedances were somewhat elevated in the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low-voltage pattern.  There is a low-voltage 9-Hz posterior-dominant rhythm which is reactive.  It is somewhat better identified on the left compared to the right.  Although there is no mention of a breach rhythm, there is slow, low-voltage delta noted nearly continuously on the left as well as some electrode rocking artifact.  The patient transitions in and out of awake and drowsy pattern.  Drowsiness is characterized by an increase in beta bilaterally as well as slow rolling eye movements and attenuation of the alpha rhythm.
+Photic stimulation was performed as the patient was drifting off to sleep, but a driving response was noted at 11 Hz.
+Heart rate 60 BPM.
+IMPRESSION:  Abnormal EEG due to:
+A relatively low-voltage and somewhat slow background.
+A low-voltage slow delta on the left which was nearly continuous.
+CLINICAL CORRELATION:  This EEG supports a functional or structural abnormality on the left which may involve gray and white matter.  The generalized background slowing described above may be correlated with history and imaging.  No epileptiform features were identified.
+
+
+

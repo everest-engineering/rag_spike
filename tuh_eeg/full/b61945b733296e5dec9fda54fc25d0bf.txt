@@ -1,0 +1,23 @@
+History: 44 year old female CC aphasia/right side weakness. Metastatic Breast cancer, s/p chemo, double mastectomy, s/p whole brain rx. Multi cns lesions
+Medications: keppra
+Sedation: none
+EEG TYPE: Routine, awake and drowsy
+CONTINUOUS BEDSIDE VIDEO EEG MONITORING
+Continuous EEG monitoring was performed for 16.5 hours from 3/331/15 to 4/1/15. Nursing initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns. All automatically detected events were reviewed in detail by the attending f neurologist.
+#Push button events
+Description
+None
+Description
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present. At the onset of the record reveals a seizure which consisted of rhythmic O2 sharp waves at 2-3 Hz continuously for 48 minutes. Clinically the patient is unresponsive and has a left gaze deviation. The record stopped and there are periodic lateralized epileptiform discharges (PLEDS) present in the O2 region at a rate of 1 Hz. These discharges stop about an hour later. A diffusely slow background remains.
+Hyperventilation and photic stimulation were not performed. Hr was 132.
+Summary of Findings
+Seizure single marked right occipital
+PLEDs (periodic lateralized epileptiform discharges) continuous right occipital
+Interpretation
+This is an ABNORMAL EEG because of focal status epilepticus for 48 minutes arising from the right occipital lobe. There is also moderate to sever diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+
+

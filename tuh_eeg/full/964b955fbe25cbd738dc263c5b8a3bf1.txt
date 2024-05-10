@@ -1,0 +1,13 @@
+CLINICAL HISTORY: Adult male of unknown age, older adult found unresponsive elevated CPK, febrile, neuroleptic malignant syndrome. The patient had a bottle of Depakote in his pocket.
+MEDICATIONS: Depakote, Haldol, Ativan, Valproic Acid
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized. There is an underlying theta frequency background with a suggestion of alpha rhythm. Arrhythmic delta is noted particularly in the posterior regions. The patient drifts off to sleep. Much of the time, he has slow eye movements, seems to be a bit drowsy in a chaotically organized pattern with shifting arrhythmic delta activity, again more prominent in the posterior regions.
+HR: 84 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Slow background.
+2. Disorganized pattern.
+3. Prominent shifting slowing particularly in the posterior regions.
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance of cerebral function. Correlation with imaging is important given the posteriorly prominent arrhythmic delta.
+
+
+

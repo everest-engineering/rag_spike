@@ -1,0 +1,11 @@
+CLINICAL HISTORY:    38 year old right handed woman with migraine headaches, depression and a sharp pain in her head.
+MEDICATIONS: Xanax, Seroquel, Zolpidem, Nabumetone.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic simulation are completed.
+DESCRIPTION OF THE RECORD:  In wakefulness background EEG is well-organized. There is a relatively fast alpha rhythm of 12 Hz with a small amount of low voltage, frontocentral beta. Hyperventilation produces an increased in amplitude of the background. This is followed by a drowsy and then stage I sleep with vertex waves and posts. Photic stimulation and hyperventilation are performed concurrently and do not active the record. In fact, the patient seems to drift into stage II sleep at the close of this study.
+HR: 	66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. Normal
+EEG does not exclude a diagnosis of epilepsy.
+
+
+

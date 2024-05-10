@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  33 year old woman, pre-operative evaluation for aortic aneurysm surgery.
+MEDICATIONS:  Toprol, Cozaar
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  This EEG is drowsy or asleep record with accentuation of beta activity, post vertex waves and spindles.  In maximum wakefulness, there is generous beta.  A 10 Hz alpha rhythm is identified. Photic stimulation elicits bilateral driving.  The patient is transitioning to sleep during photic stimulation.
+HR:    84 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were noted.  This EEG will be utilized for this patient's pre-operative baseline.
+
+
+

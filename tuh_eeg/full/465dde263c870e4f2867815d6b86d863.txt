@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 59 year old right handed female with anxiety, stroke, difficulty walking, and schizophrenia, as well as a central tremor.
+
+MEDICATIONS: Ability, Ibuprofen, Acetaminophen
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation are performed, but hyperventilation was not possible.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.3 Hz alpha rhythm. In the transition to drowsiness, there are rare bursts of shifting arrhythmic delta activity. Photic stimulation elicits bilateral driving response.
+HR: N/A
+IMPRESSION: Abnormal EEG due to:
+1. Mild slowing of the alpha rhythm.
+2. Mild excess theta.
+CLINICAL CORRELATION: The rare bursts of shifting delta are nonspecific in an individual of this age and can be seen in the context of underlying cerebrovascular disease. The excess theta and the slowing of the alpha rhythm can be due to this patient's underlying neuropsychiatric problems, cognitive impairment, or medications.
+
+
+

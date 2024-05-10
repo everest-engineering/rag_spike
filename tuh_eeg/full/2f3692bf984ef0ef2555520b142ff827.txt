@@ -1,0 +1,21 @@
+History:	80 YEAR OLD  RIGHT HANDED FEMALE WITH INTRACRANIAL HEMORRHAGE
+AND HERNIATION. EVALUATION FOR BRAIN DEATH.
+Medications:	PLAVIX, PRILOSEC, COUMADIN, PROTONIX, SYNTHROID, BUMEX, INSULIN
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes, comatose
+Description:
+No posterior dominant rhythm is present.  There is no electrocerebral activity over 2uV during the
+recording.  This EEG was performed according to the guidelines of the American Clinical
+Neurophysiology Society for the determination of electrocerebral inactivity.  No normal sleep
+architecture was present.
+There is no spontaneous state change during the recording and no change with visual, auditory,
+tactile, or noxious stimuli.  All electrodes were checked for integrity.  HR 79  Intermittent EMG and
+O1 noncerebral and nonphysiologic artifacts were seen.
+Summary of Findings:
+Electrocerebral inactivity
+Interpretation:
+This is an ABNORMAL EEG because this is an isoelectric EEG performed according the the ACNS
+guidelines for the determination of electrocerebral inactivity.  This EEG is consistent with, but not
+diagnostic of, cerebral death.
+

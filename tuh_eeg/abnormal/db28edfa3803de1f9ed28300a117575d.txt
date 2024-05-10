@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  29 year old right handed male with myoclonic jerking of the upper extremities for the last several years now increasing and also a concussion 2 years ago. Head trauma at age 21 and seizures for a year after that. Migraine headaches, asthma and allergies.
+MEDICATIONS:  Albuterol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a symmetric reactive 9 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. In relaxed wakefulness, there are bursts of frontally predominant 3-5 Hz spike and wave activity. Most bursts are under a second and all discharges are under 2 seconds in relaxed wakefulness. Hyperventilation clearly accentuates the frontally predominant spike and wave and poly spike and wave activity. The major of discharges are symmetric in the frontocentral region. Hyperventilation also produces an increase in burst duration with some bursts waxing and waning, but lasting up to 6 seconds in duration. In addition, there are more clearly developed frontally predominant spike and wave and even polyspike and wave complexes noted following hyperventilation.
+The technologist tests the patient and does not identify clinical correlates with these bursts. There are a handful of eye movements sometimes seen around the bursts, but no definitive focal features. As the patient transitions in and out of drowsiness, the frontally predominant spike and wave discharges become higher amplitude. Sleep is not sustained. Photic stimulation also does seem to accentuate the discharges, but there are no discharges that outlast the photic stimulation.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Frontally predominant spike and wave complexes of 3.5 to 5 Hz.
+CLINICAL CORRELATION:  No clinical seizures were recorded. These EEG characteristics are highly suggestive of a generalized or inherited mechanism for epilepsy.
+
+
+

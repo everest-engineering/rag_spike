@@ -1,0 +1,24 @@
+History:	23 year old man with ~ 4 days of progressively worse mental status.
+Medications:	Ativan on 8/5/2015, Acyclovir, no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, lethargic
+Description:
+With stimulation, the background consists of moderate-to-high amplitude diffuse slow delta activity
+that is most pronounced over the temporal regions.  During periods of quiescence, the background
+is a mixture of polymorphic theta and delta activity, with theta activity more pronounced posteriorly.
+Additionally, diffuse low amplitude sleep-spindle-like waveforms are seen during periods of
+No electrographic seizures are seen.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute EEG due to moderate diffuse slowing.  This
+finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+
+

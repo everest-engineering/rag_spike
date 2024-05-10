@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An 89-year-old woman with right intracerebral hemorrhage, confusion.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 23 minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically challenging record in a confused patient, but it is technically acceptable.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is diffusely slow with a theta pattern and a glimpse of a 5 Hz alpha rhythm.  There is a subtle asymmetry noted with a bit of underlying arrhythmic delta activity in the right hemisphere including central parietal region and subtle disruption of the more rhythmic theta.  There are subtle right temporal sharp waves noted, maximum at T4.
+Heart rate:  Irregular, 78 bpm.
+IMPRESSION:  Abnormal EEG due to;
+Generalized background slowing.
+Subtle focal slowing ipsilateral to the hemorrhage.
+Handful of subtle underlying sharp waves.
+CLINICAL CORRELATION:  No seizures were recorded.  These findings are congruent with the clinical scenario.
+
+
+
+

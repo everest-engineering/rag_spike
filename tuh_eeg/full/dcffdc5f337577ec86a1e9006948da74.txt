@@ -1,0 +1,23 @@
+History:	41YR MALE FOLLOW UP EEG.  PT PRESENTED WITH STATUS EPILEPTICUS.
+Medications:	KEPPRA, PHENOBARBITAL, HEPARIN, AMLODIPINE, METOPROLOL,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates and its seen
+best on the right.  Symmetric 5-15uV, 18-25Hz activity is present, best seen on the right frontal
+regions.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic delta activity is present in the left central region during wakefulness,
+increasing during drowsiness.  There is a loss of faster frequencies over that region.  No epileptiform
+discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR 102
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left central
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing  and loss of
+faster frequencies in the left central region.  This finding is indicative of severe focal cerebral
+cortical dysfunction in this region, likely structural in origin.
+
+
+

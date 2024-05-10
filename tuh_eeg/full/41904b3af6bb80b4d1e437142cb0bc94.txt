@@ -1,0 +1,27 @@
+History:	73 YR FEMALE WITH CC OF SZ.  SHAKING  WITH URINARY INCONT AND
+TONGUE BITE.  X 5MIN. WITH LEFT GAZE PREFER. POST ICTAL 15-20 MIN.
+PMHX: OLD RIGHT MCA/ACA 7/13., WATERSHED INF. A FIB S/P MAZE, MV
+REPAIR 7/13, HTN, HLD, PULMONARY NODULE.
+Medications:	NONE
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent independent polymorphic delta activity is present in the bilateral anteriotemporal
+region (left more than right) during wakefulness, increasing during drowsiness.  No epileptiform
+discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving from 1to 5 Hz.  HR 78
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of independent polymorphic delta
+activity in the bilateral anteriotemporal region (left more than right).  This finding is indicative of
+focal cerebral dysfunction, which is etiologically non-specific.  No clinical or electrographic seizures
+
+

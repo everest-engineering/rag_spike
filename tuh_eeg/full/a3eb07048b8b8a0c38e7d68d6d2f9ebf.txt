@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This 51-year-old male, admitted through the emergency room with confusion followed by tonic-clonic seizure lasting 45 seconds and postictal myalgias.  Prior history of alcohol abuse.
+MEDICATIONS:  Ativan, moxifloxacin, others.
+ROOM NUMBER:  Inpatient.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is a technically acceptable EEG with impedances under 5 kilo ohms with the exception of the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake with a background with generous beta and a glimpse of 9 Hz alpha rhythm.  Drowsiness is characterized by an increase in beta with rhythmic central theta.  Deeper stages of sleep are not sustained.
+Photic stimulation elicited a scant driving response.
+Heart rate 72 bpm.
+IMPRESSION:  This EEG primarily in wakefulness and early drowsiness was remarkable for
+generous beta.
+CLINICAL CORRELATION:  No focal or epileptiform features are identified.  If epilepsy is an important consideration, a more prolonged study capturing deeper stages of sleep is suggested.
+
+
+

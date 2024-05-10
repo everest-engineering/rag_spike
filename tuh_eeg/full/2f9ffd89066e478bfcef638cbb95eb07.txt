@@ -1,0 +1,18 @@
+History:	23 year old woman who presents for an evaluation of recurrent episodes of bilateral leg shaking/ jerking that can last for minutes. There is no associated loss of awareness.
+Patient also has staring spells during which she is aware but unable to move or respond.
+Medications:	no AEDs Sedation:
+EEG Type:	Extended, >60 min
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Diffuse excess beta activity is present. During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+No focal slowing is present. No clear epileptiform discharges are present. Two sharp transients are captured over the right midtemporal region.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+No epileptiform discharges No stage 2 sleep
+Sharp transients, two, right temporal, mid
+Interpretation:
+This is a NORMAL -71 minute EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. Two sharply contoured waveforms are of unclear clinical significance.
+
+
+
+

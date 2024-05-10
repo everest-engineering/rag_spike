@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  44 year old male with mental retardation and heart failure, evaluate for complex partial seizures.  The patient was found slumped to the left with eye deviation.
+MEDICATIONS:  Keppra, Seroquel, Lexapro, ASA, Lisinopril
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.3 Hz alpha rhythm.  There is a small amount of 4 Hz activity in the background as well as some 2 Hz activity as the patient becomes drowsy.  There is an asymmetry with slowing in the right hemisphere relevant to the left and some slow delta in the right hemisphere, some of which has a somewhat periodic nature to it.  The bursts of periodic delta are subtle but present on the right.  Vertex waves are noted in stage I sleep, and there is evidence of stage II sleep with spindle.
+HR:    90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+In maximal wakefulness, a somewhat slow and disorganized pattern.
+An intermittent asymmetry with disruption of faster frequency activity in the right hemisphere.
+Subtle right frontal delta.
+CLINICAL CORRELATION:  The diffuse background slowing is a nonspecific finding and could be due to this patient's postictal state or developmental disorder.  There are subtle focal features in the right hemisphere including disruption of faster frequency in the right hemisphere and some frontal subtle periodic delta.  No sharp waves or seizures were seen.  This is similar to the 2/3/2012 EEG.
+
+
+

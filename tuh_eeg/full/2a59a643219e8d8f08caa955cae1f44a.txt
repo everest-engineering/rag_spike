@@ -1,0 +1,32 @@
+:
+History:	64 YR OLD MALE PRESENTS WITH H/O SUDDEN ONSET OF RIGHT WEAKNESS
+NOTED WITH LEFT HAND TREMOR EEG TO R/O SZ.  RECENT DISCHARGE.
+PMHX SIG FOR NEW RT CEREBELLAR INFARCT, OLD LT INFARCT
+FOLLOW UP EEG 10/6 IP
+FOLLOW UP EEG FOR ONSET OF BILAT. NEXT. SHAKING.
+Medications:	BP MEDS, INSULIN, HEPARIN
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+During limited maximal wakefulness, the background is characterized by a 25-40uV, 9-9.5Hz alpha
+rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates,
+and 5-7Hz slow waves appear diffusely, followed by vertex waves.  During stage 2 sleep, the record
+slows further to moderate voltage 2-4Hz activity, and sleep spindles and K complexes appear.
+Intermittent polymorphic delta activity is present in the in the right centrotemporal region during
+wakefulness, increasing during drowsiness.  Occasional polymorphic delta activity is also present in
+the left mid-temporal and parietal regions.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 72.
+Summary of Findings:
+Focal slowing, polymorphic, frequent, right temporal, Centrotemporal
+Focal slowing, polymorphic, occasional, left temporal, mid, Sometimes more parietal
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+right centrotemporal and occasionally in the left mid-temporal and parietal regions.  These findings
+are indicative of focal cerebral dysfunction in those regions,  which is etiologically non-specific, but
+possibly structural in origin. No clinical or electrographic seizures are present.
+
+

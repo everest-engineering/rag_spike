@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 59-year-old woman with a history of brain surgery and seizures.
+CURRENT MEDICATIONS:  Include Keppra, labetalol, trazodone and others.
+CONDITION OF THE RECORDING:  The recording was performed in the EEG laboratory.  The recording was performed according to standard 10-20 system with additional T1-T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Step photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  There is a right to left interhemispheric asymmetry with faster frequencies over the right hemisphere.  The posterior dominant rhythm over the right hemisphere consists of moderate amplitude polymorphic 7.5 Hz theta activity.  There is an anterior to posterior frequency amplitude gradient over the right hemisphere, however it is weak.  There is very weak and unstable posterior dominant rhythm over the left hemisphere and consists of low to moderate amplitude, polymorphic 6-7 Hz theta activity.  There is no clear anterior to posterior frequency amplitude gradient over the left.  Additionally the background over the left consists of lower voltages and additional polymorphic theta and delta activity, with delta especially pronounced anteriorly.  Diffuse frontally predominant intermittent rhythmic delta activity (FIRDA) is captured.  Hyperventilation is not performed.  Step photic stimulation does not result in additional abnormalities.
+FINDINGS:
+Mild diffuse slowing and disorganization.
+Moderate left hemispheric slowing most pronounced anteriorly.
+FIRDA.
+No electrographic seizures.
+IMPRESSION:  This is an abnormal awake only 21-minute electroencephalogram due to mild diffuse slowing, moderate hemispheric slowing most pronounced anteriorly.  Diffuse slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Focal left hemispheric slowing indicates focal cerebral abnormality likely structural in etiology.
+Frontal intermittent rhythmic delta activity (FIRDA) could be seen in various encephalopathies, increased intracranial pressure and deep white matter lesions.  No electrographic seizures were captured.
+
+
+

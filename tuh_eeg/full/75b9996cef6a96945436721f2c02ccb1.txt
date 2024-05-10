@@ -1,0 +1,42 @@
+History:	56 YO MALE WAS AT A BAR WHEN HE COLLAPSED OFF STOOL.HE WAS DOWN
+5 MIN. BEFORE EMS ARRIVAL AT WHICH TIME HE WAS FOUND TO BE IN
+ASYSTOLE.CPR WAS INITIATED W 3 ROUNDS OF EPI AND ROSC WAS
+ACHIEVED. UPON ARRIVAL HE WAS HYPOTHERMIC 94.3 & LATER
+Medications:	Dilantin and Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 34 hours from 6/2/15 to 6/4/15.   Nursing-initiated
+event buttons were correlated with clinical behavior.  Graphical representation of the EEG was
+available at the bedside and over the hospital network for continuous review by trained nurses and
+EEG technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Periodic central maximal (with a large posterior field) synchronous
+complex polyphasic sharp waves with a repetition rate of 1-3 Hz.  There is a myogenic artifact
+intermittently associated to the discharges and on video the patient exhibit subtle jerks, consistent
+with myoclonus.  At times the discharges almost completely disappeared however with  tactile, or
+painful stimuli they would return or increase in frequency and intensity.
+Hyperventilation and photic stimulation were not performed.  HR was 84.
+Summary of Findings:
+PEDs (periodic epileptiform discharges) central
+Diffuse slowing, polymorphic, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  continuous periodic epileptiform discharges (PEDs) that
+are central maximal with associated myoclonus and marked diffuse slowing.  In the setting of
+hypoxic injury these findings are indicative of diffuse cortical irritability and dysfunction which is
+suggestive of a very poor prognosis.
+HYPOTENSIVE 59/31
+
+
+
+

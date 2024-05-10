@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 59 year old woman, nursing home resident found unresponsive and seizing in the emergency room. History of HIV, diabetes, schizophrenia, hepatitis C and found down seizing 2 days ago.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern, poorly organized with mixture of irregular theta, some beta activity, some alpha frequency activity and delta. There is a suggestion of a 7 hertz posterior dominant rhythm seen on occasion. As the tracing continues, the patient is a bit more agitated with muscle and movement artifact, but when she calms down, it is more of a mixed frequency theta pattern with a suggestion of some underlying delta in the right occipital region.
+HR: 90 to 116 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. Right occipital delta.
+CLINICAL CORRELATION: No definitive epileptiform features are observed. If additional information is needed, a repeat study in the lab when she is cooperative may be helpful.
+
+
+

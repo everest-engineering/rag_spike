@@ -1,0 +1,26 @@
+History:	45 YR OLD FEMALE WITH H/O SEIZURES. LAST SEIZURES LAST MONTH LOC,
+TONGUE BITING NO INCONTINENCE. NOW WITH PANCREATITIS.
+Medications:	Keppra, Tylenol 3
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV,9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Very frequent polymorphic delta activity is present in the T4 and T6  region during wakefulness,
+increasing during drowsiness.  Single F8/T2 sharp wave is seen during drowsiness.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Sharp waves, single, right frontotemporal
+Focal slowing, polymorphic, frequent, right temporal, Mid and posterior temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of a single epileptiform discharge in the right
+fronto-temporal region.  These findings are indicative of a potentially epileptogenic area in that
+region.  In addition there is evidence of focal cerebral dysfunction in the right posterior temporal
+and midtemporal region, which is non-specific with regards to etiology.
+
+

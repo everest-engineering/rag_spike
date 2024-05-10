@@ -1,0 +1,21 @@
+History:	PT PRESENTS WITH H/O SZ EVENTS PER WIFE WITH NO POSTICTAL. PT HAS SKULL DEFECT ON RT SIDE AND SHUNT PLMT ON LT.
+Medications:	Phenobarbital, Depakote.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 48 hours from 09/24/2014 to 09/26/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.
+# Push button events	0
+Description of pushbutton events: None
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.  The waking background becomes more predominantly delta over the last 16 hours.  No normal sleep Nearly continuous polymorphic delta activity is present in the left hemisphere at times maximal in the frontal region.  Continuous rhythmic delta activity is present in the right anterior temporal region, with an associated increased amplitude of faster frequencies consistent with a breach. Occasional focal spike-and-wave discharges and sharp waves with phase reversal at FP1/F7 with a large posterior field.  1-2 electrographic seizures per hour. They commence with rhythmic left frontal sharp waves that increase in frequency.  After the first 18 they decrease to 1 per 2 hours
+Hyperventilation and photic stimulation were not performed.  HR was 60.  Technical issues: Please note that for the first 24 hours there was a electrode misplugs and the EEG was analyzed with this understanding.
+Summary of Findings:
+Status epilepticus, left frontal, electrographic resolved for 16 hours
+Sharp waves, intermittent, left frontal
+Focal slowing, polymorphic, intermittent, left frontal
+Focal slowing, polymorphic, continuous, right temporal, mid, Associated breach.
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation: architecture was present at ~2PM on 09/25/2014 they stop. This is an ABNORMAL awake and drowsy EEG because of multiple left frontal electrographic seizures. These findings are indicative of an epileptogenic focus in this region, and are consistent with subclinical status epilepticus. In addition there is focal slowing in the left frontal region with diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of focal and moderate diffuse cerebral dysfunction. The focal slowing in the right temporal region is consistent with the known previous SDH.
+
+
+

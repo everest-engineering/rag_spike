@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  42 year old left handed woman with CNS lupus, seizure free for many years.
+MEDICATIONS:  Keppra, Metoprolol, Prednisone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage, somewhat slow with generous beta.  There is a scant, 9 Hz alpha rhythm.
+Features of drowsiness include an increase in theta. Photic stimulation does elicit a driving response. Hyperventilation does not significantly activate the record. Brief lambda is noted in wakefulness.
+HR:    50 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excessive background theta.
+CLINICAL CORRELATION:  No epileptiform features were seen today.  There may be less background theta in this EEG than in previous studies.
+
+
+

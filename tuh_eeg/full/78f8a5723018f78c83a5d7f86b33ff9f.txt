@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient has a history of ALL, syncope and previous CNS involvement with his malignancy.
+MEDICATIONS:
+INTRODUCTION:  A digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake individual.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a modest amount of low voltage, frontocentral beta activity and a small amount of occasional, frontal theta.  Brief drowsiness is characterized by an increase in background beta.  Heart rate 96 BPM.
+IMPRESSION:  This EEG is remarkable for:
+A small amount of excess beta.
+A small amount of excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The excess beta and theta may be due to this patient's medications.
+__________________________
+
+
+

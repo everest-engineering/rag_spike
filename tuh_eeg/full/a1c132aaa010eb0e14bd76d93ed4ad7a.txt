@@ -1,0 +1,13 @@
+MEDICATIONS:  Hydralazine, Norvasc, and nifedipine.
+CLINICAL HISTORY:  An 82-year-old woman with acute stroke on 05/23/2015, evaluate for seizures/ obtundation
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically challenging record with a great deal of muscle artifact.
+DESCRIPTION OF RECORD:  Much of the EEG demonstrates an asymmetry between the 2 hemispheres with a lower voltage and more featureless delta noted on the right and 4-6 hertz theta activity on the left.  Towards the end of the record with stimulation, there is an increase in faster frequency activity on the left.  The patient remains relatively somnolent.
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing with marked attenuation of faster frequency activity on the right.
+Significant slowing on the left with some variability.
+CLINICAL CORRELATION:  The features described above may be part of both a toxic or metabolic phenomenon or other diffuse disturbance of cerebral function, superimposed on a structural process involving gray and white matter on the right.  No epileptiform features were noted.
+
+
+
+

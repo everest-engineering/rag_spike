@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  53 year old male who presented with right-sided weakness, left MCA infarct, COPD, HIV, hypertension, gout.
+MEDICATIONS:  Keppra, Corgard.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly abnormal pattern.  The initial sections of the record demonstrate an asymmetric pattern with marked suppression of activity on the left.  The right initially demonstrates low-to-medium voltage rhythmic delta.  As the record continues, there is some theta on the right.  There are also some portions with generalized attenuation of the background.  Frontal intermittent rhythmic delta activity is noted, right greater than left, as is eye blink artifact.
+HR:    78 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Marked attenuation or suppression of activity on the left compatible with a left middle cerebral artery infarct.
+Markedly slow pattern on the right with rhythmic delta.
+Frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  This EEG supports a severe, bihemispheric process, but the process on the left suggests marked disruption of cerebral activity.
+
+
+

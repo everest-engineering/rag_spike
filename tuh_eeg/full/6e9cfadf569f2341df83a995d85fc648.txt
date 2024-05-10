@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 46 year old right handed gentleman with lightheadedness, syncope, diabetes, asthma, hepatitis B and a sleep disturbance.
+MEDICATIONS: Metformin, Lovenox, Protonix, Metformin, Lisinopril, Novolin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness there is an 11 Hertz posterior dominant rhythm. In a transition to drowsiness rhythmic 5-6 Hertz temporal theta which is sharply contoured and has the characteristic morphology of rhythmic temporal theta of drowsiness is observed. Vertex waves, K-complexes, spindles and posts are observed in stage 2 sleep. The 5 Hertz activity can be identified in the frontotemporal regions bilaterally as the patient is disrupted from sleep. Photic stimulation is performed while the patient is in stage 2 sleep and does not significantly activate the record.
+HR: 60 bpm
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: The findings described above with rhythmic mid temporal theta of drowsiness are considered a normal variant. However, they can also be seen in individuals with epilepsy and if seizures are an important consideration a follow up study is suggested.
+
+
+

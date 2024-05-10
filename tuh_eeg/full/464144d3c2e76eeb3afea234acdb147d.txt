@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 38-year-old woman, with unclear epilepsy history which may include febrile convulsions and childhood epilepsy.  Seizures increased when she delivered an infant 5 years ago.
+MEDICATIONS:  Tegretol, Depakote, others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy routine, outpatient record.  It is technically satisfactory with acceptable impedances.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm reaching 60 microvolts.  Posterior slow waves of youth and generous beta were noted.  Features of drowsiness include slow rolling eye movements.
+Hyperventilation did not significantly activate the record.  Photic stimulation elicited bilateral driving.
+Heart rate 72 BPM.
+IMPRESSION:  Normal electroencephalogram in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a followup tracing capturing deeper stages of sleep is suggested.
+
+
+

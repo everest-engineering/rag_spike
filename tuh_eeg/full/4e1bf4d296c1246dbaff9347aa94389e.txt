@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  70 year old right handed woman with new onset nocturnal convulsive movements with foaming at the mouth, hypertension, and anxiety.
+MEDICATIONS:  Norvasc, Simvastatin, Nexium, Folate Acid.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes generous beta and an 11-Hz alpha rhythm.  Hyperventilation produces an increase in amplitude of the background.  Drowsiness is characterized by attenuation of the alpha rhythm and an increase in beta.  Photic stimulation elicits a brief driving response.
+HR:    72 bpm
+IMPRESSION:  This EEG is remarkable for:
+Generous beta.
+CLINICAL CORRELATION:  The generous beta may be due to this patient's underlying anxiety disorder or medications.  If epilepsy is an important consideration, a followup study is suggested. There are no epileptiform features noted.  There is no background slowing.Although no benzodiazepines are reported in her EEG, benzodiazepines and similar medications can produce an increase in beta in an EEG as well as anxiety.
+
+
+

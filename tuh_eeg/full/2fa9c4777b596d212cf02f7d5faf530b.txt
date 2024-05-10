@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 66 year old right handed woman with a long history of epilepsy, currently seizure-free since April, tonoclonic and complex partial epilepsy.
+MEDICATIONS: Vimpat, Zonisamide, Elavil, Pamelor; Nortriptyline, Flexeril, Temazepam
+INTRODUCTION: Digital video EEG is performed in lab using the standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 7 Hz posterior dominant rhythm in the background with theta frequency activity and some shifting arrhythmic delta activity, particularly in the temporal regions. There are a handful of left frontotemporal sharp waves as well as some at T1. The overall background is sharply contoured. Photic stimulation does not significantly activate the record. Drowsiness is characterized by an increase in delta. Vertex waves are seen in the transition to sleep. The patient seems to drop into sleep from wakefulness.
+HR: 86 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta.
+2. Some shifting slowing.
+3. Left frontal and T1 sharp waves.
+CLINICAL CORRELATION: The sharply contoured background may make sharp
+waves more different from the background. The background slowing in this organization may be part of this patient's brain pattern or due to the medications.
+
+
+

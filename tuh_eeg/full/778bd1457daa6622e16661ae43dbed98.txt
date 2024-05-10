@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 29-year-old male who was struck in the side of the head 1-1/2 years ago, now with headaches.  Evaluate for postconcussive syndrome with dizziness.
+MEDICATIONS:  Advil.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement.
+Hyperventilation and photic stimulation were completed.  This is a technically acceptable EEG with most impedances below 5 kilohms.  The EKG lead was not functioning correctly.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is well organized with 11 hertz, 50 microvolt posterior dominant rhythm.  Prominent lambda is noted in wakefulness.  In stage 2 sleep, vertex waves, K complexes, spindles, and POSTS were noted.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited a driving response.
+Heart rate:  90 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If this patient has frequent, paroxysmal spells, please consider a more prolonged recording to capture 1 of his events.
+__________________________
+
+
+
+
+

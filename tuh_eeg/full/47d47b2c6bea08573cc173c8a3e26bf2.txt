@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 52-year-old male with stroke 2 years ago, alcohol abuse, admitted with recurrent seizures.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This is a technically acceptable EEG with most impedances below 5 kilohms.  This patient had significant muscle artifact throughout the EEG, and had difficulty relaxing.
+DESCRIPTION OF THE RECORD:  The background EEG includes a pattern of low-voltage beta and muscle.  Superimposed upon this, there is some sweat artifact, but there is also some rhythmic delta noted on the left.
+Photic stimulation was unsuccessful.  Following photic stimulation, the patient starts to relax, drifts into stage 1 sleep with a dropout of the fast activity and left anterior temporal sharp waves was noted infrequently.
+Heart rate 90 bpm.
+IMPRESSION:  This is the 6th EEG for this individual and is similar to previous studies.  It demonstrates:
+Low-voltage fast pattern in wakefulness.
+Background slowing.
+Rhythmic slowing in the left.
+Rare left temporal sharp waves.
+CLINICAL CORRELATION:  These features have been identified in previous study.  Of note, some studies have identified focal features in the right hemisphere.  No seizures were recorded.
+
+
+

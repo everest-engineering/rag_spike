@@ -1,0 +1,16 @@
+History:	76 year old woman, undergoing cerebral aneurysmal coiling.
+Medications:	Propofol, fentanyl, vecuronium
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, comatose
+Description:
+Patient is awake when the study opens.  The PDR is symmetrical at 10 Hz alpha activity that
+attenuates with eye opening.  The AP gradient is normal.  Patient is induced at ~9:30 AM with
+expected diffuse slowing.  Throughout the majority of the recording, the background consists of a
+mixture of frequencies with occasional periods of discontinuity.  The degree of background slowing
+varies with changes in anesthetic agent concentrations.  Occasional additional polymorphic delta
+Summary of Findings:
+Interpretation:
+
+

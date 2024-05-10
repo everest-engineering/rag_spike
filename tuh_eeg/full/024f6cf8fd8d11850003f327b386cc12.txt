@@ -1,0 +1,39 @@
+History:	57 YO MALE P/W LEFT SIDED WEAKNESS FROM OSH. HEAD CT: SMALL R ICH
+WITH MIDLINE SHIFT. PT NOW HAVING EPISODES OF CONFUSION..
+Medications:
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present in the early morning but as the day progresses there is
+the appearance of more normal cerebral activity.  Initially, the background activity was
+characterized by diffuse low voltage delta and theta activity with absence of the expected anterior
+to posterior gradient of frequencies.  By the end of the day, there is a fragmentary posterior
+dominant rhythm achieving 7-8Hz, that is reactive. This is more prominent over the left occipital
+region.  There remains intermittent frontal Delta activity, with a triphasic morphology.  No normal
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, intermittent, bilateral generalized
+Triphasic waves, intermittent, bilateral frontal
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing, triphasic waves, and absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.  Overall the record has improved from yesterday.  No clinical or electrographic seizures
+are present.  These findings were conveyed to the primary team.
+
+
+
+
+

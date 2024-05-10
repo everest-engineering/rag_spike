@@ -1,0 +1,21 @@
+History:	69 YO FEMALE PRESENTS WITH SZ.
+PMHX: SZ, RIGHT FRONTAL INFARCT, TBI, DM, OT, HTN?,
+Medications:	Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 31 hours from 07/01/2014  to 07/03/2014.   Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  No normal sleep architecture was present. Intermittent polymorphic delta activity is present in the right posterior temporal region.  Periodic lateralized epileptiform discharges (PLEDs) are present in the T6 region at a rate of 0.5 Hz.  There were 5-6 right posterior temporal electrographic seizures per hour lasting 10-15 seconds seen on 07/02/2014 form 4AM to 7AM. They consisted of rhythmic posterior temporal sharps evolving in frequency over the temporal region with minimal spread. Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.
+HR was 90
+Summary of Findings:
+Seizure, frequent, Electrographic
+PLEDs (periodic lateralized epileptiform discharges), continuous, right temporal, posterior
+Diffuse slowing, polymorphic
+Interpretation: This is an ABNORMAL EEG because of  subclinical electrographic seizures arising from the right posterior temporal region.  These findings are indicative of an epileptogenic focus in this region, and are consistent with subclinical status epilepticus. In addition there is  continuous periodic lateralized epileptiform discharges (PLEDs) in the same right posterior temporal region.  These findings are indicative of a highly potentially epileptogenic acute focal destructive lesion in that region. Lastly there is  diffuse background slowing and absence of normal alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 70 year old male with a complaint of loss of consciousness for 7 minutes, found down on the floor disoriented. Past medical history of hypertension, diabetes, Bells palsy, CABG, COPD, benign prostatic hypertrophy, TIA 6 months ago, chronic small vessel disease.
+MEDICATIONS: Hydralazine, Advair, Lipitor, Insulin, Heparin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. Photic simulation was completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is disorganized with an alpha of 8.3 Hz. Prominent temporal wicket is identified. Shifting slowing is observed and there is focal delta in the right central temporal region.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Disorganized and slow background.
+2. Shifting slowing.
+3. Occasional focal slowing in the right central temporal region.
+CLINICAL CORRELATION: This EEG supports a diffuse cerebral disturbance. The focal features may be correlated with imaging. If epilepsy is an important consideration, a repeat study capturing sleep is suggested.
+
+
+

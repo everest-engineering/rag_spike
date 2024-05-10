@@ -1,0 +1,25 @@
+CLINICAL 52 year old left handed male admitted with status epilepticus
+characterized by a single 20-25 minute tonic clonic seizure with loss of consciousness on the
+251h.
+MEDICATIONS: Depakote
+Digital video EEG was performed at bedside using standard 10-20 system of
+electrode placement with 1 channel of EKG. Patient is Intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: As the tracing begins, the overall EEG is low voltage,
+relatively is depressed with scant beta and delta. There are some sharply contoured triangular
+shaped waves noted in the frontal regions. As the recording continues, there is an increase in beta and theta frequency activity in the background and a discrete sharp wave in the left frontal
+region is noted. Stimulation of the patient is performed later on in the record and the patient is starting to have a low voltage more continuous theta delta pattern.
+HR: 96 bpm and irregular
+Abnormal EEG due to:
+1. Replacement of normal background after initially a very suppressed background.
+2. Transition to a mixed frequency background.
+3. A suggestion of left frontal sharp waves.
+CLINICAL CORRELATION: This is one of many EEGs for an individual with recurrent status
+epilepticus. The pattern described above is his usual postictal slow and depressed pattern
+although it does improve. This is the first EEG that I identified discrete left frontal sharp waves
+and small spikes. The postictal pattern of a background suppression is a finding previously
+identified for this individual. Additional EEG recording when he is out of the ICU may be of use
+if further characterization of his epileptiform focus is needed.
+
+
+
+

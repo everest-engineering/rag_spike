@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 31-year-old male with new onset seizures characterized by eyes rolling back in the head, stiffening, but no loss of consciousness  according to the mother.  Of note, the patient did not respond to her, however.  After these spells he was able to walk into an outside hospital.  This spell lasted 1 hour.  He has a history of cerebral palsy.
+MEDICATIONS:  Metoprolol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  Hyperventilation did not significantly activate the record.  Photic stimulation elicits bilateral driving.
+Heart rate 96 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration a followup study may be of value.
+
+
+

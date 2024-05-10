@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 	47 year old woman with craniotomy defect at CV and C3, history of a tumor and now with episodes of intermittent confusion, and slurred speech and shakiness to evaluate for seizures.
+MEDICATIONS:  None listed in chart
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are preformed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a well-defined alpha rhythm of 9 Hz  with a small amount of low voltage, frontocentral beta activity. Intermittently, the patient demonstrates eye flutter artifact. Features of drowsiness include rhythmic background slowing. Despite episodes where the patient is quite tense, she drifts off into stage 1 sleep.  Hyperventilation produces a small amount
+of theta. Photic stimulation elicits driving. After the episode of photic stimulation, the patient has a clinical event with altered speech and impaired responsiveness. During the event, she has eye flutter. The EEG demonstrates an otherwise normal awake pattern.
+HR:	66 bpm
+Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed. Normal EEG does not exclude a diagnosis of epilepsy. The behaviors in question do not appear to be seizures.
+
+
+

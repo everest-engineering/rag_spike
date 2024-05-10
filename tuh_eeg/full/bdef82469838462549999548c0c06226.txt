@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 58-year-old man with a known history of seizures, who presents with a prolonged generalized clonic-tonic convulsion.
+MEDICATIONS:  Ativan, propofol, and others.
+CONDITIONS OF THE RECORDING:  The recording is performed according to the standard 10/20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  The recording was reviewed intermittently by the attending physician throughout the recording.
+DESCRIPTION OF THE RECORDING:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of low amplitude, diffuse beta activity, very diffuse fast activity in the beta frequency range admixed with periods of a background of discontinuity.  With stimulation, the background becomes continuous and voltages increase somewhat.  There appears to be a paucity of faster frequencies over the right temporal region.  No normal sleep architecture is captured.  No electrographic seizures are observed.
+FINDINGS:
+Moderate to severe diffuse background slowing with periods of discontinuity.
+Reactivity present.
+Paucity of faster frequencies over the right temporal region.
+No electrographic seizures.
+IMPRESSION:  This is an abnormal approximately 13 hour continuous video EEG monitoring due to moderate background slowing and focal right temporal slowing.  Diffuse background slowing indicates etiologically nonspecific diffuse cerebral dysfunction, and in this case likely at least partially related to medication effect.  Focal right temporal slowing indicates focal cerebral dysfunction, likely structural in etiology and is consistent with the patient's history of prior right MCA stroke.  Diffuse beta could be secondary to medication effect such as benzodiazepines or barbiturates.  No electrographic seizures were captured.  These findings were conveyed to the primary neurology team.
+
+
+

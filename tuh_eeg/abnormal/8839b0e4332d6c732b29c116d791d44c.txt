@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  22 minutes
+CLINICAL HISTORY:  The patient is a 54 -year-old woman who presents with a history of a single seizure on 06/19/2013 while asleep.  There was associated  tongue biting, bladder incontinence and postictal confusion.
+MEDICATIONS:  None.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were  performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude, 10.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, symmetrical vertex waves are captured.  Occasional polymorphic theta and delta activity is observed over bitemporal regions; this activity occurs independently.  Hyperventilation is performed with good effort and accentuates bitemporal slowing.  Stepped photic stimulation results in symmetrical occipital driving and multiple flash frequencies.  A single EKG lead demonstrates a heart rate of approximately 60 beats per minute.
+FINDINGS:
+Occasional moderate independent bitemporal focal slowing.
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and drowsy EEG due to occasional independent bitemporal mild to moderate focal slowing.  This finding indicates focal cerebral dysfunction, possibly structural in etiology. No epileptiform discharges were captured.   However, stage II sleep was not recorded.  If clinical indications for seizures persist, a repeat study with the patient asleep may be of benefit.
+
+
+

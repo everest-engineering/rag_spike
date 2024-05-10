@@ -1,0 +1,17 @@
+MEDICATIONS:  Keppra, Dilantin, Trileptal, phenobarbital, insulin, others.
+HISTORY:  A 55-year-old male with previous childhood epilepsy, complicated by stroke and intracerebral hemorrhage.  Admitted following increasing seizures with possible infection.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection was part of the protocol.  One channel of EKG.  There was a 1 on 1 monitor for this agitated patient.
+DESCRIPTION OF THE RECORD:  Background:  In wakefulness, the background EEG is at times disorganized with focal slowing in the left mid temporal or posterior temporal region.  Brief sleep includes vertex waves.
+Interictal epileptiform detections:  There are occasional to infrequent left anterior temporal sharp waves.  There are rare left frontal sharp waves and a handful of independent, right temporal sharp waves noted primarily in sleep.
+Electrographic seizures:  None.
+Pushbuttons:  Times:  2:59.  The patient was drowsy.
+At 3:56, 7:15 p.m., 7:42 p.m., 2:05 a.m., and 8:22 a.m., the patient is agitated for all push button events.  Sometimes he is shaking in his head from side to side.  Sometimes he has alternating movements of his hand.  He is frequently crying during the events in some cases, the head wrap has covered his eyes.  The EEG shows an awake, agitated individual without epileptiform activity.
+Heart rate 90 bpm.
+IMPRESSION:  This section of EEG monitoring was remarkable for:
+Intermittent slowing from the left hemisphere, which may be anterior temporal or posterior temporal.
+Sharp waves, typically left mid to anterior temporal although some are left frontal.
+Independent right temporal sharp waves.
+CLINICAL CORRELATION:  No electrographic seizures were identified.  The push buttons and behaviors described above were all behaviors, not seizures.
+
+
+

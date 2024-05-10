@@ -1,0 +1,15 @@
+\
+
+
+CLINICAL HISTORY:  This is a 78-year-old woman with intermittent episodes of dizziness and disorientation for the past 3 months.  She has fallen 2 times.  She reports that her symptoms are getting better as she reduces her oral intake.
+MEDICATIONS:  Coumadin, albuterol, lisinopril, Toprol, Imdur, insulin, others.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is a technically acceptable record aside from T1-T2 impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is a small amount of low voltage, frontal central beta.  There is also a small amount of theta noted in the background.
+Photic stimulation did not significantly activate the record.
+Drowsiness is characterized by slow rolling eye movements.  Heart rate 66 bpm.
+IMPRESSION:  This is a very mildly abnormal EEG for an adult of this age due to:
+Mild background theta.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The background theta is a nonspecific finding, which may be part of a diffuse disturbance of cerebral function, which may be toxic metabolic, ischemic, or related to other cause.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  45 year old right handed male with history of hypertension, hyperlipidemia, back pain, and now with difficulty finding the right word.
+MEDICATIONS:  Lovenox, Baclofen, Lisinopril, Atorvastatin, Elavil, Amitriptyline, Protonix, Pantoprazole, Dexamethasone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was extremely drowsy, transitioning in and out of sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm which is symmetric and reactive.  The patient transitions in and out of wakefulness to stage II sleep with vertex waves, K-complexes, spindles, and POSTS. Hyperventilation produces a small amount of slowing.  Photic stimulation elicits scant driving.
+HR:    78 bpm
+IMPRESSION:   EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified in the record, but the patient appears to be quite sleepy.  This could be related to a sleep deficit or an underlying sleep disturbance.
+
+
+

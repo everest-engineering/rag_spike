@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 61-year-old woman with 1 hour seizure on May 4th.  No loss of consciousness, evaluated in the emergency room for right arm and leg shaking.  Family history of epilepsy and frontotemporal tumors.
+MEDICATIONS:  Losartan, Naprosyn, 175 mg sertraline, Benadryl, Lipitor.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically satisfactory record with the exception of the T1-T2 electrodes, particularly  the T2 electrode.  The patient was noted to be somewhat anxious.
+DESCRIPTION OF RECORD:  In wakefulness, there is a low voltage background with an 11 Hz alpha rhythm and a generous amount of low voltage, frontal central beta.  Muscle twitch artifact is noted throughout the EEG, particularly from the right scalp electrodes.
+Features of drowsiness include an increase in beta.
+Photic stimulation elicited a driving response.
+Heart rate 78 BPM.
+IMPRESSION:  Technically somewhat challenging but essentially normal EEG.
+CLINICAL CORRELATION:  No definitive focal or epileptiform features were noted.  This individual continued to have a fair amount of muscle twitch artifact and restlessness, which may be evaluated clinically.  If epilepsy is an important consideration, a repeat tracing, with perhaps more extensive sleep may be helpful in more completely characterizing epileptiform activity.
+__________________________
+
+
+

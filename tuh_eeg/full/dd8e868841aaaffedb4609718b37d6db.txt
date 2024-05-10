@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 66 year old right handed female with headaches, memory loss, hypertension, and hyperlipidemia.
+MEDICATIONS: Losartan, Lovastatin, Hydrochlorothiazide
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record for a patient who is primarily somewhat drowsy.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9-Hz posterior dominant rhythm. Frequent eye blinking is noted. Temporal theta is noted as the patient becomes drowsy. Hyperventilation produces eye artifact and small amounts of slowing. Photic stimulation is performed as the patient is drifting off to sleep and does elicit a driving response.
+HR: 60 bpm
+IMPRESSION: EEG within normal limits for age.
+CLINICAL CORRELATION: No epileptiform features were noted. If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep may be of value.
+
+
+

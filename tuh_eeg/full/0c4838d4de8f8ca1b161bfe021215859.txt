@@ -1,0 +1,33 @@
+History:	58 YR OLD  FEMALE WITH FOLLOW UP STUDY. PAST MEDICAL HX OF NEW
+ONSET SEIZURES WITH LOC.  HEART DISEASE AND HEAD INJURY AS A BABY.
+PT REPORTS SZ ON 4/20/15 WITH LOC AND POSTICTAL CONFUSION,
+BLADDER INCONT.
+Medications:	CARBAMAZEPINE 200MG
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases
+during drowsiness.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Excessive fast
+Diffuse slowing, polymorphic, excessive, mild
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of mild diffuse background slowing.  This
+finding is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+
+
+
+

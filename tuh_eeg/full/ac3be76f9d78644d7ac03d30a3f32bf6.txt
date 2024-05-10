@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  An 82-year-old male admitted June 4 with slurred speech for 3 days.  Past history of left PCA stroke.
+MEDICATIONS:  Aspirin, glipizide, lisinopril, ceftriaxone.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  Hyperventilation was deferred.
+TECHNICAL:  There is a fair amount of muscle and 2 artifact noted in the record.  The patient was relatively somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetry.  At best, when the patient was a bit drowsy, there is a 7 Hz posterior dominant rhythm noted on the right, but the left demonstrates more significant slowing with disruption of the alpha rhythm and lower voltage delta.  The patient rapidly drifts off to sleep with an increase in slowing.  He alerts briefly and follows commands.  He then drifts off to sleep again.  Intermittent arrhythmic delta activity was noted seen more commonly in the left hemisphere in comparison to the right.  Vertex waves were noted in sleep followed by sleep spindles and then spontaneous arousals.
+Photic stimulation did not significantly activate the record.  The patient was reaching stage II sleep during photic stimulation.
+Heart rate 78 bpm.
+IMPRESSION:  This EEG was remarkable for:
+Focal slowing with disruption of the alpha rhythm on the left and a lower voltage delta pattern on the left.
+Intermittent, paroxysmal arrhythmic delta activity in the left hemisphere.
+Mild slowing of the alpha rhythm on the right.
+Hypersomnolent patient with intermittent arousals.
+CLINICAL CORRELATION:  With the pattern of hypersomnolence and intermittent but unsustained arousals, an underlying sleep disturbance such as sleep-disordered breathing may be considered.
+
+
+

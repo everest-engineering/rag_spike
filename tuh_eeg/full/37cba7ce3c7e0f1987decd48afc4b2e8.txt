@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 67-year-old male, admitted to the NICU on the 21st, with large left PCA stroke with hemorrhagic contusion.  Impaired vision, slurred speech, and delirium.
+MEDICATIONS:  Plavix, Lipitor, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not possible.  This is a technically acceptable record.
+DESCRIPTION OF THE RECORD:  The activity from the right hemisphere is reasonably well organized with a low voltage, 10 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  The left hemisphere demonstrates intermittent at times almost continuous focal slowing with rhythmic or arrhythmic mixed theta-delta in the left hemisphere, particularly frontotemporal and frontocentral.  That activity varies from subtle a bit more prominent with a little bit higher amplitude slowing.  Sharply contoured, slowing was also noted in the same region, a bit more prominent as the patient becomes drowsy, and disappearing when the patient is a bit more awake and alert.  On rare occasions, there is a glimpse of an alpha rhythm present bilaterally.
+Heart rate slightly irregular, 66-84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the left hemisphere, maximum frontocentral and frontotemporal more than occipital.
+At times sharply contoured slowing.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted.  If epilepsy is an important consideration, a more prolonged study is suggested.
+
+
+
+

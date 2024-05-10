@@ -1,0 +1,22 @@
+EEG REPORT
+Clinical HISTORY: 56 year old woman with hepatic failure, alcohol abuse, hepatitis
+C, hypothyroidism, encephalopathy.
+MEDICATIONS: Synthroid, Ativan, Midodrine, Albumin, Lorazepam, Pantoprazole,
+Mycamine, rifaximin, Lasix, Solumedrol, Norepinephrine
+INTRODUCTION: Digital video EEG was performed at bedside in using standard 10-20
+system of electrode placement with 1 channel EKG. The patient is intubated and
+described as easily agitated.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a relatively
+low voltage mixed frequency pattern with generous beta, slow delta, and smaller
+amounts of rhythmic 6.3 Hz activity. The delta activity is 0.5 to 1 Hz. In this bedside
+recording, there is a bit of head-rocking artifact but no definitive slowing in the right
+occipital region.
+HR: 90bpm
+IMPRESSION: Abnormal EEG due to:
+I. Marked background slowing.
+2. Mixed frequency background with intermittent generous beta and some rhythmic
+theta.
+CLINICAL CORRELATION: No epileptiform features are observed. This EEG is
+compatible with pharmacologic sedation and an underlying metabolic pattern although it
+is a nonspecific pattern.
+

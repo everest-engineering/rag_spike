@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 22 year old right handed female with childhood epilepsy with recurrent seizure 2-3 weeks ago with loss of consciousness.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrodes placement with 1 channel of EKG.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz alpha rhythm with generous 14 Hz beta activity. As the patient becomes drowsy there is some hypersynchronous rhythmic slowing and wicket activity. Central mu is noted, but testing is not performed. The patient seems to be anxious and she is tremulous, moving her around, blinking her face, or bobbing her head during hyperventilation and photic stimulation. This produces some motor artifact. No epileptiform activity is seen during these techniques and the patient remains interactive with the technologist. The background is sharply contoured in the transition to sleep with wicket, but no definitive epileptiform activity.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+CLINICAL CORRELATION: The excess beta may be due to medications, not listed, or restored medications to which this patient was recently exposed to. She has multiple normal variants, including mu and wicket, but no pathologic features. If further characterization of her epilepsy is important, a more prolonged study with sleep is suggested. She was very uncomfortable during photic stimulation, but no epileptiform activity was seen, although she found the experience unpleasant.
+
+
+
+

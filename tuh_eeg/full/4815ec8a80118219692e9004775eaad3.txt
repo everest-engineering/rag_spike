@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 90-year-old male with confusion, change in mental status, and some sort of thrombosis in the neck.
+MEDICATIONS:  Thiamine, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were deferred.  The patient had difficulty cooperating with the test.  It is primarily awake study.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous, low-voltage pattern with generous fast activity and muscle activity.  The patient is moving around to the point that is actually difficult to see the EKG lead, but heart rate 90 to 100 bpm irregular.
+IMPRESSION:  Technically very challenging, but abnormal EEG due to:
+Low voltage pattern without the typical morphologies of an awakened adult.
+CLINICAL CORRELATION:  No epileptiform features were identified.  These findings may be correlated with imaging and clinical history.  If seizures are an important consideration, a follow up study when the patient is more cooperative suggested.
+
+
+
+
+

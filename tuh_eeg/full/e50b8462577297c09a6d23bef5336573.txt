@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 56-year-old woman with CNS neoplasm.
+MEDICATIONS: Propofol and other anesthetics.
+INTRODUCTION: Corticography is performed in the OR using a digital EEG machine.   A 6 channel strip is placed on the cortex of the left hemisphere, anterior to the lesion. The most anterior contact, lead 1, is anterior and lead 4 is the most posterior contact. Channels 5 and 6 are utilized for ground and reference.  During the procedure, the SSEP equipment is used and it cycles through.
+DESCRIPTION OF THE RECORD: The background EEG is somewhat suppressed and includes a low voltage beta pattern.  When the SSEP equipment cycles, a somatosensory evoked potential can be identified.  This is a high amplitude wave form that is picked up in all channels, sometimes most prominently in contacts 2 and 3 and at other times identically throughout.
+HR:  N/A.
+IMPRESSION/CLINICAL CORRELATION: Intra-operative corticography identified elicitable somatosensory evoked potentials.  This was a very limited study with only six channels and brief duration of recording.
+
+
+
+

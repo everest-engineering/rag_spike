@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 24-year-old right handed bone marrow recipient with 2 episodes of shaking attributed to medications. One episodes was associated with loss of consciousness. This is an outpatient EEG.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.3 hertz alpha rhythm with a small amount of background disorganization and rare bursts of shifting slowing. Features of drowsiness include an increase in background slowing with some bursts of paroxysmal slowing. Photic stimulation does not activate the record. Heart rate is 60
+BPM.
+IMPRESSION:
+1. 	Mildly abnormal EEG for an adult of this age due to mild background slowing.
+2. 	Occasional shifting slowing.
+CLINICAL CORRELATION: No epileptiform features were observed. Careful clinical history is appropriate given the clinical history described above a CNS acting medication could produce the slowing observed.
+
+
+

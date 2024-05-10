@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 66 year old left handed woman status post craniectomy for right ACA aneurysm in 2002, right hemispheric stroke in 1998, left hemiparesis, admitted with simple partial seizures and Todd paralysis versus recurrent stroke.
+MEDICATIONS: Coumadin, Clonidine, Keppra, Neurontin, Norvasc, Lisinopril, Hydralazine, Digoxin, Protonix, Metoprolol, Rosuvastatin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was noted to have a prominent craniotomy deformity.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates an intrahemispheric asymmetry.  The activity from the left hemisphere is relatively well organized and there is an alpha rhythm reaching 9 Hz.  The alpha rhythm is a little slower on the right.  In addition, a centrally continuous focal slowing is noted in the right hemisphere with disruption of faster frequency activity and the presence of some theta and delta.  There is a great deal of EKG artifact and the patient has an irregular heart rate and there is a single right, T2 sharp wave noted in the background.  Features of drowsiness include an increase in slowing particularly on the right.  Deeper stages of sleep were not achieved.
+HR:    78 bpm and irregular.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing on the right with disruption of faster frequency activity and the presence of slower activity.
+CLINICAL CORRELATION:  This EEG supports a structural abnormality on the right affecting both gray and white matter, congruent with the imaging.  There was only a single sharp wave noted.  If this patient is thought to have ongoing simple partial seizures, EEG monitoring may be valuable.
+
+
+

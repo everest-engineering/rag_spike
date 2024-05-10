@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 35 year old right handed male with epilepsy, now seizure-free after treatment for hypertension.
+MEDICATIONS: Topamax.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed. This is a 1 hour sleep-deprived record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz posterior dominant rhythm with a small amount of low voltage frontocentral beta activity. Hyperventilation is performed early in the record and faster frequency activity is disrupted in the right before the left. In addition, in the transition to drowsiness, faster frequency activity also drops out on the right compared to the left. There is rare isolated focal slowing in the right temporal region. In addition, there is some artifact almost always seen with the EKG but there is a suggestion of a right temporal sharp wave. However, only on one occasion can a sharp wave be identified in the right frontotemporal region, independently of the EKG artifact. Photic stimulation elicits scant driving.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Very subtle focal slowing characterized by disruption of faster frequency activity and rare focal delta.
+CLINICAL CORRELATION: With the single right temporal sharp wave and the focal slowing, a localization-related mechanism for epilepsy should be considered.
+
+
+
+

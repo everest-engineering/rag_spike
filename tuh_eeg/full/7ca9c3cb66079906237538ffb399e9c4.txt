@@ -1,0 +1,35 @@
+History:	51 year old man status post anoxic brain injury.
+Medications:	Versed, Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 18 hours from 3/15/2015 till 3/16/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Early in the recording, the background is burst-supp pressed.  As
+the recording progresses, the background becomes continuous.  Bursts contain a mixture of
+frequencies at variable amplitudes.  Notably, they contain generalized occipitally predominant
+epileptiform discharges.  Each burst is associated with eye opening that lasts the duration of the
+burst.  As the recording progresses and individual bursts disappear, episodes of eye opening stop as
+well.  By the end of the recording the background consists of ~ 2 Hz GPEDs.  No normal sleep
+There is no reactivity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+PEDs (periodic epileptiform discharges) generalized, 2 Hz by the end of the recording
+Burst-suppression pattern
+Interpretation:
+This is an ABNORMAL continuous 18-hour continuous EEG due to presence of up to 2 Hz GPEDs
+seen by the end of the recording, burst suppression and lack of reactivity. These findings indicate
+marked diffuse cerebral cortical dysfunction with increased cortical irritability.  These findings were
+conveyed to the neurology consult team.
+
+
+
+
+
+

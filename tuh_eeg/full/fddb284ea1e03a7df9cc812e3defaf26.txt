@@ -1,0 +1,10 @@
+CLINICAL HISTORY:    38 year old woman with a 5 year history of refractory epilepsy. MEDICATIONS:  Keppra, Tegretol, Vitamin D.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 9.5 hertz, 50 microvolt posterior dominant rhythm. There was a small amount of low voltage, frontocentral beta activity. Central mu rhythm is identified, but testing is not performed to confirm this. Features of drowsiness include anterior spread of alpha rhythm. Deeper stages of sleep are not achieved. Hyperventilation produces rhythmic 3-5 hertz activity initially in the left temporal region and then some bilaterally. Photic stimulation does not activate the record.
+HR:   78  bpm
+IMPRESSION:  Abnormal EEG due to:
+1. TIRDA from the left temporal region elicited in hyperventilation.
+CLINICAL CORRELATION: There are no sharp waves or spikes in this EEG. The features described in hyperventilation can be seen in temporal lobe epilepsy as well as other pathologies. To more completely characterize this patient's epilepsy, a followup study capturing deeper stages of sleep or a sleep deprived EEG is suggested.
+
+
+

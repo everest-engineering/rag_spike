@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 48-year-old, migraine headache, radiculopathy, idiopathic generalized epilepsy.  Seizures characterized by feeling of odd followed by loss of consciousness, then tonic-clonic seizure with tongue biting and incontinence, seizure free for 1 year.  Seizures began in 2006.
+MEDICATIONS:  Topamax, Flexeril, Ambien, Zoloft, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  Exhaustive, clinical testing was performed by the tester in the EEG.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, there is a 10 Hz alpha rhythm which is symmetric and reactive to eye opening.  In relaxed wakefulness, the patient demonstrates frontally predominant high amplitude 3-6 Hz spike and wave activity with some polyspike activity.  This may occur as isolated discharges or brief bursts, but most bursts last less than 2 seconds in duration.  Hyperventilation appears to accentuate these bursts with some of the bursts lasting up to 3 seconds with a clear polyspike component.  All the bursts are frontally predominant, most are symmetric, some are a little bit more on the left than the right.
+The bursts seem to increase as the patient starts to transition towards sleep.  The technologist interacts with the patient consistently to determine if the patient has impairment of awareness.  On some occasions with some bursts, the patient does seem to stop activities such as counting or hyperventilating, but not all and that behavior can be seen with brief bursts lasting less than 2 seconds, but at other times not with longer bursts.  The technologist and the patient also struggle with a language barrier in terms of the comprehensive testing.  The polyspike activity comes out as the patient transitions towards sleep.
+Photic stimulation elicits a driving response, but also seems to accentuate the photoparoxysmal activity.  In addition, supraharmonic driving is observed at 9 Hz.
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Frontally predominant 3-6 Hz spike and wave activity.
+Polyspike and wave activity.
+Spike and wave activity accentuated by hyperventilation and photic stimulation.
+Probable impairment of awareness compatible with subtle absence seizure during the EEG.
+CLINICAL CORRELATION:  This EEG is a vigorous example an idiopathic epilepsy.  Previous studies were not available for comparison.  Careful review of this patient's history is suggested to make certain that subtle seizures are not overlooked.
+
+
+

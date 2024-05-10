@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 29-year-old woman with recurrent suicide attempts, cocaine and Xanax addiction.  Seizures in 2012; recurring in 2014, characterized by lightheadedness, a feeling of warmth, tingling, loss of consciousness, and tonic-clonic activity.  Restless legs syndrome.
+MEDICATIONS:  Neurontin, Seroquel, methadone, Celexa, BuSpar, and others.
+INTRODUCTION:  A 26-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a technically satisfactory EEG with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm, but much of the waking record, the patient seems to be slightly drowsy with excess beta and prominent background theta.  In addition, in relaxed wakefulness, there is a subtle asymmetry noted with more theta noted in the left hemisphere compared to the right and occasional, isolated higher amplitude slow waves in the left occipital region.
+Hyperventilation was performed early in the record, accentuating an occipitally predominant rhythmic mixed theta-delta.  Following hyperventilation as the patient becomes drowsy, there is prominent theta.  POSTS are asymmetric, more prominent in the left compared to the right.  In addition, there are subtle underlying left occipital sharp waves.  Photic stimulation did elicit a driving response, which was more vigorous on the left.
+Notable in this records were left occipital spike and slow wave complexes ranging from 2-5 Hz.  A brief train of these can be seen after hyperventilation as the patient drifts off to drowsiness.  Additionally, hyperventilation itself produces some asynchronous bursts of slowing, but without a clear defined spike and wave complex.  In stage 2 sleep, there appeared to be underlying vertex spikes.  Occasionally, the vertex waves themselves are asynchronous.
+Heart rate 78 bpm.
+IMPRESSION:  This is a complex and abnormal EEG due to:
+Spike and slow wave activity, best defined is an occipital spike and slow wave discharge.  Though there may be subtle, underlying frontally predominant spike and wave activity, not well defined.
+Asynchronous bursts of slowing in hyperventilation and drowsiness without definitive spike and wave.
+Vertex spikes, asynchronous in stage 2 sleep.
+Excess theta.
+Focal features with superimposed slowing on the left.
+CLINICAL CORRELATION:  This complex EEG may represent a localization related mechanism for epilepsy or a generalized mechanism for epilepsy with an asymmetric background.  Correlation with imaging and clinical features is recommended.
+
+
+

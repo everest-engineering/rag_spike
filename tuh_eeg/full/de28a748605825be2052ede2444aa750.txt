@@ -1,0 +1,27 @@
+History:	43 YR MALE S/P ROBOTIC MITRAL VALVE REPLACEMENT 12/12.  PT
+AGITATED, DELIRIUM AT TIMES. PMHX: HTN, AFIB, ESRD.
+Medications:	SEROQUEL, DARBEPOETIN, DILAUDID
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, asleep
+Description:
+Technically difficult due to muscle artifact. No posterior dominant rhythm was present.  Background
+activity was characterized by diffuse low voltage delta and theta activity with absence of the
+expected anterior to posterior gradient of frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR: 102
+Summary of Findings:
+Technically limited
+Diffuse slowing, polymorphic, continuous, marked, bilateral
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing.  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  Consider repeating
+the study when cooperative.
+
+
+
+
+
+

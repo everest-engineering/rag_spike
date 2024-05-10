@@ -1,0 +1,27 @@
+History:	55 year old woman with a history of seizures since childhood and prior strokes.
+Patient woke up confused.
+Medications:	Ativan, benadryl
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+The posterior dominant rhythm is very unstable and fragmented at ~ 8-10 Hz polymorphic activity.
+AP gradient is weak.  Diffuse excess theta activity and frequent busts of diffuse frontally
+predominant rhythmic delta activity (FIRDA) are captured.  Patient remains awake throughout the
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+FIRDA (frontal intermittent rhythmic delta activity), frequent
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake-only 23-minute EEG due to mild-to-moderate diffuse slowing. This
+finding is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.  FIRDA (frontal intermittent rhythmic delta activity) could be seen in encephalopathy,
+increased ICP, bilateral deep white matter lesions.
+
+
+
+
+

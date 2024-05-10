@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 23-year-old male found unresponsive, intubated, now with myoclonic activity consent for status epilepticus.  Has no brainstem reflexes at this time, but slightly overbreathing the vent.
+MEDICATIONS:  Norepinephrine, vasopressin, pantoprazole, dopamine, Keppra, vancomycin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10/20 system of electrode placement with 1-channel EKG.  The patient was captured during deep coma.
+DESCRIPTION OF THE RECORD:  In the comatose state, there is presence of diffuse slowing and attenuated of background activity with no spontaneous variability or stimulation reactivity throughout the recording.  Heart rate was 120 to 130.  There was no epileptiform activities noted during this recording.  There are EKG artifact noted during this recording.
+IMPRESSION:  This is an abnormal EEG recording capturing the patient in a comatose, unresponsive state due to diffuse slowing and attenuated background activity with no spontaneous variability or stimulation reactivity.
+CLINICAL CORRELATION:  The above findings could be due to CVA, toxic, metabolic, anoxic, or infectious encephalopathy or it could also be due to the effect of sedating medications.  Clinical correlation is recommended.
+
+
+

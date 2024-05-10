@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 49 year old right handed woman with hypertension, stroke, diabetes, and epilepsy, seizure free for the last 2 years.
+MEDICATIONS:  Metformin, Neurontin, Glipizide, Hydrochlorot, Plavix, Metoprolol, Clonidine, Lisinopril, Pravastatin, Carbamazepine, Paxil, Wellbutrin, Hydroxyzine, Lantus.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a prominent interhemispheric asymmetry.  The EEG was reasonably well organized from the left hemisphere with an alpha rhythm of 9.2 Hz, but there is excess of 7 and 8 Hz activity.  A very small degree of disorganization on the left.  In contrast the right hemisphere is characterized by a disruption of faster frequency activity, particularly disruption of alpha rhythm.
+There is sharply contoured delta at T4. Features of drowsiness include FIRDA.  Some sections of the record demonstrate sharp waves at T4 and T2.  Drowsiness accentuates the asymmetry.  Hypersynchronous rhythmic slowing appears in drowsiness.  In addition, there is a sharp wave maximum at T4, but with a generous posterior temporal field.  In an average reference this transitions more to an anterior temporal sharp wave, which is nearly isoelectric at T2 and F8. Photic stimulation does not activate the record.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background disorganization.
+Superimposed focal features from the right hemisphere, including an increase in slow activity, as well as disruption of faster frequency activity.
+Sharp waves in the right hemisphere which are picked up more in an anterotemporal location with an average reference with a generous field of spread central temporally and posteriorly, particularly in drowsiness.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance, but more considerably involves the right hemisphere, including both gray and white matter.  The sharp waves suggest an ongoing potential for seizures.
+
+
+

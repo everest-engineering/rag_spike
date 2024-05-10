@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 60-year-old female with past medical history significant for hypertension, coronary artery disease, HIV, left carotid artery endarterectomy.  She presents to the hospital having visual and auditory hallucinations.
+MEDICATIONS:  Glipizide, metformin, Cymbalta, Plavix, HIV medications.
+INTRODUCTION:  The recording was performed according to the standard 10/20 system with addition of T1 and T2 electrode and a single EKG leads.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 9-10 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity, which is distributed symmetrically.  A stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact, as well as the presence of vertex sharp waves and posts.  Photic stimulation was performed at multiple flash frequencies and results in no driving response.  Heart rate was 80 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 1 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy or of intermittent seizures.  If seizures are a clinical concern, a repeat EEG capturing deeper stages of sleep or a long-term EEG monitoring may be helpful.
+
+
+

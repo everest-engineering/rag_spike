@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 59 year old gentleman with upper GI bleed, change in mental status with right-sided ischemic stroke, liver failure, alcohol abuse and aortic stenosis, aortic stent.
+MEDICATIONS:  Pantoprazole, Octreotide, Ceftriaxone, Protonix, Phytonadione, Thiamine, Metoclopramide, Spironolactone, Rifaximin, Albuterol, Ipratropium, Dexamethasone, Versed, Fentanyl
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The patient background EEG is slow with a mixture of theta and delta.  Stimulation of the patient produces no significant change in the background EEG, although there is some spontaneous variability in that some sections of the record demonstrate more theta and others more delta.  Head rocking artifact and other ICU artifacts are observed.
+HR:    102 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Occasional shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The features described above are nonspecific.  They can be seen in a diffuse disorder of cerebral
+function.  No epileptiform features were seen.  Although there was little in the way of reactivity, there was clear variability noted.
+
+
+

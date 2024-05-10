@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 46 year old right handed male with seizure versus syncope versus hypoglycemic attack.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, symmetric reactive alpha rhythm. The patient quickly becomes drowsy and when he does so rhythmic slowing of the alpha rhythm is noted. Hyperventilation also produces a small amount of background slowing. Photic stimulation elicits driving, but then the patient drifts off into sleep with theta in the background.
+HR: 90 bpm
+IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No epileptiform features were identified. The previous EEG was not noted.
+
+
+

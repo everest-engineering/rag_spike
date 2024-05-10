@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 26-year-old male, status post admission on 8th with status epilepticus, and the patient had a respiratory arrest at 6:30 a.m. and is now on the hypothermic protocol.
+MEDICATIONS:  Ativan, Levophed, epinephrine, norepinephrine, amiodarone, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  This recording is a routine, bedside ICU 20-minute record for a comatose, hypotensive patient.  The patient's body temperature was 30 degrees.  The technologist works with some ICU artifacts during the EEG.
+DESCRIPTION OF THE RECORD:  The EEG pattern obtained as low voltage, featureless.  There is very little definitive activity, and some of the lower voltage faster frequency activity and slow activity identified may in fact be artifactual.  Tactile stimulation of the patient did not activate the record.  There was no variability.
+Heart rate 66 bpm.
+IMPRESSION:  This 20-minute EEG, recorded at 11:40 a.m., 5 hours after the patient presented status post prolonged anoxic insult demonstrates a marked paucity of cerebral activity.  This patient's overall body temperature may play a role, but despite this, this EEG is quite worrisome in terms of the potential for anoxic injury.  Additional EEG recording through the hypothermic treatment and the re-warming process was initiated.
+
+
+

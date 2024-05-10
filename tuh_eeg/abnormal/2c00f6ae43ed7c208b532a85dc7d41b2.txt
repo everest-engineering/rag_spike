@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  18 year old right handed female syncopal spell lasting 25 seconds.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and a sleep record in very drowsy individual.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 11 Hz alpha rhythm, exceeding 70 mV with posterior slow waves of youth.  In drowsiness there is hypersynchronous rhythmic higher amplitude theta frequency activity “hypnogogic”, “hypersynchrony”.  There were 1 or 2 points of head rocking artifact and there were 1-2 bursts which are slightly asynchronous. Hyperventilation produces hypersynchronous rhythmic high amplitude, somewhat sharply contoured theta frequency activity, but no definitive spike and wave activity. The patient transitions in and out of stage II sleep with vertex waves and spindles.  Other features of drowsiness include the hypersynchronous rhythmic theta.
+Photic stimulation elicits vigorous driving with harmonic and supraharmonic driving.
+HR:    66 bpm
+IMPRESSION:  This EEG demonstrates multiple normal variants for a young adult.
+CLINICAL CORRELATION:  There was no definitive spike and wave activity, although hyperventilation did produce some rhythmic high amplitude theta.  There were a handful of slightly asynchronous bursts as the patient transitions to drowsiness.  If absence seizures are an important consideration, a repeat fasting EEG, perhaps with a second hyperventilation session maybe helpful.
+
+
+

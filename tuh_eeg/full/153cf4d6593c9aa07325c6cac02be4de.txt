@@ -1,0 +1,31 @@
+History:	60YR FEMALE WITH PMHX   OF MENINGIOMA RESPECT 2009. PT STILL WITH
+SAME EPISODES AS FEELING ELECTRIC SHOCK IN BODY HAS IT WHEN
+ELECTRICAL STORM, ANXIETY.  YESTERDAY LAST TIME.  ALSO STILL
+VERTIGO, HEADACHES
+Medications:	Topamax, Antivert, Celexa, Elavil, Toprol
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Excessive diffuse  5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions. This can be seen with a higher amplitude over the left temporal region.
+During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely,
+followed by symmetric vertex waves.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear. There is also higher
+amplitude in the sleep activity on the left consistent with a breach.
+Continuous polymorphic delta activity is present in the left temporal region during wakefulness,
+increasing during drowsiness. There is increased beta and higher amplitude on the left consistent
+with a breach rhythm.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  HR
+50  In the beginning of the record there was continuous muscle artifact at T3.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left temporal
+Breach artifact, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+left temporal region.  This finding is indicative of a focal structural lesion in this region and the
+known meningioma resection.
+

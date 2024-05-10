@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 49-year-old right-handed woman with epilepsy, seizure free for the last 15 years.  The patient currently with a plan for carbamazepine reduction in the anticipation of gastric bypass surgery.
+MEDICATIONS:  Carbamazepine.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is an awake and drowsy record. It is technically acceptable.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta.  There is also a small amount of background theta.
+Much of this record captures early drowsiness with a transition between wakefulness and early drowsiness.  In this state, there are bursts of shifting, somewhat irregular theta and delta noted from right or left temporal region.  Some of this is sharply contoured.
+In addition, there is EKG artifact picked up at T1 or T2 and some wicket, which can be seen in the drowsy state.  Despite the presence of the sharply contoured bursts of slowing, there are no definitive sharp waves or spikes.  Deeper stages of sleep were not sustained.
+Photic stimulation did not activate the record.
+Heart rate:  66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excess background theta.
+Bursts of irregular mixed theta-delta seen primarily in drowsiness from the right or left temporal region, sometimes sharply contoured.
+CLINICAL CORRELATION:  No definitive epileptiform discharges were identified.  The background theta can be due to this patient's medications.  The bursts of irregular slowing may be correlated with imaging
+and/or history.  If additional information is needed, a more prolonged study capturing deeper stages of sleep, in hopes of identifying epileptiform activity, may be of value.
+
+
+
+

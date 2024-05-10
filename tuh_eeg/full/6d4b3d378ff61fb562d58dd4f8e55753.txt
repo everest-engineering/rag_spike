@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 55-year-old male with epilepsy since 2003, mostly nocturnal seizures.  Alopecia and vitiligo.
+MEDICATIONS: Keppra
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This patient seems to be very anxious with frequent eye blinking in the initial sections of the record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz soft rhythm with a small amount of low voltage frontocentral beta.  Hyperventilation is performed early in the record when the patient is still very nervous with eye blinking and produces an increase in amplitude as well as some slowing.  As the patient becomes drowsy, following hyperventilation, there is a subtle asymmetry with a bit of focal slowing the right hemisphere and then the patient alerts with frequent blinking which seems to obscure this.  Later, as the patient is transitioning in and out of sleep, there is a subtle asymmetry again with a bit more faster frequency activity on the left compared to the right.  Wicket was also noted, more so on the left than the right.  There are rare sharp transients noted in the record but without after going slow waves as would be expected in epileptiform sharp waves.
+Photic stimulation elicits a driving response bilaterally at faster flash frequencies.
+Heart rate 78 BMP.
+IMPRESSION:  This is a subtly abnormal EEG due to focal slowing noted in the transition into drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This patient seemed to be very anxious with frequent eye blink, artifact in wakefulness.  To more definitively evaluated the subtle focal features in the transition to drowsiness as well as the potential for epileptiform activity, a more prolonged study capturing sleep is suggested.
+
+
+

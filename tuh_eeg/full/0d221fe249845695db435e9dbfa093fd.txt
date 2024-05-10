@@ -1,0 +1,31 @@
+History:	31 year old man with a history of seizures, now presents with increase in his seizure-
+frequency.
+Medications:	Dilantin, phenobarbital and Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+During drowsiness, patient has 2 brief (~4.5 seconds each) runs consisting of rhythmic right anterior
+temporal delta activity and 1-2 Hz low amplitude right anterior temporal sharp waves (maximal
+scalp negativity occurs over T2 lead).
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Sharp waves, right temporal, anterior, 2 brief runs of rhythmic sharps
+TIRDA (temporal intermittent rhythmic delta activity), right temporal, anterior, during drowsiness
+Interpretation:
+This is an ABNORMAL awake and drowsy 22-minute EEG due to 2 brief (~4.5 seconds) runs of right
+anterior rhythmic delta activity with embedded 1-2 Hz low amplitude epileptiform discharges. These
+findings are indicative of a potentially epileptogenic focal structural lesion in the right anterior
+temporal region.
+
+
+
+
+
+

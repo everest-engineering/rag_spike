@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 50 year old ambidextrous woman with lupus, epilepsy, poor medication
+adherence.
+MEDICATIONS: Trileptal.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of
+electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are
+performed.
+DESCRIPTION OF THE RECORD: The background EEG includes a 10Hz alpha rhythm with
+central Mu rhythm identified, although testing Is not performed to confirm this. The patient seems to transition into drowsiness and as she does, there Is sharply contoured rhythmic, 5 Hz theta frequency activity which can be seen in the right or left temporal regions. There is also some irregular activity superimposed In these bursts. Hyperventilation is performed early on in the record also seeming to increase these bursts, some of which are asynchronous. Those from the right raise suspicions about an underlying rig ht temporal sharp wave and at the end of the hyperventilation period, a more clearly defined, right anterior temporal spike complex is noted In one of these bursts. This is maximum at F8 and A2. Features of drowsiness include vertex waves. In the transition to sleep, spike activity is seen on the right with some discharges at F8 but some that follow a vertex wave seem to be maximum at 02. Photic stimulation Is performed while the patient is drifting in and out of sleep. There Is a scant driving response.
+HR: 78bpm
+IMPRESSION: Abnormal EEG due to:
+1. Irregular bursts of paroxysmal theta which likely accompany some underlying normal variance.
+2. More clearly defined right temporal sharp waves.
+3. Occasional bursts of sharply contoured slowing from the left
+CLINICAL CORRELATION: Epileptiform activity has previously been identified for this patient although on the left and not the right. In addition, the paroxysmal features described above have also been noted in the past.
+
+

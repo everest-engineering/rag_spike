@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 59 year old right handed male with recurrent hemangioblastoma status post frontal craniotomy. Status post suboccipital craniotomy for evaluation of cerebellar mass.
+MEDICATIONS: Gentamicin, Seroquel, Acetaminophen, CEFEPIME, Lovenox, Famotidine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG includes a pattern with some 10 hertz activity items particularly in the central region. There is a suggestion of a slower, 5-6 hertz alpha rhythm. There are bursts of frontally predominant paroxysmal 2-3 delta activity. In relaxed wakefulness, there is prominent beta activity and more theta frequency activity which is slightly slower in the left frontocentral region than the right. There is a bit more beta accentuation on the right which may be related the craniotomy defect.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta.
+2. Background disorganization.
+3. FIRDA.
+CLINICAL CORRELATION: No epileptiform features are observed. These findings may be correlated with this patient's imaging. The FIRDA is a nonspecific finding. If epilepsy is an important consideration, a followup study may be considered. The breach rhythm is a normal finding following craniotomy.
+
+
+

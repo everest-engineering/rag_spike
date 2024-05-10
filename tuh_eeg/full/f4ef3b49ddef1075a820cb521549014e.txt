@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 41 -year-old male with seizures, most recent seizure 3 days ago; the patient fell, hit his head and had lacerations in the left frontal region.
+MEDICATIONS:  Phenobarbital and phenytoin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Generous background beta was noted.  In addition, there is rhythmic beta noted in the frontal regions with some shifting asymmetries.
+Hyperventilation was performed early on in the record and seems to accentuate the shifting asymmetries with perhaps a bit more right midtemporal and frontocentral focal slowing noted in hyperventilation.  Head rocking artifact was noted.  Following hyperventilation, the patient drifts into stage 1 sleep with vertex waves.  As the patient drifts into sleep, there is some artifact but again there is just a bit more focal slowing on the right compared to the left.  There is also beta asymmetry noted at times with a bit more beta on the right compared to the left.
+Photic stimulation elicited a scant, bilateral driving response.
+Heart rate:  66 BPM.
+IMPRESSION:  This is abnormal EEG due to:
+Excess theta.
+Excess beta.
+Shifting temporal slowing, right more so than the left.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The shifting slowing, right greater than left may be correlated with imaging.  There was a beta asymmetry but no mention of a cranial defect.  Correlation with scalp and imaging may be helpful in this individual with a history of head trauma.
+
+
+

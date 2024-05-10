@@ -1,0 +1,30 @@
+History:	61 YO MALE - HYPOXIC BRAIN INJURY. PT WAS BEING WEANED FROM
+SEDATION AND HAD A SZ. EEG TO EVALUATE.
+Medications:	KEPPRA, ATIVAN, PROPOFOL (30), FENTANYL INJECTION, INSULIN
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+No posterior dominant rhythm was present. At the beginning of the record there is a diffuse burst
+suppression pattern. The bursts consist of  diffuse low voltage delta activity with absence of the
+expected anterior to posterior gradient of frequencies.  Later the background becomes more
+continuous.  No normal sleep architecture was present.
+No focal slowing is present.  During the record periodic generalized complex polyphasic sharp
+waves are present, with a repetition rate of 0.8 Hz. At the beginning of the record these are in
+infrequent and low amplitude.  By the end of the record these appear to have a myogenic artifact
+correlate. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 84
+Summary of Findings:
+PEDs (periodic epileptiform discharges), frequent generalized
+Diffuse slowing, polymorphic, continuous, severe diffuse
+Interpretation:
+This is an ABNORMAL 6.25 hour EEG because of frequent generalized periodic epileptiform
+discharges and severe  diffuse background slowing.  These findings are supportive of a severe
+diffuse cerebral dysfunction and irritability which in setting of hypoxia and in the absence of
+sedation carries a poor prognosis.
+
+
+
+

@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 75-year-old man who has a change in mental status.  The patient has been intubated since 06/28/2013.  He received Versed.  Since then Versed has been turned off but the patient is not waking up.
+MEDICATIONS:  Vancomycin, folic acid, multivitamin, vitamin C, Protonix, moxifloxacin.
+INTRODUCTION:  The recording is performed using standard 10-20 system with an additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  The background consists of periods of diffuse polymorphic delta activity mixed with periods of voltage attenuation and diffuse beta/fast activity.  No abnormal sleep architecture is captured, however, spindle-like bursts observed.  Hyperventilation and photic stimulation are not performed.  With stimulation faster frequencies observed.
+FINDINGS:
+Severe diffuse slowing.
+No epileptiform discharges.
+Intermittent periods of beta.
+IMPRESSION:  This is an abnormal 21-minute EEG due to severe diffuse slowing.  This finding indicates severe diffuse cerebral dysfunction that is etiologically nonspecific.  Beta could be secondary to the medication effect such as benzodiazepines or all barbiturates.  No electrographic seizures were captured.
+
+
+

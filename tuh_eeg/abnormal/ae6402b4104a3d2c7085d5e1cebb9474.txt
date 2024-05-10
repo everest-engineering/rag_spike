@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 20-year-old pregnant woman who presents with episodes of shortness of breath, dizziness, and loss of consciousness associated with body shaking.  It started 2-1/2 years ago.
+MEDICATIONS:  Prenatal vitamins.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10/20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness through a stage 2 sleep.  Activating procedures including photic stimulation was performed.  Hyperventilation was not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 10-11 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is diffuse low amplitude beta activity, which is distributed symmetrically.  A stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and POSTS.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate was 70 to 90 beats per minute.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 2 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+Clinical Correlation:  The generalized beta activity could be due to medication effect including benzodiazepine, barbiturates, or could be due to anxiety or hyperthyroidism. A normal EEG does not rule out the diagnosis of epilepsy.  If clinically indicated, a continuous bedside EEG monitoring may be considered.
+
+
+

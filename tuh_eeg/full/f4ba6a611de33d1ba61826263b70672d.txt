@@ -1,0 +1,14 @@
+LENGTH OF THE RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 59-year-old man with a history of seizures who presented intoxicated with a seizure.  The patient also has a left parietal scalp hematoma.
+MEDICATIONS:  Keppra, Ativan, Lovenox, and morphine.
+CONDITION OF THE RECORDING:  The recording is performed according to the standard 10/20 system with additional T1-T2 electrodes and a single EKG lead.  Hyperventilation was attempted. Photic stimulation was not performed.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORDING:  The background consists of low voltage fast activity in the beta frequency range.  There is no clear posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  There is no anterior to posterior frequency amplitude gradient.  During sleep, vertex waves and sleep spindles are observed.  Hyperventilation is attempted, but the patient was unable to stay asleep.  Stepped photic stimulation was not performed.
+FINDINGS:
+Nearly continuous diffuse beta.
+Stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and asleep 21 minute EEG due to the lack of a posterior dominant rhythm and organization.  This finding is consistent with diffuse delayed nonspecific background dysfunction, suspect that it is medication induced secondary to either benzodiazepines or barbiturates.  Excess beta could be secondary to medication effect such as benzodiazepines or barbiturates.  No epileptiform discharges were captured.
+
+
+

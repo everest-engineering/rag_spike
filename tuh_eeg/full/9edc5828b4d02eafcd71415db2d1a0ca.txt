@@ -1,0 +1,29 @@
+History:	81 YR MALE WITH  PMHX; OF CARDIAC CODE 6/13. CPR PERFORMED BY
+FAMILY (ALL IN MED FIELD) DOWN 10 MIN.  PT HAD SZ ALSO AT THIS TIME..
+PMHX: HTN, HIGH CHOLESTEROL, CVA 2012 LOSS PERIPHERAL VISION X 6MONTHS .
+NEURO EVAL (OUTSIDE HOSP EEG RESULTS IN CHART)
+Medications:	KEPPRA, AMLODIPINE, ASA, ZOCOR
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  The background reveals excess diffuse admixed 50-75 uV, 5-7Hz
+activity is present throughout the recording and increases during drowsiness.  During drowsiness, the
+background slows to central theta activity, frontal beta activity becomes more prominent, and the
+alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the bilateral midtemporal regions during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 84
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild, and slowing of  PDR
+Focal slowing, polymorphic, frequent, bilateral temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral
+mid temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific. In addition there is mild diffuse slowing and slowing of the posterior dominant rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+

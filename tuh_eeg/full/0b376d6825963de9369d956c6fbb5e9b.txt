@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  A 67-year-old woman with a 20-year history of epilepsy.  Seizures characterized by loss of consciousness with confusion but no incontinence.  Last seizure was August, when the patient was admitted to an outside hospital with a fall and loss of consciousness.
+
+MEDICATIONS:  Keppra, Carbatrol.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+
+DESCRIPTION OF THE RECORD:  This is a dynamic record.  Some sections of the record are better organized than others.  There is a 10 Hz alpha rhythm which is relatively high amplitude, 50 to 60 microvolts.  There is generous beta noted in the record.  There is also some background theta.  Shifting asymmetries are noted with intermittent irregular delta noted in the right or left temporal region.  This can be sharply contoured and can be present in the mid to posterior temporal regions.  Hyperventilation produces an increase in amplitude of the background and seems to accentuate some of the temporal slowing.  Drowsiness is characterized by an increase in beta and theta.
+
+Photic stimulation does not significantly activate the record.  Heart rate 72 bpm.
+
+IMPRESSION:  This is an abnormal EEG due to:
+1. An intermittently disorganized record in apparent wakefulness.
+2. Shifting slowing, typically in the temporal regions with significant variability in terms of the location of that temporal slowing.
+
+CLINICAL CORRELATION:  No definitive sharp waves or spikes were seen.  To more completely evaluate this patient's epilepsy, a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+
+

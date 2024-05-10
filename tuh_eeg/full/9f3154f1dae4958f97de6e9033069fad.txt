@@ -1,0 +1,40 @@
+History:	65 year old female with TBI and intracerebral hemorrhage.
+Medications:	levetiracetam, phenytoin
+Sedation:	None
+EEG Type:	Continuous (inpatient), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+There is intermittent focal slowing over the left hemisphere.  There are intermittent left fronto-
+temporal sharp waves.  The episodic left hemispheric delta has evolved into a more definitive
+pattern in which the there is rhythmic buildup of delta and evolution into clear sharp waves with a
+frequency of 1.5-2Hz. This pattern appears more to be an ictal pattern  consistent with left
+hemispheric electrographic seizures. These occur approximately every 10-20 minutes.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  There is no behavioral correlate to the electrographic seizures seen.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Seizure, frequent, left hemispheric
+Sharp waves, intermittent, left frontotemporal
+Focal slowing, polymorphic, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL 24 hour EEG because of diffuse background slowing and absent alpha
+rhythm as well as frequent electrographic seizures, left hemisphere slowing, and left frontotemporal
+sharp waves. These findings are consistent with frequent seizures emanating from a known structural
+lesion in the left hemisphere.  These findings were conveyed to the primary team.
+
+
+
+
+

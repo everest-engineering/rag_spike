@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 55 year old right handed woman with recurrent blackout spells, asthma, hepatitis-C, depression, anxiety, schizophrenia, bipolar disease.
+MEDICATIONS: Theo-Dur, Adderall, Albuterol, Atarax, Motrin, Neurontin, Xanax.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an unusual pattern. The activity is higher amplitude on the left compared to the right. There is an 8.8 Hz alpha rhythm. The patient rapidly transitions between wakefulness and stage II sleep. In this sharply contoured record, on rare occasion, there appears to be an underlying left temporal sharp wave, although these sharp waves are not identified during the sleep state. They do seem to occur with disruption of the background. Photic stimulation elicits scant driving.
+HR: 80 bpm
+IMPRESSION: This is an unusual and abnormal EEG due to:
+1. An amplitude asymmetry with higher amplitude activity on the left.
+2. Suspicious underlying left temporal sharp wave.
+3. Small degree of posterior slowing.
+CLINICAL CORRELATION: No underlying cranial abnormalities were seen to account for the amplitude asymmetry, therefore, imaging is advised. The left temporal sharp waves can be differentiated from the patient's sharply contoured background, but if there is any concern about seizures, a repeat study capturing prolonged stage II sleep is advised.
+
+
+

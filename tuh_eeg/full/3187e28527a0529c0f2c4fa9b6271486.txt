@@ -1,0 +1,40 @@
+History:	65 yo woman presenting from OSH for cardiac arrest. Down for 30+ minutes, found
+by family. Pt previously discharged from OSH for ?PNA vs CHF. PMH: Asthma, DM,
+CHF, HepC, HTN, CKD, Schizophrenia, Bipolar, Methadone abuse
+Medications:	Vecuronium 10, Fentanyl 25, Depakote 1800
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic, comatose
+Description:
+Background is disorganized and dynamic with bursts of paroxysmal synchronous and asynchronous
+high amplitude theta and delta. There is no posterior dominant rhythm present.  At times the
+background is discontinuous.  Diffuse triphasic waves are present throughout the record,
+predominately seen in the bilateral frontocentral regions.  No normal sleep architecture was present.
+Intermittent rhythmic sharply contoured focal slowing is seen in the left frontal region and at times
+appears to be bifrontal.  Occasional right frontotemporal sharp waves are present with phase
+reversal at F8-T4.  Occasional discharges with phase reversal at F3 are also present.  Involuntary
+rhythmic oral movements are seen associated with the paroxysmal high amplitude bursts, which
+stop during brief periods of attenuation during which the patient takes several deep breaths.
+Hyperventilation and photic stimulation were not performed.  Verbal and tactile stimulation of the
+patient did not activate the record.  Muscle artifact is eliminated after vecuronium is administered.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous diffuse
+Triphasic waves, frequent diffuse, predominately frontocentral
+Discontinuous background, intermittent
+Sharp waves, frequent, right frontotemporal
+Disorganization, continuous
+Interpretation:
+This is a very ABNORMAL EEG because of frequent frontocentral triphasic waves and severe diffuse
+background slowing and disorganization. These findings are indicative of a severe diffuse
+encephalopathy, which is suggestive of a metabolic origin. Anoxic injury can produce a similar
+pattern.  There are also frequent right frontotemporal sharp waves and bifrontal rhythmic sharply
+contoured focal slowing. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.  The paroxysmal bursts with associated involuntary movements is not
+clearly an ictal pattern and may represent myoclonic discharges in the setting of cardiac arrest and
+anoxic brain injury.  Longterm EEG monitoring will follow on October 8.  
+HR: 120
+
+
+
+

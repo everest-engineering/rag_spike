@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 33-year-old woman with intermittent left-sided numbness, vertigo, hypertension and sleep apnea.
+MEDICATIONS:  Meclizine, Cozaar, and Claritin.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable routine outpatient EEG with most impedances below 20 kilos Ohms.  The patient was quite drowsy.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta.  As the patient becomes drowsy, prominent temporal wicket was noted, left or right.  The patient was transitioning in and out of stage 2 sleep during photic stimulation with vertex waves, K-complexes, and spindles.  Despite this, there was a glimpse of a driving response elicited.
+Hyperventilation did not significantly activate the record.
+Heart rate 60-84 bpm.
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  Rhythmic mid temporal theta is a normal variant.  This individual demonstrates abundant discharges of this normal variant.  The prominent transitions in and out of stage 2 sleep may be associated with sleep deprivation, a common request prior to an EEG or an underlying sleep disorder.  No definitive epileptiform features were seen.
+__________________________
+
+
+
+
+

@@ -1,0 +1,9 @@
+
+CLINICAL HISTORY: 42 year old right handed male with a history of head injury, single tonic-clonic seizure with loss of consciousness, postictal confusion and incontinence.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This EEG is remarkable for continuous F8 and other artifacts throughout the EEG.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a very low voltage pattern. Stage I sleep includes vertex waves with vertex waves, POSTS and a few spindles in stage II sleep. Hyperventilation does not activate the record. Hyperventilation does not activate the record. Photic stimulation is performed although the patient is relatively drowsy. There is no discernible driving response.
+HR: 72 bpm
+IMPRESSION: Low voltage but relatively normal EEG in sleep.
+CLINICAL CORRELATION: Due to the F8 electrode artifact, this is an unsatisfactory study. The low voltage pattern in limited wakefulness is of unclear significance. No epileptiform features were seen but this EEG is not a complete evaluation.
+

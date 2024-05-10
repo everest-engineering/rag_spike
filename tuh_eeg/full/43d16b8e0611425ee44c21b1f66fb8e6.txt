@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 58-year-old woman with epilepsy since age 18.  Last grand mal seizure several months ago.
+MEDICATIONS:  Unknown
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and asleep record.
+Technical: There was no mention that this patient had an asymmetric cranium or asymmetric eye movements. There were a number of artifacts noted and there was an unacceptable impedance at SP2. There was also a fair amount of muscle artifact noted in the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized.  There is an alpha rhythm of 7-8 Hz.
+The record can be re-reviewed to eliminate the FP2 artifact but there still appears to be some focal slowing in the right frontal region.  As the patient becomes drowsy, there is again an appearance of some arrhythmic delta activity in the right hemisphere, a bit more prominent in the right frontal area.
+Photic stimulation did not significantly activate the record.
+Hyperventilation produces an increase in amplitude in the background.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized slow and disorganized record.
+Question right frontal focal slowing.
+CLINICAL CORRELATION:  Given the technical features described above, the focal findings described above are of unclear clinical significance.  A repeat tracing with careful attention to the impedance is appropriate.  In addition, it is possible that this patient has a craniotomy defect which may have contributed to the pattern described above but finding was not recorded in the technical section.
+
+
+

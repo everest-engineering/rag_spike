@@ -1,0 +1,15 @@
+TIME:  The EEG started at 10:45 a.m. and ended at 11:08 a.m.
+
+CLINICAL HISTORY:  She is a 33-year-old female with a history of cerebral palsy and autism.  She also has a diagnosis of epilepsy and her last seizure was in March of 2011.  The purpose of this EEG was to be a follow up EEG and has had recent increasing seizures to 10 to 15 seizures a day.  The patient was seen at an outside hospital on March 4, 2013.
+
+MEDICATIONS:  Olanzapine, zonisamide, ziprasidone and Bactrim.
+
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+
+DESCRIPTION OF THE RECORD:  As the record opens there is diffuse bihemispheric slowing in the 6-7 Hz theta range.  There is a fragmentary posterior dominant rhythm that at times attains 8-9 Hz, but at other times is disrupted by intervening theta activity.  There is excessive muscle artifact throughout the recording.  Brief stage 1 sleep is identified in which there is further slowing of the posterior dominant rhythm, decrease in behavior and movement activity and a decrease in eye blinks.  On several epochs throughout the recording there are brief 2 second bursts of what appear to be slow spike wave activity.  These are maximal over the central regions bilaterally.  In addition, there are intermittent sharp waves noted over the left frontal region and rarely over the left central region.  There were no electrographic or clinical seizures identified during the recording epoch.  Activation procedures were not performed. Heart rate varied from 60-80.
+
+IMPRESSION:  In summary, this is an abnormal EEG capturing wakefulness and drowsiness due to the appearance of bihemispheric slowing, as well as intermittent brief bursts of generalized low spike wave activity and rare sharp waves in the frontotemporal and frontocentral regions.  The presence of diffuse slowing and bursts of slow spike wave activity may be seen in Lennox-Gastaut syndrome as well as in secondary generalized epilepsy syndromes.  The presence of focal sharp waves in the left frontal and frontocentral region may suggest a structural brain lesion in this region that has epileptiform potential.
+
+
+
+

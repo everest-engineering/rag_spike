@@ -1,0 +1,32 @@
+History:	46 year old woman status post severe SAH, now with plan to start pentobarbital drip
+to control high ICPs.
+Medications:	Propofol, versed, Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours from 4/23/2015 till 4/24/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Early in the recording the background consists of low amplitude
+diffuse beta activity and moderate amplitude scant theta activity admixed with periods of
+discontinuity.  As the recording progresses, frank burst-suppression is captured  with periods of
+suppression increasing as the recording progresses.  No normal sleep architecture or reactivity are
+Summary of Findings:
+Burst-suppression pattern
+Diffuse slowing, polymorphic, continuous, marked
+No reactivity
+Interpretation:
+This is an ABNORMAL continuous ~15-hour video EEG due to marked background slowing that
+increases to burst-suppression pattern as the recording progresses. These findings indicate severe
+diffuse cerebral dysfunction and, in the absence of escalation in general anesthetics doses, indicate
+worsening cerebral dysfunction.  These findings were conveyed to the primary team.
+
+
+
+
+

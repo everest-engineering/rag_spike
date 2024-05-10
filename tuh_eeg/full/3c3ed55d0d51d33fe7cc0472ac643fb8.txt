@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 49 -year-old woman with a history of seizures for the last several years, who is currently admitted for the presurgical evaluation.
+MEDICATIONS:  Current medications include Vimpat off, Lyrica 150 mg in the morning and 75 mg in the evening, Seroquel.
+INTRODUCTION:  Condition of the recording:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  Medical staff notes and nursing notes were reviewed.  The patient was equipped with event button.  The study was reviewed intermittently throughout the 24 hour recording.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated 10 to 11 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, symmetrical sleep spindles, vertex waves, slow wave sleep,  K-complexes and several epochs of REM sleep are captured.  There is occasional polymorphic theta and delta activity observed over the left temporal region.  Additionally, somewhat monomorphic theta is observed intermittently over the left temporal region.  This activity does not evolve.  This activity is not present during sleep.
+FINDINGS:  Occasional mild left temporal slowing.
+Intermittent periods of monomorphic theta runs over the left temporal region that are present only over the left temporal region.
+No events or seizures.
+IMPRESSION:  This is an abnormal 21 hour continuous audio video EEG monitoring due to occasional mild left temporal slowing.  This finding indicates focal cerebral dysfunction, likely structural in etiology.  Runs of monomorphic theta observed over the left temporal region during sleep of unclear clinical significance since they disappear as the patient falls asleep.  This left temporal monomorphic theta has been present since the beginning of the monitoring.  No electrographic seizures or events occurred.
+
+
+

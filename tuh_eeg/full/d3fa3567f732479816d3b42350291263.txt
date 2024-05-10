@@ -1,0 +1,57 @@
+﻿History: 35 year old woman with possible seizures since March 2015. Has two type staring and T-C. They have remained despite Tegretol and recently worsened. She was admitted to the EMU for differential.
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+The patient is having medically uncontrolled seizures or clinical events, which poses a significant mortality and morbidity risk. Continuous monitoring will aid in diagnosis and determining best treatment options. If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual mortality rate.
+Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures causing injury or status epilepticus;
+The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to provide first aid and patient safety during seizures;
+The full hospital team must be present to deal with these medical emergency situations should they arise, including nurses to document patient's exam
+(9) there have been 13 reported deaths during various video-EEG monitoring procedures, so this is not a "low risk" service
+
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician. A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+
+Samples of EEG were recorded periodically. Detections were reviewed in detail by the attending neurologist.
+
+
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 10 Hz.
+
+Description of daily interictal EEGs:
+Clinical and EEG Characteristics during Seizures and Events:
+
+Event #1:
+Date:  08/13/2015	Time:  2:00 AM Baseline:
+Clinical features:
+She was complaining of a headache  then while in bed awake with eyes closed the patient suddenly starts flickering her eyelids. She is quickly tested but is unresponsive to verbal questions and light touch. She remains with the eyes closed for about a minute while not following verbal or motor commands. She then opens her eyes and slowly blinks. About three minutes after becoming unresponsive she starts rapidly shaking her head side to side. This is followed by looking up and bilateral legs low amplitude fast irregular trembling with arms lying over her abdomen motionless. This last for 3 more minutes until she stops and commences following commands. Entire episode lasts about six minutes.
+EEG features:
+Nonnal awake EEG with muscle artifact.
+
+
+
+INDUCTION  PROCEDURES:
+1. Sleep deprivation
+2. Exercise
+
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings: None
+
+lctal Findings:
+The patient had one clinical event while hooked up to continuous video EEG monitoring in the epilepsy monitoring unit. This event was consistent with the historical events described at home.
+
+SEIZURE  DIAGNOSIS:
+1. Non-epileptic event
+
+EPILEPSY  DIAGNOSIS:
+1. Psychogenic non-epileptic seizures (PNES)
+
+CONCLUSION:
+Patient was admitted to the epilepsy monitoring unit for 3 days with continuous video EEG.
+
+The patient was weaned off carbamazepine over the course of her admission. The patient had a discussion with doctor about nonepileptic events and their association with underlying psychiatric co-morbidities and the fact that the event is not due to abnormal electrical discharges of the brain/cortex.
+
+The psychiatry department was consulted during this hospitalization
+
+We recommend that she continues to see a psychiatrist or therapist for assessment of underlying psychopathology and diagnosis.

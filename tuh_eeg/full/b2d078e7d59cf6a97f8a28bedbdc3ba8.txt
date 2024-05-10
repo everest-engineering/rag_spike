@@ -1,0 +1,44 @@
+AGE: 40 y.o.
+SEX : female
+DATE OF STUDY : 12/03/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 60 min - 3 hr, drowsy and asleep EEG #: 15-1762
+HISTORY:
+40 y .o. female with a history of epilepsy and orthostatic hypotension referred for routine EEG following 2 tonoclonic seizures in August of 2015.	EEG at that time was abnormal.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+oxycodone-acetaminophen (PERCOCET) 5-325 mg per tablet , Take 1 tablet by mouth every 4 hours as needed for Pain.
+phenytoin (DILANTIN KAPSEAL) 100 mg ER capsule, Take 2 capsules by mouth at bedtime.
+divalproex (DEPAKOTE) 250 mg EC tablet, Take 2 tablets by mouth
+at bedtime . Take 1 tablet at bedtime for - 2 weeks , then increase to 2 tablets at bedtime
+ropinirole (REQUIP) 0.25 mg tablet, Take 1 tablet by mouth at bedtime .
+Meclizine (ANTIVERT) 12.5 mg tablet, Take 12.5 mg by mouth 3 times daily as needed.
+ibuprofen (ADVIL;MOTRIN) 100 mg/5 mL suspension, Take	by mouth
+every 4 hours as needed .
+SYNTHROID 100 mcg tablet, take 1 tablet by mouth once daily No current facility-administered medications for this visit.
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9.7 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles ·and K-complexes. Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.	No photoparoxysmal activity was identified
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal one hour, awake, drowsy and asleep routine EEG. There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake and asleep	one hour routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.	This study may be compared to previous study which was recorded immediately after the patient' s loss of consciousness. No generalized spike and wave activity was identified today
+
+
+

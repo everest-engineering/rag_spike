@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 69 year old woman with multiple strokes, pacemaker, and subsequent development of generalized tonic-clonic seizures.
+MEDICATIONS: Norvasc, Keppra, Amlodipine, Pravastatin, Ranitidine,
+Lisinopril, Furosemide, Levetiracetam, Metoprolol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is somewhat slow and disorganized for age with a well-defined alpha rhythm, but typically about 7 Hz. Shifting slowing is noted and arrhythmic delta activity is identified from either hemisphere. Hypersynchronous arrhythmic slowing is noted as the patient becomes
+drowsy. The background is somewhat more sharply contoured with some arrhythmic delta activity in the posterior quadrants. Deeper stages of sleep are not sustained.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Shifting slowing.
+3. Delta a bit more prominent in the posterior quadrants.
+
+CLINICAL CORRELATION: In comparison to a study in June of 2010, the overall background is improved. In terms of epileptiform activity there are no definitive sharp waves or spikes, but the activity in the posterior regions is a bit more sharply contoured. If the patient continues to have seizures a follow up study capturing more sustained
+sleep is suggested.
+
+
+

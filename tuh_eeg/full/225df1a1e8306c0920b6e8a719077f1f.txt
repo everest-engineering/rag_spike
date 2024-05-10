@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 37-year-old female with history of generalized tonic-clonic seizures.  Past medical history is also significant for psychosis, depression, and hypertension.  Per the patient, she has several seizures and migraine headaches in a week.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In a most alert state, the posterior dominant rhythm was 8-8.5 Hz in frequency 30-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is 6-7 Hz diffuse theta activity seen during wakefulness, which is distributed symmetrically.  There is presence of low-amplitude diffuse beta activity, which is distributed symmetrically.  Drowsiness is characterized by disappearance of the posterior dominant rhythm, slowing of the background, and absence of muscle and eye blink artifact.  There is occasional left temporal slowing.  Photic stimulation was performed at multiple flash frequencies and did not result in a driving response.  Hyperventilation was performed and result in slowing of the background.  Heart rate was 80 beats per minute.
+IMPRESSION:
+This is an abnormal EEG recording due to one diffuse slowing of the background with theta activity seen in wakefulness.
+Slowing of the posterior dominant rhythm.
+Left temporal slowing seen during wakefulness and drowsiness.
+CLINICAL CORRELATION:  The above findings could be due to metabolic, toxic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medication, bilateral cerebral dysfunction, or degenerative brain disease.  The left temporal slowing could be suggestive of an underlying structural abnormalities in the left hemisphere or left temporal dysfunction.  No epileptiform abnormalities or seizures were identified in this record.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  If clinically indicated, a repeat EEG capturing deeper stages of sleep or ambulatory EEG monitoring may be helpful.
+
+
+

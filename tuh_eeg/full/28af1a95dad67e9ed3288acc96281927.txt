@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 71 year old woman, 9 days status post anoxic insult, persistently comatose with facial twitching and tremulousness in the right arm.
+MEDICATIONS: Depakote, Valproic Acid, Vanco, Metoprolol, Zosyn, Protonix, Tylenol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: Background EEG is markedly low voltage, slow and suppressed. Using sensitivity of 3, lower voltage delta is noted intermittently on the right. Muscle twitch artifact is picked up at these low sensitivities. Stimulation of the patient does not activate the record. The oral movement produces small amount of artifact.
+HR: 114 bpm and irregular
+IMPRESSION: Markedly abnormal EEG due to:
+1. Markedly suppressed background.
+2. Absence of reactivity and variability.
+3. Scant delta on the right.
+CLINICAL CORRELATION: This EEG carried a worrisome prognosis. It may be correlated with clinical exam. In contrast to previous studies, no periodic complexes or sharp waves were observed today.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  51 year old left handed woman with multiple sclerosis and dizziness.  The patient reports a recent seizure in the last month characterized by shaking without loss of consciousness of 15 seconds in duration.
+MEDICATIONS:  Gabapentin, Temazepam, Tramadol, Avonex, Celexa, Amantadine, Ampyra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the overall background of the EEG is relatively low voltage, but there is an 11 Hz alpha rhythm.  Mu is identified in the central regions but testing is not performed to confirm this.  Hyperventilation is completed early in the record, producing an increase in amplitude of the background.  Photic stimulation is performed just as the patient is starting to become drowsy with a little bit of background slowing.  A photic driving response is elicited.
+HR:    54 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

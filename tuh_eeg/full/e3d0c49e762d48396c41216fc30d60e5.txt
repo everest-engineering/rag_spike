@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  48 year old right handed woman with breast cancer, cardiomyopathy, right sided stroke, admitted to the hospital for an episode of slurred speech, tongue stiffening, and drooling.
+MEDICATIONS:  Atorvastatin, Enalapril, Lovenox, Protonix
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not performed, but photic stimulation was completed.  This was an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is a low voltage record with scant alpha.  Vertex waves, spindles, and POSTS are noted in stage 2 sleep.  The patient transitions in and out of stage 2 sleep. Photic stimulation elicits vigorous bilateral driving.
+HR:    66 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  A low voltage record is a normal finding, as is the paucity of alpha activity.  No epileptiform features were identified and there were no focal features.
+
+
+

@@ -1,0 +1,18 @@
+History:	57 year old man who suffered hypoxic ischemic injury ~ 2 months ago.
+Medications:	no CNS-active medications listed
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  With stimulation, the background consists of moderate amplitude polymorphic theta and delta activity with occasional periods of brief background discontinuity.  No normal sleep architecture is present, but periods of quiescence are characterized by diffusely attenuated background, slow delta activity and frequent periods of background discontinuity. Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart rate of ~ 125 bpm.
+Summary of Findings:
+Discontinuous background, occasional
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL portable 23-minute EEG due to moderate diffuse background slowing. This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+
+

@@ -1,0 +1,13 @@
+EEG LENGTH:  21 minutes.
+CONDITION OF RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+CLINICAL HISTORY:  The patient is a 34 -year-old woman who presents 38 weeks pregnant with a history of 1 month of episodes of blank out spells.
+MEDICATIONS:  Prenatal vitamins.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, the posterior dominant rhythm consists of well formed and modulated moderate amplitude 9-12 Hz alpha activity that attenuated with eye opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitude anteriorly.  During sleep, diffuse bursts of theta and delta are captured.  During sleep, symmetrical vertex waves, sleep spindles and K-complexes are observed.  Hyperventilation and photic stimulation were not performed.  A regular cardiac rate is noted on a single EKG lead.
+FINDINGS:
+Intrusions of sleep architecture into wakefulness.
+No epileptiform discharges.
+Stage 2 sleep.
+IMPRESSION:  This is an abnormal awake and asleep 21 minutes EEG due to intrusions of sleep architecture into wakefulness.  This finding is suggestive of excessive drowsy/ sleepy patient or an underlying sleep disorder.  The lack of epileptiform discharges in the routine EEG does not  preclude the clinical diagnosis of epilepsy.
+
+
+

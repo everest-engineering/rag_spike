@@ -1,0 +1,31 @@
+History:	35 year old man with a history of seizures since ~ 1998.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  No clear epileptiform discharges are present.  Three right temporal
+sharply contoured waveforms are captured.  They have an appearance of wicket waveforms, but they
+stand out from the background.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce any effect.
+Summary of Findings:
+Sharp transients, few, right temporal
+Sleep, stage 2
+Interpretation:
+This is a NORMAL 23-minute EEG, awake, drowsy, and asleep. Several sharply contoured right
+temporal waveforms are of unclear clinical significance- they could be fragments of normal sleep
+architecture vs represent true epileptiform discharges.  A repeat longer EEG is recommended.  The
+findings of the EEG were discussed with the ordering physician.
+
+
+
+
+

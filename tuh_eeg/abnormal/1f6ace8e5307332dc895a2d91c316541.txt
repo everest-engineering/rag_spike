@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  84 year old right handed female with dementia with cognitive decline, no longer able to perform ADLs and regressive behavior.
+MEDICATIONS:  Pantoprazole, Dextrose
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient appears to be drowsy.  The overall background is slow with a mixture of theta and delta.  In this low voltage record, there is a lower amplitude in the right occipital region compared to the left.  There is variability in the record with some sections with a little more beta than theta.  Occasional vertex waves are seen in sleep.  Stimulation of the patient produces agitation and a bit more theta and alpha frequency activity.  As she drifts off to sleep, the asymmetry between the 2 hemispheres re-emerges. Stimulation did not activate the record.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked slow background.
+An amplitude asymmetry with slower activity in the right posterior quadrant.
+CLINICAL CORRELATION:  This EEG was slower than the previous study a few months ago.  Metabolic factors, a progression of her dementia or bihemispheric process could contribute to this.
+
+
+

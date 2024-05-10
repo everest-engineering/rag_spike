@@ -1,0 +1,42 @@
+AGE: 28 y.o.
+SEX: male
+DATE OF STUDY: 12/10/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, drowsy and asleep EEG #: 15-1795
+HISTORY:
+28 y.o. male with a history of subependymal nodule- focal nodular gray matter heterotopia
+versus a small subependymoma, right frontal gliosis, Left middle cranial arachnoid cyst. Prior paroxysmal spells of head turning, long standing psychiatric illness referred for routine EEG for assessment of mental status change and headaches.
+MEDICATIONS:
+Current Outpatient Prescriptions: benztropine (COGENTIN) 1 mg tablet,
+FLUPHENAZINE (PROLIXIN) 10 mg tablet, Take 10 mg by mouth daily. topiramate (TOPAMAX) 25 mg tablet, 1 tablet ·po bid for headache prevention
+SERTRALINE HCL (ZOLOFT PO), Take	by mouth. QUETIAPINE FUMARATE (SEROQUEL PO), Take	by mouth.
+alprazolam (XANAX) 1 mg tablet, Take 1 tablet by mouth 2 times daily.
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG	and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 10 Hertz 40 uV posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm are seen.
+Sleep is not captured/sustained.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.	Supra-harmonic driving was noted.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and drowsy	routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL .CORRELATION:
+This is a normal awake and drowsy	routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+This is the second EEG for this adult.	A prior Digitrace ambulatory EEG was limited by artifact but did not demonstrate epileptiform features.
+
+
+

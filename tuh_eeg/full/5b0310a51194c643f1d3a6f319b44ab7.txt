@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 65 year old male found unresponsive in the car on July 20, 2010, subsequently determined to have a brain stem hemorrhage, evaluate for brain death.
+MEDICATIONS: Mannitol, Lovenox, Lasix, ASA, Pantoprazole
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrodes with 1 channel of EKG. The patient has a body temperature of 102.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a lower voltage, but continuous mixed frequency pattern rich in theta frequency activity and delta. There is some theta frequency activity noted in the frontal regions. Because of the easily identifiable cerebral pattern of primarily theta with smaller amounts of delta and alpha frequency activity, the ECF montage was not employed. Stimulation of the patient produces a brief attenuation of the background. There is some variability of the record.
+HR: 125 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a mixed frequency pattern rich in theta frequency activity.
+2. Intermittent attenuation of the background.
+CLINICAL CORRELATION: These findings support a significant disturbance of cerebral function, particularly 24-hours post CNS insult, but there certainly is a cerebral pattern.

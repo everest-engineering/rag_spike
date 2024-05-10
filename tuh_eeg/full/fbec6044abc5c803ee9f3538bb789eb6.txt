@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 66 year old right handed male with bilateral pontine strokes, left carotid stenosis, scheduled for left carotid endarterectomy tomorrow.
+MEDICATIONS: Clonidine, Minoxidil, Metformin, Glipizide, Colax, Valtrex, Simvastatin, Ibuprofen, Eplerenone, Acetaminophen, Tekturna, Toprol, Exforge
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation was performed. The patient seems to be drowsy.
+DESCRIPTION OF THE RECORD: The background EEG is significantly abnormal. The primary pattern is one of rhythmic, 7.5 hertz theta activity. There are occasional bursts of generalized delta and some bursts of more sharply contoured delta in the left hemisphere particularly in the temporal region. Drowsiness is characterized by an increase in delta. Photic stimulation does not activate the record.
+HR: 55 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Prominent rhythmic background slowing.
+2. Occasional shifting slowing.
+3. Left temporal focal slowing, sometimes sharply contoured.
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance of cerebral function. In addition, correlation with imaging given the sharply contoured slowing in the left is suggested.
+
+
+

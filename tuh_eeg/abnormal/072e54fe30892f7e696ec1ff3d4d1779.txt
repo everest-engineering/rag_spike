@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   37 year old right handed male with recurrent black out spells lasting 10-15 seconds when the patient looses awareness of his surroundings.   No incontinence.   No tonic clonic activity.
+MEDICATIONS: None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.   This is an awake and a sleep record
+DESCRIPTION OF THE RECORD:   In wakefulness  there is a 10 Hz 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta activity.  Drowsiness is characterized  by an increase in beta and anterior spread of the alpha rhythm.  Deeper stages of sleep are not sustained. Hyperventilation does not activate the record. Photic stimulation does elicit bilateral driving.
+HR: 	84 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: No epileptiform features are observed, but if epilepsy is an important consideration, a repeat study capturing deeper stages of sleep should be considered.
+
+
+

@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Right carotid endarterectomy.
+CLINICAL HISTORY:  A 50-year-old man with history of right intracerebral hemorrhages, seizures, recent stroke with previous left frontal encephalomalacia.
+MEDICATIONS:  Versed, Fentanyl, Propofol, lidocaine, vecuronium for induction.  Fentanyl and heparin was given later.
+INTRODUCTION:  A routine EEG was recorded during a right carotid endarterectomy.  It was performed using standard 10-20 electrode placement system with EKG electrode.  There is continuous monitoring of the EEG by the physician.  Feedback was given to the surgeon.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a background which had a posterior dominant rhythm of 9 Hz that could be seen best over the left hemisphere.  There is continuous focal slowing seen over the right temporal region at T4 with some loss of faster frequency over that region.  This is continuously seen.  There is some sleep architecture seen.  No activating procedures were performed.
+During the endarterectomy the internal carotid was clamped at 10:38:59 a.m. and the common carotid was clamped at 10:39:23 a.m. By 10:39:39 a.m. all were clamped.  During the clamping there was no significant change in the background and the faster frequencies that could be seen in the frontal region over the right remained unchanged.  The patient remained clamped until 11:53:13 a.m.  Again, after being unclamped there was no major change in the background or significant change in the background.  These findings were reported to the surgeon throughout the recording.
+By the end of the recording there was some more diffuse slowing noted in the recording minutes after being unclamped, likely related to sedation.  This was also communicated to the primary team.
+IMPRESSION:  Unchanged EEG during right carotid endarterectomy with baseline right temporal slowing.
+CLINICAL CORRELATION:  This is an uneventful right carotid endarterectomy.  No clear changes were seen with clamping and this was informed to the surgeon during the procedure.
+
+
+

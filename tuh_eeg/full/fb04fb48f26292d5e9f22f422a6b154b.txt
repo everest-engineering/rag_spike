@@ -1,0 +1,28 @@
+
+History:	44 YR MALE WITH CC OF SEIZURES.  PT STATES HAS ABOUT 3 SZS A
+MONTH. NO CHANGE IN CHARACTER. LAST SZ 2 WKS AGO.  PT STATES HE
+JUST DOESN'T FEEL RIGHT.
+Medications:	Tegretol, Zonisamide
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9-10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Focal slowing, polymorphic, frequent, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left
+anterior temporal region.  This finding is indicative of focal cerebral dysfunction in the left anterior
+region, which is etiologically non-specific.  No clinical or electrographic seizures are present.
+
+
+
+

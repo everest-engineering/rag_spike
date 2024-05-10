@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  52 year old right handed woman with diabetes, hypertension, and syncopal spell with loss of consciousness for 20 minutes,  visual scintillations.
+MEDICATIONS:  Metoprolol, Metformin, Simvastatin, Fosamax
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 12 Hz alpha rhythm, but in early, relaxed wakefulness, the alpha slows to 8.5 Hz.  Features of drowsiness include an increase in theta.  Vertex waves and spindles are observed in stage II sleep.  The patient transitioned frequently from wakefulness to sleep and in fact is noted by the tech to have movements in stage II sleep. Hyperventilation produces an increase beta.
+Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  This is a normal EEG and wakefulness through stage II sleep.
+CLINICAL CORRELATION:  There are a number of interesting features in this EEG, including significant body movement in stage II sleep as well as an increase in beta in hyperventilation.  These are normal variance and are not indicative of pathology.
+
+
+

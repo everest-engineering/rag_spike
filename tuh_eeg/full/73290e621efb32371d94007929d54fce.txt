@@ -1,0 +1,29 @@
+History:	73 year old male with recent status epilepticus, now resolved.
+Medications:	Dilantin, Keppra
+Sedation:	None
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Description:
+For much of the recording, there is no posterior dominant rhythm was present. However, during brief
+stages of maximal arousal, there is a 7-8Hz posterior dominant rhythm that is reactive to eye
+opening.  Much of the background activity was characterized by diffuse low voltage delta and theta
+activity with absence of the expected anterior to posterior gradient of frequencies.  Throughout
+much of the day, there is Stage I and II sleep seen intermittently. At night, after 11PM, additional
+deeper stages of sleep are seen.
+No focal slowing is present.  There are rare left mid-temporal sharp waves seen, maximal at F7-T3.
+There were two electrographic seizures seen emanating from the left hemisphere at 12:53:57 and
+3.23:35PM.  These last 60-90 seconds and resolve spontaneously. There is no obvious clinical
+correlate to these events.
+Hyperventilation and photic stimulation were not performed.  There was reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, intermittent, bilateral diffuse
+Seizure, two, left hemispheric
+Sharp waves, rare, left frontotemporal
+Interpretation:
+This is an ABNORMAL 24 hour video EEG because of diffuse background slowing and absent alpha
+rhythm, left frontotemporal sharp waves, and two left hemisphere electrographic seizures.  These
+findings suggest a structural brain lesion with epileptiform potential and recurrent electrographic
+seizures.  Diffuse background slowing and slow alpha rhythm suggest moderate brain dysfunction.
+These findings were conveyed to the primary team.
+

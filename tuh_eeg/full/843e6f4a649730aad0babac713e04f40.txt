@@ -1,0 +1,28 @@
+History:		87 year old man with a history of stroke, dementia and seizures, now presents with a seizure and change in MS.
+Medications:	Keppra Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, asleep, lethargic
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 4/12/2013 till 4/13/2014.	Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is right-to-left intrahemispheric asymmetry with lack of PDR or AP gradient over the left hemisphere.  The background over the right consists of 8-8.5 Hz PDR with expected AP gradient.  The background over the left consists of polymorphic slow delta activity with intermittent left frontocentral sharp waves with maximal scalp negativity over F3/C3 electrodes.  As the recording progresses, periodicity of  sharp waves lessens and their amplitude decreases.  Additionally, as the recording progresses, faster frequencies appear over the left.  Sleep is fragmented and brief.
+
+No electrographic seizures are present.
+
+
+Summary of Findings:
+Sharp waves, intermittent, left, frontotemporal No electrographic  seizures
+Focal slowing, polymorphic, continuous, moderate, left hemispheric Diffuse slowing, polymorphic, mild
+
+Interpretation:
+This is a very ABNORMAL 24hour continuous  EEG due to (1) mild diffuse slowing, (2) continuous moderate left hemispheric slowing and (3) intermittent left frontocentral epileptiform discharges that gradually lessen in frequency as the recording progresses    Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing and epileptiform discharges in the left frontocentral region are indicative of a potentially epileptogenic focal structural lesion in the left hemisphere, notably frontocentral region.  No electrographic seizures are present.
+These findings were conveyed to the primary team.
+
+
+
+

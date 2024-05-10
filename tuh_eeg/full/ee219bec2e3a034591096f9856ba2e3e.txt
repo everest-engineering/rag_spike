@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  60 year old woman with a history of stroke, aneurysm and
+encephalopathy.
+MEDICATIONS: Amlodipine, HCTZ, Toprol, ASA, Atacand,  Lipitor, Plavix, Humalog
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow and disorganized. There is a pattern of primarily 4-7 Hz activity from the right hemisphere.  There is smaller amounts of delta and alpha frequency activity. The left hemisphere has a bit more delta and theta.  This background is intermittently disrupted by bursts of high amplitude arrhythmic and somewhat rhythmic delta activity from both hemispheres.  The overall background is sharply contoured. There is some shifting slowing in the record in terms of some points where there may be faster activity in 1 hemisphere over the other and there is some shifting and slowing. Photic stimulation does not activate the record.  As the patient drifts off to sleep, there is an increase in beta, some of which is asymmetric, a bit more prominent from the right, particularly right frontocentral region.
+HR:	90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+1.	Generalized background slowing.
+2.	Prominent arrhythmic delta activity from either hemisphere.
+3.	Shifting and slowing.
+4. 	FIRDA.
+CLINICAL CORRELATION:   The beta asymmetry may be correlated with this patient's previous neurosurgical history. This EEG supports a bihemispheric process.  There were no epileptiform features.  Structural pathology and/or atoxic metabolic encephalopathy may contribute to the
+pattern described above.
+
+
+

@@ -1,0 +1,20 @@
+History:	56 YR OLD MALE PRESENTED FROM OUTSIDE HOSPITAL AFTER HE WAS NOTED TO BE UNRESPONSIVE. CT SCAN SHOWS R MCA STROKE PT. INTUBATED FOR HYPOXIC RESP. FAILURE. PT WAS ON PROPOFOL WAS WEANED OFF. PMHX COPD,SLEEP APNEA,HTN,BARRET'S ESOPHAGUS,
+Medications:	HEPARIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+Description:
+A posterior dominant rhythm was present at times only over the left hemisphere and at best it reached 8Hz.  Background activity over the left hemisphere characterized by diffuse delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  The right hemisphere revealed a almost completely attenuated background.  No normal sleep architecture
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was mild reactivity to painful stimuli.  Hr was 78
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Attenuation, continuous, right hemispheric
+Interpretation:
+This is an ABNORMAL EEG because of  continuous attenuation over the right hemisphere.  This finding is indicative consistent with the known large stroke. In addition there is  diffuse background slowing and slow alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+
+
+

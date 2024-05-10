@@ -1,0 +1,32 @@
+History:	64 year old man with a history of focal right sided status epilepticus in 12/2014.
+Medications:	Keppra
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous polymorphic theta and delta activity is present in the right midtemporal region.
+Occasional right anterior (Fp2 maximal) and midtemporal (T4 maximal) sharp waves with
+aftergoing slow waves are captured.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  A single EKG lead demonstrates heart rate of <60 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right temporal, mid
+Sharp waves, occasional, right, anterior temporal(Fp2 maximal), midtemporal (T4 maximal)
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and asleep 1 hour EEG due to continuous moderate right
+midtemporal focal slowing and occasional right anterior temporal (Fp2 maximal) and midtemporal
+(T4 maximal) epileptiform discharges. These findings indicate focal structural lesion with
+epileptogenic potential over the right anterior - midtemporal region.  A single EKG lead
+
+
+
+
+

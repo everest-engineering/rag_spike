@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 76-year-old woman who presented after falling from an upright position with resultant injury to her head.
+MEDICATIONS:  Insulin.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated low amplitude 12 Hz alpha activity that attenuates with eyes opening.  Fast and slow alpha variant are observed.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  No sleep is captured.  Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrated the heart rate up to 120 beats per minute.
+FINDINGS:
+Normal posterior dominant rhythm.
+No stage II sleep.
+No epileptiform discharges.
+Occasional sinus tachycardia.
+IMPRESSION:  This is a normal awake only, 21 minute EEG.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical indication for seizures persist, a repeat study with sleep may be of benefit.  Heart rate up to 120 beats per minute was occasionally captured on a single EKG lead.
+
+
+

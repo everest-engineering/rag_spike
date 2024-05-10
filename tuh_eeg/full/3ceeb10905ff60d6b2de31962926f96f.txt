@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  25 year old male admitted on 06/19 after cardiac arrest; found in an alley, twitching, not breathing, without a heart rate.  Intubated in the field.  Coded for 30 minutes in the emergency room.  Hepatitis C, IVDA, epilepsy, and alcohol withdrawal seizures.
+MEDICATIONS:  Vancomycin, Ativan, Vecuronium.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and comatose.  No motor activity is noted.
+DESCRIPTION OF THE RECORD:  The initial sections of the record are remarkable for significant muscle artifact with intermittent bursts of paroxysmal high amplitude activity occurring every 10 seconds. Ten mg of vecuronium were administered.  This eliminates the background muscle artifact.  A pattern of burst suppression with bursts of higher amplitude cerebral activity, which are generalized in nature, is noted.  Most of the bursts include some faster alpha and beta frequency activity and follow with some delta.  There is a little bit of variability in the bursts, and some of them seem to have a bit of a right-sided predominance, but they are very stereotypic in nature.  Stimulation of the patient does not activate the record. Prior to the utilization of vecuronium, the patient can be observed to have 3 very quick jerks of the head at the end of the discharges.  This is seen with some, but not all, of the bursts.
+HR:    114 bpm.
+IMPRESSION:  Markedly abnormal EEG due to:
+A burst suppression pattern.
+CLINICAL CORRELATION:  These findings, 24 hours following anoxic injury, are very worrisome prognostic features.
+
+
+

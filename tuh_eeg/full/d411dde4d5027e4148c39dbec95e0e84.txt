@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  58 year old male, anoxic insult on the 24th with cerebral edema, now febrile to 103, persistently comatose.
+MEDICATIONS:  Depakote, Metoprolol, Vancomycin, Zosyn,
+INTRODUCTION:  Continuous digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, markedly suppressed and attenuated.  It is a profoundly featureless EEG with sweat artifact.  Tactile stimulation does not activate the record.  There is no variability noted.
+HR:    130 bpm and irregular
+IMPRESSION:  Markedly abnormal EEG due to:
+Marked attenuation and suppression of cerebral activity.
+CLINICAL CORRELATION:  Although there were technical issues with sweat artifact in the EEG, this EEG supports a severe disturbance of cerebral function.  The frontal complexes identified on the 25th were not seen today.
+
+
+

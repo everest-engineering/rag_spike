@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 30 year old right handed woman with a history of stroke, previous posterior circulation tumor, headaches and anxiety and possible seizure during sleep.
+MEDICATIONS: No seizure medications, medicates unclear.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized and slow. A breach rhythm is noted on the right. There is a rhythmic 7.5 hertz alpha rhythm noted on the left, not as well defined on the right. The right hemisphere has a bit more slowing than the left. Significant muscle artifact is noted in the background. Hyperventilation produces an increase in the voltage background and also accentuates the slowing in the right posterior quadrant in comparison to the left hemisphere. Occasional focal slowing arrhythmic delta activity is also noted in the right posterior quadrant. Photic stimulation elicits a bilateral driving again with a breach rhythm. The overall driving response is quit vigorous.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. Superimposed focal slowing from the right.
+3. Rare right temporal sharp waves identified in the context a breach rhythm.
+CORRELATION: These findings described above were noted in a previous EEG. The presence of the bilateral driving response despite the focal features on the right is notable. The epileptiform activity is unchanged.
+
+
+

@@ -1,0 +1,29 @@
+History:	34 year old woman undergoing pulmonary thromboendarterectomy
+Medications:	Heparin, cefuroxime, ketamine, Vecuronium, Isofluorine, vasopressin, Lidocaine,
+insulin, sufentanil
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and
+subtemporal chain, awake
+Description:
+While patient is awake, the posterior dominant rhythm consists of well formed and modulated 10 Hz
+moderate amplitude alpha activity that attenuates symmetrically with eye opening.  Symmetric 5-
+15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  At ~ 7:48 am, there is a
+change in the background with disappearance of the posterior dominant rhythm and appearance of
+diffuse excess beta activity.  This corresponds to initiation of general anesthesia.  The background
+eventually becomes a mixture of various frequencies.  Circulatory arrests starts at ~ 9:52 am.  As the
+temperature decreases, there is gradual increase in diffuse delta activity and disappearance of
+faster frequencies.  Burst suppression starts at ~ 10:25 am when the body temperature is ~ 25
+degrees C.  Complete burst suppression is achieved at ~ 11:08am. Subsequently very brief (~1 sec)
+bursts of diffuse delta activity are observed every several minutes.  The attending surgeon was
+notified of these bursts of activity.  Once circulatory arrest is completed and rewarming starts, burst
+of activity return at ~ 1:18 PM.  There is rapid disappearance of burst suppression and appearance
+of a mixture of frequencies and a symmetrical background.  This pattern persists for the rest of the
+recording.
+Summary of Findings:
+Other, uneventful study
+Interpretation:
+This is an uneventful 7 hours 21 minutes (with 4 hours and 20 minutes of direct live remote review)
+continuous intraoperative EEG monitoring.
+
+

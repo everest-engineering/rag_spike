@@ -1,0 +1,44 @@
+History:	56 year old woman who presents with focal status epilepticus.  Patient has a history
+of stroke, focal seizures and HIV.
+Medications:	Depakote, Vimpat and Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 1/17/2915 till 1/18/2015.  Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 7 Hz PDR posteriorly but poor AP gradient with delta activity
+anteriorly and excess polymorphic theta.  The background over the left consists of a mixture of
+polymorphic theta and delta activity, predominantly delta activity anteriorly and continuous
+anterior temporal periodic epileptiform discharges that occur with a regular repetition rate of ~1-1.5
+Hz.  Many of the discharges are accompanied by low amplitude fast activity (PEDs-plus).  Maximal
+scalp negativity occurs over Fp1 lead and is reflected over to the Fp2 lead.  Sleep spindles are
+captured and epochs of REM sleep are captured.
+No electrographic seizures are captured.  There is a push button event at ~ 7 PM for an episode of
+increasing agitation/ restlessness.  There is no clear ictal correlate with that event.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, moderate, left hemispheric, especially anteriorly
+No electrographic seizures
+PEDs (periodic epileptiform discharges), continuous, left anterior, at ~1 Hz
+Interpretation:
+This is an ABNORMAL continuous video 24 hours EEG due to (1) mild-to-moderate diffuse slowing;
+(2) continuous moderate left hemispheric slowing that is most pronounced over the anterior region;
+and (3) continuous left anterior rhythmic epileptiform discharges (PEDs and PEDs-plus).  Diffuse
+slowing is indicative of mild-to-moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  There is epileptogenic focal structural lesion over the left anterior quadrant.  No
+electrographic seizures are present.
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Patient is a 50-year-old male with history of hepatitis C, asthma, anxiety disorder and prior motor vehicle accident.  The patient had recent methamphetamine withdrawal and subsequently has an abrupt loss of consciousness with shaking of hands and legs for 5 minutes.
+MEDICATIONS:
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Vertex waves and spindles are noted in stage 2 sleep.  There is some head rocking in the transition from wakefulness to sleep.
+Photic stimulation elicited a scant driving response.
+Heart rate 60 BPM.
+IMPRESSION:  EEG within normal limits for age.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 56-year-old right-handed woman with hypertension, previous left MCA infarct, epilepsy, hyperlipidemia, hypertension, and prior left ventricular cardiac thrombus.  Sept 28 admitted to the Medicine Service with urinary tract infection and experienced multiple seizures on October 1, 2015.
+MEDICATIONS:  Ativan, Keppra, Xarelto, Zocor, and antibiotics.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically acceptable EEG.  One clinical seizure was identified.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake.  The right hemisphere is well organized with posterior dominant rhythm of 11 Hz.  The left hemisphere demonstrates continuous focal slowing with disruption of faster frequency activity and replacement with more rhythmic lower voltage theta and delta.  In addition, there is intermittent slow periodic bursts of delta-theta with a periodicity of Q3-Q5 seconds.  Intermittent left temporal sharp waves are noted, some of which are discrete; others are more well-defined with a T1 maximum.
+Seizure:  A single clinical seizure was noted at 10:02:47.  Electrographic characteristics included a prominent burst of beta frequency activity from the left hemisphere of 15 Hz.  This is present throughout the left hemisphere, but also present in the central regions bilaterally.  By 10:03:06, there is a transition to rhythmic repetitive theta frequency activity in the left hemisphere, with prominent repetitive epileptiform activity in the left central regions C3-CZ.  AT 10:03:29, the pattern persists and there is a vigorous bilateral with repetitive rhythmic theta frequency activity with sharp waves mixed in.  The activity begins to slow by 10:03:47, but near the end of the seizure, the epileptiform activity is maximum the left occipital region P301.  The epileptiform activity seems to drop out at 10:04:01 and then there is background theta noted.  At the end of the seizure, there is bilateral rhythmic frontal theta. The seizure ends 10:04:33 with eye movement and disappearance of the rhythmic activity.
+Behavioral manifestations of the seizure include restlessness.  The patient looks initially to the right and then looks back and forth.  She seems to have some eye deviation to the right.  She has difficulty following commands, but seems to be trying to connect to the technologist.  She answers all questions with the same answer, which is "yeah".
+Brief postictal background slowing was noted, but the pattern seemed to be returning to the baseline at 10:08 when the study was concluded.
+Heart rate:  102 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Single seizure identified, which is probably maximum from the left hemisphere with remarkable variation in terms of the location of the epileptiform activity including left central, bifrontal, and even left posterior.
+Focal slowing from the left hemisphere.
+Occasional left temporal sharp waves.
+CLINICAL CORRELATION:  The focal slowing on the left was described in the previous EEG earlier this year.  The focal seizure and epileptiform activity are ipsilateral to the patient's previous stroke.
+
+
+

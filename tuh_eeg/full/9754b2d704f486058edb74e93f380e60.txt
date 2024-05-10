@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  39 year old woman with hypothyroidism, Turner's syndrome, depression, eating disorder, and syncope.  The patient reports numbness in the right arm and leg and a feeling as if she is not able to touch things or that her grasp is impaired.
+MEDICATIONS:  Sinequan, Klonopin, Synthroid, Levothroid.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  Of note, the patient had an unusual event earlier in the day, requiring a rapid response.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates excess theta.  Tremor artifact is noted.  Technically, this is not an ideal record and there are impedance problems with a T4 electrode throughout.  Photic stimulation is remarkable for a driving response, but also significant photoelectric artifact.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to.
+Excess theta.
+CLINICAL CORRELATION:  The background theta may be due to this patient's medications.  Due to the electrode issues described above, please consider a follow-up
+study with well-defined wakefulness to assess the overall background.  In any case, no epileptiform features were seen.
+
+
+

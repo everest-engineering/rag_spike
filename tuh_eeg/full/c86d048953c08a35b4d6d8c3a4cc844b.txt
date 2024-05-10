@@ -1,0 +1,34 @@
+History:	45 year old man with a history of seizures that started about 1 year ago.  Patient
+also has a history of a prior alcohol abuse.
+Medications:	Trileptal
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and sleep
+spindles and K complexes appear.  At times sleep spindles are more prominent over the left.
+Subtle right anterior temporal polymorphic theta activity is noted over the right anterior temporal
+region.  Intermittent low to moderate amplitude sharp waves are noted over the right anterior
+temporal region during drowsiness/ sleep.  Maximal scalp negativity occurs over the F8 lead.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, mild, right temporal, anterior
+Sharp waves, intermittent, right temporal, anterior, mostly during drowsiness/ sleep
+Asynchrony, sleep spindles, occasional, better visualized over the left
+Interpretation:
+This is an ABNORMAL awake and asleep 26-minute EEG due to intermittent mild right anterior
+temporal slowing, intermittent left anterior temporal epileptiform discharges and occasional
+asynchrony of sleep spindles, with sleep spindles better visualized over the left.  These findings are
+indicative of a potentially epileptogenic focal structural lesion in the right anterior temporal region.
+
+
+
+
+
+

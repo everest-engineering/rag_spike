@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 75-year-old woman admitted for confusion and right-sided weakness.  She was subsequently found to have an acute left MCA stroke.
+MEDICATIONS: Insulin, Heparin, Plavix, and others.
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic during the record.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD: The background EEG is asymmetric with nearly continuous rhythmic delta activity in the left hemisphere.  In the right hemisphere, there is mild slowing of the posterior dominant rhythm to 7-9 10 Hz, 20 V As the recording continues, sharp activity was occasionally found in the left temporal and rarely in the left occipital.  Stimulation of the patient by calling her name and painful stimulation did not change the arrhythmic delta activity on the left.
+HR:  96 BPM.
+IMPRESSION: Abnormal EEG due to:
+Asymmetric EEG background with left arrhythmic delta activity, maximum in the temporal area.
+Occasional sharp activity in the left temporal and occipital areas.
+CLINICAL CORRELATION: This tracing demonstrates a severe disturbance of cerebral function.  The focal features suggest a structural lesion.  The sharp waves suggest  irritative  cortex in the left hemisphere.  No clinical seizures were observed. If epilepsy is a clinical concern, a repeat tracing may be helpful.
+
+
+
+

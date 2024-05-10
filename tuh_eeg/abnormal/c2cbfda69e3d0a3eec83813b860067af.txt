@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  An 81-year-old male admitted for a knee replacement, the patient had focal seizures with primarily left arm jerking, received 4 mg of Ativan and became obtunded.  History of dementia.
+MEDICATIONS:  Ativan, Depakote, morphine, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The recording began at 6:49 p.m. after the patient had received hypnotic medications and was obtunded.  No clinical seizures were noted during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly low voltage pattern.  Stimulation of the patient produces a small amount of beta activity.  Heart rate 114 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Markedly low voltage suppressed pattern.
+Clinical correlation: No focal or epileptiform features were identified. Severe bihemispheric CNS process such as pharmacologic sedation.
+
+
+

@@ -1,0 +1,30 @@
+History:	28 year old man with seizures.
+Medications:	Metoprolol, Keppra, Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+There is right to left interhemispheric asymmetry with faster waveforms over the left hemisphere.
+The posterior dominant rhythm consists of moderate amplitude 9 Hz alpha activity that is less
+formed and polymorphic over the right.  There is no clear AP gradient.  During drowsiness, the
+alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+Continuous polymorphic semi rhythmic delta activity is present in the bifrontal regions, right>
+left.  Excess fast activity is present over the left central region.  Excess polymorphic theta activity is
+noted over the right.  Intermittent low amplitude right anterior temporal sharp waves are noted.
+Maximal scalp negativity occurs over F8, T2 and T4 electrodes.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, moderate, bilateral (L>R) frontal
+Focal slowing, polymorphic, continuous, right hemispheric, mild-to-moderate
+Sharp waves, intermittent, right temporal, anterior, Maximal scalp negativity occurs over F8, T2
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 22-minute EEG due to continuous bifrontal (right>left)
+focal slowing; mild-to-moderate right hemispheric slowing and intermittent right anterior temporal
+epileptiform discharges. Continuous focal slowing indicates focal cerebral dysfunction, likely
+structural in etiology.  Intermittent right anterior temporal epileptiform discharges indicate a
+potentially epileptogenic focal structural abnormality.
+
+

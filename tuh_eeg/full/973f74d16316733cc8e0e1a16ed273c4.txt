@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  56 year old right handed man with previous right frontal clot.  The patient had an episode with loss of consciousness, evaluate for seizures.
+MEDICATIONS:  Keppra, Hydralazine, HCTZ, Lisinopril, Metoprolol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with generous 13 Hz beta noted in the background.  A prominent breech rhythm is noted in the right frontal central region and the patient has a craniotomy scar in the right greater than left frontal region. There are rare bursts of focal delta in the right hemisphere.  These occur as the patient transitions towards sleep with concomitant frontal delta, but the focal delta is maximum in the mid temporal region. Hyperventilation produces an increase in theta. Photic stimulation elicits generous driving.  As the patient transitions in and out of sleep, the focal delta is a bit more prominent in the right frontal central region.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent, right frontal delta.
+CLINICAL CORRELATION:  Breech rhythm is an anticipated finding following craniotomy.  Focal delta is in the region of this patient's previous surgery.  If seizures are an important consideration, a more prolonged tracing may be of value.
+
+
+

@@ -1,0 +1,27 @@
+History:	26 year old man with new onset seizures on 7/26/14, with 5 reported generalized
+convulsions in a single day.  Last seizure occurred on 7/30/2014.  Of note, patient is
+reportedly off his medications.
+Medications:	Zonisamide, Effexor, Lorazepam, Tramadol, Meloxicam, Acetaminophen-COD #3 - it
+is unclear which medications he still takes.
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During brief stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at high frequency flash rates.
+Summary of Findings:
+No epileptiform discharges
+Sleep, stage 2, brief
+Interpretation:
+This is a NORMAL 1 hour EEG, awake, drowsy, and briefly asleep. The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

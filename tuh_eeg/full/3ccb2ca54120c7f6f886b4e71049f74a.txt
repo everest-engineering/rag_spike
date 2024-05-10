@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 59-year-old woman with rhabdomyolysis, paranoid schizophrenia, and encephalopathy.
+MEDICATIONS:  Protonix and insulin.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation are performed.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous pattern with generalized background slowing, bursts of rhythmic, frontally predominant delta, and some shifting delta.  The EEG is variable.  Some sections of the record demonstrate more theta than others.
+There are handful of ICU artifacts noted in the background.  In these sections of the record which are better organized, more of a theta pattern, there is a low voltage, discreet sharp wave, which primarily has a 0-1 phase reversal.  With stimulation and alerting, this attenuates.
+At the close of the record, there is a burst of rhythmic delta followed by some rhythmic theta activity, some of which has a paroxysmal nature to it.
+Heart rate 66 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Markedly abnormal background.
+Prominent frontal delta.
+In this complex record, there does appear to be a discrete occipital sharp waves with localization primarily at 01.
+Paroxysmal bursts of frontal delta with a brief rhythmic bursts of occipital activity noted in the last minute of the recording.
+CLINICAL CORRELATION:  In comparison to previous EEGs, this EEG is markedly improved.  The record is much more continuous and is richer in overall activity.  No clinical seizures were noted.  The epileptiform activity noted in the occipital region is low voltage and discrete.  There were no clinical seizures noted, but correlation with this EEG with the patient's clinical picture is suggested.
+
+
+

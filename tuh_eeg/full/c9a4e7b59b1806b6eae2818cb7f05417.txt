@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 50-year-old gentleman with a single seizure after nasal sinus surgery 2 years ago, complicated by meningitis.  Now, with neck pain, dizziness, and poor balance.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This was a somewhat technically challenging record in the restless patient.  It was difficult to achieve good impedances and a relaxed state.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm with a small amount of beta muscle activity and scant theta.
+Hyperventilation was performed early in the record with good effort.  Hyperventilation initially generates some shifting, slowing followed by bursts of rhythmic, high amplitude 3.5 to 4 Hz bursts of spike and wave activity of 3-5 seconds duration with after going slow waves.
+This is followed by drowsiness with an increase in beta.
+Photic stimulation elicited a driving response.  At the close of the record, the patient transitioned into stage 2 sleep with vertex waves, K complexes, and spindles.
+Heart rate 78 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Bursts of rhythmic, frontal spike and wave activity elicited by hyperventilation.
+Small degree of background slowing and disorganization with shifting and slowing.
+CLINICAL CORRELATION:  No clinical seizures were recorded.  The brief bursts of spike and wave activity were elicited only by hyperventilation.  This finding can be seen in those with epilepsy, or those with a genetic trait for epilepsy The bihemispheric features described above may be correlated with history and imaging.
+
+
+

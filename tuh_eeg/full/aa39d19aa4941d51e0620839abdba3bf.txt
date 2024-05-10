@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  58 year old right handed male with new onset seizures for the past one month characterized by staring and fall with loss of consciousness and 2 minutes of tonic clonic activity.  The patient reports that his seizures were caused an adverse reaction to medications.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness the EEG demonstrates rhythmic background slowing with a posterior dominant rhythm of 6-7 Hz and excess 5-7 Hz theta overall through the background. Hyperventilation is performed early in the record producing and increase in beta.  As the patient becomes drowsy there are some bursts of frontal delta.  In the transition to drowsiness there is some rhythmic temporal theta on the left with some wicket activity and a pair of sharp waves, but without after going slow waves.  Other features of drowsiness include an increase background slowing, followed by vertex waves. Photic stimulation is performed as the patient is drifting off to sleep and is transitioning into stage II sleep with vertex waves and spindles.  Scant driving is noted at 17 Hz.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic background slowing.
+Slowing of the alpha rhythm.
+CLINICAL CORRELATION:  There are no definitive epileptiform discharges, although there was some rhythmic mid temporal theta of drowsiness.  The rhythmic background slowing is a nonspecific finding which can be seen in the context of a toxic or metabolic encephalopathy.  It can also been seen as medication effect or in a vitamin deficiency.  In that there is some rhythmic mid temporal theta of drowsiness, but no definitive spikes, a follow up study with more prolonged sleep or a sleep deprived EEG may be of value.
+
+
+

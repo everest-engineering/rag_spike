@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 80 year old right handed woman with episodes of word-finding and facial twisting, pain.
+MEDICATIONS: Unknown (none listed in chart)
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness at times there is a 9.5 Hz alpha rhythm. The overall background includes excess theta and occasional shifting slowing from each hemisphere. Brief drowsiness is characterized by a decrease in eye movement. Photic stimulation elicits scant driving.
+HR: 78 bpm and somewhat irregular
+IMPRESSION: Mildly abnormal EEG due to:
+1. Mild background slowing.
+2. Occasional arrhythmic delta activity in either temporal region.
+CLINICAL CORRELATION: These findings are nontypical and can be seen in underlying cerebrovascular disease. If epilepsy is an important consideration, a follow-up study may be of value.
+
+
+

@@ -1,0 +1,30 @@
+History:	55 year old man with seizures.  Patient has bifrontal skull defect, left>right.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+During maximal arousal the posterior dominant rhythm consists of a well formed and modulated 9
+Hz alpha activity that attenuates with eye opening.  There is an anterior-to-posterior (AP) frequency-
+amplitude gradient with faster frequencies a lower amplitudes anteriorly.  AP gradient is better
+formed over the right.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording.  Drowsiness is captured, but stage II sleep is not reached.
+Continuous polymorphic sharply delta activity is present in the left frontal region.  Additional faster
+frequencies are observed over the left frontal region (breach rhythm).  No clear epileptiform
+discharges are captured but left frontal activity frequently is frequently sharply contoured.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  Occasional F7 electrode artifact is present.
+Summary of Findings:
+Diffuse slowing, polymorphic
+Focal slowing, polymorphic, continuous, moderate, left frontal, frequently sharply contoured
+Breach artifact, left frontal
+Other, no clear epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 28-minute EEG due to mild diffuse slowing and
+continuous moderate focal left frontal slowing that is frequently sharply contoured. Diffuse slowing is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal
+slowing is indicative of a focal structural lesion in the left frontal region.  Breach artifact is
+
+
+

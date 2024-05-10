@@ -1,0 +1,14 @@
+History:	73 YR FEMALE PRESENTED WITH CC OF LEFT SIDE WEAKNESS.  CT. LG RIGHT BG ACUTE BLEED.  PT VOMITED THEN LOC.  TEMP 95',  BP 124/70.  PT NOW WITH NO BRAINSTEM FUNCTION BRAIN DEATH PROTOCOL EVAL.   PT ON WARMING BLANKET
+Medications:	PHENYLEPHRINE
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description:
+There is no electrocerebral activity over 2uV during the recording.  There is no spontaneous state change during the recording and no change with visual, auditory, or tactile stimuli.  This EEG was performed according to the guidelines of the American Clinical Neurophysiology Society for the determination of electrocerebral inactivity. Hyperventilation and photic stimulation are not performed.  There is no reactivity to visual, auditory, tactile, or noxious stimuli.
+HR is 84
+Summary of Findings:
+Electrocerebral inactivity
+Interpretation:
+This is an ABNORMAL EEG because this is an isoelectric EEG performed according the ACNS guidelines for the determination of electrocerebral inactivity.  This EEG is consistent with, but not diagnostic of, cerebral death.
+
+

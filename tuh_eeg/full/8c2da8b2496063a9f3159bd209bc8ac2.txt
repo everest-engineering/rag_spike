@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  Refractory status epilepticus, treated with high doses of medications.
+MEDICATIONS:  Phenobarbital, midazolam, and propofol.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  Seizure and spike detection software was utilized.  The patient is comatose and intubated.  This is a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  In the initial sections of this record include an essentially suppressed record with brief isolated discharges, typically maximum in the left posterior region.  The bursts were less than 1 second long and bursts of suppression were as long as 6 seconds.  Over the course of the day, medications were adjusted.  An EEG pattern became more continuous.  The EEG pattern transition from brief bursts to more continuous pattern with ongoing left occipital spikes noted at 9:00 p.m.  Throughout this section of the record, medications were adjusted.  Initially midazolam was eliminated because of a suppressed pattern.  When the propofol was reduced to 70, the epileptiform activity became more continuous.  Additional medication changes included resuming with higher doses of midazolam and weaning the propofol.  By 1150, the EEG had transitioned to more of a burst suppression pattern.
+By the morning of the 29th, a slow, more continuous spike pattern was noted and the discontinuity was lost.
+During the day on the 29th, more of a pattern of a continuous, but not evolving periodic complexes noted from the left occipital region.
+Heart rate 80 bpm.
+IMPRESSION:  EEG monitoring on March 28 to 29 was remarkable for,
+A burst suppression pattern.
+Eventually continuous pattern.
+A pattern with more of a static periodic complex.
+CLINICAL CORRELATION:  Epileptiform activity is not clearly evolving at this time and this appears to be a stable and acceptable pattern.
+
+
+

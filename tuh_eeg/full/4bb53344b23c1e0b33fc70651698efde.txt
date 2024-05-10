@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 45-year-old male with epilepsy, recurrent seizures, and significant postictal agitation.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is postictal, agitated, and had difficulty cooperating.  Impedances were all under 5 kilohms because of this.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG includes generous muscle and generous beta.  There is a glimpse of a 12 Hz alpha rhythm, which is reactive to eye opening.  There is also some lower voltage rhythmic frontal delta noted in wakefulness.  At the very final few minutes of the EEG, the patient starts to drift off to sleep with a lower voltage beta pattern.  In this technically challenging EEG, there is a slight beta asymmetry with a bit more beta noted on the left, relative to the right.
+Heart rate 120 bpm.
+IMPRESSION:  This is technically challenging, but abnormal EEG due to:
+Excess beta.
+Likely some frontal delta.
+CLINICAL CORRELATION:  Given the limitations of this EEG, focal features may be overlooked and the beta asymmetry is of unclear significance.  To more completely characterize this patient's EEG, a followup study when he is more cooperative is suggested.
+
+
+

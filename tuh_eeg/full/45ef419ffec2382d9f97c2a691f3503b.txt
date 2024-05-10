@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 30-year-old woman with a seizure  while pregnant  July 2014, described as no aura and postictal confusion.
+MEDICATIONS:  Prenatal vitamins, blood pressure medicine.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred, photic stimulation was completed.  Impedances for this record were technically acceptable, but there was significant head rocking artifact noted.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  It is symmetric and reactive to eye opening.  There are artifacts noted at P3 and F7.  In addition, there seems to be anterior spread of the alpha rhythm more anteriorly on the left in comparison to the right as well as a beta accentuation.  Drowsiness was characterized by attenuation of the alpha rhythm with vertex waves, K complexes, and spindles noted in stage 2 sleep.
+Photic stimulation elicited bilateral driving.
+Heart rate 70 bpm.
+IMPRESSION:  Technically challenging, but likely normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  Lead placement may account for some of the challenges described above.  No changes in the patient's shape of cranium were noted and there were no other abnormalities.  This EEG does not identify any epileptiform activity and the asymmetry in the alpha rhythm and beta accentuation may be artifactual.  If epilepsy is an important consideration, a follow up, 1-hour EEG may be of value.
+
+
+

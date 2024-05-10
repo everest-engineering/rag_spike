@@ -1,0 +1,31 @@
+History:	19 YR OLD MALE WITH H/O ONSET OF SZ AT AGE 13-14, SZ ARE W/ SHAKING,
+LOC AND POSTICTAL CONFUSION. PT DENIES B/B INCONT, TONGUE BITING.
+PRIOR TO SZ PT REPORTS SHARP PAIN IN HEAD LASTING FOR HRS PRIOR SZ
+AND GOES AWAY AFTER SZ. 2 SZ THIS MONTH W/ LAST SZ X
+Medications:	RISPERIDONE 1MG, LAMOTRIGINE 100MG
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  Frequent generalized  frontally-maximal spikes and wave are present
+at a frequency of 3.5-4.0Hz with burst lasting less than 2 secs.  At times they have a slightly
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  Hr
+Summary of Findings:
+Spike-and-wave complexes, fast, intermittent generalized
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent generalized spike-and-
+wave discharges, which are potentially epileptogenic.  Background activity is otherwise normal.
+These findings are consistent with a diagnosis of primary generalized epilepsy.
+
+
+
+
+
+

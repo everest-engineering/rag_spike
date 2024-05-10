@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 73-year-old woman with previous bilateral strokes, baseline receptive aphasia, dialysis, and carotid endarterectomy.  The patient had an episode where she woke up a nap and had briefly slurred speech.  Over the course of her hospitalization, her language improved, although her comprehension did not.  Evaluate for seizures.
+MEDICATIONS:  Plavix, clonidine, and Ativan.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly cooperative.  This is primarily an awake record.
+TECHNICAL:  The bedside record was with a fair amount of artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow, lacking some of the normal milestones in an awake adult.  In particular, there is scant if any alpha activity.  The overall pattern is a lower voltage theta pattern, relatively featureless with smaller amounts of delta.
+Heart rate 96 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  The replacement of normal background with a relatively low voltage diffusely slow pattern.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This is a somewhat technically challenging EEG in that there is a fair amount of muscle but no significant focal or epileptiform features were noted.
+
+
+

@@ -1,0 +1,20 @@
+History:	58 year old man who presents with change in mental status and concern for seizures. Medications:	Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 03/13/2015 till 03/14/205.  Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right. With stimulation, the background over the left consists of moderate amplitude theta activity admixed with low amplitude delta activity. The background over the right is attenuated and consists of 6-7 Hz theta posteriorly and a mixture of attenuated theta and delta activity. Sleep spindles are better formed over the left hemisphere.
+No electrographic seizures are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right hemispheric No electrographic seizures
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG due to (1) moderate diffuse slowing and (2) continuous focal right hemispheric focal slowing and attenuation. epileptiform discharges that are seen early in the recording. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific. Continuous focal slowing indicative of a focal structural lesion over the right, but in this patient it could be a prolonged post-ictal phenomenon . No clinical or electrographic seizures are present. When compared to the prior 24-hour recording epoch, this EEG shows the same degree of diffuse and focal slowing.
+
+
+
+

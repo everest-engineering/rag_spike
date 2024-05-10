@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  41 year old right handed male with Rasmussen’s encephalitis with increasing seizures.
+MEDICATIONS:  Topiramate, Lacosamide, Phenobarbital, Klonopin, Lipitor, Pantoprazole, Lisinopril
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  As the record begins, the activity includes a prominent interhemispheric asymmetry.  It is medium amplitude, but slow, primarily theta on the right with some occasional posterior delta.  From there left there is clearly a breach with a high amplitude spike and slow-wave complex at T3 and T5.  It is also picked up at C3/P3.
+The first seizure occurs within 1 minute with a burst of 14 Hz activity emanating from the left frontal region with frequency evolution.  This is over 4 minutes and 35 seconds into the EEG.  Additional seizure occurs at 4 minutes and 40 seconds, and another similar seizure with the fast activity from the left frontal region at 3 Hz photic stimulation.  In that seizure, focal spiking is noted at T5.  Photic stimulation does not otherwise activate the record.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing to the left hemisphere with disruption of faster frequency activity.
+Modest slowing from the right.
+Epileptiform activity in the left hemisphere which may be centrotemporal, left hemispheric, or left posterior temple.
+Unusual seizure pattern which seems to start with 14 Hz activity from the frontal and frontotemporal regions on the left but ends with a posterior temporal spike.
+CLINICAL CORRELATION:  This is not substantially different from previous EEG monitoring sessions for this individual, although these seizures are exquisitely focal.  Additional EEG monitoring will be initiated as pharmacotherapy is implemented.
+
+
+

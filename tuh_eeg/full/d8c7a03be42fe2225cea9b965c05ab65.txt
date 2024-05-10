@@ -1,0 +1,21 @@
+History:	53 YR FEMALE WITH WITNESS SZ.  PT STOPPED DILANTIN 3-4 DYS AGO. TREATED FOR TB HEPATITIS, SZS, ESOPHAGEAL VARICES
+Medications:	Lorazepam, Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, lethargic
+Ambulatory EEG
+Continuous EEG monitoring was performed for 32 hours from 08/11/2014 to 08/13/2014.   Nursing-initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  With arousals a diffuse beta is transiently seen.  No normal sleep architecture was captured.
+Intermittent polymorphic delta activity is present in the left parieto central region.  Frequent sharp waves and polyspikes are present at P3/C3 at times they appeared to be periodic at 1Hz. At times they also appear in runs of alpha frequency discharges that do not clearly evolve.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.
+HR is 72
+Summary of Findings:
+Sharp waves, frequent, left parietal
+Focal slowing, polymorphic, continuous, left parietal
+Diffuse slowing, polymorphic, continuous
+Interpretation:
+This is an ABNORMAL EEG because of  left parieto central sharps with some periodicity, these findings are indicative of an acute irritable epileptogenic focus in this region. In addition there is diffuse background slowing and absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction present.
+
+

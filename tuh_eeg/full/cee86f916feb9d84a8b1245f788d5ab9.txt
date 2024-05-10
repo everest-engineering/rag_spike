@@ -1,0 +1,21 @@
+ACTIVATION PROCEDURES:  Photic only.
+CLINICAL HISTORY:  The patient is a 48-year-old man with a history of large left frontal/parietal AVM and seizures diagnosed at the age of 15 and hepatic encephalopathy.  Seizures are described as head turning to the right with right arm shaking without loss of consciousness, last seizure was approximately 4 days ago.
+CURRENT MEDICATIONS:  Carbamazepine, phenobarbital, topiramate, lactulose, rifaximin, Bactrim, and Lasix.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness the posterior dominant rhythm consists of polymorphic, low to moderate amplitude 8 Hz theta activity that attenuates with eyes opening.  There is weak anterior to posterior frequency amplitude gradient over the right hemisphere.  There is no clear posterior dominant rhythm over the left hemisphere and no clear anterior to posterior frequency amplitude gradient over the left hemisphere.  The background over the left consists of polymorphic moderate amplitude mixture of theta and delta. Bursts of frontally predominant rhythmic delta activity, (FIRDA) are present during drowsiness.
+Drowsiness and stage 2 sleep are captured.  There is an asymmetry in sleep architecture with a sleep architecture better formed over the right hemisphere.
+Hyperventilation is not performed.
+Photic stimulation results in occipital driving that is better formed over the right hemisphere.
+FINDINGS:
+Mild diffuse slowing.
+Disorganization.
+Continuous moderate left hemispheric slowing most pronounced over the central, frontal, and temporal regions.
+Brief stage 2 sleep.
+Asymmetry of sleep architecture with better sleep architecture formed over the right hemisphere.
+No epileptiform discharges.
+FIRDA, frontal intermittent rhythmic delta activity is captured during drowsiness.
+IMPRESSION:  This is an abnormal 23-minute awake and sleep EEG due to:  Mild diffuse slowing and focal left hemispheric slowing, most pronounced over the left frontal central temporal regions.  Diffuse slowing indicates nonspecific cerebral dysfunction, that in this case may be partially related to medication effect.  Focal slowing over the left hemisphere is consistent with patient's history of left hemispheric AVM. FIRDA is a nonspecific finding that can be seen in encephalopathy, increased intracranial pressure, or bilateral deep white matter lesions.
+No epileptiform discharges are captured.
+
+
+

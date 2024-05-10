@@ -1,0 +1,14 @@
+History:	69 YR. OLD MALE R HANDED SURGERY TOMORROW 8-20-14 CAROTID ENDARTERECTOMY LEFT. BASE LINE FOR SURGERY 59 CM HEAD
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+Description: Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. Intermittent polymorphic delta activity is present in the bilateral midtemporal regions during wakefulness, increasing during drowsiness.  No epileptiform discharges are present. Hyperventilation and photic stimulation are not performed.  HR was 90 with some APCs
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral temporal, mid
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral midtemporal regions.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.  No clinical or electrographic seizures are present.
+
+
+
+
+

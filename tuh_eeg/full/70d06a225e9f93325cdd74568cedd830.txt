@@ -1,0 +1,37 @@
+AGE: 86 y.o.
+SEX: male
+DATE OF STUDY: 12/28/2015
+RECORDING ENVIRONMENT: ICU Rm 219
+EEG TYPE: Continuous video EEG monitoring EEG #:	LTM 15-368.1 and LTM 15-368.2
+HISTORY:
+86 y.o. male with a history of multiple medical problems, diabetes referred for 18 years video EEG monitoring EEG for screening
+for subclinical seizures. Found unresponsive, hypoglycemic.	Past
+history of ischemic stroke and cerebral atrophy.
+Twitching and unresponsive after hypoglycemia was treated.	The patient remained persistently comatose.
+MEDICATIONS:
+Phenytoin, Vecuronium SEDATION: None
+DAY 1: Dec 28-29 2015
+BACKGROUND: The background demonstrated an initially diffusely slow low-voltage pattern with intermittent attenuation.	By the early morning hours on the 29th, or continuous with brief attenuation.
+Tactile stimulation of the patient produces posturing and muscle artifact but no clear reactivity.	On some occasions, tactile stimulation of the patient produced an attenuation of the background.	By 6 AM, there were some periods of the record with more rhythmic higher amplitude delta
+Generalized SLOWING: marked FOCAL SLOWING: None
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured 72 BPM DAY 1 IMPRESSION & CLINICAL CORRELATION
+Marked background slowing with absence of any of the normal waveforms anticipated for a subject of this age in pathological features with tactile stimulation are all worrisome prognostic features for this elderly gentleman with dementia and previous ischemic white matter pathology
+DAY 2, 06:00 -12/29- 12/30/2015:
+Medications: Phenytoin was held.	No sedative medications, no paralytics
+BACKGROUND: The background demonstrated a diffusely slow
+low-voltage pattern with intermittent attenuation. Overall the record is one of medium amplitude rhythmic delta initially, over time transitioning to lower voltage rhythmic delta.	Tactile stimulation of the patient produces posturing and muscle artifact but no clear	alerting . On some occasions, tactile stimulation of the patient produced an attenuation o the background.
+There is variability in the record, but the record is
+consistently slow, and there is no clinical alerting with the EEG changes.
+GENERALIZED SLOWING:	Marked FOCAL SLOWING: None
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: None
+EKG: A single EKG lead captured 60
+DAY 2 IMPRESSION & CLINICAL CORRELATION and overall impression for this today continuous video EEG monitoring session:
+Markedly abnormal due to:
+#1 replacement of normal background with a markedly slow pattern
+#2 overall, a delta/theta pattern with some variability but no alerting, more than 48 hours after initial hypoglycemic episode. These findings were discussed with the clinical team on the 30th.
+
+
+

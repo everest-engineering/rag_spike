@@ -1,0 +1,20 @@
+
+
+
+HISTORY:  The patient is a 55-year-old woman with HIV disease, prior left occipital stroke, hypertension, and history of hypertensive emergency.  The patient was recently discharged from Johns Hopkins Hospital and was readmitted after she was unable to obtain her seizure blood pressure medicine with seizure and prolonged postictal confusion.
+
+MEDICATION:   Phenytoin, others.
+
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was a bit impulsive and talkative during the EEG.  This 1s a technically acceptable record with impedances in the T1-T2 electrode somewhat higher than 5 kilo ohms.
+
+DESCRIPTION OF RECORD:  A maximal wakefulness, the alpha rhythm on the right, which is 9 Hz.  The right hemisphere is well organized.  The left hemisphere is a little bit lower voltage, with a maximal wakefulness and small degree of underlying slowing.  This pattern with a well organized pattern on the right is seen intermittently and at times the right is slower.  The left hemisphere demonstrates intermittent rhythmic slowing from the left hemisphere, particularly the frontal temporal region.  In relaxed wakefulness and early drowsiness, left anterior temporal or frontotemporal sharp waves emerged, maximum at T1 or S7.  These ranged from lower voltage, discrete sharp waves or almost subtle periodic sharp waves to intermittent higher amplitude, 80 microvolts sharp and slow wave and spike and slow wave complexes, maximum at T1, with a generous field of spread.
+
+Heart rate 72 bpm.
+
+IMPRESSION: This is an abnormal EEG due to:
+1.		Sharp waves from the left hemisphere most of which are left anterior temporal, but with some variability including mid temporal or frontal/frontotemporal.
+2	Intermittent rhythmic slowing from the left hemisphere.
+3.	Much less prominent, occasional slowing on the right.
+4.
+Clinical correlation.   No seizures were identified.  This EEG supports an epileptic focus on the left, which is quite irritative in this patient to has been seizure free for 12 hours.  The focal slowing may be correlated with imaging in this patient with known prior stroke and HIV disease.
+

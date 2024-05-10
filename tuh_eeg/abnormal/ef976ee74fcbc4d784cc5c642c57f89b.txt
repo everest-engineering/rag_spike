@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  37 year old left handed woman with epilepsy since childhood and a break-through seizure a week ago.  Past history of left-sided encephalomalacia and gliosis.
+MEDICATIONS:  Tegretol, Lamictal.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat poorly organized.  There is a scant, 10-Hz alpha rhythm.  The major abnormalities in this record include left anterotemporal sharp waves.  These can be reviewed with an average reference and may be maximum at T1, F7, or occasionally FP1.  They are accentuated by hyperventilation and drowsiness.  There is rare, hypersynchronous bilateral theta and one or two bursts of focal, right central temporal slowing. Both hyperventilation and photic stimulation seem to increase epileptiform activity.  Brief sleep is characterized by vertex waves and an increase in beta.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Prominent, left anterotemporal sharp waves and spikes noted in wakefulness and sleep.
+Background slowing and disorganization.
+Rare slowing on the right.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for epilepsy.  There were no previous EEGs for comparison.  Despite the patient's abnormality in the left occipital region, the epileptiform activity is in the left temporal region.
+
+
+

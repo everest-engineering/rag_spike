@@ -1,0 +1,16 @@
+
+CLINICAL HISTORY:   44 year old woman with HIV, epilepsy, bipolar disease. Seizures in April and July 2009 after patient stopped her Trileptal.
+
+MEDICATIONS:  Metoprolol, Reyataz, Combivir, Seroquel, ASA, Prazosin, Dapsone, Levemir
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are preformed.
+
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, but there is
+an 8.5 hertz alpha rhythm with a generous amount of background beta. Hyperventilation produces an increase in slowing in the background. Features of drowsiness include an increase in beta followed by an increase in theta. Hypersynchronous activity is noted in drowsiness. Photic stimulation elicits scant driving.
+
+HR: 	90 bpm
+
+IMPRESSION:   EEG at the limits of normal.
+
+CLINICAL CORR  ELATION: There are no epileptiform features observed. If further characterization of her epilepsy is an important consideration, a repeat study capturing sleep is advised.
+

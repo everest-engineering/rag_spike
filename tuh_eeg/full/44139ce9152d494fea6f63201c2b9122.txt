@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  39 year old female with a history of HIV, pneumonia, recently changed mental status and cerebral edema.
+MEDICATIONS:  Pantoprazole, Zosyn.
+REASON FOR STUDY:  Unresponsiveness.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while comatose.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely abnormal background with no normal posterior dominant rhythm or frontal central beta.  There is the absence of any normal electrical activity seen on the brain.  When reviewed at 2 mV per mm sensitivity, the only clear electrical activity that can be seen is an EKG artifact throughout the recording.
+ABNORMAL DISCHARGES:  Lack of any normal electrical cerebral activity.
+IMPRESSION:  Abnormal EEG due to:
+Lack of electrical cerebral activity.
+CLINICAL CORRELATION:  This EEG reveals absence of normal electrical cerebral activity.  Based on the clinical setting, this could be due to severe hypoxic injury and consistent with severe brain injury and brain death.  However, other excluding factors,
+including hypothermia or medications which can present a similar pattern should be clinically excluded.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 56-year-old, brought to the emergency room, acting strangely.  History of cardiac disease with pacemaker and smoking.
+MEDICATIONS:  Heparin.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a bedside portable record without hyperventilation or photic stimulation.  It was generally technically acceptable.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 7 Hz posterior dominant rhythm.  The patient is quite drowsy, drifting off to sleep or becoming restless.  Both generalized background slowing and shifting slowing were noted, a bit more so on the left than the right.
+Deeper stages of sleep were not achieved.
+Heart rate 102 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.  The slowing of the alpha rhythm.
+Arrhythmic delta activity which may be symmetric or demonstrates shifting asymmetries.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a diffuse disturbance of cerebral function affecting both gray and white matter.  A toxic or metabolic encephalopathy or other diffuse disturbance of cerebral function, they all produce these findings.
+
+
+

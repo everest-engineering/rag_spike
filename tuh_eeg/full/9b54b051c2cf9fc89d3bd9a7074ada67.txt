@@ -1,0 +1,14 @@
+MEDICINES:  Vimpat, Keppra, baclofen, oxybutynin, aspirin.
+CLINICAL HISTORY:  A 57-year-old woman admitted May 7th after recurrent seizures, persistently lethargic.
+INTRODUCTION:  One-hour digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is technically acceptable bedside record with most impedances under 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The background EEG for this patient, who demonstrates eye opening demonstrates a continuous pattern, diffusely slow with a mixture of theta and delta.  Superimposed upon this, there is more clearly defined focal slowing in the right hemisphere with disruption of faster frequency activity.  When the patient is unstimulated, she seems to drift into a drowsy state with more of a diffuse slow background.  The asymmetry is not quite as prominent.  Three sharp waves were identified in this record, one well-defined T4 sharp wave and 2 poorly defined T4-T6 sharp waves.
+Heart rate:  78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing noted from the right hemisphere, seen primarily when the patient is more awake.
+Rare right temporal sharp waves.
+CLINICAL CORRELATION:  No seizures were recorded.  The background slowing is improving.  Overall, this record is similar to this patient's previous studies. The sharp waves support a focal mechanism for epilepsy
+
+
+
+

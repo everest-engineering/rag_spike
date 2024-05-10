@@ -1,0 +1,38 @@
+History:	46 year old man with right sided ICH, found to be in status epilepticus.
+Medications:	Versed and Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~24 hours from ~6 am on 6/1/2014 till ~ 6 am on
+6/2/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+neurologist.  The Gotman spike and seizure detection algorithm (Stellate) was used to screen the
+EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture of low amplitude
+polymorphic theta and delta activity admixed with periods of discontinuity.  Additional polymorphic
+delta activity is noted over the right posterior -temporal-parieto-occipital region.  No normal sleep
+architecture is present but periods of arousal and quiescence are noted.
+Discrete broad right P4/O2 sharp waves are observed intermittently.  No clear electrographic
+seizures are captured.
+An irregular heart rate is noted on a single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right, temporal-parietal-occipital region
+Sharp waves, intermittent, right posterior, P4/O2; broad
+No electrographic seizures
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG due to moderate diffuse slow, focal right
+temporo- parietal -occipital slowing and intermittent right posterior quadrant epileptiform
+discharges. Diffuse sowing is indicative of moderate diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Continuous focal slowing is indicative of a focal structural lesion in this
+region.  There is an epileptogenic focus over the right posterior quadrant.  No electrographic
+seizures are present.  These findings were conveyed to the primary team.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Adult male with epilepsy at least since 2004.  Seizure free for many years but diagnosed with severe heart failure, s/p Pacemaker. Still slightly confused.
+MEDICATIONS:  Keppra, Depakote, Pradaxa, others.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is a technically acceptable EEG although not all impedances were under 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, and the patient is quite drowsy.  In maximal wakefulness, there is a 10 Hz alpha rhythm but the patient quickly becomes drowsy with a dropout of the alpha rhythm and a lower voltage beta pattern.  Other features of drowsiness include slowing of the alpha rhythm or POSTS.
+Photic stimulation elicited scant driving.
+Heart rate:  60 BPM.
+IMPRESSION:  This electroencephalogram is within normal limits.
+CLINICAL CORRELATION:  A low-voltage EEG is not considered pathological.  No background slowing was noted in this EEG today.  Of note, the patient had a history of left temporal sharp waves in 2004, but has been seizure free for many years and epileptiform activity has not been seen since that time.
+
+
+

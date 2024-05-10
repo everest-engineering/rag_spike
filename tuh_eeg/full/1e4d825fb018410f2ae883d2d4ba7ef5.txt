@@ -1,0 +1,15 @@
+LENGTH OF THE RECORDING:  26 minutes.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.  Both hyperventilation and photic stimulation were performed.
+HISTORY:  The patient is a 22-year-old woman who is 13 weeks' pregnant.  While in the emergency room she was observed to have seizure-like activity lasting approximately 2 minutes.  This occurred twice.  The patient was aware but was unable to speak.
+PAST MEDICAL HISTORY:  Notable for chronic gastritis, gastric ulcers, asthma, kidney stones and panic attacks.
+CURRENT MEDICATION:  Zofran.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of a well-formed modulated moderate amplitude 2.5 Hz alpha activity.  Voltages of posterior dominant rhythm are higher over the right hemisphere by approximately 50%.  During sleep, symmetrical vertex waves, sleep spindles and K complexes are captured.  Prominent POSTS (positive single sharp transients of sleep) are captured primarily over the right hemisphere.  Additionally, epochs similar to REM sleep are observed as well.  During those epochs, bursts of alpha activity is captured over the posterior leads, primarily over the right hemisphere only.  Hyperventilation does not result in change in the background.  Photic stimulation results in asymmetrical driving at low frequencies with occipital driving observed only over the right hemisphere.
+FINDINGS:
+Voltage asymmetry of the posterior dominant rhythm, with voltages higher over the right by approximately 50%.
+Prominent POSTS over the right hemisphere.
+Occipital driving observed over the right only at the low voltage frequencies.
+__________ REM sleep captured, __________ sleep captured.
+IMPRESSION:  This is an abnormal awake and asleep 26-minute EEG due to asymmetry of occipital alpha rhythm voltages, with higher voltages over the right hemisphere by approximately 50%, as well as occipital driving observed at the lower frequencies only over the right hemisphere.  These findings suggest focal cerebral dysfunction over the left posterior region.  Additionally, capturing of REM-oriented sleep during routine EEG is unusual and clinical correlation of an underlying sleep disorder is suggested.
+
+
+

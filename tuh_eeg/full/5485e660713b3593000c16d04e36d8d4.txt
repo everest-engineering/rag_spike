@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 35-year-old woman with a sharp pain in the back of her head for the past month.
+MEDICATIONS:  None reported.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well organized with a 10 Hz, 30 mV posterior dominant rhythm and a generous amount of low voltage, frontocentral beta.  Drowsiness is characterized by attenuation of the alpha rhythm with rhythmic central theta.  Other features of drowsiness include an increase in beta.
+Hyperventilation produces scant background slowing.  Photic stimulation elicited a bilateral driving response.  Heart rate 72 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

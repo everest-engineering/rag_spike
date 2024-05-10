@@ -1,0 +1,10 @@
+MEDICATIONS:  Atenolol, nifedipine, others.
+HISTORY:  An 87-year-old male with intermittent lightheadedness or dizziness, which occurs while going down the steps or brushing teeth.
+INTRODUCTION:  A 22-minute digital video EEG was performed in the patient's room using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically acceptable awake EEG.  The patient was asked to do maneuvers such as standing and brushing teeth while standing in an attempt to replicate his symptoms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm.  The overall EEG is appropriately organized for an adult of this age.
+EKG: Heart rate ranges between 66 and 84 BPM.  The patient's heart rate did not significantly increase when he stood and brushed his teeth, and there were no epileptiform features noted with the tooth brushing.  He was not particularly tachycardic, in fact the heart rate was 66 during the tooth brushing.
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this EEG, and this patient's clinical symptoms did not occur with tooth brushing.  If epilepsy is an important consideration, additional recording may be of value.
+
+
+

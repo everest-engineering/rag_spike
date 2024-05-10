@@ -1,0 +1,24 @@
+History:	53 year old woman with long-standing epilepsy.
+Medications:	Depakote, Phenobarbital
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+During maximal arousal the posterior dominant rhythm reaches 9 Hz polymorphic alpha activity.
+PDR is primary 7-8 Hz.  The AP gradient is weak.  Excess diffuse admixed 50-75 uV, 7-8Hz activity
+is present throughout the recording and increases during drowsiness.  During drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 24-minute EEG because of mild diffuse slowing.  This
+finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  No
+epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+

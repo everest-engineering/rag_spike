@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This 61-year-old male with autoimmune encephalitis.  Patient has intermittent episodes of hand trembling associated with tachycardia.
+MEDICINES:  Seroquel, Lamictal, Xanax, Deltasone, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable 22 minute EEG, although impedances were not checked.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity, and scant background theta.  Lambda was noted in wakefulness.
+Hyperventilation was associated with an increase in theta.
+Photic stimulation elicited scant driving.
+HEART RATE: irregular, 60 bpm.
+IMPRESSION:  This EEG is remarkable for
+mild excess background theta.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified with this record.  The background theta is a nonspecific finding, which may be part of this patient's diffuse disturbance of cerebral function.  Additional EEG monitoring will be completed to more completely characterize this individual's epileptiform activity.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 65-year-old male with schizophrenia, alcohol abuse, admitted with 2 seizures.
+MEDICATIONS:  10 mg Ativan
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was relatively somnolent throughout.  This was a somewhat technically challenging record due to background muscle artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, and relatively featureless with slow, low-voltage delta.  In this low-voltage pattern, there is a suggestion of a little bit more slow delta in the right posterior quadrant but there is also some head-rocking artifact.  Low amplitude, rare, discrete sharp waves were noted in the right mid temporal region with on rare occasions an after going slow wave.
+Tactile stimulation of the patient produced moaning and stiffening.
+Heart rate 67 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with a low voltage, slow pattern.
+A suspicious, rare, low voltage, right temporal sharp waves in the context of a low voltage background.
+CLINICAL CORRELATION:  This EEG is most supportive of the significant, diffuse disturbance of cerebral function affecting gray and white matter such as a toxic or metabolic encephalopathy or pharmacologic effect.
+The subtle temporal sharp waves raise the possibility of a localization-related mechanism for seizures.
+
+
+

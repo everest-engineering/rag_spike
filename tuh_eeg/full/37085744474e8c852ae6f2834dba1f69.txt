@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 68-year-old woman with small cell lung cancer, breast cancer now with multiple cerebral metastases.
+MEDICATIONS:  Oxycodone, Cymbalta, Haldol, opioids.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient appears to be somnolent and/or confused.
+DESCRIPTION OF THE RECORD:  This is a technically challenging EEG with a great deal of muscle and movement artifact.  The overall background is slow and disorganized but when the patient starts to drift to sleep there is more of a rhythmic theta pattern.  Despite the technical limitations, there is shifting arrhythmic delta activity slightly more on the left than the right.
+Heart rate 150 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing and disorganization.
+Excess theta.
+Arrhythmic delta left greater than right.
+CLINICAL CORRELATION:  No epileptiform features were identified; however, epileptiform features may be under recognized given the muscle artifact.  If seizures are an important consideration a follow up test may be considered.
+
+
+

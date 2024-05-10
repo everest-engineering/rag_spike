@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  54 year old right handed woman pre-op baseline for ascending aortic arch surgery.  Past history of mental retardation, epilepsy, migraine history, hepatic tumor.
+MEDICATIONS:  Depakote, Fosamax, Verapamil, Betimol, Xalatan, Flonase, ASA, Calcium, Multi-Vit
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not performed, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 11 Hz alpha rhythm of 40 microvolts.  The patient transitions rapidly into stage II sleep with hypnagogic hypersynchrony, then vertex waves.  There is some muscle artifact in the transition between wakefulness and sleep compatible with bruxism.  Photic stimulation elicits scant driving.
+HR:    66 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features are identified in this individual with a history of both mental retardation and epilepsy.
+
+
+

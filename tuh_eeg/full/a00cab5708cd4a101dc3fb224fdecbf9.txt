@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 60-year-old gentleman with severe mental retardation, blindness, epilepsy, and dementia.
+MEDICATIONS:  Abilify, Aricept, Tegretol, Mysoline, Lamictal, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is a technically acceptable EEG in a challenging individual.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a low voltage pattern with generous beta and scant theta.  Asymmetric eye movement artifact was noted.  There is also a slight asymmetry with a bit more rhythmic slow delta in the right hemisphere in comparison to the left. There are arousals with an increase in alpha and theta frequency activity noted.
+Photic stimulation elicited scant driving at intermediate flash frequencies.
+Heart rate 78 BPM.
+IMPRESSION:  This EEG is remarkable for:
+Paucity of a normal awake morphology is noted for an adult.
+An asymmetry with a bit more slow, lower voltage delta noted on the right.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The slow background supports a diffuse disorder of brain function. The asymmetric delta described above may be correlated with imaging.  The asymmetric eye artifacts is likely related to ocular pathology
+
+
+

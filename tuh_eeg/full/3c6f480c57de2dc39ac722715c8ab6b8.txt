@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 48 year old right handed male with end stage renal disease, stroke with hemiparesis, and epilepsy. Epilepsy history unclear. Chronic dementia.
+
+MEDICATIONS: Keppra, Coumadin, Celexa, Norvasc, Lisinopril, Simvastatin, Minoxidil, Levetiracetam, Amlodipine, Citalopram
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This patient has difficulty sitting in the EEG chair and is recorded sitting up.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a prominent interhemispheric asymmetry. The right hemisphere is relatively well organized with an 11 Hz alpha rhythm and mu, but the left hemisphere demonstrates focal slowing with arrhythmic delta activity and an overall background of theta. The alpha rhythm is disrupted on the left compared to the right. Hyperventilation is not possible, but photic stimulation elicits scant driving on the right.
+
+HR: 78 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing from the left hemisphere characterized by disruption of faster frequency activity and the presence of slower delta theta.
+
+CLINICAL CORRELATION: There are no epileptiform features noted. The findings described above are compatible with a previous stroke as documented in the history.
+
+

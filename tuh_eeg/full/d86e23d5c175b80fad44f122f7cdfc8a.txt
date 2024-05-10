@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 61-year-old woman with upper GI bleed and an episode of unresponsiveness, January 15th with left gaze deviation for 3-4 minutes.
+PREVIOUS EEGS:  N/A.
+MEDICINES:  Hydralazine, levetiracetam, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred, but photic stimulation was completed.  This was an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm.  There are waveforms reaching 7.5-9 Hz noted in the posterior dominant rhythm.  Drowsiness is characterized by slow rolling eye movements.
+Photic stimulation did not activate the record.
+The overall background has scant background theta.
+HEART RATE:  75 BPM.
+IMPRESSION:  Mildly abnormal EEG due to:
+Scant excess theta.
+Mild slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Previous EEGs not available at this time.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep or comparison with previous studies may be of value.
+
+
+

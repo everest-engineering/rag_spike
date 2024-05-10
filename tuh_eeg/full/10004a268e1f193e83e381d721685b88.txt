@@ -1,0 +1,18 @@
+History:	76 YR OLD FEMALE PRESENTS WITH H/O LT ARM/LEG WEAKNESS AND TWITCHING, RT MCA INFART. FOCAL-SIMPLE PARIETAL SZ  FOLLOW UP EEG NOW AS OP
+Medications:	PHENOBARBITAL, PLAVIX, ZETIA, CRESTOR, HCTZ, NORVASC, LOPRESSOR
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. Nearly continuous rhythmic delta activity is present in the right frontotemporal region during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 54 and irregular
+Summary of Findings:
+Focal slowing, polymorphic, nearly continuous, right frontotemporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of nearly continuous focal slowing in the right frontotemporal region.  This finding is indicative of severe focal cerebral dysfunction in this region, likely structural in origin.
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  74 year old right handed male with epilepsy following MVA, currently seizure free for many years; heart disease; hypertension.
+MEDICATIONS:  Diovan, Losartan, Symbicort, Tegretol, Amlodipine, Nephro, Lopressor, Spiriva, Prednisone, Albuterol, Tamsulosin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is disorganized.  There is an alpha rhythm of approximately 6 Hz, somewhat slower on the left compared to the right.  There are occasional bursts of 2-3 Hz delta noted, particularly in the posterior regions.  The overall pattern is somewhat disorganized.  Drowsiness is characterized by an increase in background slowing.  Fluctuating asymmetries are observed. Photic stimulation does not activate the record.  The patient seems to be drifting off to sleep during photic, and a little bit more slowing is noted in the left posterior quadrant.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+Disorganization.
+Shifting slowing with a bit more slowing in the left posterior quadrant.
+A slow alpha rhythm which is also somewhat asymmetric.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric process involving the left hemisphere more significantly than the right.  No epileptiform features were seen, however, an individual with epilepsy may not demonstrate epileptiform activity in each EEG.
+
+
+

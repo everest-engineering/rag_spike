@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 64-year-old male with alcoholic cirrhosis, alcohol withdrawal seizures, esophageal cancer, stroke and hepatitis C.  The patient was referred to the EEG lab for frequent auras of a shaky feeling lasting 1-2 minutes.
+
+MEDICATIONS:  Clonidine, folate, Keppra, Remeron, others.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.
+
+DESCRIPTION OF THE RECORD:  The background EEG is quite low voltage and includes a fair amount of muscle artifact as well.  Despite the low voltage EEG, there seems to be a low voltage pattern with theta and also some trembling artifact.  Hyperventilation produces an increase in amplitude of the background.
+
+The drowsy pattern is remarkable for an increase in beta.  There seems to be lateral rectus eye movement artifact in the frontal regions and there may also be a breach rhythm.  Photic stimulation did not activate the record.  Heart rate 60 BPM.
+
+IMPRESSION:  This is a technically challenging, but abnormal EEG due to what appears to be a low voltage slow pattern.
+
+Given the technical issues described above, a follow-up EEG capturing more extensive sleep may be of value.  The patient's low voltage pattern in combination with the muscle artifact makes it difficult to identify some of the normal anticipated findings in wakefulness.
+
+

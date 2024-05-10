@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 49-year-old woman with prior status epilepticus, status post cerebral biopsy.  The patient reports persistent peri-incisional pain with severe headaches, but no seizures.  Left homonymous hemianopia.
+MEDICATIONS:  Oxycodone, Keppra, Atarax, Klonopin, Lexapro, retrovirals.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging EEG with most impedances below 5 kilohms.  The patient was uncomfortable, drowsy and had a prominent craniotomy site in the right occipital region, which was tender to touch.
+DESCRIPTION OF THE RECORD:  Much of the record includes stage 2 sleep with vertex waves, K complexes, spindles, and POSTs.  In brief wakefulness, there is a clear asymmetry between the 2 hemispheres.  There is a glimpse of an 8.5 Hz alpha rhythm on the left with a background with generous beta.  From the right hemisphere, there was both a prominent breach rhythm as well as higher amplitude sharply contoured theta frequency activity.  Some of the theta frequency activity is relatively invariant, approximately 5 hertz.  Intermittently, there is more arrhythmic delta activity noted in the right occipital region.
+Just prior to photic stimulation, the activity in the right occipital region seems to evolve.  It had been at 5 hertz, just before the photic stimulation increases brief sleep is 6 hertz, and then starts to demonstrate frequency evolution, slowing to 3 to 4 Hz.  At slower frequency activity, there seems to be a notched or subtle underlying sharp wave noted in the occipital region.  There is frequency evolution noted during the 1 hertz stimuli and the evolving activity continued after the 1 hertz stimuli concludes by 3 seconds.  The patient is awake and interacting with the technologist during the stimuli and does not report any clinical symptoms.  The technologist notes no change in the patient's level of awareness.  Additional photic stimulation does not clearly change the overall background, although there is a suggestion again of frequency evolution noted with a subtle onset during the 17 hertz stimuli, but then with frequency evolution with slowing during the 19 hertz stimulation.
+Heart rate 84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Single electrographic, subclinical seizure noted with onset just before the 1 hertz stimulation and potentially 2nd seizure during the 17 hertz stimulation.
+Continuous focal slowing from the right occipital region.
+Excess beta.
+CLINICAL CORRELATION:  The focal slowing is in the region of the patient's structural lesion.  The breach rhythm of the sharply contoured activity in that region with more higher amplitude and more
+sharply contoured.  The presence of evolving frequency activity suggest subclinical seizures.  The patient will be contacted and re-evaluated in the clinic regarding these findings.
+
+
+
+

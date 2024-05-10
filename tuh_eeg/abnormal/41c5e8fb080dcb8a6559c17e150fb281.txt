@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  28 year old right handed woman who had an amnestic spell, followed by loss of consciousness with tonic clonic seizure.
+MEDICATIONS:  Oral contraceptives.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized and includes a 10 Hz, symmetric reactive alpha rhythm.  Rhythmic theta is identified.  Photic stimulation elicits vigorous bilateral driving. Hyperventilation elicits produces hypersynchronous rhythmic theta with some notched, bilateral theta.
+HR:    60 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  The rhythmic 5 Hz activity noted in hyperventilation is a normal variant.
+
+
+

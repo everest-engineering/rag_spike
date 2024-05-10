@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  34 year old female with ADHD, diabetes, anemia, sarcoidosis, complaints of strange events happening once or twice per week.
+MEDICATIONS:  Vyvanse and Tegretol.
+REASON FOR STUDY:  Intermittent episodes of abnormal behavior.
+INTRODUCTION:  Digital video long-term EEG monitoring was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike and seizure detection software was used to review the EEG.  In addition, nurses' notes as well as patient reported events were also used to review the EEG.
+TECHNICAL DIFFICULTIES:  During the recording, there were multiple episodes where the patient was moving around, agitating and scratching on the electrodes which caused multiple electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm 9-10 Hz which is reactive to eye opening.  The patient has normal frontocentral beta.  The patient's was recorded in wakefulness and sleep, stage 1, stage 2 and stage 3.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  None.
+SEIZURES OR CAPTURED EPISODES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  During this day 1 of recording, there have been no episodes captured.
+
+
+

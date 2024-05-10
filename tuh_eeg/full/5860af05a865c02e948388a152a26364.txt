@@ -1,0 +1,43 @@
+History:	78 year old woman status post SAH.
+Medications:	none listed
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 20 hours from 10/16/2014 till 10/17/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  There is right-to-left intrahemispheric asymmetry with slower
+waveforms and lower voltages over the left.  The background over the right consists of mixture of
+polymorphic theta and delta activity.  Additionally, intermittent moderate-to-high amplitude right
+frontal sharp waves are noted in the second half of the recording.  Maximal scalp negativity is over
+F4  and F8 electrodes.  The background over the left, consists of attenuated slow polymorphic delta
+activity.  Prominent triphasic waveforms are seen during periods of stimulation, right>left.  No
+normal sleep architecture is present.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Sharp waves, intermittent, right frontal, seen in the second half of the recording
+Focal slowing, polymorphic, continuous, severe, left hemispheric
+Attenuation, left hemispheric
+Triphasic waves, bilateral (R>L)
+Interpretation:
+This is an ABNORMAL continuous video 20-hour EEG due to (1) moderate diffuse slowing ; (2)
+severe left hemispheric slowing and attenuation, (3) triphasic waveforms and (4) intermittent RIGHT
+frontal epileptiform discharges that appear in the second half of the recording.  Diffuse slowing is
+indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous
+focal slowing and attenuation over the left indicates focal structural lesion in this region as well as a
+possible fluid collection between the brain and a skull (such as subdural hematoma).  There is a
+potential epileptogenic focus over the  right frontal region.  Triphasic waves are a nonspecific EEG
+finding that can be seen in hepatic encephalopathy, uremia and anoxia.  Asymmetry of triphasics
+waves is related to the asymmetry of the background.  No electrographic seizures are present.  These findings were conveyed to the primary team.
+
+
+
+
+
+

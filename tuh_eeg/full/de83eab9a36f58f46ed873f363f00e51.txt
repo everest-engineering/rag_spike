@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 26-year-old, right-handed woman with mental retardation and multiple falls, which are attributed to her epilepsy.
+MEDICATIONS: Tegretol.
+INTRODUCTION: Digital video EEG is performed in the Long-Term Monitoring Unit.  The reviewable section of the record begins with the patient awake. No clinical events were reported in this portion of the record.  This section of the record concludes at 12:15.
+RANDOM WAKEFULNESS AND SLEEP: In maximum wakefulness, the background EEG is reasonably well organized, but remains slow for an adult of this age.  In maximal wakefulness, there is some eye movement artifact.  There are also some likely difficulties with the EEG channels in the left frontal region.  In the early portion of the record, in apparent sleep, there is likely REM.  This is seen at approximately 6:00 AM.  The initial drowsy portions of the record are complicated by some loss of electrode integrity.  There are some bursts of sharply contoured delta, however, the electrodes in this region are of poor quality.
+HR:  70 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Unusual epileptiform discharges, some of which include rhythmic, frontally predominant delta but with additional recording over additional days demonstrating a frontal maximum.
+One clinical event in sleep with jerking of the thorax in association with the frontal delta.
+CLINICAL CORRELATION: In these frequent bursts, without an individual present to perform testing in wakefulness, it is difficult to establish a clinical correlate, but many of the bursts did occur when the patient was participating in what appeared to be normal activity. There appears to have been one clinical event with a 9-second burst associated with brief jerking of the thorax. This could be relevant with this patient’s history of drop events.
+
+
+
+

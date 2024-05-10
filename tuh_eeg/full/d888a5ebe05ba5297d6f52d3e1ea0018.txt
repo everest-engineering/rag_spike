@@ -1,0 +1,31 @@
+History:	18 year old man with a history of a recent GSW to the left hemisphere, status post
+craniotomy.  Patient had an acute change in his mental status today, concerning for
+subclinical seizures.
+Medications:	Keppra, Morphine PRN
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 9-9.5 Hz alpha activity posteriorly with expected AP gradient.
+The background over the left consists of fragmented polymorphic 8 Hz theta activity posteriorly with
+weak AP gradient and excess polymorphic theta and delta activity.  Theta and delta activity is
+especially pronounced over the left temporal region and  left posterior quadrant.  During
+drowsiness, there is increase in theta activity diffusely.
+No clear epileptiform discharges are captured.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, mild, left hemispheric
+Focal slowing, polymorphic, continuous, moderate, left, temporal and posterior quadrant region
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 23-minute portable EEG due to focal mild left
+hemispheric slowing that is especially pronounced over the left temporal region and posterior
+quadrant. This finding is indicative of a focal structural cerebral dysfunction, likely structural in
+etiology and is consistent with patient's history of left hemispheric GSW and craniotomy.  The lack
+of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+These findings were conveyed to the primary team.
+
+

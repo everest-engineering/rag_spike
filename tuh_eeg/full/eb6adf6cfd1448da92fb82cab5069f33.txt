@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 61-year-old male with a history of hypertension, diabetes, and cocaine abuse.  Recent CABG.  Stroke alert on December 6, patient now not following commands with CT scan of brain demonstrating left MCA infarct and bilateral cerebellar infarcts.
+MEDICATIONS:  Ativan, midazolam, amiodarone, fentanyl, Klonopin, others.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a dynamic pattern.  Some sections of the record demonstrate low-voltage theta.  Other sections demonstrate morphology compatible with stage II sleep with spindles and vertex waves.  Stimulation of the patient produces a clearly reactive pattern with an increase in theta, although there are brief attenuations.
+Heart rate 78 bpm.
+IMPRESSION:  This is a relatively unremarkable EEG for what appears to be a sedated patient.
+CLINICAL CORRELATION:  The vertex waves and spindles are normal findings.  With arousal, there was a theta pattern, although there was an attenuation.  Given the use of sedative hypnotic medications, the pattern described above is an anticipated finding.
+
+
+

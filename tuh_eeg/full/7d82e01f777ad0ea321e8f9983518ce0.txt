@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  61 year old right handed male with refractory epilepsy with rare nocturnal seizures typically with an aura.
+MEDICATIONS:  Depakote, Keppra, Glipizide, Diovan
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  Drowsiness is characterized by slow rolling eye movements and attenuation of the alpha rhythm. Hyperventilation produces a small amount of background slowing. Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION: This patient has had multiple, normal routine EEGs in the last 6 years.  In comparison with his previous inpatient EEG monitoring would be necessary to capture epileptiform activity.
+
+
+

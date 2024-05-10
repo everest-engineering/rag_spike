@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 26 year old right handed woman with an intracerebral hemorrhage and epilepsy, left sided weakness, but increasing headaches.
+MEDICATIONS:  Keppra, Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 10 Hz alpha rhythm of 20-30 mV.  The overall amplitude is relatively low voltage. Brief drowsiness is characterized by attenuation of the alpha rhythm. Hyperventilation produces an increase in amplitude. Photic stimulation elicits scant driving.
+HR:    66 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No focal features were identified.  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy and a low voltage pattern is a normal finding.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  54 year old woman with refractory epilepsy, previously seizure free, now with recurrent seizures this year after medications changes.  Seizures characterized by confusion and slobbering.  The patient had a seizure last week characterized by facial twitching.
+
+MEDICATIONS:  Paxil, Risperidone, Tegretol.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This was an awake and asleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized and includes a 10.7 Hz alpha rhythm of 50 microvolts and a small amount of low voltage, frontocentral beta activity.  Deeper stages of sleep were not achieved.  Photic stimulation elicited brief bilateral driving.  Hyperventilation produced a small amount of theta.
+
+HR:    60 bpm
+
+IMPRESSION:  Normal EEG.
+
+CLINICAL CORRELATION:  This is the second, normal EEG for this individual who has been experiencing an increase in her seizures in the past year.  Additional, either prolonged EEG capturing deeper stages of sleep or an overnight recording may be helpful to characterize epilepsy.  Alternatively, review with her previous EEGs might also be successful.

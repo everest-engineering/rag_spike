@@ -1,0 +1,28 @@
+History:	58 year old man with a history of a single seizure.
+Medications:	None
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Occasional polymorphic delta activity is present in the left anterior temporal region during.
+Hyperventilation is performed for 240 seconds with good cooperation, and exacerbates focal
+slowing in the left anterior temporal region.  Stepped photic stimulation from 1-21 flashes per
+second (fps) does not produce any effect.  HR was 60.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, left temporal, anterior, mild-to-moderate
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 42-minute EEG due to occasional mild-to-moderate left
+anterior temporal focal slowing. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  The lack of epileptiform discharges on a
+routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,28 @@
+History:	28 year old man with a history of seizures since 2009.  He has ~1-2 seizures per
+year.  Last seizure occurred in 5/2015.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by low voltage 10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is a NORMAL 28-minutes EEG, awake and drowsy.  No epileptiform discharges were present,
+but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information.
+
+
+
+
+
+

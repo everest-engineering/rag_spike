@@ -1,0 +1,45 @@
+History:	52 year old man with a history of a liver transplant in 2011 now presents with
+episodes characterized by flushing lights and confusion.  A spot EEG on 1/23/2015
+showed focal status epilepticus.
+Medications:	Keppra, Ativan, Vimpat
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~13 hours from 1/23/2015 till 1/24/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+Awake background is characterized by low amplitude 10 Hz alpha activity with preserved AP
+gradient.  PDR is subtly slower over the left occipital region.  Diffuse excess beta activity is present.
+During sleep, symmetrical vertex waves and sleep spindles are captured.
+There are frequent clinical and electrographic focal seizures early in the recording (status
+epilepticus).  Their frequency gradually decreases and last clear seizure is captured at ~ 1:49 AM
+on 1/24/2015.  Seizures start with very low amplitude fast activity over the O1 electrode. This
+activity rapidly spreads to O2 electrode.  It also increases in amplitude, decreases in frequency and
+spreads over the left parietal and posterior temporal region.  Gradually, there is diffuse semi-
+rhythmic monomorphic theta activity.  Seizures on average last ~ 2 minutes.  A good seizure
+example is at 6:54 PM on 1/23/2015.  There is no push button for any of these events.
+Summary of Findings:
+Status epilepticus, left occipital, early in the recording
+Seizure, frequent, left occipital, last seizure at ~1:49 AM
+Beta, excessive
+Focal slowing, polymorphic, marked, left occipital
+Interpretation:
+This is an ABNORMAL 13 -hour continuous video EEG due to mild left occipital slowing and
+frequent left occipital seizures (and frank focal status epilepticus early in the recording). This finding
+is indicative of an epileptogenic likely structural focus in the  left occipital region.  Last clear seizure is captured at ~ 1:49 AM on 1/24/2015  Excessive beta activity could be secondary to the
+medication effect, such as benzodiazepines or barbiturates.  These findings were conveyed to the
+primary team.
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+﻿History:	77 YO MALE
+INCISION: 1005
+PULMONARY THROMBOENDARTERECTOMY
+Medications:	INDUCTION MEDS: ETOMIDATE, SUCCINYLCHOLINE, FENTANYL, VERSED,
+VECURONIUM. OTHERS: FLURANE, NITRO, EPI
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  As the surgery progressed the EEG revealed a background  which consists
+of a continuous mixture of diffuse delta with interposed beta. This background slowly became
+slower some periodic sharp waves are seen over the right anterior temporal region and then
+become generalized. The background continued  to become more diffusely attenuated as the
+patient is cooled until the it became symmetrically completely isoelectric.  The EEG remains
+Isoelectric for hours and then as the patient is warmed the background slowly become a symmetric
+mixture of delta frequencies with some frontal beta until the end of the record.  BODY COOLING:
+1045  HEAD COOLING: 1050 SUPPRESSION: 1121 5 MIN MARK 1126 CIRCULATORY ARREST:
+1134,CARDIAC ARREST:1050
+HEAD WARM: 1237
+BODY WARM: 1237
+HEPARIN: 1028 / 27,000
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+No electrographic seizures
+Interpretation:
+This is an uneventful 5.4 hour EEG during cooling for a pulmonary thromboendarterectomy.
+
+
+

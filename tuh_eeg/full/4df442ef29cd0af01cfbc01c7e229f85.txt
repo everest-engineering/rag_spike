@@ -1,0 +1,23 @@
+History:	50 year old man found down.
+Medications:	Ativan
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, obtunded
+Description:
+There is no PDR or AP gradient.  With stimulation and during arousals the background consists of
+diffuse attenuated slow delta activity.  During periods of quiescence the background consists of
+diffuse frontally predominant sleep-spindle-like waveforms.
+No electrographic seizures are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL portable 21-minute EEG due to moderate-to-severe diffuse slowing. This
+finding is indicative of moderate-to-severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.  There is clear background reactivity.  It is a good prognostic indicator.
+
+
+
+

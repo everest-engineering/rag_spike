@@ -1,0 +1,29 @@
+History:	56 YO MALE W/ WITNESSED SZ INVOLVING RAPID MVNT'S OF THE ENTIRE
+BODY LASTING < 2 MIN, FOLLOWED BY A STAE OF CONFUSION.PMHX: HTN,
+HEP C, CVA X2 ICH R FRONTO-PARIETAL, LRE NON MED COMPLIANT, OTCH.
+Medications:	Zonisamide
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present independently in the bilateral midtemporal
+region.  Frequent focal sharp waves are present with phase reversal and amplitude maximum at
+F8/T4 and rarely at F7/T3 .
+Hyperventilation and photic stimulation are not performed.  Hr was 78
+Summary of Findings:
+Sharp waves, frequent, right temporal, anterior
+Sharp waves, rare, left temporal, mid
+Focal slowing, polymorphic, frequent, bilateral temporal, mid
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the right anterior and midtemporal region, as well as rarely in the left midtemporal region.
+These findings are indicative of a potentially epileptogenic focus in these regions, and given the
+clinical history of partial seizures, are consistent with a diagnosis of localization-related epilepsy. In
+addition,  there intermittent focal slowing in the bilateral midtemporal region.  This finding is
+indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in
+

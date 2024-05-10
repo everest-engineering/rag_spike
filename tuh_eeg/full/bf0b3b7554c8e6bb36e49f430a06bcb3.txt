@@ -1,0 +1,30 @@
+History:	73 year old woman who presented with inability to speak and hemiparesis, tPA
+administered.
+Medications:	No Sedatives
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+There is right to left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 8.5 Hz alpha posterior, preserved AP gradient and excess
+polymorphic theta activity.  The background over the left consists of 7 Hz unstable PDR and
+polymorphic theta and delta activity, especially anteriorly.  Patient remains awake throughout the
+No clear epileptiform discharges are captured.
+Hyperventilation and photic stimulation are not performed.  There is nearly continuous EMG
+artifact over the left lateral leads.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Diffuse slowing, polymorphic, mild
+Artifact, EMG, nearly continuous, lateral leads on the left
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only portable 21-minute EEG due to mild diffuse slowing and
+moderate continuous left hemispheric slowing. Diffuse slowing is indicative of mild diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative focal cerebral
+dysfunction, likely structural in etiology.  No clear epileptiform discharges are captured.  However,
+nearly continuous EMG artifact over the left lateral leads could have masked subtle epileptiform
+discharges emanating from that region.
+
+
+

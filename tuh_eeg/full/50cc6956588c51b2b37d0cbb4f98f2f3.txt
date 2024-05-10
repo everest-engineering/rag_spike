@@ -1,0 +1,50 @@
+AGE : 75 y.o.
+SEX: female
+DATE OF STUDY: 12/30/2015
+RECORDING ENVIRONMENT : outpatient
+EEG TYPE: 20-40 min, awake and asleep EEG # : 15-1877
+HISTORY :
+75 y.o. female with a history of childhood headaches referred for routine EEG for severe headaches.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+phenytoin (DILANTIN EXTENDED) 100 mg ER capsule, Take 1 capsule by mouth 2 times daily.
+lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, Take 1 tablet by mouth daily .
+Lorazepam (ATIVAN) 2 mg tablet, Take 1 tablet by mouth at bedtime .
+omeprazole (PRILOSEC) 20 mg capsule, Take 1 capsule by mouth daily.
+metoprolol tartrate (LOPRESSOR) 25 mg tablet , Take 1 tablet by mouth 2 times daily.
+meloxicam (MOBIC) 7.5 mg tablet, Take 1 tablet by mouth daily. atorvastatin (LIPITOR) 10 mg tablet , Take 1 tablet by mouth daily.
+levothyroxine (SYNTHROID) 125 mcg tablet, Take 1 tablet by mouth daily.
+alendronate (FOSAMAX) 70 mg tablet, Take 1 tablet by mouth every 7 days.
+GLUCOMETER, GENERIC,, by Misc. (Non-Drug; Combo Route) route. Use as directed
+Blood Sugar Diagnostic (BLOOD GLUCOSE TEST) Strip, by Misc. (Non-Drug; Combo Route) route. As directed
+Lancets (LANCETS, SUPER THIN) Misc, by Misc. (Non-Drug; Combo Route) route. As directed
+Alcohol Swabs (ALCOHOL PREP SWABS) Pads, Medicated, Apply topically. As directed
+nitroglycerin (NITROSTAT) 0.4 mg SL tablet, Place 0.4 mg under the tongue every 5 minutes as needed.
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is low voltage but symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.	Wakefulness is characterized by	Scant, symmetric and reactive 12 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, is a prominent increase in beta and rhythmic central theta
+Sleep gauge 2 sleep was not sustained
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Deferred
+Photic Stimulation: Scant driving identified EVENTS:
+There are no clinical or electrographic events captured during
+this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and drowsy	routine EEG.
+There is a low-voltage pattern with generous beta but this is a normal finding in the subject of this age
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake and drowsy	routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+

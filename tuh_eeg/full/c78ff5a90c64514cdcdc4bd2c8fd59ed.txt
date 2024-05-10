@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  40 year old right handed male with childhood epilepsy diagnosed in 2007.  Two to 3 seizures per month characterized by gait disturbance, left sided weakness, lightheadedness, confusion, postictal confusion, loss of consciousness, and motor activity.
+MEDICATIONS:  Depakote, Motrin, Trazodone.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz, 30 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta. Drowsiness is characterized by an increase in beta and brief attenuation of the alpha rhythm.  There is also some frontal central theta in drowsiness. Hyperventilation produces an increase in frontal central beta. Photic stimulation elicits discreet bilateral driving.
+HR:    78 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  To more completely evaluate this patient's epilepsy, consideration for a more prolonged sleep record, or even a prolonged record capturing one of his spells is suggested.
+
+
+

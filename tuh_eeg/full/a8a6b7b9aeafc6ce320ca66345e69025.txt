@@ -1,0 +1,19 @@
+HISTORY:
+A 23-year-old male with unknown handedness previously treated in Puerto Rico for a tumor requiring shunt, now with headaches and seizures, status post shunt revision on July 11, 2011.
+MEDICATIONS:
+Keppra, Dilaudid, Topamax, morphine, others.
+INTRODUCTION:
+Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one-channel EKG. This is an acute postoperative patient, who complained of significant scalp discomfort.
+DESCRIPTION OF RECORD:
+The background EEG is somewhat challenging with muscle movement artifact. There is an 8 Hz alpha rhythm identified. There is no information regarding the side of the craniotomy, but there is a bit more higher amplitude in the left frontotemporal region in comparison to the right. The right seems to be a little bit lower voltage and attenuated.
+Features of drowsiness including increasing delta. There are occasional bursts of paroxysmal slowing observed bilaterally. Rare vertex waves and POSTS are seen, but those are observed followed by arousals.
+Heart rate 60 bpm.
+IMPRESSION:
+Abnormal EEG due to:
+1. In apparent wakefulness, some degree of background slowing.
+2. An asymmetry between the left than the right with the lower voltage and a bit more suppressed pattern on the right.
+CLINICAL CORRELATION:
+No epileptiform features were observed. This is a technically somewhat challenging EEG. The asymmetry noted may have been impacted by the impedance issues. If epilepsy is an important consideration, a followup study when the patient is more comfortable is suggested.
+
+
+

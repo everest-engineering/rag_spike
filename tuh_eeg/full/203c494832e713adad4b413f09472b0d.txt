@@ -1,0 +1,27 @@
+History:	65 YO MALE WITH HX OF SZ AND MENTALLY CHALLENGED. FAMILY REPORTS
+HE HAS NOT HAD SZ'S IN >1 YEAR. EVENTS INCLUDED TONGUE BITING AND
+EYES ROLLED UP IN HEAD, SHAKING FOR ABOUT 2-3 MIN. BASELINE TOOK
+AN HOUR.
+Medications:	Dilantin, Luminal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a  low voltage 15-20uV, 9Hz alpha rhythm, which
+attenuates symmetrically with eye opening.  Symmetric 5 uV, 18-25Hz activity is present, maximal
+over bilateral frontal regions.  During drowsiness, the background slows to central theta activity,
+frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes
+No focal slowing is present.  During HV a single brief bursts (9 seconds) of symmetric generalized
+frontally-maximal spike-and-wave discharges occur with a regular repetition rate of 3 to 3.5Hz.  No
+clinical correlate was noted during this burst. However the patient was not tested.  There were some
+fragments of GSW seen.
+Hyperventilation is performed for 240 seconds with good cooperation, with an epileptiform burst
+(see above).  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any
+effect.  HR was 66
+Summary of Findings:
+Spike-and-wave complexes, 3Hz, few generalized
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of  generalized epileptiform discharges,
+which is consistent with a diagnosis of  idiopathic generalized epilepsy.  No seizures were seen.
+

@@ -1,0 +1,19 @@
+History:	21 YR MALE FOLLOW UP EEG LAST SZ 3 MONTHS AGO. PT NON COMPLIANT TO MEDS.  PMHX: HEAD TRAUMA AGE 2 CRANIOTOMY 1996 (COULD NOT LOCATE)  PRIMARY NOTES STATES CRANIOTOMY. COMA, DEVELOPMENTALLY DELAYED. GSW ABD 3/15.
+Medications:	Dilantin, Neurontin, Trileptal, Flexeril
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.
+Summary of Findings:
+Excessive fast
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+
+

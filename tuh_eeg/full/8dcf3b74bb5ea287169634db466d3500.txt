@@ -1,0 +1,9 @@
+INTRODUCTION: This is the last section of video EEG monitoring.  This section of the recording is primarily sleep.  No clinical events are noted during this portion of the record.
+DESCRIPTION OF THE RECORD: The vast majority of the record is sleep.  What is probable slow wave sleep is identified, but is relatively low voltage.  Abundant stage II sleep is also noted.   Wakefulness continues to be characterized by symmetric, reactive background.
+HR:  66 BPM.
+TENTATIVE IMPRESSION: Normal prolonged video EEG monitoring.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If further information is required, a study capturing one of the patient’s typical events would be necessary.
+
+
+
+

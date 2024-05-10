@@ -1,0 +1,46 @@
+History:	73 year old man with a known seizure disorder and right frontal tumor status post
+craniectomy, now presents after a generalized convulsion, found to have focal
+seizures on a routine EEG on 4/24/2015.
+Medications:	Dilantin and Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  ~24 hours from 4/25/2015 till 4/26/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+The awake background consists of moderate amplitude 9.5-10 Hz alpha activity that attenuates with
+eye opening.  The AP gradient is weak.  During sleep, the background consists of a mixture of
+polymorphic theta and delta activity.
+Continuous polymorphic delta activity is present in the bilateral anterior regions during wakefulness,
+increasing during drowsiness.  Additionally, underriding fast activity is observed over the bilateral
+anterior regions.  Frequent left prefrontal sharp waves are present.  Maximal scalp negativity occurs
+over the Fp1 lead.  Several electrographic focal left frontocentral seizures are captured from
+~11:25 AM till ~1:10 PM.  They last ~45-70 seconds and do not have a clear clinical correlate.
+They start with moderate amplitude rhythmic somewhat polymorphic left frontocentral theta activity
+(maximal over F3).  Longer ictal runs evolve into moderate-to-high amplitude ~4 Hz polymorphic
+Hyperventilation and photic stimulation are not performed.  There is significant Fp1 ad Fp2 lead
+artifact starting at ~ 8 PM.  Patient pulls all of the leads off by ~ 3:30 am.
+Summary of Findings:
+Sharp waves, intermittent, left anterior
+Seizure, few, left frontal
+Focal slowing, polymorphic, continuous, moderate, bilateral anterior
+Breach artifact, bilateral anterior
+Interpretation:
+This is an ABNORMAL ~24-hour continuous video EEG due to continuous bilateral, right>left,
+anterior moderate focal slowing, intermittent left anterior pre-frontal epileptiform discharges and
+several 45-70 second left frontocentral very focal seizures without clear clinical correlate.  These
+
+findings indicate bilateral pre-frontal cerebral dysfunction and epileptogenic focal structural lesion Fp1 sharp waves with aftergoing slow waves.
+over the left pre-frontal/ frontocentral region.  These findings were conveyed to the primary team
+and patient's medications were adjusted.  Breach artifact is secondary to the skull defect.
+
+
+
+
+

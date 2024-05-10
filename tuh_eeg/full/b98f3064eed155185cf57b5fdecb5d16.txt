@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 60 year old right handed woman who had a dizzy spell, fell and had a subsequent seizures in the emergency room. Past history of back pain and anxiety.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in Jab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat slow. There is an alpha rhythm which is intermittently at 10 Hz but much of the time is slower. The patient appears to be quite drowsy drifting off into sleep. There are occasional bursts of shifting slowing with vertex waves in stage I sleep. Vertex waves and POSTS as well as a handful of spindles are noted as the patient transitions in and out of sleep. Photic stimulation does elicit a driving response.
+
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent generalized background slowing.
+CLINICAL CORRELATION: These findings should be interpreted in caution in a subject who appears to be excessively sleepy. There were no epileptiform features observed. If epilepsy is an important consideration, a followup study should be obtained in the Lab in search of epileptiform activity.
+
+
+
+

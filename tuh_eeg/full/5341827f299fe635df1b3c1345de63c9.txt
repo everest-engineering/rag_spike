@@ -1,0 +1,29 @@
+History:	62 year old man with a history of seizures, alcohol abuse, stroke, encephalopathy.
+Medications:	none provided.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+The posterior dominant rhythm consists of moderate amplitude well formed and modulated and
+reactive 10.5-12 Hz alpha activity.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Patient remains awake throughout the recording.
+Shifting independent bilateral temporal polymorphic theta and delta activity is captured.  A single
+sharp transient is present over the left anterior temporal region.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, moderate, bilateral (L>R) temporal, shifting slowing;
+Sharp transients, one, left temporal, anterior
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only 22 minute EEG due to independent bilateral shifting moderate
+temporal focal slowing. This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific, but possibly structural in origin.  The presence of a single left anterior temporal sharp
+transient is of uncertain clinical significance.  No clear epileptiform discharges are present, but
+stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+
+
+
+
+

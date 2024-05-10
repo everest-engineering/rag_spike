@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 43 year old right handed male who has experienced seizure like episodes since May 2009.
+MEDICATIONS: Keppra.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient remains mostly drowsy throughout the record.
+DESCRIPTION OF THE RECORD: The patient has a background alpha of 10 hertz. The patient is mostly drowsy throughout the record and it is a low voltage record. Vertex waves are noted during drowsiness. In addition, sleep spindles are noted during stage II sleep. Photic stimulation produces nice driving response.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform activity. A normal EEG do not exclude a diagnosis of epilepsy.
+
+
+

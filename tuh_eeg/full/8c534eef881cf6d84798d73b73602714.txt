@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 56-year-old woman with a long history of epilepsy, previous EEG monitoring in an outside hospital, now with daily seizures, which are ill-described by the patient.  She states that her neighbor noticed that they had stroke-like features with facial drooping and her left hand moving behind her body.
+MEDICATIONS:  Lexapro, oxcarbazepine, topiramate, others.
+INTRODUCTION:  Twenty-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, fronto-central beta.  In sleep, there is slowing of the posterior dominant rhythm and then rhythmic theta, but sleep was not sustained and there is a glimpse of stage 1 sleep and then spontaneous arousals.  Hyperventilation produces rhythmic slowing in the background.  Photic stimulation was performed while the patient was drifting off to sleep and did not clearly identify a driving response.
+Heart rate 72 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  This patient will undergo EEG monitoring to more completely characterize her epilepsy.
+
+
+

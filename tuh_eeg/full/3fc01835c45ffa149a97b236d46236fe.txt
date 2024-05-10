@@ -1,0 +1,30 @@
+History:	53 YR MALE WITH EPISODE OF EYE ROLL BACK/MM U/L EXT, X 2 SEC. WITH
+LOC.  POST CONFUSION WITH DIZZY X 30 MIN.  PT STATES HAD THIS BEFORE
+FIRST X HD.  PT JUST FINISHED HD.  PMHX: ESRD, CAD (CEA2011), CVA, DM,
+HTN, HEP C
+Medications:	KEPPRA, ALPRAZOLAM, CARVEDILOL, TEMAZEPAM, PANTOPRAZOLE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  HR was 84.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.
+
+
+
+
+

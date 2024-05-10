@@ -1,0 +1,27 @@
+History:	67 year old man with a history of seizures.
+Medications:	Ativan 4 mg, Keppra, neurontin, morphine.
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, obtunded
+Description:
+There is no PDR or AP gradient.  The awake background consists of slow diffuse polymorphic delta
+activity with underriding fast activity.  During periods of quiescence, diffuse sleep-spindle-like
+waveforms are captured.
+No electrographic seizures are captured.
+A single EKG lead demonstrates an irregular heart rate up to 120 bpm.
+Summary of Findings:
+Beta, excessive
+Diffuse slowing, polymorphic, moderate-to-severe
+No electrographic seizures
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL 22-minute portable EEG due to moderate-to-severe diffuse slowing. This
+finding is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.  A single EKG lead demonstrates an irregular heart rate up to 120
+
+
+
+
+

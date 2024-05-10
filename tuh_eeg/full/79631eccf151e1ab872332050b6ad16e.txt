@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 55 year old right handed convulsive seizures after head trauma in 1995. No seizure medications listed.
+MEDICATIONS: Glipizide, Metformin, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: The overall EEG is relatively low voltage with generous beta and a glimpse of a 9.5 Hertz alpha rhythm. Hyperventilation increases the amplitude of the background as well as producing a small amount of theta. There are slight asymmetries as the patient transitions in and out of sleep with a little bit of shifting theta a bit more prominent in the left temporal region. Photic stimulation elicits bilateral driving.
+HR: 90 bpm
+IMPRESSION: Very minimally abnormal due to:
+I. Shifting frontal theta in the transition to sleep.
+CLINICAL CORRELATION: No epileptiform features are observed. The findings described above are nonspecific, may be related to this patients previous head trauma or other, subtle underlying process.
+
+
+

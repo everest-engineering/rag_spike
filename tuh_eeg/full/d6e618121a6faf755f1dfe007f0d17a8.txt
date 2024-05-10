@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 50-year-old woman with recurrent loss of consciousness, severe agitation.  Patient pharmacologically sedated in the emergency room and intubated.
+MEDICATIONS:  Versed, propofol, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was examined and in fact had procedures during the EEG.
+DESCRIPTION OF THE RECORD:  The initial sections of the EEG are continuous with a mixed frequency background with generous beta and theta.  As medications are adjusted, the EEG demonstrates a pattern  of intermittent attenuation  Tactile stimulation of the patient produces a more continuous pattern.
+Heart rate: 91 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with a mixed frequency of theta-beta pattern.
+Transition to a burst suppression pattern with adjustment of sedative-hypnotic medications.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In this bedside emergency room recording, during the continuous sections of the record, there is a suggestion of a small degree of underlying left-sided slowing but the overall pattern is one of a generalized or pharmacologic pattern.
+If additional information is needed, a repeat study when the patient is no longer requiring sedation is suggested.
+
+
+

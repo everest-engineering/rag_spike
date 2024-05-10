@@ -1,0 +1,30 @@
+History:	78 Y/O MALE PMHX.BLADDER
+CA,COPD,ASTHMA,PARKINSON'S,HTN,DM,GERD.CARDIAC ARREST TO ED
+WOKE UP THIS AM COMPLAINING OF SOB,MOTIONED TO WIFE WAS UNABLE
+TO SPEAK WENT TO GET WATER BUT PASSED OUT WAS UNRESPONSIVE.
+Medications:	HEPARIN, INSULIN, CLONAZEPAM
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta activity with absence of the expected anterior to posterior gradient of frequencies.  No
+normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  Hr was 102  Technical difficulties: Almost continuous muscle artifact
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, severe diffuse
+Disorganization
+Interpretation:
+This is an ABNORMAL limited EEG because of severe diffuse background slowing, low voltage and
+absent alpha rhythm.  These findings are etiologically nonspecific indicators of severe diffuse
+cerebral dysfunction.  No clinical or electrographic seizures are present.
+
+
+
+
+
+

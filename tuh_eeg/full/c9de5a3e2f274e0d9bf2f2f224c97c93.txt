@@ -1,0 +1,29 @@
+History:	25 YR OLD FEMALE PRESENTS WITH H/O SZ ONSET AT AGE 24, SZ AR WITH
+LOC, TONGUE BITING, SHAKING AND POSTICTAL CONFUSION, LAST SZ X 1
+WEEK AGO
+Medications:	Keppra 500 MG
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is excess 7 Hz theta activity during wakefulness.  During brief
+drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by
+symmetric vertex waves.  Occasional brief bursts of diffuse, frontally-maximal polymorphic 1 to 2 Hz,
+80-100 uV slow waves are observed during drowsiness.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving.  HR 70
+Summary of Findings:
+Diffuse slowing, polymorphic
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing.  These
+findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

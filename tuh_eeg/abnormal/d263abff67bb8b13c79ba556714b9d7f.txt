@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 42 year old right handed woman with epilepsy, last seizure 2 weeks ago, seizures last 2-5 minutes and occur 1-3 times per month.
+MEDICATIONS: Keppra, Glyburide, Metformin, Lovastatin
+INTRODUCTION:╖ Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10-Hz alpha rhythm but the alpha rhythm is asymmetric and it is somewhat intermittently slower on the left in comparison to the right. There are occasional, left mid temporal sharp waves noted and some of these are sharp and slow waves and others are spike and slow waves complexes. Hyperventilation is performed early on in the record and does accentuate the focal epileptiform features. Drowsiness follows hyperventilation at which point there is some arrhythmic delta activity in the left mid temporal region as well as the sharp waves noted above. Photic stimulation is performed as the patient is drifting off to sleep. There is a bilateral driving response despite the ongoing presence of focal sharp waves and focal slowing.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Left temporal focal slowing.
+2. Left mid to anterior temporal focal sharp waves.
+CLINICAL CORRELATION: This EEG supports a focal mechanism for seizures and may be correlated with imaging.
+
+
+

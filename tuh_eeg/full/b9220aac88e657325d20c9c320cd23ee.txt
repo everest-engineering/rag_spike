@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 43-year-old woman with lupus, acute stroke with slurred speech and right arm weakness.
+MEDICATIONS:  Lovenox, aspirin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record and hyperventilation and photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Focal slowing was noted in the left hemisphere with sharply contoured slowing at T1 and T3.  Tactile stimulation of the patient elicited higher amplitude T3 sharp waves.  Hyperventilation seems to accentuate the left temporal focal slowing.  Features of drowsiness include anterior spread of the alpha rhythm.  Photic stimulation elicits a bilateral driving response.
+IMPRESSION:  Abnormal EEG due to:
+Intermittent left temporal focal slowing.
+Left temporal broadly contoured sharp waves.
+CLINICAL CORRELATION:
+This EEG supports a structural or functional abnormality on the left, congruent with history provided above.  The sharp waves raise the possibility of seizures.
+
+
+

@@ -1,0 +1,33 @@
+History:	52 year old woman who presents with cerebritis and recurrent seizures.
+Medications:	Phenobarbital, Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  24 hours from 4/26/2014 till 4/27/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by trained nurses
+and EEG technologists.   All automatically detected events were reviewed in detail by the
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists of attenuated polymorphic diffuse delta
+activity with underriding excess fast activity.  No normal sleep architecture is present.
+No seizures are noted.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe
+Beta, excessive
+Attenuation, moderate
+Interpretation:
+This is an ABNORMAL 24 hour continuous video EEG because of severe background slowing and
+attenuation.  This finding is indicative of severe diffuse cerebral dysfunction that in this case at
+least partially related to the medication effect.  Excessive beta activity could be secondary to the
+medication effect, such as benzodiazepines or barbiturates.  These findings were conveyed to the
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 43 year old right handed woman with epilepsy for one to two years. History of headaches, tinnitus, and seizures.
+MEDICATIONS: Klonopin, Topamax,  Ciprofloxacin, Gabapentin,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is abnormal. The overall background is slow with posterior dominate rhythm below 8.5 Hz. The technologist notes that the patient's scalp is dirty and that she seems extraordinarily sleepy. In relaxed
+wakefulness there are paroxysmal bursts of high amplitude rhythmic frontally predominate 3.5 to
+4 Hz activity some of which is notched.  The patient is awake, during hyperventilation and the video is used to confirm the patient is in fact awake, but vertex sharp waves are noted with paroxysmal bursts of rhythmic theta in hyperventilation. Other features of hyperventilation include the intermittent paroxysmal slowing. Photic stimulation does not active the record, but again these paroxysmal 3.5 Hz activity in the frontocentral regions, activity is noted with a questionable vertex sharp wave.
+HR:   72 bpm
+IMPRESSION: Abnormal EEG due to:
+1.	Background slowing.
+2.	Paroxysmal 3.5 Hz activity.
+3.	Vertex waves in apparent  wakefulness.
+4.	?Frontocentral spike and wave activity.
+CLINICAL CORRELATION:  This appears to be a pathological pattern, however, additional evaluation may be appropriate marked sleep deprivation could produce micro-epochs of stage 1 sleep.  Then, if she is thought to have seizures, more prolonged EEG recording may be helpful to  more completely characterize her epileptiform focus.
+
+
+

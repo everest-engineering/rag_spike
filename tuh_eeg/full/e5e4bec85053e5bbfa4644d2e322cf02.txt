@@ -1,0 +1,31 @@
+MEDICATIONS:  Ativan, Keppra, Coumadin, phenytoin, others.
+
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was poorly responsive, febrile with intermittent clonus.
+
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous, mixed frequency pattern with generous beta as well as lower voltage mixed delta and theta.  In this overall low voltage pattern, there is intermittent lower voltage slowing noted in the left hemisphere.
+
+The patient is intermittently awake and somewhat interactive with the heart rate increased to 130 bpm.  Tactile stimulation of the patient reproductivity produces clonus in the right leg, which produces artifacts in the alpha and beta frequency range.
+
+Heart rate 130 bpm.
+
+IMPRESSION:  This EEG is remarkable for:
+1. A diffusely slow pattern with a mixture of beta and theta at times.
+2. Intermittent focal slowing from the left hemisphere.
+
+CLINICAL CORRELATION:  Although the patient appears to be poorly responsive, at times, the patient is clearly alerting with eye opening and the presence of alpha frequency activity in the background.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

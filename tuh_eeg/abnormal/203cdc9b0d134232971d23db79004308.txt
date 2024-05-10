@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  22 year old right handed male with a childhood brain tumor, complex partial epilepsy, seizure free since 2007. Left frontocentral craniotomy.
+MEDICATIONS:  Trileptal
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is 9.5 hertz 50-70 microvolt posterior dominant rhythm. A breech rhythm is remarkable in the left frontotemporal region with a marked increase in amplitude in that area. Intermittent focal slowing is noted. In stage II sleep, vertex waves and spindles are noted. The breech rhythm is quite prominent and there are some vertex waves that phase reverse to the left of the midline. Hyperventilation accentuates the focal slowing. Photic stimulation does elicit a driving response.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left central temporal focal slowing.
+CLINICAL CORRELATION:  No sharp waves or spikes were identified. The focal slowing and the breech rhythm are anticipated findings following craniotomy.
+
+
+

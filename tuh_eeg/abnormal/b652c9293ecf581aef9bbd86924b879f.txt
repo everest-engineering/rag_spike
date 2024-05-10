@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 48-year-old woman with epilepsy since age 13.  Past history of grand mal seizures, but seizure free until June of 2012.  The patient now has episodes of poor responsiveness while awake with eyes open.
+MEDICATIONS:  Tegretol and Neurontin.
+INTRODUCTION:  This is a digital video EEG performed in the lab using the standard 10-20 system of electrode placement.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8-Hertz alpha rhythm.  Excess 7-Hertz theta activity is observed in the background.  Very brief, stage 2 sleep includes vertex waves and spindles.  Hyperventilation did not activate the record, but photic stimulation elicited a driving response.  Heart rate was 84 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Slowing of the alpha rhythm.
+Excess theta.
+Wicked activity was identified in drowsiness.  This is a normal phenomenon.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 34-year-old woman with seizures lasting up to 30 minutes with loss of consciousness.  The seizures occur several times per week.
+MEDICATIONS:  Dilantin 300 mg.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically satisfactory EEG with impedances under 5 kilohms with the exception of the T1-T2 electrodes.  The technically challenging record in a patient, who seemed to be quite anxious with a great deal of beta and muscle artifact.  Hyperventilation and photic stimulation were completed.  This is primarily an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is prominent muscle artifact, but there is also generous beta.  Reviewing the video, it is difficult to see significant tremor artifact, but there is a 9.7 Hz alpha rhythm and some background theta. Sleep was not sustained.
+Hyperventilation did not significantly activate the record.  Photic stimulation elicited a driving response, which could be identified underneath the movement artifact.
+Heart rate 84 BPM.
+IMPRESSION:  This EEG is remarkable for,
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The excess beta and excess theta can be due to many different processes including medication effect.  The beta may be seen in the context of anxiety.
+If epilepsy is an important consideration, a repeat tracing capturing sleep may be of value.
+
+
+

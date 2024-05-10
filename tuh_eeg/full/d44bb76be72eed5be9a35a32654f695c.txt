@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 76-year-old male with acute right parietal infarct and encephalopathy.
+MEDICINES:  Gabapentin, heparin, Norvasc, atorvastatin, and insulin.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not possible.  The patient was drowsy.
+DESCRIPTION OF THE RECORD:  The patient is drowsy throughout much of the record, with lower voltage delta and theta pattern.  Shifting asymmetries were noted in the record, but when the patient is stimulated, there is a 9 Hz alpha rhythm identifiable on the left.  The record is slower on the right.  As the patient drifts off to sleep, however, there is more of a pattern of shifting slowing.
+Stimulation of the patient produces brief alerting.
+Heart rate:  60 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Disruption of faster frequency activity in the right hemisphere in wakefulness.
+CLINICAL CORRELATION:  No seizures or epileptiform features were identified.  These findings may be correlated with history and imaging.
+
+
+
+

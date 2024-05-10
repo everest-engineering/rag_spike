@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  Refractory temporal lobe epilepsy now with frequent falling, impaired dorsal column function, and hyperreflexia.  The patient also reports that 3 times per day, he has an electrical shock from his vagal nerve stimulator.
+MEDICATIONS:  Vimpat, Lamictal
+INTRODUCTION:  Continuous video EEG monitoring was utilized using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient had a great deal of difficulty with testing, removing electrodes.  He was also at times incorrigible.
+DESCRIPTION OF THE RECORD:
+Time Samples, Wakefulness and sleep:
+In wakefulness, the EEG includes generous beta.  There is a 9 Hz posterior dominant rhythm.  Unfortunately, there is more artifact noted in the left temporal scalp electrodes compared to the right.   Despite electrode challenges, left anterior temporal sharp waves were noted in sleep.
+Over the course of the evening, electrode integrity is lost particularly on the right but, fortunately, the left scalp electrodes continue to demonstrate focal slowing, and frequent left temporal sharp waves, particularly in sleep.
+EVENT:  Time 9:27:03 p.m.:  The patient is awake and in bed.  There is artifact noted at 9:22:21. The patient sits up, stiffens, and becomes restless.  There is an aide in the room who interacts with the patient.  The patient is described as stretching and shaking and then the aide goes to get the nurse.  The nurse enters at 9:27:57.  The EEG demonstrates an awake patient.  The patient is not talking to the nurse although the EEG demonstrates an awake pattern.
+In a minute or so the patient is talking to the nurse.  Of note, initially, he is using his left hand a bit more than his right but then uses them bilaterally.
+The patient recalls the event and states that he received an electrical shock from the stimulator and that this was not his typical seizure.
+EKG:  N/A.
+IMPRESSION/CLINICAL CORRELATION: No definitive seizures with electrographic changes were noted, but there was a behavioral event of indeterminate significance.
+The epileptiform activity with T1 maximum sharp waves and spikes in sleep has been previously identified  for this subject.
+
+
+

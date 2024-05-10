@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 18 year old right handed male with head trauma at age 2; the patient fell out of a window, had an intracerebral hemorrhage, was in a coma and may have had a depressed skull fracture; with recent 20-minute seizure and prolonged postictal period.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and briefly drowsy record.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the EEG is well organized with a 9.5 Hz alpha rhythm. As the patient becomes drowsy, there is somewhat asynchronous theta noted. In addition, there is a drop out of the alpha rhythm, a little faster in the left hemisphere with a little bit of slowing on the left relevant to the right. Hyperventilation produces an increase in theta. Photic stimulation elicits vigorous driving with harmonic and super-harmonic driving. Super-harmonic driving is seen with faster frequency activity. Stage I sleep includes vertex waves.
+HR: 60 bpm with occasional PVCs.
+IMPRESSION: Very mildly abnormal EEG due to:
+1.Several asymmetries in the temporal region, particularly as the patient becomes drowsy with left greater than right temporal theta.
+2. Disrupted alpha as the patient transitions toward sleep.
+CLINICAL CORRELATION: No epileptiform features were seen. In addition, there were no specific features to suggest an inherited mechanism for epilepsy.
+
+
+

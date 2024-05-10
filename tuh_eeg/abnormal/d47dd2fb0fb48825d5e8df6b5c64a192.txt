@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 54-year-old male with tonic/clonic seizures, admitted with alcohol intoxication, now requires preoperative clearance for orthopedic surgery for limb fracture.
+MEDICATIONS:  Protonix, Lovenox, thiamine, and Serax.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and asleep record.  Technical quality was satisfactory.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Drowsiness is characterized by slow rolling eye movements with rhythmic central theta and then vertex waves followed by arousal.  The patient has a fair amount of muscle even into to stage 1 sleep.  Brief stage 2 sleep includes K complexes and then arousals.
+Heart rate:  84 bpm.
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  There are no focal or epileptiform features noted in this bedside record.  Frequent spontaneous arousals from sleep were noted.  These may be correlated clinically.
+__________________________
+
+
+

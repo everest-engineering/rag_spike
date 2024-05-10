@@ -1,0 +1,33 @@
+History:	54 YO LH FEMALE PRESENTED TO ED POST ICTAL SEIZURE. PT FOUND ON
+THE GROUND AND CONFUSED BY CAREGIVER.RETURNED TO BASELINE
+AFTER 30 MIN.
+PMHX: SZ, MDD, HYPOTHYROID, HX OF AED NON-COMPLIANCE
+Medications:	SYNTHROID, DEPACON X2, LOVENOX
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, photic
+Description:
+No posterior dominant rhythm was present. During maximal wakefulness, the background consist of
+a mixture of low to moderate amplitude polymorphic delta and theta activity.  Background activity
+was characterized by diffuse delta and theta activity with absence of the expected anterior to
+posterior gradient of frequencies.  No normal sleep architecture was present.
+Intermittent polymorphic delta activity is present in the left temporal region during wakefulness,
+increasing during drowsiness.  Frequent independent moderate to high amplitude bitemporal sharp
+waves with after going slow waves are noted, worse on the left side.  No clinical or electrographic
+seizures were present.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR 60
+Summary of Findings:
+Diffuse slowing, polymorphic
+Focal slowing, polymorphic, left temporal
+Sharp-and-slow-wave complexes, frequent, bilateral (L>R) temporal, independent
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of diffuse cerebral dysfunction.  intermittent
+focal slowing in the left temporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.  frequent independent epileptiform discharges in the bitemporal
+regions, worse on the left side were noted.   These findings are indicative of a potentially
+epileptogenic focus in these regions.  Clinical correlation is recommended. No electrographic
+
+

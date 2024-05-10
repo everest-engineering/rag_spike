@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 72-year-old gentleman with epilepsy, admitted after a stroke alert with slurred speech.  Past history of stroke, chronic right hemiparesis, renal failure, hypertension, hyperlipidemia, coronary artery disease, and bilateral AKA.
+MEDICATIONS:  Keppra, Protonix, lisinopril, Lipitor, Coreg, warfarin, vitamin B.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was tachypneic and uncomfortable, but was able to participate in the study, which captures wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background from the right hemisphere demonstrates a medium amplitude diffusely slow pattern with 6-7 hertz theta activity and suggestion of a 7 Hz posterior dominant rhythm.  The left hemisphere demonstrates primarily 1-3 hertz rhythmic delta activity with a phase reversal at T1.  On occasion, there is a suggestion of some faster frequency activity in the left occipital region, and lambda.  Drowsiness is characterized by an increase in background slowing.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to,
+Continuous rhythmic slowing from the left hemisphere.
+Sharply contoured slowing with T1 phase reversal.
+Moderate slowing from the right hemisphere.
+CLINICAL CORRELATION:  These findings are similar to a previous study from 2014.  No seizures were recorded.  This EEG supports a structural or functional abnormality in the left hemisphere, and with a sharply contoured slowing suggests a localization-related mechanism for seizures.
+
+
+
+
+

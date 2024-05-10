@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 23-year-old woman with hypersomnolence, but insomnia at night.  Patient was a boxer at age 12 and had multiple closed head injuries.
+MEDICATIONS:  Flonase, Claritin, and Singulair.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was a routine, 20 minute EEG with hyperventilation and photic stimulation.  Impedances were under 5 kilohms with the exception of the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm and a fair amount of muscle artifact.  When unstimulated, the patient drifts off to sleep with prominent, high amplitude posts.  Vertex waves were noted in stage 1 sleep as where noted in stage 1 sleep.  K complexes and spindles were noted in stage 2 sleep.
+Photic stimulation was performed while the patient was drifting into stage 2 sleep, and did not activate the record.  Hyperventilation was remarkable for a fair amount of muscle artifact, and some background slowing.
+Heart rate 72 bpm.
+IMPRESSION:  This is a technically somewhat challenging EEG due to muscle artifact, but is remarkable for:
+No focal or epileptiform features.
+Generous stage 2 sleep
+CLINICAL CORRELATION:  If additional information is needed, a followup test capturing deeper stages of sleep or using additional techniques may be of value.
+
+
+

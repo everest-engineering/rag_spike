@@ -1,0 +1,15 @@
+MEDICATIONS:  Dopamine, nipride, labetolol,  insulin, Versed drip was initiated at 2-4 mg/hr.
+HISTORY:  A 37-year-old male, status post cardiac arrest on the morning of the 27th.  EEG monitoring for hypothermic protocol.  The patient is noted to have involuntary jerking of the face at the onset of the EEG monitoring.
+INTRODUCTION:  Long-term EEG monitoring for Hypothermia protocol using standard 10-20 system electrode placement with one channel EKG, seizure and spike detection software, meeting technical standards including impedance
+DESCRIPTION OF THE RECORD:  The EEG continues to demonstrate a discontinuous pattern.  The sections of discontinuity are variable, but are typically under 10 seconds  in a category of 3 seconds.  Bursts of high amplitude, chaotic activity were noted with bursts of high amplitude frontally predominant paroxysmal hypersynchronous activity including some polyspike activity.  There is an intermittent asymmetry noted,  as the recording continues, with the background that is a bit more suppressed on the right than the left.  The bursts of paroxysmal sharply contoured activity start out relatively synchronous, but as the recording continues, there is some asynchrony with the activity.
+Versed drip was initiated on the afternoon of the 27th, and following this, the motor activity for this patient seems to have stopped although there is some muscle artifact.
+Final temperature at the end of this section of the EEG recording was 34-36 degrees
+Heart rate 120 BPM.
+IMPRESSION:  This continuous EEG monitor  for a patient in the hypothermic protocol was remarkable for:
+A markedly abnormal background.
+At times a burst suppression or discontinuous background noted even prior to the initiation of the Versed drip.
+High amplitude paroxysmal activity with primarily theta frequency  bursts which were initially associated with jerking of the head but now appear more blunted and without movement.
+CLINICAL CORRELATION:  These findings are hallmarks of a severe anoxic encephalopathy.   The use of hypothermia and the Versed may be mitigating factors, but this EEG common in the context of a patient with an early CT scan demonstrating cerebral edema,  are worrisome prognostic  features.
+
+
+

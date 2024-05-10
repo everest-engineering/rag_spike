@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 52-year-old male with diabetes, MI, stroke, and depression now complaining of a funny feeling with generalized weakness and excessive sleepiness.  Past left occipital parietal stroke.
+MEDICATIONS:  Keppra, insulin, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel of EKG.  Hyperventilation was not possible but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm identified on the left but this seems to be attenuated on the right.  The patient appears to be quite drowsy and rapidly transitions in and out of sleep.  Brief arousals from sleep were noted.
+Photic stimulation elicited a driving response which appears to be present bilaterally.
+Heart rate:  96 BPM.
+IMPRESSION:  This is a subtly abnormal EEG due to an asymmetry in the alpha rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The shifting asymmetries noted in the alpha rhythm may be correlated with imagine in this individual with a previous history of stroke.
+
+
+

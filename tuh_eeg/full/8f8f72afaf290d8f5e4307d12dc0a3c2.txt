@@ -1,0 +1,40 @@
+AGE: 63 y.o.
+SEX: female
+DATE OF STUDY: 12/29/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1874
+HISTORY:
+63 y.o. female with a history of dementia, Hep C, HTN, TBI, alcohol abuse, and IV drug abuse who was
+transferred from an outside hospital after she was found confused and covered in bruises and feces. She was found to have a UTI as well as hydrocephalus. She is referred for routine EEG for assessment of mental status change.
+MEDICATIONS: OXYBUTYNIN, CIPRO, THERAGRAN, AMLODIPINE, RIFAXIMIN, LOVENOX, MONTELUKAST, TRAZODONE
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a fairly organized symmetric mixture of alpha and beta frequencies, with excess of theta and delta frequencies. There is a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR) . The normal
+anterior-to-posterior gradient of frequency and amplitude is present but suboptimal.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+Mild generalized slowing is present.
+There is occasional subtle attenuation of faster frequencies seen over the left temporal region.
+RHYTHMIC AND/OR EPILEPTIFORM ACTIVITY:
+1. Occasional frontally predominant rhythmic delta activity (FIRDA, also known as GRDA or generalized rhythmic delta activity) is present at 1 Hz for runs <  10 sec
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG due to:
+Mild generalized slowing and suboptimal organization
+Occasional subtle attenuation of faster frequencies over the left temporal region
+Occasional frontally predominant rhythmic delta activity
+(FIRDA, also known as GRDA or generalized rhythmic delta activity)
+CLINICAL CORRELATION:
+These findings indicate the presence of left temporal cortical injury superimposed on mild diffuse cerebral dysfunction.
+Frontally predominant generalized rhythmic delta activity (GRDA, also known as FIRDA) is a nonspecific but pathologic finding that is most commonly seen in toxic-metabolic states, but may also be seen with deep structural lesions or increased intracranial pressure. Clinical correlation is advised.
+
+
+
+

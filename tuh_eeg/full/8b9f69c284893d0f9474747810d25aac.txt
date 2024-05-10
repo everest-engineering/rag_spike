@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 56-year-old male with a left middle cerebral artery infarct and hemorrhage, significant cognitive impairment, and left-sided gliosis.  Evaluate for seizures.
+MEDICATIONS:  Aspirin, Keppra, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not possible, but photic stimulation was performed.  This is an awake record with photic stimulation.  In this is a technically acceptable awake EEG in a patient who difficulty following instructions.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates  interhemispheric asymmetry. The right hemisphere is well-organized, low to medium amplitude with a 9 Hz alpha rhythm.  The left hemisphere demonstrates consistent slowing of the alpha rhythm to approximately 7 Hz with underlying slightly irregular low to medium amplitude mixed theta delta.  Photic stimulation elicits a unilateral driving response.  Heart rate 120 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Continuous focal slowing from the left hemisphere.
+A slower alpha on the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The continuous focal slowing noted above is compatible with a structural process on the left involving gray and white matter, congruent with this patient's clinical history.
+
+
+

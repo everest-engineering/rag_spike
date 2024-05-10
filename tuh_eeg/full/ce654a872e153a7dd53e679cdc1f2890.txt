@@ -1,0 +1,15 @@
+History: 87 YEAR OLD WOMAN WITH RESPIRATORY FAILURE PRESENTS WITH EPISODE OF CONFUSION LASTING 1-2 MINUTES.
+Medications: PREDNISONE, ASA. KOUR (?)
+Sedation: None
+EEG Type: Awake & asleep
+Technique: International 10-20 System; standard 21 electrodes, awake, photic
+Description: Waking background is characterized by a 25-40uV, 8.5-9 Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 1 B·25Hz beta activity is present, maximal over bilateral frontal regions. There is excess diffuse theta activity during wakefulness.
+No epileptiform discharges are present.
+Hyperventilation is not performed. Stepped photic stimulation from 1·21 Rashes per second (fps) does not produce any effect. HR Is 80 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, excess theta during wakefulness
+Interpretation:
+This is an ABNORMAL EEG due to excess theta activity during wakefulness. These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction. No epileptiform discharges were present, but stage 2 sleep was not recorded. II clinically indicated, repeat EEG with sleep recording may provide additional information.
+
+
+

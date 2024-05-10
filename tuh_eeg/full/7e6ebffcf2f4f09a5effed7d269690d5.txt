@@ -1,0 +1,18 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+22 Y/O RH MAN. WITH SZ SINCE THE AGE OF 2 Y/O, NOT SURE WHAT KIND. HE HAS NOT HAD ANY SZ, SINCE HE HAS BEEN IN HIGH SCHOOL. WANTED TO BE RE-EVAL AND HAS NOT TAKE MEDS IN 4 YRS.
+OXCARBAZEPINE
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the left anterior temporal region during wakefulness, increasing during drowsiness. At times appears slightly monomorphic. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.  Stepped photic stimulation from 1-21flashes per second (fps) does not produce any effect.  Hr was 60 bps
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, anterior,At times appears slightly monomorphic
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left anterior temporal region. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific. Please note that the above focal slowing at times appeared slightly monomorphic.A repeat EEG capturing stage 2 sleep may be beneficial in better describing this discharge. No clinical or electrographic seizures are present.
+
+
+
+

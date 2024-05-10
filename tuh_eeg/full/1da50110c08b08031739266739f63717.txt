@@ -1,0 +1,37 @@
+History:	34 year old female with history of seizures since childhood.  She reportedly had at
+least 2 seizures in the last week.
+Medications:	Hydrochlorothiazide, Tegretol, zoloft, Ambien
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of well formed and modulated 9 Hz alpha activity that
+attenuates with eye opening.  PDR is better formed and modulated over the left.  There is an
+anterior-to-posterior frequency-amplitude gradient with faster frequencies at lower amplitudes
+anteriorly.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely,
+followed by symmetric vertex waves.
+There is continuous interhemispheric voltage asymmetry with lower voltages over the right.
+Additionally, there is paucity of faster frequencies over the right hemisphere, especially over the
+anterior and median quadrants.  Semi-rhythmic sharply contoured delta activity at 1-1.25 Hz is
+observed over the right frontotemporal region during and following hyperventilation.  Occasional
+right frontotemporal sharp waves are noted.  Maximal scalp negativity occurs over F8, T2, Fp2 and
+F4 electrodes.  These discharges become more apparent during photic stimulation.  No clear
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) produces semi-rhythmic sharply
+contoured right frontotemporal delta activity and accentuates right frontotemporal sharp waves.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric, mild-to-moderate, especially over
+Attenuation, continuous, mild, right hemispheric
+Sharp waves, occasional, right frontotemporal, accentuated by photic stimulation
+Other, right frontotemporal, focal semi-rhythmic delta is seen with photic stimulation
+Interpretation:
+This is an ABNORMAL awake and drowsy 24-minute EEG due to mild-to-moderate right
+hemispheric slowing that is most pronounced over the anterior and middle quadrants and occasional
+right frontotemporal epileptiform discharges. Focal slowing and voltage attenuation over the right
+is suggestive of focal cerebral dysfunction, likely structural in etiology.  A potential epileptogenic
+focus emanates from the right frontotemporal region.  Given accentuation of epileptiform
+discharges and focal slowing with photic stimulation, this EEG is suggestive of photosensitive
+seizures.  Please correlate clinically electrographic seizures are captured.
+
+

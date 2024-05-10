@@ -1,0 +1,31 @@
+History:	31yo woman with a history of spastic CP and epilepsy who presents with change in
+mental status following surgical replacement of her baclofen pump. Patient was
+initially responsive status post surgery but then become less responsive. Pt was given
+a dose of baclofen in the OR.
+Medications:	Baclofen, Keppra, Klonopin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+There is no clear PDR or AP gradient.  The background consists of low amplitude irregular fast
+activity with underriding theta<delta activity.  During brief drowsiness, there is decrease in diffuse
+Intermittent moderate amplitude sharp waves with aftergoing slow waves are noted over the left
+frontocentral region.  Maximal scalp negativity occurs over F3/C3 leads.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate <60 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Beta, excessive
+No electrographic seizures
+Spikes, intermittent, left, frontocentral
+Interpretation:
+This is an ABNORMAL portable EEG due to moderate diffuse slowing and intermittent left
+frontocentral epileptiform discharges. Diffuse slowing is indicative of moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  There is a potential epileptogenic focus emanating
+from the left frontocentral region.  Excessive beta activity could be secondary to the medication
+effect, such as benzodiazepines or barbiturates.
+
+
+
+

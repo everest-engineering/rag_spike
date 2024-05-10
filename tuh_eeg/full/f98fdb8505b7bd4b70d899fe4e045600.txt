@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  An 18-year-old male with epilepsy, seizure free for 5 years, admitted to the hospital on 08/28, after a seizure characterized by tonic stiffening, fall and a convulsion.
+MEDICATIONS:  Keppra and Serax.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record in a patient who is very drowsy.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a scant, 9 Hz alpha rhythm identified, but the patient is asleep throughout the vast majority of the EEG.  There is modest background theta noted throughout wakefulness and drowsiness.  Stage 2 sleep is characterized by vertex waves, K complexes, spindles, and POSTS.
+In the transition to sleep, there is some slightly asymmetric vertex waves, maximal in the right hemisphere and there is a single burst of shifting slowing.  Hyperventilation did not significantly activate the record, the patient was essentially asleep.
+Photic stimulation was performed while the patient was in stage 2 sleep and did not significantly alter the record.
+Heart rate 48 BPM.
+IMPRESSION:  This is primarily sleep EEG is remarkable for:
+A single burst of shifting slowing.
+Somewhat asymmetric sleep morphologies.
+CLINICAL CORRELATION:  The background slowing is an anticipated finding in a postictal patient.  Normal features of wakefulness and stage 2 sleep were captured.  The asymmetric sleep activity described above is of unclear clinical significance as it can represent an abnormality in head measurement.  Of note, in more sustained stage 2 sleep, however, the morphologies were symmetric.
+If additional information is needed, and at a repeat study searching for epileptiform activity is suggested.
+
+
+

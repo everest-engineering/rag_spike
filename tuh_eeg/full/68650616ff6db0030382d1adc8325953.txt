@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  Patient is a 25-year-old man with a history of left parieto-occipital tumor removal at the age of 12 with subsequent localization-related epilepsy, who now presents with worsening right-sided weakness and aphasia.
+MEDICATIONS:  Current medications include Vimpat, Depakote, and Versed administered at approximately 8:54 a.m. on 08/14/2013.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1-T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  The recording was reviewed intermittently by the attending neurologist.  The patient was equipped with the event button.  Medical staff notes and nursing staff notes were reviewed.
+DESCRIPTION OF THE RECORD:  There is a right-to-left interhemispheric asymmetry with faster waveforms at lower amplitudes over the right hemisphere.  The posterior dominant rhythm over the right consists of polymorphic 8 Hz to 9.5 Hz activity with weak anterior to posterior frequency amplitude gradient and additional polymorphic theta and delta activity more pronounced anteriorly.  There is no posterior dominant rhythm over the left hemisphere, and there is no anterior to posterior frequency amplitude gradient over the left hemisphere.  The background over the left hemisphere consists of a mixture of polymorphic theta and delta activity at higher amplitudes.  Additional underlying faster activity is observed over the left.  Normal sleep architecture including sleep spindles, slow-wave sleep, vertex waves are captured.  Sleep architecture is more pronounced over the left.  A prolonged seizure starts at approximately 7:55 a.m. on 08/14/2013.  Seizure ultimately ends at approximately 8:55 a.m. on 08/14/2013, after 2 mg of IV Versed.  Seizure starts with low-to-moderate amplitude, somewhat rhythmic sharp waves observed over the left occipital region.  This activity gradually spreads to contralateral occipital region.  As seizure evolves, sharp waves with after going slow waves increase in amplitude and decrease in frequency.  Seizure spreads throughout the left hemisphere.  Eventually, a reflection of this activity is observed over the right hemisphere.  Clinically, horizontal nystagmus is noted.  Once 2 mg of Ativan are administered at approximately 08:54:40 a.m., seizure stops approximately 15 seconds later.   Please note there is diffuse excess beta activity observed throughout the recording.
+FINDINGS:
+Mild diffuse slowing.
+Moderate focal left hemispheric slowing.
+Left hemispheric breach artifact most pronounced over the left parasagittal leads.
+A prolonged, approximately 1-hour, focal left hemispheric seizure that starts over the left occipital region.
+Seizure stops approximately 15 seconds after administration of Versed.
+IMPRESSION:  This is a very abnormal 24-hour continuous video EEG monitoring, due to:
+Mild diffuse slowing, focal moderate left hemispheric slowing, and focal left hemispheric status epilepticus that starts over the left occipital region.  Mild diffuse slowing indicates etiologically nonspecific, mild diffuse cerebral dysfunction.
+Focal left hemispheric slowing indicates focal cerebral dysfunction, likely structural in etiology, and in this patient at least partially related to the postictal slowing.
+Focal left occipital status epilepticus lasting approximately 1 hour and stopping after 2 mg of Versed.
+These findings were conveyed to the neurology primary team at the time of the review.
+
+
+

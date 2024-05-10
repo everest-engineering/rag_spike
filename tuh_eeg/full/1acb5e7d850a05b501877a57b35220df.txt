@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  21 year old right handed woman who presents with a 3-year history of complex partial seizures characterized by an aura of a strong smell, deja vu, and tunnel vision.  Her last seizure was 2 months ago.
+
+MEDICATIONS:  Lamictal, Keppra.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+
+DESCRIPTION OF THE RECORD:  The background EEG is well organized, but there is an asymmetry of the alpha rhythm.  The alpha rhythm is 50 to 60 microvolts, approximately 10 Hz on the left and consistently 0.7 Hz faster on the right.  Features of drowsiness include an increase in amplitude of the background.  Hyperventilation produces bilateral slowing.  Wicket study was identified, but no sharp waves were noted.  Posterior slow waves of youth were noted. Photic stimulation elicited bilateral driving.
+
+HR:    60 to 72 bpm and irregular.
+
+IMPRESSION:  Abnormal EEG due to:
+1. A slower alpha rhythm on the left.
+
+CLINICAL CORRELATION:  The slower alpha on the left suggests pathology in that hemisphere.  No sharp waves were identified, although Wicket was noted.  A repeat study capturing deeper stages of sleep may be of value.

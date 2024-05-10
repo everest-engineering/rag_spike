@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  recurrent, refractory status epilepticus after TBI in the fall of 2013
+MEDICATIONS:  Propofol at 100 per hour, Versed, 30, phenobarbital, topiramate 300 mg b.i.d., and pyridoxine.
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated, comatose, without clinical seizures.  Seizure and spike detection software was utilized in the system.
+DESCRIPTION OF THE RECORD:  In the initial hours of this epoch, the EEG demonstrates a burst suppression pattern, but in the sections of the record where there is cerebral activity, there is an ictal pattern with repetitive sharp waves noted from the left hemisphere particularly posterior temporoparietal.
+Over the course of the day, the patient's medications are titrated upwards.  By 11 p.m., the bursts are much shorter, all in order of 3-5 seconds.
+By the morning of the 26th, by 5 a.m., the EEG is primarily suppressed and most of the bursts are extremely brief or just isolated spikes.  By 9:30 a.m., the EEG has returned to the pattern with approximately 9 second bursts.
+Heart rate 80 b.p.m.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this 24-hour section demonstrated the achievement of a burst suppression pattern with at least transiently, clear suppression of more sustained epileptiform activity, but by 9:30 in the morning on the 26th, the EEG was returning to the previously described pattern of other bursts that were less than 10 seconds.
+
+
+

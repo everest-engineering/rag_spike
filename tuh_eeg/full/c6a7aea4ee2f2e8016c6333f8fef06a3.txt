@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 72-year-old woman with 1 year history of headache and vertigo.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed but hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9.5 Hz posterior dominant rhythm.  The patient transitions in and out of stage I and stage II sleep with vertex waves and spindles as well as some rhythmic background slowing.  Posts were also noted.  Stimulation elicits bilateral driving.  Heart rate 72 beats per minute.
+IMPRESSION:  EEG within normal limits for age.
+Clinical correlation.  No focal or epileptiform features were noted.  This patient transitions rapidly in and out of sleep which may represent either a sleep deprived patient or a patient with an underlying sleep disturbance.  If epilepsy is an important consideration a followup study capturing deeper stages of sleep is suggested.
+
+
+

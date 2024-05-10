@@ -1,0 +1,13 @@
+MEDICINES:  Lamictal, Valium, Paxil, Xopenex , Bactrim, metformin, Spiriva, ? opioids, others.
+CLINICAL HISTORY:  A 41-year-old woman with traumatic brain injury, cerebellar infarct, schizophrenia, chronic pain with recurrent episodes with occipital headache followed by dizziness.
+INTRODUCTION:  Routine 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed, hyperventilation was deferred.  This is an awake and asleep record in a very drowsy adult.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is a 9  Hz alpha rhythm.  In drowsiness, there is an increase in background slowing with vertex waves, K complexes, and spindles noted in stage 2 sleep.
+Photic stimulation was performed while the patient was drifting into stage 2 sleep and did not significantly activate the record.
+Heart rate:  78  bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy and EEG monitoring will follow for this adult.
+
+
+
+
+

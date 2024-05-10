@@ -1,0 +1,39 @@
+History:	39 YR OLD MALE R HANDED. PMHX.ASTHMA.  PT HAD WITNESSED TONIC
+CLONIC SEIZURE THIS AM
+60 CM HEAD
+Medications:	DILANTIN, KEPPRA, VALPROIC ACID
+Sedation:	None
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 12 hours from 12/15/2014 to 12/16/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.    All automatically detected events
+were reviewed in detail by the attending neurologist.
+# Push button events	1
+Description of pushbutton events
+See episode description.
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.  At
+the beginning of the records there is excess diffuse admixed 50-75 uV, 5-7Hz activity is present.
+This improves over time.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.  The record commences with the
+patient having an episode of irregular arm and body shaking with occasional back arching and
+closed eyes. This shaking intermittently worsens in severity and then improves. The event lasts for
+about 10 minutes.  There is no EEG correlate to the event.
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+No electrographic seizures
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. The episode captured above had no EEG
+correlate and is clinically consistent with a psychogenic non-epileptic event.
+
+
+
+
+

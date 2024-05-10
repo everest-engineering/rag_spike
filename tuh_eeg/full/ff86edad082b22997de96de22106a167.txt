@@ -1,0 +1,41 @@
+History:	84 year old woman with focal status epilepticus in the setting of CABG with
+subsequent strokes.
+Medications:	DILANTIN, PROPOFOL
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 10/16/2013 to 10/17/2013.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.   The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+The background is markedly abnormal with no normal cerebral activity identified. Early in the
+recording mild (~1:1) burst-suppression pattern seen on the right, with some field spread to the left
+hemisphere.  The burst-suppression pattern is largely right hemispheric. The left hemisphere is
+markedly attenuated and shows only low voltage beta and theta activity and periods of
+discontinuity.  As the recording progresses, burst suppression resolves, voltages increase and a
+background consistent of predominantly polymorphic theta and delta activity emerges.  This
+The bursts consist of either single high-amplitude periodic epileptiform discharges (PEDs) or brief
+(2-4 second) bursts of high amplitude sharps waves of similar morphology.  Sharp waves are
+frequently accompanied by low amplitude fast activity.  These discharges all have a maximal field
+at T6, P4, or C4 electrodes.
+Summary of Findings:
+Diffuse slowing, polymorphic, burst-suppression early and moderate slow as the recording
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL 24 hour continuous- video EEG because of moderate-to-severe diffuse
+slowing, mild burst-suppression pattern and nearly continuous right temporoparietal PEDs.  These
+finding suggest severe structural brain injury with highly epileptiform potential within the right
+hemisphere, notably over the right temporoparietal region.  A burst-suppression pattern indicates
+etiologically non-specific diffuse severe cerebral dysfunction that, in this case, is at least partially
+related to the medication effect (anesthetics and anti-epileptic drugs).  No electrographic seizures
+are captured.  These findings were communicated to the primary care team.
+
+
+
+

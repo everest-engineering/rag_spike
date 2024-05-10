@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  A 59-year-old male transferred from another hospital on 12/05 for prolonged tonic clonic seizures requiring intubation and propofol infusion.  Seizures began in the right hand and then generalized.  They may have begun after dental extraction.
+
+MEDICATIONS:  Propofol, Keppra, morphine.
+
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was confused.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm in a background with excess beta and a small amount of theta.  Alerting produces a decrease in the theta and an increase in the beta.  Drowsiness is characterized by head rocking artifact and a bit of slowing in the background but deeper stages of sleep were not achieved.
+
+Heart rate 108 BPM, rare PVC.
+
+IMPRESSION:  This EEG is remarkable for:
+1. Excess beta.
+2. Excess theta.
+
+CLINICAL CORRELATION:  No focal epileptiform features were identified in the record.  The excess beta and theta described above may be related to this patient's medications.
+
+
+

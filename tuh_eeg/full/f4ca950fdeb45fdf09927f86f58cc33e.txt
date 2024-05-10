@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 22-year-old male student with past brain tumor, seizure free since the surgery, January 2, 2014.
+MEDICATIONS:  Trileptal, Klonopin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This was a technically acceptable routine 22-minute EEG with the exception of T1, T2 electrodes where impedances were slightly higher.  The patient was noted to have a prominent breach rhythm on the right.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was an 8.7 Hz alpha rhythm reaching 50-60 microvolts in amplitude.  There is a small amount of background theta and a small amount of underlying slowing noted in the record, a bit more so on the right hemisphere and a bit more so in the posterior regions bilaterally.  The breach rhythm was not as prominent as 1 might expect, although it could be seen with higher amplitude on the right.  Features of drowsiness include an increase in synchronicity in the background.  Frontal beta becomes a bit more prominent in drowsiness, but deeper stages of sleep were not achieved.
+Photic stimulation did elicit a driving response.
+HEART RATE 66 BPM.
+IMPRESSION:  This is a mildly abnormal EEG due:
+Mild degree of background slowing.
+Anticipated focal findings with a bit more focal slowing in the right hemisphere.
+Some posteriorly predominant slowing with delta activity underlying the record.
+CLINICAL CORRELATION:  A breach rhythm is an anticipated finding following craniotomy.  The background slowing described above may be correlated with imaging.  No epileptiform features were noted.  There are no previous EEGs for comparison.
+
+
+

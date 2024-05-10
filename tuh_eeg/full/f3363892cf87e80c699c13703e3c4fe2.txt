@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 78 year old right handed female with carotid stenosis.
+MEDICATIONS: Fentanyl, Propofol, Buspar
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Recording begins with the patient awake in the OR and concludes after patency is confirmed by Doppler. This is a 2 hour EEG.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is awake in the OR with alpha rhythm and prominent lambda. Anesthesia is administered at 11:23. Beta frequency activity is noted at 11 :32. At 11:33, there are bursts of rhythmic slowing, but the patient is still awake. There are no notes from the technologist to indicate that this carotid was done under
+local. The EEG demonstrates a relatively lightly sedated pattern with a mixed frequency background. The EEG recording continues through impedance checks and through Bovie. By 12:07, the patient clearly has an anesthetic pattern with a mixed frequency pattern which intermittently attenuates. At 12:12, the technologist informs the OR team that the patient has a burst suppression pattern with periods of suppression of 5 seconds although the EEG has been attenuated for some time before then. At 12:00, there is intermittent attenuation which is more remarkable on the right compared to the left.
+Heparin is given at 12:18:13. The EEG remains discontinuous as the clamp is placed at 12:24. The first clamp is at 12:24:05. It is discontinuance and a little slower on the right prior to placement of the clamp. No additional changes are noted with recurrent placement of the clamp with clamp and unclamp through 13:08:26. Patency is confirmed by Doppler at 13:20:05.
+60bpm
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this right carotid
+endarterectomy was remarkable for discontinuous pattern after utilization of anesthesia which was a bit more remarkable on the right. No additional focal features were noted with placement of the clamp over the carotid.
+
+
+

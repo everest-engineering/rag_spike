@@ -1,0 +1,25 @@
+History:	92 yo man with unsteady gait. Found to have bilateral SDH, UTI at an outside
+hospital. PMH: Dementia, bph, hearing impairment
+Medications:	Ceftriaxone, azithromycin
+Sedation:	None
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+During limited wakefulness, a posterior dominant rhythm was present that reached at best 8.5Hz.
+Background activity was characterized by diffuse excess theta activity with some anterior-posterior
+organization.  No normal sleep architecture was present but some state changes could be noted.
+Intermittent polymorphic delta activity is present in the bilateral mid-temporal region (left > right)
+during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.  No
+clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 86.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, mid
+Interpretation:
+This is an ABNORMAL EEG because of  intermittent focal slowing in the bilateral mid-temporal
+region (left > right) region. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific. In addition, there was mild  diffuse background slowing.  This finding is
+an etiologically nonspecific indicator of mild diffuse cerebral dysfunction.
+
+
+

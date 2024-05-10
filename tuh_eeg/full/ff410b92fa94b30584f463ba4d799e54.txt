@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  46 year old woman with a past medical history of hypertension, diabetes, hypercholesterolemia, prior stroke, DVT, PE, and hepatitis C, who now presents from rehabilitation after having a change in mental status.  Prior to her change in mental status, she had an episode described as her head turning to the left followed by generalized tonic/clonic convulsions.  The patient is currently unresponsive, and there is a concern for clinical status epilepticus.
+MEDICATIONS:  Unknown
+CONDITIONS OF THE RECORDING:  Digital video continuous EEG was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Spike detector and seizure detector were disabled.  Medical staff notes, nursing notes, and push-button events were all reviewed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of polymorphic moderate amplitude delta activity with underwriting faster frequencies as well as generalized spindle-like wave forms.  Occasional periods of discontinuity are captured.  Additional frontally predominant diffuse wave forms which are phasic morphology and anterior to posterior lag are captured.  No clear normal sleep architecture is captured.  Hyperventilation and photic stimulation are not performed.  The patient pulled all of her leads at approximately 4:00 a.m.  Tachycardia with heart rate up to 150 beats per minute is captured.  It improves as the recording progresses.
+FINDINGS:
+Moderate to severe generalized slowing with periods of discontinuity.
+Occasional triphasic wave forms.
+No clear electrographic seizures.
+Sinus tachycardia.
+IMPRESSION/CLINICAL CORRELATION:  This is an abnormal approximately 9-1/2 hours continuous video EEG due to diffuse moderate to severe generalized slowing and periods of discontinuity.  These findings indicate a nonspecific diffuse cerebral dysfunction that in this case could partially be attributable to medication effect.  No clear electrographic seizures are captured.  Sinus tachycardia is captured in the single EKG lead that improves as the recording progresses.  These findings were conveyed to the primary team at the time of the review.
+
+
+

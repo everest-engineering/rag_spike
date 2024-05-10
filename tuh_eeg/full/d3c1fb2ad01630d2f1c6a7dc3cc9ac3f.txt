@@ -1,0 +1,25 @@
+History:	48 YR MALE WITH PMHX OF CVA 6/12 LEFT HEMIPARESIS., SCHIZOPHRENIA.
+CC OF LIGHTHEADEDNESS AND FALLS.  HEAD 55CM
+Medications:	PLAVIX, LIPITOR, TRAZODONE, DEPAKOTE, COGENTIN, RISPERDAL,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which is best seen over the
+left hemisphere and attenuates with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over the left frontal regions and not well seen over the right hemisphere.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.
+There is continuous right hemispheric slowing and attenuation of faster frequencies.  No
+epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  HR is 72
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, right hemispheric
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing and loss of
+faster frequencies in the right hemisphere.  This finding is indicative of a focal structural lesion in
+this region and consistent with the known stroke.
+
+

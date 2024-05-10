@@ -1,0 +1,25 @@
+DATE OF STUDY:  October 3rd through October 5th.
+CLINICAL HISTORY:  This is a 62-year-old gentleman with multiple strokes, renal failure, recent, refractory seizures requiring multiple medications, renal failure, on dialysis with poor mental status, long term.
+MEDICATIONS:  Valproate, lacosamide, phenobarbital, others.
+INTRODUCTION:  48 hours continuous video EEG monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  There were no push buttons by the clinical team for recognized seizures.  No electrographic seizures were noted by the software.
+October 3rd to October 4, 2014:  The background EEG is diffusely slow and poorly organized.  In addition, there is an asymmetry between the 2 hemispheres.  The right hemisphere is primarily a mixture of theta and beta with smaller amounts of delta.  The left hemisphere demonstrates more significant disruption of faster frequency activity particularly in the left frontocentral region.  Prominent intermittent bursts of beta are noted in either hemisphere.
+Electrographic Seizures:  None.
+Epileptiform Detections:  There is subtle sharply contoured beta noted in the frontal regions bilaterally with a subtle underlying left frontal sharp waves seen on rare occasions.  The left frontal sharp waves did not stand out remarkably differently from the background.  In sleep, at 3 a.m. on the 4th, there is a burst sharply contoured delta noted from the left frontal region with a sharp wave mixed in.
+IMPRESSION:  This initial 24 hours of EEG recording was remarkable for:
+No definitive epileptiform seizures.
+An overall improvement in terms of epileptiform activity in comparison to previous day's recording.
+October 4th through October 5th:  No clinical seizures were noted by the call team.  The seizure spike detection software did not identify any epileptiform activity.
+Background:  The background remained slow with an asymmetry.  The right hemisphere includes generous beta and smaller amounts of theta.  The left hemisphere demonstrates a bit more disruption of arrhythmic delta activity.
+Sleep is remarkable for an increase in delta.
+Electrographic Seizures:  None.
+Epileptiform Detections:  In this very sharply contoured record, there are occasional, subtle underlying sharp and slow wave transients noted from the right hemisphere.  As the patient transitions into sleep, prominent beta activity is noted in the frontal regions bilaterally, but without a clear prolonged electrographic signal as would be seen in the seizure.
+Heart rate 90 bpm.
+IMPRESSION:  This 48-hour video EEG monitoring session was remarkable for:
+A markedly abnormal background.
+Prominent beta.
+Focal slowing from the left hemisphere.
+In this sharply contoured record, rare sharp waves are noted in the left frontal region as well as the right hemisphere.
+CLINICAL CORRELATION:  No remarkable seizures were noted in this record.  This EEG continues to support a bihemispheric disturbance of cerebral function one that may impact the left hemisphere more significantly than the right.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 40 year old right handed male with previous stroke, admitted with right sided pain, weakness, numbness, dizziness, and change in vision.
+MEDICATIONS:  Hydralazine, ASA, Lovenox, Ambien.
+INTRODUCTION:  Digital video EEG was performed at  bedside, using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10.5 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness was characterized by an increase in theta.  Sleep was not sustained.
+HR:     60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy or stroke.  If epilepsy is an important consideration, a repeat study capturing deeper stages of sleep is suggested.
+
+
+

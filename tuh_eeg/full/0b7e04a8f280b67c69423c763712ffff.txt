@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 49-year-old woman with a seizure on 09/16/2013 characterized by tingling of face, shortness of breath, and headache.  An additional spell on 09/23 with shaking and headache, and now episodes of inattentiveness.
+MEDICATIONS:  Keppra and Topamax.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This was a routine, outpatient EEG.  Greater than 20 minutes duration with acceptable impedances, aside from T1-T2 electrode.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz, 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta.  On rare occasions, as the patient transitions into drowsiness with attenuation of the alpha rhythm, subtle focal slowing is noted in the right mid to posterior temporal region.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited bilateral driving.
+IMPRESSION:  This is an abnormal EEG due to:  Subtle focal slowing in the right mid to posterior temporal region on only 1 occasion, somewhat sharply contoured.
+CLINICAL CORRELATION:  No definite sharp waves or spikes were identified.  The focal slowing described above was seen in the transition to sleep, but deeper stages of sleep were not obtained.  A repeat tracing capturing more extensive sleep may be helpful to more completely evaluate this patient's underlying epileptiform focus.
+
+
+

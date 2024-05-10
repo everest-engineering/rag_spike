@@ -1,0 +1,11 @@
+CLINICAL  HISTORY:  This is a 53-year-old gentleman with a 3-year history of epilepsy.  Seizures characterized by headache, sweating, vomiting and loss of consciousness.   No recent seizures reported.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:   One hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.   Photic stimulation was completed.  This is a technically somewhat challenging routine outpatient EEG and the tech worked to obtain all impedances under 5 kilo ohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz 40 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta.  Drowsiness was characterized by an increase in beta, slowing of the alpha rhythm and occasional bursts of shifting and slowing noted in the temporal regions.  Temporal wicket was noted in relaxed wakefulness.   Photic stimulation elicited driving at intermediate flash frequencies.
+Heart rate 72 bpm.
+IMPRESSION:  This is a technically acceptable 1-hour EEG and is remarkable for:
+1.  There are bursts of shifting and slowing in drowsiness.
+CLINICAL CORRELATION:   No epileptiform features were noted.  Of note, the technical issues tended to involve at T1-T2 electrodes, areas of  concerned for evaluation of temporal lobe seizures, but no definitive epileptiform features were identified.  This is the second EEG for this individual without epileptiform activity.
+
+
+

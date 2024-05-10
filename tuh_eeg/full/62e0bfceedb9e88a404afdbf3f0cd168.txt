@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 45 year old right handed woman with a history of right occipital stroke, right occipital intracerebral hemorrhage, arteriovenous malformation, malformations of the elbow and seizure versus syncope.
+MEDICATIONS: Synthroid.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not possible nor was photic stimulation.
+DESCRIPTION OF THE RECORD: The overall background is medium amplitude with a 10 Hz posterior dominant rhythm but with excess beta, focal slowing in the right posterior quadrant, a breech rhythm with a beta accentuation in the right central region. Sharply contoured slowing is observed in the right centrotemporal region and there are also some discrete sharp waves which can be differentiated from EKG artifact for this individual in that same region. Rhythmic sharp activity has the field in the right centrotemporal region. Features of drowsiness include an increase in beta followed by POSTS.
+HR: N/A
+IMPRESSION: Abnormal EEG due to:
+1. Somewhat slow and disorganized background.
+2. Focal slowing in the right posterior quadrant.
+3. Sharp waves in the right temporal and central region.
+4. C4/CZ beta accentuation compatible with breech activity.
+CLINICAL CORRELATION: These findings support a structural process on the right with a focal mechanism for epilepsy.
+
+
+

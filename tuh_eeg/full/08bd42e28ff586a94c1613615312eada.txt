@@ -1,0 +1,34 @@
+History:	59 year old woman with a history of seizures, now presents with increase in seizure
+frequency.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by low-to-moderate amplitude 10.5-11 Hz alpha rhythm, which
+attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-
+7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Polymorphic and rhythmic delta activity (TIRDA) is frequently observed over the left temporal
+region during wakefulness and increases during drowsiness.  Two focal electrographic seizures are
+captured.  Each lasts ~ 1 minute.  No clinical correlate is reported by the EEG technologist.  The
+patient is not formally tested during these seizures.  They occur during drowsiness.  Seizures start
+with rhythmic left anterior temporal delta activity, most pronounced over F7/t1 region.  It gradually
+increases in amplitude, becomes more prominent and slightly increases in frequency from ~2 Hz to
+~2.5-3 Hz.  There is some reflection  to the left parasagittal leads and left lateral/ temporal leads.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Seizure, two, left temporal, anterior, each ~ 1 min long.  Occur out of drowsiness
+Focal slowing, rhythmic, intermittent, moderate, left temporal, anterior
+Focal slowing, polymorphic, intermittent, moderate, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake and drowsy 28-minute EEG due to intermittent focal left anterior
+temporal slowing, often rhythmic, and 2 focal left anterior temporal seizures that occur during
+drowsiness and do not have a clear clinical correlate. These findings are indicative of an
+epileptogenic focus in left anterior temporal region, and given the clinical history of partial
+seizures, are consistent with a diagnosis of localization-related epilepsy.  These findings were
+relayed to the ordering physician at the time of the record review.
+
+

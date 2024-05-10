@@ -1,0 +1,30 @@
+History:	46 YR OLD FEMALE PRESENTS WITH H/O SUDDEN ONSET OF LOSS OF
+SHORT TERM MEMORY / CHANGE IN MENTAL STATUS DUE TO HIGH
+AMMONIA EVENT OCCURRED  7/2014
+Medications:	ESCITALOPRAM OXALATE, ARIPIPRAZOLE, AMLODIPINE, ASPIRIN,
+LOSARTAN, METOPROLOL, ATORVASTATIN, FUROSEMIDE, MULTI VIT W/IRON
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Rare polymorphic delta activity is present in the left anterior temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild bifrontal
+slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) induces a minimal photic
+driving response.  HR is 72.
+Summary of Findings:
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of rare focal slowing in the left
+anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.  The lack of epileptiform discharges on a routine EEG does not rule out a
+clinical diagnosis of epilepsy.
+
+
+

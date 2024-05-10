@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 19 year old right handed male with complex partial epilepsy with loss of awareness of unclear duration.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10 Hz alpha rhythm. There is a small degree of background disorganization in wakefulness with a small amount of shifting slowing, particularly in the posterior regions. Hyperventilation is performed early on in the record producing muscle artifact, as well as some higher amplitude more rhythmic slowing and some beta activity, but more prominent from the left, particularly T3 and T5. Deeper stages of sleep are not achieved. Brief stage 2 sleep includes relatively symmetric spindles and POSTS. Photic stimulation elicits a driving response, which again appears to be a bit more prominent from the left.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. A small degree of background slowing and disorganization.
+2. Some occasional slowing in the posterior regions.
+3. A beta asymmetry.
+CLINICAL CORRELATION: No definitive epileptiform features were seen. The findings described above may be correlated with this patient's imaging.
+
+
+
+

@@ -1,0 +1,51 @@
+Encounter Date: 08/21/2015Encounter Date: 08/21/2015
+Encounter Date: 08/21/2015
+Encounter Date: 08/21/2015
+
+
+Encounter Date: 08/21/2015Encounter Date: 08/21/2015
+Encounter Date: 08/21/2015
+Encounter Date: 08/21/2015
+
+
+48 y.o. male who was referred for routine EEG for syncope
+Medications:
+Current Outpatient Prescriptions
+Medication
+atorvastatin (LIPITOR) 10 mg tablet
+diazepam (VALIUM) 10 mg tablet
+ZETIA 10 mg tablet
+morphine (MS CONTIN) 15 mg 12 hr tablet
+oxycodone-acetaminophen (PERCOCET) 10-325 mg per tablet
+LYRICA 75 mg capsule
+Sig daily.
+2 times daily.
+every 12 hours.
+every 6 hours as needed.
+150 mg 2 times daily.
+No current facility-administered medications for this visit.
+Technique:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system was performed utilized a NicOne system. This was a technically satisfactory bedside record and included a single channel of EKG, capturing wakefulness only.
+EEG Background:
+The waking background was characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9.5Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude was present.
+During drowsiness, slow rolling eye movements,·attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing were seen.
+No generalized slowing was present. No focal slowing was present.
+Paroxysmal Activity (non-epileptiform):
+None
+Epileptiform Activity:
+No epileptiform activity was present.
+Activation Procedures:
+none
+Clinical Events:
+There were no clinical or electrographic events captured during this study.
+Heart Rate:
+A heart rate of 84 bpm was captured on a single EKG lead.
+Impression:
+This is a normal awake-and-drowsy routine EEG. There were no clinical or electrographic events reported or detected.
+Clinical Correlation:
+This is a normal awake-and-drowsy routine EEG without photic stimulation or hyperventilation . A normal routine EEG does not support or refute the diagnosis of epilepsy .
+No Routing History on File
+
+
+
+

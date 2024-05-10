@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  56 year old right handed gentleman admitted with right sided weakness and pain.  Past history of stroke and cocaine abuse.  Aphasia.
+MEDICATIONS:  Hydralazine, Lovenox, Remeron, Acetaminophen
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  the patient is very anxious with frequent eye blinking.  This is an awake EEG with photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.7 Hz alpha rhythm.  There is scant 8 Hz activity identified in the background.  There are sections of the record in which the alpha seems to be almost invariant on the right.  When the patient relaxes and the eye blinks stops, there is a clear asymmetry with disruption of the alpha rhythm on the left in comparison to the right, excess theta in the left hemisphere, and occasional left anterior temporal sharp and slow wave complexes.  These occur as the patient reaches stage I sleep. Photic stimulation occurs while the patient is blinking vigorously.  There is scant driving.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and early drowsiness due to:
+Left temporal focal slowing with a component of left frontal central focal slowing
+Left anterior temporal sharp waves.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.  The focal slowing is congruent with the stroke history.  Previous EEGs did not capture this pathology.
+
+
+

@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, propofol, and fentanyl.
+CLINICAL HISTORY:  The patient is a 53-year-old gentleman with past traumatic brain injury, sometime prior to the 80s, recent right hemispheric embolic shower with right high-grade stenosis.
+INTRODUCTION:  A 2.5-hour continuous EEG monitoring was performed in the OR using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was sedated early in the procedure but was awake at the deployment of the stent.  This recording includes 2.5 hours of physician remote review with 1 hour pre-study physician standby time.
+DESCRIPTION OF THE RECORD:  EEG is best interpreted narratively.  As the recording begins, the right hemisphere is reasonably well organized with focal slowing in the breach rhythm noted from the left hemisphere.  This is at 12:50 p.m.
+In the initial sections of the record, the patient receives fentanyl and propofol.  In addition, the patient falls asleep.  As the patient becomes drowsy, the focal slowing and breach rhythm become more prominent with prominent beta activity and higher amplitude slowing.  Other features of a drowsy pattern include bursts of rhythmic bilateral delta.  The patient is drowsy throughout much of the record.  They prepare to deploy the stent at 2:48.  The patient is awake.  At that time, the EEG is well organized on the right with a small amount of background slowing.  The left demonstrates an awake pattern with a posterior dominant rhythm, the previously described focal slowing and breach.  The stent is deployed at 2:52 p.m.  The patient remains awake through the remainder of the procedure and no focal features are noted in the right hemisphere.
+Heart rate 66 bpm.
+IMPRESSION/CLINICAL CORRELATION:  Although this patient demonstrated an abnormal baseline EEG with focal slowing, breach rhythm and some sharply contoured activity on the left, there were no focal features noted in the right with placement of the stent.
+
+
+

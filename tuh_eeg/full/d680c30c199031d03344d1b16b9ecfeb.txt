@@ -1,0 +1,23 @@
+
+CLINICAL HISTORY:  84 year old woman with right-sided weakness, aphasia in the neurological ICU.
+
+MEDICATIONS:  Cardene
+
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively cooperative.
+
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat disorganized. There is a 9 Hz posterior dominant rhythm but other wave forms that are significantly slower. There is some shifting arrhythmic delta activity identified in both temporal regions, and there is an accentuation of activity both at F7 and at F8 with superimposed alpha frequency activity leading to the suggestion of an F7 sharp wave. Deeper stages of sleep are not achieved. Rhythmic high amplitude temporal theta is observed bilaterally.
+
+HR:	72 bpm
+
+
+IMPRESSION: Abnormal EEG due to:
+1.	Background disorganization.
+2.	Shifting slowing, particularly in the temporal regions.
+
+
+CLINICAL CORRELATION:   If epilepsy is an important consideration, please repeat a study capturing deeper stages of sleep.
+
+
+
+

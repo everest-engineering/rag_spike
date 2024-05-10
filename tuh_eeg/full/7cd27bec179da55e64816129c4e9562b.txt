@@ -1,0 +1,22 @@
+CLINICAL HISTORY: 36 year old right handed woman with history of meningoencephalitis, shunt at age 2, past history of epilepsy, now with declining memory.
+
+MEDICATIONS: None.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates theta frequency pattern. A breech rhythm is identified with higher amplitude rhythmic theta which is variable, sometimes a bit more prominent on the left and sometimes on the right. Most the higher amplitude activity, however, is in the left temporal region. Underlying arrhythmic delta activity is observed. It is difficult to discern an alpha rhythm. Occasional focal slowing is noted in the right posterior temporal region. Hyperventilation produces an increase in amplitude of the background. Photic stimulation does elicit driving with supraharmonic driving at intermediate and faster/frequencies. During photic stimulation, the focal slowing in the right posterior temporal region is a bit more prominent.
+
+HR 90 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Shifting, prominent rhythmic delta.
+3. Disrupted, but occasionally present alpha rhythm more so on the left than the right.
+4. Right posterior quadrant slowing which is seen occasionally.
+
+CLINICAL CORRELATION: The generalized background slowing is more compatible with a diffuse disturbance of cerebral function. The higher amplitude activity on the left suggests a breach rhythm in that region. The focal slowing on the right may be correlated with imaging.
+
+
+
+
+

@@ -1,0 +1,31 @@
+History:	80 year old woman with a recent left frontal ICH.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+The posterior dominant rhythm consists of polymorphic low-to-moderate amplitude 9 Hz activity
+that attenuates with eyes opening.  The AP gradient is present.  Excess diffuse admixed 50-75 uV,
+5-7Hz activity is present throughout the recording and increases during drowsiness.  Normal sleep
+architecture, including vertex waves and sleep spindles, is present.
+Intermittent bilateral (left>right) polymorphic delta activity is present in the anterior temporal
+regions during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, intermittent, moderate, bilateral (L>R) temporal, anterior
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 24-minute EEG due to mild diffuse slowing and
+intermittent bilateral (left>right) focal anterior temporal slowing. Diffuse slowing is indicative of mild
+diffuse cerebral dysfunction, which is etiologically nonspecific.  Intermittent focal slowing is
+indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in
+origin.  Some degree of temporal slowing is considered normal in patients over the age of 65 yo,
+but the degree of  bitemporal slowing in this patient is pathologically high.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

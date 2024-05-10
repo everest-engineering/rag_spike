@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  53 year old left handed male with 4 tonic-clonic seizures on admission, evaluate for new onset seizures versus alcohol withdrawal.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized.  There is a 10 Hz alpha rhythm of 30 microvolts.  Drowsiness is characterized by attenuation of the alpha rhythm with an increase in beta.  Other features of drowsiness include an increase in theta, particularly in the temporal regions.  EKG artifact is noted, particularly in the right temporal region.
+HR:    90 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were observed.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

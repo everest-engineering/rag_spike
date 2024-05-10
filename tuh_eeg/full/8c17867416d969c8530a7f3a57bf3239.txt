@@ -1,0 +1,29 @@
+History:	48 year old woman with a history of right ICH, requiring a surgery, with subsequent
+seizures.  Patient now presents with an episode concerning for a seizure.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely.
+Continuous polymorphic theta and delta activity is present in the right temporal region during
+wakefulness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right temporal
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and Drowsy 21-minute EEG because of continuous moderate
+focal slowing in the right temporal region.  This finding is indicative of a focal structural lesion in
+this region.  No epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically
+indicated, repeat EEG with sleep recording may provide additional information.
+=
+
+
+

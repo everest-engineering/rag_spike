@@ -1,0 +1,27 @@
+History:	57 YR OLD MALE PRESENTS WITH H/O HTN EMERGENCY AND BLEEDING
+FROM PEG. PMHX SIG FOR RT LARGE  MCA STROKE 2/14 WITH LT
+HEMIPARESIS, CAD, HLD, GERD
+Medications:	ASA, Plavix, Coreg
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, photic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse delta
+and theta activity with absence of the expected anterior to posterior gradient of frequencies.
+Diffuse, frontally maximal sharply contoured waves with triphasic morphology are present throughout
+the recording.  These waveforms demonstrate an anterior to posterior phase lag.  No normal sleep
+There are almost continuous focal slowing and attenuation with loss of faster frequencies over the
+right posterior quadrant region.  No clinical or electrographic seizures were present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 80 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Attenuation, nearly continuous, right posterior quadrant
+Triphasic waves, intermittent
+Technically limited, right, Muscle and electrode artifact
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing with triphasic waves and
+absent alpha rhythm.  These findings are etiologically nonspecific indicators of diffuse cerebral
+dysfunction.  right posterior quadrant focal slowing and attenuation is consistent with a history of
+right hemispheric stroke.  No clinical or electrographic seizures are present.
+

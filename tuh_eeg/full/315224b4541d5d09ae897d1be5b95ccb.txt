@@ -1,0 +1,23 @@
+History:	52 year old man admitted after a seizure and a fall.  He has a history of alcohol and
+cocaine use.
+Medications:	Keppra, Ativan
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+When awake, patient is uncooperative.  This affects the EEG hook up and interpretation.  The
+waking background consists of ~ 9 Hz alpha activity posteriorly with expected AP gradient and
+frequent movement artifact.  During sleep, symmetrical diffuse sleep-spindle-like waveforms are
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Artifact, movement, frequent
+Interpretation:
+This is an unremarkable 21-minute awake and asleep portable EEG.  Patient is uncooperative
+when he is awake, so that limits interpretation of those portions of the recording and subtle
+abnormalities might have been missed.
+
+
+
+
+

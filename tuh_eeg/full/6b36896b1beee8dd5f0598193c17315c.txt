@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 52-year-old male with nonischemic cardiomyopathy, right PCA infarct, the patient was sedated, but has persistently obtunded mental status.
+MEDICATIONS:  Ceftriaxone and digoxin.  Versed and fentanyl were discontinued on February 24th.
+INTRODUCTION:  Digital video EEG is performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.    This is a technically except double bedside record with impedances under 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The overall background includes a mixed frequency pattern with lower voltage arrhythmic theta and bursts of slower, shifting arrhythmic delta activity.  On some occasions, there is a bit more prominent arrhythmic delta activity noted in the right posterior quadrant.
+Stimulation of the patient produces artifact, but also produces an increase in faster frequency activity.  When the patient is unstimulated, he appears to drift off into sleep with an increase in slower frequency activity.
+Heart rate 90 BPM.
+IMPRESSION:  This is an abnormal EEG due to.
+Generalized background slowing.
+Subtle, superimposed focal slowing with a bit more delta in the right posterior quadrant.
+CLINICAL CORRELATION:  No epileptiform features were noted.  Stimulation of the patient clearly produces an increase in faster frequency activity which is a good prognostic feature.  The findings described above are nonspecific, but can be seen in the context of a toxic metabolic with subtle focal features, congruent with the stroke history.
+
+
+

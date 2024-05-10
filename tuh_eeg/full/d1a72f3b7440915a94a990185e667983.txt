@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 58 year old female with right carotid stenosis.
+MEDICATIONS: Midazolam, Lidocaine, Etomidate, Fentanyl.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The CEA carotid montage is employed. Patient has a previous left occipital infarct.
+DESCRIPTION OF THE RECORD: There are sections of the record with wakefulness with a 9 Hz posterior dominant rhythm. In the perioperative record, there is some focal slowing noted from the right mid to posterior temporal region. Head rocking artifact is noted from both hemispheres.
+The time at which the patient received anesthetic medication is not documented in the record. Based on the EEG, induction of anesthesia likely took place at 2:41. Induction of anesthesia produces rhythmic slowing in the background. Initially, immediately after induction, there is some artifact on the right and the right may, in fact, be a little slower.
+Heparin is given at 4:38.
+The carotid is clamped at 4:38:20. In the first second after the carotid is clamped, there is a transient 1-second discontinuity.
+There is a subtle asymmetry noted following placement of the clamp. While both hemispheres are a bit slower following clamping of the right carotid, there is a very subtle difference with a bit more slowing on the right compared to the left.
+At 5:27, the background EEG becomes discontinuous with a burst suppression pattern. There is no indication on the record that the patient has had a change in sedative hypnotic medication.
+Recording concludes at 5:33, at which point the EEG is more continuous but not completely.
+HR: 84 bpm
+IMPRESSION: EEG monitoring during this right carotid endarterectomy is concerning due to:
+1. Focal features on the right which seem to have increased in association with the clamping of the carotid.
+2. A discontinuous pattern at conclusion of EEG recording.
+CLINICAL CORRELATION: In the patient with bihemispheric strokes and a challenging EEG, additional evaluation may be warranted.
+
+
+

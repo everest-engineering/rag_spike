@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  An 87-year-old with aphasia.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically satisfactory routine EEG aside from impedances in the T1-T2 electrodes that were slightly greater than 5 kilohms.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is relatively somnolent with spindles and a theta pattern.  Frontal snore artifact was noted.  Stimulation of the patient produces a brief arousal and at that time, a lower voltage record is noted quite briefly with a 8 hertz alpha rhythm noted on the right.  The patient follows commands briefly and then drifts back into stage 2 sleep.  The sleep record is relatively symmetric.  The brief waking record demonstrates scant alpha, but it is on the whole present bilaterally.
+Heart rate 48 BPM.
+IMPRESSION:  This EEG is remarkable for:
+Hypersomnolent patient.
+The limited wakefulness provided, a somewhat slow background.
+CLINICAL CORRELATION:  No epileptiform features were noted.  For this individual with a question of aphasia, there were no significant left focal features.
+
+
+

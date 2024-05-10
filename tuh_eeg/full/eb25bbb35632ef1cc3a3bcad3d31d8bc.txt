@@ -1,0 +1,35 @@
+AGE: 68 y.o.
+SEX: female
+DATE OF STUDY: 09/01/2015
+RECORDING ENVIRONMENT: Emergency Department EEG TYPE: Routine awake and drowsy
+EEG #: 15-1272
+HISTORY:
+68 y.o. female referred for routine EEG after presenting with abdominal pain and seizures . Notably, the patient has a history of nonepileptic seizures.
+MEDICATIONS:
+Ativan 2 mg administered four minutes into the record SEDATION: Ativan as above
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system . This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+At the beginning of the study, the waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR) . The normal anterior-to-posterior gradient of frequency and amplitude is present.
+Drowsiness is seen following the administration of Ativan 2 mg . During drowsiness, attenuation and fragmentation of the posterior
+dominant rhythm, diffuse background slowing, and excess of beta frequencies are seen.
+There are normal sleep transients, with synchronous and symmetric sleep spindles and K-complexes present during Stage II sleep.
+Slow wave sleep is not captured.
+No generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Not performed Photic Stimulation: Not performed
+EVENTS:
+Clinical: At the beginning of the study, the patient begins to have waxing and waning, low amplitude jerking movements of her upper trunk and both arms. Her eyes are closed and she does not respond to the EEG technician. These movements continue for 3 minutes and 8 seconds while the tech affixes the leads over the right posterior quadrant (T4, T6, 02, C4, P4).
+EEG: The leads over the right posterior quadrant (T4, T6, 02, C4, P4) are suboptimally connected when the event begins. The remaining leads show a well organized mixture of alpha and beta activity. As the event progresses, many of the leads become affected by muscle and movement artifact. However, leads that remain optimally recording (Fp2, F4, C4, T2, T4) continue to show a normal awake background. Following cessation of movements, a normal awake background with a well-organized mixture of alpha
+and beta frequencies is immediately seen.
+HEART RATE :
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION / CLINICAL CORRELATION:
+This is a normal awake-and-asleep routine EEG.	An episode of diffuse low amplitude waxing and waning body jerking captured at the beginning of the study was not associated with an underlying electrographic seizure. Of note, the leads over the right posterior quadrant were recording suboptimally at the start of the event so electrographic activity in these leads cannot be optimally assessed.	However, the remaining leads demonstrated a normal awake background rhythm during the captured episode of diffuse body jerking, and a normal awake background is seen immediately upon cessation of the shaking. The captured event most likely represents a nonepileptic behavioral event.
+
+
+

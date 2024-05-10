@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 85 year old woman with chief complaint of passing out. She has a past medical history of hypertension, dementia, schizophrenia, visual hallucinations, and breast cancer.
+MEDICATIONS: Lipitor, Lisinopril, Risperdal, ASA, Aricept, Donepezil, MVI
+INTRODUCTION: Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is somewhat slow and disorganized with a 6 Hz theta pattern and an alpha rhythm reaching 8 Hz. There are intermittent bursts of somewhat paroxysmal irregular delta. Photic stimulation does not activate the record.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Slow and disorganized background.
+CLINICAL CORRELATION: No epileptiform features are observed in this record. These findings are nonspecific and can be seen in toxic or metabolic encephalopathy, multi-infarct state or dementia of other causes.
+
+
+

@@ -1,0 +1,20 @@
+History:	64 YR FEMALE WITH CC OF NEW ONSET SZ.  PMHX: HTN, DM.  PT STATES HAD SZ X 3 days.  CONFUSED , AGGRESSIVE, BIZARRE BEH.,  SHE WAS TOLD. GIVEN MEDS BUT PRIMARY STOPPED UNTIL THEY CAN TELL WHAT WAS HAPPENING.  SHE DOES NOT KNOW MED
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases during drowsiness.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and Intermittent polymorphic delta activity is present in the bilateral midtemporal regions (right > left) region during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect. 
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild diffuse
+Focal slowing, polymorphic, frequent, bilateral (R>L) temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral midtemporal regions (right > left) region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific. In addition there is mild  diffuse background slowing.  This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+
+
+

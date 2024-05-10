@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is an 80-year-old woman admitted with confusional spell, TIA, atrial fibrillation, history of extensive posterior circulation cerebrovascular disease.
+MEDICATIONS:  Benadryl, metoprolol, insulin. Phenytoin.
+INTRODUCTION:  20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically acceptable EEG with post impedances below 5 kiloohms.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  There is a mixed frequency pattern with rhythmic theta and background delta.  There is a suggestion in some sections of the record of a 5.6 hertz alpha rhythm on the left, slightly slower on the right.  As the patient becomes drowsy, there are intermittent attenuations in the background.  There is a subtle, simple sharp wave with underlying phase reversal sometimes seen at FA, T4, or C4 with little in the way of an after going slow wave.
+Arousal produces an increase in theta.
+Heart rate irregular 90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+An asymmetry with somewhat slower faster frequency activity in the right hemisphere relative to the left and a bit more delta.
+Subtle underlying sharp waves in the right hemisphere.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  The sharp waves may be correlated with the patient's imaging and clinical history.
+
+
+

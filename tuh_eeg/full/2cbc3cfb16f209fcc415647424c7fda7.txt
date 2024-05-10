@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 52-year-old, right-handed male with epilepsy 11 years ago, 3 tonic-clonic seizures.  HIV, right PCA infarct.  Insomnia.  Recent admission for a 2-minute tonic-clonic seizure.
+MEDICATIONS:  Keppra and Lovenox.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz, 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  The patient was somewhat tense during the EEG.  There was significant muscle artifact noted in the background.  Despite this, there is a small amount of underlying focal slowing in the right posterior quadrant, which could be identified despite the head-rocking artifact.
+Photic stimulation elicited scant driving, as well as muscle artifact.
+Heart rate 78 bpm.
+IMPRESSION:  This is a challenging, but very subtly abnormal EEG due to:
+subtle focal slowing in the right posterior temporal or central temporal region.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a more prolonged study in the lab may be considered.  The focal slowing is in the region of the prior CVA.
+
+
+
+

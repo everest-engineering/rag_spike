@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is an 81-year-old male with fever and change of mental status.  No other clinical information available.
+MEDICATIONS:  Cardizem, Reglan, vancomycin.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a slow, mixed frequency pattern with theta and delta.  There are frontally predominant triphasic waves.  There are also some slow periodic complexes that appear in the right posterior quadrant more so than the left.  Stimulation of the patient produces a clear alerting response with a bit more fast theta frequency activity and a suggestion of a 6 Hz posterior dominant rhythm.  When the patient drifts off to sleep, the EEG becomes more significantly slow with more rhythmic slow mixed theta delta.
+Heart rate irregular 72 beats per minute.
+IMPRESSION:  This is a markedly abnormal EEG for an adult of this age due to:
+Marked background slowing.
+Frontally predominant triphasic waves.
+Occasional posteriorly predominant periodic complexes seen primarily on the right.
+CLINICAL CORRELATION:  Overall, this EEG is most suggestive of a toxic or metabolic pattern.  The triphasic waves improve with tactile stimulation and the patient shows a clear alerting with stimulation.  If seizures are an important consideration, additional EEG recording may be of value if this patient is thought to have seizures, particularly as  there is a right posterior periodic complex noted intermittently.
+
+
+

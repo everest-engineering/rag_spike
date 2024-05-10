@@ -1,0 +1,22 @@
+History:	66 YR  OLD FEMALE WITH ICH / EVD PLMT
+Medications:
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.  During stage 2 sleep, the record slows
+further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+

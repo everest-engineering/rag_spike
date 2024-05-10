@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 61 year old right handed male with neck pain, evaluate for syncope or seizure.
+MEDICATIONS: Tramadol, Ambien
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage frontal central beta activity. Hyperventilation is performed early on in the record producing rhythmic theta. Drowsiness is characterized by attenuation of the alpha rhythm. Photic stimulation is performed as the patient is starting to drift into stage 1 sleep, but there is a photic driving response elicited. The patient drifts in and out of stage 1/stage 2 sleep with abundant POSTS.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this EEG. If seizures are an important consideration, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

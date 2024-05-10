@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 81 year old female with simple partial seizures, but with a more severe seizure with loss of awareness yesterday.
+MEDICATIONS: Keppra, Depakote, Amiodarone, ASA
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: The patient has some twitching during the EEG, but it is not entirely clear since the camera is on the left side of the patient, if this is typical right sided twitching, it was of concern. This is an awake record in a patient with some twitch artifact. In wakefulness, the background EEG is poorly organized. The alpha rhythm is somewhat slow. On this primarily arrhythmic fixed 8 hertz record, there is intermittent arrhythmic delta activity in the left central region and toward the end of the record, rare, discrete C3-T3 sharp waves. These are not seen during the section of the record when the patient has a focal twitch.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing.
+2. Focal slowing from the left hemisphere.
+3. C3-T3 sharp waves.
+CLINICAL CORRELATION: This electroencephalogram supports a mechanism for seizures. The twitch, however, was not associated with the sharp and the sharp waves occurred without the twitching.
+
+
+

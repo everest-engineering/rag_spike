@@ -1,0 +1,30 @@
+History:	77 year old woman with change in mental status and poorly defined tremors.
+Patient is status post several brain surgeries, including right sub-occipital
+craniectomy for right cerebellar hemorrhage.
+Medications:	MORPHINE, VECURONIUM, VANCOMYCIN, NOREPINEPHRINE
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  Early in the recording, large amount of EMG artifact, especially
+over the left temporal region is seen.  Patient received vecuronium and EMG artifact resolves.
+Subsequently, the background consists of a mixture of polymorphic theta and delta activity with
+occasional diffuse sleep spindle-like waveforms.  Subtle polymorphic delta activity is noted over the
+No electrographic seizures are captured.  No events of tremors are noted.
+Summary of Findings:
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate-to-severe
+Focal slowing, polymorphic, continuous, severe, right temporal, anterior
+Interpretation:
+This is an ABNORMAL portable EEG due to moderate-to-severe diffuse slowing and subtle severe
+right anterior temporal focal slowing. Diffuse slowing is indicative of moderate-to-severe diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a
+focal structural lesion in this region.  No electrographic seizures or events of tremors captured.  If
+there is ongoing concern for seizures, patient may benefit from continuous EEG monitoring.
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+History:	29 year old man who a known seizure disorder, now presents with increase in his
+seizure frequency.
+Medications:	Phenobarbital, Felbamate, topamax
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~19 hours from 04/29/2015 till 04/30/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Background activity was characterized by diffuse delta and theta
+activity with absence of the expected anterior to posterior gradient of frequencies.  There is
+intermixed diffuse excess beta while awake. With sleep the background appears to become more
+intermittently suppressed and with a more predominant diffuse delta slowing.  No normal sleep
+Frequent bifrontal and central maximal polyspikes that have a large field. Their frequency
+improves by the end of the recording epoch.  Multiple seizures per hour (up to 20 from 4 pm to 5
+pm) are captured early in the recording.  They last no more than 10 seconds and stop by 10 pm.
+Seizure are characterized by diffuse beta followed by attenuation and then muscle artifact with
+sudden stop. This is followed by frontal predominant rhythmic delta for about 3 seconds.  Clinically
+the patient flexes his neck and lift both arms in a bicycle handle position and in a tonic fashion.
+Summary of Findings:
+Seizure, frequent generalized, stop by 10 pm
+Excessive fast
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL continuous video ~19 hour EEG due to diffuse background slowing, frequent
+generalized clinical seizures that stop by ~ 10 pm. The above findings indicate generalized type
+of epilepsy and are frequently seen in this patient.  Diffuse background slowing is etiologically non-
+specific, but in this patient is at least partially related to the medication effect.  These findings were
+conveyed to the primary team.architecture was present.
+
+
+
+
+

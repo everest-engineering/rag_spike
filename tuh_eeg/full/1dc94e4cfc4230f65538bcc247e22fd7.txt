@@ -1,0 +1,27 @@
+History:	41 YR OLD  MALE WITH PMHX OF SZS. PRESENTS FOR FOLLOW UP
+Medications:	TOPAMAX
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  Occasional brief generalized frontally central -maximal 4 Hz spike-and-
+wave discharges occur during the recording.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  HR
+Summary of Findings:
+Spike-and-wave complexes, fast, intermittent
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of frequent fronto central predominant
+generalized spike-and-wave, which are potentially epileptogenic.  Background activity is otherwise
+normal.  These findings are consistent with a diagnosis of primary generalized epilepsy.
+
+
+
+
+
+

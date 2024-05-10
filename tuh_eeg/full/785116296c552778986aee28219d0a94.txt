@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 50 year old male with history of recent ischemic stroke and left sided weakness. Patient was found to have high grade ICA stenosis.
+
+MEDICATIONS: Isoflurane, Sevoflurane, Propofol, Versed, Rocuronium, Lidocaine, Fentanyl, Neosynephrine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1-channel EKG. This recording began at 10:22 and concluded at 4:00 p.m. This is a 5.5 hour EEG.
+
+DESCRIPTION OF THE RECORD: As the recording begins, the patient has received anesthesia, and the background is relatively a low-voltage, symmetric pattern.
+
+Heparin is given at 11:30. Around this time the EEG is slightly discontinuous. The internal carotid is clamped at 12:38. No significant focal features are associated with a clamp over the carotid. Recording continues through the time in which the clamp is removed at 1:49. It is re-clamped at 1:51. The EEG has a little bit of discontinuity and a little bit of electrode artifact, but no significant focal features. A second clamp is placed at 2:30.
+
+The clamps are removed for the last time 3:20. Patency is confirmed by Doppler at 3:42. By this point in time, there is some electrode artifact, but no major asymmetries, although the record is a little bit more sedated than seen initially.
+
+HR: 84 bpm
+
+IMPRESSION/CORRELATION: EEG monitoring during this left carotid endarterectomy did not identify focal features.
+

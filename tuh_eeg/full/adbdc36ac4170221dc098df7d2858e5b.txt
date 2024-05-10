@@ -1,0 +1,11 @@
+HISTORY: 77-year-old woman with severe cardiomyopathy, AICD and syncope.
+MEDICATIONS:  Metoprolol, midazolam, aspirin and Plavix.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using the standard 10/20 system of electrode placement with 1 channel EKG.  The patient demonstrated wakefulness.
+DESCRIPTION OF RECORD:  The background EEG is somewhat slow and a bit disorganized, but at times the alpha rhythm reaches 7.3 Hz.  On other occasions, it slows and is more of a 6 Hz pattern with some 2-4 Hz activity in the background.  Slow rolling eye movements were observed.
+Sleep was characterized by dropout of the faster alpha and theta frequency activity with more slow delta.
+Heart Rate:  126 BPM, occasionally irregular.
+IMPRESSION:  This is an abnormal EEG for an adult due to modest background slowing and wakefulness.
+CLINICAL CORRELATION:  This individual clearly demonstrates wakefulness, although the patient is primarily drowsy.  No focal or epileptiform features were noted.  Please contact the lab if we can be of any additional assistance.
+
+
+

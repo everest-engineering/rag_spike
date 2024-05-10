@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  44 year old right handed female with significant cardiac disease, admitted with crushing substantial chest pain and facial twitching.  Radiculopathy.  Multiple skin tags.
+MEDICATIONS:  Hydralazine, Protonix, Acetaminophen
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a pattern with generous beta and an 11 Hz alpha rhythm.  The patient becomes drowsy quite rapidly with an increase in central theta.  Spindles and posts are noted as the patient transitions in and out of sleep. Photic stimulation is performed while the patient is transitioning in and out of stage 2 sleep with vertex waves, K complexes spindles and posts, but there is a driving response.
+HR:    84 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No epileptiform features are observed.  The pattern with the rapid transitions between wakefulness and sleep is an anticipated finding in a patient with significant obstructive sleep apnea.
+
+
+

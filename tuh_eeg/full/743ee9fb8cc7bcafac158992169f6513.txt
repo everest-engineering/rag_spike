@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 90 year old right handed woman with a subdural hematoma and persistent encephalopathy.
+MEDICATIONS: Keppra, Zofran, Zofran
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is no hyperventilation or photic stimulation performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates prominent background slowing with disruption of faster frequency activity on the right compared to the left. The left hemisphere includes primarily theta frequency activity with a glimpse of a 7 Hz to 8 Hz alpha rhythm. Features of drowsiness include an increase in background slowing and there are sections where the left hemisphere demonstrates a reasonably well-organized but 7Hz pattern. As the patient seems to drift off to sleep, POSTS are noted on the left arrhythmic delta activity is noted bilaterally as she drifts into sleep.
+
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Intrahemispheric asymmetry.
+2. Marked slowing from the right.
+3. Moderate slowing from the left.
+CLINICAL CORRELATION: There are no sharp waves noted today on the left. The activity is considerably slow on the right compared to the left today but both hemispheres are somewhat better than the previous EEG.
+
+
+

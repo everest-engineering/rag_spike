@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 48 year old right handed male admitted following multiple seizures with lip smacking and head turning to the left, eyes rolled up.
+The patient was awake, but unresponsive and incontinent.
+MEDICATIONS:  Carbamazepine, Metoprolol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF RECORD:  In wakefulness, the background EEG is somewhat slow.  There is excess theta identified.  There is a glimpse of an alpha reaching from 7-10 Hz.  In relaxed wakefulness, there are rare, high amplitude left anterior temporal sharp and slow wave complexes. Hyperventilation produces an increase in theta. After this, as the patient becomes drowsy there are subtle F7/T1 sharp waves noted. Photic stimulation does not activate the record.  Following photic stimulation a single, well defined right frontal temporal spike and slow wave complex is also noted and then later more discreet discharges, more compatible with a normal variant. In the final seconds of the EEG, another medium amplitude left anterior temporal discharge is identified, which is a spike. By the end of the recording, the background disorganization is somewhat improved.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left anterior temporal spike and slow wave and sharp and slow wave complexes which are rare.
+Excess background theta.
+CLINICAL CORRELATION:  There is a single well defined sharp wave on the right which must be considered artifact, although may represent variable distribution of the left anterior temporal sharp wave.  The background slowing does improve a bit as the recording continuous, which may be part of a postictal phenomenon.  Correlation with imaging given the presence of focal sharp waves or spikes in an adult is suggested.
+
+
+

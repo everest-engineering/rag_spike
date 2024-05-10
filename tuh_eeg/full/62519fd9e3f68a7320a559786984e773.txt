@@ -1,0 +1,27 @@
+History:	76 year old man admitted with confusion.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms at higher amplitudes over
+the left.  The background over the right consists of low amplitude well formed, modulated and
+reactive 9.5 Hz alpha activity posteriorly with expected AP gradient.  The background over the left
+consists of unstable polymorphic 8 Hz theta activity with poor AP gradient and primarily theta and
+delta activity that is most prominent over the left frontotemporal region.  Patient remains awake
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates
+occasional premature QRS complexes.  Patient is poorly cooperative and agitated by the end of
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, especially frontotemporally
+No stage 2 sleep
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake-only portable 24-minute EEG due to continuous moderate focal
+slowing over the left hemisphere, especially over the Left frontotemporal region.  This finding is
+indicative of a focal structural lesion in this region.  No clinical or electrographic seizures are
+
+
+
+
+

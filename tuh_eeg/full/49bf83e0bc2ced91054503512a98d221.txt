@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 56 year old male with hypertension, stroke, with left hemiparesis, renal failure, and right arm tremor.
+MEDICATIONS: Morphine, Ativan, Lopressor, Flagyl, Amoxicillin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is noted to have a tremor in his chin.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a diffusely slow pattern with rhythmic theta, smaller amounts of delta and some alpha frequency activity. Continuous twitching artifact is observed from the chin. The patient is somnolent and occasional snore artifact is noted. Stimulation of the patient produces a brief alerting response with an increase in faster frequency activity, but the patient does not really maintain an awake state.
+HR: 126 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Moderate to marked background slowing.
+
+CLINICAL CORRELATION: No epileptiform features are observed. The chin twitch is not a seizure.
+
+
+

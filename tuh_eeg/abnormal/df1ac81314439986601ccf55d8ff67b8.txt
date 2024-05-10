@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  62 year old woman status post code in the field, intubated on June 24, 2012 at 1848.  Initially moving all extremities, now with only eye movements, COPD, oxygen dependent.
+MEDICATIONS:  Ativan, Simvastatin, Zosyn, Vancomycin, Flagyl, Solu Medrol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and comatose.  The technologist observes that the patient has intermittent eye movements.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates primarily a burst suppression pattern with a markedly suppressed pattern.  In the bursts of activity that occur, there are bursts of high amplitude, sharply contoured faster frequency activity.  Some of these bursts begin on the left.  The duration of the bursts varies from 3 seconds to 10-15 seconds.  Many of the bursts, particularly those with high amplitude activity, are associated with eye blink.  At the beginning of a burst there are typically three eye blinks.  In addition, in some of the discharges when the patient has another high voltage burst within that burst, eye blink will be seen again. Later sections of the record demonstrate a burst and attenuation pattern with lower voltage theta, but the initial sections are markedly suppressed.
+HR:    120 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Burst suppression pattern.
+What appears to be an ictal pattern with consistent pattern of eye blinking with high voltage discharges.
+CLINICAL CORRELATION:  This is a very worrisome pattern, 18 hours following cardiac arrest.  Because of the correlation between the discharges on the EEG and the patient's clinical symptoms, this EEG should be considered ictal.
+
+
+

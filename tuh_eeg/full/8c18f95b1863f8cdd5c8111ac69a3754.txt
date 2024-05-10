@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  Sixty-five-year-old woman with a previous evaluation many years ago for possible seizures, now with a spacey spell.
+MEDICATIONS:  Norvasc.
+INTRODUCTION:  Digital video EEG is performed in the lab using the standard 10-20 system of electrode placement with one channel EKG.  This is an awake record.
+DESCRIPTION OF THE RECORD:  The background EEG is appropriately organized for an adult of this age with a 10.5 Hz 60 microvolt posterior dominant rhythm.  Of note, although the overall record is normal, the later portions of the record are a bit synchronous.  A small amount of low voltage, frontocentral beta activity is observed.
+Heart rate 88 bpm.
+IMPRESSION:   Normal EEG in wakefulness.
+CLINICAL INTERPRETATION: No focal nor epileptiform features are identified in this record.  Of note, however, the EEG is a bit more organized at the end and this may be compatible with postictal state.  Sleep was not achieved.
+
+
+

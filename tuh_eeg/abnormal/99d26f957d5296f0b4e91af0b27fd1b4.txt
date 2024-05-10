@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   20 year old right handed female with history of left orbital migraine with an episode of shaking.  The patient is aware of her shaking spells with her migraine, is not aware how long a duration of the spells, does not seem to recognize them when they occur.
+MEDICATIONS:  Topiramate.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 40 mV, 11 Hz alpha rhythm with a small amount of low voltage frontal central beta activity. Drowsiness is characterized by slowing of the alpha rhythm with vertex waves, K-complexes and spindles in stage II sleep. Hyperventilation produces an increase in beta. Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration a follow up study is suggested.
+
+
+

@@ -1,0 +1,16 @@
+MEDICATIONS:  Trileptal, phenobarbital.
+HISTORY:  A 21-year-old male with epilepsy since birth.  Most recent seizure was in August 2008.  Past history of cerebral palsy and a stroke in 2011.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed but hyperventilation could not be completed.  This was an awake EEG recorded in a patient in a wheelchair.  The patient was smiling, moving about but was unable to fall asleep during the EEG.
+DESCRIPTION OF RECORD:  Despite the muscle and movement artifacts, there is a suggestion of an underlying 9-Hz alpha rhythm with generous beta and background theta.  The alpha is never well defined here.
+In a few sections of the record without movement artifact, there may be occasional focal slowing from the left hemisphere with a bit more delta in the left frontocentral region.
+Photic stimulation appears to elicit a driving response at intermediate flash frequencies.
+In addition, there are some sections of the record, which seem to have more fast activity in the occipital regions, but again the patient could not cooperate for testing of the alpha rhythm.
+Heart rate 126 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Background disorganization.
+Excess beta.
+A suggestion of focal slowing on the left.
+CLINICAL CORRELATION:  No epileptiform features were noted.  If additional information is needed to characterize this patient's underlying epileptiform focus, a repeat more prolonged tracing capturing sleep is suggested.
+
+
+

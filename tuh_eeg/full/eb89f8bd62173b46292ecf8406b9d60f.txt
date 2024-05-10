@@ -1,0 +1,14 @@
+
+CLINICAL HISTORY:  This is an 82-year-old gentleman with history of aggressive behavior, admitted to the hospital with change in mental status and acute delirium for 3 days.  Head CT was negative for acute changes.  There was a concern for seizures and postictal changes.
+
+MEDICATIONS:  Risperdal and Haldol.
+
+INTRODUCTION:  A digital EEG was performed in the lab using standard International 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation was not performed.  Vertical stimulation was performed.  This tracing captures wakefulness through stage II sleep.
+
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm was 9-10 Hertz in frequency, 30-50 microvolt in amplitude, seen in the occipital region, which attenuates with eye opening.  There is frontocentral low amplitude beta activity, which is distributed symmetrically.  Stage I sleep is characterized by disappearance of the alpha rhythm, slowing of the background and absence of eye blink artifact as well as the presence of vertex sharp waves.  Stage II sleep is characterized by the presence of K complexes and sleep spindle.  Photic stimulation was performed at multiple fresh frequencies and result in no remarkable driving response.  There are frequent bursts of bitemporal slowing at F7/T3 and F8/T4 more prominent on the left side or independent left temporal slowing at F7/T3 in wakefulness and sleep consisting of 1.5-2 Hertz.  Delta frequency 50-60 microvolts in amplitude lasting 1-2 seconds.  Heart rate was 75-80 beats per minute regular.
+
+IMPRESSION:  This is an abnormal EEG due to bitemporal slowing left more than right side same during wakefulness and sleep.  No epileptiform abnormalities or seizures were identified in this record.
+
+CLINICAL CORRELATION:  The above finding are suggestive of either bilateral structural abnormalities or bilateral cerebral dysfunction.  Other causes include metabolic toxic or infectious encephalopathy.  No epileptiform abnormalities were seen in this record.  This does not rule out the diagnosis of epilepsy.  If seizures or a clinical concern, a repeat EEG or a 24-hour ambulatory EEG may be helpful.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 49-year-old male status post code at an outside hospital, coded for 8 minutes, presented comatose and unresponsive.
+MEDICATIONS:  Phenobarbital, Cardizem, insulin, Depakote, digoxin, metoprolol, Zosyn.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is described as intubated, comatose and septic.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, diffusely slow with a mixture of lower voltage theta and delta.  There is a diminutive, vertex, isolated, fast discharge, similar to a tiny spike noted at CV.  No clinical signs can be discerned on the EEG with this event.  There is some variability noted in the EEG with some sections of the record demonstrating a bit more theta than others and some sections with some muscle artifact noted, although the patient does not seem to be different behaviorally.  With the use of a vertex reference, the vertex spike appears.  On rate occasions it has an after-going slow wave.  Muscle artifact is noted in the background.  With the use of an average reference, the vertex sharp waves stand out and there are intermittent attenuations noted in the background.  The attenuations are a bit more prominent in the later sections of the record.  There is no mention that pharmacotherapy was changed at all during this EEG but in the later sections of the EEG, there is intermittent attenuation noted.
+Heart rate irregular, 120 BPM.
+IMPRESSION:  This is an abnormal electroencephalogram due to:
+Marked background slowing.
+Intermittent discrete vertex sharp waves.
+Intermittent attenuation of the background.
+CLINICAL CORRELATION:  This is a complex EEG.  There are both positive and negative prognostic features noted in this EEG.  The continuous record with reactivity and variability are positive prognostic factors but the intermittent attenuations are worrisome.  In comparison to previous EEGs, there is a significant improvement in terms of epileptiform pathology.
+
+
+

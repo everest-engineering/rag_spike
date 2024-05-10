@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 27 year old right handed male with daily headaches and episodes of palpitations.
+MEDICATIONS: Alprazolam.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10Hz 40 microvolt posterior dominant rhythm and a small amount of low voltage frontal central beta activity. Drowsiness is characterized by slow rolling eye movements and the appearance of theta. The alpha rhythm also sometimes demonstrate anterior spread during drowsiness. Hyperventilation produces a small degree of slowing. Photic stimulation does not significantly activate the record.
+HR: 48 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: There were no epileptiform features identified. Evaluation of this patient's bradycardia may be of value.
+
+
+

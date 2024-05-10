@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 58-year-old woman found with new onset tonic-clonic seizures November 29, 2011, asthma and anxiety.  Hearing impairment, back pain, hyperlipidemia, depression.
+MEDICATIONS:  Albuterol, codeine, aspirin, Claritin, Flexeril, Keppra, Motrin.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record, in a patient who seemed to be initially some anxious.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a low voltage 10 Hz alpha rhythm with generous beta.  Transitions in and out stage II sleep include vertex waves, spindles, posts.  Hyperventilation produces an increased amplitude of the background.  Photic stimulation elicited bilateral driving.  Heart rate 66 BPM.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  The generous beta may be due to this patient's medications or anxiety.  No epileptiform features were identified.  If epilepsy is an important consideration, a repeat tracing with more prolonged sleep may be of value. However this is her second EEG without sharp waves on spike.
+
+
+

@@ -1,0 +1,15 @@
+`
+
+
+CLINICAL HISTORY:  Childhood epilepsy, seizure during sleep "December 2012".
+MEDICATIONS:  Topiramate.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz, 50 mV alpha rhythm which is symmetric and reactive to eye opening.  There is a small amount of low voltage, frontal central beta.  Stage II sleep is characterized by vertex waves, K-complexes, spindles, and POSTS.
+Photic stimulation elicits vigorous bilateral driving.
+Hyperventilation produces rhythmic slowing in the background.
+Heart rate:  66 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  This patient's previous studies were not available for comparison.
+
+
+

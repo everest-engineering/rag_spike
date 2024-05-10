@@ -1,0 +1,14 @@
+EEG LENGTH:  Nearly 21 minutes.
+CLINICAL HISTORY:  The patient is a 47-year-old woman with a history of seizure on 6/7/2013 and subsequently found to have subarachnoid hemorrhage and multiple aneurysms.  She underwent clipping of right MCA and left MCA aneurysms.  The patient had another seizure on 6/19/2013.
+MEDICATIONS:  Keppra, morphine, and Lovenox.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed. The recording was performed in the laboratory.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low amplitude 9.5 Hz alpha activity that attenuates with eyes opening.  There is no anterior-to-posterior frequency amplitude gradient.  No normal sleep architecture is captured.  Bifrontal right greater than left theta and delta activity is observed.  This delta activity is often rhythmic.  Additionally, over the right frontal region this rhythmic delta activity continues for prolonged periods of time.  Additional bursts of diffuse frontally predominant delta (FIRDA) observed.  Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Moderate disorganization.
+Continuous focal moderate bifrontal slowing right greater than left, frequently rhythmic.
+Rhythmic runs of delta activity over the right frontal region without evolution.
+No clear electrographic seizures.
+IMPRESSION:  This is a very abnormal 21-minute awake EEG due to continuous moderate bifrontal slowing, right greater than left, frequently semirhythmic and rhythmic, without clear evolution into electrographic seizure.  This finding indicates focal cerebral dysfunction likely structural in etiology and is consistent with the patient's history of recent clipping of aneurysms.  There could be atypical focus over the right frontal region.  Frontal irregular rhythmic delta activity is seen with increased intracranial pressure, deep white matter lesions, and encephalopathy.
+
+
+

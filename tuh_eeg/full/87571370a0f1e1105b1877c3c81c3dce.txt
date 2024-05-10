@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  37 year old right handed woman with epilepsy, currently seizure free.
+MEDICATIONS:  Tegretol, Levothyroxine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz rhythm.  Hyperventilation produces a prominent hyperventilation response with background rhythmic theta and delta.  In addition, there is a focal hyperventilation response with occipitally predominant, sharply activity and activity that is periodic and sharply contoured in the right occipital region.  As the patient becomes drowsy, the focal slowing and sharp waves continue in the right occipital region, but then there is more of a transition to a drowsy pattern with a more rhythmic symmetric pattern.  Focal slowing and some arrhythmic delta are noted in the right occipital region.   Photic stimulation elicits little in the way of a driving response.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Irregular focal slowing in the right occipital region.
+Right occipital or posterior sharp waves.
+A posteriorly predominant hyperventilation response.
+CLINICAL CORRELATION:  These findings are similar to a previous study, but the previous study demonstrated nearly continuous occipital spiking.  These EEG has a bit more in the way of focal slowing.  Correlation with imaging is important.
+
+
+

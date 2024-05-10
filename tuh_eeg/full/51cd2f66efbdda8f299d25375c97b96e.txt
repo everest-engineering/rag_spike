@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 31 year old woman with cerebral palsy and behavioral issues, evaluate for staring and crying outbursts.
+MEDICATIONS: Zonegran, Zyprexa, Geodon, Keppra, Levetiracetam
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient has nearly continuous head rocking movements, but she is controllable.
+DESCRIPTION OF THE RECORD: When the patient is cooperative, the background EEG is rich in beta. There is a glimpse of 9 hertz alpha rhythm, excess background theta. With her head rocking and scanning movements, very frequent lambda waves are identified in the occipital regions. Photic stimulation does not activate the record.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess theta.
+CLINICAL CORRELATION: The head rocking is not a seizure. This patient's medications or underlying cerebral dysfunction may be responsible for the background slowing.
+
+
+

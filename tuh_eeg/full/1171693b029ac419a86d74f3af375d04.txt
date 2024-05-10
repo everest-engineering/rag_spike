@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 29-year-old male admitted last night with recurrent tonic-clonic seizures, sedated after treatment with Ativan, HIV, epilepsy, migraine headaches and possible pseudoseizures.
+MEDICATIONS:  Zonisamide, Keppra, Motrin, Ativan.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly cooperative and refused long term video EEG monitoring during this EEG.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient is awake.  There is a 10 Hz alpha rhythm in a pattern with generous beta.  With stimulation, the patient is alert but unstimulated, he drifts off to sleep with background beta and theta.
+Hyperventilation is remarkable for artifact but there is a suggestion of a focal, hyperventilation response with a bit more slowing noted on the left in comparison to the right.  Following hyperventilation, the patient drifts into sleep with an increase in beta.  This remains a somewhat technically challenging EEG and again, there is a very subtle suggestion of slowing on the left which does not appear to be artifactual in nature.
+Photic stimulation was performed while the patient was asleep.  It is remarkable for a head rocking artifact but no definitive driving.  The patient is in stage II sleep at the end of photic stimulation.  Symmetric vertex waves and K-complexes and spindles were identified.
+Heart rate:  72 beats per minute.
+IMPRESSION:  This is a technically challenging but abnormal EEG due to a focal hyperventilation response with a bit of slowing on the left.
+CLINICAL CORRELATION:  This EEG contrasts with a previous EEG December 10, 2012, which was normal.  In his individual with a question of seizures and nonepileptic seizures, an inpatient video EEG monitoring would be essential to clarify this.
+
+
+

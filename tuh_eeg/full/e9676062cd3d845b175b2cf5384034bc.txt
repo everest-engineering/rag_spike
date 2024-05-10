@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 30 year old right handed woman with 2 day history of headache and confusion, past history of a parietal infarct or brain tumor resection with encephalomalacia at age 15.
+MEDICATIONS: None listed
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record with significant artifact in the left frontocentral electrodes at C3P3. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz alpha rhythm. There is a small background disorganization. Electrode artifact is most notable in the left frontocentral region and there is accentuation of breech activity with higher amplitude breech activity in the right central region on the left. There are problems with the electrode but there is the suggestion of a left central sharp wave noted in the record and at some points an asymmetry with more fast activity on the right but more of an alpha rhythm on the left.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowly and disorganization:
+2. Shifting, focal features.
+3. The beta accentuation on the right may be due to an underlying skull defect or disruption of beta on the left.
+CLINICAL CORRELATION: These findings may be correlated with imaging. The sharp waves noted on the left are very simple in morphology. If epilepsy is an important consideration, please consider a repeat study with better electrode integrity.
+
+
+

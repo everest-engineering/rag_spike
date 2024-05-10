@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 60-year-old woman with warfarin-induced necrosis of the skin, encephalopathy, diabetes, hypertension, cancer, and DVT history.  The patient may have had a seizure on the 13th, hyperammonemia.
+MEDICATIONS:  Ativan drip, fentanyl, meropenem, oxycodone, and midazolam.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG.  This was a technically challenging critical care EEG with significant muscle artifacts.  Impedances were generally under 5 kilohms.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal, low voltage, quite suppressed, and featureless with slow, low voltage delta.  The delta activity is a bit more prominent in the central regions and in the frontal central regions.  There is little in the way of variability.  Tactile stimulation of the patient did not significantly alter the record.
+Heart rate 82 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to markedly slow, low voltage, and relatively suppressed record.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This is a markedly abnormal pattern.  The background slowing and low voltage pattern is more suppressed than one would expect with the use of sedative hypnotic medications, therefore suggesting an underlying significant toxic or metabolic encephalopathy.
+
+
+

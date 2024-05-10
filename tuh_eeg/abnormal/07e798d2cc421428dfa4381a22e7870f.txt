@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 33-year-old woman with possible seizures, post traumatic stress disease, asthma, anxiety, hypothyroid, depression, chronic pain syndrome.  Now complains of worsening, nausea, vomiting, abdominal pain, and frequent falling with lightheadedness.
+MEDICATIONS:  Zofran, Dilaudid, topiramate, meclizine, Compazine, diazepam, others.
+INTRODUCTION:  Digital video EEG was performed in the lab/bedside using standard 10-20 system of electrode placement with one channel EKG.  This was an awake and sleep record in a patient who is quite sleepy.
+DESCRIPTION OF THE RECORD:  In wakefulness, throughout much of the record the background EEG is a bit slow with a 7 Hz alpha rhythm, but on rare occasions the alpha rhythm reaches 9 Hz.  The patient frequently transitions in and out of sleep with slowing of the background rhythm, hypersynchronous rhythmic slowing, and an increase in beta.  POSTS are identified in stage 1 sleep with vertex waves and spindles noted in stage 2 sleep.
+Photic stimulation elicited scant driving.
+Heart rate:  84 BPM.
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  This adult appears to be excessively sedated or sleep deprived, but when maximally awake the alpha does achieve 9 Hz.  No epileptiform features were identified.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 58 year old right handed gentleman with a history of epilepsy, hepatitis C, prior right temporal hemorrhage, admitted following a cluster of seizures. Multiple injuries over the course or his life.
+MEDICATIONS: Depakote, Keppra.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. The patient is quite drowsy.
+DESCRIPTION OF THE RECORD: The initial sections of the EEG demonstrate prominent, rhythmic slowing from the right temporal region, particularly the posterior temporal region. Triangular shaped, periodic complexes, are noted at T6, O2, primarily at T6. As the recording continues, additional sharp waves are noted with a phase of reversal that is more mid to anterior temporal T2-T4. Focal slowing accompanies these sharp waves and there are bursts of focal slowing mid to posterior temporal region and sometimes involving C4. Features of drowsiness include an increase in background slowing. Photic stimulation is performed while the patient is transitioning into stage 2 sleep and does not activate the record.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Right temporal focal slowing.
+2. Initially posteriorly predominant periodic right temporal sharp waves.
+3. Right anterior temporal sharp waves as the recording continues.
+CLINICAL CORRELATION: An increasingly drowsy patient with prominent periodic sharp waves and initial sections of the record may in fact represent a postictal state. Ongoing management is suggested.
+
+
+
+

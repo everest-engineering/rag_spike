@@ -1,0 +1,37 @@
+History:	64 Y/O MALE PMHX OF ASTHMA, ARTHRITIS. PT PRESENTS TO HOSPITAL
+AFTER HAVING 2 SZ AT HOME FOLLOWED BY 4 MORE IN ED. ATIVAN X5,
+PROPOFOL DRIP,
+Medications:	PROPOFOL DRIP 9.7 ML/HR, ATIVAN X5
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 18 hours from 10/02/2014 to 10/03/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies. There is a superimposed diffuse beta.  There are also intermittent 1 second periods of
+diffuse attenuation.  The background improves at the end of the of the record.  There are rare small
+amplitude bifrontal predominant theta discharges.  No normal sleep architecture was present.
+Intermittent polymorphic delta activity is present in the bilateral mid temporal regions.  At time
+there are some sharply countoured discharges on the left.  No epileptiform discharges are present.
+No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 90
+Summary of Findings:
+Focal slowing, polymorphic, bilateral temporal, anterior
+Diffuse slowing, polymorphic, continuous diffuse, Improving at the end of the record.
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.  The sharply countoured discharges are suspicious for epileptogenic discharges.
+
+
+

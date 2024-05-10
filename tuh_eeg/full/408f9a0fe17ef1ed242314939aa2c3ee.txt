@@ -1,0 +1,17 @@
+History:	21 YR FEMALE WITH PMHX OF SZS SINCE BABY.  LAST SZ 1 mo AGO. STARING SPELL.  PT 5 WKS PREGNANT WITH CC OF ABD PAIN.  SZ CHECK UP. NO CHANGES SINCE LAST EEG. 16p13 microduplication with developmental delay
+Medications:	LAMOTRIGINE, ZARONTIN but levels =0
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric No focal slowing is present.  Occasional brief 2-10 seconds bursts of generalized frontally-maximal 3.0-3.5Hz spike-and-wave discharges and polyspike-and-slow-wave discharges occur during the recording.  None of them with a clinical correlate with testing. 
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 66
+Summary of Findings:
+Spike-and-wave complexes, fast, intermittent diffuse
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent generalized epileptiform discharges, which are  consistent with a diagnosis of idiopathic generalized epilepsy.
+
+
+
+
+

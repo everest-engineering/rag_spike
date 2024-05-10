@@ -1,0 +1,50 @@
+MEDICINES:
+Rufinamide, Keppra, Lamictal, Protonix, Lovenox, Vimpat.
+INTRODUCTION:
+Continuous video EEG monitoring is performed in the unit using standard 10/20 system of electrode placement with
+one-channel EKG.
+During this recording, the patient has seizures at 1616, 1834, 01 :24:11, and 05:14:52.
+DESCRIPTION OF RECORD:
+The background EEG is abnormal with excess beta and theta. It is difficult to find a well-defined alpha rhythm.
+Prominent rhythmic theta is noted in the right temporal or occipital region and there are sharp waves noted.
+Sleep is characterized by an increase in beta with spindles and arrhythmic delta activity. Sharp waves on this EEG can
+be posterior, right occipital, anterior temporal or even on one or two occasions right frontal. Epileptiform activity is
+accentuated in sleep and some of it has a bifrontal or more generalized appearance. There are clear stage 2 sleep
+morphologies. Stage 2 sleep also is associated with some generalized, bifrontal spike and slow wave or polyspike
+complexes.
+Seizure number one 16:16:26. The patient is with his mother. He is asleep. In sleep, there is repetitive spiking noted
+from the right mid to posterior temporal region.
+The patient starts to stir from sleep at 16:14:50 and he looks at his mother, which produces an increase in muscle in the
+background. He looks about for several seconds and he speaks to his mother, although it is difficult to tell what he said.
+He gestures with his left hand, puts the left hand to the mouth and looks about. Behaviorally, this seems to be an aura
+because he does not seem to be having any clinical symptoms and then his mother goes to get the urinal. No clinical
+manifestations are noted aside from tremulousness and an urge to go to the bathroom. However, as the patient gets up
+to go to the bathroom, he starts to have jerking at 16:16:30 with jerking, vocalizations and tremulousness. He holds the
+left hand a bit more still and jerks the right hand He also has characteristic ictal-type respirations. The primary features
+of this seizure include restlessness.
+By 17:36, he is able to answer questions.
+Behaviorally, the seizure is primarily characterized by abnormal respirations and agitation.
+Seizure time 18:34:54. The patient has been resting in bed. He is dozing. Again, he sits up abruptly, moves about,
+breathes rapidly and is briefly agitated.
+This seizure ends at 18:35:36 and he has automatisms and gestures, is confused and tries to take off the electrodes at
+18:35:47.
+By EEG, this is a somewhat challenging EEG to localize because of the high amplitude activity and the muscle artifact.
+The epileptiform activity prior to this seizure is right posterior temporal and, during the seizure, very difficult to localize in
+part because of the muscle artifact. There is a clear postictal change.
+Seizure time 23:44 is just a push button event.
+Seizure time 01:23:40. The patient has been asleep with a focal slowing in sharp waves seen in the right occipital and
+posterior region. Muscle artifact is seen at 01 :23:49. He sits up, has the characteristic respirations, is a bit agitated and
+tremulous. He starts to take off the blood pressure cuff and the covers. He has midline, fearful movements as were seen
+in the previous seizure. The technologist, nurse or the patient pushes the button at 1 :24:13, it is a little hard to tell and
+the nurse is at the bedside with him. Somebody asked him are you okay or asked the nurse if she is okay at 01:24:27.
+The nurse, at 01 :24:35, touched the patient and asked the patient is he okay. The seizure seemed to be ending at
+01 :24:36. The patient rests comfortably.
+Seizure time 05:14:28. The patient has been sleeping. Wakes from sleep with muscle artifact, sits up. Again, he seems
+to be upset and agitated. The EEG during the seizure is difficult to interpret. He seems to be postictal and confused by
+05:16:30 and then consolable.
+Heart rate N/ A.
+IMPRESSION/CLINICAL CORRELATION:
+Additional EEG recording will follow in subsequent days and the final impression and clinical correlation will follow.
+
+
+

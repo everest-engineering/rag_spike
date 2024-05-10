@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  24 year old right handed woman with headaches, refractory epilepsy and previous stroke.  The patient and family described nonepileptic seizures with 5 tonic clonic seizures with tongue biting, loss of consciousness and other features.
+MEDICATIONS:  Ativan, Topamax, Lovenox, Lorazepam
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is quite sleepy.  Hyperventilation and photic stimulation are performed.  She follows commands appropriately.
+DESCRIPTION OF THE RECORD:   In maximal wakefulness there is a 9 Hz alpha rhythm with a small amount of low voltage frontocentral beta.  Vertex with K complex spindles and posts are noted in stage II sleep. Hyperventilation is performed while the patient is relatively drowsy and produces some theta.  There is also a little bit of head rocking, particularly in the right posterior temporal region and hyperventilation. Photic stimulation elicits bilateral driving.  Photic stimulation is performed during stage II sleep, but still elicited some driving.
+HR:    90 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Long term monitoring will follow to more clearly define this patient's epilepsy.
+
+
+

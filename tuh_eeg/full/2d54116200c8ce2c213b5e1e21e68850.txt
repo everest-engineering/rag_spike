@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 21 year old left handed male with childhood head trauma, subsequent development of epilepsy and frontal skull defect.
+
+MEDICATIONS: None
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation were completed. Prominent craniotomy defect was noted.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 hertz, 30 microvolt posterior dominant rhythm with a marked accentuation of beta activity in the left frontal region. Hyperventilation produces and increase in amplitude of the background and again accentuates the beta. As the patient becomes drowsy, slow rolling eye movements and a more diffuse pattern of beta is observed by the vertex waves, spindles and POSTS. Photic stimulation is remarkable for a scant driving response and some focal slowing at T3. POSTS are observed a bit more so on the left than the right and in addition, in drowsiness during photic stimulation, left posterior temporo occipital focal slowing is noted. The sleep record is re-reviewed in additional montages. There is clearly a focus in the posterior region sometimes a bit more prominent at P4 and at other occasions, T3-T5. These focal findings seem to be unique to the sleep record which coincides with the photic stimulation and really begins with the left posterior temporal or occipital findings and then the bursts on the right.
+HR: 60 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. T5 sharp waves seen primarily in sleep.
+2. Occasional right occipital sharply contoured slowing.
+
+CLINICAL CORRELATION: A breech rhythm with accentuation of frontal fast activity is a normal finding following craniotomy. The occipital findings may be correlated with imaging and may be part of a coup-contra-coup pathology.
+

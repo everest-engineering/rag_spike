@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 72-year-old male with heart disease, TIA, found down at home with CAT scan demonstrating bihemispheric infarcts.
+MEDICATIONS:  Metoprolol, Lipitor, Coumadin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record for a restless individual.  Technical issues included muscle artifact.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffuse theta pattern with superimposed muscle artifact.  Occasional shifting slowing was noted.  Drowsiness is characterized by a decrease in eye movements.  Photic stimulation did not significantly activate the record.  Heart rate irregular, 60 to 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were seen.  There is mild shifting slowing, congruent with the history described above.  If epilepsy is an important consideration, a repeat tracing may be of value.
+
+
+

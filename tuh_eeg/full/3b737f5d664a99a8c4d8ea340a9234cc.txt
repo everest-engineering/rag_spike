@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  64 year old woman, wheelchair bound with dementia or some other cognitive disorder, at baseline nonverbal and minimally ambulatory.  Possible syncope.
+MEDICATIONS:  Aspirin, Atenolol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not possible but photic stimulation was completed.  This is an awake record in a confused individual.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a disorganized pattern.  On the left there is an alpha rhythm of approximately 5 Hz; on the right considerably slower, approximately 2.4 Hz.  There is excess theta.  Features of drowsiness include a decrease in eye movements and an increase in rhythmicity of the background.  The asymmetry is less prominent and there are rare vertex waves.  In wakefulness, sleep, and during photic stimulation, the patient has occasional muscle twitches which are not associated with an EEG correlate.  Photic stimulation does not activate the record, but the patient does seem to have a little bit more muscle twitch.
+HR:    78 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing and disorganization.
+A superimposed asymmetry with slower faster frequency activity on the right compared to the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a diffuse disturbance of cerebral function but one that may involve the right hemisphere more significantly than the left.
+
+
+

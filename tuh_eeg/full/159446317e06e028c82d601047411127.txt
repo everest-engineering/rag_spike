@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 48 year old male with an episode of inability to talk, flickering eyelids. The patient had motion arrest or paralysis for 0.5 day after the episode.
+MEDICATIONS: Lovenox, Labetalol, ASA
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a slightly slow alpha at 8
+Hz. The background is otherwise relatively low voltage. Drowsiness is characterized by  slow rolling eye movements. Brief stage 1 sleep includes vertex waves. Vertex waves, spindles, and K-complexes in stage 2 sleep. Eye movements are noted in sleep.
+HR: 66 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Mild slowing of the alpha rhythm.
+CLINICAL CORRELATION The persistence of eye movements into stage 2 sleep is an unusual, but not necessarily pathologic finding. If additional information is needed, a follow up study may be obtained. The slow alpha rhythm is a nonspecific finding that may be correlated with clinical history.
+
+
+

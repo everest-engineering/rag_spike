@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 54 year old right handed female with epilepsy since childhood, seizure free for 20 years with positional vertigo, difficulty concentrating, word-finding difficulty.
+MEDICATIONS: Zonegran
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. There is prominent eye artifact.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hz alpha rhythm. There is intermittent, sharply contoured focal slowing in the left mid to anterior temporal region. This is seen in wakefulness and drowsiness. On rare occasions it is also seen on the right. Anterior temporal sharp waves are mixed in with the focal slowing on the left. Hyperventilation slightly activates these focal features. Photic stimulation elicits brief bilateral driving.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. left anterior temporal focal slowing with associated irregular sharp waves.
+2. Rare sharp waves and focal slowing on the right.
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.
+
+
+

@@ -1,0 +1,22 @@
+History:	31 year old woman with a history of events concerning for seizures.
+Medications:	Lamictal
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, hyperventilation, photic
+
+
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Fast alpha variant is frequently seen. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+
+During drowsiness, broad, anterior temporal, left>>right, F7>F8 electrode, sharp waves are observed. They have appearance of triphasic waveforms. A 3 second run of 3 Hz rhythmic moderate amplitude bifrontal, left>>right, and primarily left temporal activity is noted as well during drowsiness. A single electrographic seizure is captured during drowsiness ~ 36 minutes into the recording. No clinical correlate is observed. Seizure starts with a T3 sharp wave followed by brief rhythmic left temporal delta activity that rapidly evolves into rhythmic, primarily left midtemporal 8 Hz activity. There is gradual decrease in frequency and increase in amplitude with rhythmic 2-3
+
+Hz F7 high amplitude sharp waves seen. Seizure lasts ~ 16 seconds. Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing and increase in heart rate up to 100 bpm (baseline is ~ 60 bpm). Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.
+
+Summary of Findings:
+Seizure, one, left temporal, 16 seconds, during drowsiness, no clinical correlate
+Sharp waves, intermittent, bilateral (L>R) temporal, anterior, during drowsiness; F7 and F8 electro
+TIRDA (temporal intermittent rhythmic delta activity), left temporal, anterior
+
+Interpretation:
+This is an abnormal awake and drowsy 1 hour EEG due to frequent bilateral, left>>right, anterior temporal epileptiform discharges and a single brief left anterior-temporal - midtemporal seizure without a clinical correlate. These findings are indicative of an epileptogenic focus in the left temporal region, and given the clinical history of partial seizures, are consistent with a diagnosis of localization-related epilepsy. These findings were discussed with the ordering physician at the time of the review.
+

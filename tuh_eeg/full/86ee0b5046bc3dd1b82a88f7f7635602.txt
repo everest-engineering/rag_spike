@@ -1,0 +1,49 @@
+History:	52 year old man with a history of left frontoparietal GBM status post resection
+several months ago, now presents with worsening right sided weakness and
+ambulatory dysfunction.  Patient found to be in focal status epilepticus on a spot
+Medications:	Dilantin, Ativan ~ 6 mg, Depakote, Neurontin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours from 11/12/2014 to 11/13/2014.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+The Gotman spike and seizure detection algorithm (Stellate) was used to screen the EEG in real
+time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  During
+maximal wakefulness, the background over the right hemisphere consists of polymorphic moderate
+amplitude 8-9 Hz activity, expected AP gradient and excess theta activity.  The background over
+the left hemisphere demonstrates 8 Hz polymorphic theta activity posteriorly, excess theta and delta
+activity, weak AP gradient and underriding fast activity over the left posterior quadrant (breach
+rhythm).  As the recording progresses, the degree of diffuse excess theta and delta activity
+increases.  It correlates with addition of CNS-active medications.  Diffuse excess beta activity
+appears later in the recording.  Waveforms similar to K-complexes are present.
+Frequent electrographic seizures are noted.  They occur up to 5-7 times per hour.  They are of
+variable duration lasting up to 3 minutes.  There is no clear clinical correlate.  Seizures start with
+rhythmic moderate amplitude ~5-5.5 Hz spikes with aftergoing slow waves emanating from T5 and
+O1 electrodes.  There is a gradual increase in frequency and spread to the P3, C3 and Pz
+Summary of Findings:
+Status epilepticus, left, posterior quadrant/ posterior temporal-occipital
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, left, mild-to-moderate
+Interpretation:
+This is a very abnormal 18-hour continuous video EEG monitoring due to (1) mild diffuse slowing;
+(2) continuous mild-to-moderate left hemispheric slowing and (3) frequent recurrent left posterior quadrant seizures (focal status epilepticus) without clear clinical correlate.  Diffuse slowing is electrodes.
+EEG on 11/12/2014.
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Increase in the
+degree of slowing as the recording progresses is related to increase in the doses/ addition  of CNS-
+active medications.There is focal structural epileptogenic lesion over the left - known left
+frontoparietal tumor status post several resections.  These findings were conveyed to the primary
+team and therapy was adjusted.
+
+
+
+
+
+

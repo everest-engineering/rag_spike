@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 49 year old female being evaluated secondary to a 3 minute syncopal episode. The patient has a history of atrial fibrillation, asthma, COPD and obstructive sleep apnea.
+MEDICATIONS: Methylprednisolone, Lisinopril, Protonix, Singulair, Reglan, Flovent, Metoprolol.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient was asleep for most of the study.
+DESCRIPTION OF THE RECORD: The patient has a background alpha rhythm of 9.8 hertz and patient is asleep for a good part of the study. During drowsiness, vertex waves are identified and there is a diffuse rhythmic theta. During hyperventilation, there is a left temporal theta in wakefulness (TIRDA). In addition, T1 intermittently sharp contoured slowing with theta is noted.
+HR: 78 bpm with PVCs.
+IMPRESSION: Abnormal EEG due to:
+1. Left temporal rhythmic theta in wakefulness (TIRDA).
+CLINICAL CORRELATION: No epileptiform activity is noted. TIRDA can sometimes be seen in temporal lobe epilepsy.
+
+
+

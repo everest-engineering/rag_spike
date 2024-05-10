@@ -1,0 +1,41 @@
+History:	88 year old man status post right hemispheric SDH evacuation several days ago,
+now with frequent episodes of head turning to the left and accompanied visual
+Medications:	Depakote, Dilantin
+Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 09/05/2015 till 09/06/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+Arousals are poorly sustained.  During periods of arousals, the posterior dominant rhythm is
+fragmented and is 8 Hz maximally.  Overall, the awake background consists primarily of diffuse
+polymorphic theta activity.  Poorly visualized sleep spindles are seen.
+Continuous polymorphic theta and delta activity and underriding fast activity is present in the right
+posterior temporal - posterior quadrant region.  Three typical right hemispheric focal seizures are
+captured, lasting ~ 1.5-3.5 minutes (at 1:52 pm, 5:08 pm and 2:49 am ).  There is no clear clinical
+correlate.  Frequent broadly based blunted right posterior temporal- parietal sharp waves are seen
+(T4/T6/P4 maximally).
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right posterior
+Diffuse slowing, polymorphic, moderate
+Sharp waves, frequent, right, posterior temporal- parietal
+Seizure, right, 3 sz, temporoparietal, 1.5-3.5 min
+Interpretation:
+This is an ABNORMAL continuous 24-hour video EEG due to moderate diffuse slowing; continuous
+focal right posterior temporal- posterior quadrant focal slowing; frequent right posterior temporal-
+parietal epileptiform discharges and three right temporoparietal focal 1.5-3.5 minutes subclinical
+seizures.  There is an ictal structural focus over the right temporoparietal region.  Diffuse slowing is
+indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  These
+findings were conveyed to the primary team.
+hallucinations.
+
+
+
+
+

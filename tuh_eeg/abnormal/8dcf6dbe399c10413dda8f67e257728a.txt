@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  82 year old right handed male with memory loss and behavioral issues.
+MEDICATIONS:  Haldol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  There is no photic stimulation or hyperventilation.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG includes a theta pattern.  The patient transitions in and out of stage I sleep with vertex waves.  There are paroxysmal bursts of slowing noted in the background and rare triphasic waves.  There are also bursts of irregular slowing.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Paroxysmal bursts of irregular slowing.
+Rare triphasic waves.
+CLINICAL CORRELATION:  The findings described above can be seen in multi-infarct dementia or dementia due to other causes.  This individual is found to have epilepsy, additional EEG recording may be important to make sure that there are no epileptiform features that may be under looked in this abnormal background.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An 83-year-old with right hemiparesis, aphasia, left MCA infarct, increasingly drowsy.
+MEDICATIONS:  Depakote, metoprolol, B12 and others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically acceptable routine bedside study.  Hyperventilation and photic stimulation were not possible.  Impedances were acceptable.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, relatively featureless pattern with generous muscle artifact.  The muscle artifact tends to be relatively symmetric.  Eye movement was noted.  As the muscle activity drops out, more rhythmic focal slowing was noted from the left hemisphere without clear clinical correlate.
+In this very challenging EEG, there are brief sections when the patient appears unresponsive but there is a 9 Hz posterior dominant rhythm noted on the right in a very low voltage record with very low voltage rhythmic delta from the left hemisphere.
+Heart rate 72 bpm.
+IMPRESSION:  This is a very technically challenging EEG due to muscle artifact but it is remarkable for rhythmic slowing from the left hemisphere.
+CLINICAL CORRELATION:  To more completely assess this patient's background, a repeat tracing is important as subtle, epileptiform activity may be overlooked.
+
+
+

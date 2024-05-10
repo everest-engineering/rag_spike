@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 49 year old right handed male with a relatively recent right middle cerebral artery stroke and an episode of loss of consciousness with incontinence of bowel requiring transfer from the inpatient rehabilitation service.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is quite drowsy. The overall EEG is relatively low voltage with significant attenuation of activity from the right hemisphere. With stimulation, a somewhat slow theta frequency pattern is noted on the left. There is a 7 Hz to 8 Hz width of activity noted from the left. As the recording continues, the patient does sometimes produce a bit more faster frequency activity from the right. In addition to the faster frequency activity from the right, there is occasional underlying arrhythmic delta activity in the patient was admitted hemisphere. Features of drowsiness including increase in beta. There are rare sections when there is a bit more alpha frequency activity noted on the left.
+HR: 78 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Faster frequency activity on the right.
+2. Somewhat slow pattern on the left.
+CLINICAL CORRELATION: The presence of wicket can make the identification of epileptiform activity more challenging. If seizures are an important consideration, as this patient recovers, a followup EEG capturing wakefulness interchanged to sleep is important to more completely search for potential left temporal sharp waves.
+
+
+
+

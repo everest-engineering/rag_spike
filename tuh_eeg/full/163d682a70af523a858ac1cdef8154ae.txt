@@ -1,0 +1,23 @@
+History:	43 YO FEMALE W/ DRUG OVERDOSE (BENZODIAZEPINE). HX OF PRIOR
+OVERDOSE AND SEVERAL ATTEMPTED SUICIDES.
+Medications:	VALPROATE
+Sedation:	None
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, comatose
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+No epileptiform discharges
+Alpha rhythm, normal
+Interpretation:
+This is a NORMAL 21 minute EEG, awake and drowsy. A normal EEG does not rule out the clinical
+diagnosis of epilepsy.  If clinically indicated, a repeat EEG capturing deeper stages of sleep or for
+more longer periods may be helpful.
+
+

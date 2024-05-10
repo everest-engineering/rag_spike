@@ -1,0 +1,12 @@
+`CLINICAL HISTORY:  62 year old male, status post cardiac arrest on the 19th with 10-18 minute PEA code, now unresponsive.
+MEDICATIONS:  Lactulose, Vancomycin, Rifaximin, Zosyn
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has facial automatisms and grimacing.
+DESCRIPTION OF THE RECORD:  The overall EEG is very low voltage and suppressed.  There is periodic complex identified at P3.  There are also rare triphasic waves. Stimulation of the patient does not activate the record.  As the recording continues, there are more well-defined sharp waves from the left hemisphere maximum at P3.  These have a PLEDs plus-like character.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly suppressed background.
+Periodic complex in the left hemisphere which waxes and wanes.
+CLINICAL CORRELATION:  This EEG supports a highly irritative process in the left hemisphere.  The periodic complexes are not actual seizures, but subclinical seizures must be considered.  Medication list is essential for this patient.
+
+
+

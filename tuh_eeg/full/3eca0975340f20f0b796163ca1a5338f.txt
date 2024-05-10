@@ -1,0 +1,33 @@
+History:	37 year old woman with a history of new seizure onset with 2 seizures in 6/2014.
+Patient also has a history of headaches and opioid use/ abuse.
+Medications:	KEPPRA, NEURONTIN, SUBOXONE, ATENOLOL, FIORICET
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Fast and slow alpha rhythm is present.  Symmetric 5-15uV, 18-
+25Hz activity is present, maximal over bilateral frontal regions.  Excess diffuse admixed 50-75 uV,
+5-7Hz activity is present throughout the recording and increases during drowsiness.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+complexes appear.  Patient transitions rapidly into drowsiness and sleep.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Sleep, stage 2
+Alpha variant, fast
+Alpha variant, slow
+Interpretation:
+This is an ABNORMAL awake and asleep 41-minute EEG due to mild diffuse slowing. This finding
+is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but in this
+patient could be related to excessive drowsiness.  The lack of epileptiform discharges on a routine
+EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

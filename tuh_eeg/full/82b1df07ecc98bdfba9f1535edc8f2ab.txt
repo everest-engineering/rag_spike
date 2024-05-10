@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  67 year old right handed woman with a history of epilepsy, status post stroke with thrombolysis, now with slurred speech, right MCA infarct.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is awake.
+DESCRIPTION OF THE RECORD:  On the left there is a 9 Hz alpha rhythm.  The left hemisphere is a bit disorganized and there is intermittent delta noted in the left hemisphere, as well as a small amount of theta.  The right hemisphere is more significantly different with sharply contoured high amplitude 2-3 Hz delta activity.  There are also sharp waves identified in the record, most of which are at T4, some nearly isoelectric F8/T4, others with spread to C4, and even a handful T6.
+Features of drowsiness include an increase in rhythmicity of the background, as well as disappearance of the alpha on the left.  The patient arouses spontaneously.  There are a handful of sharp waves maximum at C4. There is also some underlying wicket noted in the background.
+HR:    78 bpm and slightly irregular
+IMPRESSION:  Abnormal EEG due to:
+Overall background slowing and disorganization, including the left hemisphere.
+Arrhythmic delta activity in the right hemisphere, maximum at T4.
+Sharp waves identified in the right hemisphere typically maximum at T4, but with some variability and some are seen at C4, T6, or nearly isoelectric.
+CLINICAL CORRELATION:  The focal features can be seen with a right MCA infarct, but the sharp waves support a focal mechanism for epilepsy.  Comparison with studies prior to this patient's stroke would be helpful.
+
+
+

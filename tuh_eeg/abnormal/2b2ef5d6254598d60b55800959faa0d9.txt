@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 28-year-old woman, admitted to the hospital on 13th after an episode, where she had a loss of consciousness, fell, and hit her face followed by a generalized tonic-clonic seizure.  One prior similar episode, normal CT.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is in awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.3 Hz alpha rhythm.  Central mu-activity was noted, the mu-activity was 9 Hz, but testing was not performed to confirm this.
+Drowsiness is characterized by slow rolling eye movements, anterior spread of the alpha rhythm, and increase in beta followed by theta with rare vertex waves.  The patient was transitioned into stage 2 sleep with vertex waves and spindles during photic stimulation.  Despite this, a driving response was elicited.  Hyperventilation produces an increase in theta.
+IMPRESSION:  This is a mildly abnormal EEG in wakefulness through stage 2 sleep due to
+Slight slowing of the alpha rhythm.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The mild slowing of the alpha rhythm is a nonspecific finding.  It may be a part of postictal state or other diffuse disturbance of cerebral function.  If epilepsy is an important consideration, a followup study may be of value.
+
+
+

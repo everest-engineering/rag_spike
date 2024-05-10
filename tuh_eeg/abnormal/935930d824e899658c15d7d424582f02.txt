@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   57 year old right handed gentleman with seizures since the age of 17.  Last seizure was on 07/04/2012 as a generalized clonic-tonic seizure with loss of consciousness, tongue biting, and urinary incontinence followed by confusion.  Seizure frequency is 1 seizure per year.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and a briefly sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9 Hz alpha rhythm.  Alpha is reactive with eye closure.  Abundant frontocentral beta is noted in relaxed wakefulness and early drowsiness.  Vertex waves, post and sleep spindles are noted in stage II sleep.  Hyperventilation and photic stimulation do not activate the record.
+HR:    60 bpm
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  This is a normal EEG for this adult with a history of epilepsy.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

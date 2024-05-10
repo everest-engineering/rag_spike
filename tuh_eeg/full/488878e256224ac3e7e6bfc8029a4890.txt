@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 80-year-old woman with dementia and 1 week change in mental status with occasional jerkiness of limbs.
+MEDICATIONS:  Ceftriaxone, Benadryl, others.
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel EKG.  The patient is poorly responsive, and occasional muscle twitch artifact was noted.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a mixture of theta, frequency activity of approximately 4-7 Hospitalization.  As she becomes drowsy there is an increase in beta.  Occasional muscle jerks were not associated with epileptiform activity.  Rare triphasic waves were noted.  Features of drowsiness included increase in beta.
+Heart rate 120 BPM.
+IMPRESSION:
+This is an abnormal electroencephalogram due to:
+Generalized background slowing.
+Triphasic waves.
+CLINICAL CORRELATION:  The muscle jerking was not associated with epileptiform activity.  This EEG is more supportive of a toxic or metabolic encephalopathy.  Dementia, however, can produce similar changes.
+
+
+

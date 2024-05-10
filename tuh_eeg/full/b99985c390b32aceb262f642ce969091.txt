@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 22 year old right handed male with blackouts, history of head trauma.
+MEDICATIONS: Oxcarbazepine.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10 Hz posterior dominant rhythm. The patient transitions quickly in and out of stage 2 sleep, falling asleep during hyperventilation. Features of stage 2 sleep include vertex waves, K complexes, spindles, and POSTS. Photic stimulation elicits scant bilateral driving. In addition, during the photic stimulation section there is some very subtle, infrequent left central delta.
+HR: 72 bpm
+IMPRESSION: Very mildly abnormal EEG due to:
+1. Rare left central delta.
+CLINICAL CORRELATION: No epileptiform features are observed. The hypersomnolence may be evaluated clinically.
+
+
+

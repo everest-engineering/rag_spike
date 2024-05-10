@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 21 year old right handed female with epilepsy since 2007 with abnormal lesions found on MRI. Last seizure 2 weeks ago.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a well-defined, 11.7 Hz, 50 microvolt alpha rhythm with a small amount of low voltage, frontocentral beta activity. Hyperventilation is performed early in the record producing an increase in the amplitude of the background and an increase in theta. Photic stimulation elicits scant driving. Drowsiness is characterized by an increase in background slowing.
+HR: 60 bpm
+IMPRESSION: Normal EEG.
+
+CLINICAL CORRELATION: A normal EEG does not exclude a diagnosis of epilepsy. If seizures are an important consideration, a follow-up study may be considered.
+
+
+

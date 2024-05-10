@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 52-year-old right-handed male evaluated for syncope versus seizures.  The patient experienced a seizure this past week.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and briefly drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10.7 Hz 50-60 microvolt posterior dominant rhythm and a small amount of low voltage frontocentral beta.  Features of brief drowsiness included the appearance of theta.  Hyperventilation does not significantly activate the record.  Photic stimulation elicits scant driving.  Heart rate irregular, 60 bpm.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  A normal EEG does not exclude a diagnosis of epilepsy.  Given the irregular heart rate,
+Additional cardiac evaluation may be advised.
+
+
+

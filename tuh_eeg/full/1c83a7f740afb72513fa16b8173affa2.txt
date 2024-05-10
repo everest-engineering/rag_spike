@@ -1,0 +1,19 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+
+23 YR MAN WITH H/O SEIZURES X 1MONTH.  PER PT WHEN HE STARTED KEPPRA 4 DAYS AGO. FELT NUMBNESS ON THE RIGHT SIDE, SOB, RUE EXTENDED THEN WRIST CURLED INWARD.  FELL TO LEFT SIDE AND LOC. MATERNAL UNCLE WITH SZS. PT SAID WAS USING XANAX UNTIL 3 MONTHS AGO WHEN STOPPED ABRUPTLY.
+KEPPRA, ALBUTEROL
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear. REM Sleep is captured
+No focal slowing is present. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.   Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.   HR was 66
+Summary of Findings:
+No activation procedures
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. Capturing REM during a routine EEG is suggestive of a sleep disturbance and a sleep consultation be beneficial if clinically indicated.
+
+
+
+

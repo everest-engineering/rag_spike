@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  54 year old woman with change of mental status.
+MEDICATIONS:  Lumina (?), Losartan, Simvastatin, HCTZ, Carvedilol, Nifedipine, Clonidine, Plavix, ASA, Insulin, Omeprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1-channel EKG.  The patient is drowsy.
+DESCRIPTION OF THE RECORD:  The background EEG includes a mixed frequency pattern rich in theta.  There is frontal beta and occasional alpha rhythm.  The patient starts a transition in and out of sleep with some hypersynchronous rhythmic slowing.  Stimulation of the patient produces an alerting response but the EEG continues to demonstrate excess beta and excess theta.  As she drifts off to sleep there is a bit of shifting slowing.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to :
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  This is a nonspecific pattern which can be seen in a delirium.  It is relatively characteristic of a toxic or metabolic pattern.  No epileptiform features were seen and there were no particular hallmarks of a toxic or metabolic encephalopathy.
+
+
+

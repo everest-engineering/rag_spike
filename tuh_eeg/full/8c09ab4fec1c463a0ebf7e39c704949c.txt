@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 57-year-old woman who is not able to provide a detailed history, even with a certified Spanish-speaking translator present.  She did describe chronic headaches lasting 1 to 2 hours for the last 3 years, following assault on the head with a gun.
+MEDICATIONS:  Risperdal, metformin, TriCor, sertraline, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  It was difficult to get the patient to relax, even with a translator and a family member present.  There was a fair amount of muscle noted in the background.  Impedances were acceptable, aside from the T1-T2 electrodes.  This was a 20-minute EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  The background EEG has a small amount of theta and rare bursts of shifting slowing in the transition to sleep.  Despite the muscle artifact described above, the patient does appear to be drowsy, transitioning rapidly in and out of stage 2 sleep with K complexes.
+Hyperventilation was deferred.  Photic stimulation was challenging but did demonstrate a driving response.  The patient was also drifting into stage 2 sleep during photic stimulation.
+Heart rate 66 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to:
+A mild excess in background theta.
+Rare bursts of shifting slowing in the transition to sleep noted in the temporal regions.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The background theta may be associated with this patient's medications.  The shifting slowing is a nonspecific finding and can be seen in the context of underlying medical problems or with underlying cerebrovascular disease.
+
+
+

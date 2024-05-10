@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 29 year old left handed woman with complex partial seizures and right frontal brain cyst. Seizure free for 1.5 to 2.5 years.
+MEDICATIONS: Lamictal, Synthroid
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The entire EEG is compromised by muscle artifact in the T3/T4 temporal electrodes. The data is re-reviewed with multiple other montages. In addition, there is an artifact picked up at the T5 electrode.
+DESCRIPTION OF THE RECORD: The background EEG includes an 11 Hertz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Features of drowsiness include slow rolling eye movements. Photic stimulation produces a driving response. Hyperventilation produces an increase in amplitude of the background and drowsiness is characterized by an increase in frontal theta.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: Although there are some technical limitations for this record, this is a normal EEG. No epileptiform features were identified from the right frontal or temporal regions today.
+
+
+

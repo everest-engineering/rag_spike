@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  22 minutes
+CLINICAL HISTORY:  The patient is an 83-year-old woman with history of Alzheimer's disease, coronary artery disease, chronic kidney disease, and others, now presents with change in mental status.
+MEDICATIONS:  Current medications include donepezil, isosorbide, Pravachol, and others.
+INTRODUCTION:  Condition of the recording:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead placement.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a low-amplitude 9 Hz alpha activity that attenuates with eyes opening.  Anterior to posterior frequency amplitude gradient is weak.  No clear sleep architecture is present. Intermittent polymorphic theta and delta activity are captured over the left temporal region.  Hyperventilation is not performed. Stepped photic stimulation results in no additional abnormalities.
+FINDINGS:
+Mild background disorganization.
+Intermittent mild left temporal slowing.
+No stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake-only 22-minute electroencephalogram due to mild background disorganization and mild intermittent left temporal slowing.  Mild background slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Focal left temporal slowing indicates a possible underlying structural lesion, and in this case, could be consistent with patient history of Alzheimer's type dementia.  No epileptiform discharges were captured; however, stage 2 sleep was not recorded. If clinical indication for seizures persist, a repeat study with stage 2 sleep may be of benefit.
+
+
+

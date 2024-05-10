@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 27-year-old with 3-day migraine headache, left temporal hemorrhage, intermittent aphasia.
+MEDICATIONS:  Previously treated with Keppra and Depakote, but none at the present time.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not possible.  Impedances were generally under 5 kilohms with the exception of the T1-T2 electrodes.  This is a technically challenging EEG with significant movement artifact in an awake patient.
+DESCRIPTION OF THE RECORD:  Despite the problems described above, there is a 10 Hz alpha rhythm identified on the right.  In wakefulness, a clear asymmetry can be identified with disruption of faster frequency activity noted on the left.  As the artifact drops out, sharply contoured delta with the T3 phase reversal was identified.  Features of drowsiness include an increase in beta.  In addition, there is some bursts of synchronized hypersynchronous slowing.  Deeper stages of sleep were not achieved.
+Heart rate 96 bpm.
+IMPRESSION:  This is a technically challenging, but abnormal EEG due to,
+Nearly continuous focal slowing in the left hemisphere, maximum in the left temporal region.
+Sharply contoured left temporal delta.
+CLINICAL CORRELATION:  This EEG supports a structural process in the left hemisphere involving gray and white matter.  There is sharply contoured delta on the left suggests a potential epileptogenicity to this lesion.
+
+
+

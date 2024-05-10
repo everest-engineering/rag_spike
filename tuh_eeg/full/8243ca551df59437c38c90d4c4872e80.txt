@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 46-year-old male with tonic-clonic seizure, left hemiparesis, evaluate for encephalopathy, history of migraine, hypertension, diabetes.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient was relatively somnolent.  This is a technically acceptable EEG with most impedances under 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The recording begins with a somnolent adult in the ICU, intubated.  The EEG is diffusely slow with a low voltage, mixed delta, theta, and smaller amounts of beta.  Shifting asymmetries were noted with at times a bit more slow delta in the left hemisphere compared to the right.  Occasional sharply contoured, slowing was noted in the right hemisphere.  Stimulation of the patient produced a brief arousal with an increase in faster frequency activity including beta and theta.  When unstimulated, at the close of the record, the EEG transitions were more of a very slow delta pattern with smaller, brief bursts of low voltage beta.
+Heart rate:  108 to 132 bmp.
+IMPRESSION:  Abnormal EEG due to:
+Bihemispheric, significant background slowing.
+Shifting asymmetries with at times a little more slow delta on the left than the right.
+Sharply contoured slowing noted in the right hemisphere with a right mid temporal phase reversal.
+CLINICAL CORRELATION:  No seizures were recorded.  The findings described above may be correlated with imaging.  Although, there were no definitive sharp waves or spikes, the sharply contoured slowing was noted on the right.  If there are questions about this patient's overall mental status, additional EEG recording may be considered.
+
+
+

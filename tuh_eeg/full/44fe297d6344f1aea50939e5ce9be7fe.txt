@@ -1,0 +1,32 @@
+:
+History:	72 year old woman status post recent meningioma resection and stroke, now with
+observed left sided twitching and change in mental status.
+Medications:	Dilantin and Ativan
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Vertex-like waveforms are captured.
+Continuous polymorphic delta activity is present in the left frontal region during wakefulness,
+increasing during drowsiness.  Additional underriding fast frequencies are noted over the left frontal
+region.  No clinical or electrographic seizures were present.  Episodes of arm shaking are not
+captured on this recording.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, moderate, left frontal
+No electrographic seizures
+Breach artifact, left frontal
+Interpretation:
+This is an ABNORMAL awake and drowsy portable extended 46-minute EEG due to moderate
+diffuse slowing and focal continuous moderate left frontal slowing. Diffuse slowing is indicative of
+moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing
+is indicative of a focal structural lesion in this region.  Episodes of arm shaking are not captured on
+this recording.  Breach rhythm is secondary to a skull defect.
+
+
+
+

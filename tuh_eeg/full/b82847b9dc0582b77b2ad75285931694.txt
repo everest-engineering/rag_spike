@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  Adult male, presented on the 28th with right parietal extra-axial hematoma of 5 mm thickness, left frontal scalp swelling, and obtundation.
+MEDICATIONS:  Depakote, Keppra, Ativan, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and poorly responsive.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement.  The patient was comatose and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a discontinuous pattern with brief bursts of mixed theta and alpha frequency activity followed by attenuation of 1-2 seconds.
+Stimulation of the patient did not activate the record
+No clinical seizures were noted.
+Heart rate:  72
+IMPRESSION:  Abnormal EEG due to
+burst suppression pattern.
+Non-reactive pattern
+CLINICAL CORRELATION:  The use of sedative hypnotic medications or a severe, diffuse CNS process can both contribute to this pattern.  If seizures are an important consideration, a longer EEG monitoring may be of value.
+
+
+
+

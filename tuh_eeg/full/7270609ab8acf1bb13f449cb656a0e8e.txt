@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  44 year old female presented with shaking spells associated with hypoglycemia, diabetes, hypertension, and heavy menstruation.
+MEDICATIONS: Humalog, Enalapril
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:   In wakefulness, there is a well defined 10Hz alpha rhythm. There is a little bit  of head rocking artifact.  Photic stimulation elicits bilateral driving.Hyperventilation is performed with good effort producing an increase  in amplitude of the background. Drowsiness is characterized by hypersynchronous rhythm slowing.  Brief epochs of stage I sleep are observed.
+HR: 	90 bpm
+IMPRESSION:   Normal EEG.
+CLINICAL CORRELATION:   No epileptiform features are observed.
+
+
+

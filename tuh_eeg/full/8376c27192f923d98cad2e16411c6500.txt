@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 68-year-old woman with new-onset seizures 3 weeks ago, characterized by right arm and face twitching, CNS lesions, hypothyroidism, C difficile colitis, gastroparesis, and colectomy.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel EKG.  This is a technically challenging EEG in a confused patient with a great deal of muscle and movement artifact.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow pattern with a glimpse of a posterior dominant rhythm of approximately 7 Hertz and an overall pattern with generous theta.  On 1 or 2 occasions, there is shifting arrhythmic delta activity, but the degree of muscle and movement artifact precludes any specific localization.  As the recording continues, the patient becomes drowsy.  There are asymmetric eye movements noted as the patient drifts off to sleep.  She awakens in the final sections of record and there is again a great deal of muscle artifact.
+Heart rate 102 bpm.
+IMPRESSION:  Technically challenging, but abnormal EEG due to background slowing and poor organization.
+CLINICAL CORRELATION:  No epileptiform features were noted in this record.  Given the limitations of this record, subtle focal or epileptiform features can be overlooked.  If epilepsy is an important consideration, a followup study when the patient is a bit more cooperative is suggested.
+
+
+

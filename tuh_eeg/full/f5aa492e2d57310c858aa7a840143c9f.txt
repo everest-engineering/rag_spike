@@ -1,0 +1,34 @@
+History:	58 year old man presents with unresponsiveness.
+Medications:	KEPPRA, intermittent Ativan throughout the recording epoch
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~18 hours from 11/2/2015 till 11/3/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  There is right-to-left interhemispheric asymmetry with slower
+waveforms over the left.  Early in the recording the background consists of diffuse slow delta activity,
+underriding theta and fast activity, with paucity of faster frequencies over the left.  As the recording
+progresses, there is diffuse background attenuation and appearance of diffuse sleep-spindle-like
+waveforms.  At ~10:49 am, there is rapid attenuation of the background with no discernable
+cerebral activity captured.  It corresponds to rapid decrease in heart rate from ~130 bpm to ~ 60
+bpm.  At ~10:50:30 am, intermittent rhythmic artifact appears.  It corresponds to administration of
+chest compressions (as seen on the video review).  At the end of resuscitation, some attenuated
+diffuse slow delta activity is captured (unclear if it is artifact) and QRS complexes are present on a
+single EKG lead.  By the end of the recording (~11:37 am), no cerebral activity is detected.
+Summary of Findings:
+Other, ECI by the end of the recording
+Interpretation:
+This is an ABNORMAL ~18 hour continuous video EEG due to progressive diffuse slowing and lack
+of discernable cerebral activity at the end of the recording.
+
+
+
+
+

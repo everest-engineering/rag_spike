@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 72-year-old woman with diabetes, acute onset stroke on the 6th, 3 week history of vertigo, numbness and weakness on the right.
+MEDICATIONS:  Zofran, lisinopril, Levemir.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm.  There is a subtle asymmetry with a bit more slowing in the left hemisphere, some slowing of the alpha rhythm and some theta.  In addition, there are occasional bursts of shifting, arrhythmic mixed delta theta, and prominent fast activity in the frontal regions right or left.  Wicket activity was identified.
+
+Photic stimulation elicits a bilateral driving response.
+Heart:  64 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Shifting slowing from the right or left hemisphere in relaxed wakefulness.
+A subtle asymmetry with somewhat slower activity in the left hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Wicket activity was present.  A follow up study capturing deeper stages of sleep is suggested to exclude epileptiform activity.
+
+
+

@@ -1,0 +1,25 @@
+History:	59 YR OLD FEMALE PRESENTS WITH H/O S/P FALL ON 2/28. CTH SHOWED
+FRONTAL ICH AND SAH
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+The normal anterior to posterior gradient of frequencies is not seen.  Background activity is
+predominantly slow in delta and theta range intermixed with occasional alpha activity.  There are
+bifrontally high-voltage sharply-contoured delta activity, slower on the left, intermixed with
+occasional frontotemporal sharp waves.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.  HR is 60 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic
+Focal slowing, polymorphic, intermittent, bilateral (L>R) frontal
+Sharp waves, occasional, bilateral (L>R) frontotemporal
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing.  These findings are indicative
+of diffuse cerebral dysfunction.  intermittent focal slowing in the bifrontal region worse on the left
+side.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but
+possibly structural in origin.  Occasional epileptiform discharges in the frontotemporal regions (left
+greater than right).  These findings are indicative of a potentially epileptogenic focus in this region.
+Clinical correlation is indicated.
+

@@ -1,0 +1,29 @@
+History:	40 YR MALE W/ EPILEPTIC SZ AND AURA "COPPER TASTE IN MOUTH" FACE
+TRAUMA WITH FALL.
+PMHX OF TBI SUBSEQUENT SZS, MENTAL ISSUES, CERVICAL MYELOPATHY.
+ALSO HEP C, CIRRO OF LIVER, ETOH ABUSE. DRUG ABUSE,  PT STATES
+INCREASE IN SZS. GTC/LOC/FALLS
+Medications:	DILANTIN, HEPARIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and ekg
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR-
+66bpm  Technical limitations: please note there is a continuous myogenic artifact throughout the
+temporal and frontal regions.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a technically limited normal EEG, awake, drowsy. Please note that due to the myogenic
+artifact, an underlying abnormality could have been missed. If clinical question remains, please
+repeat EEG with some sedation.
+
+
+

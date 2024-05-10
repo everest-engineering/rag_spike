@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 	52 year old right handed gentleman with schizophrenia, found unresponsive with an abnormal blood sugar, hypotensive and poorly responsive. Evaluate for
+clonus.
+Ill
+MEDICATIONS: Amiodarone Keppra, Vancomycin, Pantoprazole, Insulin, Heparin, Thiamine, Zosyn,
+INTRODUCTION:   Digital video EEG was performed in bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are preformed. Patient is comatose, intubated, but does react to tactile stimulation.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage very featureless pattern. Superimposed upon this is a frontal predominant triphasic like discharge present bilaterally in the frontal regions with an anterior to posterior lag. There are seizures about this that suggest that it is an epileptiform or a general periodic discharge. On some locations, it is bifid in the right frontal regions and on other occasions, there is clearly a right frontal focus. On 1 occasion, tactile stimulation does not impact the record but on another, tactile stimulation does seem to impact the record. Tactile stimulation on that occasion reduces the epileptiform activity.
+HR: 	114 bpm
+IMPRESSION: Abnormal EEG due to:
+1. 	Markedly abnormal background.
+2.	Generalized bilateral frontal periodic complex.
+3.	Underlying this is likely a right frontal focus of epileptiform activity.
+CLINICAL CORRELATION:  These findings support a diffuse disturbance of cerebral function as well as a very ongoing epileptiform process.
+
+
+

@@ -1,0 +1,27 @@
+History:	18 YR OLD FEMALE WITH H/O SZ ONSET AT AGE, SZ ARE WITH LOC, SHAKING
+AND POST ICTAL CONFUSION. PT LAST SZ 1/2015
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  Occasional generalized mainly symmetric frontocentral maximal
+polyspike-and-slow-wave discharges occur during the recording.  At times in bursts for seconds and
+some appear to have a slightly asymmetric onset.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Polyspike-and-wave complexes, intermittent, Frontocentral
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of bifrontocentral synchronous polyspike-
+and-wave discharges, which are potentially epileptogenic and supportive of a generalized epilepsy.
+Alternatively the slight asymmetry seen may support a focal epilepsy with rapid bilateral spread.
+
+
+
+

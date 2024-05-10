@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  The patient is a 22-year-old young woman with seizures beginning in 2007 consisting of generalized tonic-clonic convulsions with tongue biting.  She has not had any recent seizure activity.  The study is done as a followup.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Routine 21-channel EEG was performed utilizing the standard 10-20 system of electrode placement along with hyperventilation and photic stimulation EKG and EOG monitoring.
+DESCRIPTION OF THE RECORD:  The white cresting background reveals a large amount of 50-70 microvolt amplitude posterior alpha rhythm with a large amount of 18-30 Hz low voltage of her frontocentral regions.  Large amount of eye blink artifacts were seen throughout much of the waking record.  Moderate amount of muscle artifact was also seen.  With eye opening, there was attenuation of alpha activity.  Periods of drowsiness were seen with attenuation of posterior rhythmic activity and increased slow to medium amount due to symmetric irregular slowing.  Hyperventilation for 3 minutes produced mild increased low to medium amounts.  Bilateral delta and theta frequency slowing.  Photic stimulation was accompanied by symmetric occipital driving.  EKG monitor showed normal sinus rhythm at 60 per minute.
+IMPRESSION:  Normal awake and drowsy EEG.  A normal EEG cannot exclude the clinical diagnosis of epilepsy.  If clinically indicated, a sleep deprived tracing capturing stage II sleep or more prolonged ambulatory EEG may provide additional information.
+
+
+

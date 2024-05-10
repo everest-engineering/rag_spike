@@ -1,0 +1,20 @@
+History:	42 R OLD FEMALE R HANDED PMHX. N/A C/C PT HAS WHAT SHE BELIEVES ARE GRAND MAL SEIZURES.
+Medications:	KEPPRA, TEGRETOL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, hyperventilation, photic
+
+
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontocentral regions. There is mild excess underlying background theta activity. During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+
+No epileptiform discharges are present.
+
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild symmetric bifrontal delta activity. Stepped photic stimulation from 1-21 flashes per second (fps) induces minimal symmetric photic driving response. HR 66.
+
+Summary of Findings:
+Diffuse slowing, rhythmic, mild diffuse
+
+Interpretation:
+This is a mildly ABNORMAL awake and drowsy EEG because of mild diffuse background slowing, which is etiologically nonspecific and may be medication induced. This is the second EEG for this patient. In comparison to the previous record, no sharply contoured focal slowing at T1 is present, but mild background theta is still noted.
+

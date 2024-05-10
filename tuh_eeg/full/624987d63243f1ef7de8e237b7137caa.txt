@@ -1,0 +1,11 @@
+HISTORY:  A 55-year-old right-handed male with 2-year history of epilepsy, past history of alcohol abuse, and cervical myelopathy.
+MEDICATIONS:  Keppra, Celexa, and others.
+INTRODUCTION:  A 1-hour digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  Hyperventilation was deferred.  This is a technically acceptable record with most impedances below 5 kilos Ohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 10.5 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Stage 2 sleep includes vertex waves, K complexes, spindles, and posts.
+Photic stimulation elicited scant driving.
+Heart rate 60 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  This is a 2nd normal awake and a sleep record for this individual.  If this individual has frequent seizures, alternative recording strategies may be considered.
+
+
+

@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 46 year old female with anoxic brain injury on February 21. Evaluate for cerebral activity.
+
+MEDICATIONS: Ativan, Fentanyl, Azithromycin, Ceftriaxone, Heparin, Lorazepam, Pantoprazole
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated. There is no hyperventilation nor photic simulation.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern rich in delta and theta frequency activity. Some sections of the record are primarily delta and others more of a 5 Hz beta frequency pattern. Stimulation of the patient was performed during the sections that were richer in the theta frequency activity and did not clearly activate the record.
+
+HR: 104 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a delta-theta pattern.
+
+CLINICAL CORRELATION: In the context of the use of Ativan and fentanyl, the findings described could be due to the patient's medications or the patient's anoxic injury. Overall, in the hyperacute setting, this would be a favorable prognostic pattern.
+
+
+
+
+

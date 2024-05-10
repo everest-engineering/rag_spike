@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 64-year-old woman with CHF, COPD, drug dependence.  The patient presented to an outside hospital after Seroquel overdose.  Family is reporting single convulsion.  Placed on propofol and then midazolam drip.  Evaluate for subclinical status.
+MEDICATIONS:  Vancomycin, cefepime, propofol, and midazolam.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was in infectious isolation.  This is a technically acceptable 22 minute EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous pattern.  There is generous beta activity noted in the central region.  There is also slow delta noted.  There are handful of triphasic waves noted.  Spontaneous arousals are noted with an increase in fast activity.  Eye movement artifacts were noted as well.  When the patient is unstimulated, the EEG transitions to more of a beta pattern and morphologies of stage 2 sleep include vertex waves.  The patient transitions in and out, and is restless, but never completely awake and interactive.
+Heart rate 117 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing.
+Question rare triphasic.
+CLINICAL CORRELATION:  No epileptiform features were noted in this record.  There are a handful of stage II sleep morphologies, which are somewhat asynchronous.  This may represent the challenges of head measuring in an ICU patient.
+
+
+

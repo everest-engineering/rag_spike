@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  48 year old right handed woman with catamenial epilepsy.  She had a seizure, not related to her period, which was a prolonged complex partial seizure followed by a second complex partial seizure and then tonic-clonic seizure on March 27.  Still somewhat confused.
+MEDICATIONS:  Anisamide, Carbamazepine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and asleep EEG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness with stimulation, the background EEG includes a 9.5-Hz alpha rhythm, but early in relaxed wakefulness the background becomes somewhat slower with a bit of 6-Hz activity.  Relaxed wakefulness and hyperventilation both accentuate focal slowing in the right hemisphere with right temporal focal slowing and sharp waves noted at T2 and F8.  Following hyperventilation, the patient waxes in and out of a drowsy state.  There are some bursts of generalized mixed theta-delta.  This is a paroxysmal burst of slowing, somewhat irregular, a little bit more so on the right than the left. Photic stimulation elicits minimal driving bilaterally.  Deeper stages of sleep are not achieved.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent slowing and disorganization in apparent wakefulness.
+Right temporal focal slowing, accentuated by drowsiness and more significantly by hyperventilation.
+Right temporal focal sharp waves, accentuated by hyperventilation.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.  It is similar to previous studies.  The overall background slowing appears to have improved compared to a previous report last week.
+
+
+

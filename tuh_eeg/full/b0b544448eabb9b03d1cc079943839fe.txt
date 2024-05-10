@@ -1,0 +1,30 @@
+History:	84 YR FEMALE FOUND IN 2005 TO HAVE ??? LESION IN BRAIN WITH ONSET
+OF SZS.  PT ONLY HAS SZS WHEN SHE DOESN'T TAKE HER MEDS. GTC/ NO
+AWARE/FALL, WITH POST CONFUSION X 1 DY.
+Medications:	Dilantin, Meloxicam
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving.  HR was 78 and irregular
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.
+
+
+
+
+
+

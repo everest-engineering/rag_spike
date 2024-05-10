@@ -1,0 +1,20 @@
+CLINICAL HISTORY:	38 year old male admitted 2 weeks ago with post cardiac arrest with evaluate anoxic brain injury.
+
+MEDICATIONS: Aspirin, Plavix, Keppra,  Insulin, Cefepime,  Famotidine, Vance, Metoprolol, Amiodarone, Valproate, Captopril
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient intubated and poorly responsive.
+
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, but nearly continuous. There is a mixture of 11 hertz activities, some 14 hertz activity and some lower voltage slow delta. The majority of the activity is under 10 microvolts particularly from the beta frequency activity. There is some sharply contoured activity in the central temporal regions, but no definitive sharp waves. Stimulation of the patient seems to produce a decrease in the faster, alpha and beta activity.
+
+HR:	84 bpm
+
+
+IMPRESSION:  Markedly abnormal EEG due to:
+1.	Replacement of normal background with a low voltage mixed frequency pattern particularly in a patient who at times appears to be behaviorally more awake.
+2.	Drop out of faster frequency activity with tactile stimulation.
+
+
+CLINICAL CORRELATION:  This EEG supports a significant disturbance of cerebral function, but no subclinical seizures were seen. There were no periodic sharp waves. This EEG is more compatible with what is now emerging as a chronic severe encephalopathy.
+
+
+

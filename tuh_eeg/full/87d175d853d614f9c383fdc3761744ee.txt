@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 59-year-old man with a history of seizures.  He has been seizure free for over 4 years.  He also has a past medical history of diabetes and hypertension.
+MEDICATIONS:  Keppra, Tegretol, metformin, aspirin, and others.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of well-formed and modulated 9 to 9.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During drowsiness, background attenuates but stage II sleep is not captured.  Hyperventilation was performed with poor effort and resulted in no change in the background.  Stepped photic stimulation results in no clear occipital driving.  A single EKG lead demonstrates an irregularly irregular heart rate.
+FINDINGS:
+No epileptiform discharges.
+No stage II sleep.
+Cardiac arrhythmia.
+IMPRESSION:  This is a normal awake and drowsy 24-minute EEG.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical indication for seizures persists, a repeat study with stage II sleep may be of benefit.  Cardiac arrhythmia is captured in the single EKG lead.
+
+
+

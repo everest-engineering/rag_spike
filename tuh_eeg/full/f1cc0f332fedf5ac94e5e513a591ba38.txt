@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 49-year-old male with 20-year history of epilepsy.  Tonic-clonic seizures often when the patient is going to sleep with tongue biting and incontinence.
+MEDICATIONS:  Tegretol and Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and briefly drowsy record.  It is technically acceptable with most impedances below 5 kilohms with the exception of T1-T2.
+DESCRIPTION OF RECORD:  In wakefulness, there is a symmetric reactive 50 microvolt, 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Hyperventilation did not activate the record.  Photic stimulation elicited bilateral driving.
+Heart Rate:  72 BPM.
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

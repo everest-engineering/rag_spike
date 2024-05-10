@@ -1,0 +1,30 @@
+History:	27 year old woman with daily seizures.
+Medications:	ZONISAMIDE, ALBUTEROL, CETIRIZINE, CLOBAZAM, FLUCONAZOLE,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm is weak and consists of up to 7-8 Hz polymorphic low-to-moderate
+amplitude theta activity.  The AP gradient is unstable.  The majority of the recording consists of
+variable frequency polymorphic low amplitude theta activity.  During drowsiness, background
+amplitudes increase and faster theta activity becomes more prominent.
+Frequent bursts of generalized frontally predominant 3Hz low amplitude spikes with high
+amplitude slow waves are captured.  They last ~ 2-4 seconds during wakefulness.  Frequency and
+duration of bursts increases during drowsiness.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Spike-and-wave complexes, 3Hz, frequent, increase during drowsiness
+Diffuse slowing, polymorphic, mild-to-moderate
+Disorganization, moderate
+Interpretation:
+This is an ABNORMAL 26-minute awake and drowsy EEG due to (1) mild-to-moderate diffuse
+slowing and disorganization and (2) frequent bursts of generalized 3 Hz spike and wave complexes
+that increase in frequency during drowsiness. Diffuse slowing and disorganization are indicative of
+mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Generalized
+spike-and-wave discharges are potentially epileptogenic and suggestive of primary generalized
+
+
+
+

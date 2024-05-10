@@ -1,0 +1,10 @@
+HISTORY:  A 33-year-old right-handed woman with epilepsy since age 8.  Last seizure approximately one year ago when the patient awoke from sleep and felt the seizure coming on, no other description other than loss of conscious followed by headache.  The patient is currently 31 weeks pregnant.
+Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a high amplitude 10 Hertz alpha rhythm with a small amount of low-voltage, frontocentral beta.  Drowsiness is characterized by an increase in theta.
+Photic stimulation elicited scant driving at immediate flash frequency.
+Hyperventilation produced minimal background slowing.  Heart rate 84 BPM.
+IMPRESSION:  Normal electroencephalography in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are important consideration, a repeat tracing, capturing deeper stages of sleep may be of value.
+
+
+

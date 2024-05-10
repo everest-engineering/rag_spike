@@ -1,0 +1,31 @@
+History:	82 YR OLD MALE R HANDED LIKELY MCA STROKE STATUS EPILEPTICUS? 60
+CM HEAD. TAKEN IN ED FOR  FACIAL TWITCHING   AND EYE LIDS.AND FACIAL
+TWITCHING W L GAZE DEVIATION.  PMHX,HTN STROKE 10 12 YRS AGO BPH R
+SIDED WEAKNESS.
+Medications:	DILANTIN, VERSED
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+The predominant background is characterized by a diffusely slow low voltage pattern with poor
+variability and frequent bursts of slightly higher amplitude delta activity. No posterior dominant
+rhythm is present.  Attenuation of faster frequencies is seen diffusely, with greater attenuation over
+the left hemisphere.  Stimulation of the patient produces an increase in diffuse rhythmic theta
+activity and muscle artifact.  No normal sleep architecture is present.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 78.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, marked diffuse
+Diffuse slowing, rhythmic, intermittent, moderate diffuse
+Attenuation, continuous, marked, bilateral (L>R) diffuse
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL EEG in a sedated patient because of diffuse background slowing and
+attenuation.  These findings are indicative of moderate to severe diffuse cerebral dysfunction,
+which is etiologically nonspecific. The asymmetry with decreased faster frequencies over left
+hemisphere is consistent with  cortical damage and the known infarct in that region.  No clinical or
+electrographic seizures are present.
+
+
+

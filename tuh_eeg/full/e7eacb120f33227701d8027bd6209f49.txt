@@ -1,0 +1,16 @@
+LENGTH OF THE RECORDING:  Nearly 23 minutes.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+CLINICAL HISTORY:  The patient is a 46-year-old woman with past medical history of seizures, right hemispheric stroke, hepatitis C, who presents with a possible seizure.  As per history, patient had an episode characterized by left upper extremity shaking that lasted a few minutes.  This is the second such episode since August of 2012.  Patient stopped taking Keppra about 2 days ago.
+CURRENT MEDICATIONS:  Keppra, metformin, Coumadin, insulin, Zocor.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  There is right to left interhemispheric asymmetry with slow waveforms over the right hemisphere.  The posterior dominant rhythm over the left hemisphere consists of a well formed and modulated 9 to 10 Hertz alpha activity that attenuates with eyes opening.  Over the left hemisphere, there is preserved anterior to posterior frequency amplitude gradient.  The posterior dominant rhythm over the right hemisphere is unstable and reaches about 9 Hertz alpha.  There is no clear anterior to posterior frequency amplitude gradient.  The background over the right hemisphere consists of a mixture of polymorphic theta and delta activity with under-riding faster frequencies.  Slowing is more pronounced over the anterior temporal/frontal region.  The patient briefly falls asleep by the end of the recording.  Sleep spindles are captured only over the left hemisphere.  Brief 1 to 3-second bursts of frontally predominant rhythmic delta activity (FIRDA) are captured.  Occasional poorly formed, sharply contoured waveforms observed over the right midtemporal region with phase reversal over T4-T6 electrode.  Hyperventilation is not performed.  Stepped photic stimulation results in occipital driving only over the left hemisphere.
+FINDINGS:
+Continuous moderate slowing over the right hemisphere, most pronounced over the anterior temporal/frontal region.
+Sharp waves over the right mid temporal region.
+No electrographic seizures.
+Asymmetry of sleep architecture with sleep better formed over the left hemisphere.
+Asymmetrical occipital driving with driving only observed over the left hemisphere.
+IMPRESSION:  This is a very abnormal 23-minute awake and briefly asleep EEG, due to continuous focal slowing over the right hemisphere that is most pronounced over the frontotemporal region and occasional epileptiform discharges over the right mid midtemporal region. These findings indicate focal cerebral dysfunction that carries increased epileptogenic potential. FIRDA is observed in encephalopathies, increase intracranial pressure, deep white matter lesions. No electrographic seizures are captured.
+
+
+

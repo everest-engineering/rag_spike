@@ -1,0 +1,15 @@
+MEDICATIONS:  VPA, LEV, PHT
+CLINICAL HISTORY:  A 32-year-old woman, transferred from outside hospital with repetitive seizures, head turning and persistent left-sided weakness.
+INTRODUCTION:  Routine 20 minutes digital EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is primarily unawake record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background includes a symmetric reactive 10 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness includes an increase in background slowing. Deeper stages of sleep were not sustained.
+Hyperventilation:  elicits a small amount of theta
+Photic stimulation:  vigorous bilateral driving
+Heart rate:  90 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief sleep and brief drowsiness.
+Generous beta
+CLINICAL CORRELATION:  This individual with acute neurological symptoms, this is the baseline for continuous video EEG monitoring. Of note, this is similar (normal) to a one hour EEG performed on May 28, 2015
+
+
+
+
+

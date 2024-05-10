@@ -1,0 +1,11 @@
+.
+CLINICAL HISTORY:  This is a 26-year-old right-handed man with a history of head trauma from car accident.  The patient stated that he started having seizure-like activity after car accident.
+MEDICATIONS:  The patient's medications include Xanax.
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard international 10-20 system of electrode placement in addition to T1 and T2 electrodes and 1 channel of EKG monitoring.  Hyperventilation was performed.  Photic stimulation was not performed.  This tracing captures wakefulness through stage II of sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 12 Hz in frequency, 30-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity, which is distributed symmetrically.  Stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  Stage 2 sleep is characterized by the presence of K complexes, sleep spindles, and posts.  Hyperventilation results in symmetrical slowing of the background.  Heart rate is 70 beats per minute.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through a stage 2 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy, if seizures are a clinical concern, a repeat EEG or a 24-hour ambulatory EEG may be helpful.
+__________________________
+
+
+

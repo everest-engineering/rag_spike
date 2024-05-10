@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  80 year old right handed woman with memory loss and confusion.
+MEDICATIONS:  Keppra, Furosemide, Metformin, Glyburide, Lisinopril, ASA, Simvastatin, Aricept
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is poorly organized. The alpha rhythm ranges from 6.5 to 8 Hz There is shifting arrhythmic delta activity. Initially, it is more prominent on the left and then maybe seen left or right. Photic stimulation elicits a driving response bilaterally. Drowsiness is characterized by an increase in background slowing.
+HR:    60 bpm and occasionally irregular.
+IMPRESSION:  Abnormal EEG due to:
+Disorganized background.
+Slowing of the alpha rhythm.
+Variability in the alpha rhythm greater than accepted for an adult of this age.
+CLINICAL CORRELATION:  No epileptiform features were identified. The findings described above are nonspecific and can be seen in multi-infarct dementia or Alzheimer disease.
+
+
+

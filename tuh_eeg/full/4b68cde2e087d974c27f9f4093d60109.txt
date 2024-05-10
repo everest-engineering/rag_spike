@@ -1,0 +1,37 @@
+History:	83 year woman with a history of stroke and atrial fibrillation, now presents with a first
+seizure.
+
+Patient is agitated and moves a lot throughout the study.  Please note that
+impedances are high.
+Medications:	Haldol
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left hemisphere.
+The background over the left does not have PDR or AP gradient and consists of a mixture of
+polymorphic theta and Delta activity.  The background over the right consists of a very unstable 7-
+7.5 Hz PDR, weak AP gradient, excess theta and delta activity and underriding fast frequencies over
+the parietal region.  Patient remains awake throughout the study.
+No clear seizures are present.
+Hyperventilation and photic stimulation are not performed.  A single EKG demonstrates irregular
+heart rate.  Patient is agitated and moves a lot throughout the study.  Please note that impedances
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, left hemispheric, moderate-to-severe
+Breach artifact, right parietal
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL awake only 23-minute EEG due to moderate diffuse slowing and continuous
+moderate-to-severe focal left hemispheric slowing. Diffuse slowing is indicative of moderate diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a
+focal structural lesion in this region.  Suspect breach artifact in the right parietal region.  Breach
+artifact indicates skull defect.  Patient is agitated and moves throughout the recording.  Subtle
+findings could have been missed.
+
+
+
+
+
+

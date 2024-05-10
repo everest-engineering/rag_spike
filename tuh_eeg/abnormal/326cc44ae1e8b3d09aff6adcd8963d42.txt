@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 47 year old right handed female who had a panic attack while going over bridges. Patient had an episode of psychomotor freezing. Evaluate for epilepsy.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.8 hertz, 50 microvolts, posterior dominant rhythm. Features of drowsiness include an increase in background theta. Hyperventilation also produces a small amount of theta. Photic stimulation elicits scant driving.
+HR: 78 bpm
+IMPRESSION: Normal EEG.
+CORRELATION: Normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration, please consider a followup study.
+
+
+
+

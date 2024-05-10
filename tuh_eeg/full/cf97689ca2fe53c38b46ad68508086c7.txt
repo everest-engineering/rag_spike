@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 55-year-old male with a long history of temporal lobe epilepsy, increasing seizures recently and increasing behavioral issues.
+MEDICATIONS:  Depakote, Lamictal, Vimpat was started during this EEG recording.
+INTRODUCTION:  Continuous video EEG monitoring was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software are utilized.  Technical quality was acceptable, although there were some issues with muscle artifact.
+DESCRIPTION OF THE RECORD:
+INTERICTAL EEG:  In wakefulness, there is a 7 Hz background.  At times, there is a glimpse of a 9 Hz alpha rhythm.  Features of sleep included increase in background slowing.  Well formed morphologies of stage II sleep are difficult to define.  Sleep is fragmented.
+CLINICAL EVENTS:  The patient was awake and under the covers at 9:20 p.m.  He can be seen on video, as early as 9:00 a.m., awake with his head covered and occasionally moaning.
+He pushes the button at 9:31:44.  He says come on, come on, and he is a little restless.  At the time that he pushes the button, there are 3, small discrete sharp waves.  After this, the patient remains awake without additional epileptiform features.  A nurse enters at 9:35 and tests the patient.  The patient is clearly awake, but he is not interactive with the nurse.  The nurse calls in another nurse and they attempt to interact with the patient.  They leave the patient at 9:42.  He stares off into space, not interacting with them, but with a relatively normal awake EEG.  The patient was subsequently amnestic for this event.
+INTERICTAL EPILEPTIFORM ACTIVITY:  The sleep state is characterized by abundant epileptiform activity.  In fact, there are points where there is nearly continuous left temporal sharp waves and spikes as well as focal slowing.  The sharp waves are well defined as are the spikes, high amplitude with a T1 maximum.  The sleep pattern is a highly epileptogenic pattern with bursts of end trains of spikes.  In addition, as the patient starts to awaken from sleep, which is somewhat fragmented, the rhythmic slowing and the sharp waves are seen, but it is difficult to identify epileptiform activity when the patient is clearly awake.
+Abundant epileptiform activity can be identified between 1 a.m. and 4 a.m.  The activity occurs in trains and demonstrates a slight buildup.
+As the patient awakens from sleep at 6:39 in the morning, the epileptiform activity seems to disappear the minute he has eye opening and gets out of bed.  Heart rate 60 BPM.
+IMPRESSION:  This first 24-hours of continuous video EEG monitoring is remarkable for:
+An event with behavioral unresponsiveness without epileptiform activity, suggestive of a non-epileptic event.
+Nearly continuous left temporal focal slowing and sharp waves noted in sleep maximum at T1.
+CLINICAL CORRELATION:  These findings have been seen on previous long-term EEG monitoring sessions.  No clear clinical seizures were recorded.
+
+
+

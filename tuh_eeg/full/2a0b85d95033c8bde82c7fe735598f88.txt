@@ -1,0 +1,48 @@
+History:	56 year old woman who presents with focal status epilepticus.  Patient has a history
+of stroke, focal seizures and HIV.
+Medications:	Vimpat, Dilantin, Depakote and Ativan 2 mg
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours from 1/20/2015 till 1/21/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 7 Hz polymorphic theta activity posteriorly, polymorphic theta
+activity and weak AP gradient.  The background over the left does not have clear PDR or AP
+gradient.  It consists of a mixture of polymorphic theta and delta activity, with more prominent delta
+activity anteriorly.  Sleep cycles are clearly present.  Sleep spindles and vertex waves are noted.
+Frequent left anterior sharp waves are present.  These discharges have a broad field with some
+reflection over the right anterior leads.  Maximal scalp negativity occurs over Fp1 electrode.  During
+sleep, frequency and periodicity of these discharges increases to ~1 Hz PLEDs.  Two seizures are
+captured early in the recording at ~ 4:28 PM and 6:08 PM, lasting ~70-80 seconds.  Seizures are
+characterized by appearance of rhythmic theta and delta activity over the left hemisphere.
+Patient is not tested during the first event.  But during the 2nd seizure patient is observed to stop
+responding, following any commands or form any memories.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Sharp waves, frequent, left frontal
+PLEDs (periodic lateralized epileptiform discharges), intermittent, left frontal
+Seizure, two, left hemispheric, early in the recording, ~70-80 sec each.
+Interpretation:
+This is an ABNORMAL continuous 15 hour video EEG due to (1) mild diffuse slowing; (2)
+continuous moderate focal left hemispheric slowing, especially over the left frontotemporal region;
+(3) frequent left anterior epileptiform discharges that are occasionally rhythmic (PEDs) and (4) 2 left
+hemispheric brief seizures.  Diffuse slowing is indicative of mild cerebral dysfunction, which is
+etiologically nonspecific.  Continuous left hemispheric focal slowing, frequent left anterior
+epileptiform discharges and 2 left hemispheric seizures indicate focal structural epileptogenic
+
+
+
+
+
+

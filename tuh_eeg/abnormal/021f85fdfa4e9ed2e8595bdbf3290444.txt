@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  63 year old right handed woman with new-onset epilepsy characterized by lying down, biting tongue, and confusion 3 weeks ago.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm which is symmetric and reactive to eye opening.  Drowsiness is characterized by an increase in beta and theta.  Hyperventilation produces rhythmic background slowing.   Photic stimulation elicits vigorous bilateral driving.
+HR:    78 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  There are no epileptiform features observed.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

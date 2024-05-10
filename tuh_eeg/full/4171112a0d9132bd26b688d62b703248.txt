@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 78-year-old woman with Alzheimer's disease and admitted with an episode of blank staring.  Patient has had multiple previous spells which were considered to be syncope.
+MEDICATIONS:  Aspirin, Lipitor, Aricept, Haldol, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.  The patient was unable to cooperative with hyperventilation.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, there is a glimpse of a 7-Hz posterior dominant rhythm.  There is background theta.  The patient transitions in and out of sleep with some shifting slowing.  There is EKG artifact with an irregular EKG noted in the right temporal region.  As the patient transitions in and out of stage 1 sleep with vertex waves, there is a section with a well-organized pattern with a 7-Hz posterior dominant rhythm with apparent wakefulness, and then the patient transitions in and out of sleep.
+Photic stimulation elicited scant driving.  Heart rate irregular, 74 bpm.
+IMPRESSION:  This is an abnormal electroencephalogram due to:
+Slowing of the alpha rhythm in maximal wakefulness.
+A small amount of shifting slowing as the patient transitions to drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The slowing of the alpha rhythm and the shifting slowing are both common in this sort of dementia.  If epilepsy is an important consideration, a 1-hour outpatient EEG may be of value.
+
+
+

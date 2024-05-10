@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 75-year-old male with previous right parietal hemorrhage, episodes of left-sided numbness, slurred speech, and hoarseness.  Previously treated with Keppra and zonisamide.  Seizure-free for 9 months.
+MEDICATIONS:  Ativan, Zofran, oxycodone, phenytoin, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement 1 channel of EKG.  This is a technically acceptable record with most impedances below 5 kilohms.  There is a fair amount of muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm, which is symmetric and reactive bilaterally with a small amount of low voltage, frontal central beta.  Focal slowing is noted in the right hemisphere, particularly in the right posterior quadrant with delta in that region.  The amplitude in the right hemisphere is higher amplitude than that on the left.  Breach rhythm is noted in the right hemisphere particularly in the posterior region.  As the patient becomes drowsy, there is accentuation of fast activity in that region.  Features of drowsiness include an increase in generalized background slowing.  Accentuation of focal slowing from the right posterior quadrant and accentuation of fast activity in the region of the breach.
+Photic stimulation elicits a driving response, which is a little bit more prominent in the region of the breach.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the right hemisphere particularly in the right posterior quadrant.
+Mild generalized background slowing.
+CLINICAL CORRELATION:  In the context of a breach rhythm, there is some sharply contoured discharges at P4, but no definitive sharp waves or spikes.  The focal slowing noted in this record is not as prominent as 13 months ago.  No clinical seizures were recorded.
+
+
+
+

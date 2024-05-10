@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 38-year-old woman with 3 weeks of abdominal pain followed by shortness of breath with acute onset seizure which resolved with Ativan.
+MEDICATIONS:  Cymbalta, tramadol, and Ativan.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically challenging record.  Most impedances were under 5 kilohms, but the patient had a glue in her hair from a hair weave.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm with a generous amount of low voltage, frontocentral beta.  Drowsiness was characterized by an increase in theta.  Lambda waves were noted in wakefulness and POSTS were noted in brief sleep.  Photic stimulation elicited a driving response.
+Heart rate 104 bpm.
+IMPRESSION:  EEG WNL in wakefulness.
+Clinical Correlation:  No focal or epileptiform features were identified.  Normal EEG.  Does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a followup study capturing deeper stages of sleep may be of value.
+__________________________
+
+
+

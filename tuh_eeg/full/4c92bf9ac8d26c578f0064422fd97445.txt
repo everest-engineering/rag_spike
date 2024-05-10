@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 20-year-old female with childhood viral encephalitis.  Patient had an event at an outside hospital 2 weeks prior to this EEG with loss of consciousness, tongue biting, generalized shaking for 1 minute.
+MEDICATIONS:  None.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This EEG captures primarily wakefulness and drowsiness.  Clinical testing was performed during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 hertz alpha rhythm, which is symmetric and reactive to eye opening.  Drowsiness is characterized by rhythmic background theta.  Vertex waves, K complexes, and spindles were noted in stage 2 sleep.
+Notable in this record were 3 bursts of 3-4 hertz spike and wave activity of 4-6 seconds duration.  The bursts were high amplitude, frontally predominant, generalized, maximum at Fecz.  All bursts seem to occur out of drowsiness and some of the bursts subtly produced a bit of alerting.  No clinical features were noted with the bursts.  Testing was not performed during the bursts.
+Hyperventilation produces a small amount of rhythmic slowing.
+Photic stimulation elicits driving, but no definitive spike and wave complexes.
+Heart rate 54 bpm.
+IMPRESSION:  This is an abnormal EEG due to bursts of frontally predominant 3-4 hertz spike and wave activity, typically 4-6 seconds duration, notable in drowsiness.
+CLINICAL CORRELATION:  This EEG supports a generalized mechanism for epilepsy.  Unfortunately, testing during the bursts was not possible.  If there is any question about ongoing spells, a followup study in the lab may be of value.
+
+
+

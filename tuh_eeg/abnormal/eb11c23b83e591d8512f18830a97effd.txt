@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  25 year old right handed male with a loss of consciousness while driving on March 1st.  Patient was shaking and awoke with confusion.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm.  An 11 Hz central mu activity is identified, but testing is not performed to confirm this.  Features of drowsiness include an increase in rhythmicity of the background.  Rhythmic theta is noted in drowsiness. Photic stimulation elicits bilateral driving.  Hyperventilation produces an increase in amplitude of the background.
+HR:    90 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features are identified in this record.  If epilepsy is an important consideration, a follow-up study may of value.
+
+
+

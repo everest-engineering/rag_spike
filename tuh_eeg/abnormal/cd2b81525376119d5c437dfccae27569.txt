@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  26 year old male with a sudden nocturnal seizure with head turning to the right, tonic clonic activity with 1 minute of confusion.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with symmetric reactive 11 Hz alpha rhythm and a small amount of low voltage, frontal central beta activity.  EPOC of sleep include stage II sleep with vertex waves, spindles, K-complexes, and POSTS.  The patient transitions between wakefulness and sleep. Hyperventilation produces a small amount of slowing.  In addition there is an increase in amplitude. Photic stimulation elicits scant driving.
+HR:    96 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified.  Previous EEGs were not available for comparison.
+
+
+

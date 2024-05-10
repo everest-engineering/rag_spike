@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 46-year-old male with a gunshot wound to the head requiring craniotomy, ventriculostomy, now admitted to the hospital with hydrocephalus.  Evaluate for seizures.
+MEDICATIONS:  Metoprolol, Keppra, nitroglycerin.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG demonstrates an interhemispheric asymmetry.  In the right hemisphere there is a 9.5 Hz alpha rhythm.  There is a small amount of background theta in the right hemisphere, as well as a small amount of focal frontal slowing.  The left hemisphere demonstrates significant disruption of faster frequency activity, as well as rhythmic frontal delta.  A likely breach rhythm is noted in the left frontal central region.
+Features of drowsiness include an increase in background slowing.  The patient is somewhat inattentive.
+There are occasional left frontal sharp waves noted in the background, particularly in the transition to sleep.  These can be identified despite the breach rhythm noted.  Towards the end of the record when the patient is maximally awake, there is a glimpse of an alpha rhythm on the left and the background slowing on the right is a little less remarkable.
+Heart rate:  78 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing on the left with disruption of faster frequency activity.
+Left frontal sharp waves.
+Mild slowing on the right which was resolving by the end of the EEG.
+CLINICAL CORRELATION:  The focal slowing with disruption of faster frequency activity and a slower frequency activity is congruent with a structural abnormality on the left.  The sharp waves are in the same localization.
+
+
+

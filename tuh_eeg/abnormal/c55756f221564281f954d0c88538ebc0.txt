@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  25 year old woman, status post anoxic insult on June 26, diffuse cerebral edema.
+MEDICATIONS:  Phenobarbital
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and comatose.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly suppressed.  Using a sensitivity of 2, there is scant lower voltage mixed theta/delta. Stimulation of the patient does not change the EEG.
+HR:    66 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Markedly low voltage, suppressed pattern.
+CLINICAL CORRELATION:  No epileptiform features were observed.
+
+
+

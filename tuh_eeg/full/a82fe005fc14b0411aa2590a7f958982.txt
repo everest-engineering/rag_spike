@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  65 year old woman with hypertension, stroke, dialysis, TIA, coronary artery disease, admitted with left sided weakness and slurred speech.
+MEDICATIONS:  Aspirin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is described as quite drowsy.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates primarily a beta pattern with morphologies of stage 2 sleep, including beta spindles and vertex waves.  There are occasional shifting asymmetries.  POSTS are noted.  There is slight asymmetries in terms of the beta, as well as some posterior predominant delta. Stimulation of the patient produces bursts of frontally predominantly intermittent rhythmic delta.
+HR:    60 bpm
+IMPRESSION:  This EEG is remarkable for:
+Shifting sleep morphologies.
+CLINICAL CORRELATION:  There were no epileptiform features identified.  Normal sleep morphologies were noted.  The shifting asymmetries may be associated with this patient's history of cerebrovascular disease.
+__________________________
+
+
+

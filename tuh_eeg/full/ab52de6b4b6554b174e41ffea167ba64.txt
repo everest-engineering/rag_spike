@@ -1,0 +1,22 @@
+History:	73 YO FEMALE WITH SUDDEN ONSET AMS. PT WAS UNRESPONSIVE.
+PMHX; STROKE, LEFT FRONTAL TUMOR, NO SURGERY
+Medications:	Mannitol
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, comatose
+Description:
+In limited wakefulness the PDR reaches 6-7 Hz.  Background activity  in limited wakefulness was
+mainly characterized by diffuse low voltage delta and theta activity with absence of the expected
+anterior to posterior gradient of frequencies.  Frontal Intermittent rhythmic delta activity (FIRDA) is
+seen.  Some stage 1 and 2 sleep architecture is seen.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 66 with PAC's and PVC's
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing.  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+

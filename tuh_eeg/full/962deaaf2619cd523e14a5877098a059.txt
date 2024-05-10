@@ -1,0 +1,81 @@
+History:
+The patient is a 49 year old RH man who presented with a single prolonged staring episode in 7/2015.   Patient is admitted for continuous audio-video EEG monitoring for differential diagnosis of that even detection of epileptiform discharges on a prolonged monitoring.
+Admission Medications:
+No AEDs
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Additionally, T1, F9, T9, P9. T2. F10. T10,and P10 electrodes were placed In this patient. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of Interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-Initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician. A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+Samples of EEG were recorded periodically. Detections were reviewed in detail by attending neurologist. All events and detections.as well as selected samples, were stored to external hard drive media.
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 12 Hz. Hyperventilation is performed tor 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing. Photic stimulation resulted in appropriate photic driving.
+Description of daily interictal EEGs:
+8124-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 12 Hz alpha	8125	activity that attenuates with eye opening. Lambda activity is frequently seen.	Epileptiform activity:	none	Sleep:	Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.	Seizures/events :	None	AEDs:	None		8124-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 12 Hz alpha	8125	activity that attenuates with eye opening. Lambda activity is frequently seen.	Epileptiform activity:	none	Sleep:	Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.	Seizures/events :	None	AEDs:	None
+8124-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 12 Hz alpha
+8125	activity that attenuates with eye opening. Lambda activity is frequently seen.
+Epileptiform activity:	none
+Sleep:	Sleep elements including symmetrical vertex waves, sleep spindles, SWS and
+REM sleep.
+Seizures/events :	None
+AEDs:	None
+8124-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 12 Hz alpha
+8125	activity that attenuates with eye opening. Lambda activity is frequently seen.
+Epileptiform activity:	none
+Sleep:	Sleep elements including symmetrical vertex waves, sleep spindles, SWS and
+REM sleep.
+Seizures/events :	None
+AEDs:	None
+8/25-	lnterictal background: 8/26	Epileptiform  activity:
+Sleep: Seizures/events: Aes:
+No change none
+Normal sleep architecture None, sleep deprived none
+8/26-	lnterictal  background: 8/27	Epileptiform  activity:
+Sleep: Seizures/events: AEDs:
+No change none
+Normal sleep architecture
+One event, non-typical, not a seizure none
+8127-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha 8/28		activity that attenuates with eye opening.	Epileptiform activity:	none	Sleep:	Normal sleep architecture	Seizures/events:	none	AEDs:	none		8127-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha 8/28		activity that attenuates with eye opening.	Epileptiform activity:	none	Sleep:	Normal sleep architecture	Seizures/events:	none	AEDs:	none
+8127-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha 8/28		activity that attenuates with eye opening.
+Epileptiform activity:	none
+Sleep:	Normal sleep architecture
+Seizures/events:	none
+AEDs:	none
+8127-	lnterictal background:	The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha 8/28		activity that attenuates with eye opening.
+Epileptiform activity:	none
+Sleep:	Normal sleep architecture
+Seizures/events:	none
+AEDs:	none
+Clinical and EEG Characteristics During Seizures and Events:
+Event #1:out of wakefulness/ drowsiness Date: 08/2612015	Time: - 7:07 AM- -
+7:29
+Baseline:normal awake and very mildly drowsy
+Clinical features:
+Patient is in bed when the event starts. He reports left hand tightness, then right hand tightness and bilateral LE tightness (legs are not well visualized on the video). He also reports bilateral hand numbness and LE numbness. He develops left and then right hand high frequency low amplitude tremor. He is able to communicate throughout the event and it resolves spontaneously.
+Patient himself reports that the event started while he was asleep, but EEG demonstrates that he was awake/ very mildly drowsy.
+EEG features:
+Normal awake and very mildly drowsy EEG
+INDUCTION PROCEDURES:
+Sleep deprivation
+Photic stimulation
+Hyperventilation
+Exercise- none since patient has significant baseline back pain
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+Normal awake and asleep recording.
+lctal Findings:
+No typical events were captured.
+A single event of bilateral hand stiffness. numbness, tremors and bilateral leg numbness and stiffness occurred out of wakefulness/ very mild drowsiness. It was associated with a normal EEG. Patient never had such an event.
+SEIZURE DIAGNOSIS:
+1.	Unclear
+EPILEPSY DIAGNOSIS:
+1.	unclear
+CONCLUSION:
+This was a normal 4 day EMU monitoring session. The background remained normal and no typical events were captured.
+A single event of of bilateral hand stiffness. numbness, tremors and bilateral leg numbness and stiffness occurred out of wakefulness/ very mild drowsiness and was associated with a normal EEG. The cause of the event was not clear. Patient never had such an event.
+Medication changes:no AEDs
+Patient is to have follow-up care consisting of continuing to see as an outpatient.
+
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 47-year-old male, status post kidney transplant, recently discharged from an outside hospital, admitted with cardiac arrest followed by recurrent, repetitive jerking movements with complex movements of arm, tongue and extremities.
+MEDICATIONS:  Propofol, Versed, vecuronium.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and comatose.  The patient received 5 mg of vecuronium during the EEG.
+DESCRIPTION OF THE RECORD:  As the recording begins, the EEG demonstrates a burst suppression pattern with periods of suppression of approximately 15 seconds in duration.  High amplitude chaotic mixed, sharply contoured activity with theta, delta and alpha frequency activity was noted.  There is clearly paroxysmal generalized activity noted in the bursts and sometimes there is a sharp wave in the right hemisphere associated with this.
+Ventilator artifact and other movement artifacts were noted.
+Vecuronium was given during the EEG.  This attenuated the motor activity but did not substantially change the overall bursts of fast activity.  With the vecuronium on board, the bursts are typically about 8 seconds in duration with paroxysmal activity and bursts of theta frequency activity then in attenuation and then more additional relatively symmetric paroxysmal activity.
+Tactile stimulation of the patient did not activate the record and there was little in the way of variability although some sections of the records are somewhat more discontinuous than others.
+Heart rate 120 bpm.
+IMPRESSION:  This EEG recording, recorded the same day as prolonged cardiac arrest is worrisome for overall prognosis.  Because of the nature of this EEG pattern, additional EEG monitoring was requested.
+
+
+

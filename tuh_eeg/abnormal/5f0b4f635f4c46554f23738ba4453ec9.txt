@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  36 year old right handed woman with rheumatoid arthritis and 2 tonic clonic seizures after surgery.
+MEDICATIONS:  Folate Acid, Singular, Omeprazole
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz 30 mV posterior dominant rhythm and a small amount of low voltage frontal central beta.  There is scant theta noted in wakefulness in the frontal central regions. Hyperventilation produces a small amount of background theta. Photic stimulation elicits bilateral driving.
+HR:    90 bpm
+IMPRESSION:  Very minimally abnormal EEG due to:
+Excess frontal theta for age.
+CLINICAL CORRELATION:  No epileptiform features are identified.  There is no indication that the patient has a breech rhythm, but that could explain the theta
+described above.  If epilepsy is an important consideration, a follow up study capturing sleep is suggested.
+
+
+

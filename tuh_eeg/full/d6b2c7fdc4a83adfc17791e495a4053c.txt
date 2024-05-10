@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 42-year-old male with nocturnal seizures, refractory to multiple therapies in the past.  Nocturnal stereotypic behaviors with humming and pincer movements of both hands, followed by unilateral pincer posturing of the right hand lasting 2 minutes.  Unresponsive to treatment with carbamazepine, Keppra, phenobarbital.  Unresponsive to clobazam.
+MEDICATIONS:  Vimpat
+INTRODUCTION:  One-hour digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were identified.  The patient seemed to be quite drowsy.  Sleep onset myoclonus was noted.
+DESCRIPTION OF THE RECORD:  The background EEG and wakefulness is slow with excess theta and without a well-defined posterior dominant rhythm.  There is generous low voltage, frontocentral beta.  In the transition to sleep, vertex waves were noted, some of which were a little asynchronous and demonstrating phase reversal to the left or right of midline.
+Hyperventilation did not activate the record.  Photic stimulation elicits scant driving.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excess background theta.
+Excess beta.
+Overall poor organization.
+CLINICAL CORRELATION:  Previous EEGs were not available at this time for comparison.  This EEG supports a diffuse disturbance of cerebral function, but no epileptiform features were identified.  In this individual with frequent nocturnal seizures, an alternative overnight recording strategy may be of value.
+
+
+
+

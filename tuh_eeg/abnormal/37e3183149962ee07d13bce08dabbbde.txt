@@ -1,0 +1,14 @@
+ACTIVATION PROCEDURE:  HV and photic.
+CLINICAL HISTORY:  The patient is a 16-year-old man with episodes of loss of consciousness lasting about 30 seconds to a minute with associated postictal confusion.  Episodes have been happening since April 2012.  However, in the last several weeks they have increased to approximately 1-2 per day.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated low to moderate amplitude 10 Hz alpha that attenuates with eyes opening.  Fast alpha variant is observed.  There is a well preserved anterior to posterior frequency amplitude gradient with faster frequencies and lower amplitude anteriorly.  Excess beta activity is observed.  Very brief drowsiness is captured at the end of the recording and characterized by increase in the amount of diffuse beta.
+Hyperventilation produces no change in the background.
+Photic stimulation results in appropriate photic driving at multiple frequencies.
+Other:  Occasional EKG artifact is captured.  Regular sinus rhythm is observed on a single EKG lead.
+FINDINGS:  Normal awake and very briefly drowsy EEG.
+IMPRESSION:  This is a normal awake and briefly drowsy 22-minute EEG.  No epileptiform discharges are captured, however, stage 2 sleep is not recorded.  If clinical suspicion for seizures remains, a repeat study with stage 2 sleep may be of benefit.  A
+lack of epileptiform discharges in a routine EEG does not exclude a clinical diagnosis of epilepsy.
+
+
+

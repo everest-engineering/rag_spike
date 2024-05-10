@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 25-year-old with migraine headaches characterized by blurry vision, slurred speech, nausea, sensitivity to pain and left frontotemporal headache.
+MEDICATIONS:  Topiramate.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with symmetric reactive 10.5 alpha rhythm and a small amount of low-voltage, frontocentral beta.  Lambda was noted in wakefulness.  As the patient became drowsy, attenuation of alpha rhythm was noted with more of a theta pattern and POSTS.  The patient transitions in and out of deeper stages of sleep with small epochs of stage II sleep followed by arousal.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited bilateral driving.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy.  Lambda waves are a normal finding.  This patient seemed to have somewhat fragmented sleep which may be related to underlying physical discomfort or an inability to get comfortable in the lab.
+
+
+

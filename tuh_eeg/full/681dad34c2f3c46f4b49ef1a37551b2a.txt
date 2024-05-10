@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 100-year-old right-handed male with episode of confusion and left-sided weakness, found to have massive right subdural
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record in a patient who is interactive and animated.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage, diffusely slow with a 7 Hz alpha rhythm.  When the patient is awake, there is intermittent attenuation noted in the background left greater than right.  Shifting slowing was noted and in fact the left hemisphere appears to be slightly slower with a bit more focal slowing in the right.  When the patient is awake and alert, 7 Hz posterior dominant rhythm was noted.
+Photic stimulation did not activate the record.  Heart rate slightly irregular at 66 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+Shifting slowing, left greater than right.
+Intermittent attenuations in wakefulness
+CLINICAL CORRELATION:  Normal patterns for an adult of this age are not well defined.  This EEG demonstrates some prominent abnormalities including intermittent attenuation when the patient is awake, more suggestive of a chronic CNS process than an acute one.
+
+
+

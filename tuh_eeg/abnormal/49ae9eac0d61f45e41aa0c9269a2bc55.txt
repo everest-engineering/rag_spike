@@ -1,0 +1,12 @@
+LENGTH OF RECORDING:  27 minutes.
+CLINICAL HISTORY:  The patient is a 22-year-old man with past medical history of seizures with last seizure approximately 3 years ago.
+MEDICATIONS:  Current medications:  Lamictal.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consisted of a well-formed and modulated 9 Hz alpha activity that attenuates with eye opening.  The anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes is present.  Fast alpha variant is frequently observed.  During sleep, symmetrical vertex waves, sleep spindles, K complexes and POSTS (positive occipital sharp transients in sleep) are captured.  Hyperventilation is performed with good effort and results in no significant change in the background.  Step photic stimulation results in symmetrical occipital driving as multiple flash frequencies.
+FINDINGS:
+Stage II sleep.
+__________
+IMPRESSION:  This is a normal awake and asleep study 27-minute electroencephalogram.  The lack of epileptiform discharges on this electroencephalogram does not preclude the clinical diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 56-year-old male with MVA in 1976, frontal and cranial defect, tonic-clonic seizures, last seizure 1 month ago.
+MEDICATIONS:  Patient is unable to state.
+INTRODUCTION:  Routine, 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  Impedances were generally under 5 kilohms.  There are prominent cranial defect was noted by the tech.  This EEG captured wakefulness and sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow, poorly organized with primarily a theta frequency background and a glimpse of a posterior dominant rhythm of 6.5 Hz.  A prominent accentuation of activity is noted in the right frontal region, and in this context, there are underlying sharp waves in the right frontal region as well as fast activity.  The field of the right frontal sharp waves is a bit variable Fp2, F8.  Features of drowsiness include an increase in fast activity.  There is some electrode or head rocking artifact due to the skull deformity.
+Hyperventilation produces a slight increase in amplitude of the background.
+Photic stimulation.  Produced a subtle driving response, a little bit more remarkable in the context of the breach rhythm.
+Heart rate 66 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+Prominent breach rhythm, but in that context of sharp waves in the right frontal region.
+CLINICAL CORRELATION:  These findings are congruent with the history of frontal lobe injury and a localization related mechanism for epilepsy.
+
+
+

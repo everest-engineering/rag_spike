@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  This is a 19-year-old male with epilepsy since age 5, rare seizures.  Six months ago, the patient fell and last week had a tonic clonic seizure lasting 5 minutes followed by a headache for 2 days.
+
+MEDICATIONS:  None.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and asleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is well organized for an adult of this age with an 11 Hz alpha rhythm.  Features of drowsiness including increase in beta.  There is some paroxysmal rhythmic theta noted in the transition to sleep with vertex waves and spindles and Posts.
+
+Hyperventilation produces a small amount of theta.
+
+Photic stimulation does elicit a driving response.
+
+Heart rate 60 bpm.
+
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+
+CLINICAL CORRELATION:  There are a handful of normal variants in this EEG but this is a normal awake through stage II sleep record.
+
+If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+

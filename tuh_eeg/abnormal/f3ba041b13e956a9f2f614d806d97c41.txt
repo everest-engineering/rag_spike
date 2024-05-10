@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An elderly gentleman status post right MCA infarcts, 2 syncopal spells, dementia with an episode of agitation earlier this morning.
+MEDICATIONS: Zyrtec, albuterol
+INTRODUCTION:  Digital video EEG was performed at the bedside on the floor using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  The patient was awake and cooperative.
+DESCRIPTION OF THE RECORD:  The EEG is low voltage, but there is a glimpse of a 9 Hz alpha rhythm present bilaterally.  Subtle underlying focal slowing with isolated delta was noted in the right hemisphere, particularly central and parietal regions.  In wakefulness there was a fair amount of muscle artifact.  Drowsiness is characterized by slow rolling eye movements.  Heart rate was irregular at 90 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Focal slowing from the right hemisphere.
+Mild background slowing.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The focal slowing is ipsilateral to the stroke.  In this individual with significant dementia and agitation, there is only mild background slowing.
+
+
+

@@ -1,0 +1,30 @@
+History:	49 YR OLD MALE PRESENTS ON 7/7/14 WITH H/O APHASIA X 1 DAY, R/O TIA.
+PMHX SIG FOR CVA WITH RESID LT SIDED WEAKNESS, HTN, DM, HLD.
+Medications:
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a poorly developed anterior posterior gradient with a PDR of
+8Hz which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontal regions.  There is excess 6-7Hz theta activity during
+wakefulness.  There are loss of faster frequencies on the right side.  Diffuse EMG artifact noted
+during most of the recording.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Intermittent polymorphic delta activity is present in the right temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR 80
+Summary of Findings:
+Focal slowing, polymorphic, right temporal
+Diffuse slowing, polymorphic diffuse
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing and slow
+alpha rhythm.  These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  intermittent focal slowing in the right temporal region.  This finding is indicative of
+focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  The
+lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  This is a 29-year-old woman with refractory epilepsy since age 10 or 12
+MEDICATIONS:  Keppra, dose reduction.
+INTRODUCTION:  A 24-hour continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  The patient reported an episode of seeing stars to the nurse, but no clear or well-defined clinical seizures were noted by the clinical team or seizure or spike detection software.
+DESCRIPTION OF THE RECORD:
+Background:  In wakefulness, there is a 9 Hz posterior dominant rhythm.  This patient seems to have disrupted sleep and is drowsy during the day.  Sleep at night is frequently disrupted with frequent transitions between wakefulness and stage 2 sleep.
+Epileptiform seizures:  None.
+Push button:  6:39 p.m. on July 22nd.  The patient reports seeing stars to the nurse.  EEG at that time demonstrates a normal awake pattern.  EEG in the minutes beforehand demonstrates some rhythmic temporal theta, but no well-defined ictal pattern and no clear EEG evidence of a seizure.
+Interictal epileptiform detections:  This section of the record demonstrates a paucity of well-defined sharp waves.  There is low voltage left temporal rhythmic theta noted in drowsiness and some sharply contoured slowing
+Heart rate 66 bpm.
+IMPRESSION/CLINICAL CORRELATION:  This section of the EEG monitoring is remarkable for:
+Intermittent left temporal focal slowing.
+Sharply contoured, left temporal theta.
+EEG monitoring will continue.
+
+
+
+
+

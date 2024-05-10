@@ -1,0 +1,77 @@
+History:
+The patient is a 55 year old ambidextrous man who is admitted to continuous audio-video EEG monitoring for differential diagnosis of the events.
+Patient reports fainting events that started in - 2005-2006, occur in any position and, as of 05/2015, occurred at least once per week . At the time of the admission to the EMU, Mr.
+stated that events were happening - once per month.
+Patient is also followed at TUH cardiology_ and a loop recorder is being planned.
+Admission Medications : No AEDs
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Additionally, T1 and T2 electrodes were placed in this patient. Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior.  For approximately 8 hours each day the patient was attended by an EEG technician . A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing . During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically . Detections were reviewed in detail by the attending neurologist.  All events and detections, as well as selected samples , were stored to external hard drive media.
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 10 Hz. Hyperventilation is not performed. Photic stimulation produces no effect.
+Description of daily interictal EEGs:
+8/03-	lnterictal background:8/04Epileptiform activity: Sleep:Seizures/events: AEDs:The posterior dominant rhythm is a symmetric moderate voltage 9.5-10 Hz alpha activity that attenuates with eye opening.  HR <60 bpm noted none Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.None none
+8/03-	lnterictal background:
+8/04
+Epileptiform activity: Sleep:
+Seizures/events: AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 9.5-10 Hz alpha
+activity that attenuates with eye opening.  HR <60 bpm noted none
+Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.
+None
+none
+8/04-	lnterictal  background:8/05Epileptiform activity: Sleep: Seizures/events:AEOs:The posterior dominant rhythm is a symmetric moderate voltage 9.5-10 Hz alpha activity that attenuates with eye opening. none Normal sleep architecture None, sleep deprived none
+8/04-	lnterictal  background:
+8/05
+Epileptiform activity: Sleep: Seizures/events:
+AEDS:
+The posterior dominant rhythm is a symmetric moderate voltage 9.5-10 Hz alpha
+activity that attenuates with eye opening. none
+Normal sleep architecture None, sleep deprived
+none
+8/05-	lnterictal background:8/06Epileptiform activity: Sleep: Seizures/events:AEDs:The posterior dominant rhythm is a symmetric moderate voltage 9.5-10 Hz alpha activity that attenuates with eye opening. none Normal sleep architecture 1 non-epileptic event none
+8/05-	lnterictal background:
+8/06
+Epileptiform activity: Sleep: Seizures/events:
+AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 9.5-10 Hz alpha
+activity that attenuates with eye opening. none
+Normal sleep architecture 1 non-epileptic event
+none
+Clinical and EEG Characteristics During Seizures and Events:
+Event #1: typical event
+Date:   08/05/2015	Time:   -4:15 PM
+Baseline: awake
+Clinical features:
+Patient is awake, exercising on a stationary bike.
+He stops responding. He suddenly takes a deep breath and leans to the left in the chair.  He does not respond when he is called.  The nurses try to sit him up but he keeps falling back in the chair.
+-1 min 40 sec into the event he starts moving spontaneously but he still does not respond.   He looks at the nurse but still does not speak.
+-40 seconds later he starts producing brief moans/ grunts.
+And starts answering simple questions (such as his name, naming objects) - 20 seconds later.
+EEG features :
+Normal awake background.  No change in heart rate: no bradycardia, tachycardia or arrhythmia is identified prior or during the event.
+Telemetry service too was contacted and confirmed no arrhythmia or change in rate.
+INDUCTION  PROCEDURES:
+Sleep deprivation
+Exercise
+
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+Normal awake and asleep background .
+lctal Findings:
+A single typical event of fainting/ unresponsiveness while in the chair, post stationary bike exercise is captured . Event lasts - 2.5-3 minutes.
+There is no associated change in the EEG background and no change in the EKG (confirmed with remote telemetry and a single EKG lead that is associated with EEG monitoring).
+SEIZURE DIAGNOSIS:
+non-epileptic events
+EPILEPSY DIAGNOSIS:
+1.	non-epileptic events, not cardiac events
+CONCLUSION:
+This 3-day EMU monitoring session captured a single typical event of fainting.  There was no associated change in the EEG background and no change in the EKG (confirmed with remote telemetry and a single EKG lead that is associated with EEG monitoring) .
+Therefore, patient was diagnosed with non-epileptic events.   Patient was made aware of the diagnosis .
+Medication changes: no AEDs were initiated, however, some of his home medications were adjusted since he had asymptomatic bradycardia and HTN during his stay.
+
+
+
+

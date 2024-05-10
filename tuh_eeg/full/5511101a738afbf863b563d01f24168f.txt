@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 39-year-old woman with hypertension and cocaine and opiate abuse.  The patient had an abrupt episode of loss of consciousness and awoke with right-sided weakness.  MRI demonstrates acute stroke.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an interhemispheric asymmetry.  The left hemisphere demonstrates disruption of the alpha rhythm in a slower alpha rhythm relative to the right.  In addition, there is intermittent disruption of faster frequency and delta noted, particularly in the left frontocentral and frontotemporal regions.  The right hemisphere is slightly disorganized as well but has an alpha rhythm of 9 Hz.  There is some head rocking artifact in the left posterior quadrant but no definitive sharp waves.
+Photic stimulation did not significantly activate the record but during photic stimulation there is a bit of sharply contoured flowing at T5.
+Heart rate:  72 BPM.
+IMPRESSION:  This is an abnormal EEG in wakefulness and drowsiness due to:
+Focal slowing from the left hemisphere characterized by disruption of faster frequency activity particularly left frontocentral and focal delta.
+Some sharply contoured slowing in the left posterior temple region.
+CLINICAL CORRELATION:  No definitive sharp waves were seen.  The focal slowing is in the region of this patient's stroke.  In this individual with an abrupt loss of consciousness, ongoing evaluation may be important to search for potential epileptiform activity.
+
+
+

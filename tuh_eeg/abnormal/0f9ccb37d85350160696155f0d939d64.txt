@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  55 year old right handed woman with epilepsy since her teenage years, seizure free for the last several months, tonic-clinic seizures followed by confusion, asthma, diabetes, hypertension, and depression.
+MEDICATIONS:  Lovastatin, Phenytoin, Seroquel.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage but there is a 10-Hz alpha rhythm.  Drowsiness is characterized by rhythmic central theta.  Hyperventilation did not activate the record.  Photic stimulation elicited bilateral vigorous driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the third EEG without epileptiform features for this patient over 2 years.  If further information is needed, a prolonged EEG monitoring session, a 1-hour EEG, or even an outpatient ambulatory EEG may be helpful in characterizing epileptiform activity.
+
+
+

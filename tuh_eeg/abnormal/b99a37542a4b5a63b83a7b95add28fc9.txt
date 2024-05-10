@@ -1,0 +1,11 @@
+
+CLINICAL HISTORY: 48 year old male in status post liver transplant May 2009 with hepatitis C, now metabolic encephalopathy, lethargy, confusion.
+MEDICATIONS: Haldol, Keppra
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is intubated and relatively lethargic.
+DESCRIPTION OF THE RECORD: The background EEG is markedly slow, low voltage with intermittent, rhythmic frontal delta. Stimulation of the patient produces an increase in delta.
+HR: 60 bpm
+IMPRESSION: Markedly abnormal EEG due to:
+1. Marked background slowing.
+2. FIRDA.
+CLINICAL CORRELATION: These findings are nonspecific but are relatively characteristic of a hepatic encephalopathy.
+

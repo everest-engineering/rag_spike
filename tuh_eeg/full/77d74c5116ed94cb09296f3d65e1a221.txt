@@ -1,0 +1,14 @@
+MEDICINES:  Insulin, Pravachol, metoprolol, Lasix, and atovaquone.
+HISTORY:  A 67-year-old woman admitted on the 19th with increasing lethargy, past history of NPH, lung transplant, stroke.  The patient now recovering and at times, awake and alert.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was somnolent throughout the record.
+DESCRIPTION OF THE RECORD:  When unstimulated, the background EEG is diffusely slow with a rhythmic theta delta pattern.  With stimulation, eye opening is noted, but the EEG remained slow with primarily rhythmic theta background.  The patient was able to answer questions despite this.  There is occasional shifting slowing and some bursts of sharply contoured, shifting slowing.
+Heart rate: 113 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Primarily theta pattern in apparent wakefulness with eye opening and eye closure.
+CLINICAL CORRELATION:  The features described above are nonspecific, but support a diffuse disturbance of cerebral function, which could be due to many different causes.  A toxic or metabolic encephalopathy may be considered.
+
+
+
+
+

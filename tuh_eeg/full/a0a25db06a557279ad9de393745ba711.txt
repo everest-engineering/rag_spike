@@ -1,0 +1,27 @@
+History:	26 year old man with a history of seizures.
+Medications:	Topamax and phenobarbital
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by moderate amplitude 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is noted.  Patient remains awake throughout
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  A single EKG lead demonstrates heart rate of ~ 60 bpm.  Patient talks
+intermittently during the recording.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Beta, excessive
+Interpretation:
+This is a NORMAL awake-only 30-minute EEG.  No epileptiform discharges were present, but stage
+2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+
+

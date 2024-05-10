@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  24 year old right handed woman with epilepsy at age 18, seizure free for 6 months, but 2 recent tonic-clonic seizures with loss of consciousness, postictal confusion, tongue biting.  Hearing impairment.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 50 microvolt alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in beta. Hyperventilation produces paroxysmal high amplitude rhythmic frontal delta.  On 1 occasion, there is notched frontal delta. Photic stimulation elicits scant driving.
+HR:    60 bpm
+IMPRESSION:  This EEG must be considered within normal limits.  There was paroxysmal high amplitude slowing in hyperventilation, but this EEG lacks definitive spike and wave activity.
+CLINICAL CORRELATION:  Additional EEG recording or comparison with previous EEGs is suggested to search for an underlying, generalized mechanism for seizures such as spike and wave activity.
+
+
+

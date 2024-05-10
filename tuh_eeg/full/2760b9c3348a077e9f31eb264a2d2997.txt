@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 52-year-old with hepatic disease, admitted to the medicine service for a feeling of vertigo with bright lights flashing in the corner of his right visual field.  Past history of seizures 2 years ago, liver transplant, cirrhosis and upper GI bleeding in the past.
+MEDICATIONS:  Insulin, tramadol, labetalol, tacrolimus, Flomax, Lyrica, trazodone, and others.
+INTRODUCTION:  A 45-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient demonstrated clinical seizures during the EEG characterized by twitching and eye deviation.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is awake. The overall EEG is low voltage with generous beta.  Multiple electrographic seizures were identified.  Most seizures begin with fast activity from the left occipital region, which is approximately 20 seconds in duration, and then it is followed by rhythmic delta, maximum in the left hemisphere.  For some of the seizures, there is a clear fast activity bursts prior to the more rhythmic theta delta, which clearly evolved and other cases it is beta burst can occur without it.  In later sections of this 45 minute EEG, there is a more consistent pattern of a fast activity prior to the rhythmic theta delta.  The patient remains coherent during the bursts.  On 1 occasion, there is head bobbing noted.  He is able to answer questions, even during rhythmic slowing maximum in the left hemisphere, but present bilaterally.
+HR: 90 BPM
+IMPRESSION:  This EEG is diagnostic of a localization related form of status epilepticus with recurrent simple partial seizures.
+CLINICAL CORRELATION:  The epileptiform activity is congruent with the clinical history and imaging localization.  This patient received epileptic medications immediately following the EEG and was transferred to the neurology service.
+
+
+
+
+

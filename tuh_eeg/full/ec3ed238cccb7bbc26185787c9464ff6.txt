@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 29-year-old male with an episode of unresponsiveness in the Episcopal Emergency Room. CT head showed large sellar and suprasellar mass, likely craniopharyngioma
+MEDICINES:  Decadron, Keppra, Ativan.
+INTRODUCTION:  This is a 22 minutes stat digital video EEG performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  It is a technically acceptable bedside record in an intubated, poorly responsive adult.
+DESCRIPTION OF THE RECORD:  This record begins at 11:16, shortly after the patient has been unresponsive in the Episcopal emergency room.  It was initially diffusely slow, but with an asymmetry with greater alpha frequency activity in the right hemisphere and more arrhythmic delta activity in the left hemisphere.  As the recording continues, stimulation of the patient successfully produces eye opening and an alerting.  With this, consistently there is a pattern of more faster frequency activity on the right compared to the left and arrhythmic delta on the left.  Patient drifts in and out of a drowsy state and in drowsiness towards the end of the record, there is abundant 13 hertz beta activity noted again with predominance on the right.
+Heart rate:  84 bpm.
+IMPRESSION:  This is a dynamic, but abnormal EEG due to:
+Generalized background slowing in an obtunded patient.
+Focal features with faster frequency activity noted on the right and more arrhythmic delta on the left.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  The asymmetry is with disruption of faster frequency activity in the left and greater arrhythmic delta on the left may be correlated with imaging and localization of the patient's cerebral mass.
+
+
+
+

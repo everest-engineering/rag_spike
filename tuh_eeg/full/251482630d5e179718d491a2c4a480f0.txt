@@ -1,0 +1,31 @@
+History:	33 year old woman with a history of seizures.
+Medications:	keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Voltages are lower over the right hemisphere but not by more than 50%.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces mild symmetric photic driving
+at multiple flash rates.
+Summary of Findings:
+No epileptiform discharges
+Sleep, stage 2
+Interpretation:
+This awake and asleep 27-minute EEG is within normal limits. Up to 50% of voltage asymmetry
+between the two hemispheres is considered within normal limits.  However, voltages are generally
+lower over the left and not right (like in this patient).  Additionally, slight imprecision in lead
+placement between the two  hemispheres could result in voltage asymmetry that is seen here.
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 69-year-old male with gunshot wound to the back, history of epilepsy, left PCA infarct and spinal cord symptoms, now admitted with bilateral lower extremity weakness, evaluate for seizure.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was a technically acceptable EEG with impedances below 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the EEG is diffusely slow with primarily theta frequency pattern.  There is a bit more arrhythmic delta activity noted in the occipital regions.  As the patient transitions to sleep, the EEG transitions to more of a rhythmic pattern with a bit more delta.  Spindle activity is noted primarily in the frontal regions more so than the central regions and spindles can be alpha or beta frequency.  The patient appears to have some preserved eye movements noted in sleep.
+Heart rate:  Irregular at 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Absence of anticipated waveforms including an alpha rhythm in wakefulness.
+Occasional occipitally predominant slowing.
+CLINICAL CORRELATION:  No epileptiform features were seen.  There were no strongly lateralizing features noted in this record.  The anterior displacement of the patient's spindles is a nonspecific finding.
+This EEG supports a diffuse disturbance of cerebral function affecting gray and white matter.  There were no epileptiform features.  If epilepsy is an important consideration, a more prolonged study may be of use.
+
+
+
+
+

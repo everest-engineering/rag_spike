@@ -1,0 +1,40 @@
+History:	44 year old woman status post cardiac arrest, now with myoclonic jerks.
+Medications:	Depakote, Ativan
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours from ~3 pm on 12/25/2013 till ~ 6 am on
+12/26/2013.  Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+neurologist.   The Gotman spike and seizure detection algorithm (Stellate) was used to screen the
+EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by severely
+attenuated background and slow polymorphic delta activity with absence of the expected anterior
+to posterior gradient of frequencies.  No normal sleep architecture is present.
+Frequent brief (12-15 seconds) recurrent seizures are captured.  Their frequency gradually
+increases from ~ 20-25 seizures/ hour to up to 50-60 seizures/ hour by the end of the recording.
+Clinically, during these events, patient opens her eyes and has chewing mouth movements.
+Electrographically, seizures start with sudden high amplitude generalized sharp waves that rapidly
+evolve into rhythmic generalized theta and then delta activity.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Attenuation, severe
+Diffuse slowing, polymorphic, continuous, marked
+Status epilepticus, up to 50-60/hour brief generalized seizures by the end of the recording
+No reactivity
+Interpretation:
+This is a VERY ABNORMAL 15-hour continuous video EEG due to severe diffuse slowing and
+attenuation and brief recurrent generalized seizures that increase in frequency as the recording
+progresses (up to 50-60 seizures per hour by the end of the recording) These findings are
+etiologically nonspecific indicators of marked diffuse cerebral dysfunction with profound cortical
+irritability and in the setting of severe anoxic brain injury indicate low likelihood of full neurological
+recovery.  These findings were conveyed to the neurology consult team and to the primary team.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  55 year old right handed male admitted with new onset seizures characterized by alteration in mental status and then 3 episodes of unresponsiveness, staring, eyes rolling back.  History of hepatitis C.
+MEDICATIONS:  Keppra, Ativan, Norvasc, Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a very drowsy patient.
+DESCRIPTION OF THE RECORD:  In stage II sleep, there is a well-defined background with vertex waves, K-complexes, spindles, and posts.  Arousal results in significant muscle artifact.  Central mu of 9 Hz is noted.  Scant alpha rhythm at 8.5 Hz is also observed.  Hyperventilation is performed with good effort but it does not significantly activate the EEG. Photic stimulation is performed while the patient is drifting off to sleep and does not significantly activate the record.
+HR:    90 bpm.
+IMPRESSION:  Normal EEG, primarily in sleep.
+CLINICAL CORRELATION:  No epileptiform features were observed.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

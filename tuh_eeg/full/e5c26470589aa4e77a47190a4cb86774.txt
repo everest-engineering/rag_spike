@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  25 minutes.
+CONDITION OF RECORDING:  The recording is performed using the standard 10-20 system with additional T1 and T2 electrodes and single EKG lead.  Hyperventilation was not performed.  Photic stimulation was performed.
+CLINICAL HISTORY:  The patient is a 33-year-old woman with a history of seizures for five years.  The patient is currently 28 weeks pregnant.
+CURRENT MEDICATIONS:  Include Keppra, Tylenol.  Patient took 2 mg of Versed on 07/09/2013.
+DESCRIPTION OF THE RECORDING:  Majority of the recording is during sleep.  During brief wakefulness, the posterior dominant rhythm consists of low amplitude of 10.5 to 11 Hz theta activity and it attenuates with eye opening.  There is a anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Diffuse excess beta activity is captured.  During sleep, symmetric vertex waves and sleep complexes observed.    POSTS (positive occipital sharp transients of sleep) are captured during sleep as well.  Frequent shock waves with after-going slow waves captured over the anterior left temporal region, with phased reversal over F7/T1 electrodes.  Less frequent sharp waves with after-going slow waves captured over the right anterior temporal region with phased reversal over F8/T2 electrodes.  Polymorphic moderate amplitude theta and delta activity is observed over the anterior temporofrontal region.  Hyperventilation is not performed.  Step photic stimulation is results in symmetrical occipital driving at multiple flash frequencies.
+FINDINGS:
+Intermittent sharp waves with after-going slow waves over left anterior temporal region, with phased reversal over F7/T1 electrodes.
+Occasional sharp waves with after-going slow waves over the right anterior temporal region with phased reversal over F8/T2 electrodes.
+Mild to moderate focal frontal/anterior temporal slowing.
+Excess beta.
+IMPRESSION:  This is an abnormal primarily asleep 25 minute EEG due to mild to moderate focal left epileptiform discharges and occasional right anterior temporal epileptiform discharges.  Focal left anterior temporal/frontal slowing and epileptiform discharges indicate focal cerebral dysfunction, likely stress in etiology, that carries epileptogenic potential.  Additionally, there is likely a focal cerebral dysfunction possible __________ etiology is present over the right anterior temporal region and that, too, carries increased epileptogenic potential.  Excess beta could be secondary to medication effect such as benzodiazepines or barbiturates.
+
+
+

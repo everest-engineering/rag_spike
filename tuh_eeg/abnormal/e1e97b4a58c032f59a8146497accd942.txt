@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  The patient is a 49-year-old woman who had a syncopal episode on 07/05/2013 while having a tilt table test.
+MEDICATIONS:  Albuterol.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred and photic stimulation was performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Drowsiness is characterized by slow rolling of eye movements and increase in beta and anterior spread of the alpha rhythm.  As the patient reaches the deeper stages of sleep, 2 benign epileptiform transients of sleep were noted on the record.  Photic stimulation caused driving.  There were no epileptiform discharges on this EEG.
+Heart rate was 66.
+IMPRESSION:  Normal wake and asleep EEG.
+CLINICAL CORRELATION:  The benign epileptiform transients of sleep are benign variants.  There are no epileptiform discharges or seizure activity on this EEG.  If additional information is required, more prolonged a sleep-deprived EEG is recommended.
+
+
+

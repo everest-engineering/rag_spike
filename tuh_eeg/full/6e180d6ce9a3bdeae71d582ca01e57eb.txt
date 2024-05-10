@@ -1,0 +1,28 @@
+History:	24yo man with 5 year history of epilepsy.
+Medications:	phenytoin
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Excessive symmetric 5-15uV, 18-25Hz activity is present, maximal
+over bilateral frontal regions.  In wakefulness, there is a somewhat disorganized background with
+excess theta.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  No stage 2
+Small amount of sharply contoured shifting focal slowing, left greater than right.  No epileptiform
+discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates left
+temporal focal slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving and extenuates the shifting left temporal slowing.  HR 72
+Summary of Findings:
+No epileptiform discharges
+Focal slowing, polymorphic, bilateral (L>R) frontotemporal, sharply contoured L temporal
+Disorganization diffuse
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of shifting sharply contoured focal slowing,
+left greater than right, that increased with hyperventilation and photic stimulation.  There is also a
+somewhat disorganized background and excess theta during wakefulness.  No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.
+

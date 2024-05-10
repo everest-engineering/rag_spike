@@ -1,0 +1,32 @@
+History:	50 YR MAN WITH PMHX:  CVA,CAD, LEFT VENTRIC DYSFUNCTION.  MI, SZS,
+ANXIETY.  PT VAGUE ON SZS. LAST SZ 10-18-14.  PT STATES HE SEES
+OUTSIDE NEUROLOGIST.  HAD EEG. 2004. HERE.
+Medications:	DILANTIN, SPIRIVA, , GABAPENTIN, PAROXETINE, PHENOBARBITAL, ABILIFY,
+SEROQUEL, PSYLLIUM, CARBATROL, TRAMADOL, ZONEGRAN, CLONAZEPAM,
+AMBIEN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  Frequent focal sharp waves are present with phase reversal and
+amplitude maximum at F7/T1.  These occurred in runs at time lasting for about a minute.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 84
+Summary of Findings:
+Sharp waves, frequent, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of frequent epileptiform discharges in the
+left fronto temporal region.  These findings are indicative of a potentially epileptogenic focus in
+this region, and given the clinical history of partial seizures, are consistent with a diagnosis of
+localization-related epilepsy.
+
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 53-year-old woman status post right MCA infarct in 2009, requiring a craniectomy, currently states that she is not having auras or any focal seizures, typical seizures are characterized by left body twitching.
+MEDICATIONS:  Keppra, Valium, Ultram, lisinopril, gabapentin, hydrochlorothiazide.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+TECHNICAL:  Impedances were adequate.  There is a small of muscle noted in the background.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates  interhemispheric asymmetry.  The left hemisphere is well-organized with a 9.5 to 10 Hz alpha rhythm.  The right hemisphere demonstrates prominent disruption of faster frequency activity with a lower voltage slow pattern.  There is a slight breach rhythm noted and a bit of sharply contoured slowing at T6.  Electrode artifact is also noted in the same region.  As the patient becomes drowsy, she is a bit restless and there is an increase in muscle artifact.  Other features of drowsiness include attenuation of the alpha rhythm and slow rolling eye movements.  Deeper stages of sleep are not achieved.
+Photic stimulation elicits a driving response on the left at faster flash frequencies.  Heart rate 66 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Focal slowing from the right hemisphere, maximum in the temporal regions with prominent disruption of faster frequency activity.
+Sharply contoured slowing at T6, somewhat complicated by artifact.
+CLINICAL CORRELATION:  This EEG is similar to previous studies.  Sharp waves were noted only on 1 EEG in 2011, and were maximum in the right centrotemporal region.  These were not identified today.
+
+
+

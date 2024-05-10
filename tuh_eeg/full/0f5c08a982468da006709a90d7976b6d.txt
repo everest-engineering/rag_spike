@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 81 year old right handed woman with depression, osteopenia, epilepsy, admitted with recurrent focal seizures one year after she stopped her seizure medication.
+MEDICATIONS: Tramadol, Lisinopril, Norvasc, ASA, Lasix, Warfarin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 and 8 Hz posterior dominant rhythm, but much of the time, a 7 Hz, rhythmic background with rhythmic slowing. Drowsiness is characterized by slowing, particularly in the temporal regions relatively symmetrically as well as an increase in beta. The patient is intermittently agitated with an increase in muscle artifact. Photic stimulation and hyperventilation were not performed.
+HR: 70 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent rhythmic background slowing.
+CLINICAL CORRELATION: The findings described above are nonspecific and can be seen in a diffuse disorder of cerebral function including dementia or toxic or metabolic encephalopathy. No epileptiform features were seen.
+
+
+

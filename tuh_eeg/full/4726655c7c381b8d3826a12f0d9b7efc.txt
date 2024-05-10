@@ -1,0 +1,31 @@
+History:	20 year old woman who suffered a syncopal event vs a seizure ~ 1 month ago.
+
+Patient is tense throughout the recording.
+Medications:	CITALOPRAM,TRAZODONE,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+During periods of maximal relaxation, the background consists of moderate amplitude well
+modulated 10.5 alpha activity posteriorly with expected AP gradient.  Throughout the majority of
+the recording, intrusions of additional diffuse posteriorly predominant polymorphic theta and delta
+activity are captured.  Patient remains awake throughout the recording.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  A single EKG lead demonstrates regular
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL 21-minute awake-only EEG due to mild diffuse slowing. This finding is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  However, in this
+patient, suspect that slowing is at least partially related to patient's inability to relax fully.  No
+epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+
+
+
+

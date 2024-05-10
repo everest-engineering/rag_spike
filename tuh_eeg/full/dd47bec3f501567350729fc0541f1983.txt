@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 63-year-old woman with a history of refractory epilepsy, stroke, intracerebral hemorrhage admitted to the medical ICU with urosepsis, evaluate for obtundation.
+MEDICATIONS:  Antibiotics, norepinephrine, vancomycin, and phenobarbital.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow and low voltage with a mixture of theta and delta.  It is subtly discontinuous.  The activity in the right hemisphere is slightly higher amplitude on the right compared to the left and the left may be a bit more blunted.  There is also a little bit more fast activity and in this case faster activity is in the alpha theta range, not in the beta range for this patient.  Tactile stimulation of the patient and auditory stimulation seemed to produce a paradoxical response with attenuation of the background.  As the recording continued, however, the record was a little bit more continuous.  Heart rate 96 bpm.
+IMPRESSION:  Markedly abnormal EEG due to:
+Markedly slow background.
+Intermittent discontinuity.
+Paradoxical reaction to noxious stimuli.
+CLINICAL CORRELATION:  This EEG is supportive of a severe underlying encephalopathy as might be seen in the context of sepsis.
+
+
+

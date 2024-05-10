@@ -1,0 +1,29 @@
+History:	43 YR OLD MALE WITH H/O S/P RIGHT BASAL GANGLIA HEMORRHAGE WITH
+LEFT SIDED DEFICITS, PT NEVER HAD SZ, EEG TO EVAL WOULD LIKE TO DC
+KEPPRA
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which is best seen over the
+left hemisphere and attenuates with eye opening.  5-15uV, 18-25Hz activity is present, maximal
+over left frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic theta activity is present in the right hemisphere maximal anterior-temporal
+region during wakefulness, increasing during drowsiness.  There is loss of faster frequencies over
+that region.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 66
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric, maximal anterior-temporal and loss of
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the right
+hemisphere maximal anterior-temporal region with associated loss of faster frequencies.  This
+finding is indicative of a focal structural lesion in this region involving gray matter..
+
+
+
+
+

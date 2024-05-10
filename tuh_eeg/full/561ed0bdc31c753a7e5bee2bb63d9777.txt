@@ -1,0 +1,28 @@
+History:	68 YO MALE R HANDED. PT CAME FROM ROBERT WOOD JOHNSON WITH SOB
+AND FLUID AROUND HIS HEART.PMHX PT HAD A STROKE ON THE 14TH. PMHX.
+DM,HTN,HEART ISSUES, MEMORY LOSS.
+Medications:	INSULIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by an PDR that at best reaches 7Hz.  Background activity is
+predominantly irregular 50-75uV, 6-7Hz activity, with absence of the normal anterior to posterior
+gradient of frequencies.  Intermittent brief bursts of diffuse, frontally-maximal polymorphic 1 to 2
+Hz, 80-100 uV slow waves are observed during wakefulness.  No sleep is recorded
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 96  Technical difficulties: Very
+frequent movement artifact was seen throughout the study.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Disorganization, continuous, marked diffuse
+FIRDA (frontal intermittent rhythmic delta activity), intermittent
+Interpretation:
+This is an ABNORMAL awake EEG because of moderate diffuse background slowing,
+disorganization, FIRDA and slow alpha rhythm.  These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  26 year old right handed male with post-traumatic epilepsy after a motor vehicle accident at age 19.  Three seizures out of sleep New Year's Eve followed by postictal confusion.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-identified 11 Hz alpha rhythm which reaches 70 microvolts.  Hyperventilation is performed early on in the record.  There is some eye movement artifact, but no definite focal slowing.  The tech uses eye pads to reduce eye blink artifact.  Photic stimulation elicits vigorous driving with supra harmonic driving.
+HR:    96 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the third EEG for this individual.  Epileptiform activity was identified on 2006 with rare sharp waves from the right hemisphere, but was not seen in 2008.  In this individual with a recent exacerbation of epilepsy, additional
+recording capturing deeper stages of sleep may be helpful to characterize epileptiform activity.
+
+
+

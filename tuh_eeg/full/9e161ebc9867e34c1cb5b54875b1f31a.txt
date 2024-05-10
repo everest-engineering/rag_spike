@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 48-year-old woman found 04/06/2013 unresponsive, confused, with postictal confusion.  Past history of hypertension, stroke.
+MEDICATIONS:  Ativan, heparin, Protonix.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient remained poorly responsive.
+DESCRIPTION OF THE RECORD:  When unstimulated, the background EEG is a pattern of diffuse beta with smaller amounts of alpha and theta frequency activity.  Stimulation of the patient produces an increase in alpha and theta frequency activity.  As the recording continues, occasional spontaneous arousals were identified.  There are bursts of frontal delta noted and occasional vertex waves.
+Heart rate 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with primarily a beta pattern.
+A pattern more compatible with pharmacologic sedation, but with spontaneous arousals.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this patient with a history of stroke and seizure.  The prominent beta may be due to this patient's medications.
+
+
+

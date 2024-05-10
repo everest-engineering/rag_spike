@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 34 year old left handed male with 2 tonic clonic seizures. Past history of childhood epilepsy which he outgrew at age 15. Now with diverticulitis, awaiting colostomy.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a relatively fast alpha rhythm with alpha squeak noted with alpha rhythm transitioning to 13 Hz. In the transition in and out of sleep, there is rhythmic theta which is more prominent in the left temporal region. It has a 4 Hz component more than a 5 Hz component and then on some occasions, has a mixture of delta noted. Hyperventilation accentuates left temporal mixed beta delta with a T1 sharp wave noted infrequently during hyperventilation. This is also a finding that re-emerges in drowsiness. Photic stimulation is performed as the patient is drifting off to sleep. There is a photic driving response identified bilaterally.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+TIRDA-intermittent rhythmic mixed theta delta.
+Left mid to anterior temporal sharp waves elicited by hyperventilation.
+Sharply contoured delta also noted in hyperventilation.
+Some extension of bilateral temporal rhythmic mixed theta delta.
+CLINICAL CORRELATION:  These findings are relatively characteristic of a temporal lobe epilepsy. Correlation with imaging and clinical history is suggested.
+
+
+

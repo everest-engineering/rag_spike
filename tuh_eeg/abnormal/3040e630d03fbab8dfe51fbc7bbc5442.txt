@@ -1,0 +1,22 @@
+CLINICAL HISTORY: 23 year old right handed male with primary generalized epilepsy.
+
+MEDICATIONS: Topamax
+
+IMPRESSION: Digital video EEG was performed in lab using standard 10-20 system of
+electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are
+performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG includes an 11.5 Hz
+posterior dominant rhythm with posterior slow waves of youth. In relaxed wakefulness there are brief bursts of frontally predominant 3 to 5 Hz spike in wave activity with bursts typically 1.8 seconds in duration. Most are under 2 seconds and none exceed 3 seconds in duration. Hyperventilation seems to accentuate these bursts. An attempt to test for responsiveness during stimulation is attempted but the bursts are so brief that it is not possible to complete the test before the burst is over. There are no deficits in recall identified during the bursts. On rare occasions as the patient becomes drowsy, some of the bursts are a bit more maximum in the right frontal region. Other features of drowsiness include an increase in beta. Photic stimulation elicits a small amount of bilateral driving, but the spike in wave activity is not accentuated by this.
+
+HR: 66bpm.
+
+IMPRESSION: Abnormal EEG due to:
+1. Frontally predominant 3 to 5 Hz spike in wave activity.
+
+CLINICAL CORRELATION: These findings are more compatible with primary generalized
+epilepsy. The presence of a single isolated burst in the right frontal region does not exclude this diagnosis. This individual does not appear to have outgrown his epilepsy at this time.
+
+
+
+

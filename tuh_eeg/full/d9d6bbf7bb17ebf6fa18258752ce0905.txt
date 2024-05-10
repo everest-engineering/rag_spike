@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 30 year old right handed male with epilepsy since 2007, breakthrough seizure 2 weeks ago with loss of consciousness and confusion. This is an outpatient EEG.
+
+MEDICATIONS: Keppra.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of
+electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are
+performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz posterior dominant rhythm and a small amount of low-voltage frontocentral beta activity. Hyperventilation is performed early on in the record, producing and increase in amplitude of the background as well as some rhythmic delta from the right hemisphere, but without disruption of the underlying faster frequency activity. As the patient becomes drowsy again, there is a subtle disruption of faster frequency activity with subtle rhythmic slowing in the right temporal region. This is seen with brief transitions into stage II sleep but deeper stages of sleep are not sustained. On one occasion, in the transition to sleep there are sharp waves with rhythmic slowing out of the right temporal region followed by an arousal period. Unfortunately, there is some wick-like activity at this same time and there are some additional more subtle sharp waves without the same faster frequency activity noted. Photic stimulation elicits a bilateral driving response. During photic stimulation, a well defined right anterotemporal spike in slow-wave complex is observed. Additional spike complexes are noted at the very end of the record, again right anterotemporal.
+HR: 80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic slowing in the right temporal region.
+2. Right anterotemporal spike and slow-wave complexes and sharp waves.
+CLINICAL CORRELATION: These findings support a localization related mechanism for epilepsy.
+
+
+

@@ -1,0 +1,16 @@
+
+CLINICAL HISTORY: 	62 year old male with a cardiac arrest at home, resuscitated for at least 10 minutes.
+
+MEDICATIONS:  Ativan, Labetalol, Fentanyl drip, ASA, Heparin, Lopressor, Prilosec, Lisinopril, Norvasc, HCTZ
+
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are preformed.  The patient is intubated and comatose.
+
+DESCRIPTION OF THE RECORD:  The background includes diffuse muscle artifact. The technologist works to overcome the artifact without success. The patient is observed to be immobile, staring ahead with eyes open.
+
+HR: 	78 bpm
+
+IMPRESSION:  This is a technically challenged EEG due to:
+1.  Extreme amounts of muscle artifact.
+
+CLINICAL CORRELATION: Although there is an definite cerebral activity, none of the normal wave forms are present. If a more accurate assessment of cerebral activity is needed, please repeat the study with paralysis if clinically appropriate.
+

@@ -1,0 +1,31 @@
+History:	57 year old man who has a history of IGE.
+Medications:	Dilantin and Lamictal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+During maximal arousal the posterior dominant rhythm consists of 11 Hz low-to-moderate amplitude
+alpha activity that attenuates with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  Runs of diffuse monomorphic ~7.5 Hz diffuse theta activity
+are noted when patient's eyes are closed.  During brief drowsiness, the alpha rhythm attenuates,
+and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+On three occasions generalized frontally predominant low amplitude polyspikes followed by high
+amplitude slow waves are captured.  Twice these discharges occur with a repetition rate of ~ 3.5 Hz
+(burst last ~ 0.5 seconds) and are followed by brief (~1-1.5 seconds) of diffuse frontally predominant
+moderate-to-high amplitude delta activity.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.
+Summary of Findings:
+Polyspike-and-wave complexes, few, at ~ 3.5 Hz
+No electrographic seizures
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 27-minute EEG due to fast (~3.5 Hz) polyspike-and-wave
+discharges. In the proper clinical context, the presence of these discharges suggests the diagnosis of
+Idiopathic Generalized Epilepsy.
+
+
+
+

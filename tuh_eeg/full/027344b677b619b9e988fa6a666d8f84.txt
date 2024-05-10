@@ -1,0 +1,11 @@
+CLINICAL HISTORY:
+This is a 42-year-old male with history of childhood seizures. Had generalized tonic-clonic seizures - two episodes on June 21, 2011.
+MEDICATIONS: Keppra and Depakote.
+INTRODUCTION: Digital video EEG was performed in using standard 10-20 system or electrode placement with one channel EKG. Photic stimulation and hyperventilation were performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is 8.3 Hz alpha rhythm. A lot of muscle artifact is noted, which obscures the underlying EEG pattern. There are also occasional theta waves noticed. With photic stimulation, there is scant driving. Hyperventilation brings about mild slowing. There are no epileptiform activity or seizures seen.
+HR: 60 bpm
+IMPRESSION: Abnormal due to mildly slow alpha rhythm for age.
+CLINICAL CORRELATION: No epileptiform activity was seen. A prolonged study or sleep-deprived EEG maybe helpful in characterizing epileptiform activity.
+
+
+

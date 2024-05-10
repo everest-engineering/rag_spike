@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 26-year-old right-handed male with epilepsy, seizures characterized by dizziness followed by tonic clonic activity for 5 minutes.  Previous MVA.  Chronic, severe headaches.
+MEDICATIONS:  Phenobarbital and Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by slow rolling eye movements and brief attenuation of the alpha rhythm.  Hyperventilation produced an increase in background slowing.  Photic stimulation elicited scant driving.
+Heart rate 90 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy and if necessary a repeat study capturing deeper stages of sleep is suggested.
+__________________________
+
+
+

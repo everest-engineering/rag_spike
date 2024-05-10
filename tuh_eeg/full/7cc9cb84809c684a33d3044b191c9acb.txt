@@ -1,0 +1,14 @@
+CLINICAL HISTORY: A 54-year-old right-handed woman, with left subcortical stroke. MVA 1 year ago. Recent seizures characterized by shaking and loss of consciousness. Now poorly responsive. Elusive neurological diagnosis with possible encephalitis, inflammation, demyelination 0< neoplasm.
+MEDICATIONS: Keppra, others.
+DESCRIPTION OF THE RECORDS: Digital video EEG was performed at bedside In the ICU using standard 10-20 system of electrode placement with 1 channel of EKG. The patient was awake but confused. Electrode locations were modified because of the patients recent biopsy. In addition, it was not possible to achieve adequate impedances at all electrodes due to the patient's fragile skin.
+DESCRIPTION OF THE RECORD: The initial seconds of the EEG are technically quite challenging with a great deal of muscle and movement artifact. When awake, the patient is answering questions appropriately. When unstimulated, the background EEG is diffusely slow with prominent mixtures of 2 Hz delta and 5 Hz theta. In addition, there is an asymmetry in the theta activity, which is a bit more prominent in the right hemisphere than the left. The frontal delta is higher amplitude on the right compared to the left.
+Heart rate 96 bpm.
+IMPRESSION: This Is an abnormal EEG due to:
+IMPRESSION:
+1. Marked background slowing.
+2. An asymmetry with disruption of the theta frequency activity on the left compared to the right
+3. Frontally predominant rhythmic delta, right greater than left.
+CLINICAL CORRELATION: This individual is awake but confused. She demonstrated some lip smacking behaviors during the EEG, but they did not carry an EEG signature. Because of the concern for subtle underlying seizures, additional EEG long-term recording was requested.
+
+
+

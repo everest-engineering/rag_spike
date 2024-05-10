@@ -1,0 +1,21 @@
+CLINICAL HISTORY: This is a 36-year-old male status-post head trauma.  Patient is in a Phenobarbital coma to monitor his increasing intracranial pressure.
+MEDICATIONS: Phenobarbital drip.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed. The patient is in a Phenobarbital-induced coma.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG is disorganized and very attenuated. Diffusely increased beta activity is seen throughout the tracing.  The normal posterior dominant alpha rhythm is not seen.  With the induction of the Phenobarbital drip, the background EEG is further attenuated followed by a burst and burst suppression pattern.  No clinical seizure activity was seen on the video camera or correlated with the EEG findings.  Occasional muscle artifact is seen on the background with maximum increased sensitivity.  Again, no seizure activity was observed.
+
+Long-Term EEG Monitoring – March 28, 2006 to March 29, 2006 (22:28:15 to 07:40:54)
+DESCRIPTION OF THE RECORD: The background EEG is further attenuated with an increased amount of beta activity seen throughout the tracing.   The normal posterior dominant alpha rhythm is not identified.  The EEG is typically a burst and burst suppression pattern at a frequency of 10 to one minute for one burst and consistent with the pharmacologic effect of Phenobarbital. No seizure activity was seen in this tracing.
+Long-Term EEG Monitoring – March 29, 2006 to March 30, 2006 (08:29:15 to 07:58:34)
+DESCRIPTION OF THE RECORD: The background EEG is very attenuated.  There is no identifiable posterior dominant alpha rhythm.  The diffuse beta activity is clearly seen on the background.  The burst and burst suppression pattern with a frequency of about 10 to 30 seconds is easily seen in this tracing, consistent with the full pharmacologic effect of Phenobarbital. As before, no seizure activity was seen in this tracing.
+In the last section of this record, the EEG did not change very much initially.  The alpha rhythm is absent.  The diffuse excessive beta activity, as well as the burst and burst suppression pattern are easily seen after increasing the sensitivity, consistent with the pharmacological effect of Phenobarbital.  The frequency of the burst pattern is about 5 to 20 seconds
+HR:  62 to 72 BPM.
+IMPRESSION: Abnormal EEG due to:
+Attenuated and disorganized background.
+Burst and burst suppression pattern.
+Excessive beta activity.
+Absent alpha rhythm.
+CLINICAL CORRELATION: This EEG pattern is suggestive of a severe cerebral dysfunction involving cortical gray matter and subcortical white matter.  This is consistent with a pharmacologic coma induced by Phenobarbital.  No seizure activity was seen in this tracing.  The Phenobarbital dose was adjusted by the neurosurgeon based on the bedside reading of the EEG.
+
+
+
+

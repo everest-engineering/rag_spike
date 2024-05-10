@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 63-year-old man with past medical history of seizures since birth.  His last seizure was several weeks ago with a frequency of 1 seizure per week.  He sometimes has dizziness before episode of generalized tonic-clonic seizures.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10/20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hz seen in the occipital region, which attenuates with eye opening.  There is frontal central low amplitude beta activity, which is distributed symmetrically.  There are occasional bursts of left temporal slowing at F7/T3.  There are also rare bursts of right temporal focal slowing occurred independently.  Hyperventilation was performed and results in slowing of the background activity, most pronounced on the left side.  Photic stimulation was performed at multiple flash frequencies and result in a driving response.  Heart rate was 70 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG due to mild independent bitemporal slowing, most pronounced on the left side during wakefulness.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  The above findings are suggestive of either bilateral structural abnormalities or bilateral cerebral dysfunction.  No epileptiform abnormalities or seizures were seen in this record.  This does not rule out the diagnosis of epilepsy.
+
+
+

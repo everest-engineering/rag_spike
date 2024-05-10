@@ -1,0 +1,38 @@
+History:	45 year old woman with a history of seizures that occur about once per month.
+
+Patient remains tense throughout the recording, despite technologist's attempts to
+relax her.
+Medications:	OXCARBAZEPINE, BENZTROPINE, DOXEPIN, PAROXETINE, PERPHENAZINE,
+QUETIAPINE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+At best, the background consists of moderate amplitude 10-10.5 Hz alpha posteriorly with expected
+AP gradient.  For the majority of the recording, additional polymorphic diffuse theta activity is
+present.  Patient remains awake throughout the recording.
+Despite EMG artifact over the left lateral leads, intermittent polymorphic delta activity is present
+over the left anterior temporal region.  No clear epileptiform discharges are captured.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  Significant EMG artifact is present over the left lateral leads for more than half
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, intermittent, moderate, left temporal, anterior
+Disorganization, mild
+Artifact, EMG, frequent, moderate, left, lateral leads
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only 29-minute EEG due to (1) mild diffuse slowing and
+disorganization and (2) intermittent moderate left anterior temporal focal slowing. Diffuse slowing
+and disorganization are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.
+Intermittent focal slowing is indicative of focal cerebral dysfunction, which is etiologically non-
+specific, but possibly structural in origin.  No clear epileptiform discharges are present but there is
+significant EMG artifact over the left lateral leads for more than half of the recording.
+
+
+
+
+
+

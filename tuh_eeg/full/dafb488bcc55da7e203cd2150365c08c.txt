@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 54 year old right handed male with stroke and left carotid stenosis.
+MEDICATIONS: Lisinopril, Provigil, Nembutal, Lorcet. Amlodipine, Famotidine, Levothyroxine, Plaretase, Nabumetone, Provigil
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 30 microvolt posterior dominant rhythm. There is intermittent rhythmic slowing in the left hemisphere with a mixture of rhythmic left temporal theta and delta. Eye movement artifact is quite prominent in wakefulness. Features of drowsiness include an increase in rhythmicity as well as relatively symmetric rhythmic slowing. Deeper stages of sleep are not achieved. Photic stimulation elicits bilateral driving and intermediate flash frequencies.
+HR: 55 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+Intermittent rhythmic slowing from the left.
+CLINICAL CORRELATION: No epileptiform features are observed. The rhythmic slowing may be correlated with imaging and supports a structural or functional process.
+
+
+

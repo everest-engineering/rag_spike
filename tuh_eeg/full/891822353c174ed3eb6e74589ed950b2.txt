@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 60-year-old man who presents with seizures and intracranial hemorrhage.
+MEDICATIONS:  Ativan and valproic acid.
+INTRODUCTION:  A digital video EEG was performed in the ICU using the standard international 10-20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were not performed.  This tracing captures very brief wakefulness through stage 2 sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm is 9 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is large amount of low amplitude diffuse beta activity, which is distributed symmetrically.  Stage 1 sleep is characterized by disappearance of alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  Stage 2 sleep is characterized by the presence of K complexes, sleep spindles, and posts.  Drowsiness was characterized by diffuse background slowing, shifting of the posterior dominant rhythm to anterior head regions, and absence of muscle and eye blink artifact.  There are intermittent bursts of left anterior to mid temporal slowing, 1.5-3 Hz frequency lasting for 1-2 seconds during drowsiness.  Heart rate is 85-90 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording capturing brief wakefulness through stage 2 sleep due to the presence of intermittent left temporal slowing.
+CLINICAL CORRELATION:  The above finding could be due to underlying structural abnormality in the subcortical white matter on the left side.  Clinical correlation is recommended.  No epileptiform abnormalities or electrographic seizures were seen in this record.  This does not rule out diagnosis of epilepsy.  If clinically indicated, a 24-hour bedside EEG monitoring may be helpful.
+
+
+

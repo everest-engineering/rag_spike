@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 20-year-old female with history of migraines, who presents with first onset of seizure on August 13, 2012, with aura.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one-channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 11-12 Hz seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity, which is distributed symmetrically.  Stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact, as well as the presence of vertex sharp transients and POSTS.  Stage 2 sleep is characterized by the presence of K complexes, sleep spindles, and POSTS.  Hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate is 60 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 2 sleep.  No epileptiform abnormalities or seizures are identified in this record.
+CLINICAL CORRELATION:  A normal EEG, does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, a repeat EEG or a 24-hour ambulatory EEG may be helpful.
+
+
+

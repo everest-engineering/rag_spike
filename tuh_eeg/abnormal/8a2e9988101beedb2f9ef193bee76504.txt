@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  67 year old right handed woman with likely neurofibromatosis and cognitive impairment.  The patient has multiple neurofibromas in chest and lower extremities, and respiratory difficulties.
+MEDICATIONS:  Ventolin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was quite restless, a poor historian, and had difficulty sitting still.  There was a fair amount of muscle artifact noted.
+DESCRIPTION OF THE RECORD:  In wakefulness there was a 9 Hz alpha rhythm with a scant amount of background theta. Hyperventilation did not significantly activate the record. Photic stimulation elicited bilateral driving.
+HR:    90 bpm with frequent PVCs.
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified, but frequent PVCs were noted and may be evaluated clinically.
+
+
+

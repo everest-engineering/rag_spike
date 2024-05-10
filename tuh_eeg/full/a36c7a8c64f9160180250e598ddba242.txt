@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  70-year-old male with epilepsy, dementia, atrial fibrillation, and alcohol abuse, admitted on the 17th with exacerbation of seizures.
+MEDICATIONS:  Keppra, Ativan, Cardizem, and others.
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible  This was a technically acceptable EEG with impedances under 5 kilohms.  The patient was described as somnolent.  He has persistent  head turning to the left and two episodes of chewing.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous, interhemispheric asymmetry with a reasonably well organized pattern on the left with an 8 Hz alpha rhythm and a medium amplitude pattern.  The right hemisphere demonstrates continuous focal slowing with rhythmic theta noted in the right hemisphere, sharply contoured theta and irregular, periodic slowing with a periodicity of 0.3 Hz.  In addition, there are bursts of rhythmic theta noted in the left mid temporal region, TIRDA.  These are not associated with the clinical change in the patient.  There are also runs of sharp waves in the right frontal central region, maximum in F4, again without clinical correlate.  Arousal of the patient with these discharges clearly produces a well-defined posterior-dominant rhythm.
+The patient had a clinical event of chewing movements, one of which was associated with an electrographic seizure best seen in the temporal electrodes, despite chew artifact- with 28 seconds R temporal delta
+Heart rate:  120 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+28 second electrographic seizure at 8:34 AM- R temporal maximum
+Continuous focal slowing from the right hemisphere.
+TIRDA.
+Brief runs of sharp waves from the right frontal region.
+Periodic activity noted in the background.
+CLINICAL CORRELATION:  No clinical seizures were identified, but this is a highly epileptogenic EEG.  There are some bursts of epileptiform activity, and this pattern can be seen in a postictal state, but merits further investigation to ensure that this patient is not having additional subtle seizures.
+
+
+
+
+

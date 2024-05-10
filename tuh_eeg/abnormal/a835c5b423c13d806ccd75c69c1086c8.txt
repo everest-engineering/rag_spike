@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 40 year old male who had an event where he fell down the stairs and was subsequently shaking. Evaluate for possible seizures.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. This is an awake EEG. There is no hyperventilation and there is an extraordinary amount of muscle noted in the background.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.7 Hz posterior dominant rhythm. Frequent eye blink artifact is noted and generous beta is observed. Photic stimulation is essentially obscured by muscle artifact but there is a suggestion of a driving response.
+HR: 60 bpm
+IMPRESSION: Normal awake EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features were identified. If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep is suggested. In addition, that might help eliminate the muscle artifact.
+
+
+

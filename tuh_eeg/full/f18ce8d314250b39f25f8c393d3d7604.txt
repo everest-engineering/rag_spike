@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  59 year old right handed woman with a history of toxemia in pregnancy, stroke, aphasia, right-sided weakness, and subsequent development of epilepsy.  Now seizure-free, but has developed a tremor.  The stroke was 40 years ago.
+MEDICATIONS:  Nimodipine, Nifedipine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was completed.  The patient has a fair amount of muscle artifact in the temporalis electrodes which was difficult to eliminate.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is some rhythmic theta frequency activity in the right or left temporal region, but from the left temporal region it is a little bit slower, can reach 3 to 4 Hz, and it is a little bit more irregular.  In addition, in the left temporal region this activity persists just into the beginning of stage II sleep.  Stage II sleep is characterized by vertex wave, K-complexes, and spindles.  Vertex waves, K-complexes, spindles, and posts were observed in stage II sleep.
+HR:    84 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Slightly irregular left temporal theta.
+CLINICAL CORRELATION:  There are no definitive epileptiform features in this record.  The rhythmic temporal theta identified on the right is considered a normal variant, but
+the activity on the left is somewhat irregular and may be reflective of the patient's previous eclampsia or ischemia.
+
+
+

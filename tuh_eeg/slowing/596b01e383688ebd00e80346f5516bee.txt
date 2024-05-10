@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 27-year-old woman status-post anoxic injury on Sunday, February 26 with persistent coma, now with increasing, stimulus-induced myoclonus, as well as ongoing eye flutter and movements of the tongue in a comatose individual.  CT scan shows ongoing edema.
+MEDICATIONS: Propofol drip and Ativan.
+INTRODUCTION: This is a 35-minute digital video EEG, performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is examined during the EEG.
+DESCRIPTION OF THE RECORD: The background EEG begins with a medium-to-high amplitude pattern with rhythmic paroxysmal activity.  There seems to be an artifact with some muscle activity, but there also seems to be a bifrontal spike and slow wave complex, which is high in amplitude.  Examination of the patient fails to identify a clinical correlate with this movement.  The patient is examined in detail.  While she does seem to have some element of stimulus-induced ocular myoclonus, the EEG pattern does not seem to have a relationship to the patient’s motor activity and does seem to wax and wane.  It is typically in the theta frequency range, but slows to delta and then builds up again.  There is sometimes a poly spike component and it is on occasion faster, reaching up to a 7 to 8 Hz spike and slow wave complex.  The activity is bilateral, poorly localized.  As is seen in an epileptiform discharge, the activity occasionally pauses or suppresses for a second and then builds up again.
+HR:  120 BPM.
+IMPRESSION: Abnormal EEG due to:
+Ongoing epileptiform pattern, which is compatible with a subclinical form of status epilepticus.
+CLINICAL CORRELATION: Interestingly, this patient’s motor activity does not correlate with the EEG.  Both, however, may be part of a severe acute brain injury.  These results were conveyed to the clinical team in order to facilitate changes in management.
+
+
+
+

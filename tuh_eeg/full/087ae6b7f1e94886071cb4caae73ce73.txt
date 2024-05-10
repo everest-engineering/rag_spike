@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 92-year-old male, admitted on May 10th, found down, not seen for 2 days and was found to be in status epilepticus, now with persistent obtundation.
+MEDICATIONS:  Heparin, Phenytoin, Vancomycin ? Phenobarbital
+INTRODUCTION:  This piece of EEG includes 4 hours of continuous video EEG monitoring with seizure and spike detection.  The patient is intubated and obtunded.
+DESCRIPTION OF THE RECORD:  EEG demonstrates a diffusely slow pattern with intermittent attenuation.  Periodic complexes are noted in the right posterior quadrant, maximum at P4-O2, with variable fields of spread, and with some fast activity.  These are typically seen at a periodicity of 0.2 to 0.3.  They do not buildup.  There is some rhythmic delta noted in the left posterior quadrant as well.  Tactile stimulation of the patient does not impact the pattern.  There is some variability in these poorly formed periodic complexes with a polyphasic component noted in the right occipital region, but they do not buildup into seizures.  Some sections demonstrate a bit more spread into the right posterior temporal region.
+Heart rate: 78 bpm.
+IMPRESSIONS/CLINICAL CORRELATION:  Final 4 hours of continuous video EEG monitoring are remarkable for:
+Ongoing right periodic complex.
+Markedly slow background.
+Of note, this patient no longer has a discontinuous EEG.  No clinical seizures were recorded.  The clinical team was well aware.  The overall EEG pattern with a background slowing and periodic complexes have worrisome prognostic features in a subject of this age.
+
+
+
+
+

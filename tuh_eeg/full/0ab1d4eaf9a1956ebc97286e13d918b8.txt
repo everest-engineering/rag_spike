@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 42-year-old male, status post cardiac arrest on admission, found pulseless; past history of depression; hepatitis C; alcohol abuse; suicide attempt; and multiple craniectomies.  Prior right craniotomy with focal encephalomalacia in the right temporoparietal region.
+MEDICATIONS:  Previously on propofol, midazolam, previously vecuronium, and magnesium.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was intubated, unresponsive with impedances under 5 kilohms with the exception of T1-T2 electrode.  Clinically, the patient was noted to have frequent eye blinks, occasional, subtle hand twitching, but was otherwise unresponsive.
+DESCRIPTION OF RECORD:  The background EEG demonstrates a medium amplitude, diffusely slow pattern with continuous frontal eye blink artifact.  Superimposed upon this diffusely slow pattern is a focal epileptiform discharge, maximum at T4-T6, at times nearly isoelectric at T4 with some variability at 2-4 Hz.  Stimulation of the patient does not seem to affect this.  Occasional muscle twitch artifact was noted in the background.
+HEART RATE 106 bpm.
+IMPRESSION:  This is an abnormal EEG due to a
+continuous epileptiform discharge in the right parietotemporal region with associated clinical features of eye blinking and left hand twitching.
+CLINICAL CORRELATION:  This EEG is compatible with status epilepticus pattern.  These findings were reported to the clinical team at conclusion of the EEG.
+__________________________
+
+
+

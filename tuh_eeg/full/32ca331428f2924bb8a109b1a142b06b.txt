@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 78-year-old man who presents with altered mental status and right-sided weakness.
+MEDICATIONS:  Current medications include aspirin, insulin, and others.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  The recording was performed at the patient's bedside.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is a right to left interhemispheric asymmetry with faster frequencies observed over the right hemisphere.  During maximal wakefulness, the posterior dominant rhythm over the right hemisphere reaches 8 Hz theta activity.  There is poor and unstable anterior to posterior frequency amplitude gradient over the right hemisphere.  There is no clear posterior dominant rhythm over the left hemisphere.  The background over the left hemisphere consists of a mixture of polymorphic theta and delta activity at lower amplitudes.  During sleep, brief background discontinuity and sleep spindles are captured.  Additionally, bursts of frontally predominant intermittent rhythmic delta activity (FIRDA) are observed.  They are more prominent during drowsiness and sleep.  No clear epileptiform discharges were captured.
+FINDINGS:
+Continuous left hemispheric moderate diffuse slowing.
+Mild diffuse slowing.
+FIRDA.
+IMPRESSION:  This is an abnormal awake and asleep 22-minute EEG due to mild diffuse slowing and continuous moderate left hemispheric slowing.  Mild diffuse slowing indicates etiologically nonspecific mild diffuse cerebral dysfunction.  Continuous focal left hemispheric slowing indicates underlying focal dysfunction, likely structural in etiology.  FIRDA could be seen in encephalopathy, increased intracranial pressure, and deep white matter lesions.  No clear epileptiform discharges were captured.
+
+
+

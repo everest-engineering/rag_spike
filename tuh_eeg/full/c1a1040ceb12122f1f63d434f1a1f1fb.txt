@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  35 year old right handed woman with history of epilepsy since the age of 16, who now presents with 2 generalized tonic clonic seizures.  Of note, the patient ran out of Klonopin about a week ago and she did not take her Keppra and Zonisamide.
+MEDICATIONS:  Depakote, Lovenox, Keppra, Klonopin, Zoloft, Haldol, Terazosin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and regulated 9-10 Hz that attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient.  Excess beta is present throughout the recording.  During drowsiness the posterior dominant rhythm attenuates voltages decreased, diffuse beta appears.  Wickets are present as well during drowsy and awake.  No epileptiform discharges are present.  There is no focal slowing. Hyperventilation produces mild diffuse slowing. Photic stimulation results in symmetric occipital driving.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+Excess beta.
+IMPRESSION/CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  Excess beta could be due to medications, such as benzodiazepines or barbiturates.  No epileptiform discharges were captured, but stage II sleep was not recorded.  If clinical suspicion for seizures persist, a repeat study with sleep, stage II, may be of benefit.  The lack of epileptiform discharges on a routine EEG does not exclude a clinical diagnosis of epilepsy.
+
+
+

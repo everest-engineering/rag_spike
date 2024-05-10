@@ -1,0 +1,31 @@
+History:	61 YR OLD MALE PRESENTS WITH H/O GEN SZ W/ NO LOC. DENIES B/B
+INCONT. ON 7/16/14. PMHX SIG FOR TRAUMATIC BRAIN INJURY, B/L SKULL
+DEFECT. NOW FOR FOLLOW UP EEG, PT HAS C/C OF CHEST PAIN.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  During drowsiness, the background slows to central theta activity,
+frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes
+intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and
+Continuous polymorphic delta activity is present in the left hemisphere, maximally at T3, during
+wakefulness, increasing during drowsiness. There is an associated increase in faster frequencies
+consistent with a breach.  Very frequent polymorphic delta activity is present in the right central
+region, maximally at C4, during wakefulness, increasing during drowsiness. There is an associated
+increase in faster frequencies consistent with a breach.  At time the focal slowing is sharply
+contoured but not clearly epileptiform.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving.  EKG 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, continuous, left hemispheric, and associated breach.
+Focal slowing, polymorphic, intermittent, right central, and associated breach.
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+left hemisphere maximal in the midtemporal region.  This finding is indicative of a focal structural
+lesion in this region.  There is also very frequent  focal slowing in the right central region.  This
+finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly
+
+

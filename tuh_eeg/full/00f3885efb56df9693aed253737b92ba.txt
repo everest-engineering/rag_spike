@@ -1,0 +1,55 @@
+AGE: 47 y.o.
+SEX: male
+DATE OF STUDY : 09/08/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: Routine, awake and drowsy EEG #: 15-1308
+HISTORY:
+47 y.o. male referred for routine EEG for a history of seizures and toxoplasmosis s/p treatment in 2011. He denies any headache or seizures today; is asking whether he can stop Keppra .
+MEDICATIONS:
+Current Outpatient Prescriptions : tamsulosin (FLOMAX) 0.4 mg 24 hr capsule,
+sitagliptin (JANUVIA) 100 mg tablet, Take 1 tablet by mouth daily.
+ritonavir (NORVIR) 100 mg Tablet, Take 100 mg by mouth daily. atorvastatin (LIPITOR) 20 mg tablet, Take 1 tablet by mouth daily.
+tadalafil (CIALIS) 20 mg tablet, Take 1 tablet by mouth as needed for Erectile Dysfunction. Break in half for use
+raltegravir (ISENTRESS) 400 mg tablet, Take 1 tablet by mouth 2
+times daily.
+darunavir (PREZISTA) 800 mg Tablet, Take 800 mg by mouth daily. Multivitamin s-Iron-Folic Acid (CEROVITE ADVANCED FORMULA) 18-400 mg-mcg Tablet, TAKE 1 TABLET BY MOUTH DAILY.
+metformin (GLUCOPHAGE) 1,000 mg tablet, TAKE 1 TABLET BY MOUTH 2
+TIMES DAILY (WITH MEALS) .
+levetiracetam (KEPPRA) 500 mg tablet, TAKE 1 TABLET BY MOUTH 2
+TIMES DAILY.
+Insulin Glulisine (APIDRA SOLOSTAR) 100 unit/mL Insulin Pen, 10
+units q AC
+insulin glargine (LANTUS SOLOSTAR) 100 unit/mL (3 mL) Insulin Pen, INJECT 40 UNITS IN THE EVENING
+emtricitabine-tenofovir (TRUVADA) 200-300 mg per tablet, TAKE 1 TABLET BY MOUTH DAILY.
+Insulin Needles, Disposable, (BD INSULIN PEN NEEDLE UF MINI) 31 x 3/16 " Needle, AS DIRECTED
+ketoconazole (NIZORAL) 2 % shampoo, SHAMPOO HAIR 2 TIMES A WEEK ketoconazole (NIZORAL) 2 % cream, APPLY TO AFFECTED AREA (S) TWICE A DAY TO FACE
+leucovorin (WELLCOVORIN) 10 mg tablet, Take 1 tablet by mouth daily.
+Lancets Misc, by Other route. Use twice a day SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation .
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies , with a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR) . The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements , attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen .
+Sleep is not captured.
+No generalized slowing is present.
+There is occasional left hemispheric polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background slowing.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities .
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-drowsy routine EEG due to:
+1. Occasional left hemispheric polymorphic slowing
+CLINICAL CORRELATION :
+These findings are etiologically nonspecific indicators of left hemispheric cerebral dysfunction.
+
+
+
+

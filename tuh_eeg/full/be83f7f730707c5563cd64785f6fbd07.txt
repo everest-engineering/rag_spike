@@ -1,0 +1,33 @@
+AGE: 46 y.o.
+SEX: female
+DATE OF STUDY: 10/12/2015 RECORDING ENVIRONMENT : ICU
+EEG TYPE: 20-40 min, Asleep only EEG #: 15-1497
+HISTORY:
+46 y.o. female with a history of seizures (1998), presenting with a metabolic encephalopathy and change in mental status.
+MEDICATIONS: ALBUMIN , METOLAZONE, RIFAXIMIN, FUROSEMIDE
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG .
+EEG BACKGROUND:
+The background consists of a disorganized mixture of mostly delta with admixed theta . There is no clear reactivity to noxious stimulation, nor is there definite variability or state change.
+Eye blink artifact is seen during noxious stimulation.
+Severe generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES : There is no change in the background activity to visual, auditory, tactile, or noxious stimuli .
+Hyperventilation : Hyperventilation is not performed .
+Photic Stimulation: Stepped photic stimulation is not performed .
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 102 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal routine EEG due to:
+Severe generalized slowing, with lack of definite reactivity
+Background disorganization
+CLINICAL CORRELATION :
+These findings indicate the presence of severe diffuse cerebral dysfunction.
+
+
+

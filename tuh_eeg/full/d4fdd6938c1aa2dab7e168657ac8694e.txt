@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 57-year-old female with history of refractory epilepsy previously seizure free on vigabatrin now with several seizures per month, not all of which are prolonged tonic-clonic.  The patient has vagus nerve stimulation.
+MEDICATIONS:  Celontin, Tegretol, Keppra, and Lyrica.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm is 8-8.5 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is presence of low amplitude diffuse beta activity, which is distributed symmetrically.  A stage 1 sleep is characterized by disappearance of the posterior dominant rhythm and slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp transients and posts.  There are intermittent bursts of frontally predominant sharply contoured 2-5 Hz of activity noted during sleep.  There are also irregular frontal delta and left anterior temporal sharp and slow-wave complex, which is clearly differentiated from the background with no evolution.  There are also some left temporal focally slowing.  There are right temporal sharp waves noted independently during wakefulness.  Photic stimulation was performed at multiple flash frequencies and results in no driving response.  Hyperventilation was performed and results in bursts of rhythmic high amplitude, frontally predominant, and sharply contoured waves with no evolution.  Heart rate was 80 beats per minute and regular.
+IMPRESSION:
+This is an abnormal EEG due to diffuse slowing of the background with theta activity and slowing of the posterior dominant rhythm.
+Left temporal focal slowing.
+Bursts of frontally predominant irregular spike and slow-wave activity during stage 1 sleep.
+Right temporal sharp waves.
+CLINICAL CORRELATION:  This EEG supports a focal and potentially generalized mechanisms for epilepsy.  Diffuse slowing most pronounced on the left side could be due to toxic, metabolic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medications or bilateral cerebral dysfunction or degenerative brain disease. Intermittent left temporal focal slowing is indicative of left functional or structural abnormalities in this region. Clinical correlation is recommended. No clinical seizures were captured during this recording.  If clinically indicated, a repeat EEG capturing deeper stages of sleep or ambulatory EEG monitoring may be helpful.
+
+
+

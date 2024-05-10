@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 26 year old right handed male with generalized tonic clonic seizures and headaches 4-5 times per week.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10-Hz, 50 microvolt posterior dominant rhythm. Drowsiness is characterized by an increase in background theta as well as anterior spread of the alpha rhythm and an increase in beta. Deeper stages of sleep are not achieved. Hyperventilation produces some rhythmic theta in the background. Photic stimulation elicits bilateral driving.
+HR: 90 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: There were no focal nor epileptiform features identified; however, sleep was not recorded. If epilepsy is an important consideration, a follow-up, either 1-hour or sleep deprived EEG is suggested.
+
+
+

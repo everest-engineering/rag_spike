@@ -1,0 +1,32 @@
+History:	58 year old man with a history of lymphoma and increase in seizure frequency.
+Medications:	KEPPRA, DEPAKOTE, PHENOBARBITAL
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from ~8 AM on 12/18/2013 till ~ 8AM on
+12/19/2013.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+neurologist.  The Gotman spike and seizure detection algorithm (Stellate) was used to screen the
+EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture of polymorphic theta
+and delta activity, periods of discontinuity and diffuse spindle-like waveforms.  By the end of the
+recording there is increase in diffuse EMG artifact.  This corresponds to initiation of phenobarbital.
+No electrographic seizures are captured.
+Sinus tachycardia with heart ate up to 120 bpm is noted on a single EKG lead by the end of the
+recording epoch.
+Summary of Findings:
+No electrographic seizures
+Diffuse slowing, polymorphic, continuous, moderate
+Interpretation:
+This is an ABNORMAL continuous 24-hour video EEG due to moderate diffuse background slowing.
+Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific but in this patient at least partially is related to the medication effect.  No
+electrographic seizures are present.  The results were conveyed to the primary team.
+
+

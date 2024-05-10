@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  38 year old left handed woman with epilepsy since childhood.  Seizures described as warmth in the head and then the patient has rocking movements or foot tapping.  Last seizure was June 8.
+MEDICATIONS:  Lamotrigine, Topamax, Carbamazepine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the EEG is acceptably organized, but as the patient becomes drowsy, there are higher amplitude, paroxysmal bursts.  There is sharply contoured activity in the frontal regions bilaterally.  In addition, focal spikes are noted in the left temporal region.  These are accentuated by hyperventilation.  EKG artifact is picked up in the right temporal region and there are some subtle, broadly contoured right temporal sharp waves. Photic stimulation elicits a driving response.  In addition, around the time of photic stimulation, there are some discrete bifrontal sharp waves not clearly elicited by photic stimulation.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background disorganization.
+Intermittent, paroxysmal bursts of rhythmic slowing.
+Left anterior temporal sharp waves.
+Suspicious underlying bifrontal sharp waves.
+CLINICAL CORRELATION:  Previous EEGs were not available for comparison.  Although there are left temporal spikes, the overall pattern raises concerns about a more complex epilepsy then temporal lobe epilepsy syndrome.
+
+
+

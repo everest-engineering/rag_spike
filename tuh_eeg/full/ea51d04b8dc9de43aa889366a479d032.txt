@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 71-year-old woman presented with unresponsiveness, left-sided weakness, possible seizure, right intracerebral hemorrhage.  The patient had a subsequent code after presentation to ED for ICU: duration 10 minutes.
+MEDICATIONS:  Labetalol, phenytoin, metoprolol, fentanyl.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a sedated study.
+DESCRIPTION OF THE RECORD:  The EEG is comprised of a low voltage, continuous pattern with low voltage beta and smaller amounts of theta.  There are intermittent bursts of bilateral, frontally predominant delta, and intermittent attenuation of the background.  Shifting asymmetries were noted with slower arrhythmic delta noted from either hemisphere, particularly right posterior temporal.  Tactile stimulation of the patient produces eye movement and an increase in theta.
+Heart rate:  84 bpm.
+IMPRESSION:  This is an abnormal EEG due:
+Replacement of normal background with primarily a low voltage, slow pattern.
+Shifting, slowing.
+Subtle underlying area of focal slowing, right posterior temporal, not prominent.
+FIRDA
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a bihemispheric disturbance of cerebral function.  In addition, the bursts of frontally predominant.  Intermittent rhythmic delta support a metabolic process or diffuse.  If seizures are an important consideration, a more prolonged study may be obtained.
+
+
+

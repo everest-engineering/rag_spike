@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  A 31-year-old woman with fibromyalgia, lung nodule, glaucoma, pineal gland cyst, history of breast cancer, recurrent dizziness and syncope with previous video EEG monitoring which was unremarkable.
+
+MEDICATIONS:  Zofran, atropine, Motrin, and others.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically satisfactory record.
+
+DESCRIPTION OF RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm.  Mu activity was noted, but testing was not performed to confirm this.  Impedances were acceptable in the T1-T2 regions.
+
+There is a sharply contoured transient noted in this record at T4, seen primarily in hyperventilation.  Other features of hyperventilation included hypersynchronous rhythmic theta.  Following hyperventilation, the patient transitioned to stage II sleep with vertex waves, K complexes, spindles, and POSTS.
+
+Photic stimulation was performed at the end of the record producing vigorous driving and supraharmonic driving.
+
+Heart rate 50 BPM.
+
+IMPRESSION:  This is a technically somewhat challenging but potentially abnormal EEG due to:
+1. Sharply contoured activity noted at T4 seen primarily in drowsiness.
+
+CLINICAL CORRELATION:  Given the technical issues described above, a more prolonged EEG with attention to the right temporal region is suggested.
+
+
+

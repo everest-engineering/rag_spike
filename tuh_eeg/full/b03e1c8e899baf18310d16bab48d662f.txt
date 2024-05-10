@@ -1,0 +1,14 @@
+TYPE OF STUDY:  Portable EEG.
+ROOM NUMBER:  Inpatient.
+CLINICAL HISTORY:  This is a 57-year-old male status post fall with subsequent intracranial hemorrhage in the left temporal region and subdural hematoma in the right cerebral hemisphere.  The patient has ventriculostomy.  Past medical history significant for seizures and TBI.  Patient is not waking up with eye deviation to the left.
+MEDICATIONS:  The patient's medications include Lamictal, Keppra, and Versed.
+INTRODUCTION:  A digital portable EEG was performed at the bedside using the standard international 10/20 system of electrode placement in addition to 1-channel of EKG monitoring.  Hyperventilation and photic stimulation were not performed.  This tracing captures patients in a sedated state.
+DESCRIPTION OF THE RECORD:  The patient appears sedated and unresponsive during this recording.  The recording reveals diffuse slowing of background activity in delta and theta range.  There is intermittent sharp waves noted in right posterior quadrant at times rhythmic lasting for 7-10 seconds with spread to left occipital and parietal region.  There are right periodic lateralized epileptiform discharges noted during this recording.  Of note, his heart rate was 80-90 beats per minute.
+IMPRESSION:  This is an abnormal EEG because of:
+Generalized diffuse slowing of the background activity.
+Right epileptiform discharges as sharp waves at times rhythmic lasting 7-10 seconds with spread to left occipitotemporal and parietal regions.
+Right periodic lateralized epileptiform discharges.
+CLINICAL CORRELATION:  This is an abnormal EEG suggestive of toxic metabolic process resulting in overall slowing.  It could be due to postictal state or it might be medication induced.  Right plates are suggestive of right cerebral hemisphere, right cortical hyperexcitability, rhythmic sharp and wave activities, is suggestive of nonconvulsive status epilepticus due to cortical hyperexcitation.  Clinical correlation is recommended, long-term monitoring, and treatment of status epilepticus are recommended.
+
+
+

@@ -1,0 +1,40 @@
+History:	61 year old woman with change in mental status.
+Medications:	Phenytoin, vancomycin, versed drip, Ativan IVP, Trileptal, baclofen
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~21 hours from 12/24/2013 till 12/25/2013
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+The Gotman spike and seizure detection algorithm (Stellate) was used to screen the EEG in real
+time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta >theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Underriding fast activity is captured.  Periods of discontinuity are noted.  As the
+recording progresses, periods of discontinuity become more frequent.  This is related to increase in
+versed doses.  No normal sleep architecture is present.
+There is subtle paucity of faster frequencies over the right hemisphere.  Recurrent stereotyped
+clinical episodes are captured.  These are characterized by brief body jerk followed bilateral eye
+opening.  These events occur cyclically every 20-40 seconds and last 30-60 seconds.
+Electrographically, these episodes are associated with diffuse EMG artifact and diffuse frontally
+predominant slow rhythmic delta activity without clear spatial or temporal evolution.  Stereotyped
+nature of these events is concerning for seizures.  Events stop once Versed dose is increased.
+Summary of Findings:
+Focal slowing, polymorphic, right hemispheric, subtle
+Diffuse slowing, polymorphic, moderate-to-severe
+Event, frequent, suspected seizures secondary to stereotyped recurrent nature of the events
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG because of moderate-to-severe diffuse
+background slowing with subtle slowing over the right and stereotyped recurrent events, suspected
+to be ictal in etiology.  Diffuse slowing is indicative of moderate to-severe- diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Focal slowing indicates focal cerebral dysfunction,
+possibly structural in etiology.  Events resolve with increase in versed doses.  These findings were
+conveyed to the neurology consult team and the primary  team.
+
+
+

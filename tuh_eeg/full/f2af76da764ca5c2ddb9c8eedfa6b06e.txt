@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 43 year old male with multiple medical problems, acutely unresponsive.
+MEDICATIONS: Ativan
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated but somewhat responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates marked background slowing with a mixture of delta and theta.
+HR: 150 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing, more prominent at the close of the record.
+CLINICAL CORRELATION: No epileptiform features are observed. Clinical correlation given the severity of this patient's neurologic findings is suggested.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  53 year old right handed woman with an episode of transient global amnesia with left temporal headache and then an amnestic spell for 2 hours.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation is performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness the background EEG is well organized with 10 Hz 80 mV posterior dominant rhythm.  Drowsiness is characterized by anterior spread of the alpha rhythm and slowing of the alpha rhythm.
+Hyperventilation produces an increase in amplitude of the record. Photic stimulation produces a driving response with some supra harmonic driving, but no photoparoxysmal activity.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There are no epileptiform features identified. Previous normal EEG. This is the second EEG without epileptiform features.  If epilepsy is an important consideration, a follow up study may be considered, but it appears by the history provided that this patient is currently event free.
+
+
+

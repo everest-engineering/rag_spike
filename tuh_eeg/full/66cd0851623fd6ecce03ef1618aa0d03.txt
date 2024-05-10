@@ -1,0 +1,38 @@
+History:	75 year old man with a history of seizures since childhood, TBI, stroke, left sided
+craniotomy, now presents with progressive confusion.
+Medications:	Phenobarbital
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  Posterior
+dominant rhythm consists of low-to-moderate amplitude 7-8 Hz theta activity.  PDR is less well
+formed over the left. There is AP gradient, again, weaker over the left.  Diffuse excess theta activity
+is present.  There is paucity of faster frequencies and mild voltage attenuation over the left
+hemisphere, especially over the left temporal region.  Drowsiness and sleep is characterized by
+increase in the amount of polymorphic diffuse theta and delta activity and subtle vertex waves.
+Intermittent left anterior temporal low amplitude sharp waves with aftergoing slow waves are
+captured.  Maximal scalp negativity occurs over T1 lead.  Sharp waves are more prominent during
+drowsiness/ sleep.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead shows irregular
+heart rate up to 120 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, left hemispheric, mild-to-moderate, especially over the
+Attenuation, mild, left hemispheric
+Sharp waves, intermittent, left temporal, anterior
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL portable 22-minute awake and asleep EEG due to (1) mild diffuse slowing;
+(2) mild-to-moderate continuous left hemispheric focal slowing and mild attenuation, most
+pronounced over the temporal region and (3) intermittent left anterior temporal epileptiform
+discharges.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Continuous focal slowing is indicative of a focal structural lesion over the left and is
+consistent with known history of left hemispheric strokes.  There is an epileptogenic focus over the
+left anterior temporal region.  A single EKG lead shows irregular heart rate up to 120 bpm.
+
+
+
+
+

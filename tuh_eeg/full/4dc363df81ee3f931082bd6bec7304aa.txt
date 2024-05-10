@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 36-year-old woman with migraines and seizures.
+MEDICATIONS:  Keppra, Topamax, flecainide, cetirizine, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation was performed.  Hyperventilation was completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in central theta and beta.  Vertex waves were observed in brief stage 1 sleep, as were POSTs.
+Photic stimulation elicits a vigorous bilateral driving response.  Hyperventilation produces a small amount of theta as well as beta.
+Heart rate 66 BPM.
+IMPRESSION:  Normal EEG in wakefulness through stage 1 sleep.
+CLINICAL CORRELATION:  Previous EEGs were not available for comparison.  A normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, a repeat study, capturing one of her typical seizures may be of value.  This is the fourth normal EEG for this patient including a previous, sleep-deprived EEG.
+
+
+

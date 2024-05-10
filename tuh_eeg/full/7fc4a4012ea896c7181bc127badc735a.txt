@@ -1,0 +1,32 @@
+History:	53 year old woman who is in coma.  Patient had episodes concerning for seizures.
+Medications:	no sedation, no AEDs
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~16.5 hours from 11/3/2015 till 11/4/2015.
+Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists primarily of low amplitude monomorphic
+diffuse alpha activity with occasional brief bursts of diffuse polymorphic theta or delta activity seen.
+No normal sleep architecture is present.
+No electrographic seizures are captured.
+There is no clear change in the background activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Coma, alpha coma
+No reactivity
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous video ~16.5 hour EEG due to primarily alpha coma pattern and
+lack of clear background reactivity. These findings are etiologically nonspecific indicators of severe
+diffuse cerebral dysfunction.  No electrographic seizures are present.  These findings were conveyed
+to the neurology consult team.
+
+
+
+

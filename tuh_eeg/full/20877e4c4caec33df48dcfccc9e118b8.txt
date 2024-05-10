@@ -1,0 +1,21 @@
+MEDICATIONS:
+Lamictal and blood pressure medicines.
+HISTORY:
+A 38-year-old woman with a history of multiple aneurysm repairs as a young adult, previously seizure free until she stopped her seizure medication and had focal, Simple partial seizures.
+INTRODUCTION:
+Digital video EEG is performed in the lab using the standard 10/20 system of electrode placement with one-channel EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF RECORD:
+In wakefulness, there is an 8.5 Hz alpha rhythm. A prominent breech rhythm is noted in the left temporal region. In addition, there is some focal slowing noted in the left temporal region. This becomes much more prominent in relaxed wakefulness as she drifts off into drowsiness or in hyperventilation_ In the context of her breech rhythm, however, there
+are also T3 and T1 sharp waves.
+Hyperventilation accentuates both the focal slowing and the sharp waves. Other features of hyperventilation include some paroxysmal generalized slowing. Photic stimulation is performed while she is drifting off to sleep, but does elicit bilateral driving despite the ongoing focal slowing on the left.
+Heart rate 72 BPM
+IMPRESSION:
+Abnormal EEG due to:
+1. Left temporal focal slowing with a generous field of spread.
+2. Left mid and anterotemporal sharp waves.
+CLINICAL CORRELATION:
+These findings are similar to previous EEGs, but sharp waves were slightly more prominent today The focal slowing is congruent with the previous cranial surgery.
+
+
+
+

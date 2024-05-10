@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 55-year-old woman with 2 paroxysmal spells characterized by sharp pain in the right side of the tongue followed by right hemibody numbness.  Hypertension, hyperlipidemia.
+MEDICATIONS:  Aspirin, Lovenox, Lipitor, and lisinopril.
+INTRODUCTION:  A digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This is an awake and asleep record in a very drowsy patient.
+DESCRIPTION OF THE RECORD:  This is a very sleepy patient, but in wakefulness the EEG is well organized with a 10.5 Hz alpha rhythm and generous low voltage frontocentral beta.  Abundant stage II sleep is characterized by vertex waves, spindles, K-complexes, and POSTS.  New rhythm was identified but testing was not performed to confirm this.  Photic stimulation elicited vigorous driving with harmonic and super-harmonic driving.
+Heart rate 90 beats per minute.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,39 @@
+History:	42 year old woman with a history of focal seizures
+Medications:	Vimpat, Neurontin, Dilantin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+During maximal wakefulness, the posterior dominant rhythm consists of low-to-moderate amplitude
+10 Hz alpha activity that attenuates symmetrically with eye opening.  The PDR is less well formed
+over the left.  There is AP gradient with faster frequencies at lower amplitudes present anteriorly.
+AP gradient is less well formed over the left hemisphere.  Diffuse excess beta activity is present.
+Symmetrical vertex waves and sleep spindles are captured.
+Continuous polymorphic delta activity is present in the left posterior quadrant during wakefulness,
+increasing during drowsiness.  Additional, less prominent polymorphic theta and delta activity is
+present over the right posterior quadrant.  Intermittent low amplitude spikes with after going high
+amplitude slow waves are captured over the left anterior quadrant.  Maximal scalp negativity occurs
+over F7/T1 and T3 electrodes.  These discharges have a broad field and increase in frequency
+during  drowsiness/ sleep.  Occasional independent right anterior quadrant slow amplitude spikes
+with after going slow waves are noted.   Maximal scalp negativity occurs over Fp2 and F8 electrodes.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  EKG artifact is present.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left posterior, mild-to-moderate
+Focal slowing, polymorphic, intermittent, right posterior, mild-to-moderate
+Beta, excessive
+Spikes, intermittent, left anterior, increase during drowsiness and sleep
+Spikes, occasional, right anterior
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 28 minute EEG due to continuous mild-to-moderate left
+posterior quadrant focal slowing, less pronounced mild-to-moderate right posterior quadrant focal
+slowing, intermittent left anterior quadrant and independent occasional right anterior quadrant
+epileptiform discharges.  Focal slowing is indicative of a focal cerebral dysfunction, likely structural
+in etiology.  There are two independent potentially epileptogenic foci over the bilateral anterior
+quadrants.  No seizures are present.  Excessive beta activity could be secondary to the medication
+effect, such as benzodiazepines or barbiturates.  These findings were conveyed to the primary team
+and patient was placed on continuous EEG monitoring.
+

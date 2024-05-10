@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  65 year old right handed woman with a slip and fall episode with possible seizure. The patient was treated briefly with Tegretol.
+MEDICATIONS:  Folate Acid, Timolol, Lisinopril, Prednisone, Dorzolamide
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there are 9 Hz alpha rhythm. As the patient transitions to sleep there is some focal slowing in the right central temple region.
+Wicket activity is identified. Hyperventilation demonstrates shifting slowing with more theta on the left and a bit more arrhythmic activity on the right. Photic stimulation elicits brief bilateral driving. There are wicket sharp waves, which are considered a normal finding, identified on the right.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Shifting slowing but with a predominance on the right, outside of the limits of normal.
+CLINICAL CORRELATION:  If not previously done, a study with stage 2 sleep would be helpful to make sure there is no underlying epileptiform activity.
+__________________________
+
+
+

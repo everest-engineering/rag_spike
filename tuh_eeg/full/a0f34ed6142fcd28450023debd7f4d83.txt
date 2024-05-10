@@ -1,0 +1,17 @@
+History:	59 YR MALE ADM SDH S/P CRANIOTOMY.  WITH GTC SZ . PMHX: GSW HEAD, PRESENTS NOW WITH H/O OF GEN SZ. PT HAS RT CRANI. AND PRIOR EEG'S.
+Medications:	KEPPRA, DEPACON BOTH IV
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, drowsy, asleep
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates symmetrically with eye opening.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases during drowsiness. Continuous polymorphic delta activity is present in the right midtemporal region.  There is an asymmetry of beta activity, with higher amplitude and faster frequencies over the right hemisphere maximal central and temporal consistent with a breach rhythm.  No epileptiform Hyperventilation and photic stimulation are not performed.
+HR was 77 Irregular
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right temporal, mid, with an associated breach
+Diffuse slowing, polymorphic, continuous, mild diffuse, Excessive theta in wakefulness.
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the right midtemporal region with an associated breach.  This finding is indicative of a focal structural lesion in this region and consistent with the GSW and craniotomy. In addition there is mild  diffuse background slowing. This finding is indicative of mild diffuse cerebral dysfunction
+
+
+

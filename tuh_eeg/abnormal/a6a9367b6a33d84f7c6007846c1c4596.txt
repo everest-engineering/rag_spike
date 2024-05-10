@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  37 year old right handed female with anxiety spells, episodic daily dizziness.
+MEDICATIONS:  Valium.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz 40 microvolt posterior dominant rhythm. Rhythmic mid temporal theta is noted in the right or left temporal regions. Hyperventilation is performed early on in the record producing an increase in theta. Photic stimulation elicits bilateral driving.
+HR:    84 bpm
+IMPRESSION:   EEG is within normal limits.
+CLINICAL CORRELATION:  A normal variant, rhythmic and mid temporal theta of drowsiness was noted. No definitive epileptiform features were seen. If seizures are an
+important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

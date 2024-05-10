@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  A 31-year-old male with new onset seizures.  The patient __________ dozing off and woke up in an ambulance.  His wife told him he had a tonic clonic seizure.  He had been working many hours and was extremely stressed.  Positive family history of epilepsy.
+
+MEDICATIONS:  Keppra.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake and asleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm reaching 60 microvolts.  The patient seems to be quite drowsy with intermittent bursts of paroxysmal slowing and transition in and out of stage 1 sleep.  Hyperventilation was performed early in the record producing bursts of paroxysmal high amplitude 5 Hz activity some of which was notched, but without definitive spike and wave activity.  Following hyperventilation as the patient became drowsy additional rhythmic paroxysmal theta was noted, most of which was symmetric, but with slight asymmetry.
+
+Photic stimulation was performed as the patient was drifting off to sleep.  Again, notched frontal theta was noted, but in some cases the patient was clearly awake with alpha before and after the photic stimulation.  Following photic stimulation, the patient again had some bursts of rhythmic higher amplitude 5 Hz theta again without spike and wave activity.
+
+Heart rate 84 BPM.
+
+IMPRESSION:  This is an abnormal EEG due to:
+
+The presence of hypersynchronous higher amplitude theta during photic stimulation.
+
+CLINICAL CORRELATION:  There are many discharges that resemble a spike and wave discharge for this individual, but no definitive spike and wave discharges in hyperventilation or in photic stimulation.  However, the paroxysmal theta noted in photic stimulation afterwards may be seen in individuals with an inherited trait epilepsy or others with other clinical conditions which may be characterized by frontally predominant intermittent rhythmic theta.  The background is otherwise relatively unremarkable.
+
+To more fully capture epileptiform activity, a more prolonged study may be obtained.  Alternatively, a sleep deprived study may be obtained, but this individual did appear to be relatively drowsy.
+
+
+

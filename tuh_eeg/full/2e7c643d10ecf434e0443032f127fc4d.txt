@@ -1,0 +1,32 @@
+History:	55 YR OLD WOMAN HAD NEW ONSET SZ IN DEC 2012. GRAND MAL WITH
+CONVULSION, EYES ROLLING , FOAMING AT THE MOUTH,LAST SZ ABOUT
+ONE TO TWO WEEKS AGO, GRAND MAL. HTN, SZ, ANXIETY
+Medications:	None
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 60 hours from 09/30/2014 to 10/03/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically
+detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  Left temporal RMTD is
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy. Excessive beta activity could be secondary to the
+medication effect, such as benzodiazepines or barbiturates.
+
+
+

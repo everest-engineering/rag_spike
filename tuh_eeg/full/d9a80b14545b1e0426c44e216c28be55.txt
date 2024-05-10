@@ -1,0 +1,10 @@
+HISTORY:  A 49-year-old male with previous traumatic brain injury.  The patient had a right temporal lobectomy 10 years ago but continues to have seizures.  He reports that he has grand mal seizures 1-2 times a month with aura of leg twitching, then tonic-clonic activity.  In addition, he was referred for episodes, which he describes as black outs.  During the blackout spells, he awakens incarcerated finding that he has attacked someone with a machete.
+MEDICATIONS:  Lithium, carbamazepine, trazodone, bupropion, hydrochlorothiazide.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were deferred because of the patient's behavior.  This EEG captured wakefulness through sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates an asymmetry between the right and left.  There is a breach rhythm on the right with higher amplitude activity in that region and modest, continuous subtle underlying slowing with a mixture of theta and delta.  An alpha rhythm is identified, 9.5 Hz, a bit more continuous on the left compared to the right.  As the patient drifts off to sleep, the breach rhythm is a bit more prominent in the right central temporal and posterior temporal regions.  Other features of the breach include accentuation of beta.  The patient transitions in and out of sleep with occasional snore arousals.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to number 1 subtle, underlying continuous focal slowing in the right temporal region.
+CLINICAL CORRELATION:  The breach rhythm is an anticipated finding following craniotomy.  No definitive epileptiform features were noted.
+
+
+

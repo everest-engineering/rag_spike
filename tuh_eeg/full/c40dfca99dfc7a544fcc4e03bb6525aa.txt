@@ -1,0 +1,33 @@
+History:	76 year old man status post right basal ganglia, requiring craniotomy, now presents
+with episodes concerning for seizures.
+Medications:	Keppra
+Sedation:
+EEG Type:	Asleep only
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  There is right-to-left interhemispheric asymmetry with slower
+waveforms over the right.  The background over the left hemisphere consists of a mixture low-to-
+moderate amplitude theta and delta activity with underriding subtle faster frequencies and frequent
+EMG artifact.  The background over the right hemisphere consists of a mixture of polymorphic low
+amplitude (attenuated) delta>theta activity with delta activity most prominent over the right
+frontotemporal region.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.  There is subtle increase in underriding
+faster frequencies bilaterally when  visual, auditory, tactile, and noxious stimuli are applied.
+Patient moves his right leg throughout the recording.  A single EKG lead demonstrates frequent
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric, most pronounced over the
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL 32 -minute portable EEG due to moderate diffuse slowing and continuous
+focal moderate-to-severe right hemispheric slowing that is most pronounced over the right
+frontotemporal region. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which
+is etiologically nonspecific.  Continuous focal slowing is indicative of a focal structural lesion in this
+region.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis
+of epilepsy.  Patient moves his right leg throughout the recording.  A single EKG lead demonstrates
+frequent premature QRS complexes.
+
+
+
+
+

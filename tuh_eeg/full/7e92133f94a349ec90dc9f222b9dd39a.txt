@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This 55-year-old woman with recurrent pulmonary thrombosis, transferred from an outside hospital after recurrent syncope.
+MEDICATIONS:  Sevoflurane, isoflurane, midazolam, epinephrine and others.
+INTRODUCTION:  Intraoperative monitoring was performed using standard intraoperative montage with 1 channel of EKG.  Impedances were generally, but not consistently under 5 kilo-ohms.  This was a 5-hour and 45 minutes study with 75 minutes remote physician review with 1 on 1 remote review supervision.
+DESCRIPTION OF THE RECORD:  The initial section of the record, the EEG demonstrates a pharmacologic pattern which is relatively symmetric.  Anesthetic medications are adjusted between 8 a.m. and  9 a.m.  The patient is cooled at 9:33, there are a few bursts, which are asymmetric, but the overall burst suppression pattern is relatively symmetric.  Cooling is most prominent after 9:33 with burst suppression pattern, gradually transitioning to a more suppressed pattern.  The EEG waxes and wanes and there is a bit more continuous pattern noted at 10 a.m.  Cooling continues and anesthetic medications
+were adjusted.  The EEG is suppressed at 10:38 and the body temperature is 20.2 degrees.  The patient goes to bypass at 10:41.
+The rewarming begins intermittently first at 11:32 and then again at 12:15.  At 12:15, there is some low voltage artifact, but cerebral activity reappears at 12:28.  The patient transitions from the burst suppression pattern to a low voltage, more continuous pattern.  At the close of the recording at 1:46, there is a symmetric pharmacologic pattern, which in alpha and beta frequency activity.
+Heart rate 66 bpm.
+IMPRESSION:  EEG monitoring during the surgical procedure with hypothermia was remarkable for the achievement of a suppressed pattern, which resolved with re-warming.
+
+
+

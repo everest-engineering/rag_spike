@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  66 year old admitted for bilateral pneumonia on November 11, 2011, then found to have left sided weakness and acute stroke.  Cardiac arrest on December 26, 2011 with 37 minute resuscitation.  Septic shock.  Encephalopathy.
+MEDICATIONS:  Scopolamine, Albuterol, Imipenem, Heparin, Insulin, Pantoprazole, Rifampin, ASA, Colistimethate
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG..  The patient has a tracheostomy and is poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a relatively low voltage, slow featureless delta with theta pattern.  The theta frequency activity is 4.5 Hz.  There are rare triphasic waves noted.  There is also a slow, electronegative transient in the right posterior quadrant. Stimulation of the patient produces an attenuation of the background.  There is little variability.
+HR:    114 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow background.
+Absence of significant variability.
+An electrodecremental response to tactile stimulation.
+CLINICAL CORRELATION:  No epileptiform features were observed.  This EEG suggests a severe disturbance of cerebral function, particularly many days following
+cardiac arrest.  Additional clinical or neurophysiologic testing may be of value in aiding decision making.
+
+
+

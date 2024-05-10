@@ -1,0 +1,30 @@
+History:	64 yr old female hx of meningioma (right frontal), seizure, narcolepsy, headache,
+htn. SZ: eyes rolling up, + LOC, shaking of legs and arms for minutes. - tongue bite,
+- incont., 4 SZ in 2014. last SZ 10/2014
+Medications:	VENTOLIN, NORVASC, NAPROXEN, FLEXERIL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left frontotemporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  Hr was 90
+Summary of Findings:
+Focal slowing, polymorphic, frequent, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent focal slowing in the left
+frontotemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.  Please note the patient has a history of a right frontal meningioma.
+
+
+
+
+
+

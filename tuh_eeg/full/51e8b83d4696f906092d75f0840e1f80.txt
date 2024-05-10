@@ -1,0 +1,30 @@
+History:	49 year old woman with a history of reported seizures.  Patient suffered a stroke in
+Medications:	DEPAKOTE, TOPAMAX
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11-11.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent. Symmetric vertex waves appear.  Rhythmic midtemporal
+theta of drowsiness (RMTD) is noted.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.  Fragments of stage
+Occasional polymorphic theta and delta activity is present over the left anterior temporal region.
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with poor cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  HR is 84.
+Summary of Findings:
+Sleep, stage 2
+No epileptiform discharges
+Focal slowing, polymorphic, continuous, mild, left temporal, anterior
+Beta, excessive
+Interpretation:
+This is a mildly ABNORMAL awake and mostly asleep 41-minute EEG due to occasional mild left
+anterior temporal slowing. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  Evaluate for epilepsy
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a routine outpatient EEG of 20 minutes capturing wakefulness and sleep.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable EEG with impedances under 5 kilo ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 hertz alpha rhythm with a modest amount of low voltage, frontal central beta activity.  Drowsiness was characterized by slow rolling eye movements and an increase in theta.  Hyperventilation did not significantly activate the record.  Photic stimulation did not produce a significant driving response.
+Heart rate 0 BPM.
+IMPRESSION:  This is a normal, routine 20 minute EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

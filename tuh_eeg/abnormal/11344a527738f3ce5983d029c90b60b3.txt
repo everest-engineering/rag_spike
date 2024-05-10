@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  51 year old right handed woman with epilepsy, nonepileptic seizures, postictal confusion, COPD, CAD, diabetes, recent CABG on June 27, 2012, now with intermittent stiffening and repetitive movements, sternal wound infection, status post long-term video EEG monitoring.
+MEDICATIONS:  Haldol, Advair, Aspirin, Ciprofloxacin, Insulin, Celexa.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was uncomfortable, but attempted to be cooperative.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a 9 Hz alpha rhythm with a small amount of background theta.  Movement artifact is noted as the patient tries to become comfortable.  Drowsiness is characterized by an increase in theta.
+HR:    126 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+A small amount of background theta.
+CLINICAL CORRELATION:  This is one of many EEG's for this individual.  None of them have demonstrated epileptiform activity.  This patient's medications or a toxic or metabolic illness could account for the theta identified today.
+
+
+

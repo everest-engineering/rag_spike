@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 54-year-old male, status post duraplasty for subdural hematoma, admitted on 8th after 2 seizures, no clinical seizures noted since that time.
+MEDICATIONS:  Phenobarbital and Zosyn.
+INTRODUCTION:  Digital video EEG monitored anesthesia and spike detection was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, but responsive.  No clinical seizures were noted by the team and none were picked up by the seizure and spike detection software.  This is a technically acceptable EEG with a prominent breach rhythm and some muscle artifact.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a slow background with much of the record including a slow delta theta pattern.  A prominent breach rhythm is noted from the left frontal region.  Although, there is sharply contoured activity there, there are also some sharp waves noted at F3.  The EEG pattern waxes and wanes, some sections are richer in beta than others.
+At the close of the record, the patient is awake, responsive with eye movements and alerting, and a bit more faster frequency activity.
+Heart rate 116 bpm.
+IMPRESSION:  This last 24 hours of continuous video EEG monitoring was remarkable for,
+A slow pattern with generous beta.
+Focal slowing from the left hemisphere, particularly left frontocentral region.
+Despite the breach rhythm, there are some sharp waves noted at F3.
+CLINICAL CORRELATION:  No seizures were noted in this last day of EEG recording.  The patient was now responsive, although intubated and that he has not had seizures for 3 days, EEG monitoring was discontinued on the 11th.
+
+
+

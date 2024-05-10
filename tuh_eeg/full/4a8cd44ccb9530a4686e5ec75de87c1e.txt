@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  46 year old right handed male with recent onset of epilepsy with 2 seizures in July and May.  Migraine headaches, psychiatric disease, confusing historian.  Evaluate for epilepsy.
+MEDICATIONS:  Topamax, Gabapentin, Seroquel.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta and scant background theta.  Occasional Lambda waves are noted in the posterior regions.  Hyperventilation does not activate the record.  Stage 2 sleep is characterized by vertex placed K complexes, spindles and post just follows occasional snore arousals.  Photic stimulation elicits a bilateral driving response.  Heart rate is 78 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features are identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

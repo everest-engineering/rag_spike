@@ -1,0 +1,36 @@
+AGE: 28 y.o.
+SEX: female
+DATE OF STUDY: 12/17/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 40-60 min, awake and asleep EEG #: 15-1825
+HISTORY:
+28 y.o. female with a history of childhood epilepsy referred for routine EEG for characterization of seizures.	The patient reported a technologist and she has not been taking her medication regularly and had a seizure 2 weeks ago
+MEDICATIONS:
+Current Outpatient Prescriptions:
+folic acid (FOLVITE) 1 mg tablet, Take 1 mg by mouth daily. LEVONORGESTREL (MIRENA IU), by Intrauterine route. levetiracetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily.
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+Frontally predominant, 3-5 Hz spike and wave activity is identified in wakefulness, drowsiness and stage II sleep.	It is not particularly accentuated by hyperventilation or by photic stimulation.	Bursts are typically less than 3 seconds in duration.	No impairment in response time was noted with a 2 second burst
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Mild increase in amplitude and slowing Photic Stimulation: Stepped photic stimulation from 1-21
+flashes per second (fps) induces symmetric photic driving, which is a normal finding. Isolated spike and wave activity was seen, as noted in the remainder of the EEG
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 90 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is abnormal 40 minute routine EEG.
+#1 frontally predominant 3-5 Hz spike and wave activity CLINICAL CORRELATION:
+These findings are similar to the previous study.	The EEG suggests a generalized or genetic cause for epilepsy.	No clinical events were recorded.
+This EEG does support the diagnosis of epilepsy.
+
+
+

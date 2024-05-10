@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 39-year-old male with episodes of loss of consciousness since 2011, sudden subconsciousness lasting less than a minute with right arm and leg shaking, but without incontinence.
+MEDICATIONS:  Prilosec, albuterol, Norvasc, lisinopril.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and asleep record.  Impedances were acceptable.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by slow rolling eye movements with an increase in beta.  Vertex waves, K complexes, spindles and POSTS were noted in stage 2 sleep.  Hyperventilation did not significantly activate the record.  Photic stimulation elicited a driving response despite the fact that the patient was falling asleep.  Heart rate 72 BPM.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

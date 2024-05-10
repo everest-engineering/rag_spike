@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 51 year old right handed woman with new-onset seizures as of February 15, 2011.
+MEDICATIONS: Celexa, Trazodone, Aspirin, Clonazepam
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD. In wakefulness, there is a 10.5 Hz, 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by an increase in background theta. As the patient transitions in and out of drowsiness, lambda activity is observed. Hyperventilation is performed producing an increase in amplitude of the background. The alpha rhythm is higher amplitude and has a slightly more anterior field of spread on the right compared to the left. During hyperventilation, the patient reports that she had a "funny taste." No epileptiform features are noted during hyperventilation. Drowsiness is characterized by an increase in background theta. Bela also increases in the drowsy state. Scant driving is observed during photic stimulation.
+HR: 78 to 90 bpm
+IMPRESSION: EEG is within normal limits.
+CLINICAL CORRELATION: There were no epileptiform features and the asymmetries identified in this record can be seen in normals. Consequently, a follow-up study capturing deeper stages of sleep is suggested in search of epileptiform activity
+
+
+

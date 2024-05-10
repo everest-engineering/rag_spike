@@ -1,0 +1,42 @@
+History:	48 year old woman with history of strokes and seizures, now presents with change in
+mental status and increase in seizure frequency.
+Medications:	Dilantin, Tegretol
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours hours from ~7 pm on 12/17/23013 till  ~
+10 am on 12/18/2013.   Nursing-initiated event buttons were correlated with clinical behavior.
+Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures
+and changes in EEG patterns.   All automatically detected events were reviewed in detail by the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Diffuse, frontally maximal sharp waves with triphasic morphology are occasionally
+present.  These waveforms demonstrate an anterior to posterior phase lag.  No normal sleep
+architecture is present but periods of quiescence are captured and are characterized by absence of
+EMG artifact, periods of discontinuity and increase in diffuse delta activity.
+Subtle shifting paucity of faster frequencies is noted over the hemispheres, right>left.  Right anterior
+temporal sharp waves are occasionally observed (example 9:09 PM).  Maximal scalp negativity is
+over F8/T4 electrodes.  No clinical or electrographic seizures were present.  Patient has episodes of
+left arm tonic posturing.  These occur with stimulation (as seen at ~3 AM) and are not associated
+Summary of Findings:
+Sharp waves, occasional, right temporal, anterior
+No electrographic seizures
+Event, occasional, left arm tonic posturing, occurs with stimulation
+Focal slowing, polymorphic, intermittent, shifting paucity of faster frequencies over the
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL 15-hour continuous video EEG because of moderate diffuse slowing,
+shifting bi-hemispheric slowing and occasional right anterior temporal epileptiform discharges.
+Diffuse slowing indicates moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+Focal slowing indicates focal cerebral dysfunction, and in this patient is consistent with a history of
+bilateral cortical and subcortical strokes.  Right anterior temporal region carries an epileptogenic
+potential.  Episodes of left arm posturing occurred with stimulation and did not have an underlying with ictal activity.
+ictal correlate.  No electrographic seizures are present.  These findings were conveyed to the
+primary team.
+
+

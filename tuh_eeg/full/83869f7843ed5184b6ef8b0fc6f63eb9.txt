@@ -1,0 +1,17 @@
+MEDICATIONS:  None.
+HISTORY:  A 37-year-old right-handed male, who developed epilepsy 17 years ago, seizure free for the last 10 years.  Phenytoin was discontinued.  Patient had a breakthrough tonic-clonic seizure 1 week ago with postictal confusion.  Seizure preceded by an episode of lightheadedness.
+INTRODUCTION:  A 22-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The awake EEG is remarkable for a 9.7 Hz alpha rhythm with generous frontal central beta and a small amount of theta.  As the patient becomes drowsy, there is prominent frontal theta noted in the record already rich in theta.  Some of this is notched particularly in the left frontal region.
+Deeper stages of sleep were not sustained.
+Hyperventilation was performed with good effort, producing an increase in theta again with a somewhat focal response with frontally predominant notched theta from the left.  Some of this was present bilaterally, but again with asymmetry.  Photic stimulation elicited vigorous bilateral driving.  Immediately after hyperventilation, the patient transitioned briefly into stage 2 sleep with vertex waves and spindles.  Sleep however was brief in this record.
+Heart rate:  50-60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Prominent excess beta.
+Prominent excess theta.
+Paroxysmal bursts of theta with a questionable underlying left frontal sharp waves.
+CLINICAL CORRELATION:  There are no previous EEGs available for comparison.  Given the generous beta and theta, careful review of this patient's medication history is important to make sure that there are no other underlying medications that might contribute to this pattern.  There is suspicious underlying paroxysmal theta with sharp wave.  A more prolonged study may be helpful to characterize a potential underlying epileptic focus.
+
+
+
+
+

@@ -1,0 +1,14 @@
+DATE OF STUDY:  09/27-09/28.
+CLINICAL HISTORY:  post traumatic epilepsy following CHI many years ago
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has no clinical events during this section of the record.  This section captures wakefulness through sleep.  Medications were reduced on the 27th through the 28th.
+DESCRIPTION OF RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  The majority of the record is symmetric, but there are portions of the record in wakefulness and the more significant portions in sleep in which the patient has rhythmic slowing from the right hemisphere, maximum in the temporal regions.  As this section of the recording continues, there is sharply contoured slowing or sharply contoured delta noted in the right mid temporal region.
+In sleep, at 5 a.m., there is a single right anterior temporal spike noted.  This can be differentiated from EKG artifact.
+Heart rate 68 bpm.
+IMPRESSION:  This section of continuous video EEG monitoring was remarkable for:
+Right temporal focal slowing.
+Sharply contoured slowing.
+A single right temporal spike.
+CLINICAL CORRELATION:  A single spike typically must be considered artifactual, however, it occurred in the same region as the focal slowing and sharply contoured slowing, and therefore is likely a valid interictal epileptiform discharge.
+
+
+

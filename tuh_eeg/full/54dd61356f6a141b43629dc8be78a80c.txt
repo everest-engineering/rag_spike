@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  64 year old right handed male with epilepsy, laryngeal carcinoma, past history of epilepsy and alcohol withdrawal seizures since 2008.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not possible, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz 40 microvolt alpha rhythm with a small amount of low-voltage, frontocentral beta.  Features of drowsiness include anterior spread of the alpha rhythm.  Photic stimulation elicits harmonic and supra-harmonic driving.
+HR:    78 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:  This is the third normal EEG for this adult.  It did not, however, capture sleep.  If additional information is needed, consideration for a sleep-deprived record is suggested.
+
+
+

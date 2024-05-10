@@ -1,0 +1,43 @@
+AGE: 63 y.o.
+SEX: male
+DATE OF STUDY: 11/03/2015 RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 40-60 min, awake and asleep EEG #: 15-1625
+HISTORY:
+63 y.o. male with a history of suspected localization related epilepsy referred for routine EEG for characterization of seizures. Has been admitted for rigors, shortness of breath, and an episode of lethargy with moving left side less while in emergency room.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+sodium bicarbonate 650 mg tablet, Take 1 tablet by mouth 2 times daily.
+Ferrous Sulfate 325 mg Take 1 tablet by mouth
+(65 mg iron) Capsule, daily.
+Sustained Release,
+atorvastatin (LIPITOR) Allopurinol (ZYLOPRIM) daily.
+20 mg tablet, Take 20 mg by mouth daily. 300 mg tablet, Take 1 tablet by mouth
+Oxcarbazepine (TRILEPTAL) 300 mg tablet, Take 1 tablet by mouth 2 times daily.
+aspirin 81 mg EC tablet, 325 mg.
+docusate sodium (COLACE) 100 mg capsule, Take 100 mg by mouth 2 times daily.
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The majority of the study captures sleep.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+During brief periods of arousal, the waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.	Wakefulness is characterized by
+a symmetric and reactive posterior dominant rhythm (PDR) of at least 8.5 Hz, which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and asleep 1-hour EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal drowsy and asleep 1-hour EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+

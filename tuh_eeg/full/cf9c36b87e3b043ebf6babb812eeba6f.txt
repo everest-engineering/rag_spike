@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  29 year old right handed female with 1-year history of involuntary movements of the right arm for the last year.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was able to participate in hyperventilation and photic stimulation throughout the EEG despite the fact that she had continuous almost dancing-like movements of her hand as if she was listening to music.  The patient had oily hair which contributed to technical issues during this EEG.
+DESCRIPTION OF THE RECORD:  Despite some muscle and movement artifact, there was a 10 Hz alpha rhythm which was symmetric and reactive to eye opening.  There was a small amount of low voltage, frontocentral beta.  Chew and other muscle artifacts were noted. Hyperventilation did not activate the record.  Photic stimulation was partially obscured by muscle and movement.  Photic stimulation did not activate the record.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  This patient's involuntary movements were not associated with an EEG change.
+
+
+

@@ -1,0 +1,31 @@
+AGE: 57 y .o .
+SEX: male
+START DATE OF STUDY: 12/07/2015 at 17:32 END DATE OF STUDY: 12/8/2015 at 07:57
+RECORDING ENVIRONMENT : ICU
+EEG TYPE: long term monitoring EEG #: 15-345
+HISTORY:
+57 y.o. male with a history of hepatitis C and renal transplant who subsequently suffered a cardiac arrest in the setting of hyperkalemia, with 20 min to ROSC, who is now referred for EEG to evaluate episodes of facial twitching.
+MEDICATIONS: undergoing Depakote load SEDATION: None
+TECHNIQUE :
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system . This was a technically satisfactory record and included a single channel of EKG and a single EMG channel, attached to
+the left side of the patient 's chin.
+DAY 1 (12/7 I 2015, 17:32 - 12I 8I2015, 07:57) BACKGROUND :
+The waking background is suppressed, with superimposed low
+amplitude high frequency activity, likely muscle artifact. There is no clear reactivity, variability, or state change. EPILEPTIFORM ACTIVITY:
+None EVENTS:
+CLINICAL: Frequent episodes of mouth and eye movements are noted
+by the technician. These are not well captured on the camera. EEG: There is no underlying seizure. These movements correlate with low amplitude rhythmic 2.5 Hz artifact. The artifact lasts
+-10-20 seconds and recur every -20-40 seconds. Its onset and offset on EEG is noted by the tech to correlate clinically with the above movements.
+CLINICAL: Occasional episodes of left leg twitching are noted by the tech. These are seen on camera as nonrhythmical jerking movements of the leg and foot, lasting -1-2 seconds.
+EEG: These movements correlate with a burst of sharply contoured alpha, theta, and delta activity, lasting -1-2 seconds, occurring every 10-20 seconds in runs of 2. This activity begins at the exact time the movements begin on camera. Several minutes into the study, the technician attaches an EMG channel, connected to the left side of the patient' s chin. The onset of EEG activity coincides with the onset of EMG activity. There is no underlying seizure on EEG.
+*As the study progresses, the sharply contoured bursts on EEG become more fragmented and are no longer synchronous between hemispheres. They still retain features of movement artifact, such as double phase reversals. There is no obvious correlation on video camera.
+IMPRESSION:
+This is an abnormal long term video EEG due to:
+Severe diffuse slowing, with suppressed rhythms
+Episodes of mouth and eye movements, which are not associated with seizure activity on EEG
+Episodes of left leg jerking, which are not associated with seizure activity on EEG
+CLINICAL CORRELATION:
+These findings demonstrate severe diffuse cerebral dysfunction. The episodes described above are not seizures.
+
+
+

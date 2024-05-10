@@ -1,0 +1,17 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+47 YR FEMALE WITH NEW ONSET SZ. PT HAS HAD 2 SZS. 6/14 AND 12114. NO MEMORY, LOC, GTC, URINARY INCONT. POST CONFUSION. PMHX: CROHNS OS, COLOSTOMY BAG SKIN CA (98)
+Tramadol
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes , awake, hyperventilation,  photic
+Description:
+Waking background is character   by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness , the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  Hr was 66
+Summary of Findings:
+No epileptiform discharges
+
+
+
+
+

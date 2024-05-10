@@ -1,0 +1,30 @@
+History:	55 YR OLD MALE PRESENTS WITH PMHX SIG FOR HBV, HCV, DM,
+CIRRHOSIS, ETOH ABUSE W/ WITHDRAWAL SZ, GSW TO THIGH, STAB
+WOUNDS. ADMIT FOR PRE-SYNCOPE/ SYNCOPE, PT DENIES LOC.
+Medications:	KEPPRA, ATIVAN, INSULIN
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, asleep,
+hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse 7Hz theta activity is present throughout the recording and
+increases during drowsiness.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+There is independent bitemporal focal slowing, greater on the left side (F7-T1).  No epileptiform
+discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce any effect.  HR is 90 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Focal slowing, polymorphic, occasional, bilateral (L>R) temporal, independent
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing.  These
+findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.  intermittent
+focal slowing in the bitemporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.  The lack of epileptiform discharges on a routine EEG does not
+rule out a clinical diagnosis of epilepsy.
+
+

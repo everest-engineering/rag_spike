@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 49-year-old woman with syncopal spell.
+MEDICATIONS:  Lisinopril and Lamictal.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.5 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Features of drowsiness include slowing of the alpha rhythm and temporal wicket.  Abundant stage 2 sleep included vertex waves, K complexes, spindles, and posts.
+Photic stimulation elicited scant driving.
+Hyperventilation produces an increase in amplitude of the background.  Hyper synchronous rhythmic slowing is noted, but no definitive sharp waves were seen.
+Heart rate 78 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  Multiple normal variants were noted including wicket and Mu.  No epileptiform features were identified.  If epilepsy is an important consideration, a repeat tracing may be of value.
+
+
+

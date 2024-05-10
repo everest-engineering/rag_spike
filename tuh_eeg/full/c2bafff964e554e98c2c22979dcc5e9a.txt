@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  A 52-year-old male with posttraumatic epilepsy since 1982, 4 years seizure-free.
+MEDICATIONS:  Carbamazepine, Celexa.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and asleep record.  This was a technically acceptable record with most impedances below 5 kilo-ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  As the patient begins, the patient is in stage 2 sleep with vertex waves, K complexes, spindles, and posts.  Notable in the record is nearly continuous focal slowing with the presence of a breach rhythm.  In addition, high amplitude sharp waves are noted in the record including left frontocentral and frontotemporal.  The patient quickly arouses with a low voltage alpha rhythm and then drifts off to stage 2 sleep, again with some bursts of paroxysmal rhythmic slowing from the left hemisphere and sharp waves.
+Focal slowing:  Left hemisphere, present wakefulness through stage 2 sleep.
+Epileptiform discharges:  Left hemisphere, particularly left frontal.
+Clinical seizures:  None.
+Electrographic seizures/BIRDS:  A burst of theta frequency activity  with left frontal sharp waves was noted as the patient transitioned to sleep of 11 seconds duration following hyperventilation.
+There is a burst of theta frequency activity with sharp waves mixed in noted as the patient drifts into sleep after the 17 hertz photic stimulus of 4 seconds duration.
+Hyperventilation did not significantly activate the record.  Photic stimulation did elicit bilateral driving.
+Heart rate 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Nearly continuous focal slowing from the left hemisphere in the context of a breach rhythm.
+Left hemispheric sharp waves, particularly left frontal more than left temporal.
+Likely 2 brief electrographic bursts of 4-11 seconds in duration noted in the transition to sleep.
+CLINICAL CORRELATION:  This EEG supports a focal or structural process on the left _congruent with history of traumatic brain injury.  In the context of a breach rhythm, the epileptiform activity remains quite vigorous and there are 2 brief ictal discharges in drowsiness suggesting ongoing epileptic potential.
+
+
+

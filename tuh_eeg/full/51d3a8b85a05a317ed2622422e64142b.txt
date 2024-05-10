@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  42 year old left handed gentleman who had a confusional state lasting 2 hours after cleaning out the garage.  Past history of asthma, renal and pancreatic cancer.
+MEDICATIONS:  Prograf, Lorazepam, Vasotec, Rapamune
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.   This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm.  There is occasional isolated posteriorly predominant 4-5 Hz activity.  Features of drowsiness included attenuation of the alpha rhythm and the appearance of occasional vertex waves or posts. Hyperventilation produces bilateral rhythmic slowing.  Photic stimulation is performed while the patient is falling off to sleep and does not activate the record.
+HR:    78 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Occasional bursts of bilateral background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The intermittent background slowing is a non-specific finding which can be seen in a toxic or metabolic encephalopathy.  Correlation with imaging and medications is suggested.
+
+
+

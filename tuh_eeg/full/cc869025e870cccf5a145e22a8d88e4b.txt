@@ -1,0 +1,34 @@
+History:	66 year old woman with a history of seizures, dementia, prior strokes, now is
+admitted after a convulsion.  Patient's mental status remains altered.
+Medications:	Lovenox, Protonix, Levothroid, Tegretol
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+There is no PDR and no AP gradient.  With stimulation, polymorphic theta and delta activity
+appears.  The background is frequently discontinuous.  No normal sleep architecture is present but
+periods of quiescence are observed.
+Frequent polymorphic delta activity is noted over the bifrontal regions.  This activity is at times
+rhythmic but without clear spacial or temporal evolution.  Frequent bifrontal spikes are noted.
+Maximal scalp negativity occurs over Fp1, Fp2, F7 and F8 electrodes.  At times, these discharges
+become rhythmic (bi-PLEDs) at ~0.75 Hz (examples at ~10:54:24 am and at the end of the
+Bradycardia with heart rate <60 bpm is noted on a single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, frequent, moderate, bilateral frontal
+Discontinuous background, frequent
+Spikes, frequent, bilateral frontal
+BiPLEDs (bilateral periodic lateralized epileptiform discharges, intermittent, bilateral frontal,
+No electrographic seizures
+Interpretation:
+This is a very abnormal 23-minute EEG due to moderate diffuse slowing, focal bifrontal slowing
+and frequent bifrontal epileptiform discharges that at times become rhythmic (bi-PLEDs) without
+clear evolution into ictal runs. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction,
+which is etiologically nonspecific.  Continuous focal slowing and frequent epileptiform discharges
+in the bifrontal regions are indicative of a potentially epileptogenic focal structural lesion in the bi-
+frontal region.  No electrographic seizures are present.  These findings were conveyed to the
+
+
+
+

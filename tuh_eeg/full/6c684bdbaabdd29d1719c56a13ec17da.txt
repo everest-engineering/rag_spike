@@ -1,0 +1,21 @@
+History:	49 year old man who presents after a seizure.  Patient remains confused.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, lethargic
+Description:
+There is no PDR and no AP gradient.  During arousals the background consists of very low
+amplitude excessive fast activity and bifrontal EMG.  Patient is asleep throughout the majority of the
+recording with fragmented K-complexes captured.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates
+premature QRS complexes.
+Summary of Findings:
+Beta, excessive
+Interpretation:
+This is an ABNORMAL awake and mostly asleep 20 minute EEG due to lack of normal background
+organization.  This finding is indicative of diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+

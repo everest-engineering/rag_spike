@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  Right-handed male, evaluate for epilepsy. SEIZURE FREE SINCE 2013 .
+MEDICATIONS:  LEV, CBZ
+INTRODUCTION:  20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable record,
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is well organized with an 8 hertz, 40 microvolt posterior dominant rhythm and frequent eye blink.  Lateral rectus eye movement artifact was noted.
+Hyperventilation did not activate the record.  Photic stimulation elicited scant driving.
+Heart rate:  66 bpm.
+IMPRESSION:  Mildly abnormal EEG due to:
+mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A mildly slow alpha rhythm can be seen in the context of a mild, diffuse disturbance of cerebral function, or even exposure to medications in recent days or weeks that can produce this phenomenon.  If epilepsy is an important consideration, a follow up study can be of value.
+
+
+
+
+

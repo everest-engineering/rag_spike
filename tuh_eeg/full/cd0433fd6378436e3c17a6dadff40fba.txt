@@ -1,0 +1,19 @@
+
+CLINICAL HISTORY: 78 year old right handed gentleman with prostate cancer, headaches, staring spell with first ever complex partial seizure with right arm jerking and mumbling.
+
+MEDICATIONS: Keppra, ASA
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed but hyperventilation was not performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness the e is a 9.8 Hz alpha rhythm of 50 microvolts. There is intermittent rhythmic mixed theta, delta in the temporal regions but from the left there are some sustained bursts of subtle underlying temporal slowing and a handful of T3 sharp waves. Photic stimulation elicits scant driving, a bit more prominent from the right. In addition, during photic stimulation the focal slowing and the left mid temporal sharp waves are apparent The patient starts to transition into stage II sleep during photic stimulation.
+
+HR: 60 bpm with occasional PVCs.
+
+IMPRESSION: Abnormal EEG for an adult of this age due to:
+1. Left anterior temporal sharp waves and rare spikes with complexes, maximum at T3/F7.
+2. Rhythmic and arrhythmic left temporal focal delta.
+
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for epilepsy.
+
+
+

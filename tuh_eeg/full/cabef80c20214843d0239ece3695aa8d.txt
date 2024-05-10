@@ -1,0 +1,11 @@
+CLINICAL HISTORY: Metastatic lung cancer with multiple CNS metastasis and change in mental status.
+MEDICATIONS: Keppra, labetalol, oxycodone, and others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is moving about, but is described as confused.
+DESCRIPTION OF THE RECORD: Despite a significant amount of muscle and movement artifact, the overall background is slow with rhythmic theta. There is posteriorly predominantly slowing. Some sections of the record demonstrate significantly more 9 Hz activity with an increase in amplitude on the left. The later sections of the record demonstrate more faster frequency activity than the initial sections. In the beginning of the record the patient seems to be a bit more agitated with head rocking and more theta.
+Heart rate: 126 BPM.
+IMPRESSION: Abnormal EEG due to: Generalized background slowing more prominent in the initial sections of the record.
+CLINICAL CORRELATION: This patient's agitation did not have an EEG signature.
+Because of the movement and motion artifact, focal features may be under recognized.
+
+
+

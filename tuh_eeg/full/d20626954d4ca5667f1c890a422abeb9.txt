@@ -1,0 +1,15 @@
+MEDICATIONS:  Keppra.
+HISTORY:  A 52-year-old with Down syndrome and new onset tonic/clonic seizure in December 2012.  Seizure with loss of consciousness and incontinence.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is 7 Hz alpha rhythm in a pattern with generous beta.  In apparent wakefulness, intermittent rhythmic theta was noted.  In addition to this theta, there are intermittent burst of somewhat irregular slowing noted bilaterally.
+The patient transitioned in and out of sleep with vertex waves in snore arousals.
+Photic stimulation was performed as the patient was drifting off to sleep and did produce a driving response at faster flash frequencies.
+Hyperventilation did not activate the record.
+Heart rate 66 bpm.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Slowing of the alpha rhythm.
+Some unusual bursts of shifting slowing in sleep particularly in the central regions.
+CLINICAL CORRELATIONS:  This patient seems to awaken frequently from sleep or has a fair amount of muscle artifact in sleep.  A more prolonged sleep record maybe helpful to search for epileptiform activity in this middle-aged adult with Down syndrome.  There are no previous EEGs available for comparison in term of the slow alpha rhythm for an adult of this age.
+
+
+

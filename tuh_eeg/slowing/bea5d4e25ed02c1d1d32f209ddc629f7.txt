@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  52 year old right handed woman with a 2-year history of epilepsy.  Last seizure August 20, 2011.  Seizures characterized by an aura of a funny taste in her mouth followed by tonic clonic seizures.  Sleepiness.  Depression.  Alcohol abuse.
+MEDICATIONS:  Keppra, Seroquel
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a well-organized pattern on the left with an alpha rhythm of 10 Hz.  On the right, the alpha rhythm is sometimes disrupted.  In the right posterior region, there is a mixture of 2.5 and 4 Hz beta activity.  This is most prominent on the right but is really seen throughout the right central temporal and frontotemporal regions.  Discrete sharp waves and spikes are noted in the right hemisphere.  They have some variability and may be O2 maximum, T6 maximum, or they may start at O2 and transition to T4.  They may occur as couplets.  Drowsiness seems to accentuate the epileptiform activity in the right occipital region.  Hyperventilation also seemed to accentuate both the focal slowing and sharp waves.  Other features of drowsiness include an increase in beta.  Deeper stages of sleep are not sustained.  Photic stimulation elicits bilateral driving.
+HR:    102 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the right hemisphere particularly posteriorly as well as central temporally.
+Sharp waves in the right hemisphere with variable maximum most prominently O2 but also T6 and T4.
+CLINICAL CORRELATION:  This is the fifth EEG for this individual.  Only one of them has been normal and all other EEGs demonstrate epileptiform activity in the same area.  If seizures are not controlled, additional monitoring and intervention may be of value.
+
+
+

@@ -1,0 +1,30 @@
+History:	48 YR FEMALE WITH PMHX: TUBEROUS SCLEROSIS COMP., AND SEIZURES.
+WHICH HAVE SLOWED IN LAST DECADE. AND CVA WITH EXPRESSIVE
+APHASIA.    NEURO EVAL.
+Medications:	DILANTIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Very frequent polymorphic and at times short (1.5 seconds) prominent monomorphic delta activity is
+present in the left central and frontal regions during wakefulness, increasing during drowsiness.
+Occasional focal spikes and sharp waves are present in the left central and frontal region, with
+phase reversal and amplitude maximum at F3 and C3, at times F7.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 60
+Summary of Findings:
+Sharp waves, frequent, left frontal, and central
+Focal slowing, polymorphic, frequent, left frontal, and central
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of focal sharp waves and slowing in the left
+frontal and central region. This is supportive of an irritable potentially epileptogenic structural
+lesion in that region.  No clinical or electrographic seizures are present.
+
+
+
+

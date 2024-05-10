@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 70 year old right handed woman with left carotid stenosis.
+MEDICATIONS: Sevoflurane, Propofol, Fentanyl, Epinephrine, Phenylephrine, Vecuronium, Nitroglycerin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of placement with 1 channel EKG. Standard CEA montage is employed. This EEG begins at 10:12 and concludes at 12:44. This is a 2.5 hour EEG.
+DESCRIPTION OF THE RECORD: As the tracing begins the patient has received pharmacotherapy. The background demonstrates bilateral slowing. The preclamp record demonstrates intermittently discontinuous pattern. Propofol was given at 11:10. The carotid is clamped at 11:20. Just prior to this Fentanyl is provided. The EEG demonstrates intermittent discontinuity prior to placement of clamp. No significant focal features are observed following placement of the clamp.
+HR: 66 bpm
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this carotid endarterectomy was limited due to the fact that an intermittently discontinuous pattern existed throughout much of the record, particularly around the time of clamp, but there were no significant focal features observed.
+
+
+

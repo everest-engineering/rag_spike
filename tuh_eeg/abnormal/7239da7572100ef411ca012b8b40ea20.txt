@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 50-year-old woman with recurrent syncope, patient found on the floor, amnestic for event.
+MEDICATIONS:  Heparin, metoprolol, Ativan.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite drowsy and the EEG opened in stage II sleep.
+TECHNICAL NOTES:  The patient had a very tender scalp, had difficulty tolerating the test, and optimal impedances could not be obtained, but technical quality was otherwise satisfactory.
+DESCRIPTION OF THE RECORD:  In stage II sleep, there are vertex waves, K-complexes, spindles, and posts.  The technologist alerts the patient for hyperventilation, producing an alpha rhythm of 9 Hz.  Hyperventilation does not otherwise activate the record and the patient drifts in and out of stage II sleep with multiple brief arousals.
+Photic stimulation elicited a driving response despite the fact that the patient was drifting off to sleep.
+Heart rate: 60 beats per minute.
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing capturing more extensive sleep may be of value.
+
+
+

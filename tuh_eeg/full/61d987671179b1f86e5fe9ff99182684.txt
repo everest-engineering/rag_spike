@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  92 year old right handed woman with epilepsy since her youth, post traumatic epilepsy after she was thrown from a horse. Seizure last Sunday characterized by confusion.
+MEDICATIONS:  Norvasc, Keppra, HCTZ, Diovan, Roxicet, Ditropan.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage, but there is a 9.7 hertz alpha rhythm. There is background theta noted. It is a little higher amplitude on the left than the right. There is sometimes some sharp wave contoured slowing in the right compared to the left. Features of drowsiness include the appearance of vertex waves. Shifting slowing is noted in sleep. Photic stimulation does elicit a driving response.
+HR:    66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+A small amount of background slowing with excess theta.
+Amplitude asymmetry with higher amplitude slowing on the left compared to the right.
+Occasional shifting slowing.
+CLINICAL CORRELATION:  This findings are nonspecific and can be seen in a disturbance of cerebral function due to many different causes including underlying cerebrovascular disease. Although the amplitude is a little higher on the left, correlation with imaging may be helpful in regards to potential breach rhythm following head trauma.
+
+
+

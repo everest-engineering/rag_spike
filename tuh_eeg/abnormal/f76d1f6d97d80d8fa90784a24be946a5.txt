@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  71 year old male with pancreatic cancer, Parkinson disease, and declining mental status.
+MEDICATIONS:  Metoprolol, Sinemet, Ciprofloxacin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is described as very uncooperative and will not allow the tech to obtain the appropriate impedances.
+DESCRIPTION OF THE RECORD:  This bedside EEG demonstrates a pattern with generous beta and theta.  Features of drowsiness include an increase in beta and a drop out of the muscle artifact as well as slow rolling eye movements.  Snore artifact is noted.
+HR:    160 bpm and irregular.
+IMPRESSION:  Abnormal EEG due to:
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  There were no epileptiform features noted.  There were no specific hallmarks of any sort of encephalopathy.  If additional evaluation is needed, please contact the lab when the patient is more cooperative.
+
+
+

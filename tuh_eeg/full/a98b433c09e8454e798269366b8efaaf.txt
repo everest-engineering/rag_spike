@@ -1,0 +1,19 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+52 YO MALE R HANDED FOUND IN CAR PARKED UNCONSCIOUS WITH FACIAL SWELLING AND FRACTURE TO R SIDE OF JAW. R- HEMI CRANIOTOMY SDH.PMHX., HTN,DM,ETOH. 60 CM HEAD
+KEPPRA
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes and EKG electrodes, awake, drowsy, asleep, comatose
+Description:
+Background activity is predominantly irregular 50-75uV, 6-7Hz activity. There is attenuation of faster frequencies seen over the right hemisphere maximal in the frontocentral region. Diffuse 18-25Hz activity is also seen. Background activity is predominantly irregular 50-75uV, 6-7Hz activity. Some normal sleep architecture is seen.
+Right hemisphere focal attenuation. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli.  HR was 54
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild diffuse Attenuation, continuous, right generalized
+Excessive fast, continuous
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous attenuation in the right hemisphere region. This finding is indicative of focal cortical dysfunction in this region, likely structural in origin. In addition there is moderate diffuse background slowing. This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or.	barbiturates.
+
+
+
+

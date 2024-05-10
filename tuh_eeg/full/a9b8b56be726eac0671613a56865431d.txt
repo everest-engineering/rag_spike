@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 62-year-old woman with complex medical history, status post code, sepsis, renal failure, admitted with hypertension, and sepsis.  Patient with declining mental status and myoclonus.
+MEDICATIONS:  Versed, cefepime, Haldol, Risperdal, Flagyl, imipenem, daptomycin, tobramycin, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel  EKG.  The patient was intubated and appeared to be initially responsive to the tech.  Impedances were generally acceptable; there is a fair amount of muscle artifact.
+DESCRIPTION OF RECORD:  In the initial sections of the record, the background EEG includes muscle.  If this drops out, the overall pattern is a theta frequency pattern with some frontal sharp waves, right more than left with a clear almost polyspike component in the right frontotemporal region.  The frontal complexes may have a triphasic morphology and others have more of a generalized pattern.
+Tactile stimulation of the patient clearly produces an increase in muscle artifact.  After tactile stimulation, the patient clearly has repetitive jerking of the left arm almost in a circular manner.  The left leg is also jerking, but the right leg does not appear to be moving.  This prolonged, stimulus induced event, electrographically includes primarily muscle artifact.  The bedside examiner describes bilateral jerking, although in the video it seems as if the patient is primarily jerking on the left.  Although, it is difficult to see a clear ictal pattern for this seizure, the pattern of muscle artifact has a clear pattern of an electrographic seizure with waxing and waning.  The total duration of the clinical event is about 10 minutes long and seems to have been triggered by tactile stimulation.  During the EEG, 2 mg of Versed were given.  Subsequently, the EEG is lower voltage, featureless.  The frontally predominant sharp waves and the right frontal sharp waves have resolved.
+At the close of the record, the patient is noted to have an intermittent twitch of the right foot, but this is not associated with a change in the EEG.
+HEART RATE irregular 96 beats per minute.
+IMPRESSION:  This 40-minute, bedside ICU recording was remarkable for,
+A markedly abnormal background.
+Frontally predominant sharp waves, some of which had a generalized periodic nature, but others which had a polyspike or more clearly focal component in the right frontal region.
+What appears to be a 10 minute electrographic seizure or pair of seizures.  The EEG during the seizures is significantly affected by muscle artifact, but there were focal features noted with a jerking and clear paroxysmal evolution with the seizures.
+CLINICAL CORRELATION:  The epileptiform features, both the clinical ones and electrographic ones both responded to the use of Versed.  Given the patient's mental status and the duration of the 2 seizures in a 40-minute EEG, EEG monitoring was requested.
+__________________________
+
+
+

@@ -1,0 +1,36 @@
+History:	43 year old man with a history of Rasmussen's encephalitis and functional
+hemispherectomy, now presents with increase in his seizure frequency.
+Medications:	Phenobarbital, topamax, IVIG
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms at higher amplitudes over
+the left hemisphere.  The background over the right hemisphere consists of a mixture of theta, delta,
+beta, with unstable 8-9 Hz PDR and weak AP gradient.  No normal background organization is
+present over the left.  The background on the left consists of polymorphic moderate amplitude theta
+and delta admixed with underriding fast activity and continuous  left temporoparietal spikes
+(maximal scalp negativity over T5/P3 electrodes.  Patient remains awake throughout the entire
+About 8 clinical and electrographic seizures are captured, lasting ~60-140 seconds.  Seizures
+differ slightly in their evolution (depending on seizure duration).  Electrographically seizures start
+with decrease in amplitude of left temporoparietal spikes and increase in their rhythmicity to ~2-3
+Hz.  After several seconds of this activity, there is sudden pseudo normalization of the background
+with moderate  amplitude monomorphic 7-8 Hz frontal theta and slower diffuse low amplitude
+polymorphic theta activity.  It gradually evolves into moderate amplitude theta with overriding
+delta.  At times, low amplitude fast activity is noted over the left posterior quadrant.  Other times,
+As seizures evolve further, discrete moderate-to-high amplitude spikes re-appear.  Clinically rapid
+eye flutter is reported.
+Summary of Findings:
+Status epilepticus, left, recurrent focal seizures with left temporoparietal onset
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Diffuse slowing, polymorphic, mild
+Spikes, frequent, left, temporoparietal (T5/P3 maximally)
+Interpretation:
+This is a very abnormal awake only 23-minute EEG due to (1) mild diffuse slowing; (2) continuous
+moderate left hemispheric slowing; (3) frequent left temporoparietal epileptiform discharges and (4)
+recurrent 60-140 second clinical and electrographic focal seizures with left posterior quadrant
+onset.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Continuous focal slowing, frequent epileptiform discharges and seizures emanating
+from the left posterior temporoparietal region indicate focal structural lesion.  These findings were
+conveyed to the primary team.  Patient will be placed on continuous long-term EEG monitoring.
+

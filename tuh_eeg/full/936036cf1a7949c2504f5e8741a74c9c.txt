@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 53-year-old woman with a reported seizure several days ago, characterized by generalized shaking, tongue biting.  No previous seizures recorded.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 9 Hz alpha rhythm.  In the transition to drowsiness, there is intermittent rhythmic or somewhat irregular slowing noted in the right mid temporal region with bursts of slowing of 3-6 seconds in duration.  Stage 2 sleep includes spindle activity.
+Hyperventilation also seems to accentuate intermittent burst of right temporal focal slowing and disruption of faster frequency activity from the right.
+This EEG seems to have some asymmetric eye artifacts and some EKG artifact, but there is a small, discrete right temporal sharp waves noted in the background.
+Photic stimulation elicited bilateral driving.
+IMPRESSION:  Abnormal EEG due to ;
+right temporal somewhat rhythmic focal slowing identified in the transition in and out of drowsiness and hyperventilation.
+CLINICAL CORRELATION:  Because there is only a single spike which can be identified in this record, this must be considered artifact, but it is in the same region as the rhythmic and focal slowing.  This EEG supports a structural or functional process on the right.  If additional information is needed, a more prolonged sleep study or a study with special electrodes may be of use.
+
+
+

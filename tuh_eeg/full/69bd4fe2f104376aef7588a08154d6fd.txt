@@ -1,0 +1,18 @@
+History: 57 yo woman undergoing PTE.
+Medications: INDUCTION ETOMIDATE, MIDAZOLAM, FENTANYL, ROCURONIUM, SURGERY: ISOFLURANE
+Sedation:
+EEG Type: Routine, awake & drowsy
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen. INCISION: 9:47AM  HEPARIN:10:02AM CIRCULATORY ARREST: 11:28AM COOLING: 10:24AM SUPPRESSION:11:09AM  WARMING: 12:07PM  Background becomes progressively symmetrically slow in frequencies followed by burst suppression and as the patient is cooled it achieves complete attenuation by 11AM.  After 12:07 the EEG progressively becomes more symmetrically continuous and back to baseline background.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes ___________.
+No focal slowing is present.  No epileptiform discharges are present.
+HR was 66
+Summary of Findings:
+No electrographic seizures
+Interpretation:
+This is a uneventful 4.5 hour EEG during a surgical pulmonary thrombectomy.
+
+
+
+
+

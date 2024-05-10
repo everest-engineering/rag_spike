@@ -1,0 +1,16 @@
+﻿CLINICAL HISTORY:  20 year old left handed male with migraine headaches characterized by headache with loss of consciousness and shaking, followed by confusion.
+
+MEDICATIONS:  Fioricet
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient appears to be somewhat tremulous.
+
+DESCRIPTION OF THE RECORD:  When awake and alert, there is a 9 Hz alpha rhythm.  Drowsiness is characterized by an increase in theta.  Photic stimulation elicits bilateral driving.  Hyperventilation produces a small amount of theta.
+
+HR:    90 bpm
+
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+
+CLINICAL CORRELATION:  Deeper stages of sleep are not achieved.  If epilepsy is an important consideration, a follow-up sleep-deprived EEG may be helpful.
+
+
+

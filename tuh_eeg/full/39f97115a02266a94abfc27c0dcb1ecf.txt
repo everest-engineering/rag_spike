@@ -1,0 +1,23 @@
+
+History: 39 year old woman with a recent generalized convulsion. Patient has a history of cocaine abuse.
+Medications: versed, Lisinopril, Zocor, HCTZ
+Sedation:
+EEG Type: Awake &asleep, portable
+Technique: international 10-20 System; standard 21 electrodes with T1fT2 electrodes
+
+Description:
+Patient is drowsy and asleep throughout the majority of the recording. During very brief maximal arousal, very fragmented and unstable low amplitude 9 Hz PDR is captured without the gradient of frequencies.
+The majority of the background consists of a mixture of polymorphic moderate amplitude theta, delta and bursts of diffuse high amplitude frontally predominant delta (FIRDA). Sleep consists o f symmetrical sleep spindles and K-complexes.
+
+Hyperventilation and photic stimulation are not performed.
+
+Summary of Findings;
+Diffuse slowing, polymorphic, moderate
+Sleep, stage 2, present
+No epileptiform discharges
+FIRDA (frontal intermittent rhythmic delta activity)
+
+interpretation:
+This is an ABNORMAL 2 1 minute mostly asleep and very briefly awake EEG due to continuous diffuse moderate slowing. This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific, but, in this patient, could at least partially be related to excessive drowsiness. FIRDA is observed in encephalopathies, deep white matter lesions and increased ICP. The lack of epileptiform discharges on a routine EEG does not rule out a diagnosis of epilepsy .
+
+

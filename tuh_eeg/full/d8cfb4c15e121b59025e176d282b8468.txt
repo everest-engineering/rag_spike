@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 54-year-old, who had hot flashes, brief syncopal episode with left shoulder injury, patient unconscious for 1 minute and then vomited.  History of alcohol abuse, bipolar disease, schizophrenia.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically acceptable bedside record with most impedances of under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a low-voltage, 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Hyperventilation did not activate the record.  Drowsiness produces slow rolling eye movements and mild attenuation of the alpha rhythm.  Heart rate 66 bpm.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

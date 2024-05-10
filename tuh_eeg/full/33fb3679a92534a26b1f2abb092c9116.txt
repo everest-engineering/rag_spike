@@ -1,0 +1,38 @@
+:
+History:	76 year old woman undergoing left ICA stenting. Patient has a history of right sided
+weakness.
+Medications:	Anesthesia medications
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+During maximal wakefulness, the posterior dominant rhythm consists of moderate amplitude
+polymorphic 8.5-9 Hz alpha activity that attenuates with eyes opening.  There is AP gradient but it
+is weak.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording.
+Normal sleep architecture consisting of symmetrical vertex waves, sleep spindles and K-complexes
+Continuous polymorphic theta and delta activity is present in the left temporal region during
+wakefulness, increasing during drowsiness.  Similar activity is observed over the right temporal
+region, but to a lesser degree.  Several moderate-to-high amplitude sharp waves with aftergoing
+slow waves are noted over the left anterior temporal region.  Maximal scalp negativity occurs over
+F7 electrode (example at 1 hour 20 minutes into the recording).
+A single stent is deployed at ~1 hour 30 minutes into the recording.  No change in the background
+is noted.  A single EKG lead demonstrates intermittent premature QRS complexes.
+Summary of Findings:
+Sharp waves, few, left temporal, anterior
+Focal slowing, polymorphic, continuous, left temporal, mild-to-moderate
+Focal slowing, polymorphic, intermittent, right temporal, mild-to-moderate
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an uneventful 1 hour 45 minutes continuous EEG performed during left ICA stenting under
+the IR guidance.  Deployment of the stent did not produce change in the background. This is an
+abnormal EEG due to (1) mild diffuse slowing; (2) bitemporal (left>>right) mild-to-moderate focal
+slowing and (3) several left anterior temporal epileptiform discharges.  Diffuse slowing is indicative
+of mild  diffuse cerebral dysfunction, which is etiologically nonspecific, but in this case could be
+related to the medication effect.  Focal bitemporal slowing indicates focal cerebral dysfunction,
+more pronounced over the left, possibly structural in etiology.  There is a potential epileptogenic
+focus over the left anterior temporal region.  A single EKG lead demonstrates intermittent is captured by the complexes
+
+
+
+

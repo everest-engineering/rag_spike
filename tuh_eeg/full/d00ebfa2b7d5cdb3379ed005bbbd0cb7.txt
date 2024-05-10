@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Patient is a 62-year-old woman with 2 episodes of loss of consciousness associated with diffuse shaking that occurred 2 weeks ago.  There is no associated bladder incontinence of tongue biting; however, the patient did have some post ictal confusion.
+MEDICATIONS:  Current medications include Lipitor, hydralazine, metoprolol, aspirin, insulin, clonidine, Advair, gabapentin, Keppra, amitriptyline, albuterol.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single electrocardiogram lead.  Hyperventilation and photic stimulation were not performed.  Of note, EEG was performed at patient's bedside.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated 9-9.5 Hz moderate amplitude alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep background voltage is attenuated, and symmetrical sleep spindles are captured.  Hyperventilation and photic stimulation were not performed.  A regular heart beat is captured on a single EKG lead.
+FINDINGS:
+Stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal awake and asleep 23 minute EEG.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

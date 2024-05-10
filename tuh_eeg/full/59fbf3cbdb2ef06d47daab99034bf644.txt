@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 48 year old male, tonic clonic seizure, alcohol abuse, left frontal hemorrhage.
+MEDICATIONS: Keppra, Pantoprazole
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated. He is responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a relatively medium to low voltage rhythmic theta and delta frequency pattern with beta. The primary frequencies are really beta and delta. There is an asymmetry with a bit more rhythmic delta from the right hemisphere in comparison to the left. Stimulation of the patient produces an increase in beta and muscle artifact.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with primarily a pattern of rhythmic theta and delta.
+2. An asymmetry with a bit more rhythmic delta from the right hemisphere than the left.
+CLINICAL CORRELATION: There are no epileptiform features observed. The rhythmic delta from the right hemisphere may be correlated with the imaging.
+
+
+

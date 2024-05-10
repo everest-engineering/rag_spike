@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  EEG length is 22 minutes.
+CONDITIONS OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+HISTORY:  Patient is a 53-year-old woman with history of left ACA stroke as well as an unruptured aneurysm and right skull defect who now presents with at least 2 generalized tonic/clonic convulsions.
+CURRENT MEDICATIONS:  Keppra.
+DESCRIPTION OF THE RECORDING:  During maximal wakefulness, the posterior dominant rhythm reaches 9 Hz alpha.  There is an anterior to posterior frequency amplitude gradient but this gradient is weak and unstable.  Frequent periods of diffuse frontally predominant rhythmic delta activity (FIRDA) observed.  Additional bifrontal polymorphic delta activity right greater than left is frequently seen.  During drowsiness, FIRDA and bifrontal slowing become more prominent.  No clear stage II sleep is captured.  Intermittent sharp waves with after going slow waves are captured over the right anterior temporal/posterior frontal region.  Maximal scalp negativity occurs over F8 electrodes with occasional reflection to F4 electrode.  No electrographic seizures are captured.  Hyperventilation and photic stimulation are not preformed.
+FINDINGS:
+Mild diffuse slowing
+FIRDA.
+Bifrontal right greater than left, moderate slowing.
+Intermittent right anterior temporal/posterior frontal epileptiform discharges.
+IMPRESSION:  This is a very abnormal 22-minute awake and drowsy EEG due to mild diffuse slowing, bifrontal right greater than left slowing, and intermittent epileptiform discharges emanating from the right anterior temporal/posterior frontal region.  Mild diffuse slowing indicates etiologically but nonspecific diffuse cerebral dysfunction.  Moderate bifrontal slowing indicates focal dysfunction, possibly structural in etiology, that is more pronounced over the right hemisphere.  There is a potential epileptogenic  focus over the right anterior temporal/posterior frontal region.  FIRDA is observed in encephalopathy, increased intracranial pressure and deep white matter lesions.  No electrographic seizures are captured.
+
+
+

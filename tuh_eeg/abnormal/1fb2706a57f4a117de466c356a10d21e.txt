@@ -1,0 +1,13 @@
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and single EKG lead.  Hyperventilation and photic stimulation were performed.
+CLINICAL HISTORY:  The patient is a 60-year-old man with a history of seizure since January of 2012.  Seizure are described as staring spells and occasional generalized __________ convulsions.
+MEDICATIONS:  Patient is unsure of his medications.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, the posterior dominant rhythm reaches 10 hertz alpha activity.  This posterior dominant rhythm attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Patient is asleep throughout the majority of the recording.  Sleep is characterized by vertex waves, C-spindles, bursts of slow-wave sleep and POSTS (positive occipital sharp transients of sleep).  Frequent polymorphic low to moderate amplitude theta and delta activity is captured over the left anterior temporal region.  A single sharp transient captured over the left temporal region is noted during hyperventilation.  It occurs at approximately 11:53:10 a.m.  Hyperventilation accentuates focal slowing over the left temporal region.  Photic stimulation results in no change in the background.
+FINDINGS:
+Focal mild to moderate anterior left temporal slowing.
+A single sharp transient found over the left temporal region.
+Stage II sleep.
+IMPRESSION:  This is an abnormal 29 minute awake and asleep EEG, due to intermittent, mild to moderate anterior left temporal slowing.  This finding indicates underlying cerebral dysfunction, possibly structural in etiology.  A single sharp transient over the left temporal region is of uncertain clinical significance.
+
+
+

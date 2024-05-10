@@ -1,0 +1,32 @@
+History:	44 year old man with recent change in behavior and staring spells, concerning for
+seizures.
+Medications:	None
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~18 hours from 11/11/2014 to 11/12/2014.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+The Gotman spike and seizure detection algorithm (Stellate) was used to screen the EEG in real
+time for electrographic seizures and interictal epileptiform discharges.
+# Push button events	0
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  Several epochs of REM sleep are captured.
+No focal slowing is present.  No epileptiform discharges are present.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL ~18 hours continuous video EEG monitoring.  No typical events were captured.
+
+
+
+

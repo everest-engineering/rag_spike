@@ -1,0 +1,41 @@
+History:	46 year old woman with a history of reported seizures.
+Medications:	Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 17 hours from 3/13/2015 till 3/14/2015 (recording
+paused from ~ 6 pm till ~ 12:30 am).   Nursing-initiated event buttons were correlated with clinical
+behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection
+of seizures and changes in EEG patterns.   All automatically detected events were reviewed in
+detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+The background consists of low amplitude 10-11 Hz alpha activity posteriorly that attenuates with
+eye opening.  Fast alpha variant is seen most commonly posteriorly.  Symmetric 5-15uV, 18-25Hz
+activity is present, maximal over bilateral frontal regions.  Diffuse excess beta activity is captured.
+Sleep is fragmented.  Normal sleep architecture consisting of POSTS, vertex waves, symmetrical
+sleep spindles and REM sleep is observed.
+Nearly continuous polymorphic theta activity is present in the right posterior quadrant.  Additional,
+low amplitude fast activity is observed in the right posterior quadrant.  Several events are captured.
+None have an associated abnormal ictal correlate.  They have the same etiology as the events
+captured on 3/13/2015 recording.
+After ~ 10 PM, there is continuous O1 lead artifact.
+Summary of Findings:
+Event, few, no abnormal ictal correlate
+Focal slowing, polymorphic, nearly continuous, mild, right posterior
+Breach artifact, right posterior
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous video ~17-hour EEG due to mild focal right posterior quadrant
+slowing. This finding is indicative of a focal structural lesion in this region.  Breach artifact is
+secondary to the skull defect.  Excessive beta activity could be secondary to the medication effect,
+such as benzodiazepines or barbiturates.  Several events of right arm shaking, stiffening and
+unresponsiveness have no abnormal ictal EEG correlate.
+
+
+
+
+

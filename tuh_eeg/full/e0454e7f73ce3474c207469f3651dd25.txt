@@ -1,0 +1,34 @@
+History:	66 year female recently released from TUH.  Daughter reports that patient had
+episodes of screaming and shaking witnessed while admitted to TUH.
+Medications:	Tylenol, lovenox,prozac,protonix,dilaudid,levothyroxine, namenda,
+losartan,haloperidol,gabapentin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low-to-
+moderate voltage polymorphic delta and theta activity with absence of the expected anterior to
+posterior gradient of frequencies.  Diffuse, frontally maximal sharp waves with triphasic morphology
+are present throughout the recording.  These waveforms demonstrate an anterior to posterior phase
+lag and have a broad base.  No normal sleep architecture is captured, but periods quiescence are
+present.  They are characterized by increase in diffuse delta activity and appears of periods of
+A single sharp transient is captured over the right lateral leads.
+Hyperventilation is not performed.  There is significant movement and artifact throughout photic
+stimulation.  However, clear occipital driving is noted in medium range frequencies over the left
+only.  There is frequent movement artifact that limits EEG interpretation.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Triphasic waves
+Sharp transients, one, over right lateral leads
+Photic driving, only seen over the left
+Artifact, movement, frequent
+Interpretation:
+This is an ABNORMAL 27 minute EEG because of moderate diffuse background slowing, triphasic
+waveforms and asymmetry in photic driving.  These findings are indicative of a moderate diffuse
+encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin.  Lack of
+clear photic driving over the right is suggestive of focal cerebral dysfunction of the right hemispheric
+visual cortex, please correlate clinically.  The single sharply contoured waveform is of unclear
+clinical significance.  There is frequent movement artifact that limits EEG interpretation.
+
+

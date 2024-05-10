@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 19-year-old female with new onset seizures with loss of consciousness and postictal confusion.  Seizures began with an aurao  ringing in the ears.
+MEDICATIONS:  Keppra
+INTRODUCTION:  A 22-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This was, on the whole, a technically satisfactory record, although not all impedances were under 5 kilohms and there was some muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Central mu activity was noted, but testing was not performed to confirm this.  Drowsiness was characterized by rhythmic theta.  In drowsiness, slightly asynchronous eye movement artifact was noted.  Vertex waves, K complexes, and spindles were noted in stage 2 sleep.
+Hyperventilation did not activate the record.  Photic stimulation was performed while the patient was drifting in and out of stage 2 sleep and did not activate the record.
+Heart rate 50 to 60 bpm.
+IMPRESSION:  EEG within normal limits, slightly asynchronous eye movement artifact.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a followup study may be of use.  The bradycardia may be evaluated by other mechanisms.
+
+
+

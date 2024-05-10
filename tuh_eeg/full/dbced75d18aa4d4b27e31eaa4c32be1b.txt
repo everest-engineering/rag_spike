@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  65 year old female presents for right CEA.
+MEDICATION:  Propofol, Fentanyl.
+REASON FOR EEG:  Right CEA.
+INTRODUCTION:  Digital video EEG was performed at bedside during left carotid endarterectomy using the standard 10-20 electrode placement system with an additional EKG and anterior temporal electrodes.  The patient was recorded during the procedure and the surgeon was informed of the changes during the recording.
+DESCRIPTION OF THE RECORD:  The record opens to mildly diffusely slow recording with posterior dominant rhythm of 9-10 Hz and normal frontal central beta seen.  The patient has intermittent left F7-T3 focal slow waves and continuous right hemispheric slowing maximal at F8/T4.
+During the recording the patient's left carotid artery was clamped and there was no clear changes seen in this background.  After the carotid artery was unclamped, the EEG again remained unchanged.
+All internal and external carotid arteries were clamped by 09:42:35 a.m. and the carotid was unclamped at 10:24:12 a.m.
+TECHNICAL DIFFICULTIES:  Some anesthesia and Bovie artifact seen.
+IMPRESSION:  Uneventful left carotid endarterectomy EEG with no changes seen with clamping.
+CLINICAL CORRELATION:  No changes were seen during the left carotid endarterectomy.
+
+
+

@@ -1,0 +1,8 @@
+CLINICAL HISTORY: This is a 61-year-old woman with persistent obtundation following brain surgery with seizures several days ago.  Interval history unknown.
+MEDICATIONS: Unknown.
+RANDOM WAKEFULNESS AND SLEEP: There are portions of the record when the patient is resting comfortably.  The EEG shows frequent, right anterior temporal spike and slow wave activity. There is variability in the record with some portions of the record showing clusters or brief trains of epileptiform activity.  Some portions of the record demonstrate significant attenuation on the right.  The background from the left is diffusely slow, low voltage.  There is variability in the record and there seems to be a change in the sleep state for the patient, with some portions of the record richer in theta frequency activity.  These portions of the record are associated with muscle or movement.
+No clinical seizures are reported by the nurses and the computer identifies no electrographic seizures.
+
+
+
+

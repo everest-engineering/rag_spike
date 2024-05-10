@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 35 year old woman with epilepsy and cerebral palsy. Seizure free for 12 years.
+MEDICATIONS: Primidone, Clorazepate, Ranitidine, Folic Acid
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is performed. The patient is sitting up in a specialized wheelchair.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a diffuse beta frequency pattern with 14.5. Hz beta and a smaller amount of 12 Hz activity. The patient is awake with eye blink. Photic stimulation does not definitively activate the record. Though driving response may be difficult to visualize with all the beta frequency activity.
+HR: 108 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a beta frequency pattern.
+CLINICAL CORRELATION: This is the second EEG without epileptiform activity. An EEG 1 year ago also demonstrated a diffuse beta background. These findings are not uncommon in this patient population. If additional information is needed, a follow up study may be of use.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 43 year old right handed male with migraine headaches, memory loss, head trauma, and a left frontal skull defect.
+MEDICATIONS: Motrin.
+INTRODUCTION: Digital video EEG was performed in lab standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was performed. This an awake and a sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage. There is an 11 Hz alpha rhythm and a small amount of excess frontal 3-5 Hz activity. Hyperventilation is performed early in the record increasing the the background. Features of sleep include vertex waves and spindles. Photic stimulation elicits a well defined driving response, despite the patient's drowsy state.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess frontal 3-5 Hz activity.
+CLINICAL CORRELATION: A low voltage pattern does not make this an abnormal EEG, but still theta may be correlated with the trauma and left frontal skull defect. No epileptiform features were observed.
+
+
+
+

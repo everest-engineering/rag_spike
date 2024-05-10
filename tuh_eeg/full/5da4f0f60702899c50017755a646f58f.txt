@@ -1,0 +1,25 @@
+History:	68 YO MALE TRANSFER FROM OSH FOR ALTERED MENTAL STATUS.
+PMFX: CKD, T2DM, HTN, OSA, GERD,HYPERTENSION
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+The posterior dominant rhythm reached at best 6Hz  Background activity was characterized by
+diffuse low voltage delta and theta activity with absence of the expected anterior to posterior
+gradient of frequencies.  Intermittent diffuse, frontally maximal sharp waves with triphasic
+morphology are present throughout the recording.  These waveforms demonstrate an anterior to
+posterior phase lag.  Frontal intermittent rhythmic delta activity (FIRDA).  Some state changes were
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 84 with  frequent PVCs
+Summary of Findings:
+Diffuse slowing, polymorphic
+FIRDA (frontal intermittent rhythmic delta activity)
+Triphasic waves
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing,  slow alpha rhythm, FIRDA
+and intermittent  frontally-maximal triphasic waves.  These findings are indicative of a severe
+diffuse encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin.
+

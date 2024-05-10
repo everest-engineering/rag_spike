@@ -1,0 +1,23 @@
+History:	57 YR FEMALE WITH CC OF LEFT ICA ANEURYSM.  HAD ANGIO FOR CAROTID
+STENT, ARTERY TO NARROW NOW PRE OP FOR LEFT CEA.
+Medications:	Elavil, Xanax
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta is present.  No sleep architecture was present.
+Occasional polymorphic delta activity is present in the left temporal region (maximum at T3) during
+wakefulness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates occasional tachycardia
+with heart rate above 70 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, left temporal, mid
+Interpretation:
+This is an ABNORMAL awake EEG because of occasional focal slowing in the left temporal region.
+This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+

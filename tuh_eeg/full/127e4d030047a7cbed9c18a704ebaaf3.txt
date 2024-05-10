@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 47-year-old woman with epilepsy since age 6, complex partial seizures.  Patient reports an increase in seizures in recent days, beginning with headaches or feeling of heat lasting several minutes with loss of consciousness, and taking several minutes to recur at baseline.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable record with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Alpha squeak was noted.  Features of drowsiness include an increase in background beta followed by rhythmic central theta with vertex waves, K complexes, and spindles noted.
+The major abnormality in this record is rhythmic, 2-4 hertz delta noted in the right temporal region.  This is somewhat sharply contoured with a maximum at T2.  Bursts may be brief or more sustained on the order of 5-7 seconds in duration.  Hyperventilation and drowsiness both accentuate this rhythmic discharge, including increasing duration of the discharge.
+Vertex waves, K complexes, and spindles were noted in stage 2 sleep.
+Photic stimulation elicited a bilateral driving response.
+HEART RATE 72-80 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+right temporal rhythmic 3-4 hertz activity.
+CLINICAL CORRELATION:  In comparison to her previous EEG, this EEG demonstrates exclusively right temporal intermittent rhythmic delta.  The overall background is well organized today and there are no epileptiform features noted on the left.  No clinical seizures were recorded.
+The findings described above may be considered an interictal abnormality in individuals with localization related or temporal lobe epilepsy.
+
+
+

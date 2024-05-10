@@ -1,0 +1,33 @@
+History:	83 YR OLD MALE PRESENTS WITH H/O CAD S/P CABG, COPD, HTN, HLD, PAD,
+S/P CAROTID BYPASS PRESENTING S/P PEA ARREST ON 3/20/14 X 30 MIN.
+Medications:	Versed, Depakote
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 03/21/2014 to 03/22/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by trained nurses
+and EEG technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team
+for detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation with absence of the expected anterior to posterior gradient of frequencies.  This
+pattern improves slightly with some burst of low amplitude theta seen intermittently in a burst
+suppression pattern.  No normal sleep architecture was present.
+No focal slowing is present.  Rare generalized frontally-maximal spikes are present intermittently
+with stimulation.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Attenuation, nearly continuous
+PEDs (periodic epileptiform discharges), intermittent, with stimulation.
+Interpretation:
+This is an ABNORMAL EEG because of  intermittent generalized frontal maximal periodic
+discharges and severe diffuse background attenuation which improved to a intermittent low
+amplitude burst suppression pattern.  These findings in the setting of hypoxic injury and the absence
+of sedation forebode a poor prognosis.  No clinical or electrographic seizures are present.
+

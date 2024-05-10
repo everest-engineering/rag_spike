@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 28-year-old male with Sturge-Weber syndrome with seizures characterized by focal or simple partial seizures with aura of flashing lights and then unilateral facial twitching.
+MEDICATIONS:  Tegretol, Lamictal.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake through stage 2 sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is reasonably symmetric with a 9.5 Hz alpha rhythm.  There is an asymmetry noted in maximal wakefulness, characterized by an alpha rhythm, which is higher amplitude on the left compared to the right.  As the patient becomes drowsy, there is an asymmetry noted with more prominent drop out of faster frequency activity in the right hemisphere, particularly the mid-to-posterior temporal regions compared to the left.
+Symmetric vertex waves and spindles were noted in stage 2 sleep.
+Hyperventilation seems to accentuate some higher amplitude more irregular slowing out of the left hemisphere.
+Photic stimulation elicited no driving response.  Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Subtle focal slowing noted from the right hemisphere primarily in drowsiness with disruption of faster frequency activity on the right.
+CLINICAL CORRELATION: No epileptiform features were noted.  The subtle right focal slowing may be correlated with this patient's neuroimaging demonstrating a developmental anomaly on the right.
+
+
+

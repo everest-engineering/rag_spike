@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  67 year old female, status post cardiac arrest, now with preserved brain stem function, no additional seizures.
+MEDICATIONS:  Clonidine, Depakote.
+INTRODUCTION:  Digital EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated, but no awake.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage theta/delta pattern.  There is little in the way of reactivity or variability. Stimulation of the patient does not activate the record.
+IMPRESSION:  Markedly abnormal EEG due to:
+Markedly suppressed background. vecuronium study to follow.
+Continuous EEG – 12-60B
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a very low voltage, relatively featureless pattern.  The frontal central regions area the most suppressed.  With the use of higher sensitivity, more of a frontal alpha beta pattern is noted, as well as some artifact.   Stimulation of the patient does not produce a change in EEG.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  This EEG supports a significant, bihemispheric disturbance of cerebral function.  There were no epileptiform features.
+
+
+

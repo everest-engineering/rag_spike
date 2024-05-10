@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  32 year old right handed woman with epilepsy.  Seizure free aside from January 2012 and June 2012 when she ran out of medication.  Seizures are elicited by bright light.
+MEDICATIONS:  Lamictal, Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with generous 14 Hz beta.  Features of drowsiness include a decrease in the alpha rhythm and an increase in beta, as well as slow rolling eye movements. Hyperventilation does not activate the record. Photic stimulation elicits bilateral driving.  The patient falls asleep during photic stimulation and does not respond to tapping, but does respond to voice.
+HR:    108 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  The generous beta activity identified in this record is a normal finding.  The drowsy behavior is not pathological.  No epileptiform features were seen.
+
+
+

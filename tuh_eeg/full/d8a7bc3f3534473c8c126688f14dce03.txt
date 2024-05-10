@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  37 year old woman with epilepsy since the age of 14.  The patient reports staring spells, nocturnal tonic clonic spells, and other seizures with bilateral shaking without loss of consciousness.  Recently evaluated for episode of right hemibody numbness and had an MR angiogram identifying 2 mm aneurysm.
+MEDICATIONS:  Keppra, Depakote, Topamax, Vimpat, ASA, Xanax, Levothyroxine, Lovastatin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  The patient had a subclinical discharge during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz, 49 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta.  There is some  5-6 Hz theta frequency activity on the left which disrupts the alpha rhythm.  There is also subtle focal slowing and focal sharp waves in the left mid temporal region maximum at T3 or T5.  They are isoelectric T3/T1. Hyperventilation accentuates focal slowing from the left hemisphere with some sharply contoured slowing, as well as the rhythmic theta from the left occipital region.
+An electrographic discharge of 8 seconds in duration is noted in relaxed wakefulness after hyperventilation.  This was identified at 8:50:28 a.m. while the patient was awake.  This discharge is a very high amplitude, occipitally prominent discharge.  It is maximum in the left hemisphere, but is also picked up in the right occipital region.  It is followed by a focal sharp wave with almost a polyspike component at P3-01.  The polyspike and even a subtle sharp wave gradually disappears.  No clinical signs or symptoms are noted during this discharge.  The discharge can be reviewed in multiple montages.  It is very high amplitude, but when amplitudes are adjusted it does seem to begin with a polyspike component at P3-01.
+When the technologist interacts with the patient at 8:52:52, the patient is awake and alert. Additional left parietal occipital complexes are noted.  Photic stimulation seems to elicits a driving response, but some of the same occipital phenomenon is present in brief, almost left central parietal or hemisphere discharges are noted following photic stimulation.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left parietal spike and wave focus.
+Intermittent disruption of the alpha rhythm on the left.
+Intermittent rhythmic theta in the left posterior temporal region.
+Prominent beta.
+Mid posterior temporal sharp waves.
+CLINICAL CORRELATION:  This EEG is more supportive of a focal mechanism for epilepsy rather than a generalized mechanism, although there is a focal spike and wave complex with some bilateral representation.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  59 year old right handed woman with asthma, depression, 3 strokes, positional dizziness, and frequent headaches. Syncope.
+MEDICATIONS:  Seroquel.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is primarily a sleep EEG.
+DESCRIPTION OF THE RECORD:  Much of the background EEG includes a drowsy pattern.  The patient transitions in and out stage I sleep with vertex waves and then spindles in stage II sleep.  At the close of the record, the patient is awake for photic stimulation with a low voltage pattern and a relatively faster frequency alpha rhythm.  Photic stimulation elicits bilateral driving.
+HR:    96 bpm
+IMPRESSION:  This EEG is within normal limits for an adult of this age.
+CLINICAL CORRELATION:  There is prominent beta activity in the record.  This may be due to this patient's medications or anxiety.  If this patient continues to have frequent spells, an outpatient ambulatory EEG may be helpful to capture of one of her events.
+
+
+

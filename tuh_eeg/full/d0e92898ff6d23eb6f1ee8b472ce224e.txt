@@ -1,0 +1,51 @@
+AGE : 69 y.o.
+SEX: female
+START DATE OF STUDY: 12/09/2015 at 12:06 END DATE OF STUDY: 12/10/2015 at 15:02
+RECORDING ENVIRONMENT : inpatient EEG TYPE: long term monitoring EEG #: 15-347
+HISTORY:
+69 y.o. female with a history of breast cancer metastatic to brain and localization related epilepsy referred for EEG for assessment of mental status change.
+MEDICATIONS : Keppra, recently increased to 1500 mg q12h SEDATION: None
+TECHNIQUE :
+A 21 channel electroencephalogram {EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (12/9/2015, 12:06 - 12/10/2015, 06:00) BACKGROUND:
+The waking background is continuous, symmetric , well-organized, and consists predominantly of alpha with admixed beta.
+Posterior dominant rhythm was 8.5 Hz.
+The background is reactive and variable. ·
+There were no persistent asymmetries in amplitude.
+There is continuous bilateral temporal polymorphic slowing, which at times appeared quasi-rhythmic.
+Sleep was not captured on this day.
+Of note the study is grossly contaminated by diffuse lead artifact by 12/9/2015 23:41.
+PAROXSYMAL ACTIVITY {NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS : No clinical or electrographic events reported or detected EKG: A single EKG lead captured tachycardia to the 100s.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal video EEG due to:
+Continuous bilateral temporal polymorphic slowing, which at times appeared quasi-rhythmic .
+Tachycardia captured on a single EKG lead
+These findings are significant for bitemporal cerebral dysfunction and possible bitemporal epileptogenic potential from these regions.
+Tachycardia is noted on a single EKG lead.
+DAY 2 (12/10/2015, 06:00 - 12/10/2015, 15:02)
+BACKGROUND : No change
+Note that leads were reapplied at 12/10/2015 09:03. Sleep still not captured on this day.
+GENERALIZED SLOWING : No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured tachycardia to the 120s
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+Unchanged from Day 1. Sleep still not captured.
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Continuous bilateral temporal polymorphic slowing, which at times appeared quasi-rhythmic .
+Tachycardia captured on a single EKG lead
+FINAL CLINICAL CORRELATION:
+These findings are significant for bitemporal cerebral dysfunction and possible bitemporal epileptogenic potential from these regions.
+There were no clinical or electrographic events reported or
+detected.
+Tachycardia is noted on a single EKG lead.
+Sleep was not captured during this study; leads were contaminated by lead artifact from 12/9/2015 23:41 till 12/10/2015 at 09:03.
+
+
+

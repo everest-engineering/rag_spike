@@ -1,0 +1,27 @@
+CLINICAL HISTORY: 52 year old left handed male with a past history of epilepsy,
+thought to be seizure-free since 2005 but now with episodes of incontinence.
+
+MEDICATIONS: Keppra, Carbatrol.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was completed.
+
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is very low voltage and includes primarily a lower voltage 5 Hz to 6 Hz beta frequency pattern with
+scant amounts of delta in drowsiness and scant amounts of alpha frequency activity.
+Photic stimulation does elicit a driving response which can be identified using the
+software.
+
+
+HR: 60bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Low voltage theta pattern.
+
+CLINICAL CORRELATION: These findings are similar to a previous study from 2006,
+with a low voltage pattern with prominent eye blink. The ability to identify the theta in the background may be due to the use of newer technologies. No epileptiform features
+were seen in the last 2EEGs. Consideration for a diffuse disturbance of cerebral
+function is appropriate.
+
+
+
+

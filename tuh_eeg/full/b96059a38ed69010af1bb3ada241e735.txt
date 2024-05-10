@@ -1,0 +1,37 @@
+History:	73 YR MALE WITH CHANGE IN MS. APHASIC,  PMHX: HTN, DM, HLD, CHF.
+FOUND TO BE HAVING SZS. MRI NEG
+Medications:	Keppra, Dilantin
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic,
+obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Minimal sleep architecture was present.
+No focal slowing is present.  There are at least 4 electrographic seizures seen (e.g., 12:54:09,
+3:33:02) that emanate from the left frontotemporal region. These last for approximately 60-90
+seconds.  There is no obvious clinical correlate to these events although for some the patient is
+seen to move randomly in the bed.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Seizure, present, left frontotemporal, at least 4 over 24 hours
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Interpretation:
+This is an ABNORMAL 24 hour continuous video-EEG because of diffuse background slowing and
+absent alpha rhythm and 4 left hemispheric electrographic seizures.   These findings are
+etiologically nonspecific indicators of  diffuse cerebral dysfunction as well as a focal electrographic
+seizures from the left fronto-temporal region.  These findings were communicated to the primary team.
+
+
+
+

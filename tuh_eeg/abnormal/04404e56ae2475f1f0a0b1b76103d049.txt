@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  40 year old right handed male with 1-2 months of right sided headache and face, lasting 30 minutes.  Now with dizziness, nausea, and light sensitivity.  These symptoms are associated with stress.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is well organized with a 9.5 Hz alpha rhythm and alpha squeak.  Drowsiness is characterized by rhythmic background slowing with vertex waves, K-complexes, and spindles.  The patient transitions in and out of stage II sleep at the end of hyperventilation. Hyperventilation produces some background theta.   Photic stimulation elicits a brief bilateral driving response.
+HR:    78 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy or migraine.  If additional information is needed, a follow up study capturing one of his spells may be of value.
+
+
+

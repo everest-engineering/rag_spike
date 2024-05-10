@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  44 year old male with bilateral intracerebral hemorrhage, cerebritis, ventricular shunt, fever, status post prolonged hospitalization.  The patient had an episode of twitching the previous day.
+MEDICATIONS:  Clonidine, Keppra, Versed, Insulin, Famotidine, Lovenox, Carvedilol, Norvasc, Digoxin, Diltiazem, Vancomycin, Gentamicin, Hydralazine, Labetalol, Ancef.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is noted to have a great deal of sweat artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, slow featureless with a mixture of slow delta and small amounts of theta.  The technologist struggles with sweat artifact particularly in the posterior scalp electrodes.  There is a little bit of variability with a bit of beta. Stimulation of the patient does not activate the record.
+HR:    60 bpm and irregular.
+IMPRESSION:  Markedly abnormal EEG due to:
+Low voltage slow, featureless pattern.
+CLINICAL CORRELATION:  This EEG supports a severe disturbance of cerebral function.  Contributing factors may include this patient's acute and subacute CNS processes.  The use of sedative hypnotic medications may also play a role.
+
+
+

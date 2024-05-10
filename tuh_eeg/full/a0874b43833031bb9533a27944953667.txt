@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 56-year-old woman with obstructive sleep apnea; end-stage renal disease, on hemodialysis; epilepsy; schizophrenia; and vitamin B deficiency.  Epilepsy began before age 17, tonic-clonic seizures with postictal confusion, tongue biting, and seizures; now with bilateral tremor.
+MEDICATIONS:  Dilantin, Depakote, Coumadin, and gabapentin.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were generally under 5 kilohms with the exception of the T1-T2 electrodes.  Photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is markedly disorganized with a 7.5 Hz posterior dominant rhythm.  Generous frontal central beta activity was noted.  Tremor movement artifact was noted as was EKG artifact.  Despite this disorganized background, the patient was able to answer questions when testing was performed.
+Drowsiness produces an increase in beta as well as a slight asymmetry with a bit more frontal central beta noted in the right frontal central region in comparison to the left.  In addition, despite significant EKG artifact, rare sharp waves are noted in the left posterior parieto-occipital region (P3).  In addition, there are handful of sharp waves noted in the right central temporal region, which can again be differentiated from the irregular heart rate.  As the patient becomes drowsy, shifting slowing was noted at times, a bit more prominent in the left parieto-occipital region.
+Occasional myoclonic jerking was noted as the patient became drowsy, but this was not associated with an electrographic signature.  Tremulousness was noted during photic stimulation, but this was not associated with an electrographic signature.
+IMPRESSION:  Markedly abnormal EEG due to:
+Disorganized background.
+Slowing with shifting focal features, these included an increase in beta noted on the right as well as shifting, posterior delta, a bit more prominent in the left posterior region.
+Rare sharp waves are sharply contoured slowing including T3 and T4.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function affecting both hemispheres.  A metabolic encephalopathy may play a role.  Subtle epileptiform discharges were noted.  These may be correlated with imaging.
+
+
+

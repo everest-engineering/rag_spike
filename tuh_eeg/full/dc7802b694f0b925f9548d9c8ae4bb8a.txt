@@ -1,0 +1,19 @@
+History: 63 YR OLD FEMALE PRESENTS WITH H/O  S/P BRAIN SURGERY X 2 YRS AGO (BLEED )  SZS  SZ FREE X 2YRS.  DECREASING SZ MEDS.  FOLLOW UP 1 HR EEG.   PMHX: RENAL DYSF.
+Medications:	KEPPRA, NEURONTIN
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and asymmetric (higher amplitude on the ______ )
+Continuous polymorphic delta activity is present in the left midtemporal region during wakefulness, increasing during drowsiness.  There is an associated increased amplitude and faster frequencies over the left hemisphere consistent with a breach  No epileptiform discharges are present. Hyperventilation and photic stimulation are not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 54
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left temporal, mid
+Excessive fast
+Breach artifact, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep 1 hour EEG because of continuous focal slowing in the left midtemporal region, with an associated breach.  This finding is indicative of a focal structural lesion in this region and consistent with the history of brain surgery.  Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+

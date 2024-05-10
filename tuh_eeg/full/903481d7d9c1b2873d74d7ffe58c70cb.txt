@@ -1,0 +1,27 @@
+History:	23 year old woman with a history of seizures since High school.  Seizures occur ~
+once per year.
+Medications:	Tegretol
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  The AP gradient is weak.  Excess diffuse admixed 50-75 uV, 5-
+7Hz activity is present throughout the recording.  During brief drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely.
+Several brief bursts (0.5 seconds) of generalized frontally-maximal spike-and-wave discharges and
+polyspike-and-slow-wave discharges occur with a regular repetition rate of ~4.5-5 Hz.  They are ere
+was no clinical correlate associated to this EEG activity documented on video.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+flash rates from ___ to ___ fps.
+Summary of Findings:
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.
+
+
+
+

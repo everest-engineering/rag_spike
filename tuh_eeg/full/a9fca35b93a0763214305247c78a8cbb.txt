@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 20 year old male with history of childhood epilepsy, present with compliant of episode of aura, describes as feeling outside of body, with loss of awareness, shaking which last 3-5 seconds.
+MEDICATIONS: Carbamazepine.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.7 Hz alpha rhythm. The overall background is rich in beta and a small amount of theta. Lambda waves are identified in wakefulness. Hyperventilation is performed early in the record producing some slowing particularly in the temporal regions, left more so than the right initially. The focal slowing is mid and posterior temporal in hyperventilation. Following hyperventilation, the patient becomes drowsy. As he does, the EEG becomes more hypersynchronous and rhythmic. Photic stimulation elicits a super harmonic driving response. Photic stimulation is a little more prominent on the left as compared to the right. This finding may be correlated with imaging.
+HR: 78 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Background disorganization and excess theta.
+2. What is essentially a focal hyperventilation response.
+
+CLINICAL CORRELATION: Additional EEG recording may be important to more completely identify epileptiform activity.
+
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 48-year-old woman with history of seizures, her boyfriend witnessed episodes of the seizure-like activity described as a shaking with loss of consciousness and foaming at mouth.  The last seizure was 2-3 weeks ago.
+MEDICATIONS:  Ambien and Xanax.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  This is a technically limited study due to diffuse muscle artifact through most of this recording.  In the most alert state, posterior dominant rhythm was 10 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is generalized low amplitude beta activity, which was distributed symmetrically throughout this study.  Hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple flash frequencies as result in no pathologic response.  Heart rate was 55 beats per minute.
+IMPRESSION:  This is a technically limited EEG due to diffuse muscle artifact and also presence of diffuse beta activity.  This study did not show any clear epileptiform activities or seizures.
+CLINICAL CORRELATION:  Generalized beta activity could be due to medication effect including benzodiazepine, barbiturates, or could be due to anxiety or hypothyroidism.  Clinical correlation is recommended.  There is no epileptiform activity or seizures during this recording.  It does not rule out the diagnosis of epilepsy or of intermittent seizures.  A repeat EEG capturing deeper stages of sleep due to technical limitations is highly recommended.
+
+
+

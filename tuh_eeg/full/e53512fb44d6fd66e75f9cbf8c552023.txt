@@ -1,0 +1,12 @@
+MEDICATIONS:  None reported.
+CLINICAL HISTORY:  A 36-year-old woman with recurrent events with loss of consciousness, incontinent tongue biting, eyes rolling back, and shaking.  Family history of epilepsy.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable EEG with most impedances below 5 kilohms.  There are some notable findings including slightly asymmetric eye movements.  In wakefulness, there is a 9.7 hertz, 30 microvolt posterior dominant rhythm with a small amount of low voltage, left frontal central beta.  Rhythmic central theta was noted in drowsiness.
+Hyperventilation did not activate the record.  Photic stimulation elicited vigorous bilateral driving.
+Heart rate: 55-60 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  There are some artifacts noted in this record, but no epileptiform features were seen.  In this individual with a 12-year history of fainting spells, the heart rate is slow.  Additional recording strategies may include a sleep deprived or 1 hour EEG.
+
+
+
+
+

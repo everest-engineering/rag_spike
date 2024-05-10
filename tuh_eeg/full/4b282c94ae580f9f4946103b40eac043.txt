@@ -1,0 +1,23 @@
+History:
+Medications:
+Sedation:
+EEG Type:
+Technique:
+63 year old woman who presents after an episode concerning for a seizure. PROPOFOL,  FENTANYL
+None
+Awake & asleep, portable
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9Hz alpha rhythm,which attenuates
+symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity,frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep,the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Subtle voltage asymmetry, with lower voltages over the right lateral leads, is noted. No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Voltage attenuation, continuous,mild, right lateral leads No epileptiform discharges
+Interpretation:
+This is an ABNORMAL portable 21-minute EEG due to lower voltages over right lateral leads.  This could indicate a fluid collection between a skull and a brain, such as subdural hematoma, empyema et etc.
+Alternatively, this finding represents a normal voltage asymmetry variant. However,voltage asymmetry is
+considered normal if voltages are lower over the left hemisphere (presumably secondary to a difference in bone thickness between the right and left  hemispheres, with thicker bone over the left).
+
+
+

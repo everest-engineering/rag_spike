@@ -1,0 +1,14 @@
+CLINICAL HISTORY: A 55-year-old woman with tonic-clonic seizure 11 months ago with tongue biting and incontinence.   Past history of migraine headache.
+MEDICATIONS:  None.
+INTRODUCTION: A 1-hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed. This captures wakefulness through stage 2 sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm, which is symmetric and reactive to eye opening. The overall background wakefulness is well organized.  As the patient becomes drowsy, focal slowing is noted from the left temporal region. As the patient transitions towards stage 1 and stage 2 sleep, more rhythmic slowing is noted from the left temporal region with disruption of faster frequency activity.
+As the patient reaches stage 2 sleep, sharp waves are noted, and well defined, high amplitude left anterior temporal spike and slow wave complexes is maximum at T1 are noted in stage 1 sleep.
+Photic stimulation elicited bilateral driving. Heart rate 66 bpm.
+IMPRESSION: Abnormal EEG due to:
+Left temporal rhythmic focal slowing noted primarily in drowsiness.
+Left temporal sharp waves and spikes noted in sleep particularly stage 2 sleep.
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for epilepsy. Correlation with imaging and clinical history is suggested.
+
+
+
+

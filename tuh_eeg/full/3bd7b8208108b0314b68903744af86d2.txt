@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  47 year old "NH" female with seizures, expressive aphasia, traumatic brain injury, stroke, gun shot wound to the head, right frontal craniotomy, right-sided contractures, right-sided skull defect, bur hold at C4.
+MEDICATIONS:  Ativan, Lamictal, Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a lower voltage slow pattern with a breech rhythm with higher amplitude activity on the right compared to the left. In addition, there is more faster frequency noted on the right than the left. The left is a little lower voltage and is more featureless. As the recording continues, the patient is increasingly awake and an alpha rhythm is observed on the right.
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing identified bilaterally, improving over the course of the record.
+Asymmetry with higher amplitude activity on the right and slower pattern on the left.
+CLINICAL CORRELATION:  No epileptiform features are identified. The improvement over time may be seen following a seizure or any other abrupt CNS insult.
+
+
+

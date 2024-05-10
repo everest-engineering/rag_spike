@@ -1,0 +1,38 @@
+History:	52 year old woman who presents with cerebritis and recurrent seizures.
+Medications:	Phenobarbital and Dilantin
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 04/21/2014 till 04/22/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuated, low voltage beta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Some fragmented sleep architecture is present.
+There are intermittent left fronto-temporal spikes and sharp waves seen maximal at F7.  There are
+typical left frontotemporal electrographic seizures that occur with variable frequency.  Frequency of
+seizures early in the recording is ~ 4 per hour.  This frequency gradually decreases in the course of
+the recording to ~1-2 seizures per every 3 hours.
+Some portions of the EEG contain significant EMG artifact that obscures most of the leads - data
+are not interpretable during those time periods, so some seizures could have been missed.
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL 24 hour continuous video EEG because of diffuse background slowing,
+intermittent left frontotemporal spikes, and intermittent left frontotemporal electrographic seizure.
+These findings suggest a structural left frontotemporal brain lesion.  Diffuse slowing is indicative of
+moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Some portions of the
+EEG contain significant EMG artifact that obscures most of the leads - data are not interpretable
+during those time periods, so some seizures could have been missed.  These findings were
+
+conveyed to the primary team.
+
+
+
+
+
+

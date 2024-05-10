@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 36 year old right handed woman with left sided headache, left PCA infarct, and abrupt onset of right face, arm, and leg weakness.  Past history of seizure at age 6, hypertension.
+MEDICATIONS:  Fioricet, ASA, Percocet.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the overall EEG is relatively low voltage.  There is generous beta and a glimpse of an 11 Hz alpha rhythm.  Although visual analysis of the EEG demonstrates a symmetric pattern, digital analysis suggests that there is a bit of asymmetry and slight lack of coherence, as well as the appearance of occasional 1.5 to 3 Hz activity in the left occipital region compared to the right.  Vertex waves are symmetric, although a little posterior.  Spindles are observed in stage 2 sleep. Photic stimulation is performed while the patient is in stage 2 sleep and scant driving is noted.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rare bursts of focal slowing in the left posterior quadrant.
+A slight lack of coherence between the 2 hemispheres observed only with digital analysis.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The focal slowing and the changes in terms of the coherence between the 2 hemispheres support a structural abnormality on the left.
+
+
+DD:06/21/2011  DT:06/21/2011
+
+
+

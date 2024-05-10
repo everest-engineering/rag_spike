@@ -1,0 +1,26 @@
+History:	26  YR MALE PRESENTS ED WITH ABDOMINAL PAIN , NAUSEA, VOMITING.
+PMHX: SZ, SCHIZOPHRENIA, MENTAL ILLNESS, BIPOLAR, ANXIETY PER PT
+HAD SPORTS RELATED CONCUSSIONS MULTI.  FAMILY H/O SZS. AUNT, MOM
+(STOPPED), BROTHER.
+Medications:	TRAZODONE, SEROQUEL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excessive diffuse beta is noted.  No sleep.
+Intermittent polymorphic delta activity is present in the bilateral midtemporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  Hr. was
+Summary of Findings:
+Focal slowing, polymorphic, frequent, bilateral temporal, mid
+Interpretation:
+This is an ABNORMAL awake EEG because of intermittent focal slowing in the bilateral anterior
+temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-
+specific.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+

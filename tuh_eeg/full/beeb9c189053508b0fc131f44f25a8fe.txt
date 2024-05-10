@@ -1,0 +1,15 @@
+.CLINICAL HISTORY: refractory epilepsy with tongue biting
+MEDICATIONS:  Lamictal, Keppra on hold.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  A single clinical seizure was noted on the 31st.
+DESCRIPTION OF THE RECORD:
+Background : In apparent wakefulness, the EEG at times demonstrates rhythmic  background theta.  On rare occasions the background theta is less prominent.  During this section of the record, background theta is more prominent than noted in other sections of the record.  Sleep is relatively disrupted and the typical morphologies of deeper stages of sleep are harder to identify.  There is some stage 2 sleep noted in the early hours of the morning of the 31st.
+Seizure 11:30:46.  The patient is in bed, listening to music and is not moving about.  At 11:30:51, there is a high amplitude sharp wave noted of 80 microvolts.  This sharp wave appears from the left hemisphere with an initial T3 phase reversal, but with an after going slow wave that it is bihemispheric, although the sharp wave is clearly maximum on the left. Three seconds later as the after going slow wave resolves, rhythmic frontal delta was noted bilaterally; and by 11:30:57, a slow spike and wave complex was noted with a bifrontal maximum.  At this point, the epileptiform activity is asynchronous.  It is a bit more intense of higher frequency on the left compared to the right, but it is irregular with a slow spike and wave pattern.  The patient is not moving about, but at 11:31:06, oral automatisms or facial stiffening was noted.  He seems to be blinking.  At 11:31:20, his right arm raises and this goes on to be a tonic-clonic seizure.  The tonic-clonic activity obscures the EEG and the seizure ends at 11:32:52.  Postictally, diffuse background slowing was noted.  Total seizure duration 2 minutes.  Post seizure, there is delta and some periodic delta, which at slow paper speed, has a paroxysmal nature as if that tonic-clonic activity has not quite resolved.  The patient is agitated postictally and is starting to take off electrodes.  The techs are trying to keep the integrity of the electrodes in place at 12:19, but a left frontotemporal spike was noted at that time.  By 1 p.m., the EEG is starting to return to the baseline, but occasional spikes were noted from the left mid to anterior temporal region.
+Epileptiform discharges: A single sharp wave at 4:38 a.m., which has an unusual field, beginning in the right hemisphere right centrotemporal with generous field of spread, spreading to the left hemisphere after 100 milliseconds with later left-sided maximum. Occasional spikes were noted from the left mid to anterior temporal region after the seizure.
+IMPRESSION:
+Diagnostic of a localization related epilepsy but with features more suggestive of a frontal lobe than temporal lob seizure.  EEG recording will continue.
+
+
+
+
+
+

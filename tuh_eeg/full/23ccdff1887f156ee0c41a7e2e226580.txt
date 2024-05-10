@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This 44-year-old right-handed woman, treated for epilepsy in Las Vegas many years ago with Depakote, was taken off medicine, and had a recent tonic-clonic seizure, seen in the Episcopal emergency room.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This was a technically acceptable 22-minute EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9 Hz, 20 microvolt posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  The patient is quite drowsy, starts EEG in stage 2 sleep.  Vertex waves, K complexes, spindles, and POSTS were noted.  The patient transitions rapidly in and out of drowsiness.  Hyperventilation serves to activate the record and to increase the amplitude of the background.  Photic stimulation elicits vigorous harmonic driving.  Heart rate 70 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  This appears to be a very drowsy individual, which may play a role in the patient's recent clinical events.
+
+
+

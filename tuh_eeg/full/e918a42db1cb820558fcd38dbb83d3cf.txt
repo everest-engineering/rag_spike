@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 50-year-old male with a history of hypertension, diabetes, rapid atrial fibrillation, previous MCV infarct, new onset seizure and stroke presented with a feeling of dizziness.  The patient was reported to have had a spell where he stopped walking and had a blank stare lasting 10 minutes without tongue biting.
+
+MEDICATIONS:  Hydralazine, aspirin, Plavix, metoprolol.
+
+INTRODUCTION:  A digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was awake.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is diffusely slow.  There primary frequencies in the background are theta and delta.  Superimposed upon this there is focal slowing with a bit more slowing in the right hemisphere and disruption of the faster frequency activity such as it is.  The overall activity is lower voltage.  As the patient becomes drowsy there is beta activity noted in the frontal regions which is sometimes a bit asymmetric.  The patient tends to be agitated while awake.  Heart rate is irregular at 90 beats per minute.
+
+IMPRESSION:  This is abnormal EEG due to:
+1. Diffuse background slowing.
+2. Superimposed focal slowing from the right hemisphere with slower frequency activity and disruption of the faster frequency activity.
+
+CLINICAL CORRELATION:  No epileptiform features were identified.  If this individual is thought to have additional seizures, a repeat EEG recording may be of value.
+
+
+

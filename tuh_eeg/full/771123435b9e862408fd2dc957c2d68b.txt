@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  A 21-year-old lady with history of seizure disorder of 7-years' duration, had an event yesterday with unresponsiveness lasting 2-3 minutes, has a past medical history of medulloblastoma, status post resection, has a scar in the midline below the field of 01/02.  She has a history of hydrocephalus with shunt between F4/C4/T6 and a surgical scar medial to F4/C4, history of growth hormone deficiency, hypothyroidism.
+MEDICATIONS:  Depakote, Potiga.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This is a technically challenging EEG because of artifact at the right posterior scalp electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is interhemispheric asymmetry.  There is left sided diffuse slowing in the 3-5 Hz range.  There is a 10 Hz alpha rhythm on the right side with generous frontal central beta.  There are bursts of focal slowing on the left hemisphere at T1, which is at times sharply contoured and occasional sharp waves at T1 were noted.  There are occasional bursts of slowing on the right hemisphere as well.  A breach rhythm was noted at T6.
+In drowsiness, there is rhythmic slowing on the left hemisphere with sharp waves found more frequently at T1.
+The patient obtains stage 2 sleep characterized by vertex waves, spindles, and K-complexes.  In stage 2 sleep the sharp waves and spikes seem to be noted at T3.
+Photic stimulation demonstrated photoelectric artifact.
+IMPRESSION:  This is an abnormal EEG due to:
+Focal slowing on the left temporal region, occasionally sharply contoured.
+Left sided sharp waves at T1 and T3.
+Occasional slowing in the right hemisphere.
+CLINICAL CORRELATION:
+This EEG is suggestive of an epileptogenic process in the left temporal region, likely due to underlying structural pathology.
+There is slowing bilaterally which is suggestive of an overlying diffuse process.
+DT:04/05/2013 14:56:27
+
+
+

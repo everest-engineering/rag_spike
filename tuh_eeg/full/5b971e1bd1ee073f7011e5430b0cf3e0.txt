@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  59 year old right handed gentleman with a history of seizures after stroke, now admitted after tonic clonic seizures and postictal combativeness.
+MEDICATIONS:  Ativan, Keppra, Simvastatin, Lopressor, Diovan
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is relatively somnolent. This is a mostly asleep record. Photic stimulation is completed.
+DESCRIPTION OF THE RECORD:  The overall background is diffusely slow, low voltage. Despite significant EKG artifact, there is rare, left temporal focal slowing with focal delta and rare left temporal sharp waves (2). When the patient is unstimulated, he transitions into stage II sleep. Photic stimulation does not activate the record.
+HR:   120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Focal slowing with occasional delta on the left.
+Rare left temporal sharp waves.
+CLINICAL CORRELATION:  In comparison to previous EEGs, the focal slowing and sharp waves are significantly improved.
+
+
+

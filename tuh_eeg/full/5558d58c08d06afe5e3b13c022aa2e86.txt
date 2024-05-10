@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 91-year-old woman with episodes of shaking lasting about a minute.  The patient reports the episodes occur when she stands, never when she sits, and always just as she starts to stand up.  She discloses this information after the EEG was completed.
+MEDICATIONS:  Carvedilol, Lasix, Norvasc, Tylenol No. 3, others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred.  Photic stimulation are completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was an 8.5 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta.  Temporal wicket was noted.
+In relaxed wakefulness there was occasional, intermittent focal isolated theta or delta.
+As the patient became drowsy, this was a little bit more prominent and was somewhat sharply contoured.
+Prominent muscle artifact was noted as the patient transitioned in and out of stage 2 sleep.  Characteristic features of stage 2 sleep included vertex waves, K-complexes, and spindles.  No additional focal slowing was noted in stage 2 sleep.
+Photic stimulation elicited a driving response.
+Heart rate:  60 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to:  Left temporal focal slowing, at times sharply contoured.
+CLINICAL CORRELATION:  The overall background is appropriately organized for an adult of this age and the appropriate milestones in wakefulness and sleep were identified.  In an adult of this age is permitted a small amount of intermittent temporal focal slowing, but this is a bit more than would be considered within the limits of normal in this age group.  There were no sharp waves or spikes.  Wicket is a normal finding.  If this individual is thought to have significant clinical events, a repeat, ambulatory EEG may be obtained which could permit the opportunity to record the EEG when the patient is symptomatic or to have her practice the maneuvers that precipitate the tremulousness.
+
+
+

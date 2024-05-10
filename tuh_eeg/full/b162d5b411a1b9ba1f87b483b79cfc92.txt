@@ -1,0 +1,32 @@
+History:	37 yo man with a history of bilateral cranioplasty in august 2013.  Patient has a
+generalized convulsion today.
+Medications:	Lorazepam, Dilantin, Phenobarbital
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left.  During
+maximal arousal, the background on the right consists of polymorphic 9-9.5 Hz PDR with weak AP
+gradient.  Additional polymorphic theta activity is observed over the right hemisphere and focal
+continuous delta activity over the right frontal region.  There is no clear AP gradient or PDR on the
+left.  The background over the left consists of a mixture of polymorphic theta and delta activity.
+Diffuse excess beta activity is noted.  Sleep spindles and K-complexes are noted.  Sleep
+Occasional left temporocentral sharp waves are noted.  They are have a broad field.  Maximal
+scalp negativity is over T1/T3/T5/C3 electrodes.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Focal slowing, polymorphic, continuous, moderate, right frontal
+Sharp waves, occasional, left temporal, mid
+Asymmetry, sleep architecture, better formed over the right
+Interpretation:
+This is an ABNORMAL awake and asleep EEG due to mild diffuse slowing, continuous moderate
+left hemispheric slowing, continuous moderate right frontal slowing and occasional left
+centrotemporal epileptiform discharges. Diffuse slowing is indicative of mild diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing in the right frontal region
+and left hemisphere indicates focal cerebral dysfunction, likely structural in etiology.  There is a
+potentially epileptogenic focal structural lesion in the left temporocentral region.
+
+

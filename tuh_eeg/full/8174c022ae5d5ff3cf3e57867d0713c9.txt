@@ -1,0 +1,16 @@
+REFERRING DOCTOR: M.D.
+CLINICAL HISTORY:  A 44-year-old right-handed woman with 2 recent seizures.  Seizures may have been precipitated by alcohol withdrawal on December 30th.
+MEDICATIONS:  None reported
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging EEG.  Although most impedances were below 5 kilos Ohms, the patient was moving and talking throughout much of the EEG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is low voltage.  There is a 10 Hz alpha rhythm.  On 1 occasion, the alpha rhythm appears to be a little asymmetric, disrupted on the left.  In the transition to drowsiness, there are 1 or 2 bursts of slowing with shifting slowing left more so than right.
+Heart rate 114 bpm.
+IMPRESSION:  This low voltage EEG is remarkable for:
+Single episode of the alpha asymmetry.
+Rare bursts of focal slowing on the left.
+CLINICAL CORRELATION:  With this bedside portable EEG, deeper stages of sleep were not achieved.  A followup study, in the lab, capturing stage 2 sleep may be of value in search of epileptiform activity.  The focal features described above are subtle.  Correlation with the overall clinical picture may be of value.  An EEG in the lab may therefore be of use.
+__________________________
+
+
+
+
+

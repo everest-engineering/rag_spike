@@ -1,0 +1,21 @@
+CLINICAL HISTORY: 50 year old right handed gentleman with left occipital infarct,
+right homonymous hemianopsia, and right-sided tingling.
+MEDICATIONS: Lantus, ASA. Protonix. Metoprolol, Hydralazine
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of
+electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are
+performed.
+DESCRIPTION OF THE RECORD: The background EEG includes a 12-Hz alpha
+rhythm. This alpha rhythm is approximately 55 microvolts on the right, 30 on the left
+The patient drifts into stage 2 sleep with spindles which are slightly asymmetric, slightly
+disrupted on the left relative to the right. POSTS are represented bilaterally. Abundant
+stage 2 sleep is recorded which is relatively symmetric. Photic stimulation is performed
+while the patient is in stage 2 sleep and does not activate the record.
+HR: 60bpm
+IMPRESSION: Very minimally abnormal EEG due to:
+1. An asymmetry in spindle activity.
+CLINICAL CORRELATION: Despite the significant PCA infarct, this is a relatively
+normal EEG. The failure to identify focal features may represent volume conduction in
+the occipital region, but in any case, no epileptiform features were noted.
+
+
+

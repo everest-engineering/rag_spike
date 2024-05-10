@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 56-year-old male with right hip and humerus problems.  Patient had an episode on Saturday night and Sunday after he came in with involuntary movements of the right leg, then numbness, then right hemibody weakness, hypertension, and smoking.
+MEDICATIONS:  Lisinopril, aspirin, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm.  Drowsiness is characterized by prominent background theta with rhythmic midtemporal theta of drowsiness, left greater than right.  Hyperventilation produces an increase in theta.  Photic stimulation did not activate the record.
+Heart rate 66 bpm.
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Rhythmic temporal theta of drowsiness is a normal variant.
+
+
+

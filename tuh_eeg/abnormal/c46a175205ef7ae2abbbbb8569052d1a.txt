@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 28 year old right handed woman with epilepsy since age 23 now with 2-3 seizures per day characterized by staring, postictal confusion for 1-2 minutes, last episode was 2 days ago.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an 11 hertz, 40 microvolts posterior dominant rhythm. There is a small amount of background theta. Drowsiness is characterized by Increase in background slowing. Hyperventilation is performed with good effort, increasing theta in the temporal regions as well as eye blink artifact. There are some sharply contoured discharges, but none that do not overlap with either the EKG or the eyes artifact. Photic stimulation elicits vigorous driving response.
+HR: 66 bpm
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No definitive epileptiform features were observed, however, a repeat study capturing deeper stages of sleep is advised to search more aggressively for this patient's epileptiform activity. Alternatively, given the frequency of her spells, an outpatient ambulatory EEG monitor may be considered.
+
+
+
+

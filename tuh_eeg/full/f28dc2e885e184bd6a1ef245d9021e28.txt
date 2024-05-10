@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 59-year-old woman with stroke in 2009, COPD, pacemaker, DVT, epilepsy, and memory impairment.  This is the patient's third EEG. The patient currently is experiencing headaches and has been seizure free for one year (seizures not otherwise described).
+MEDICATIONS:  Moxifloxacin, Depakote, trazodone, Xanax, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  This was a 24-minute EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the alpha rhythm reaches 11 Hz.  Drowsiness is characterized by slowing of the alpha rhythm.  Rhythmic central theta is noted in the transition to drowsiness.  Vertex waves were observed in the sleep.
+The patient is transitioning in and out of sleep and is asleep during photic stimulation.  Bursts of delta are noted at the end of photic stimulation, but stage 3 sleep was not sustained.
+Heart rate:  93 BPM.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this EEG.  If epilepsy is an important consideration, a repeat EEG capturing the patient's symptoms may be helpful.
+Of note, in the EEGs recorded around the time of her stroke with left hemiparesis identified subtle focal slowing in the right hemisphere and then a pattern with asymmetry and voltage only noted a year later.  None of the EEGs have identified epileptiform activity.
+
+
+

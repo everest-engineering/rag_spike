@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 52 year old right handed female with recurrent blackout spells migraine headaches. Past history of drug abuse, 2 years free. No reported tonic clonic activity.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 hertz alpha rhythm identified. Central mu activity is identified, but testing is not performed to confirm this. Abundant POSTS and vertex waves are identified in stage I sleep with spindles in stage II sleep. The spindles are symmetric, but the vertex waves are slightly asymmetric, a bit maximal to the left Hyperventilation produces a rhythmic background theta. Photic stimulation is performed while the patient is asleep and does not activate the record.
+HR: 66 bpm
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: The asymmetric and vertex waves are of unclear clinical significance. Correlation exam and imaging may be helpful, but they are most commonly seen with slightly asymmetric head measurements.
+
+
+

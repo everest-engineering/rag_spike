@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  51-year-old woman with a history of epilepsy, unrestrained driver, who hit a tree.  Seizure vs other.  Last episode with loss of consciousness one month ago.  History of bipolar disease.
+MEDICATIONS:  Gabapentin, tramadol, Lamictal. Others.
+INTRODUCTION:  20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient seemed to be extremely sleepy during the EEG.
+DESCRIPTION OF THE RECORD:  In brief wakefulness, there is a symmetric reactive 9.5 Hz, 70 microvolt posterior dominant rhythm which is symmetric and reactive to eye opening.  There is a small amount of low voltage, frontal central beta.  Drowsiness is characterized by rhythmic background slowing with vertex waves, K complexes, spindles, and POSTs in stage 2 sleep.  The patient about to transition to stage 3 sleep with higher amplitude, abundant 2 hertz delta activity.
+Photic stimulation was performed.  The patient was drifting in and out of stage 2 sleep and did not significantly activate the record.
+Heart rate:  78 bpm.
+IMPRESSION:  Normal EEG, essentially a sleep EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  In the absence of sedative hypnotic medications or sleep deprivation, consideration for an underlying sleep disorder may be appropriate.
+
+
+

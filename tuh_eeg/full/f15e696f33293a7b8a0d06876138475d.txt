@@ -1,0 +1,37 @@
+History:	49 year old female undergoing therapeutic hypothermia protocol.
+Medications:	Midazolam
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+obtunded, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.   Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+This EEG captures the patient following the warming phase. No posterior dominant rhythm was
+present. The is profound attenuation and suppression of the background cerebral activity.  There is
+excessive bilateral muscle artifact seen.  No normal sleep architecture was present.
+No focal slowing is present.  As the record opens at 1PM, there are frequent generalized periodic
+discharges (GPEDs) of low amplitude (0.25-1Hz). These are electrographic only.  However, by
+approximately 2:30PM, there is the appearance of clinical myoclonus associated with the
+generalized periodic discharges.  The frequency of the PEDs and myoclonus increases throughout
+the day until it occurs nearly every 1-2 seconds.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  There is frequent clinical myoclonus seen.
+Summary of Findings:
+PEDs (periodic epileptiform discharges), continuous, bilateral
+Interpretation:
+This is an ABNORMAL 24 hour video EEG because of generalized periodic discharges, complete
+suppression of all normal background activity, and the appearance of clinical myoclonus.  These
+findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction.  These
+clinical events suggest a diagnosis of post-hypoxic myoclonic status epilepticus.  These findings
+were conveyed to the primary team.
+
+
+

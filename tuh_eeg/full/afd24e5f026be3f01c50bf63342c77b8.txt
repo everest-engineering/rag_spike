@@ -1,0 +1,37 @@
+﻿History:	31 year old woman who had several seizures in 5/2014.  Large left frontal
+meningioma was subsequently found and patient underwent tumor resection.  She
+has occasional seizures since then.
+Medications:	Tegretol
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During brief drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by a few vertex waves.  Vertex
+waves are more pronounced over the left.
+Occasional polymorphic delta activity is noted over the left frontotemporal region.  Additional,
+moderate amplitude fast activity is present over the bilateral frontocentral regions (breach artifact),
+left>right.  A single left frontotemporal sharp transient is captured.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  A single EKG lead demonstrates heart rate <60 bpm.
+Summary of Findings:
+No stage 2 sleep
+Breach artifact, bilateral, frontocentral
+Beta, excessive
+Sharp transients, one, left frontotemporal
+Focal slowing, polymorphic, occasional, moderate, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake and drowsy 28 minute EEG due to occasional moderate left
+frontotemporal focal slowing.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  Breach artifact is secondary to the
+underlying skull defect.  The presence of a single left frontotemporal sharp transient waveform is of
+uncertain clinical significance.  It occurs in the same location as breach artifact and focal slowing.
+The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of
+epilepsy.  Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+

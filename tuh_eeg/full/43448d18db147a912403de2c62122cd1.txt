@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 67-year-old man admitted with shortness of breath and subsequently found to be in cardiogenic shock.  He currently has a change in mental status.
+PAST MEDICAL HISTORY:  Significant for CHF, atrial fibrillation, and diabetes.
+MEDICATIONS:  Current medications include vancomycin, Plavix, Captopril, Protonix, Lipitor, and Lasix.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with the addition of T1 and T2 electrodes and a single EKG lead.    Hyperventilation and photic stimulation were not performed.  The recording was performed at the patient's bedside.
+DESCRIPTION OF THE RECORDING:  There is no clear posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of a mixture of polymorphic low to moderate amplitude theta and delta activity with occasional underwriting alpha activity.  Intermittent periods of brief discontinuity observed.  No normal sleep architecture is noted, however, periods of quiescence are captured.  Hyperventilation and photic stimulation are not performed.  A single electrocardiogram lead demonstrates a heart rate of approximately 120 beats per minute, irregularly irregular, with QRS complexes of variable morphology.
+FINDINGS:
+Moderate diffuse slowing.
+Periods of discontinuity to tachycardia, irregularly irregular heart rate, and QRS complexes of variable morphology.
+IMPRESSION:  This is an abnormal 22 minute EEG due to moderate diffuse slowing.  This finding indicates etiological nonspecific moderate diffuse cerebral dysfunction.  Irregularly irregular tachycardia is noted on a single electrocardiogram lead.
+
+
+

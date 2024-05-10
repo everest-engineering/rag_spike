@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 77 year old male in status post PEA code at an unknown date. History of Parkinson disease, Alzheimer disease, prostate cancer.
+
+MEDICATIONS: Vancomycin, Norepinephrine, Heparin, Tylenol,
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly suppressed. There is significant muscle and other artifacts. In addition, toward the close of the record there seems to be a problem with electrodes in the left posterior quadrant. There is scant other low-voltage artifact picked up particularly in the right center central region. Stimulation of the patient does not clearly activate the record.
+
+HR: 104
+
+IMPRESSION: Markedly abnormal EEG due to:
+I. Markedly suppressed background.
+2. Absence of reactivity or variability.
+
+CLINICAL CORRELATION: There are some technical concerns noted in this records. If appropriate, a repeat study perhaps using a neuromuscular blocking agent should be considered.
+
+
+
+
+

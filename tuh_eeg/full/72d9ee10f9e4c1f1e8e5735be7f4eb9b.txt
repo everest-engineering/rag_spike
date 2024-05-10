@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 88 year old woman who is status post intracerebral hemorrhage now with obtundation and episodes of agitation. History of significant cerebral atrophy.
+MEDICATIONS: Olanzapine, Digoxin, Coumadin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is quite poorly responsive. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: There are some brief sections where the activity from the right hemisphere is reasonably well-organized with a 7 Hz posterior dominant rhythm. The patient is not responsive during these sections of the record. Other sections include more head-rocking artifact and more arrhythmic delta activity on the right. The left hemisphere demonstrates persistent slowing with significant disruption of the faster frequency or theta frequency activity as well as slow arrhythmic delta. Variable sleep wake cycles are noted. There were some sections of the record demonstrating more significant 6 Hz to 8 Hz activity in both hemispheres. Photic stimulation serves to alert the patient who starts to move about and rub her face but there is no driving response.
+HR: 88 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Moderate background slowing from the right hemisphere.
+2. Persistent focal slowing from the left.
+CLINICAL CORRELATION: This patient is poorly responsive even when the right hemisphere demonstrates a relatively awake pattern. Correlation with this patient's imaging and history is suggested.
+
+
+

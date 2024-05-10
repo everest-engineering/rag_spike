@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 50-year-old male with seizures characterized by generalized shaking, loss of consciousness, and incontinence.  The patient was admitted with recurrent seizures, and required intubation.  History of diabetes, GERD, hypertension.
+MEDICATIONS:  Vancomycin, acyclovir, ceftriaxone, ciprofloxacin, Ativan.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and somnolent.
+DESCRIPTION OF THE RECORD:  Background EEG is diffusely slow with a mixed frequency pattern with delta activity.  There is some evidence of stage II sleep with vertex waves and spindle.  This is a dynamic pattern with intermittent bursts of higher amplitudes, 1-2 Hz delta.  Stimulation of the patient produces an increase in higher amplitude delta.
+Heart rate 98 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+FIRDA.
+CLINICAL CORRELATION:  These findings are nonspecific.  This EEG supports a diffuse disturbance of cerebral function.  Medications, a CNS infection, or other diffuse disturbances could also produce this pattern.  There were no sharp waves or periodic complexes to suggest a herpes encephalitis.
+
+
+

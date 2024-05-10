@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 40-year-old woman with past history of stroke, migraine headaches, recurrent confusional spells, and evaluate for epilepsy.
+MEDICATIONS:  Topiramate, gabapentin, Fioricet, Percocet, and others.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically satisfactory EEG with most impedances below 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10.5 hertz 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Abundant stage II sleep is captured with vertex waves, K complexes, spindles, POSTS, and beta spindles, which are harmonic of her typical 13-15 hertz spindle.  Hyperventilation elicited scant slowing of the record, but photic stimulation elicited a vigorous bilateral driving.
+Heart rate 78 bpm.
+IMPRESSION:  Normal 40-minute EEG.
+CLINICAL CORRELATION:  This is a second normal EEG for this adult.  If this patient found to have frequent seizures, an ambulatory monitor or other tests may be helpful to characterize her spells.
+
+
+

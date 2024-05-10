@@ -1,0 +1,16 @@
+
+CLINICAL HISTORY:  The patient is a 26-year-old woman with a history of right temporal tumor resection in 1994 and 1995, consistent with a low grade astrocytoma.  In 1993, the patient had generalized tonic clonic nocturnal convulsions while off medications.  Currently, she has a chief complaint of lightheadedness, right-sided pain and fainting spells that last up to  15 to 20 minutes.  The patient also has a history of asthma and ADHD.
+
+MEDICATIONS:  Current medications include:  Trazodone, Klonopin, Adderall, albuterol, Imitrex, and others.
+
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single electrocardiogram lead.  Hyperventilation and photic stimulation were performed.
+
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of well-formed and modulated moderate amplitude 10.5 to 11 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  This gradient is less well-formed over the right hemisphere.  During sleep vertex waves and sleep spindles are captured.  There is some asymmetry and asynchrony of sleep spindles with sleep spindles being more prominent over the right hemisphere.  There is continuous polymorphic theta and delta activity captured over the right temporal region.  Excess diffuse beta is captured.  Hyperventilation is performed with fair effort and results in several bursts of diffuse polymorphic theta and delta activity.  A single sharp wave with after going slow wave is captured over the right frontotemporal region, with phase reversal over T4/F4 electrodes.
+
+FINDINGS:
+1. Mild to moderate continuous right temporal slowing.
+2. A single sharp wave over T4/F4 electrodes during sleep.
+3. Excess beta.
+
+IMPRESSION:  This is an abnormal awake and asleep 25 minute EEG due to continuous mild to moderate right temporal slowing and a single epileptiform discharge over the right frontotemporal region.  These findings indicate focal cerebral dysfunction, likely structural in etiology, and in this patient is consistent with a known history of tumor resection.  There is a potential epileptogenic focus over the right front temporal region. Excess beta could be secondary to a medication effect such as benzodiazepines or barbiturates.
+

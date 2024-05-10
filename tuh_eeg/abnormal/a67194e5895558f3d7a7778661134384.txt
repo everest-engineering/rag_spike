@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 84 year old woman postoperative day 8, for craniotomy. Nonverbal.
+MEDICATIONS: Keppra, Pantoprazole, Lovenox, Hydralazine, Labetalol, Gentamicin, Dexamethasone, Norvasc, Vancomycin, Cipro, Zofran
+INTRODUCTION: digital video EEG was performed at bedside using standard system of electrode placement with 1 channel of EKG. The patient is resting comfortably with a Dobhoff tube and recent craniotomy.
+DESCRIPTION OF THE RECORD: The background EEG is abnormal. It is relatively slow particularly in the frontally regions with generous fast activity in the central regions and prominent craniotomy defect. Although there is some head rocking artifact, there are some occasional T6 sharp waves noted in the background. On occasion an alpha rhythm is starting to emerge in wakefulness. Shifting asymmetries are noted in the background.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background suppression in the frontal regions.
+2. Prominent beta activity in the central regions.
+3. Shifting arrhythmic delta.
+4. A handful of sharp waves in the posterior regions in this case on the right rather than on the left today.
+CLINICAL CORRELATION: This EEG is considerably improved compared to the first study and is overall essentially unchanged when compared to the second study.
+
+
+

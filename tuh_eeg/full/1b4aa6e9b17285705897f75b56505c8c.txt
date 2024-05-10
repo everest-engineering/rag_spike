@@ -1,0 +1,49 @@
+AGE: 53 y.o.
+SEX: male
+DATE OF STUDY: 12/11/2015
+RECORDING ENVIRONMENT: outpatient	. EEG TYPE: 20-40 min, awake and asleep EEG #: 18-1801
+HISTORY:
+53 y.o. male with a history of CVA, craniotomy and Encephalomalacia/gliosis in the left frontal, parietal and temporal
+lobes referred for routine EEG for characterization of epileptic focus/seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+aspirin 81 mg EC tablet, Take 1 tablet by mouth daily.
+Indications: Myocardial Infarction Prevention
+nifedipine (PROCARDIA XL) 60 mg 24 hr tablet, TAKE 1 TABLET BY MOUTH DAILY.
+gabapentin (NEURONTIN) 300 mg capsule, TAKE 1 TABLET BY MOUTH 3 TIMES DAILY.
+simvastatin (ZOCOR) 20 mg tablet, Take 1 tablet by mouth nightly.
+ABILIFY 15 mg tablet, TAKE 1 TABLET BY MOUTH NIGHTLY.
+trihexyphenidyl (ARTANE) 2 mg tablet, TAKE 3 TABLETS BY MOUTH EVERY MORNING
+Cane Devi, by Misc. (Non-Drug; Combo Route) route. Use cane for balance
+trazodone (DESYREL) 100 mg tablet, Take 100 mg by mouth nightly. No current facility-administered medications for this visit.
+SEDATION: None
+TECHNIQUE:
+A 33 minute 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.	There is an apparent breach rhythm on the left
+EEG BACKGROUND:
+The waking background is asymmetric, reactive and includes continuous focal slowing from the left.
+On the right, the pattern 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.	The left hemisphere demonstrates a higher amplitude pattern with disruption of faster frequency activity.	Arrhythmic delta is noted, maximum in the left mid temporal region . There is also abundant 5-6 Hz theta noted from the left hemisphere, again
+maximal in the left temporal region
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm on the right is seen. In addition to diffuse background slowing, the left hemisphere demonstrates an increase in a rhythmic delta activity are seen.
+Sleep is not captured
+No generalized slowing is present. Focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Photic Stimulation: Low-voltage, a symmetric driving was noted, present primarily on the right
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION: This is an abnormal awake and drowsy	routine EEG.
+#1: Left hemisphere focal slowing
+#2 Disruption of faster frequency activity on the left
+#3: Breach rhythm noted on left
+#4: Unilateral driving
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This EEG supports a structural process, congruent with the · clinical history.	Although there is sharply contoured slowing, there no definitive sharp waves.
+
+
+

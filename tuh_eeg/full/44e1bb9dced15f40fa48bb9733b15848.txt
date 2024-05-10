@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 45-year-old male with epilepsy, admitted 2 days ago for hypoglycemia related seizure, not compliant with medicine.
+MEDICATIONS:  Fentanyl, Keppra, Ativan, magnesium, Versed, and thiamine.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically acceptable EEG with most impedances below 5 kilohms with the exception of the T1-T2 electrodes. There was a small amount of muscle artifact.
+DESCRIPTION OF THE RECORD:  The EEG is diffusely slow with a pattern of primarily rhythmic theta and delta. There is a fair amount of muscle artifact noted in this record.  In this somewhat technically challenging record, there is a suggestion of a bit more attenuation in the right posterior quadrant.
+Heart rate: 72 bpm.
+IMPRESSION:  Abnormal EEG due to,
+Generalized background slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  This is the fourth EEG for this adult.  No epileptiform features were noted in this study.
+Of note, a 2007 EEG identified independent right and left temporal lobe sharp waves.
+The EEG today is most compatible with a diffuse disturbance of cerebral function, as might be seen in a toxic or metabolic encephalopathy, postictal state.  If additional information is needed, a follow up study in the lab after the patient has been extubated may be considered.
+
+
+
+

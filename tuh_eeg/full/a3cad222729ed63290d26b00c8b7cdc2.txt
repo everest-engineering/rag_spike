@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  Traumatic brain injury in 1998, diagnosed with dementia in 2011, now with possible seizures characterized by unresponsiveness, no myoclonic jerking.  The patient describes this as a brain attack.  He knows that he is alive, but he does not know what is happening.
+MEDICATIONS:  Unknown
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG is abnormal.  There is a 9.5 Hz alpha rhythm and 11 Hz mu activity.  Arrhythmic delta is noted most typically in the left hemisphere in the left temporal region.  There are also some bursts of bilateral slowing and some shifting slowing.
+Most notable in this record are left mid or anterotemporal sharp waves or spikes.  The amplitude of this activity ranges from 70 to 120 microvolts, although it can be a bit smaller.  The sharp waves and spikes can be maximum at T1, T3, or F7.  There is variability in their spread and overall conformation.  As the patient transitions in and out of stage 2 sleep, the epileptiform activity is higher-amplitude and more clearly defined left, mid to anterotemporal region.
+Photic stimulation elicits bilateral driving.  Heart rate 78 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+High-amplitude left anterotemporal sharp waves and spikes.
+Focal slowing most prominent in the left anterotemporal region.
+Shifting slowing.
+Occasional slowing that is maximum on the right.
+CLINICAL CORRELATION:  This EEG is most supportive of a structural or functional mechanism for epilepsy.  There was no history of a skull defect, but a breach rhythm should be considered given the high-amplitude epileptiform activity.  If additional information is needed, a follow-up study capturing one of his spells may be considered.
+
+
+

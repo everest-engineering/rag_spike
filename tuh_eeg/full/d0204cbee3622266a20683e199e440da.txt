@@ -1,0 +1,31 @@
+History:	27 YR OLD FEMALE PRESENTS WITH H/O SZ ONSET AT AGE 14. CPS, PT
+STATES THAT SHE HAS BEEN SZ FREE FOR YEARS, CAN'T RECALL LAST SZ.
+Medications:	TOPAMAX
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  There is a short sleep latency.
+No focal slowing is present.  Occasional brief 0.5-1 seconds bursts of symmetric generalized
+frontally-maximal 4.5 Hz spike-and-wave discharges occur during the recording.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  Hr
+Summary of Findings:
+Spike-and-wave complexes, fast, intermittent generalized
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of generalized spike-and-wave
+discharges, which are potentially epileptogenic.  Background activity is otherwise normal.  These
+findings are consistent with a diagnosis of primary generalized epilepsy.  In the proper clinical
+context, the presence of generalized spikes and polyspikes suggests the diagnosis of Juvenile
+Myoclonic Epilepsy.  The short sleep latency may signify a sleep disturbance. A sleep evaluation
+may be beneficial if clinically indicated.
+
+
+
+

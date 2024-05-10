@@ -1,0 +1,14 @@
+DATE AND TIME OF RECORDING:  September 25, 2012 until September 26, 2012 from approximately 11:30 a.m. until approximately 9:30 a.m.
+CLINICAL HISTORY:  The patient is a 48-year-old man with a past medical history of left sided AVM with resultant in seizures since approximately the age of 15, now admitted for further evaluation of episodes of aphasia and morning episodes of right arm shaking in the setting of taking a shower.
+INTRODUCTION:  This was an approximately 22-hour continuous video EEG performed according to the standard 10-20 system, with additional T1 and T2 electrodes, as well as a single EKG electrode.  Seizure detection and spike detection software was activated.  The patient was provided with an event button.  Nursing notes and medical staff notes were reviewed.
+DESCRIPTION OF THE RECORD:  There is right to left interhemispheric asymmetry with faster frequencies observed over the right hemisphere.  The posterior dominant rhythm over the right hemisphere reaches approximately 8.5 Hz with preserved anterior to posterior frequency amplitude gradient.  The posterior dominant rhythm over the left hemisphere reaches approximately 7.5 Hz with weak anterior to posterior frequency amplitude gradient.  Additionally over the left hemisphere, polymorphic low to moderate amplitude theta and delta activity are captured.
+Sleep architecture consisting of sleep spindles, vertex waves, K-complexes, slow wave sleep, and epochs of REM sleep are captured.  Sleep architecture is better formed over the right hemisphere.  No active seizures are captured.
+FINDINGS:
+Mild diffuse slowing.
+Moderate left hemispheric slowing, most pronounced over the left frontal temporal central region.
+Asymmetry of sleep architecture with sleep architecture better formed over the right hemisphere.
+No electrographic seizures.
+IMPRESSION:  This is an abnormal, approximately 22-hour, continuous video EEG monitoring due to mild diffuse slowing and moderate left hemispheric slowing that is most pronounced over the left frontotemporal central regions.  Mild diffuse slowing is a logical nonspecific indicator of diffuse cerebral dysfunction, that in this case could partially be related to medication effect.  Focal slowing indicates underlying cerebral dysfunction and in this case is likely attributed to a known AVM.  Asymmetry of sleep architecture with sleep architecture better formed over the right hemisphere indicates a disruption of thalamocortical pathways over the left.  No electrographic seizures were captured.  There were no typical events.
+
+
+

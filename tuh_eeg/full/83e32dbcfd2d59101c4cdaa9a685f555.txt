@@ -1,0 +1,23 @@
+History:	66 YR OLD MALE PRESENTS WITH H/O SZ, PT STATES THAT HE HAS BEEN SZ
+FREE FOR 18 YRS. LAST YR HE FELT THAT WAS GOING TO HAVE ONE BUT
+DID NOT.
+Medications:	GABAPENTIN, CYCLOBENZAPRINE (FLEXERIL)
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background does not reveal a clear PDR. Very low voltage fast background.  Symmetric 5-
+15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the
+background slows to central theta activity, frontal beta activity becomes more prominent, and the
+alpha rhythm attenuates and becomes intermittent.  As drowsiness progresses, symmetric vertex
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.  HR
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. The absence of a PDR is likely related to his
+low voltage background.
+

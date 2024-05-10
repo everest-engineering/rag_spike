@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 23-year-old male status post head trauma 2 years ago with significant cranial defects, now severe headaches with lightheadedness, loss of consciousness, and epistaxis.
+MEDICATIONS:  Topamax, Motrin, sleeping pills.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  A previous craniotomy was noted.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm.  As the patient becomes drowsy, there is some frontal central theta.  Vertex waves, K-complexes, and spindles are seen in stage II sleep.  Hyperventilation produces a prominent high amplitude slowing pattern.  Photic stimulation is performed as the patient is drifting in and out of stage II sleep, but does elicit a driving responses.
+Heart rate:  50-60 BPM, occasionally irregular.
+IMPRESSION:  EEG within normal limits for an adult of this age in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Frontal central theta may have been a bit more prominent as the patient transitions to sleep given the previous craniotomy.  Additional evaluation for the slow and somewhat irregular heart rate may be considered.
+__________________________
+
+
+

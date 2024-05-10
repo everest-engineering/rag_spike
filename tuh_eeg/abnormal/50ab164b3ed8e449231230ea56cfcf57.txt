@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 52-year-old woman with a 10-year history of epilepsy, last seizure 2 days ago with shaking, eye rolling, foaming at the mouth, incontinence of bowel and bladder.
+PAST HISTORY:  MI and stroke with right hemiparesis, weakness, depression, and bipolar disease.
+MEDICATIONS:  Keppra, Depakote, Klonopin, and albuterol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was completed.  Photic stimulation was deferred.  This is an awake and drowsy record.
+TECHNICAL:  There is a fair amount of muscle artifact noted in the background.
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat disorganized.  There is a glimpse of an 11 Hz alpha rhythm.  There is a bit more variability in the alpha rhythm than would otherwise be expected.  There is excess background theta.  As the patient becomes a bit drowsy, there is occasional focal slowing characterized by subtle underlying theta or delta from the left hemisphere.  Deeper stages of sleep were not sustained.
+Hyperventilation did not significantly activate the record.
+Heart rate 108 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Background disorganization.
+Subtle underlying slowing in the left hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were identified in this awake and briefly drowsy record.  If additional information is needed, a repeat tracing capturing sleep may be of value.
+
+
+

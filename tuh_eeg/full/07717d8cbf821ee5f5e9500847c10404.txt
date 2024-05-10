@@ -1,0 +1,42 @@
+History:	38 year old man with a history of limbic encephalitis, now with worsening memory
+and a reported seizure in 3/2015.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5-11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+A single ~ 36 second focal seizure is captured.  Clinically, it starts with patient having slight
+difficulty staying a year and bringing both hand to his face.  Then lips smacking and chewing
+movements are observed.  He remains alert.  He is able to state  correctly the location, his name
+and count to 10.  Additionally, patient's heart rate increases from the resting ~100 bpm to ~130
+bpm during the seizure.  There is ~ 10-11 second delay between clinical symptoms and EEG
+change.  Electrographically, ~5 Hz moderate-to-high amplitude rhythmic bilateral anterior theta
+activity is noted.  This activity increases in amplitude and decreases in frequency.  This change is
+more profound over the right.  Post-ictally, there is right anterior polymorphic delta and mild
+attenuation.  As patient falls asleep, 8-second run of rhythmic ~ 0.5 Hz LEFT anterior temporal
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.
+Summary of Findings:
+Seizure, one, bilateral anterior, ~36 seconds, pt able to count, increase in HR
+Sharp waves, left temporal, anterior, brief run at 0.5 Hz
+Interpretation:
+This is an ABNORMAL awake and asleep 40 minute EEG due to a single focal seizure and several
+left anterior temporal epileptiform discharges. Patient able to speak and count during the event,
+also lip smacking/ chewing movements are present as well as increase in heart rate from ~ 100 bpm
+to ~130 bpm.  First EEG change is noted ~ 10-11 seconds after the onset of clinical symptoms and
+appears to  be bilateral anterior in onset with more prominence over the right as seizure progresses.
+Based on the above findings there is a potential left anterior temporal epileptogenic focus and
+independent right anterior temporal focus.  These findings were conveyed to the ordering physician.
+sleep spindles appear.sharp waves is captured (at ~11:44:31 AM).
+
+
+
+
+

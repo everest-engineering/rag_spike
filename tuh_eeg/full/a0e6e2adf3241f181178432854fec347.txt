@@ -1,0 +1,42 @@
+History:	52 year old woman who presents with cerebritis and recurrent seizures.
+Medications:	Phenobarbital, Dilantin, versed
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 4/22/2014 till 4/23/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the ICU monitoring technician or clinical
+neurophysiology fellow and the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Background activity was characterized by diffuse attenuated, low
+voltage beta activity with absence of the expected anterior to posterior gradient of frequencies.  As
+the recording progresses, there is gradual increase in the degree of slowing and appearance of
+frank 1:1 burst-suppression by the end of the recording.  This change is related to initiation of
+Versed drip.  Some fragmented sleep architecture is present early in the recording.
+There are intermittent left fronto-temporal spikes and sharp waves seen maximal at F7.  They
+occasionally occur in brief runs of PLEDs.  There are typical left frontotemporal electrographic
+seizures that occur ~ once per hour for the majority of the recording.  They occur on average once
+every 2 hours and last ~ 1 minute.  Seizures stop by the end of the recording due to initiation of
+Summary of Findings:
+Diffuse slowing, polymorphic
+Seizure, left frontotemporal, stop by the end of the recording
+Burst-suppression pattern, mild, seen at the end of the recording
+Interpretation:
+This is an ABNORMAL 24 hour continuous video EEG because of diffuse background slowing and
+burst-suppression, intermittent left frontotemporal spikes, and occasional left frontotemporal
+electrographic seizure.  These findings suggest a structural left frontotemporal brain lesion.  Diffuse
+slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific, but
+in this case at least partially related to the medication effect.  These findings were conveyed to the
+primary team.Versed drip.
+
+
+
+
+
+
+

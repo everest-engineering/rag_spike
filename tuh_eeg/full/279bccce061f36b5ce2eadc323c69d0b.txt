@@ -1,0 +1,13 @@
+History: 26 YO RH FEMALE WITH SUDO-TUMOR, BLEED ON THE BRAIN 11/2011 AFTER GIVING BIRTH TO SECOND CHILD. CC OF GLARE IN THE EYES STARTED A FEW MONTHS AGO. RIO SUB-CLINICAL SZ.
+Medications: TOPAMAX, ASA
+Sedation:
+EEG Type: Extended, 40-60 min
+Technique: international 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, drowsy, asleep, hyperventilation, photic
+Description: Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present. maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent. and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear. Occasional rhythmic theta activity is present in the left posterior quadrant region during wakefulness, increasing during drowsiness. No epileptiform discharges are present. Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing. Stepped photic stimulation from 1-21 Hashes per second (fps) does not produce any effect. HR is 60 bpm.
+Summary of Findings:
+Focal slowing, rhythmic, occasional, left posterior quadrant
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of occasional left posterior quadrant slowing. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+

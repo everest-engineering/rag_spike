@@ -1,0 +1,21 @@
+TYPE OF STUDY:  Portable EEG.
+
+CLINICAL HISTORY:  This is a 36-year-old man with past medical history of meningoencephalitis, mentally challenged with frequent seizures.  Patient had 1 episode of seizure in the morning on the day of this study.
+
+MEDICATIONS:  The patient's medications include Keppra, Ativan, and phenobarbital.
+
+INTRODUCTION:  A digital EEG was performed at the bedside setting using the standard International 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation and photic stimulation were not performed.  This tracing captures the patient in an obtunded state.
+
+DESCRIPTION OF THE RECORD:  In the obtunded state, there was diffuse slowing of background activity in delta and at times in theta range.  There were some sleep structures characterized as spindles noted bilaterally.  There were occasional bursts of frontal intermittent delta activity (FIRDA) seen with a frequency of 1-1.5 Hz and an amplitude of 80-100 microvolts lasting for 1-2 seconds.  There were also occasional sharp and wave discharges seen in bitemporal areas most pronounced on the left side with a frequency of 0.8-1 Hz with no evolution or electrographic seizures.  Heart rate was 70-80.
+
+IMPRESSION:  This is an abnormal EEG recording capturing the patient in an obtunded state due to:
+1. Diffuse slowing of background activity.
+2. Occasional bitemporal sharp wave discharges with no evolution and no electrographic seizures, more pronounced on the left side.
+3. Occasional bursts of frontal intermittent rhythmic delta activities(FIRDA)
+
+CLINICAL CORRELATION:  The above findings could be due to metabolic toxic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to postictal state, sedating medications, bilateral cerebral dysfunction, degenerative brain disease, epileptiform abnormalities as sharp discharges is indicative of cortical irritability in temporal regions most pronounced on the left side.  The FIRDA burst could be due to increased intracranial pressure, metabolic encephalopathy, or a deep midline lesions in the brain or degenerative brain disease.  The presence of sharp waves indicative of cortical irritability that places the patient at risk for seizures.  No electrographic seizures or clinical seizures noted during this recording.  This does not rule out the diagnosis of epilepsy or intermittent seizures.
+
+Clinical correlation is recommended.
+
+
+

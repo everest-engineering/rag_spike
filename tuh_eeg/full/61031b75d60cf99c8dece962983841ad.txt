@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 53 year old woman who presented with gastroparesis and then had the development of myoclonus, asterixis and nystagmus followed by encephalopathy. Clostridium difficile.
+MEDICATIONS: Neurontin, Cyclosporine, CellCept, Prednisone, Heparin, Vancomycin, Avelox, Reglan, Zosyn
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Her previous EEGs are not available for comparison.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a rhythmic, slow pattern with a mixture of theta and delta. The primary frequency in the background is 1.2 Hz delta with smaller amounts of 6 Hz theta and over 80% of the record is now delta. Theta frequency activity is seen intermittently and sometimes diffusely or in the frontocentral regions. Stimulation of the patient elicits a withdrawal response but not much change in the EEG.
+HR: 132 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Moderate-to-marked background slowing.
+2. Frontal delta relatively symmetric.
+CLINICAL CORRELATION: This EEG is significantly slower than the previous EEG. Correlation with imaging is suggested.
+
+
+

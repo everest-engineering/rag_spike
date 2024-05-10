@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 76 year old gentleman with epilepsy, recent evacuation of right
+subdural hematoma. Received other seizure medications during his recent hospitalization.
+
+MEDICATIONS: Lisinopril, Phenytoin, Tylenol, Phenytoin
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20   system of electrode placement with 1channelEKG. Photic simulation are performed. This is an awake and sleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized. There is a 7.5 Hertz alpha rhythm. The activity is slightly lower amplitude on the left  There is a subtle T1sharp wave noted on the left and there is shifting arrhythmic delta activity. The patient's craniotomy was on the right, supporting the
+higher amplitude activity on the right. Photic stimulation elicits no driving response.
+HR:   60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Modest background slowing and disorganization.
+2. A slight amplitude asymmetry with higher amplitude activity on the right.
+3. A single left temporal sharp wave.
+
+CLINICAL CORRELATION: Only a single left temporal sharp wave was not considered  to be definitively epileptogenic as it may represent artifact  The bi-hemispheric features may be correlated with images.
+
+

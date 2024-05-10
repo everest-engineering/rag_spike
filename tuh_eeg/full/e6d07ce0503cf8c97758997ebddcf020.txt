@@ -1,0 +1,27 @@
+History:	36 Y O FEMALE W/ HEMATOMA ON R REMOVED IN 2000. LAST SZ 3-4 YRS
+AGO W/CONVULSION. MIGRAINES HEADACHES NO HX SEIZURES PRIOR TO
+HEMATOMA
+Medications:	Dilantin, Trazodone, Fioricet, Albuterol
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by not clearly well-defined 9 Hz posterior dominant rhythm
+superimposed by diffuse 5-10uV, 18-25Hz beta activity.  Continuous high voltage 18-25 Hz beta
+activity is present, maximal frontally.  As drowsiness progresses, symmetric vertex waves appear.
+Intermittent delta activity is present in the left anterior and mid temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce any effect.  HR is 70 bpm.
+Summary of Findings:
+Focal slowing, rhythmic, left temporal
+Interpretation:
+Excessive beta activity is likely a medication effect. This is an abnormal EEG due to  intermittent
+focal slowing in the left temporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.  EEG is limited because of diffuse beta activity.  If clinically
+indicated, suggest repeat EEG.  The lack of epileptiform discharges on a routine EEG does not rule
+out a diagnosis of epilepsy.
+
+

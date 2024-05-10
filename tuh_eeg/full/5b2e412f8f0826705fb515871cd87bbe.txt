@@ -1,0 +1,26 @@
+History:	Pt with continuous jerking, ESRD and pneumonia.
+Medications:	Heparin, Ativan
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a high amplitude disorganized pattern that briefly improves
+with a posterior dominant rhythm reaching 8.5Hz for seconds.  Intermittent bursts of diffuse rhythmic
+delta are present, predominately in the bilateral centroparietal regions.  Continuous diffuse tremor
+artifact is present, without a clear evolving pattern.  This is an awake only record.
+No focal slowing is present.  No clear epileptiform discharges are present in this technically limited
+Hyperventilation and photic stimulation are not performed.  HR is 132.  Technical limitations:
+Nearly continuous tremor artifact is present throughout the recording, limiting evaluation of
+underlying focal or epileptiform features.  Near the end of the record, the patient received 1mg
+Ativan, which allowed better evaluation of the background.
+Summary of Findings:
+Disorganization, continuous, moderate diffuse
+Diffuse slowing, rhythmic, intermittent, bilateral, predominately centroparietal
+Interpretation:
+This is an ABNORMAL awake EEG because of diffuse disorganized, background slowing, and slow
+alpha rhythm. This indicates diffuse cerebral dysfunction, which may be due to toxic, metabolic or
+anoxic encephalopathy.  The tremor artifact without an EEG correlate is suggestive of subcortical
+
+
+

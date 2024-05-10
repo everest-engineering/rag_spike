@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 61-year-old woman with epilepsy, seizure free for the last 6 months.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 hertz, 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by rhythmic theta and slow rolling eye movements.  In addition, there is an increase in beta and attenuation of the alpha rhythm.  Stage II sleep was not sustained.
+Hyperventilation produces a small increase in amplitude of the background.  Photic stimulation elicited bilateral driving.
+Heart rate 66 bpm.
+IMPRESSION:  Normal awake through brief stage II sleep record, 26 minutes in duration, technically acceptable with impedances below 5 kilo-ohms.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG contrast with a previous study, which identified left frontal sharp waves.
+
+
+

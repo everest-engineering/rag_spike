@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  79 year old gentleman with a history of severe alcohol use, now brought in unresponsive after a single witnessed general tonic-clonic convulsion.  The patient currently remains unresponsive.
+MEDICATIONS:  Lorazepam, Labetolol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to superior frequency amplitude gradient.  Large portions of the EEG consist of diffuse significant muscle artifact that obscures large portions of the EEG.  Visible underlying activity consists of a mixture of low amplitude polymorphic theta mixed with faster frequencies.  During periods of relative quiescence the recording consists of bursts of diffuse spindle like wave forms mixed with frequent periods of brief 1 to 2 second discontinuities.  No clear epileptiform discharges are captured.  Hyperventilation and photic stimulation are not performed.  Increase in the heart rate is noted on the single EKG lead at the end of the recording.
+FINDINGS:
+Moderate diffuse slowing.
+Excess beta.
+Background discontinuity.
+No electrographic seizures.
+IMPRESSION:  This is an abnormal 22 minute EEG due to diffuse background slowing and periods of discontinuity.  These findings indicate nonspecific cerebral dysfunction, that in this case could partially be related to medication affect.  Excess beta is likely related to medication affect, benzodiazepines or barbiturates.  No clear electrographic seizures are captured.  These findings were conveyed to the primary team at the time of the dictation.
+
+
+

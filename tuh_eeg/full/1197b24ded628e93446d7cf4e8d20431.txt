@@ -1,0 +1,29 @@
+History:	81 YO FEMALE WITH  EPISODE OF STARING SPELL, STOPPED RESPONDING.
+LASTED 2 MIN.   ,  S/P CEREBRAL ANEURYSM COILING 3/14.  PMHX: HTN, CKD,
+RETINOPATHY.
+Medications:	CIPRO, METOPROLOL, LASIX, NORVASC, PRAVASTATIN, LISINOPRIL, HEPARIN,
+TRAZODONE, AMLODIPINE,
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 8 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric beta activity is present, maximal over bilateral frontal
+regions.  There is excess diffuse 7 Hz theta activity during wakefulness.  As drowsiness progresses,
+symmetric vertex waves appear.
+Intermittent rhythmic delta activity is present in the left temporal region (maximum at T3) during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  HR is 70 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Focal slowing, polymorphic, occasional, left temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of 1) diffuse background slowing and slow
+alpha rhythm.  These findings are etiologically nonspecific indicators of diffuse cerebral
+dysfunction.  2) occasional focal slowing in the left temporal region.  This finding is indicative of
+focal cerebral dysfunction.  The lack of epileptiform discharges on a routine EEG does not rule out
+a clinical diagnosis of epilepsy.
+
+

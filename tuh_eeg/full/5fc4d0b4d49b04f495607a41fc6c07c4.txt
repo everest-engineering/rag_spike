@@ -1,0 +1,26 @@
+History:	40 YR FEMALE WITH CC OF SZ.  PER PT INCREASE IN SZS.   ONSET IN 3/14.
+LEFT EYE BRUISE FROM SZ LAST WK.  NOTE PT WITH HAIR WEAVE NO FZ,
+CZ, PZ AND ELECTRODES ESTIMATED'
+Medications:	Librium
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  No sleep.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR 90
+Technical difficulties: 1. There were no Fz, Cz and Pz electrodes and placements were estimated
+due the patient wearing a hair weave, .2. Excess EMG/myogenic artifact  There were prominent
+eye movements, which at times appear slightly nystagmoid.
+Summary of Findings:
+No focal slowing or epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.
+
+

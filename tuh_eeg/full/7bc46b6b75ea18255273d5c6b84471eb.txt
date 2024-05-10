@@ -1,0 +1,13 @@
+RECORDING LENGTH:  22 minutes.
+CLINICAL HISTORY:  The patient is a 79-year-old woman with past medical history of seizure, now brought to the emergency room after being found unresponsive.  While in the emergency room, the patient was witnessed to have generalized shaking of all extremities with head turning to the right lasting approximately 2 minutes.
+MEDICATIONS:  Insulin and simvastatin.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated 9-10 Hz moderate amplitude alpha activity that attenuates with eyes opening, There is an anterior to posterior frequency amplitude gradient. During sleep, vertex waves, sleep spindles, and K complexes are captured. Hyperventilation and photic stimulation were not performed. results in no change in the background. A regular cardiac rhythm is captured on the single EKG lead.
+FINDINGS:
+No epileptiform discharges.
+Cardiac arrhythmia.
+IMPRESSION:  This is a normal awake and asleep 22 minute EEG.  The lack of epileptiform discharges on a routine EEG does not preclude a clinical diagnosis of epilepsy. Cardiac arrhythmia is captured on the single-lead EKG lead.
+__________________________
+
+
+

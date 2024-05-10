@@ -1,0 +1,22 @@
+History:	58 year old man who presents with change in mental status and seizures.
+Medications:	Topamax, zonisamide
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous  bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for ~13 hours from 08/29/2014 till 08/30/2014.    Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The background over the right consists of 10 Hz alpha posteriorly, expected AP gradient and excess theta activity.  The background over the left consists of a mixture of polymorphic theta and delta activity, with sharply contoured delta activity most prominent over the left anterior quadrant.  Of note, with stimulation, delta activity increases in rhythmicity.  Additional underriding fast activity is observed over the left anterior region.  Diffuse excess beta activity is noted.  Symmetric sleep spindles are present.
+A single very focal ~80 second exclusively electrographic seizure is captured at ~3:08 AM. It is characterized by appearance of rhythmic fast activity over the C3 lead. Activity gradually increases in amplitude and decreases in frequency (alpha->theta->delta range).
+Summary of Findings:
+Diffuse slowing, polymorphic, mild Beta, excessive
+Breach artifact, left anterior Seizure, one, left central
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, especially over the left anteric
+Interpretation:
+This is an ABNORMAL continuous 13-hour EEG due to (1) mild diffuse slowing; (2) continuous moderate left hemispheric slowing (especially the anterior quadrant) and (3) a single very focal brief left central electrographic seizure that occurs during sleep Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  There is epileptogenic structural lesion over the left.
+Breach artifact is secondary to a skull defect.  Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+

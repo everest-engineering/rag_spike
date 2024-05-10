@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 63-year-old male admitted to ICU with chest pain, shortness of breath, respiratory distress, and critical airway. Evaluate for stroke.
+MEDICATIONS:  Fentanyl, Ativan, antibiotics.
+INTRODUCTION:  Digital video EEG is performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was examined during the EEG.  Impedances were satisfactory.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, relatively suppressed pattern with lower voltage theta and delta.  The patient has intermittent muscle artifact which obscures the EEG. On the video, he seems to be trembling.  This produces some alpha frequency artifact.  The episodes of trembling are not associated with epileptiform activity.
+Heart rate 102 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a low voltage, slow pattern.
+Absence of definitive reactivity or variability.
+CLINICAL CORRELATION:  This patient's medications may play a role in the pattern described above.  Additional considerations such as a diffuse, acute disturbance of cerebral function are important to consider.
+
+
+

@@ -1,0 +1,43 @@
+AGE: 33 y.o.
+SEX: male
+DATE OF STUDY: 09/03/2015
+RECORDING ENVIRONMENT: Outpatient EEG TYPE: 95819
+EEG #: 15-1292
+HISTORY:
+33 y.o. male referred for routine EEG for Headache after MVA June 2015.	2002 TBI with Stable left frontal craniotomy with adjacent encephalomalacia/gliosis.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+hydrocodone-acetaminophen	(NORCO) 7.5-325 mg per tablet, oxycodone-acetaminophen (PERCOCET) 5-325 mg per tablet, Naprosyn, Tramadol
+No current facility-administered medications for this visit.
+SEDATION: none TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is abnormal and includes excess beta and theta.	It is mildly disorganized.	The pattern is symmetric, reactive, and also consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal
+anterior-to-posterior gradient	Wakefulness is characterized by
+a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.
+Focal slowing is present- seen in the left temporal region in drowsiness and accentuated in HV
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: accentuates left temporal focal slowing and breach with sharply contoured Left temporal focal slowing but no sharp waves
+Photic Stimulation : performed while patient drifting off to sleep, + driving
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG.
+Sharply contoured left temporal focal slowing in drowsiness and HV
+Mild	Background disorganization
+CLINICAL CORRELATION:
+This study supports a structural process on the left, congruent with imaging. The excess beta and theta may be due to medicines. The excess theta may also be part of the post traumatic picture. There were no epileptiform features
+
+
+
+

@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  R MTS, refractory CPS for presurgical assessment
+MEDICATIONS:  Lamictal, phenobarbital, metformin, aspirin, lisinopril, insulin, others.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  This was a technically satisfactory record.
+DATE OF STUDY:  January 27 and 28.
+DESCRIPTION OF THE RECORD:
+Background: In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm.  Drowsiness is characterized by attenuation of the alpha rhythm.  Stage 2 sleep includes vertex waves, K complexes, spindles, and posts.  Probable REM sleep was noted in the early morning hours and at that point, subtle underlying focal slowing was noted from the right temporal region.
+Seizures:  None.
+Pushbuttons:  Practice push buttons were performed at 3:18 and 7:48, but no epileptiform features were noted and the EEG demonstrated a normal awake individual.
+Interictal discharges: In stage 2 sleep, abundant high amplitude T2 sharp waves and spikes were noted.  At some points in the record including 1:00 a.m. to 2:00 a.m., there are abundant epileptiform discharges.  Around this time there is a single, low amplitude T1 sharp wave.
+Focal features:  Subtle focal slowing was noted primarily in the transition in and out of sleep and from the right temporal region.  In what may have been REM sleep in the early morning hours at approximately 5:00 a.m., again subtle focal features were noted with disruption of faster frequency activity on the right.
+Heart rate 72 bpm.
+IMPRESSION:  This 24 hours of video EEG monitoring was remarkable for:
+Abundant epileptiform discharges, primarily from the right temporal region with a ratio far greater of 10:1.
+Subtle focal slowing.
+CLINICAL CORRELATION:  Supportive of localization related mechanism for epilepsy, recording continues.
+
+
+

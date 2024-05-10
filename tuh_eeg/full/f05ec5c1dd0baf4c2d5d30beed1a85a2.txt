@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  An 87-year-old woman who had an abrupt lightening-like episode of right arm and leg numbness.  Atrial fibrillation, bladder cancer, anemia.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically satisfied bedside EEG.  Hyperventilation and photic stimulation were not possible.  This is a 20-minute EEG with impedances under 5 kilohms with the exception of the T1-T2 electrode.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat unusual and a little disorganized.  There is a 9 Hz alpha rhythm in the pattern of generous beta.  There are intermittent asymmetries between the 2 hemispheres as a lower voltage pattern on the right.  There is a single right mid temporal sharp wave noted.  As the recording continues, there are paroxysmal bursts noted from either hemisphere as well as some bursts of rhythmic frontal delta.  Features of sleep include an increase in background slowing as well as vertex waves.
+Heart rate 90 bpm.
+IMPRESSION:  This is an abnormal EEG frontal delta at this age due to,
+Background slowing and disorganization.
+Bursts of frontal delta or shifting slowing.
+An asymmetry between the 2 hemispheres with a lower voltage pattern on the right.
+CLINICAL CORRELATION:  Only a single sharp wave was noted which must therefore be considered artifact.  This EEG supports a bihemispheric disturbance of cerebral function.  This could be due to a toxic or metabolic disturbance or other bihemispheric pathology.
+
+
+

@@ -1,0 +1,38 @@
+History:	54 year old female with persistent change in mental status and possible
+autoantibody encephalitis.
+Medications:	levetiracetam, lacosamide
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+There is a fragmentary posterior dominant rhythm present 7-8Hz.  Background activity was
+characterized by diffuse low voltage delta and theta activity with absence of the expected anterior
+to posterior gradient of frequencies.  Stage I and II sleep is identified. The appearance of right
+temporal PLEDs during sleep recurs.
+There is intermittent right temporal focal slowing.  Right temporal PLEDs are seen during sleep.
+No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  The orofacial dyskinesias persist
+during wakefulness.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Focal slowing, polymorphic, intermittent, right frontotemporal
+PEDs (periodic epileptiform discharges), intermittent, right frontotemporal
+Interpretation:
+This is an 24 hour video ABNORMAL EEG because of diffuse background slowing, focal right
+temporal slowing, and right PEDs.  These findings suggest a focal brain lesion with epileptiform
+potential in the right temporal region.  No clinical or electrographic seizures are present.  These
+findings were conveyed to the primary team.
+
+
+
+
+

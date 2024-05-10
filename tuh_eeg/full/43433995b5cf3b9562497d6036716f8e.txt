@@ -1,0 +1,13 @@
+CLINICAL HISTORY:	53 year old male with Crohn disease, Wernicke encephalopathy, delirium and hallucinations.
+MEDICATIONS: Zofran, Toradol, Pantoprazole,  Lovenox, Haldol, Hydromorphone, Thiamine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed. The patient is confused during the EEG.
+DESCRIPTION OF THE RECORD:  There are sections of the record where the posterior dominant rhythm reaches 9 hertz. Other sections include background delta and theta. In this challenging bedside recording, there is a suggestion of some
+intermittent posterior delta. Other sections include a pattern when the patient appears to be awake, but the background is slow.
+HR: 	N/A.
+IMPRESSION: Abnormal EEG due to:
+1.	Intermittent background slowing.
+2.	Occasional posteriorly predominant slowing.
+CLINICAL CORRELATION:   This EEG supports a diffuse disturbance of cerebral function. The findings described are nonspecific and can be seen in a delirium of other diffuse disturbance of cerebral function. Correlation with imaging and history is suggested.
+
+
+

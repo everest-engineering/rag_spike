@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 22-year-old male with an unusual spell during an MRI with gadolinium and several year history of feeling as if he is loosing contact with the environment, as well as episodic panic.
+INTRODUCTION:  Digital video EEG was performed in the lab/bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.
+As the patient becomes drowsy, theta is identified from the temporal regions bilaterally.
+Mu activity was noted, but testing was not performed to confirm this.
+Photic stimulation was performed as the patient was drifting off to sleep, but did elicit a driving response.  Photic stimulation elicited harmonic and supraharmonic driving.
+Hyperventilation produces a small amount of theta.
+Heart rate:  60 BPM.
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  This is the third EEG for this individual.  The first EEG immediately after his symptoms was associated with left temporal focal slowing, but this EEG is normal.
+
+
+

@@ -1,0 +1,30 @@
+History:	39 year old woman with Down syndrome and seizures.
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9-9.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess polymorphic theta activity is present.  Patient remains
+awake throughout the recording.
+No focal slowing is present.  No clear epileptiform discharges are present.
+Hyperventilation is attempted but patient is uncooperative with it.  Stepped photic stimulation from
+1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.  Nearly
+continuous lateral eye movement artifact is present in bilateral frontal leads.
+Summary of Findings:
+Artifact, eye movement
+No stage 2 sleep
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is a mildly abnormal awake-only 26 minute EEG due to mild diffuse slowing and
+disorganization. These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  Nearly continuous lateral eye movement artifact is present in bilateral frontal leads -
+that could mask subtle anterior slowing and epileptiform discharges.
+
+
+
+
+
+

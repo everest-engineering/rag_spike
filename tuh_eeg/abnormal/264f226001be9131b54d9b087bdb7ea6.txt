@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 45 year old right handed male with left carotid stenosis.
+MEDICATIONS: Lantus, Amitriptyline, Gemfibrozil, Lisinopril, Humalog, Metoprolol, Carisoprodol, Endocet, ASA, Plavix
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed, but hyperventilation was deferred. This was an awake record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11.7 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. In maximum wakefulness, there is scant, isolated bursts of 4-5 Hz activity in frontotemporal regions. Photic stimulation elicits no driving.
+HR: 81 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Occasional theta noted in the background.
+CLINICAL CORRELATION: No focal nor epileptiform features were identified. The theta identified above may be due to this patient's medications.
+
+
+

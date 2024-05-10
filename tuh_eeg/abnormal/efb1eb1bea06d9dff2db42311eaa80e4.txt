@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 64-year-old gentleman with history of hypertension, alcoholic cirrhosis, stroke presents with seizures.
+MEDICATIONS:  Keppra, valproic acid, and others.
+INTRODUCTION:  A digital EEG was performed in the lab using standard international 10-20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation was not performed.  Photic stimulation was not performed.  This tracing captures wakefulness through drowsiness.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 6.5 to 7 Hz well formed on the right side in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity.  The background activity is characterized by diffuse slowing consisting of 5-6 Hz theta activity intermixed with 3 to 3.5 Hz delta activity.  There is intermittent left posterior quadrant slowing in theta and delta frequencies with loss of faster frequencies and attenuation.  This activity was associated with occasional spikes and spike-and-wave complexes with no evolution.  There were also triphasic waves seen intermittently with an anterior-posterior gradient with a frequency of 1.5 Hz, occasionally well formed on the right side.  The background is intermixed with periodic lateralized epileptiform discharges seen in the left posterior quadrant lasting for 1 to 1-1/2 minute with no evolution or behavioral changes.  Heart rate was 60 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording capturing the patient in a wakefulness and drowsiness due to,
+Disorganized and slow background activity in theta and delta range.
+Left posterior quadrant slowing with loss of faster frequencies and attenuations.
+Left posterior quadrant occasional spikes and spike-and-wave complexes with no evolutions.
+Presence of triphasic waves.
+Left posterior quadrant PLEDs maximal at T5 with no behavioral changes or evolutions.
+CLINICAL CORRELATION:  The diffuse slowing and triphasic waves are suggestive of either metabolic, toxic, anoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of medications or bilateral cerebral dysfunctions.  Left focal slowing with loss of faster frequencies and attenuation is consistent with a history of left MCA stroke. Occasional spikes in left posterior region are suggestive of underlying epileptogenicity. PLEDs suggest underlying cortical irritability due to an underlying structural lesion such as stroke, tumor, or infection predisposing to epileptic seizures. These PLEDs did not evolve in seizures. This does not rule out intermittent seizures.  Clinical correlation is recommended.
+
+
+

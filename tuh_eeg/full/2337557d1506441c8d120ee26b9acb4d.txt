@@ -1,0 +1,14 @@
+This is an outpatient EEG.
+CLINICAL HISTORY:  This is a 39-year-old right-handed woman with epilepsy, which developed 2 years ago.  No clear aura.  No postictal impairment.  The patient is aware of shaking and incontinence.  Family history of epilepsy.  The patient was described as a very poor historian.
+MEDICATIONS:  Keppra, promethazine, Dilaudid, Zofran, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one-channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm.  In early drowsiness, the background EEG becomes a little bit disorganized with slowing of the alpha rhythm.  Brief sleep includes spindle activity and vertex waves.  Sleep, however, was not sustained.
+Hyperventilation, produces an increase in amplitude and a small amount of slowing.
+Photic stimulation elicited scant driving.
+Heart rate:  78 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  Normal EEG, does not exclude a diagnosis of epilepsy.  No previous EEGs or other historical information was available at this time.
+
+
+
+

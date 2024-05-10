@@ -1,0 +1,15 @@
+History:	33 YR OLD MALE PRESENTS WITH H/O S/P PEA ARREST SEVERAL DAYS AGO
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description: No posterior dominant rhythm is present.  The normal anterior to posterior gradient of frequencies is not seen.  The background consists attenuated polymorphic delta activity and diffuse, frontally maximal sharp waves with triphasic morphology and an anterior to posterior phase lag. They occur at ~ 1 Hz.  These waveforms appear to correspond to inhalation and exhalation.  No normal sleep
+There is no spontaneous state change during the recording and no change with visual, auditory, or tactile stimuli.
+HR was 126.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL 22-minute EEG due to marked diffuse slowing and lack of the background reactivity. These findings are indicative of marked diffuse cerebral dysfunction.  Continuous triphasic waveforms likely represent ventilator artifact.
+
+
+

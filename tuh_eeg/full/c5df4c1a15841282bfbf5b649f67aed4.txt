@@ -1,0 +1,25 @@
+
+History:	61 YR FEMALE WITH LONG H/O SZS PRESENTS WITH CC OF SZ.  CT. CHRONIC
+LEFT PCA/ACA/MCA INF.  PMHX:  SZS, DM, CVA, HEADACHES
+Medications:	TOPAMAX,KEPPRA
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+There is right -to-left intrahemispheric asymmetry with paucity of faster frequencies and voltage
+attenuation over the left hemisphere.  Over the right hemisphere, the posterior dominant rhythm
+consists of a well-formed 9-Hz alpha activity with good anterior-to-posterior frequency-amplitude
+gradient.  There is no clear posterior dominant rhythm over the left.  The background over the left
+hemisphere consists of a very low amplitude theta and delta activity.  As drowsiness progresses,
+No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 60 bpm.
+Summary of Findings:
+, Focal slowing and attenuation of the left hemisphere
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of moderate focal left hemispheric slowing
+and attenuation. This finding is indicative of a focal cerebral dysfunction, possibly structural in
+etiology.  The lack of epileptiform discharges on a routine EEG does not rule out a diagnosis of
+
+

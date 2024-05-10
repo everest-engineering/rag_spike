@@ -1,0 +1,30 @@
+History:	50 year old woman with a history of tuberous sclerosis.
+Medications:	TOPIRAMATE, CLONAZEPAM PRN, LAMOTRIGINE, TRAMADOL, STRATTERA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+Rare polymorphic polymorphic theta activity is captured over the right midtemporal region.
+Several moderate amplitude right midtemporal sharp waves are noted.  Maximal scalp negativity
+occurs over the T4 electrode.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Sharp waves, few, right temporal, mid, over T4 lead
+No stage 2 sleep
+Focal slowing, polymorphic, rare, mild, right temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy 28-minute EEG due to rare mild right midtemporal focal
+slowing and several right midtemporal epileptiform discharges These findings are indicative of a
+focal right midtemporal structural lesion with epileptogenic potential.
+
+
+
+
+
+

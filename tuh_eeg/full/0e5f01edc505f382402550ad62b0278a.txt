@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 69-year-old male with known ascending arch aneurysm, recent worsening after GI bleed.
+MEDICATIONS:  Etomidate, midazolam fentanyl, vecuronium, protamine , gabapentin, scopolamine patch, others.
+INTRODUCTION:  Continuous EEG monitoring was performed in the OR using standard 10-20 system of electrode placements with standard intraoperative montage.  Impedances were somewhat above 5 kilohms.
+DESCRIPTION OF THE RECORD:  As the recording begins, the background EEG includes a rich background with generous fast activity and some beta and theta.
+The preprocedure baseline includes some shifting slowing and   intermittent, bilateral attenuations were noted.
+Anesthesia effect is noted at 9:02:59 with intermittent attenuations.
+Aortic arch is clamped between the innominate artery and the carotid artery.  There is a shunt placed around this.  There is some head-rocking artifact.
+Intermittent attenuations were noted and were reported to the surgeon.
+The EEG attenuated on the right at 10:37:12. This was reported to the surgical team and the technique was modified. EEG returned to baseline at 10:42:07
+Heart rate 66 bpm.
+IMPRESSION:  EEG monitoring during this aortic arch surgery without significant hypothermia was remarkable for:
+Shifting asymmetries.
+Transient attenuation; particularly on the right.
+CLINICAL CORRELATION:  Bilateral findings may reflect a generalized process such as anesthesia effect or other generalized process. Focal features were transient. This patient was monitored at temperature of 34.7 and so the typical EEG patterns of hypothermia were not achieved.
+
+
+

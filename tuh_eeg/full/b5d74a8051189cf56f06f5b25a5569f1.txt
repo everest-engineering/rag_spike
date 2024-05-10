@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 46-year-old male with epilepsy since birth, but seizure free for the past 3 years.  Previously, seizure-free for 10 years.  Past history of birth defect and past history of wheelchair use.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically satisfactory EEG, capturing wakefulness through stage II sleep, with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there was a 10 Hz posterior dominant rhythm, which was symmetric and reactive to eye opening.  There was a small amount of low voltage, frontocentral beta.  In relaxed wakefulness and in the transition to sleep, there is prominent occipital rhythmic theta.  Vertex waves, K complexes, spindles, and POSTS were noted in stage II sleep.
+Hyperventilation did not significantly activate the record.
+Photic stimulation was performed while the patient was drifting off to sleep.  Minimal driving was noted.
+Heart rate 60 of bpm.
+IMPRESSION:  This 40-minute digital video EEG was within normal limits in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The rhythmic occipital theta in the transition to sleep is not an epileptogenic finding.
+
+
+

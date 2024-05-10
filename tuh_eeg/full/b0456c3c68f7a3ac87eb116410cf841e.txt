@@ -1,0 +1,14 @@
+EEG TYPE:  Long-term monitoring.
+CLINICAL HISTORY:  This is a 57-year-old male, status post fall with subsequent left temporal ICH and right subdural hematoma, status post ventriculostomy evaluated for not waking up and episodes of eye deviation to the left in the neurosurgery ICU.
+MEDICATIONS:  The patient's medications include Lamictal, Keppra, Versed, and others.
+INTRODUCTION:  A digital video EEG monitoring was performed using the standard international 10-20 system of electrode placement and one channel of EKG monitoring.  Records were daily reviewed for EEG abnormalities and clinical events.  Patient was in a sedated/comatose state.
+DESCRIPTION OF THE RECORD:  Interictal EEG:  In the comatose/sedated state there is diffuse slowing and attenuation of the background consisting of 2 to 2.5 Hz, 20-40 microvolt delta activity mixed with 4-5 Hz, 20-30 microvolt theta activity.  There is a spontaneous variability seen with an increase in background frequency intermittently.  There are intermittent slowing, 1.5 to 2 Hz, 20-30 microvolt in left anterior temporal and midtemporal regions at times almost continuously.  There are also occasional independent bursts of right temporal slowing.  There was occasional right sharp wave discharges with no evolution with improvement towards the end of this recording.  Towards the second half of the recording, background frequency improved to 5-6 Hz theta and 10-11 Hz alpha activity.  There were diffuse muscle artifacts started on 12/18/2012 at 5 a.m. lasting for several hours intermittently.  Heart rate was 90 to 110 beats per minute.
+CLINICALLY EVENTS:  There were no clinical events noted during this recording.
+IMPRESSION:  This is an abnormal long-term EEG monitoring study due to;
+Diffuse slowing and attenuation of background activity.
+Independent bilateral temporal slaving greater on the left side
+Occasional sharp wave discharges in the occipital and parietal regions of right cerebral hemispheres with no evolution or electrographic seizures, with improvement towards the end of the recording.
+CLINICAL CORRELATION:  Diffuse slowing of the EEG suggestive of diffuse cerebral dysfunction due to metabolic toxic anoxic degenerative or infectious encephalopathy or a postictal state.  Alternatively, it could be due to the effect of medications, in this case, Versed or phenobarbital.  The presence of focal slowing is indicative of functional or structural lesions, in this case, left temporal intracerebral hemorrhage and right subdural hematoma.  The presence of right temporo-occipital sharp waves is indicative of cortical excitability that places this patient at higher risk for seizure activity.  Clinical correlation is recommended.  Please note, the patient is tachycardic.
+
+
+

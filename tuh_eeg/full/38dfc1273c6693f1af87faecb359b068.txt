@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 53-year-old male transferred from outside hospital with left-sided hemorrhage, subdural and parenchymal hematoma for subdural drainage.
+MEDICATIONS: Cefazolin and Keppra.
+INTRODUCTION: A 20-minute digital video EEG was performed in the bedside using standard 10-20 system of electrode placement with 1 channel EKG. This record captures wakefulness through sleep.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 9 Hz posterior dominant rhythm. In wakefulness and drowsiness, there are bursts of rhythmic frontal delta noted in the frontal regions, slightly more prominent in the left compared to the right. As the patient becomes drowsy, there is a subtle asymmetry with drop out of faster frequency activity in the left posterior region in comparison to the right. Deeper stages of sleep are not sustained.
+Heart rate 60 bpm.
+IMPRESSION: Abnormal EEG due to:
+FIRDA with slight asymmetry .
+A slight disruption of faster frequency activity in the left posterior regions noted intermittently.
+CLINICAL CORRELATION:  No epileptiform features were noted. These findings may be correlated with imaging. Frontally predominant rhythmic delta can be seen in a number of different conditions including increased intracranial pressure, frontal pathology, or toxic or metabolic component. The prominent frontal rhythmic slowing may be correlated with the imaging and other clinical factors.
+
+
+
+

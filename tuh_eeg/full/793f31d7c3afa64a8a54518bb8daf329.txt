@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 30 year old woman with refractory epilepsy for 1 year, abnormal MRI of the brain. The patient describes episodes with head jerking, loss of consciousness and blackout spells. Also depression, dysphoria and feelings of hopelessness and suspicion.
+MEDICATIONS: Keppra.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel if EKG. Hyperventilation and photic simulation were completed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm which is sometimes disrupted on the right when compared to the left. Prominent features in the record include intermittent right temporal focal slowing, right anterior temporal spike and still wave or sharp and still wave complexes and a single burst with a burst of left anterior temporal sharp waves. Hyperventilation accentuates the focal right anterior temporal sharp waves. Features of drowsiness include POSTS. Photic stimulation elicits a driving response.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Right temporal lobe sharp waves.
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for epilepsy. Correlation with imaging may be important but the primary epileptiform activity in this record is on the right.
+
+
+
+

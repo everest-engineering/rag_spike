@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 78 year old right handed female with carbon monoxide episode with blackout spells on April 20, 2010. Also history of intracerebral hemorrhage and vertigo. The patient is a 78-year-old right handed female. This is an outpatient EEG.
+
+MEDICATIONS: Lasix, Simvastatin, Norvasc, Flecainide, Sodium Chloride, Omeprazole.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.2 hertz alpha rhythm of 50 microvolts. There is some prominent, sharply contoured theta identified in the background. Wave forms that resemble rhythmic temporal theta or psychomotor variant are noted in the record, but are identified primarily on the left. In relaxed wakefulness, occasional shifting arrhythmic delta is observed. Photic stimulation elicits a driving response.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG for an adult of this age due to:
+1. Background slowing. Alpha rhythm is a little slow for this patient's age.
+2. Shifting arrhythmic delta activity.
+CLINICAL CORRELATION: There is no definitive epileptiform activity, but there is a normal variant with temporal theta of drowsiness. This can be confused with epileptiform activity. To be certain, additional recording capturing sleep is advised in this non-English speaker, either sleep deprived study or a longer 1 hour study might be the easiest way to accomplish this.
+
+
+
+

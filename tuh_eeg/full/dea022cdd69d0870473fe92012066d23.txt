@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 42 year old woman with epilepsy since age 2, last seizure in 2006.
+MEDICATIONS: Lamictal.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and sleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta. In wakefulness, accentuated by hyperventilation, there is subtle left temporal slowing. There is some left temporal pop artifact, but there is also a suggestion of a left anterior temporal sharp wave, which has an appropriate field of spread and an appropriate morphology. Features of stage 2 sleep include vertex waves and spindles. The patient is asleep during photic stimulation. A subtle left temporal asymmetry is noted in photic. Hyperventilation accentuates the subtle focal features.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due:
+1. Subtle left temporal focal slowing.
+CLINICAL CORRELATION: Despite the artifacts described above, there does appear to be an underlying left temporal sharp wave. An additional EEG recording capturing more sustained sleep with special electrodes may be helpful to clarify this issue.
+
+
+
+

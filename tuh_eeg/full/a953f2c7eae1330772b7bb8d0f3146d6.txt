@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 56 year old woman with muscular dystrophy and intracerebral hemorrhage.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed at bedside using standard  10-20 system of electrode placement with 1 channel of EKG. Patient is intubated.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a mixed frequency pattern with generous frontocentral beta activity, smaller amounts of theta and scant amounts of delta. There is a bit more muscle artifact on the right compared to the left. As the muscle artifact drops out, there is shifting arrhythmic delta activity sometimes a bit more prominent or more rhythmic in the right frontocentral region or left. Stimulation of the patient produces an increasing faster frequency activity.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a mixed frequency background.
+2. Generous frontocentral beta.
+CLINICAL CORRELATION: No epileptiform features were identified. The shifting slowing may be correlated with imaging. The mixed frequency background is a nonspecific finding, but supports a diffuse disturbance of cerebral function.
+
+
+

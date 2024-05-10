@@ -1,0 +1,56 @@
+AGE: 70 y.o.
+SEX: male
+START DATE OF STUDY: 12/01/2015 at 20:01 END DATE OF STUDY: 12/02/2015 at 09:09
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: long term video monitoring EEG #: 15-341
+HISTORY:
+70 y.o. male with a history of right cerebellopontine angle tumor s/p resection referred for EEG after a witnessed event where his eyes rolled back, he had foaming at the mouth, and tongue biting. Following this episode he was given Ativan and loaded with fosphenytoin and transferred from the floor to the ICU.
+MEDICATIONS: Ativan , fosphenytoin SEDATION: as above
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (12/1/2015, 20:01 - 12/2/2015, 06:00) BACKGROUND:
+The waking background is continuous and asymmetric.
+At the start of the study on this day, the left hemisphere has fair organization and consists of delta, theta, and beta
+frequencies posteriorly with beta activity more anteriorly. The right hemisphere is disorganized and consists of lower amplitude theta, alpha, and delta.	The difference in amplitude of rhythms between the hemispheres improves over the course of the day.
+There is evidence of reactivity and state change; during periods of relative wakefulness, there is increased prevalence of alpha and theta activity diffusely.
+As the record progresses on this day, fragments of an irregular posterior dominant rhythm at 10 Hz are seen better over the left.
+As the record continues to progress, the posterior dominant rhythm is seen well over both hemispheres.
+There is mild generalized slowing, improving over the course of the day.
+Rhythms have higher amplitude over the bilateral posterior regions of the head (T3, TS, T4, T6, C3, P3, 01, T4, T6, C4, P4, 02), which are consistent with breach rhythm.
+There is continuous bilateral posterior polymorphic slowing slowing.
+Sleep is at first characterized by slowing of background rhythms. As the study progresses, sleep is better organized and characterized by synchronous and symmetric sleep spindles and K complexes .
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG strip captured a heart rate in the 60s-70s
+DAY 1 IMPRESSION:
+This is an abnormal video EEG due to:
+Mild generalized slowing and suboptimal organization, improving over the course of the day
+More attenuated rhythms over the right hemisphere, improving over the course of the day
+Continuous bilateral posterior polymorphic slowing slowing
+Higher amplitude rhythms over the bilateral posterior regions of the head, which is consistent with breach rhythm.
+DAY 2 (12/1/2015, 06:00 - 12/2/2015, 09:09)
+BACKGROUND: Mild generalized slowing and suboptimal organization
+normalize on this day. GENERALIZED SLOWING: as above
+FOCAL SLOWING: No change in bilateral posterior slowing. However, amplitude asymmetry between hemispheres has resolved.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) : None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured a heart rate -60 bpm.
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+This is an abnormal video EEG due to:
+Continuous bilateral posterior polymorphic slowing slowing
+Higher amplitude rhythms over the bilateral posterior regions of the head, which is consistent with breach rhythm.
+FINAL IMPRESSION:
+This is abnormal video EEG due to:
+Mild generalized slowing and suboptimal organization, which resolve by day 2
+More attenuated rhythms over the right hemisphere, which resolve by day 2
+Continuous bilateral posterior polymorphic slowing slowing
+Higher amplitude rhythms over the bilateral posterior regions of the head, which is consistent with breach rhythm.
+FINAL CLINICAL CORRELATION:
+These findings are consistent with mild diffuse cerebral dysfunction that resolves by day 2.
+Attenuated rhythms over the right hemisphere, resolving by day 2, is consistent with physiologic dysfunction over that region, and in the appropriate clinical setting, would be consistent with resolving postictal activity from that area.
+Bilateral posterior polymorphic focal slowing is an etiologically nonspecific indicator of bilateral posterior cerebral dysfunction.
+Breach rhythm over the posterior regions of the head is consistent with this patient's history of craniotomy.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  30 year old right handed male with loss of consciousness, considered by standards to be a seizure, followed by sore tongue and muscle aches.  Alcohol and sleep deprivation related seizure.
+MEDICATIONS:  Ativan, Tylenol, Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm.  Drowsiness is characterized by rhythmic central theta as well as generous beta.  Hyperventilation does not activate the record.  Photic stimulation elicits abundant driving.
+HR:    50 bpm and somewhat irregular.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Evaluation of this patient's bradycardia may be warranted.
+
+
+

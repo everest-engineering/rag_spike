@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 75-year-old woman admitted on January 4th, after she fell out of bed and had tonic clonic seizure in emergency room.  Alzheimer disease, aortic aneurysm.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION: Twenty minute Digital video EEG is performed in the bedside using standard 10-20 system of electrode placement with one channel of EKG.   Hyperventilation and photic stimulation were not possible.  The patient was reasonably cooperative.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG has been replaced with a lower voltage, mixed frequency, relatively featureless pattern.  On occasion, there is a glimpse of an 8 Hz alpha rhythm, better identified on the left compared to the right.  The patient was upset and crying during portions of the record with a lower voltage more organized pattern on the little bit more alpha frequency, sometimes identified bilaterally.  Features of drowsiness included an increase in background slowing.  Occasional shifting slowing was noted.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Paucity of the normal waveforms anticipated for an adult of this age in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The absence of epileptiform activity does not exclude a diagnoses of epilepsy or reactive seizure.  If epilepsy is an ongoing consideration a followup study capturing sleep may be a value.
+
+
+
+
+

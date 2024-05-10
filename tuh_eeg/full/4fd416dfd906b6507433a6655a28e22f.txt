@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 74-year-old woman with long history of epilepsy and blackouts, and hearing voices since 1994.  No events in the last 6 months.
+MEDICATIONS:  Keppra, topiramate.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and a sleep record in a relatively drowsy patient.  This is a 20-minute study with some technical challenges including impedance issues.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm.  The patient quickly transitions into drowsiness with an increase in beta followed by rhythmic central theta.  Vertex waves, K complexes, spindles, and POSTS are noted in stage 2 sleep.
+Hyperventilation was performed while the patient was drifting off to sleep.
+Photic stimulation elicits a driving response.  In addition, during photic stimulation, rhythmic theta is noted from the right hemisphere particularly in the temporal region.
+Heart rate 50 bpm.
+IMPRESSION:  This is an abnormal EEG due to rhythmic right temporal slowing noted in wakefulness.
+CLINICAL CORRELATION:  This patient's bradycardia has been previously defined.  In comparison to this patient's many previous studies, this is the 1st EEG without right temporal sharp waves.
+
+
+

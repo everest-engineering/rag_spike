@@ -1,0 +1,14 @@
+History: 44 year old right handed woman who presented with 3 episodes of seizures over the past month with urinary incontinence and no recollection.
+Medications: Keppra, HCTZ
+Sedation: none.
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, drowsy, asleep, hyperventilation. photic
+Description:
+The waking background is well organized, with a 25-40uV, 11Hz symmetric alpha rhythm which attenuates on eye opening. Diffuse, frontally predominant 5·10uV, 18·25Hz beta activity is also seen. During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No epileptiform discharges are present.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving. Hyperventilation is performed for 240 s and produces mild diffuse symmetric background slowing. HR is 70 bpm.
+Summary of Findings:
+Interpretation:
+This is a NORMAL EEG, awake and asleep. No clinical or electrographic seizures are present The lack of epileptiform discharges on a routine EEG does not rule out a diagnosis of epilepsy.
+
+
+

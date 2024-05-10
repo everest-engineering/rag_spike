@@ -1,0 +1,29 @@
+History:	56 YR MALE WITH CC OF NAUSEA AND VOMITING. NEURO CONSULTED FOR
+LEFT SIDE WEAKNESS. X 1WK..  PMHX: SZ, TIA, DM, HTN, CVA.  NON
+COMPLIANT TO MEDS.
+Medications:	INSULIN, METOPROLOL, KEPPRA, FUROSEMIDE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording and increases during drowsiness.  During drowsiness, the background slows to central
+theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+Intermittent polymorphic delta activity is present in the T3 region.  No epileptiform discharges are
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 78
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Diffuse slowing, polymorphic, continuous, mild diffuse
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left
+midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific. In addition there is mild  diffuse background slowing.  This finding is indicative of mild
+diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+

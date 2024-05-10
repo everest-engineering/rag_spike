@@ -1,0 +1,50 @@
+AGE: 76 y.o.
+SEX: male
+DATE OF STUDY: 10/16/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG #: 15-1533
+HISTORY:
+76 y.o. male with a history of chronic left PCA
+territory infarct. Also suggests remote left MCA territory infarcts and severe bilateral carotid disease. Referred for routine EEG for headache and dizziness.
+MEDICATIONS:
+Current Outpatient Prescriptions: KEPPRA
+multivitamin	(THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+ranitidine (ZANTAC) 300 mg tablet, Take 1 tablet by mouth nightly.
+budesonide-formoterol	(SYMBICORT) 160-4.5 mcg/actuation inhaler, Inhale 2 puffs into the lungs 2 times daily.
+senna (SENOKOT) 8.6 mg tablet, Take 1 tablet by mouth daily. lisinopril (PRINIVIL,ZESTRIL) 5 mg tablet, Take 1 tablet by mouth daily.
+albuterol (PROAIR HFA) 90 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 6 hours as needed for Wheezing.
+amlodipine (NORVASC) 10 mg tablet, Take 1 tablet by mouth daily. aspirin 81 mg EC tablet, Take 1 tablet by mouth daily. clopidogrel (PLAVIX) 75 mg tablet, Take 1 tablet by mouth daily. hydrochlorothiazide	(HYDRODIURIL) 25 mg tablet, Take 1 tablet by mouth daily.
+metformin (GLUCOPHAGE) 500 mg tablet, Take 1 tablet by mouth daily (with breakfast) .
+metoprolol (LOPRESSOR) 50 mg tablet, Take 1 tablet by mouth 2 times daily.
+Dextromethorphan-Guaifenesin	(GUAIFENESIN-DEXTROMETHORPHAN) 10-100 mg/5 mL Syrup, Take 5 mLs by mouth 3 times daily as needed.
+Dextromethorphan-Guaifenesin	(GUAIFENESIN-DEXTROMETHORPHAN) 10-100 mg/5 mL Syrup, Take 5 mLs by mouth 3 times daily as needed.
+tramadol (ULTRAM) 50 mg tablet, Take l tablet by mouth every 8 hours as needed.
+prednisone (DELTASONE) 20 mg tablet, Take 20 mg by mouth daily. No current facility-administered medications for this visit.
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background	consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.	Wakefulness is characterized by an asymmetric but reactive 9 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. The alpha seems to be disrupted on the right, and ·there is occasional right occipital
+frontal slowing.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen. Shifting occipital slowing is seen in drowsiness
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+Focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There·are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm, irregular is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is an abnormal Awake and asleep routine EEG but does not support or refute the diagnosis of epilepsy.
+For this adult with significant carotid disease but no prior R occipital or parietal infarcts, these finding should be correlated with exam and imaging.
+
+
+
+

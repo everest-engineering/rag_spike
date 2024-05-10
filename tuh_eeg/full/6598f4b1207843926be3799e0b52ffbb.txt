@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 68 year old right handed male with epilepsy, seizure-free for the last 2 years. History of C6-C7 cervical DJD.
+MEDICATIONS: Keppra, Lamictal.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hz, 30 microvolt posterior dominant rhythm and a generous amount of low voltage, frontocentral beta. Drowsiness is characterized by an increase in theta with brief vertex waves. As the patient starts to transition in and out of sleep, there are some shifting asymmetries in the frontocentral region. Unfortunately, there is a fair amount of various artifacts in this record. Photic stimulation does not activate the record.
+HR: 84 bpm
+IMPRESSION: Very mildly abnormal EEG due to:
+1. Mild shifting slowing in drowsiness.
+CLINICAL CORRELATION: No epileptiform features were noted. The shifting slowing is of unclear clinical significance and may be correlated with imaging.
+
+
+
+

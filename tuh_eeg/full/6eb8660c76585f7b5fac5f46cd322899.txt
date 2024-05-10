@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 78-year-old male with cardiac ablation, left-sided infarct, declining mental status, mass of left MCA infarct with associated right ACA infarct, intubated, comatose, not able to move the right.
+MEDICATIONS:  Amiodarone, Benadryl, Cardura, insulin, Lasix, metoprolol, and morphine.
+INTRODUCTION:
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The left hemisphere demonstrates a low voltage, overall suppressed pattern, which is featureless with smaller amounts of delta.  The right hemisphere demonstrates a theta pattern.  In addition, there is sharply contoured activity or sharp waves noted typically at C4, occasionally with more of a spread to F8 or Cz.
+Tactile stimulation of the patient produces a small increase in faster frequency on the right hemisphere and may slightly accentuate epileptiform activity at F8 and C4.
+Overall, the activity in the right hemisphere is markedly rhythmic with a clear __________ phase reversal.
+Heart rate is irregular, 66 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Essentially suppression of activity from the left hemisphere.
+Markedly slow pattern on the right.
+Rhythmic theta noted from the right hemisphere particularly in the central temporal regions.
+Epileptiform activity with sharp waves at C4 or F8.
+CLINICAL CORRELATION:  No clinical seizures were recorded.  The findings of the EEG were discussed with the clinical team.  This EEG supports a severe disturbance of function in the left hemisphere, congruent with imaging.  There is epileptiform activity in the right hemisphere, which __________ ongoing vigilance.
+
+
+

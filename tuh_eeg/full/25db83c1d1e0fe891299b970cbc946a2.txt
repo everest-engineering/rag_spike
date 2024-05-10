@@ -1,0 +1,39 @@
+History:	82 year old female with primary respiratory arrest and witnessed seizure.
+Medications:	None
+Sedation:	None
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present. Much of the background is severely attenuated and
+suppressed.  Over time, the background is characterized by a burst suppression pattern in which
+there are diffuse bursts of bilateral spikes associated with clinical myoclonus seen on the video.
+There is diffuse attenuation.  No normal sleep architecture was present.
+No focal slowing is present.  Frequent bilateral periodic epileptiform discharges (BiPLEDs) are
+present during the bursts which are accompanied by myoclonus.  BiPLEDs are also seen that are not
+associated with myoclonus.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+BiPLEDs (bilateral periodic lateralized epileptiform discharges, intermittent, bilateral diffuse
+Attenuation, continuous, bilateral diffuse
+Burst-suppression pattern, continuous, bilateral diffuse
+Interpretation:
+This is an ABNORMAL24 hour video EEG because of diffuse and severe background attenuation, a
+burst-suppression pattern, BiPLEDs, and clinical myoclonus.   These findings are etiologically
+nonspecific indicators of severe diffuse cerebral dysfunction.  Burst-suppression pattern carries a
+grave prognosis for meaningful neurological recovery.  BiPLEDs suggest diffuse brain injury with
+epileptiform potential.  These findings were conveyed to the primary team.
+
+
+
+
+

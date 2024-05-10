@@ -1,0 +1,26 @@
+History:		87 year old man with a history of stroke, dementia and seizures, now presents with a seizure and change in MS.
+Medications:	Keppra Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+
+Description:
+There is right-to-left intrahemispheric asymmetry with lack of PDR or AP gradient over the left hemisphere. The background over the right consists of 8-8.5 Hz PDR with expected AP gradient. The background over the left consists of polymorphic slow delta activity with continuous quasi-periodic (quasi? PLEDs) sharp waves at 0.75-1 Hz with maximal scalp negativity over F3/C3 electrodes. No normal sleep architecture is present.
+
+No electrographic seizures are present.
+
+Hyperventilation and photic stimulation are not performed.   Diffuse EMG artifact that is more pronounced over the left is frequently seen and obscures some portions of the recording.
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, severe
+Other, continuous, left frontal, quasi-PLEDs, frontocentral No electrographic seizures
+Diffuse slowing, polymorphic, mild
+
+Interpretation:
+This is a very ABNORMAL 21-minute awake-only EEG due to (1) mild diffuse slowing, (2) continuous severe left hemispheric slowing and (3) continuous left frontocentral quasi-periodic epileptiform discharges (quasi-PLEDs). Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific. Continuous focal slowing and frequent epileptiform discharges in the left frontocentral region are indicative of a potentially epileptogenic focal structural lesion in the left
+hemisphere, notably frontocentral region.  These findings were conveyed to the primary team.  Patient will be placed on continuous  EEG monitoring.
+
+
+
+
+

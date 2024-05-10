@@ -1,0 +1,11 @@
+TYPE OF STUDY:  Routine EEG at bedside, awake and sleep.
+DIAGNOSIS:  Rule out seizure.
+CLINICAL HISTORY:  The patient is a 33-year-old right-handed woman, with past medical history of diabetes and moyamoya disease status post surgical revascularization who presents with 3 days history of headache and transient slurred speech.
+MEDICATIONS:  The patient's medications include aspirin.
+INTRODUCTION:  A digital video EEG was performed at the bedside using the standard international 10/20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation was not performed.  Photic stimulation was performed.  This tracing captures wakefulness through stage II sleep.
+DESCRIPTION OF THE RECORD:  in the most alert state, the alpha rhythm is 11-12 Hz in frequency, 40-50 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity, which is distributed symmetrically, stage I sleep is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifacts as well as the presence of vertex sharp waves and posts.  Stage II sleep is characterized by the presence of K complexes, sleep spindles, and posts.  There are occasional bursts of left anterior and mid temporal slowing at 67/T3 in wakefulness and sleep consisting of 3-3.5 Hz delta frequency, mixed with 4-5 Hz theta activity lasting for 1-2 seconds.  There were no epileptiform discharges or seizures noted during this recording.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate was 60 beats per minutes and regular.
+IMPRESSION:  This is an abnormal EEG due to the left temporal slowing seen during wakefulness and sleep.
+CLINICAL CORRELATION:  The above findings are suggestive of a structural abnormality in the left hemisphere or left temporal dysfunction in this case secondary to history of left MCA stroke.  There were no epileptiform activities or seizures noted during this recording.  If seizure activity is a clinical concern, a bedside EEG monitoring may be helpful.
+
+
+

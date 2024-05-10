@@ -1,0 +1,22 @@
+History:	85 YO FEMALE, DOES NOT UNDERSTAND ENGLISH, PROCEDURE: LEFT
+CAROTID ENDARTERECTOMY
+Medications:
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  During the procedure, diffuse theta and
+delta were seen due to sedation. At times a symmetric burst suppression pattern was seen and the
+team was alerted. The left common carotid was clamped at 11:56 AM. The left internal carotid was
+clamped at 11:57 AM.  There was no background change noted on the EEG. The carotid was
+Summary of Findings:
+No focal slowing or epileptiform discharges
+Interpretation:
+This is a NORMAL EEG during an uneventful left carotid endarterectomy.
+
+
+

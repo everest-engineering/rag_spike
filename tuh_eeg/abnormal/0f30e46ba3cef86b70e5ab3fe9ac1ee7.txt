@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  52 year old male presented with seizures which started 2 months ago.
+MEDICATIONS:  Keppra, Morphine, Famotidine.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is agitated and wearing a hard collar.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 7 Hz alpha rhythm reaching 50 mV.  There is an asymmetry noted with disruption of faster frequency activity on the left compared to the right.  Unfortunately, there are more electrode issues on the left compared to the right as well.  There seems to be a breech rhythm in the right central region. Features of sleep include hypersynchronous rhythmic slowing with brief vertex waves and then immediately and arousal.  Sweat artifact is also noted.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+An asymmetry between the 2 hemispheres with slower activity on the left.
+A modest degree of background slowing and disorganization on the right.
+CLINICAL CORRELATION:  These findings may be correlated with this patient's imaging.  There is a bit more slowing on the left and what seems to be a breech on the right.   No sharp waves were seen.  When this patient is more cooperative, a follow up, outpatient EEG is recommended to more assess the possibility of epileptiform activity.
+
+
+

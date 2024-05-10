@@ -1,0 +1,11 @@
+History:	55 YO FEMALE PRESENTS W/ ALTERED MENTAL STATUS AND TEMP OF 102 ON MONDAY. PT HAS HAD 3 DAYS OF DIALYSIS. PMHX:: HTN, DM, OSA ON BI-PAP, CVA 2002 W/ LEFT SIDE WEAKNESS. MORBID OBESITY, STROKE VS TIA
+Medications:	dilantin, phenytoin, heparin, zosyn, vancomycin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Description: Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness, increasing during drowsiness.  No epileptiform discharges are present. Hyperventilation and photic stimulation are not performed.  Hr was 84
+Summary of Findings: Focal slowing, polymorphic, intermittent, left temporal, mid
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+

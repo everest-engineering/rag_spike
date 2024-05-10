@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 42-year-old woman with recent admission for seizures.  Patient seemed increasingly confused on the 17th, overall mental status was not improving.  No clinical seizures were noted.
+Medications: Vimpat, Neurontin, others,
+INTRODUCTION:  Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  This long-term monitoring session followed a repeat EEG, which demonstrated significant left temporal focal slowing and sharp waves.
+DESCRIPTION OF THE RECORD:
+Background:  In wakefulness, the background EEG is almost completely obscured by muscle or chew artifact.  As the patient becomes drowsy, focal slowing is noted primarily in the left temporal region, but occasionally with some shifting slowing.  Even in sleep, the patient may demonstrate focal jaw activity, which obscures the EEG.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTS.  As the sleep recording continues, the epileptiform activity is noted intermittently, but is not as sustained as it was on the baseline EEG on the 17th.
+Seizures:  None.
+Epileptiform Detections:  This section of the record identifies primarily left temporal sharp waves, some of which are discrete, others which are broader contoured and associated with intermittent left focal slowing.
+IMPRESSION:  abnormal due to:
+L focal slowing
+L temporal sharps
+CLINICAL CORRELATION:  This EEG monitoring session supports a localization related mechanism for epilepsy.  In contrast to the previous EEG monitoring session, in this EEG epileptiform activity and focal slowing was noted on the left.
+
+
+

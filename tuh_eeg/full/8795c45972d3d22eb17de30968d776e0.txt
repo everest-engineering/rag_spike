@@ -1,0 +1,14 @@
+History:	33 YR OLD MALE PRESENTS WITH H/O S/P PEA ARRESTON ARRIVAL NO DOWN TIME NOTED. PROTOCOL STARTED AT 1 AM ON 9/28/14. GOAL TEMP 7AM
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+Description: No posterior dominant rhythm was present.  Background activity is characterized by a burst suppression pattern that consists of bursts of high amplitude delta and theta activity, some of which have sharply contoured discharges intermittently more anteriorly or more posteriorly.  The bursts are without expected anterior to posterior gradient of frequencies. In between the bursts there is complete attenuation of the background.  Early in the record bursts of activity are relatively symmetric over the two hemispheres with about 1:1 BS ratio. As the record progresses the bursts become higher amplitude theta and more continuous with a 2:1 BS ratio.  No normal sleep No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.
+Summary of Findings:
+Burst-suppression pattern, continuous diffuse
+No electrographic seizures
+Interpretation: This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+

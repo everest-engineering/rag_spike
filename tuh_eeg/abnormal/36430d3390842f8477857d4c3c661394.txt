@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 61 year old woman with epilepsy, history of stroke, right-sided weakness, and headache 3 times per week.
+MEDICATIONS: Keppra, Hydralazine, Labetalol, Lasix
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrodes placement with 1 channel of EKG.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized, but demonstrates rhythmic background slowing with a 7.5 Hz alpha rhythm. Features of drowsiness include slow rolling eye movements. Photic stimulation does not activate the record.
+
+HR: 72 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+
+CLINICAL CORRELATION: No epileptiform features are observed. The background slowing may be correlated with this patient's clinical history and medication.
+
+
+

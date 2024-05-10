@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  20 year old right handed female , childhood epilepsy, currently seizure-free.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with channel EKG.  Hyperventilation and photic stimulation were  completed.  This is an awake and a briefly asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is well organized with an 11 Hz alpha rhythm.  Alpha squeak is identified with eye closure.  Abundant low voltage frontocentral beta is noted in relaxed wakefulness and early drowsiness. Vertex waves and POSTS are noted in stage I sleep.  Hyperventilation does not definitively activate the record, but photic stimulation resulted in a vigorous bilateral driving response.
+HR:    72 bpm
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  This is the second normal EEG for this adult with a history of generalized epilepsy.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

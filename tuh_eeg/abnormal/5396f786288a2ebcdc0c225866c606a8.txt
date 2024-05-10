@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  58 year old gentleman who presented with severe agitation and aphasia.  Imaging demonstrated vasogenic edema and a lesion in the left hemisphere, as well as one in the right parasagittal region.
+MEDICATIONS:  Keppra, Midazolam, Ativan, Labetalol, Dexamethasone, Lovenox, Pantoprazole, Benadryl, Lorazepam
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was sedated for the EEG, but remained combative and spitting.
+DESCRIPTION OF THE RECORD:  The patient is awake and moving throughout the EEG.  The overall background is one rich in alpha and theta frequency activity with some frontal beta.  On occasion there appears to be some rhythmic or arrhythmic delta in the left hemisphere, as well as on a few occasions bilaterally posteriorly.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with more of an alpha theta frequency pattern.
+Likely some focal slowing from the left.
+CLINICAL CORRELATION:  These findings may be correlated with imaging and clinical appearance.  No epileptiform features were identified, but if epilepsy is an important consideration, a follow up study when the patient is more cooperative is suggested.
+
+
+

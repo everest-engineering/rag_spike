@@ -1,0 +1,24 @@
+History:	51 YO MALE, DX. PEA ARREST, SEIZURE DISORDER, HYPOTHERMIA, NOW
+REWARMING,  CURRENTLY ON DIALYSIS. RENAL FAILURE
+Medications:
+Sedation:
+EEG Type:	Asleep only
+Technique:	International 10-20 System; standard 21 electrodes, comatose
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with intermittent suppression of the EEG.  There was diffuse muscle
+and ICU artifact.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 70 bpm.
+Summary of Findings:
+Attenuation, intermittent
+Discontinuous background
+Diffuse slowing, rhythmic
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing with intermittent attenuation .
+These findings are indicators of severe diffuse cerebral dysfunction consistent with the history of
+anoxic brain injury.  Clinical correlation is recommended.
+
+

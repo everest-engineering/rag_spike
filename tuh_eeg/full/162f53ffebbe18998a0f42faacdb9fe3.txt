@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 39-year-old woman admitted on the 7th with multiple seizures.  Previous EEG is not available for comparison.
+MEDICATIONS:  Depakote, Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not performed.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake.  The background is diffusely slow with a mixture of theta and smaller amounts of delta.  Occasional, right or left anterior temporal spikes were noted in the background.  There are independent, right or left temporal sharp waves and spikes noted in wakefulness.  There are more noted on the right in comparison to the left.  In addition, the epileptiform activity is at times complex with an extensive field of spread or some variability in terms of maximum at T2 and/or spread to the frontal regions.  As the patient became a bit drowsy, epileptiform activity with the field of spread which included posterotemporal regions and even a polyspike component was noted.  During photic stimulation, there are independent sharp waves or spikes noted.  In addition, during the 3 Hz stimulation, there is a run of rhythmic 4 Hz activity, but without frequency evolution.  Similar activity was not seen on the left.
+Heart rate 96 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Generalized background slowing.
+Complex epileptiform activity with independent sharp waves or spikes noted from either hemisphere typically with a temporal maximum, T1 or T2, but sometimes with a polyspike component or spread to the frontal regions or occipital regions.
+An unusual discharge during the 3 Hz stimulation which may have represented a subclinical seizure.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function.  The epileptiform activity is more complex than is typically seen in garden variety temporal lobe epilepsy.  There is a polyspike component and a generous field of spread.  In this particular EEG, there is more epileptiform activity on the right.
+
+
+

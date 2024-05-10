@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  41 year old left handed woman who complains of left sided headaches, visual rainbows in the right eye, and lightheadedness.   Past history of stroke, heart failure, diabetes, hypertension, and underlying PCA infarct.
+MEDICATIONS:  Carvedilol, Aspirin, Insulin, Lasix, Spironolactone, Lantus, Furosemide, Lisinopril, Hydralazine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Electrode placement is complicated by the patient's hair weave.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.3 Hz alpha rhythm.  There is rare focal slowing noted in the left hemisphere characterized by isolated theta or delta in the mid temporal regions.  As the patient becomes drowsy, this picked up in the left central parietal region.  There is a single burst of 5 Hz mid temporal theta of drowsiness with a characteristic morphology of a normal variant. Photic stimulation does not activate the record. There are 1-2 areas with artifact with double phase reversing artifact picked up on the left, potentially associated with the patient's artificial hair.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Infrequent focal slowing, left mid temporal in wakefulness, left central parietal in drowsiness.
+CLINICAL CORRELATION:  The bursts of sharply contoured 5 Hz is a normal variant.  The focal slowing is congruent with this patient's previous stroke.  If additional
+information is needed to characterize the patient's visual abnormalities, an EEG monitoring session is suggested.
+
+
+

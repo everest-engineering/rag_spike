@@ -1,0 +1,15 @@
+DATE OF SERVICE:  September 17th to September 18th.
+CLINICAL HISTORY:  This is a 66-year-old female.
+MEDICATIONS:  Phenobarbital, Depakote, Neurontin, insulin, and others __________.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was not noted to have clinically clear seizures, although she was noted to have a left homonymous hemianopia.  During the course of this section of EEG monitoring, the patient received a phenobarbital load.  Over the course of the recording, she was noted to be increasingly drowsy.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates recurrent electrographic seizures from the right posterior quadrant, typically 1.5 minutes in duration.  The electrographic pattern varies somewhat, in it some include more rhythmic repetitive spike and wave activity, others with more of a pattern of alpha or theta frequency activity.  The patient is responsive during the events, although somewhat less so as medication increases.
+__________
+In the initial hours of recording, seizure duration is approximately 1 every 8-10 minutes.  Over time, the seizure frequency decreases with fewer seizures per hour.
+By 10 p.m., the patient's pharmacotherapy had slowed.  The patient had been receiving phenobarbital 200 mg q.2 h. and this decision was made due to a cardiac arrhythmia.  Between 9 and 10 p.m., the epileptiform activity is clearly decreasing, although there is focal slowing noted in the right posterior quadrant.  Seizures were noted at 10:14 and 10:28.
+Interictal epileptiform detections:  There are rare bifrontal sharp waves noted in this record.  There is low voltage, somewhat subtle intermittent periodic focal delta noted in the right posterior quadrant.  There is overall paucity of right occipital sharp waves.
+Seizures:  As described above.
+CLINICAL CORRELATION:  This second 24 hours of video EEG monitoring demonstrates a pattern rich in beta and a transition from a more awake patient to a bit more sedated, but seems to have demonstrated resolution of this patient's status epilepticus.
+Heart rate was 72.
+
+
+

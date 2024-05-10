@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  This is a 74-year-old woman admitted on the 17th after cardiac arrest.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient received hypothermic cooling, which was somewhat challenging in that the team was having difficulty getting the patient to the correct temperature.  The patient's temperature was not recorded on the continuous EEG.
+DESCRIPTION OF THE RECORD:  As the tracing begins, there is initially a burst of depression patterns, however, within the first 20 minutes of the recording, the EEG is becoming increasingly continuous, although there is a great deal of variability between a discontinuous pattern and a continuous pattern.  With continuity, there are generalized periodic complexes and fast activity.  Clinically, these seem to be associated with oral movements.
+During later sections of the record, the patient begins to have oral automatisms even without the appearance of epileptiform activity, and by 5:40 p.m., there is a transition in that she is no longer consistently having any motor activity when she has the bursts of activity, although this is not a one-to-one correlate and sometimes has some oral movements when the EEG is low voltage and slow.
+There are no clinical notes provided, but at 11:37, the patient is off camera.  The EEG is low voltage theta and then there is a burst of the periodic activity.  Over the course of the evening, the EEG pattern remains complex with different patterns including a burst depression pattern, another pattern with periodic delta with muscle to artifact, and another pattern with paroxysmal rhythmic theta.  Sharp waves and spikes were difficult to differentiate from muscle to artifact in later sections of the record.
+Over the course of the night, Depakote 750 every 8 hours was added.
+In the morning, 2 mg of Versed was given.
+At the conclusion of the EEG, the background EEG is relatively continuous with underlying delta and some fast activity in the frontal regions.  There are, however, both muscle artifact, and generalized periodic complexes noted at 8:37, just prior to discontinuation of the EEG.  Looking at a glimpse of the patient through the device, the patient does appear to have clinical myoclonus with this jerking.
+Heart rate 96 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Initial burst suppression pattern.
+What may well represent multiple ictal patterns for this patient.
+Post anoxic myoclonus with generalized periodic complexes.
+CLINICAL CORRELATION:  This EEG is markedly abnormal and demonstrates multiple epileptic and anoxic features.  These are worrisome findings acutely post anoxic insult.  The findings were discussed with the clinical team.
+
+
+

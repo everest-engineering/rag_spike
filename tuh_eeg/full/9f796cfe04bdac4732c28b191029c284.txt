@@ -1,0 +1,14 @@
+History:	61 YR FEMALE WITH SZS, CYSTIC FIBROSIS.  PT HARD TO LOCK IN ON SZS. STATES LAST SZ 9/2014.  BUT STATES ALSO HAS NOCTURNAL AND SHOULDERS ARE SORE AND HAS WET THE BED.  ABOUT EVERY WEEK
+Medications:	DIVALPROEX, TYLENOL/CODEINE, CLONAZEPAM, DILAUDID, FENTANYL, PATCH, GABAPENTIN, BENADRYL PRN, MIRTAZAPINE, NORTRIPTYLINE,TRAMADOL, TUSSIN
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, photic
+Description: Waking background is characterized by a high amplitude 9Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  As drowsiness progresses, the background slows and symmetric vertex
+Intermittent polymorphic delta activity is present in the bilateral midtemporal (at rare times seen also in the left posterior temporal) region during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR is 72.
+Summary of Findings:
+Focal slowing, rhythmic, intermittent, mild, bilateral (L>R) temporal, mid
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral mid temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.  No epileptiform discharges or seizures are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional information
+
+
+

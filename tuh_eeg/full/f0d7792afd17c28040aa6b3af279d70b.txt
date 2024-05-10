@@ -1,0 +1,45 @@
+CLINICAL HISTORY:  The patient is a 36-year-old woman with developmental delay, refractory epilepsy, and nocturnal seizures.
+
+MEDICINES:  Zonisamide, others.
+
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using seizure and spike detection software.  Medications were adjusted.  The patient had frequent nocturnal seizures.
+
+DESCRIPTION OF THE RECORD:  Background:  In wakefulness, the background EEG is diffusely slow with a paucity of the normal waveforms noted in wakefulness.  There is primarily arrhythmic theta frequency pattern.  The sleep record is similar to the awake record and it is also quite slow and does not clearly have the typical morphologies of stage II or other sleep states.  The patient did not sleep much and seems to be awake or drowsy throughout much of the overnight record.
+
+Epileptiform Detections:  Abundant epileptiform detections were noted.  These include primarily right hemispheric, frontally predominant spike and slow wave complexes, but there are also some noted from the left.  Medium amplitude polyspike complexes were also noted.
+
+Seizures on 06/16/2015, at 1:45:08 a.m., the patient was awake or drowsy.  She is in bed, eyes open, and leaning slightly to the left.  Prior to this seizure, there is medium or higher amplitude, frontally predominant spike and wave activity, maximum at the midline seen bilaterally perhaps a bit more remarkable in the right frontal region.  The patient is under the covers.  This seizure begins with vocalization noted at 1:45:15.  She gasps and then extends both arms and lifts the covers over her arms.  The right arm seems to come first.  Then she demonstrates tonic-clonic activity.
+
+The EEG during this 53 second, seizure is primarily obscured by muscle artifact, but there is a spike and wave complex followed by a 1.5 seconds of attenuation, and then a fast pattern with muscle with atypical tonic-clonic pattern noted in the final 15 seconds of the EEG, followed by a low voltage beta pattern with frequent spike and wave activity.  The nurses note that the patient is poorly responsive in the minutes that follow the seizure.
+
+Seizure 4:52:54, this is a 1 minute and 5 second seizure.  The patient is drowsy with eyes open.  Again, a frontally predominant high amplitude spike and wave complex was noted followed by 1.5 seconds of attenuation.  This high amplitude discharges maximum in the left frontal region.  The patient vocalizes at 4:53:01 and the right arm comes up.  This goes on to be a tonic and then clonic seizure with clonic muscle artifact noted at 4:53:22.  This seizure ends somewhat differently and that following the clonic activity which ends at 4:53:49, there is a pattern of 3 to 4 hertz of repetitive sharp activity.  This seems to be maximum at the midline.  Using an average reference, it is negative in the left hemisphere and positive in the right hemisphere, and this continues, gradually abating at the end of this seizure at 4:54:05.  There is an abrupt drop off with a lower voltage pattern noted at the end of this electrographic discharged.
+
+Heart rate:  60 to 120 BPM.
+
+
+
+
+IMPRESSION:  Day 1 continuous video EEG monitoring remarkable:
+1. Markedly abnormal background.
+2. Epileptiform activity from either hemisphere with spike and wave or polyspike and wave activity which can be bilateral or unilateral.
+3. Two electrographic seizures both with similar seizure semiology and similar clinical features, but slightly different electrographic patterns.
+
+
+Temple University
+Hospital
+
+
+Clinical Neurophysiology Center
+
+Temple University Health System
+3509 Broad Street
+5th Floor, Boyer Pavilion
+Philadelphia, PA 19140
+Tel (215) 707-4523
+EEG REPORT
+
+
+
+
+
+

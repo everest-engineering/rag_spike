@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 46-year-old male status post right A-comm aneurysm clip, right frontal hemorrhage with edema, and history of HIV and seizures, not requiring medications
+MEDICATIONS:  Metoprolol, labetalol.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated, poorly responsive and experiencing hiccups.  The patient was examined during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The overall pattern is quite slow.  There is an asymmetry between the 2 hemispheres.  From the right hemisphere, the overall pattern is slow delta with a paucity of faster frequency activity.  Occasional right central sharp waves are noted in the context of a breech rhythm.
+The activity on the left is a bit more variable.  With tactile stimulation, some 7 Hz theta activity is identified in the posterior scalp regions.  When the patient is not stimulated, the EEG demonstrates a more diffusely slow pattern with a drop out of the theta previously noted on the left.  In addition, as the patient becomes drowsier, there are more bursts of generalized delta and some shifting, frontal delta a bit more so on the left compared to the right. This is a dynamic record from the left at times, with stimulation the patient awakens and there is a slow but present posterior dominant rhythm.  In sleep, bilateral higher amplitude, delta was noted
+Heart rate: 96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Essentially continuous focal slowing from the right hemisphere.
+Rare right central sharp waves.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the right involving gray and white matter.  Sharp waves were not prominent.  The left hemisphere demonstrates a clearly reactive pattern.
+
+
+

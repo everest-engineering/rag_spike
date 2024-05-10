@@ -1,0 +1,29 @@
+
+History:	49 year old man who suffered anoxic brain injury, now with myoclonic jerks. Medications:	Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes,  comatose
+
+Continuous bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for 24 hours from 4/21/2014 till 4/22/2014.  Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is no PDR or AP gradient. The background consists of polymorphic attenuated delta activity with underriding fast activity. Monomorphic delta activity is present over the right lateral EEG leads - suspect artifactual given very stereotyped appearance of the waveform. No normal sleep architecture is present.
+There is clear reactivity to visual, auditory, tactile, or noxious stimuli. Summary  of  Findings:
+No electrographic seizures
+Diffuse slowing, polymorphic, severe Attenuation
+
+Interpretation:
+This is an ABNORMAL continuous video 24-hour EEG due to severe diffuse slowing and attenuation. These findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction, that, in this case, is at least partially medication induced. No electrographic seizures are present.
+
+
+
+
+
+
+
+.
+

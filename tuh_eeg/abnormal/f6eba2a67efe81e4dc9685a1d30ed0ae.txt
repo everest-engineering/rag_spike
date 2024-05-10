@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Evaluate for paresthesias and shaking.
+MEDICATIONS:  Depakote, Elavil, Ativan, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a well organized pattern with an 11 Hz, 60-70 microvolt alpha rhythm and a generous amount of low voltage, frontocentral theta.  Hyperventilation was performed early in the record producing an increasing amplitude of the background.  Drowsiness is characterized by brief attenuation of the alpha rhythm.  Drowsiness is characterized by brief attenuation of the alpha rhythm.
+Photic stimulation did not significantly activate the record.
+Heart rate:  70 beats per minute.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  The generous beta may be related to this patient's medications.  If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep may be of value.
+
+
+

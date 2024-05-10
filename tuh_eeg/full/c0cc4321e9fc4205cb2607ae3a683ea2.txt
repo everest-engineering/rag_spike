@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 68 year old right handed woman with a history of epilepsy and stroke with abrupt change in mental status, unresponsive.
+The patient was noted to be flaccid on the right side.
+MEDICATIONS: Protonix, Insulin, Lovenox, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and sleep record.
+DESCRIPTION OF THE RECORD: In much of the waking background, the background EEG includes a somewhat slow alpha 8.3 Hz. With stimulation, the alpha rhythm does increase to 8.7 Hz and with maximal stimulation the EEG is nearly symmetric. In early, relaxed wakefulness there is nearly continuous focal slowing from the left hemisphere which includes a mixture of rhythmic theta and delta. There is sharply contoured slowing and some sharp waves noted in the record, the majority of which are in the left anterior temporal region and include A1, but a handful of which are more left central temporal. Features of drowsiness include an accentuation of the focal slowing on the left. Vertex waves are noted in stage 2 sleep. The patient is drifting in and out of a drowsy state during photic stimulation.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing with disruption of faster frequency activity on the left.
+2. Left anterior temporal sharp waves.
+3. Occasional left central temporal sharply contoured slowing.
+4. Mild, bilateral background disorganization.
+CLINICAL CORRELATION: The focal slowing and sharp waves support a focal mechanism for seizures. Correlation with imaging may be of value.
+
+
+

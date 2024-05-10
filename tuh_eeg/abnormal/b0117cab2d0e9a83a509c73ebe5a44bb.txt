@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 33-year-old man with a history of seizures since age 14, described as grand mal.  His last seizure was 4 weeks ago with shaking and postictal confusion.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  Some movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal organization or normal frontal central beta.  Overall the posterior dominant rhythm appears to reach 8 Hz and appears to be somewhat reactive to eye opening.  The activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:
+Generalized slow waves at 5-7 Hz at an amplitude of 20-60 microvolts.
+There are episodes where the patient has a sudden arousal and there appears to be rhythmic delta slowing lasting for seconds.  Clinically, the patient appears to arouse and look around and no other clinical symptoms seem to correlate with this.  However, the fact that this occurs so rhythmically right after an arousal is suspicious but not likely epileptic. Prolonged recording capturing deeper stages of sleep and with further testing may help in elucidating and clarifying this.
+HEART RATE:  80.
+IMPRESSION:  Abnormal EEG due to generalized slowing and episodes of rhythmic generalized slowing discharge lasting for seconds in the setting of arousal, concerning for possible electrographic seizures.
+CLINICAL CORRELATION:  This EEG reveals evidence of marked diffuse cerebral dysfunction, which is nonspecific with regards to etiology.
+
+
+

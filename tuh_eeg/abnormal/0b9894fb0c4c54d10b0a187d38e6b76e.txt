@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  21 year old left handed male with blackout spells, memory loss, 2-year history of seizures.  Last seizure 3 weeks ago.  Father described staring spells and then blackout spells.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This appears to be a nervous adult with frequent eye blink artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz 30 microvolt alpha rhythm with generous eye movement artifact.  Hyperventilation is performed early on in the record producing an increase in amplitude of the background.  Features of drowsiness include anterior spread of the alpha rhythm and increase in theta. Photic stimulation elicits scant driving. Photic stimulation seemed to worsen this patient's headache.
+HR:    72 bpm
+IMPRESSION:  EEG within normal limits in wakefulness and very brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were obtained.  To more completely evaluate this patient's epilepsy, a follow-up either sleep-deprived EEG or EEG capturing sleep is suggested.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   53 year old right handed male with a seizure following carbon monoxide exposure.  Cardiac disease.
+MEDICATIONS:  Lisinopril, ASA, Atenolol, HCTZ, Niaspan, Simvastatin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 40 microvolt posterior dominant rhythm.  Features of drowsiness include attenuation of the alpha rhythm and an increase in beta.  Hyperventilation produces an increase in theta.
+Deeper stages of sleep are not sustained.  Photic stimulation elicits brief driving and posts.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were noted.
+
+
+

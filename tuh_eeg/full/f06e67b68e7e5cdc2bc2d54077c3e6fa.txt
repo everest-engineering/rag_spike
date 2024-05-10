@@ -1,0 +1,26 @@
+History:	PT PRESENTS FOR FOLLOW UP EEG LAST SZ 2 YRS. DENIES ANY RECENT SZ
+Medications:	TRILEPTAL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening. There is bihemispheric asymmetry, with higher amplitude seen
+over the left central parietal region.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  No sleep was captured.
+Continuous polymorphic delta activity is present in the left parietal-central and temporal region
+maximum at C3 and P3..  Occasional left centrotemporal sharp waves are present with no
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR 70
+Summary of Findings:
+Sharp waves, occasional, left central
+Focal slowing, polymorphic, nearly continuous, moderate, left central
+Breach artifact, left
+Interpretation:
+This is an ABNORMAL EEG, awake only due to occasional epileptiform discharges in the left
+centro-temporal region.  These findings are indicative of a potentially epileptogenic focus in this
+region. As well as  continuous focal slowing in the left centrotemporal region.  This finding is
+indicative of a focal structural lesion in this region.  Breach rhythm is consistent with the patient's
+history of craniotomy.  No clinical or electrographic seizures are present.
+

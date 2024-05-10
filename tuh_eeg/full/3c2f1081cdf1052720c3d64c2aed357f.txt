@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  22 year old right handed woman with childhood epilepsy.  She now has early morning headaches in which she cannot see.  She feels like she has had a seizure during the night.
+MEDICATIONS:  Ativan
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm reaching 50 microvolts. Mu activity is noted, but testing is not performed to confirm this.  Wicket is noted in the temporal and to some extent central temporal regions.
+Hyperventilation accentuates rhythmic theta activity.  In this sharply contoured background, there is a defined, left temporal sharp wave noted, but without definitive focal slowing.  Photic stimulation produces bilateral driving.
+The patient transitions in and out of stage 2 sleep.  Stage 2 sleep is at times slightly asymmetric.  Sometimes the vertex waves seem to have more of a field in the left central temporal region, but other vertex waves are symmetric.
+On one occasion, a vertex wave seems to coincide with a left temporal sharp wave and there are also a handful of subtle CZ/C3 sharp waves noted in the transition in and out of stage 1/stage 2 sleep.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Some asymmetric vertex waves.
+Dyshormia, which is the congruence of a sharp wave with a vertex wave.
+Suspicious left temporal waves which have not been completely differentiated from wicket.
+CLINICAL CORRELATION:  This EEG suggests a localization mechanism for epilepsy.  These findings may be seen in individuals with epilepsy or with past history of epilepsy.  If additional information is needed, an overnight EEG capturing sleep may be valuable.
+
+
+

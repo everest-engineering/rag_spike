@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 59-year-old male found unresponsive December 13.  Right subdural hematoma, status post craniotomy.  The patient had an episode lasting 15-20 minutes of generalized shaking for which he received Ativan.  Past history of schizophrenia and gunshot wound to head.
+MEDICATIONS:  Propofol drip, vancomycin, Depakote, others.
+INTRODUCTION:  Digital video EEG was performed in the lab at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This was a routine 20 minute EEG in the ICU for a patient who is intubated and poorly responsive with a right craniotomy.  It was a technically satisfactory EEG with impedances under 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly abnormal pattern.    In addition, there is an asymmetry.  The overall pattern is a somewhat discontinuous pattern with a bit more discontinuity noted later in the record than in the initial sections of the record.  There is a lower voltage slow and more suppressed pattern noted on the left.  The right hemisphere demonstrates more vigorous beta frequency activity at higher amplitude activity.  Tactile stimulation of the patient noted early in the record seems to produce an increase in faster frequency activity, which is a bit easier to discern on the right or in the frontal regions.  When the patient is unstimulated, the EEG transitions more to a discontinuous pattern.  No mention is made of adjustment of the propofol drip during the EEG.
+By the end of the EEG, the periods of suppression or attenuation are approximately 3 seconds in duration on the right, a little more prolonged on the left.
+Heart rate:  69 BPM.
+IMPRESSION:  Markedly abnormal EEG due to:
+Discontinuous pattern.
+Markedly suppressed pattern on the left.
+Asymmetry compatible which breach rhythm.
+CLINICAL CORRELATION:  This EEG supports a severe bihemispheric disturbance of cerebral function.  The use of sedative hypnotic medications, such as a propofol drip may contribute to this pattern, but the
+overall pattern is burst suppression suggesting either a severe CNS injury or an anesthetic use of sedative hypnotic medications.  No seizures were seen and there were no epileptiform features identified.
+
+
+

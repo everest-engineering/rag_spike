@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 64-year-old woman with HIV/AIDS, right upper lung mass with seizures.
+MEDICATIONS: Antibiotics and others.
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standing 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized with a diffusely low voltage background.  Normal posterior alpha rhythm and frontal beta activity were absent.  Intermittently, periodic delta activity was identified.  During the record, electric seizures were recorded, emanating from the left posterior temporal area with a diffuse generalized bilateral hemisphere.  This lasted for about 10 minutes and was characterized by multifocal high amplitude spike and sharp waves.  When the electrical seizures ended, the background became extremely suppressed.
+HR:  114 BPM, with occasional PVCs.
+IMPRESSION: Abnormal EEG due to:
+Disorganized background with very low voltage.
+Intermittent, periodic delta activity.
+Epileptiform discharges lasting for 10 minutes, starting from the left posterior temporal area and then generalizing.
+CLINICAL CORRELATION: This tracing demonstrates a severe disturbance of cerebral function.  This may be due to encephalopathy secondary to HIV infection, AIDS encephalopathy, toxic, metabolic, or infectious processes. It can also be caused by multiple metastases of tumors in the brain.  The electric epileptiform discharges without physical seizing is non-convulsive status epilepticus  These findings were communicated to the neurology consult team and ICU.
+
+
+
+

@@ -1,0 +1,29 @@
+History:	51 YR OLD FEMALE LEFT HANDED. PT.STATES  SHE HAS A STROKE ON R
+SIDE ABOUT 4 MONTHS AGO AND THAT SZ. STARTED.PMHX.DM TYPE 2
+,STROKE R SIDE,A FIB,DEPRESSION.
+Medications:	PRINIVIL,COUMADIN,CYMBALTA,INSULIN,LASIX,LOPRESSOR,TRAZODONE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the bilateral midtemporal regions during
+wakefulness, increasing during drowsiness.  There is an asymmetry with an almost continuous
+attenuation of faster frequencies seen mainly over the right temporal region.  No epileptiform
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  Hr is 60
+Summary of Findings:
+Focal slowing, polymorphic, intermittent temporal, mid
+Attenuation, continuous, right temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral
+midtemporal; region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.  In addition the attenuation seen over the right midtemporal region is consistent with
+the known infarct in that region.
+
+
+

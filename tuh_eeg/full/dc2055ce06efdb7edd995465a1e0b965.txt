@@ -1,0 +1,32 @@
+AGE: 42 y.o.
+SEX: female
+DATE OF STUDY: 11/24/2015
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1721
+HISTORY :
+42 y.o. female with a history of HIV and Hep C who was transferred from Episcopal Hospital after 2 witnessed tonic-clonic seizures, referred for routine EEG for further evaluation.
+MEDICATIONS : Keppra, Propofol, Heparin
+SEDATION : propofol noted to be off at study start
+TECHNIQUE:_
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The record opens to a nearly continuous mixture of disorganized alpha, beta, and theta frequencies that alternate with periods of attenuation < 3 seconds.	There are no definite sleep transients.
+During stimulation, the background reacts, changing to a continuous mixture of disorganized delta, alpha, and theta frequencies. There is no posterior dominant rhythm.
+There is moderate generalized slowing. There is no focal slowing.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG due to:
+1. Moderate background slowing and disorganization
+CLINICAL CORRELATION:
+These findings indicate the presence of moderate diffuse cerebral dysfunction, which may in part be explained by medication effect.
+
+
+

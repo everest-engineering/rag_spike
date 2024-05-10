@@ -1,0 +1,14 @@
+LENGTH OF THE RECORDING:  28 minutes.
+CLINICAL HISTORY:  The patient is a 23-year-old man who presented with a chief complaint of chest pain, shortness of breath and diaphoresis, followed by shaking of all extremities and mild confusion lasting approximately 1 minute.
+CURRENT MEDICATIONS:  Tramadol, Tylenol, aspirin, Lovenox.
+CONDITION OF THE RECORDING:  The recording was performed in the laboratory.  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 10-10.5 Hz alpha activity to attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep symmetrical vertex waves, sleep spindles and K complexes are captured.  Intermittent polymorphic theta and delta activity are captured over the left temporal region.  This activity is frequently sharply contoured.  At least a single sharp wave with __________ slow wave is captured over the left temporal region with face reversal over the T3 and T5 electrodes.  Hyperventilation is performed with fair effort and produces no significant change in the background.  Stepped photic stimulation results in no additional abnormalities.  A single electrocardiogram lead demonstrates a heart rate fewer than 60 beats per minute.
+FINDINGS:
+Intermittent mild to moderate left temporal slowing, often sharply contoured.
+At least a single sharp wave over T3 and T5 electrodes.
+Sinus bradycardia.
+Stage 2 sleep.
+IMPRESSION:  This is an abnormal awake and sleep 28 minutes EEG due to intermittent left temporal slowing and an epileptiform discharge emanating from the left temporal region.  These findings indicate focal cerebral dysfunction, likely structural in etiology, that carries increased epileptogenic potential.  Sinus bradycardia with heart rate fewer than 60 beats per minute is noted on the single electrocardiogram lead.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 42-year-old woman with an episode of standing, staring and inability to speak for 1 minute.  After that she collapsed.  History of migraines, asthma, Meniere disease, and depression
+MEDICATIONS:  Tylenol #3, Symbicort, Klonopin, Ambien, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is and technically an acceptable record aside from T1-T2 electrode impedances which are greater than 5 kilohms.
+DESCRIPTION OF THE RECORD:  The background EEG in wakefulness includes a pattern with generous beta and an 11 Hz alpha rhythm.  Drowsiness is characterized by an increase in rhythmic theta.  Vertex waves were not identified, but spindles were noted in sleep.
+Photic stimulation: elicits vigorous driving with driving and supra-harmonic driving.  Hyperventilation did not significantly activate the record.
+Heart rate: 96 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  The generous beta described above may be due to this patient's medications or anxiety, no epileptiform features were noted.
+
+
+

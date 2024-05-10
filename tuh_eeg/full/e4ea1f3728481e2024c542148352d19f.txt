@@ -1,0 +1,45 @@
+AGE: 31 y.o.
+SEX: male
+START DATE OF STUDY: 09/30/2015 at 15:42 END DATE OF STUDY: 10/1/2015 at 15:12
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: video LTM
+EEG #: 15-271.1 (271.1: 95951; 271.2: 95951)
+HISTORY:
+31 y.o. Male with a history of coronary artery disease, s/p cardiac arrest referred for EEG for cooling protocol.
+MEDICATIONS: Dilaudid, vancomycin, insulin, zosyn SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically limited study during Day 1 (see below) and included a single channel of EKG.
+DAY 1 (9/30/2015, 15:42 - 10/1/2015, 08:00)
+BACKGROUND:
+The waking background is continuous, symmetric, poorly organized, and consists of a mixture of delta, theta, and alpha.
+There is no posterior dominant rhythm.
+At the study start, the background is not clearly reactive, nor variable.
+There were no persistent asymmetries in amplitude and frequency.
+*Periods of high frequency artifact obscure all leads for the majority of the study on this day. Beginning at 10/1 05:50, the periods of high frequency muscle artifact break up. Periods of background consisting of disorganized alpha and beta with eye blink artifact are then seen.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None.
+EPILEPTIFORM ACTIVITY: None present .
+EVENTS: No clinical or electrographic events were reported or detected.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal, though technically limited, video EEG due to:
+Moderate diffuse slowing, which improves to mild diffuse slowing at the end of this day
+Suboptimal organization
+DAY 2 (10/1/2015, 08:00 - 10/1/2015, 15:12)
+BACKGROUND: mildly disorganized mixture of alpha and beta in wake; theta slowing in sleep without sleep architecture
+No definite posterior dominant rhythm or sleep transients are seen
+GENERALIZED SLOWING: mild FOCAL SLOWING: none
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): none SPORADIC EPILEPTIFORM ACTIVITY: none
+EVENTS: No clinical or electrographic events reported or detected DAY 2 IMPRESSION & CLINICAL CORRELATION
+This is an abnormal video EEG due to:
+Mild diffuse slowing
+Suboptimal organization
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Moderate diffuse slowing, which improves to mild diffuse slowing by Day 2
+Suboptimal organization of the background
+FINAL CLINICAL CORRELATION:
+These findings are consistent with diffuse cerebral dysfunction, which improves over the course of the study from "moderate" to "mild."
+Note that the study is technically limited for most of Day 1.
+
+
+
+

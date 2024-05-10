@@ -1,0 +1,31 @@
+History:	69 year old woman with a history of seizures, stroke and TBI.
+Medications:	Depakote, Prozac, Luminal, Atorvastatin, Remeron, Others
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+The posterior dominant rhythm consists of polymorphic low-to-moderate amplitude up to 10 Hz
+alpha activity.  There is normal AP gradient.  Bursts of diffuse polymorphic theta and delta activity
+are present.  Symmetrical vertex waves and sleep spindles are captured.
+Intermittent polymorphic bilateral anterior temporal theta and delta activity is capture, left> right.
+Additionally, occasionally semi-rhythmic delta activity is noted over the left anterior temporal
+region.  This activity occurs during drowsiness and  sleep.  Several low-to-moderate amplitude left
+occipital spikes are captured during drowsiness and sleep, with maximal scalp negativity over the
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  Occasional premature QRS complexes are
+captured on a single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, anterior, mild-to-moderate
+Spikes, few, left occipital, captured during drowsiness/ sleep
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 41 minute EEG due to mild diffuse slowing, intermittent
+mild-to-moderate focal bitemporal, left>right, focal slowing and several left occipital epileptiform
+discharges. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Some degree of temporal slowing is considered normal in individuals after the age of
+65, but the amount of focal slowing in this patient is excessive.  Focal slowing indicates focal
+cerebral dysfunction, possibly structural in etiology.  Left occipital epileptiform discharges are
+indicative of a potentially epileptogenic focus in this region.
+

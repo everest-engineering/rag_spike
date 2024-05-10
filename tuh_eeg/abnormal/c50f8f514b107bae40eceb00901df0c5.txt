@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 48-year-old woman with epilepsy since age 5, the patient experienced 3 seizures on January 4.  Seizures began with aura of tingling in the mouth followed by a loss of consciousness, foaming at the mouth, and post-ictal confusion.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not performed but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  Much of the EEG includes drowsiness, stage I and stage II sleep, with vertex waves, K complexes, spindles, and POSTS noted in stage II sleep.  The tech was able to awaken the patient prior to photic stimulation at which point a well organized background with 10 Hz alpha rhythm was noted.  Photic stimulation did elicit a driving response.
+Heart rate:  78 beats per minute.
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  In this individual with a recent exacerbation of seizures, additional EEG recording may be of use to capture epileptiform activity.
+
+
+

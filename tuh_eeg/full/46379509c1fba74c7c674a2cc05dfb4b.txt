@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  A 54-year-old woman with epilepsy, admitted to the hospital on the 30th after a tonoclonic seizure with postictal confusion.  The patient remained mute after the seizure.
+
+MEDICATIONS:  Depakote, Ativan, Keppra, and others.
+
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially somnolent, then inattentive.  This was an awake through stage II sleep record.  After the patient drifted off to sleep, it was somewhat difficult to awaken the patient.
+
+DESCRIPTION OF THE RECORD:  The tracing begins with stage II sleep with central spindle activity.  Focal slowing is noted from the left temporal region with left temporal sharp waves.  The sharp waves are mid to anterior temporal with a generous field spread.  They are discrete, at 70 microvolts at the maximum.  In the T1 and T2 montage they are maximum at T1.
+
+The patient is still quite drowsy during photic stimulation.  During photic stimulation, there are trains of left anterior temporal sharp waves as the patient transitions in and out of stage II sleep.
+
+The technologist attempts to awaken the patient for hyperventilation without success.  The patient remains in stage II sleep again with prominent sharp waves from the left temporal region.
+
+Heart rate 96 BPM.
+
+IMPRESSION:  This is an abnormal EEG due to:
+* Left anterior temporal sharp waves.
+* Left temporal focal slowing.
+
+CLINICAL CORRELATION:  These findings are relatively characteristic of temporal lobe epilepsy.  This patient's postictal state may account for the hypersomnolence as it might be the use of benzodiazepines.
+
+
+

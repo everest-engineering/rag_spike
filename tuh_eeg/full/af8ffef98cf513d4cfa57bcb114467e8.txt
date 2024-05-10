@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 47 year old right handed female with left carotid stenosis.
+MEDICATIONS: Fentanyl, Etomidate, Esmolol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The recording begins at 7:55 in the morning and concludes at 10:59. This is a 3-hour study. Standard CEA montage is employed.
+DESCRIPTION OF THE RECORD: As the EEG begins the patient is awake. There is a symmetric background, although it is somewhat slow. Induction of anesthesia occurs with medications given at 8:04 producing an increase in theta frequency activity. Artifacts are observed. A stable, post anesthetic pattern is noted which is relatively low voltage, but continuous, which is mixed frequencies.
+There are technical problems with record, including a great deal of artifacts noted at 8,5,3. The technologist attempts to change the cable with a good outcome at 9:07 which continues through 9:40. The internal carotid is clamped at 9:46. No significant focal features are noted with placement of the clamp.
+Recording continues until patency is confirmed by Doppler. No focal features are noted.
+HR: N/A.
+IMPRESSION/CLINICAL CORRELATION: EEG recording during this 3-hour carotid endarterectomy did not identify focal features.
+
+
+

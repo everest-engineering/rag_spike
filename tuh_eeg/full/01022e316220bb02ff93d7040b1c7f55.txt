@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 93 year old patient with memory impairment for 2 to 3 months.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic simulation is completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonable well-organized but is rhythmically slow at the 7 Hz, 50 microvolt, posterior dominant rhythm and a small amount of arrhythmic delta activity. Features of drowsiness include anterior spread of the alpha rhythm. Photic stimulation does not activate the record.
+
+HR: 60 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic background slowing.
+CLINICAL CORRELATION: No epileptiform features are observed. This EEG does not exclude a diagnosis of epilepsy. The features described above are relatively characteristic of those noted in Alzheimer's disease although it is a nonspecific pattern.
+
+
+
+

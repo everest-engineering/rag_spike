@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 79-year-old woman with syncope.  The patient felt lightheaded, fell, hit her head on the 25th.  Has had recurrent evaluations for syncope.
+MEDICATIONS:  Zocor, Tylenol, Percocet, Coumadin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is somewhat slow with a 7 Hz alpha rhythm.  As the patient transitions to sleep, there is an increase in delta as well as theta.  Mild, shifting asymmetries were noted as the patient becomes drowsy.  POSTS were seen in stage 1 sleep.
+Photic stimulation elicits scant driving.  Heart rate 96 BPM.
+IMPRESSION:  Abnormal EEG for an adult of this age due to:
+Mild background slowing.
+Shifting slowing in the transition to sleep.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The findings described above may be seen in the context of a diffuse disturbance of cerebral function which may include vascular dementia as well as many other features.
+
+
+

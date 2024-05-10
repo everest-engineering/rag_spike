@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  	74 year old woman with pneumonia and PEA code November14 at 1:30 a.m., evaluate for encephalopathy.
+MEDICATIONS:  Digoxin, Insulin, Vancomycin,  Flagyl, Zosyn, Lorazepam, Pantoprazole,  Metoprolol.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background includes a low voltage pattern with monomorphic beta, muscle artifact and smaller amounts of delta. Stimulation of the patient does not activate the record.
+HR: 	120 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Primarily beta background.
+2.  Absence of reactivity or variability
+CLINICAL CORRELATION:  No epileptiform features are seen. There is no report of the use of sedative hypnotic medications which might explain the beta frequency pattern. This invariant pattern, not reactive to stimuli is worrisome 48 hours post cardiac
+arrest.
+
+
+

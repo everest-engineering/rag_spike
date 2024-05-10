@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  69-year-old woman, who had PEA code 10 hours prior to this EEG.  Now, comatose with absent cranial nerve findings, fixed and dilated pupils, and body temperature 98.
+MEDICATIONS:  Vasopressin, epinephrine, norepinephrine, dopamine, insulin, meropenem.  No sedative/hypnotic medications.
+INTRODUCTION:  One-hour digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  A section of the record was utilized the ECS montage.  Tactile stimulation of the patient was performed and the technologist worked to assure the integrity of the system by tapping each electrode.
+DESCRIPTION OF THE RECORD:  The EEG is essentially suppressed.  There is ICU and significant EKG artifact noted in this record for this tachycardic patient.  There is no variability or reactivity noted.
+Likely artifactual 4-9 Hz frontal fast activity is noted, which may represent an artifact from the patient's ventilator.  This artifact is also picked up in the EMG monitor, but not the EKG monitoring.
+Heart rate:  126 bpm.
+IMPRESSION/CLINICAL CORRELATION:  This one-hour bedside portable EEG for this patient was status post code more than 10 hours ago.  It was remarkable for an essentially suppressed brain pattern.  The EEG supports a severe anoxic insult with ominous prognosis.
+
+
+
+

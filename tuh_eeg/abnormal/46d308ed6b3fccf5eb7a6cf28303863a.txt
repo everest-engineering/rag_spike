@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 81 year old woman with recurrent slurred speech, confusion and fever. History of rheumatoid arthritis, hypertension, diabetes and rash.
+MEDICATIONS: Tylenol, Zofran, Metformin, Glipizide, Insulin, Hydralazine
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. There is no hyperventilation or photic stimulation.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intra hemispheric asymmetry. There is a 10.5 hertz 40 microvolt alpha rhythm on the right. The alpha rhythm is disrupted on the left compared to the right and the left hemisphere demonstrates more of a theta and delta pattern with some arrhythmic slowing. There is double phase reversing artifacts, there is also sharply contoured slowing at T3 on the left. Features of drowsiness include an increase in delta and sharply contoured delta on the left early on in drowsiness. The focal slowing on the left is essentially continuous.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Continuous focal slowing on the left with disruption of faster frequency activity.
+2. Sharply contoured delta on the left particularly T3 and F3.
+3. Very mild excess theta on the right.
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the left involving gray and white matter. Sharply contoured slowing can be seen in the context of an irritative process although no sharp waves were noted.
+
+
+

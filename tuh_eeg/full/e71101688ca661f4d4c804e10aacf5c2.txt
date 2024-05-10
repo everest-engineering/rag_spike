@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  74 year old male, status post C2 to C4 fusion.  The patient was intubated and developed respiratory distress, was reintubated, and has now persistently poor mental status.  Past history of Parkinson's disease.
+MEDICATIONS:  Ropinirole, Synthroid, Metoprolol, Morphine, Decadron, Tylenol, Zofran, Labetalol, Hydralazine, Clindamycin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and in a hard collar.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow and includes a mixture of rhythmic theta and delta.  The patient has left hand and endocranial tremor, which produces intermittent rhythmic 4-5 Hz activity in the right parietal electrode only. Stimulation of the patient produces some muscle artifact.  The patient does not appear to be particularly interactive with the tech.
+HR: 121 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+CLINICAL CORRELATION:  The findings described above are nonspecific.  This supports a diffuse disturbance of cerebral dysfunction affecting both gray and white matter.  These findings can be seen in a metabolic encephalopathy or a chronic disturbance of cerebral function.  The right hand tremor is not a seizure.
+
+
+

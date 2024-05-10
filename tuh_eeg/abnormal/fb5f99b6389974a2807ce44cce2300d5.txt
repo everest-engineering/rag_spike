@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An elderly man with confusion.
+MEDICATIONS:  Zithromax, ceftriaxone, hydralazine, aspirin, lisinopril, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was agitated and uncooperative.  Electrode impedances were challenging.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a slow and disorganized background.  There are  some sections with a well-defined 7-8 Hz alpha rhythm.  Other sections demonstrate bursts of frontal delta.  There is a significant amount of muscle and movement artifact.  The patient is not always responsive while awake and then demonstrates some inappropriate or involuntary behaviors while awake.
+A single left temporal sharp waves was identified.
+At the close of the record, the patient drifts off to sleep.  The background EEG demonstrates a more synchronously sleep slow pattern with a heart rate of 90 BPM.
+IMPRESSION:  This is a technically challenging, but abnormal EEG due to:
+Background disorganization and slowing.
+Bursts of slow, rhythmic frontal delta.
+CLINICAL CORRELATION:  The features described above are nonspecific.  They can be seen in the context of a toxic or metabolic encephalopathy, but chronic, age-related CNS process may also produce pattern.
+
+
+

@@ -1,0 +1,42 @@
+History:	83 year old man who presented with shaking episodes.  Left parietal meningioma
+was found.  Patient also has a history of metastasis cancer, unknown if brain
+Medications:	Keppra, Ativan
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 26 hours from 03/26/2015 to 03/27/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+During maximal arousal the background consists of low amplitude diffuse beta activity, at times a
+PDR of 9 can be seen over the left hemisphere.  There is paucity of faster frequencies over the right
+hemisphere.  Sleep spindles are captured.
+Continuous polymorphic delta activity is present in the right hemisphere with associated loss of
+faster frequencies.  Continuous independent right anterior and right posterior rhythmic broadly
+based sharp waves are captured (PLEDs).  They occur at the repetition rate of ~ 0.75-1 Hz.
+Maximal scalp negativity is over F8/T2 and O2/P4/T6 leads, respectively.  Right posterior sharp
+waves are frequently accompanied by low amplitude polyspikes.
+Hyperventilation and photic stimulation are not performed.  Hr was 66
+Summary of Findings:
+Excessive fast
+PLEDs (periodic lateralized epileptiform discharges), continuous
+Focal slowing, polymorphic, continuous, right hemispheric
+Interpretation:
+This is an ABNORMAL awake and asleep 26 Hours EEG due to continuous moderate right
+hemispheric focal slowing and independent 0.75-1 Hz right anterior and right posterior rhythmic
+epileptiform discharges (PLEDs). These findings indicate focal structural cortical abnormality over
+the right with increases epileptogenic potential in the right anterior and right posterior regions.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.	involved.
+
+
+
+
+
+

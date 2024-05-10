@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 59-year-old male who woke up from a nap, confused, with numbness in his fingers.  Date of symptoms unknown.
+MEDICATIONS:  Norvasc, lisinopril, Flomax, clonidine, thiamine, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed but hyperventilation was deferred because of the patient's COPD.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.5 Hz alpha rhythm.  Central mu activity was activity was identified, but testing was not performed to confirm this.  Features of drowsiness include attenuation of the alpha rhythm followed by POSTS in stage I sleep.  Photic stimulation elicited scant driving.  Heart rate 78 beats per minute with occasional PVCs.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If epilepsy is an important consideration, a repeat study capturing deeper stages of sleep is suggested.
+
+
+

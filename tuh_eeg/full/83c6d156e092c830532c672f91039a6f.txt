@@ -1,0 +1,35 @@
+AGE: 70 y.o.
+SEX: male
+DATE OF STUDY: 10/2522015
+RECORDING ENVIRONMENT : Inpatient Rm 771
+EEG TYPE: routine 22 minutes at 14:19 PM bedside portable EEG #: 15-1567
+HISTORY: 70 y.o. male with a history of acute
+right frontal stroke referred for routine EEG for tremor.
+MEDICATIONS:
+Labetalol SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.	There was significant tremor noted in the record.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 8.7 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.	Intermittent bilateral excess theta was noted in the background.
+During drowsiness, slow rolling eye movements , attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Intermittent generalized slowing is present.	Limited, shifting focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: None EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is abnormal bedside portable routine EEG.
+Intermittent excess theta
+Shifting slowing.
+CLINICAL CORRELATION:
+This is routine EEG did not demonstrate significant focal slowing, though muscle artifact may have masked minor focal
+features. The excess theta and shifting slowing may be correlated with the clinical picture . An underlying encephalopathy or ischemic cerebral vascular disease can produce this pattern.
+This EEG does not support or refute the diagnosis of epilepsy. There are no clinical or electrographic events reported or detected.
+
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  The patient is a 71-year-old woman, who awoke with right-sided weakness and eye pain, found to have a pontine infarct.
+MEDICATIONS:  Diltiazem, Neurontin, hydralazine, Ativan and trazodone.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.  Hyperventilation was deferred.
+TECHNICAL CONSIDERATIONS:  This is a technical acceptable record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 7.5 Hz alpha rhythm.  There is a small amount of head rocking noted in the posterior region, but there is also some subtle underlying focal slowing in the right occipital region.  Features of drowsiness including increasing beta.
+In addition, there is an occasional asymmetry in alpha frequency, approximately 6.5 on the right and 7.5 on the left, although this is an intermittent finding.  Features of drowsiness include a decrease in eye movement and increase in beta and slight prominence in the posterior slowing noted above.  Photic stimulation elicited subtle driving identified bilaterally.
+Heart rate irregular 78 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Slowing of the alpha rhythm bilaterally.
+Superimposed focal slowing with intermittent right posterior delta with some involvement on the left.
+An alpha asymmetry with slower alpha rhythm on the right.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  There are no epileptiform features, but the possibility of an underlying structural process should be considered.
+
+
+

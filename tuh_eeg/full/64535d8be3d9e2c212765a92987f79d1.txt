@@ -1,0 +1,25 @@
+History:	71 year old woman status post double lung transplant nearly 1 month ago, now with
+diffuse tremors that involve her face as well.
+Medications:	Ativan, Dilaudid, prograf, daptomycin, meropenem, bactrim
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Majority of the recording contains high frequency tremor artifact that is seen in various leads.
+During several periods of relative tremor-free period, the background consists of low amplitude
+polymorphic theta activity.  Patient remains awake throughout the study.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate of >100 bpm.
+Summary of Findings:
+Artifact, tremor, abundant
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL awake-only 23-minute portable EEG due to moderate diffuse slowing. This
+finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+Nearly continuous tremors are not associated with an abnormal ictal activity.
+
+
+
+
+

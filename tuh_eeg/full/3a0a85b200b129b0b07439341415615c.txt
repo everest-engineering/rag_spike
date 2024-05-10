@@ -1,0 +1,29 @@
+History:	39 year old man who presents with a seizure.
+Medications:	OXYCODONE,XANAX,DILANTIN,MORPHINE
+Sedation:	None
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+The background consists of moderate amplitude polymorphic 10-11 Hz alpha activity, weak AP
+gradient and occasional polymorphic theta activity.  Diffuse excess beta activity is present.  Patient
+rapidly transitions from wakefulness to sleep.  Symmetrical sleep spindles, vertex waves and sleep
+spindles are captured.
+Right and left leg movements are captured during sleep.  They have no abnormal EEG correlate.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Disorganization, mild
+Diffuse slowing, polymorphic, mild
+Beta, excessive
+Sleep, stage 2
+Interpretation:
+This is a very mildly abnormal awake and asleep portable 21-minute EEG due to very mild diffuse
+slowing and disorganization. These findings are etiologically nonspecific indicators of mild diffuse
+cerebral dysfunction, but, in this patient, they could be related to excessive drowsiness, given how
+rapidly patient transitions from wakefulness to sleep.  Excessive beta activity could be secondary to
+the medication effect, such as benzodiazepines or barbiturates.  Right and left leg movements are
+captured during sleep.  They have no abnormal EEG correlate.
+
+
+
+

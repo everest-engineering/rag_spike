@@ -1,0 +1,11 @@
+CLINICAL HISTORY: A 32 year old male with tonic-clonic seizures 14 years ago and again in 2009. This is an outpatient study.
+MEDICATIONS: Keppra, Prozac, Seroquel, Ambien
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for a fair amount of muscle artifact. The overall pattern is relatively low voltage. Hyperventilation is performed early in the record. It does not activate the record. Drowsiness is characterized by more of a beta frequency pattern. Photic stimulation does not elicit a driving response.
+HR: N/A
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: There are no epileptiform features. There is a fair amount of beta and muscle artifact, features that were not seen in the EEG earlier this year. If seizures continue, a more prolonged EEG in sleep may be considered.
+
+
+

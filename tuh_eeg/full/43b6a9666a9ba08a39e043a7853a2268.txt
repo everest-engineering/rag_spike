@@ -1,0 +1,37 @@
+History:	25 year old man with a known seizure disorder and mitochondrial disorder, now
+presents with increase in his seizure frequency.
+Medications:	Ativan 2 mg PO (given ~ 30 minutes prior to the recording), Keppra, Vimpat and
+Phenobarbital
+Sedation:	Lorazepam
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture of diffuse moderate to
+high amplitude polymorphic sharply contoured theta and delta activity with underriding low
+amplitude beta activity.  There are occasional brief bursts of diffuse high amplitude delta activity.
+Patient remains awake throughout the recording.
+Even though the background is very sharply contoured in appearance, there is only one likely
+epileptiform discharge which is an isolated generalized spike-and-wave.  Patient has episodes of
+staring and rapid eye blinking.  Electrographically, these episodes are associated with excess EMG
+artifact but without clear ictal correlate.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Beta, excessive
+Spike-and-wave complexes, one, likely
+Event, few, no clear ictal EEG correlate
+Interpretation:
+This is an ABNORMAL portable STAT 28 minute awake-only EEG due to moderate diffuse slowing
+and disorganization and a single generalized spike-and-wave discharge. Diffuse slowing is
+indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  A single
+generalized epileptiform discharge suggests diffuse cortical irritability.  When compared to the prior
+EEGs, this recording does not differ significantly from the prior recordings.  Multiple episodes of
+staring and rapid eye blinking are captured.  None are associated with clear ictal correlate.  Events
+resolved by the end of the recording and patient started conversing appropriately (he could not do
+that at the onset of the  recording).
+
+
+
+
+

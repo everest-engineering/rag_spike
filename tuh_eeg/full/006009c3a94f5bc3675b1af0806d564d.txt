@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 67 year old right handed woman with recurrent seizures characterized by muscle tightness, and difficulty coping.
+MEDICATIONS: Gabapentin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a low voltage background but there is a 10.5 Hz alpha rhythm. In this low voltage record, there is the suggestion of subtle rhythmic slowing on the left, but no definitive epileptiform features. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits bilateral driving.
+HR: 78 bpm
+IMPRESSION: Very mildly abnormal EEG due to:
+1. Subtle focal slowing in the left frontal region
+CLINICAL CORRELATION: No epileptiform features were seen in this EEG, nor in the previous one. If seizures are frequent, additional EEG recording techniques may be valuable.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  50 year female , status post cardiac arrest on March 21, 2012, now with head bobbing, comatose, unresponsive with dilated pupils.
+MEDICATIONS:  Lovenox, Mannitol, Famotidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is a greater than 40 minute record.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a discontinuous pattern with burst suppression activity. There are brief bursts of rhythmic, higher amplitude sharply contoured theta frequency activity. Tactile stimulation does not activate the record. Most bursts are about 3 seconds in duration. Head bobbing artifact was noted.  With the use of vecuronium it disappeared.
+HR:    120 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Burst suppression pattern.
+Absence of reactivity.
+Absence of variability.
+Bursts of activity which are high amplitude with rhythmic 3-4 Hz activity.  Some of these seem to have a sharp wave in the frontal region.  They are asynchronous and may start in the right or left hemisphere.
+CLINICAL CORRELATION:  This EEG is characteristic of a severe, underlying encephalopathy.  No prolonged seizures were recorded.
+
+
+

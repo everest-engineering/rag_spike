@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 61-year-old right-handed lady presenting with left arm and face numbness and weakness of 1 day duration.  She was found to have a subcortical CVA on CT scan of the head.
+MEDICATIONS:  Aspirin, acetaminophen, heparin, labetalol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement and one channel of EKG.  Wakefulness and sleep were captured.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a posterior dominant rhythm of 9-10 Hz frequency which is symmetric on both sides and reactive to eye opening.  There is a good anterior and posterior gradient.  There is some shifting slowing as the patient drifts into sleep.  Stage 2 sleep was achieved which was characterized by vertex waves, K complexes and spindles.  There was a wicket rhythm noted in stage 2 sleep.  As the recording progresses there are F7 sharp waves and rare T1 sharp waves which were identified as not being a part of the wicket rhythm.
+Photic stimulation was performed which elicited a spiky driving response.
+There was excessive theta in early drowsiness and right focal slowing as she became drowsy.
+IMPRESSION:  This is an abnormal EEG due to:
+Excessive theta in early drowsiness.
+Right focal slowing during drowsiness.
+F7, T1 sharp waves in stage 2 sleep.
+CLINICAL CORRELATION:  The left anterior temporal sharp waves are suggestive of a possible underlying epileptogenic process in the left anterior temporal region.  Clinical correlation is recommended.
+
+
+

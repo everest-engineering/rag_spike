@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 44 year old right handed woman with seizures characterized by a funny feeling in her tongue and tremulousness.
+MEDICATIONS: Metoprolol, Norvasc, Amlodipine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: During wakefulness, there is a symmetric reactive 10 hertz alpha rhythm with a small amount of low voltage frontocentral beta activity. The patient is drowsy and transitions quickly into stage I sleep with vertex waves. Vertex waves, K complexes and spindles are observed in stage II sleep. Hyperventilation produces increase in slowing followed by drowsiness. Photic stimulation elicits brief driving.
+HR: 66 bpm
+
+IMPRESSION: Normal EEG.
+
+CLINICAL CORRELATION: No focal nor epileptiform features are observed in this EEG. A normal EEG does not exclude the diagnosis of epilepsy.
+

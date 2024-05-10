@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An 87 -year-old woman with meningioma and episode of aphasia.
+MEDICATIONS:  Decadron, Protonix, insulin.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were deferred.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm ranging from 10 to 11 Hz.  There was a subtle asymmetry noted between the 2 hemisphere.  The alpha rhythm is a little faster on the right compared to the left.  There was a small amount of shifting underlying slowing in the frontal regions with some underlying theta and delta but a bit more is noted on the left in comparison to the right.  In addition, it subtly disrupted faster frequency activity on the left.  Features of drowsiness include slow rolling eye movements.  Deeper stages of sleep were not sustained.  Heart rate 60 to 72 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to:
+A subtle asymmetry between the 2 hemispheres in terms of disruption of faster frequency activity and slowing of the alpha rhythm.
+Intermittent slowing in the frontal regions, left more so than right.
+CLINICAL CORRELATION:  This EEG is supportive of a structural process in the left hemisphere involving gray and white matter.  No epileptiform features were recorded.  If epilepsy is an important consideration, a repeat study in the lab may be considered.
+
+
+

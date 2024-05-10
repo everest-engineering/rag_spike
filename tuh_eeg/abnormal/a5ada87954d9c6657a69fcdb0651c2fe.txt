@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 20-year-old female with 2 episodes of seizure-like activity.  It is described as a screaming episode followed by tonic posturing of the left extremities.  The patient has brakes and electrodes may not be in accurate place.
+
+MEDICATIONS:  Keppra.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with the additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state for the short period of time during this recording, the posterior dominant rhythm was 8.5-9 Hz in frequency  in the occipital region which attenuates with eye opening.  There is presence of generalized beta activity with symmetrical distribution.  Drowsiness, stage 1 and stage 2 sleep are predominant features of this recording and are characterized by disappearance of the posterior dominant rhythm, slowing of the background, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves, posts, K complexes, and sleep spindles.  This is a low amplitude EEG.  Hyperventilation results in no significant change in the background activity.  Photic stimulation was performed at multiple flash frequencies and results in no driving response.  Heart rate was at 80 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness for a short period of time through stage 2 sleep for most part of this recording.  No epileptiform abnormalities or seizures were identified in this recording.
+CLINICAL CORRELATION:  Generalized beta activity could be due to medication effect including benzodiazepine, barbiturates, or could be due to anxiety or hyperthyroidism.  Clinical correlation is recommended.  No epileptiform abnormalities or seizures were seen in this recording.  This does not rule out the diagnosis of epilepsy.  If seizures are of clinical concern, a repeat EEG when patient is more awake is recommended.
+
+
+

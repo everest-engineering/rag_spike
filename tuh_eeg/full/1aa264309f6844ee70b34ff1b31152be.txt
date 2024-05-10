@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 43-year-old male with teenage epilepsy, previously seizure-free, new seizure type:sweating, headaches, funny taste in the mouth before loss of consciousness, and shaking.  Postictal state lasts several days.
+MEDICATIONS:  Dilantin, Lamictal, Keppra.
+INTRODUCTION:  40-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable record.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a 6-7 hertz and 40 microvolt posterior dominant rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in background slowing with vertex waves, and minimal spindles.
+Photic stimulation did not activate the record.
+Hyperventilation did not activate the record.
+Heart rate 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Slow alpha rhythm.
+Generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The diffuse background slowing is a nonspecific finding, medications or other mild diffuse disturbance of cerebral function could play a role.  If epilepsy is an important consideration, a followup study may be a value.
+
+
+

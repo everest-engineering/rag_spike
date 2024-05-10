@@ -1,0 +1,41 @@
+AGE : 62 y.o.
+SEX: female
+DATE OF STUDY : 10/06/2015
+RECORDING ENVIRONMENT: Inpatient EEG TYPE: 20-40 min
+EEG #: 15-1468
+HISTORY:
+62 y.o. female with a history of lung cancer, metastatic to brain (left parieto-occipital region, s/p craniotomy and gamma knife; with new right-sided metastases), presenting with seizures .
+MEDICATIONS: ATIVAN (1 MG), KEPPRA , DILTIAZEM, TRAMADOL, VENTOLIN , PRAVASTATIN , LORATADINE, SYMBICORT, TRAMADOL, LORATADINE, PRAVASTATIN
+SEDATION : Ativan as above TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is continuous and asymmetric.
+The right hemisphere consists of a disorganized mixture of theta with admixed delta.
+The left hemisphere consists of a disorganized mixture of delta with admixed faster frequencies.
+The background is reactive, but there is no definite posterior dominant rhythm.
+Drowsiness and sleep are not captured. There is moderate generalized slowing.
+There is continuous left hemispheric polymorphic slowing,
+posterior quadrant predominant.
+There is a left posterior quadrant breach rhythm.
+EPILEPTIFORM ACTIVITY:
+There are continuous 1.5 Hz polyspike and slow waves with embedded rhythmic delta waves (lateralized periodic discharges, fast + rhythmic, or LPD+FR) over the left posterior quadrant (P3/T5/0l max) .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 90 bpm is captured on a single EKG lead.
+IMPRESSION :
+This is an abnormal Awake only	routine EEG due to:
+Moderate generalized slowing
+There is continuous left hemispheric polymorphic slowing, posterior quadrant predominant
+Left posterior quadrant breach rhythm
+Continuous 1.5 Hz polyspike and slow waves with embedded rhythmic delta waves (lateralized periodic discharges, fast + rhythmic, or LPD+FR) over the left posterior quadrant (P3/T5/0l max)
+CLINICAL CORRELATION:
+These findings indicate the presence of highly epileptogenic discharges over the left posterior quadrant.	There is additionally left hemispheric (posterior quadrant-predominant) cerebral dysfunction superimposed on moderate diffuse cerebral dysfunction.	A breach rhythm is consistent with this patient' s known history of craniotomy.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 67-year-old man with a past medical history of hepatitis C, cirrhosis and hepatocellular carcinoma status post chemotherapy in September of 2012.  The patient has been having a change in mental status for the last several days.
+MEDICATIONS:  Current medications are insulin, nystatin, Diflucan, Protonix, CellCept, Actigall.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system, with additional T1 and T2 electrode and a single EKG lead.   Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm reaches 8.5 Hz alpha activity.  Additional polymorphic diffuse theta activity is captured.  There is continuous blink artifact that limits interpretation of the recording.  No sleep is captured.  Hyperventilation is not performed.  Stepped photic stimulation results in no change in the background.
+FINDINGS:
+Mild diffuse slowing.
+Continuous blink artifact.
+No sleep.
+No clear epileptiform discharges.
+IMPRESSION:  This is an abnormal awake only 23 minute EEG due to mild diffuse slowing.  This finding indicates etiologically nonspecific mild diffuse cerebral dysfunction.  Continuous blinking artifact somewhat limits interpretation of the recording since anterior slowing could have been missed.  No epileptiform discharges were captured, however, stage 2 sleep was not recorded.  If a clinical diagnosis of epilepsy persists, a repeat study with stage 2 sleep may be of benefit.
+
+
+

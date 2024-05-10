@@ -1,0 +1,18 @@
+CLINICAL HISTORY: This is a 61-year-old woman with CPA angle lesion, history of seizures; EEG monitoring requested.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. There is no seizure log, no report of medications, and overall no clinical history was provided.  The patient is observed to be able to move her arm.
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is apparently awake, trached in the ICU.  She is able to move one arm.  The EEG demonstrates a pattern of low voltage theta and delta from the left with frequent right temporal sharp and slow wave complexes, which demonstrate a subtle evolution.  At times, they are periodic and at times there is background suppression from the right or in a generalized fashion, last seen up to two seconds.
+There are events characterized by movement of the left arm.
+#1 – 9:32:42 – The EEG demonstrates the preexisting pattern of right temporal sharp activity with in fact less in the way of frequency evolution in comparison to the other portions of the record.  The nurses push the button for this same activity at 15:04 and 15:27.  Upon reviewing the video for these events, no change in the patient’s clinical status can be identified and movement of the left arm can’t be identified in the video.
+#2 – 16:15 – At this time, an identical event such as that described above is seen.  The background EEG is much more suppressed and there is frequent poly spike and spike and slow wave activity but not significantly different than the other portions of the record. Although there is no report of CNS-acting medications, by 16:19:05 the background EEG is becoming increasingly suppressed.  The background from the left is low voltage with a mixture of delta and theta.  From the right, there are ongoing spike and slow wave, poly spike and slow wave discharges, periodic activity, and less in the way of frequency evolution.  This is followed by increasing quantities of fast activity particularly in the frontal regions.
+#3 – 17:40 – The nurse is at the bedside.  The patient seems to make eye contact with the nurse at this time.  There is again frequent spike and slow wave activity from the right hemisphere that is seen almost continuously.
+#4 – 22:39:19 – There is less in the way of epileptiform activity in the background and the background is lower voltage and more continuous.  This pattern is again identified between 1:00 and 2:00 AM.  There is a pause in the record between 1:51 AM and 10:31, but the EEG at the close of the record is low voltage with ongoing spike and slow wave activity from the right hemisphere, maximum in the mid-to-anterior temporal region with a generous field of spread.
+HR:  96 BPM.
+IMPRESSION: This 24-hour section of the record is abnormal due to:
+Ongoing epileptiform activity from the right hemisphere, sometimes with frequency evolution.
+Significant variability in the record with some portions of the record showing more discontinuity and more beta frequency activity, suggestive of administration of CNS medications.
+CLINICAL CORRELATION: The clinical behaviors were not associated with a significant change in the amount of epileptiform activity in the record.  The epileptiform activity seen in the record is compatible with a late, status epilepticus pattern.
+
+
+
+

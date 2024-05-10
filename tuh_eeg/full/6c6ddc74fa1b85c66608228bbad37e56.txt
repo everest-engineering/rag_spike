@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 26 year old right handed woman with complex partial epilepsy, seizure-free since age 13.
+MEDICATIONS: Tegretol, Prenatal vitamins.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontocentral beta. Drowsiness is characterized by slowing of the background. Photic stimulation elicits driving responses at 1 Hz and faster frequencies. Hyperventilation does not activate the record.
+HR: 90 bpm
+IMPRESSION: Normal EEG
+CLINICAL CORRELATION: A normal EEG does not exclude a diagnosis of epilepsy. There is a prominent photic stimulation response but no definitive epileptiform features were identified
+
+
+

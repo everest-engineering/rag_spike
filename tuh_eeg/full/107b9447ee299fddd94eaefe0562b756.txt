@@ -1,0 +1,16 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 22-year-old with history of seizures who presented to the hospital on June 2, 2013 for a witnessed convulsion.
+MEDICATIONS:  Topamax, Trileptal.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional temporal and single lead EKG electrode.  The patient was recorded while awake and drowsy.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at times reaches 7 Hz.  However, overall mainly the background is consistent of intermittent bursts of generalized theta intermixed by low attenuation and diffuse beta.  At times the bursts of theta reach 5-6 Hz but at times they are slower and have a frontal sharply contoured spike resembling slow spike and wave.  No testing is performed during this burst of theta but there are no clinical seizures associated with them.  There also appears to be no evolution to these bursts.  No normal sleep architecture is seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:
+Generalized slow waves at 5-7 Hz seen throughout the recording.
+Bursts of anterior predominant slowing with a sharply contoured discharge preceding some of them which is concerning for slow spike and wave fragments.
+Occasional focal slowing at F8/T4 at 2-4 Hz and amplitude of 20-60 microvolts.
+HEART RATE:  114.
+IMPRESSION:  Abnormal EEG due to generalized slowing and anterior predominant focal slowing concerning for fragment of anterior spike and wave in addition to excess beta.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  In addition, the bursts of theta with anterior predominant, sharply contoured discharges is concerning for fragmented spike and waves which could be seen in generalized epilepsy.  No clear seizures were seen during this recording.
+
+
+

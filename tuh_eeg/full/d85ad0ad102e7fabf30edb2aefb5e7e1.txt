@@ -1,0 +1,30 @@
+CLINICAL HISTORY:  A 25-year-old male with IVDA, mitral valve endocarditis status post aortic valve replacement 2 days ago, now with severe mitral regurgitation, acute renal failure, coma, past history of cerebral infarcts.
+
+MEDICATIONS:  Amiodarone, epinephrine, many others.
+
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient is intubated and unresponsive.
+
+DESCRIPTION OF THE RECORD:  The background EEG was markedly abnormal.  It includes slow, 1-2 hertz delta activity which on the whole was relatively synchronous, but sometimes demonstrate some shifting asymmetries.  There were intermittent bursts of 8 hertz alpha frequency activity, particularly in the frontal regions.  On 2 occasions in later sections of the record, the alpha frequency bursts are a bit more sustained, but demonstrates no frequency evolution.  Tactile and auditory stimulation were performed, and at least on 1 occasion appeared to be associated with an attenuation of the EEG.
+
+Heart rate 84 bpm.
+
+IMPRESSION:  Abnormal EEG due to:
+1. Replacement of normal background with a delta pattern.
+2. Intermittent bursts of rhythmic alpha frequency activity without clear clinical correlate.
+
+CLINICAL CORRELATION:  This EEG supports a severe disturbance of cerebral function.  Although no central nervous system acting medications were noted, it can be seen in the context of pharmacologic sedation.  If there are additional questions, more prolonged EEG recording may be a value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  23 minutes.
+CLINICAL HISTORY:  The patient is a 51-year-old woman with a history of right MCA stroke and bipolar disorder as well as seizure disorder.  She now presents with being found unresponsive on the floor.  She has approximately 1 seizure a month.
+MEDICATIONS:  Depakote.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  The recording was performed at bedside.  Some of the electrodes had high impedances due to poor patient cooperation throughout the recording.
+DESCRIPTION OF THE RECORD:  There is a right to left interhemispheric asymmetry with faster frequencies observed over the left hemisphere.  The posterior dominant rhythm over the left hemisphere consists of polymorphic moderate amplitude 8.5 to 9 Hz alpha activity.  The posterior dominant rhythm over the right hemisphere consists of polymorphic low to moderate amplitude 7 to 8 Hz theta.  The anterior to posterior frequency amplitude gradient is weak bilaterally.  No normal sleep architecture is captured.  Additional diffuse polymorphic theta is observed.  Intermittent left hemispheric sharp waves are captured.  Phase reversal occurs over F7, T1, T3 and Fp1, F3 electrodes.  There is nearly continuous EMG artifact that effects variable leads.  Premature QRS complexes are captured on a single EKG lead.
+FINDINGS:
+Mild diffuse slowing.
+Mild to moderate right hemispheric slowing.
+Intermittent sharp waves over the left frontal/anterior temporal region.
+Occasional premature QRS complexes seen on EKG.
+EMG artifact that is nearly continuous effecting variable leads throughout the recording.
+IMPRESSION:  This is an abnormal awake only 23 minute EEG due to mild diffuse slowing, mild to moderate right hemispheric slowing, as well as intermittent left frontal/anterior temporal epileptiform discharges.  Diffuse slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Focal right hemispheric slowing indicates focal cerebral dysfunction, likely structural in etiology, and is consistent with the patient's history of right MCA territory stroke.  There is an epileptogenic focus over the left frontal/anterior temporal region.  A large amount of EMG artifact is present throughout the recording, so subtle abnormalities might have been missed.  No clear electrographic seizures are captured.
+
+
+

@@ -1,0 +1,21 @@
+
+CLINICAL HISTORY: 48 year old right handed male with thalamic stroke, right occipital CVA and 1-week of memory difficulties, blurry vision, and amnesia.
+
+MEDICATIONS: ASA, Lisinopril, Nifedipine, Metformin, Lovenox
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is photic stimulation but no hyperventilation.
+
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the EEG is well organized, but when the patient becomes drowsy, the background demonstrates intermittent arrhythmic delta activity from the left temporal region. In addition, as the patient becomes drowsy intermittently, the alpha rhythm drops out much faster on the right compared to the left. What appears to be vertex waves are also accompanied by some right central temporal slowing and the vertex waves are consistently maximum on the right. Photic stimulation does not activate the record.
+
+HR: 60 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent focal slowing on the left.
+2. Asymmetric vertex waves which are maximum on the right.
+3. An alpha asymmetry in drowsiness with drop out of the alpha rhythm earlier on the right compared to the left.
+
+CLINICAL CORRELATION: This EEG supports pathology in either hemisphere. Although there were no epileptiform features, correlation with imaging is suggested. Typically, disrupted alpha would suggest pathology on the right and that would be supported by the focal right central temporal delta.
+
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 48-year-old right-handed male with dural AVM, carotid dissection and epilepsy that preexists the neurosurgery.  An increase in seizures over the past year.  Typical seizures involve right-sided motor without loss of consciousness or impairment of speech.  Previous right temporal craniotomy.
+MEDICATIONS:  Eslicarbazepine (Aptiom), levetiracetam, and Depakote.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Craniotomy defect is noted on the right and a breach rhythm is noted with accentuation of amplitude from the right temporal region in wakefulness through sleep.  In wakefulness, there is a suggestion of posterior slow waves of youth with prominent, high amplitude alpha rhythm, particularly on the right.  Drowsiness is characterized by an increase in beta and an increase in rhythmicity of the rhythmic slowing from the right centrotemporal region.  In stage 2 sleep, vertex waves, K complexes, and spindles are noted, but the vertex activity is somewhat asymmetric, in light of the craniotomy defect.
+On one occasion in the transition to sleep, there is an isolated myoclonic jerk without an EEG signature.
+Photic stimulation elicited bilateral driving.
+Hyperventilation produces an increase in amplitude of the background, slightly accentuating the breach rhythm.
+Heart rate: 84 bpm.
+IMPRESSION:  This is an abnormal EEG due to focal slowing with rhythmic 2-4 hertz delta activity of 20-50 microvolts from the right temporal region.
+CLINICAL CORRELATION:  No focal or generalized epileptiform activity was seen in this record.  This individual has previously demonstrated focal features and generalized spike and wave activity.
+Focal slowing noted today may be a consequence of prior Neurosurgery.
+Consideration for more than one mechanism for epilepsy is appropriate for this adult with epilepsy preceding diagnosis of dural AVM
+
+
+

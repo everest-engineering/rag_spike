@@ -1,0 +1,14 @@
+CLINICAL HISTORY:    51 year old right handed woman with encephalitis in 2004, long hospital stay, rehabilitation, development of epilepsy.  Seizure free until five weeks ago when the patient developed the flu and had recurrent seizures.  Last seizure two days ago.
+MEDICATIONS:  Depakote,  ASA, Prilosec, Proair, Advair
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is 1 hour sleep deprived EEG and awake through stage 2 sleep with hyperventilation and photic simulation.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is medium amplitude with a 10 Hz posterior dominate rhythm. The first focal features observed in this record are noted in hyperventilation, which produces rhythmic left temporal theta.  Towards the close of hyperventilation, bilateral theta is observed.  In the transition to sleep, an amplitude of asymmetry is noted.  There is some theta observed bilaterally but that on the left is higher amplitude more rhythmic and that from the right is a bit slower.	Some asymmetries are observed in stage 2 sleep with shifting spread of the spindles, less so into the temporal regions, but relatively symmetric spindles in the central region.  Two left temporal sharp waves are observed.
+HR:    66 bpm
+IMPRESSION: Abnormal EEG due to:
+1.		Independent and somewhat asymmetric temporal lobe features, with independent left and right temporal rhythmic theta.
+2.		Left temporal focus which is accentuated by hyperventilation in terms of rhythmic slowing.
+3.	Left temporal sharp waves.
+CLINICAL CORRELATION:   These findings may be correlated with imaging.  In addition, this
+EEG may represent a unilateral or in theory, a bitemporal focus.
+
+
+

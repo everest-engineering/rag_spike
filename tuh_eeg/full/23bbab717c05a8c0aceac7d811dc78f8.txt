@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 37-year-old woman with history of seizures described as blackouts.  Prior to the episodes, the patient has nausea and headache.  Last episode was 5 weeks prior to this EEG.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF RECORD:  In the most awake state, posterior dominant rhythm is 9-10 Hz and is localized in the posterior regions.  Stage I sleep is characterized by slowing of posterior dominant rhythm and absence of eye blink artifact and muscle artifact as well as presence of vertex sharp transients and there is frontal central beta activity noted.  Hyperventilation elicited bilateral symmetric slowing of background and photic stimulation at multiple flash frequencies was performed and resulted in no abnormal response.  Heart rate was 66 BPM.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  Normal EEG does not exclude the diagnosis of fast seizures.  If seizure is a clinical concern, repeated EEG with deeper stages of sleep for possible capturing of seizures is recommended.
+
+
+

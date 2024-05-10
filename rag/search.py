@@ -47,7 +47,7 @@ def main():
     messages = list([{"role": "system", "content": doc.page_content} for doc in results])
 
     messages.append({"role": "system", "content": f"The previous messages are a selection of {args.number_to_summarise} patient clinical summaries to be used to answer questions. Use only this information to answer questions."})
-    messages.append({"role": "user", "content": f"Please summarise the most common factors seen in patients regarding \"{args.search_text}\" in four paragraphs."})
+    messages.append({"role": "user", "content": f"Please summarise the most common factors seen in patients regarding \"{args.search_text}\" in two paragraphs."})
 
     print("\n\n >>>><<<< \n\n".join([doc.page_content for doc in results]))
 

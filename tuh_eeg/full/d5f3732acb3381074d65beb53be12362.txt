@@ -1,0 +1,16 @@
+CLINICAL HISTORY:
+MEDICATIONS:  Topiramate, Remeron, Abilify, and others.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  The patient did not have any clinical seizures, but had an episode of nausea and associated relatively low blood pressure on the morning of the 13th.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm.  In the transition in and out of drowsiness, there are 1 or 2 asynchronous bursts.
+At approximately 11 a.m., the patient had an episode of tachycardia, measured with conventional telemetry, but the EKG lead on the EEG monitor was not functional at that time.
+Background:  In wakefulness, there is a 9 Hz alpha rhythm.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTS.  Sleep was a bit more consolidated, although the patient had frequent nocturnal arousals.  In an arousal, there are handful of bursts of shifting and slowing.
+Interictal epileptiform detections:  None.
+Electrographic seizures:  None.
+Heart rate 78-140 bpm.
+IMPRESSION:  EEG monitoring during this section of the record was remarkable for:
+No definitive epileptiform features.
+No seizures.
+An episode of tachycardia with relative hypotension and perhaps associated nausea.
+
+
+

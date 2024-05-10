@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  30 year old left handed male with chromosome 17q minus microdeletion, cyclic neutropenia, tonic-clonic seizure and intermittent episodes with screaming.
+MEDICATIONS:  Tegretol, Valium, Seroquel, Gabapentin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is somewhat cooperative.  Photic stimulation was completed.  No previous EEG results are available at this time.
+DESCRIPTION OF THE RECORD:  The background EEG includes a pattern with diffuse beta.  There is also 10-11 Hz, frontal alpha frequency activity.  Brief drowsiness is characterized by hypersynchronous theta. Photic stimulation does not significantly activate the record.  There is a section of the record that appears to demonstrate a left frontal spike which can be differentiated from the patient's eye blink and eye movement artifact.  This is near the end of the record at which point the patient's cooperativity fades.
+IMPRESSION:  Abnormal EEG due to:
+Excess beta.
+Paucity of normal developmental waveforms for an adult of this age.
+A burst of rhythmic frontal theta with associated left frontal sharp waves.
+CLINICAL CORRELATION:  The bursts of left frontal sharp waves in theta was not associated with a change in this patient's clinical state and occurred while the patient was interacting with his mother. This EEG supports a frontal lobe focus for this patient's seizures.
+
+
+

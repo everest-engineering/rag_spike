@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 66 year old right handed male with stroke, cranioplasty in 2008, past history of head trauma, MI, hypertension, COPD.
+MEDICATIONS: Keppra, Metoprolol, Lovenox, Diovan, Zocor
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is relatively somnolent.
+DESCRIPTION OF THE RECORD: The background EEG is composed primarily of theta frequency activity with superimposed arrhythmic delta activity. The arrhythmic delta activity is more prominent in the right hemisphere with some sharply contoured activity in the right mid posterior temporal region. There is an amplitude asymmetry with higher amplitude activity on the right and some sharp waves on the right. The activity from the left is lower voltage and a little bit more uniform. As the patient drifts off to sleep, delta is identified on the left before the right.
+HR: 66 bpm and irregular with frequent PVCs.
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Superimposed poor organization.
+3. Amplitude asymmetry with higher amplitude activity on the right.
+4. Right sided sharp waves.
+CLINICAL CORRELATION: This EEG supports a bihemispheric disorder affecting both gray and white matter. Correlation with imaging is suggestive. In addition, the epileptiform activity may be correlated with his stroke or previous head trauma.
+
+
+

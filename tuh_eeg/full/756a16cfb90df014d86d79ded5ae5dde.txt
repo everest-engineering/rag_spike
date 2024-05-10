@@ -1,0 +1,33 @@
+History:	48 year old woman with history of childhood epilepsy presenting with change in
+mental status.
+Medications:	Topamax, Xanax and others
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy,
+hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 8-8.5 Hz theta activity.
+AP gradient is poor.  Diffuse excess polymorphic theta and delta activity is present.  Frequent brief
+(2-5 second) bursts of 100-200uV, 2-4Hz rhythmic bifrontal slow waves occur throughout the
+recording, increasing in frequency during drowsiness.  During brief drowsiness, the background is
+characterized by increase in diffuse polymorphic theta and delta activity.
+Subtle paucity of faster frequencies is noted over the right temporal region.
+Hyperventilation is performed for 240 seconds with variable cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  HR was 60.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No electrographic seizures
+Focal slowing, polymorphic, intermittent, right temporal, subtle
+FIRDA (frontal intermittent rhythmic delta activity), intermittent
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy 25-minute EEG due to mild diffuse slowing and
+subtle intermittent right temporal focal slowing. Diffuse slowing is indicative of mild diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Intermittent focal slowing is indicative of focal
+cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  FIRDA
+could be seen in encephalopathy, bilateral deep white matter lesions and increased ICP.
+
+
+
+
+

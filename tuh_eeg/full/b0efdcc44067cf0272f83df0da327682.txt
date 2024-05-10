@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 25-year-old woman with lupus, renal failure, lactic acidosis and 3 seizures today. MEDICATIONS: Ativan.
+INTRODUCTION: A routine 24 minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. This is a technically challenging bedside portable record.
+DESCRIPTION OF THE RECORD: The EEG pattern demonstrates diffuse beta and muscle and movement artifact with smaller amounts of delta.  In this technically very challenging record, there is left frontal EKG artifact and questionable left frontal delta.
+HR: 136 BPM
+IMPRESSION: Abnormal EEG due to:
+1.	Replacement of normal background with primarily beta activity
+CLINICAL CORRELATION:   This EEG supports a diffuse disturbance of cerebral function. The beta is likely medication effect. It is technically limited by the patient's cooperation.  This patient will go on to EEG monitoring.
+
+
+
+

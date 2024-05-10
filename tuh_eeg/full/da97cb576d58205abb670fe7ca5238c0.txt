@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  73 year old man who became confused 2 days postoperative a popliteal bypass vein graft, CT scan concerning for stroke.
+MEDICATIONS:  Aspirin, Pantoprazole, Zosyn
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a mixture of theta and delta.  Stimulation produces an increase in theta.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+CLINICAL CORRELATION:  This is a nonspecific pattern which can be seen in a toxic or metabolic encephalopathy or chronic encephalopathy.  No epileptiform features were identified.
+
+
+

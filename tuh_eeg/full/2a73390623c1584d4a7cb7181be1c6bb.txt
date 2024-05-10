@@ -1,0 +1,19 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+56 YO MALE PRESENTS TO TUH 5 MONTHS AGO WITH FALL AND SDH. FIRST SZ ON 10/30/2015, RIGHT GAZE DEVIATION AND TWITCHING RIGHT SIDE FOLLOWED BY GTC FOR 4-5 MIN AND WAS GIVEN 2 MG ATIVAN.
+LEFT CRANIOTOMY FOR EVACUATION LEFT VP SHUNT.
+GABAPENTIN, BACLOFEN, LOVENOX, LORAZEPAM 2 MG 605PM 10/30, KEPPRA
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  Except on the right hemisphere some frontal beta through out almost the entire study. Some normal sleep architecture can be seen.
+Continuous polymorphic delta activity is present in the left hemisphere, with an associated increased voltage when compared to the right but with absence of faster frequencies.  This is consistent with a breach rhythm. No epileptiform discharges are present. However a sharp transient can be seen over the left midtemporal region. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli. HR was 84
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric, with increase amplitude but absence of f Diffuse slowing, polymorphic, continuous, severe diffuse
+Sharp transients, single, left temporal, mid
+Interpretation:
+This is an ABNORMAL EEG because of continuous focal slowing in the left hemisphere. This finding is indicative of severe focal cerebral dysfunction in this region and consistent with the known SDH and surgery. In addition there is severe diffuse background slowing. This finding is indicative of severe diffuse cerebral dysfunction, which is etiologically nonspecific. The single sharply contoured waveform is of unclear clinical significance.
+
+
+

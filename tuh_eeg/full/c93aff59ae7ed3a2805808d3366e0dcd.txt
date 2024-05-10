@@ -1,0 +1,13 @@
+REASON:  Evaluate for encephalopathy.
+CLINICAL HISTORY:  A 61-year-old woman with previous left MCA CVA, MR, CHF, and CAD.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is routine 24 minute  EEG which is technically acceptable.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm which is disrupted on the right compared to the left.  The right hemisphere demonstrates nearly continuous focal slowing with disruption of faster frequency activity and a mixture of arrhythmic delta and theta.  The focal slowing is of medium amplitude.  Features of drowsiness include bilateral slowing, but the asymmetry persists into stage 1 sleep.  Photic stimulation elicits bilateral driving.
+Heart rate 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Continuous right-sided focal slowing with disruption of faster frequency activity and slow activity.
+No epileptiform features were identified.
+Clinical Correlation
+This EEG is more supportive of a structural process on the right than the left as described in the Tech history.
+
+
+

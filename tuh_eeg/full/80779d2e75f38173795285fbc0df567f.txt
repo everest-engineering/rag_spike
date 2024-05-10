@@ -1,0 +1,29 @@
+History:	22 year old woman with a history of seizures.  Patient is currently 6 months pregnant.
+Medications:	Trileptal, Zofran, (Patient stated on drugs for depression, but can not remember)
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is noted.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  POSTS (positive occipital sharp transients of sleep) are
+abundant.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and
+symmetric sleep spindles and K complexes appear.  Patient is asleep throughout the majority of the
+No clear focal slowing is present.  No clear epileptiform discharges are present.  A single sharp
+transient is noted over the left midtemporal region.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.
+Summary of Findings:
+POSTS (positive occipital sharp transients of sleep), prominent
+Beta, excessive
+Sleep, stage 2, abundant
+Sharp transients, one, left temporal
+Interpretation:
+This is a NORMAL 23-minute briefly awake and mostly asleep EEG. The presence of a single left
+temporal sharp transient is of uncertain clinical significance.  Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+

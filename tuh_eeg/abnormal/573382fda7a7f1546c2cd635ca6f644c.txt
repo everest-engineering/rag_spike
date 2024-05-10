@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 67-year-old woman with stroke and aphasia.  The patient has limited motor deficits, but significant aphasia.  The clinical team noted that the patient speaks occasionally but never on rounds.
+MEDICATIONS:  Insulin, aspirin, others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible due to the patient's mental status, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates continuous focal slowing from the left hemisphere, some of which is sharply contoured with a phase reversal at T1.  There are T1 sharp waves noted intermittently.  The field of focal slowing is relatively diffuse throughout the left hemisphere, and there is disruption of the alpha rhythm.  In wakefulness, the right hemisphere demonstrates a well-formed alpha rhythm.
+Features of drowsiness include an increase in background slowing.  Early stage I sleep was identified with limited vertex waves.  Of note, as the patient transitions to sleep, there is less in the way of rhythmic sharply contoured slowing.  Photic stimulation produces a driving response on the right but not the left.
+IMPRESSION:  This is an abnormal EEG due to prominent, rhythmic slowing with sharp waves, really seen primarily in wakefulness on the left.
+CLINICAL CORRELATION:  There were no clear clinical correlates for the features described above.  There are brief transitions into stage II sleep for this individual, although sleep was not sustained, but the majority of the sharply contoured slowing and rhythmic slowing is seen in wakefulness.  Ongoing monitoring is essential.
+
+
+

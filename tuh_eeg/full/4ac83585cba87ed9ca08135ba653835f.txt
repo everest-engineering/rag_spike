@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  21 minutes
+INTRODUCTION:  The recording was performed according to a standard 1020 system with a 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+CLINICAL HISTORY:  The patient is a 49-year-old woman, with a history of staring spells.  Additionally, she has a bilateral frontal skull defect.
+MEDICATIONS:  Klonopin and Keppra.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consisted of well formed and modulated 9 -10 Hz alpha activity that attenuates with eyes opening.  There is a anterior to posterior frequency amplitude gradient faster frequencies with lower amplitudes anteriorly.  Excess beta is observed throughout the recording.  During brief drowsiness, there was attenuation of the background and increase in theta activity.  Nearly continuous polymorphic theta and delta activity is captured over the left frontal region.  Similar activity, to a lesser degree, is observed over the right frontal region.  Additional faster activity is observed over the bifrontal regions, consistent with a breach artifact.  Hypoventilation was performed and accentuates focal bifrontal slowing, left greater than right. Stepped photic stimulation does not produce additional abnormalities.
+FINDINGS:
+Mild to moderate focal bifrontal slowing, left greater than right.
+Excess beta.
+Breach over the bifrontal regions.
+No stage II sleep.
+No clear epileptiform discharges.
+IMPRESSION:  This is an abnormal awake, and briefly drowsy, 21-minute electroencephalogram, due to mild to moderate bifrontal slowing, left greater than right.  This finding indicates focal cerebral dysfunction, likely structural in etiology.  Breach effect is observed, secondary to skull defect.  Excess beta is seen as a result of medications such as benzodiazepines or barbiturates.  No clear epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical diagnosis of epilepsy still persists, a repeat study with sleep may be of benefit.
+
+
+

@@ -1,0 +1,31 @@
+History:	26 YR OLD FEMALE PRESENTS S/P PEA CODE WITH UNKNOWN DOWN TIME.
+POSS DRUG OVERDOSE
+Medications:	DEPAKOTE IV
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation with absence of the expected anterior to posterior gradient of frequencies.  There are
+intermittent burst (ratio 0.1-0.3) composed of symmetric high amplitude frontocentral maximal
+generalized polyspikes and wave at 5-6hz. These burst mainly last 1-1.5 seconds.  However
+infrequently they may last up to 10 seconds and appear to have a diffuse beta discharge in
+between them. Some of them had an associated diffuse low amplitude body shaking seen on
+video.  No posterior dominant rhythm is present.  No normal sleep architecture was present.
+No focal slowing is present.
+Hyperventilation and photic stimulation were not performed.  With noxious stimuli some diffuse
+muscle artifact can be seen but there is no clear change in the background. The discharges with
+stimulation appear to have a more consistent shaking correlate after stimulation.  Hr was 54
+Summary of Findings:
+Polyspike-and-wave complexes, frequent generalized, Mainly frontocentral
+Burst-suppression pattern, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of severe background attenuation and bursts of generalized
+polyspikes  These findings are indicative of a severe cerebral dysfunction and irritability. The
+shaking correlate seen on video is consistent with cortical myoclonus.  Overall this findings in the
+absence of sedatives or toxins is indicative of a very poor prognosis.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   39 year old right handed female with a past medical history of Bell palsy and a motor vehicle accident with head laceration.  History of recurrent syncope, head trauma and a past history of partial coma.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz 60 mV posterior dominant rhythm.  Features of drowsiness include attenuation of the alpha rhythm or background slowing with slow rolling eye movements in a central theta pattern.  Deeper stages of sleep are not sustained.  Hyperventilation produces a small amount of slowing.  Photic stimulation elicits vigorous driving with supraharmonic driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG in wakefulness for stage 1 sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, long-term monitoring of some nature may be of value.
+
+
+

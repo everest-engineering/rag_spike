@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 21-year-old male with epilepsy since age 14, recurrent tonic-clonic seizures, seizures began with a buzz in his ears, consistently low anti-epileptic drug levels.
+MEDICATIONS:  Dilantin and Topamax.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable EEG, although T1-T2 electrodes had impedances greater than 5 kilo-ohms.
+DESCRIPTION OF RECORD:  In wakefulness, there is a 9 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Drowsiness is characterized by slow rolling eye movements with abundant vertex waves, K complexes, spindles, and posts noted in stage II sleep.
+Hyperventilation produced an increase in amplitude of the background.  Photic stimulation was performed while the patient was falling off to sleep and did not significantly activate the record.
+Of note, although most of the vertex waves and K complexes are symmetric, there are rare waveforms which have a slight asymmetry and are slightly maximum in terms of the field on the right, although the phase reversal is at CZ.
+IMPRESSION:  This is a subtly abnormal EEG due to:
+Slightly asymmetric vertex waves and K complexes.
+CLINICAL CORRELATION:  No definitive sharp waves or spikes were noted. This is not a clear example of dyshormia.  If additional information is needed to characterize his epilepsy, a more prolonged study may be obtained.
+
+
+

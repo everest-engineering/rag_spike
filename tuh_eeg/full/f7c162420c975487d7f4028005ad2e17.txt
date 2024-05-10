@@ -1,0 +1,20 @@
+CLINICAL HISTORY: This is a 46-year-old woman admitted for long-term monitoring regarding seizures since age 3 secondary to lead poisoning.  Her seizures are described as a left-sided burning sensation with twitching and jerking of the left arm with no loss of consciousness.
+
+MEDICATIONS: Tegretol.
+
+INTRODUCTION: Continuous video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.
+
+DESCRIPTION OF THE RECORD:
+
+RANDOM WAKEFULNESS AND SLEEP In wakefulness, the background EEG demonstrates an interhemispheric asymmetry with low voltage.  There is an 8 Hz, 25 ?V posterior dominant rhythm in the left hemisphere, but with disruption on the right.  From the video recording, it was noted that the patient did not sleep well because she got out of bed every one to two hours.  The EEG did not show a sleep pattern.
+
+EVENTS: The patient experienced ten spells during this long-term monitoring.  The bush button events are as follows:  11:01, 11:04, 11:10, 13:27, 16:00, 16:18, 17:56, 23:51, 04:57, 06:25.  Each time she complained of a left arm and left neck burning sensation, occasionally with left eyelid twinge.  These all lasted for about less than 1 minute to 2 minutes.  No generalized shaking or loss of consciousness occurred.  No EEG correlates were seen.
+
+In the next 24 hours the patient had events with circular movements of the left arm.  After these were identified, similar behaviors were seen in this epoch.  There was no PB and no EEG change with these behaviors.  Because of the retrospective nature, no clinical correlates can be made/
+HR: 78 BPM.
+
+IMPRESSION: Abnormal EEG due to:
+1. Interhemispheric asymmetry.
+2. Disruption of the alpha rhythm in the right hemisphere.
+
+

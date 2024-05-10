@@ -1,0 +1,31 @@
+History:	49 YO FEMALE AMS, LETHARGIC AT HOME, MORE ASLEEP THAN AWAKE
+PMHX: DM, PYODERMA, DEPRESSION
+Medications:	PROTONIX, LABETOLOL, INSULIN
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, asleep, lethargic
+Description:
+Waking background is characterized by a 25-40uV, 8.5 Hz alpha rhythm, well-formed on the left
+side, which attenuates with eye opening.  Beta activity is present, maximal in left frontotemporal
+region.  Excess theta activity is noted during brief periods of wakefulness.  There are bursts of 2.5 Hz
+frontal intermittent rhythmic delta activity (FIRDA).  During brief drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely.
+Almost continuous polymorphic delta and theta activity is present in the right posterior quadrant
+region maximum at T2 and F8 during wakefulness, increasing during drowsiness.  No epileptiform
+discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 100 bpm.
+Summary of Findings:
+Asymmetry, beta, well-formed on the left
+Alpha rhythm, well-formed on the left
+Diffuse slowing, rhythmic, Excess theta during wakefulness
+FIRDA (frontal intermittent rhythmic delta activity)
+Focal slowing, polymorphic, continuous, right temporal, anterior
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing and bursts of frontal intermittent
+rhythmic delta activity (FIRDA).  These findings are indicative of diffuse cerebral dysfunction, which
+is etiologically nonspecific. FIRDA bursts could also be seen in increased intracranial pressure or
+midline mass lesion of brain.  continuous focal slowing in the right posterior quadrant region.  This
+finding is indicative of a focal structural lesion in this region.  The lack of epileptiform discharges
+on a routine EEG does not rule out a clinical diagnosis of epilepsy or intermittent seizures.
+

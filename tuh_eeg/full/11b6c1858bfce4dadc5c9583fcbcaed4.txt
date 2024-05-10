@@ -1,0 +1,31 @@
+History:	62 YR FEMALE WITH CC OF VERTIGO AND SYNCOPE EVENTS.  PT WITH MANY
+FALLS.  SHE STATES HAS FALLEN OUT OF BED SEVERAL TIMES WHILE JUST
+LAYING THERE???.   PMHX: HTN, DM, RHEUMATOID ARTHRITIS, COPD
+Medications:	CYMBALTA, NEURONTIN, TRADJENTA, KLONOPIN, ZOCOR, ZESTORETIC,
+PROTONIX, HUMIRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present independently in the bilateral midtemporal
+regions (left more than right) during wakefulness, increasing during drowsiness.  No epileptiform
+discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  Hr was 72
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral
+midtemporal regions (left more than right).  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.  No clinical or electrographic seizures are present.
+
+
+
+
+
+

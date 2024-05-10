@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 48-year-old gentleman who presented with about 12 hours of amnesia.
+MEDICATIONS:  Metoprolol, Zocor, Simvastatin, insulin, Metformin.
+INTRODUCTION:
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of symmetric, well-formed, and modulated 9 to 10 Hz alpha activity that attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient.  No sleep architecture is captured.  Rare left temporal polymorphic theta activity is observed.  No epileptiform discharges are captured.  Hyperventilation produces no changes in the background.  Photic stimulation produces no changes in the background.
+FINDINGS:
+Rare left temporal mild slowing.
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake-only EEG, due to rare left temporal slowing.  This could be indicative of an underlying structural abnormality.  No epileptiform discharges were captured, but stage II sleep was not recorded.  If clinical diagnosis for seizures persists, a repeat study with sleep may be of benefit.
+
+
+

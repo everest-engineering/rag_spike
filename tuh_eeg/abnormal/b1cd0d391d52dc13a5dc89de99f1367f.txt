@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  26 minutes.
+CLINICAL HISTORY:  The patient is a 61-year-old man with history of seizures. Seizures are described as episodes of blurry vision, dizziness and inability to communicate lasting approximately 2-3 minutes.  The last generalized tonic-clonic convulsion was several years ago.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  The recording was performed using standard 10-20 system with an additional T1 and T2 electrode and single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low to moderate amplitude 10 Hz alpha activity that attenuates with eye opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies of lower amplitude anteriorly.  Diffuse beta activity is captured.  During sleep symmetrical vertex waves and sleep spindles noted.  Intermittent polymorphic, often sharply contoured, theta and delta activity is captured over the left temporal region.  Hyperventilation is performed with fair effort and produces no significant change in the background.  Stepped photic stimulation results in symmetric occipital driving at medium to high flash frequencies.  No clear electrographic discharges are captured.
+FINDINGS:
+Intermittent mild to moderate focal left temporal slowing, often sharply contoured.
+Excess beta.
+No clear epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and asleep 26 minute EEG due to intermittent mild to moderate focal left temporal slowing.  This finding indicates focal cerebral dysfunction, possibly structural in etiology.  Excess beta could be secondary to the medication effect such as benzodiazepines or barbiturates.  The lack of epileptiform discharges noted on a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

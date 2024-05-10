@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 50-year-old woman with right carotid aneurysm, found to have a mass in the neck.  Past history of headaches and dizzy spells.
+MEDICATIONS:  Advair, albuterol, prednisone, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel EKG.  This was technically challenging EEG performed prior to this patient's planned surgery later on the 23rd.  It is an awake study without hyperventilation or photic stimulation.
+DESCRIPTION OF THE RECORD:  This EEG captures wakefulness and very brief drowsiness.  In wakefulness, there is a symmetric reactive 9 Hz alpha rhythm and a small amount of low voltage, frontal central beta.  Very brief drowsiness was characterized by hypersynchronous rhythmic theta.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG in wakefulness and very brief drowsiness.
+CLINICAL CORRELATION:  These findings will be used as the baseline for the patient's operative study later today.
+
+
+

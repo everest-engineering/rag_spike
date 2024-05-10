@@ -1,0 +1,25 @@
+History:	83 year old woman with a history of seizures, who presents with left sided shaking
+lasting ~ 5 minutes.
+Medications:	KEPPRA, PLAVIX, NEURONTIN,  2MG ATIVAN ON 9/1/14
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During very brief stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at flash multiple flash rates.
+Summary of Findings:
+No epileptiform discharges
+Sleep, stage 2, very brief
+Interpretation:
+This is a NORMAL awake and very briefly asleep 23-minutes EEG. The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

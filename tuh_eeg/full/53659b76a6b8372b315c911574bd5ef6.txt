@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 61 year old right handed female with right parietal stroke, left hygroma, admitted with encephalopathy and weakness.
+MEDICATIONS: Depakote, ASA, Metformin, Depakote, Baclofen, Lisinopril, Lovenox, Zocor, Insulin, Nicotine Gum
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG includes a somewhat slow pattern with a 7.5 Hz posterior dominant rhythm. Arrhythmic delta is noted in the right hemisphere particularly central and posterior temporal regions with disruption of alpha rhythm. Photic stimulation is remarkable for a great deal of muscle artifact but there is a driving response better identified on the left.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing from the right hemisphere with arrhythmic delta activity and disruption of faster frequency activity.
+2. Mild slowing on the left.
+CLINICAL CORRELATION: This EEG supports a structural process on the right affect gray and white matter. No epileptiform features were observed.
+
+
+

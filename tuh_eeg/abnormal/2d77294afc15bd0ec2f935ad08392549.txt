@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  This is a 46-year-old female with 4-year history significant for episodes of feeling electric shock in head.  Medications are none.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulations were performed.  The patient is being recorded during wakefulness and stage I and 2 sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hz in frequency, and 30-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity, which is distributed symmetrically, stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  Stage 2 sleep is characterized by the presence of K-complexes, sleep spindles, and posts hyperventilation results in symmetrical slowing of the background activity.  Photic stimulation was performed at multiple/frequencies and results in a symmetric driving response.  The heart rate is 70 to 80 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording, capturing wakefulness through stage 2 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy if seizures are clinical concern a repeat EEG or a 24 hour ambulatory EEG may be helpful.
+
+
+

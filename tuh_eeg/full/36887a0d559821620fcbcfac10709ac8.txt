@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 29-year-old woman with new-onset seizures occurring September 3 out of sleep with convulsions and tongue biting.
+MEDICATIONS:  Tramadol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed. This EEG captured wakefulness through brief stage II of sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-defined alpha rhythm which is symmetric and reactive to eye opening.  Features of drowsiness include rhythmic central theta with spindles noted in stage II sleep.
+Hyperventilation produced an increase in amplitude of the background.  Photic stimulation was performed while the patient was drowsy but did elicit a driving response.  Heart rate 72 bpm.
+IMPRESSION:  This is a normal EEG in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG.  A normal EEG does not exclude a diagnosis of epilepsy and if additional information is needed, an additional EEG recording may be of value.
+__________________________
+
+
+

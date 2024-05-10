@@ -1,0 +1,27 @@
+History:	64 YR MAN PRESENTED WITH RIGHT HEMIPLEGIA AND APHASIA. DIAGNOSED
+WITH LEFT LENTIFORM ICH.
+Medications:	Lorazepam, Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, better seen over
+the left hemisphere.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous polymorphic delta activity is present in the right anterior temporal region during
+wakefulness, increasing during drowsiness.  Intermittent polymorphic theta activity is present in the
+left midtemporal region during wakefulness, increasing during drowsiness.  No epileptiform
+Hyperventilation and photic stimulation are not performed.  HR was 84
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right temporal, anterior
+Focal slowing, polymorphic, intermittent, right temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the right
+anterior temporal region.  This finding is indicative of a focal structural lesion in this region. In
+addition there  intermittent focal slowing in the left mid temporal region.  This finding is indicative
+of focal cerebral dysfunction, which is etiologically non-specific.
+
+

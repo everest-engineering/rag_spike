@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 27-year-old woman with thrombosis, pulmonary hypertension for hypothermic treatment and intraoperative thrombectomy.
+MEDICATIONS:  Versed, sevoflurane, isoflurane, vecuronium, fentanyl, epinephrine, Amytal.
+INTRODUCTION:  4-hour digital EEG was performed in the OR using standard 10-20 system with CEA montage.  One channel EKG was employed.  The tech was in the OR during the procedure with remote physician review and physician backup throughout the procedure.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is awake in the OR just after 1 p.m.  With the induction of the anesthesia, the EEG transitions to a pattern with generous beta and delta.  There was significant artifact noted as the surgeons manipulate the patient's cranium to reposition the patient.
+Cooling begins at 3:40 and the EEG transitions to initially a burst suppression pattern.
+The EEG becomes progressively suppressed.
+The target temperature was 19.6 degrees.
+By 4 p.m., the EEG is increasingly low voltage and suppressed.  The target temperature of 20 degrees was achieved at 4:35 and the patient is placed on cardiac bypass.  In the period of time between 4:30 and 4:37, the EEG gradually become suppressed with some ICU artifacts in the EEG as suppressed by 4:37.
+Recording continues throughout the procedure.  The patient is taken off cardiac bypass at 5:35 and rewarming begins at 6 p.m.  The EEG recording is discontinued at that time prior to completion of the rewarming process.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this operative procedure which utilized hypothermia was remarkable for the achievement of a suppressed pattern.
+
+
+

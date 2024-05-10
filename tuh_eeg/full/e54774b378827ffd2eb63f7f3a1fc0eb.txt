@@ -1,0 +1,13 @@
+LONG-TERM MONITOR:  14-187-4.
+CLINICAL HISTORY:  This is a 54-year-old male with 4- to 7-year history of intermittent episodes of unresponsiveness with seizure-like activity.
+INTRODUCTION:  A 24-hour digital video EEG monitoring was performed with continuous seizure and spike detection software.  The patient experienced no clinical seizures.
+DESCRIPTION OF THE RECORD:  EEG demonstrates a generous stage 2 sleep with vertex waves, K complexes, spindles, and POSTS.  In wakefulness, there is a symmetric reactive alpha rhythm.
+Interictal Epileptiform Detections:  None.
+Seizures:  None.
+Practice Push Buttons:  Normal awake pattern.
+Heart Rate:  60 bpm.
+IMPRESSION:  Normal 24-hour video EEG monitoring.
+CLINICAL CORRELATION:  This was the 4th day of continuous video EEG monitoring.  The patient has no epileptiform discharges and no clinical seizures.  Of note, he did have intermittent tachycardia as identified by telemetry.  Plans for additional cardiovascular testing were made.
+
+
+

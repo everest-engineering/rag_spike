@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 38-year-old woman with migraine headaches and episodic loss of consciousness.
+MEDICATIONS:  Ativan, Ambien, gabapentin, and Synthroid.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy, 20-minute EEG with generally acceptable impedances, although there are electrode artifacts throughout the record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a low voltage, 12 Hz alpha rhythm with generous beta.  Brief drowsiness is characterized by an increase in beta.  The artifact at the T4 electrode process.
+Photic stimulation elicited a low voltage, bilateral driving.
+Hyperventilation did not significantly activate the record.
+Heart rate 72 bpm.
+IMPRESSION:  Technically challenging, but normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a repeat tracing may be considered.  The patient's muscle artifact may be related to the patient's underlying muscle tension and a repeat study when the patient is a bit more relaxed is suggested.
+
+
+

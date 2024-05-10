@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 	46 year old male with alcohol withdrawal and seizures, extremely agitated.
+MEDICATIONS:  Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is quite agitated.
+DESCRIPTION OF THE RECORD:  In  wakefulness, the background EEG includes a mixed frequency pattern with generous beta and smaller amounts of theta.  The data is typically 13 Hz in nature.  Eye movement and other artifacts are observed. The patient becomes increasingly agitated and terminates.the  study by removing the electrodes and refusing to complete the study.
+IMPRESSION:  Abnormal EEG due to:
+1.  Replacement of normal background with excess beta and theta.
+CLINICAL CORRELATION:  No epileptiform features were seen however, this is a somewhat limited study due to the patient's removal of the electrodes.  If epilepsy is an important consideration, a repeat study in the lab when his alcohol withdrawal has subsided is advised.
+
+
+

@@ -1,0 +1,33 @@
+CLINICAL HISTORY:  A 63-year-old woman found unresponsive with left arm shaking.  Recurrent tonic-clonic seizures in the emergency room at 11:00 a.m. Prior large L MCA CVA. s/p angioedema reaction to Phenytoin earlier today
+
+MEDICATIONS:  Phenobarbital, propofol, dopamine, others.
+
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10/20 system of electrode placement with 1 channel of EKG.  The patient was intubated and poorly responsive.  This was a technically challenging EEG.  Most impedances were under 5 kiloOhms
+
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The overall background includes a slow pattern with a mixture of theta and generous beta.  Superimposed upon this are periodic complexes from the left hemisphere.  These demonstrate some variability.  The complexes are all maximum in the left temporal region and range from 70-100 microvolts.  There is variability in their field of spread at maximum.  Some of them are more clearly anterior temporal or mid to posterior temporal region.  Using an averaged reference, there is a clear occipital component to many of them.  There is a generous frontocentral and centrotemporal field, but again there is a fair amount of variability.  The complexes have on occasional some polyphasic activity.  The periodicity is approximately 1 Hz, but there is a small degree of evolution and subtle delta.
+
+Minimal stimulation of the patient was performed during the EEG, so it is not possible  to assess reactivity to external stimuli.
+
+Heart rate 64 bpm.
+
+IMPRESSION:  Markedly abnormal EEG due to:
+1. Periodic complexes in the left hemisphere, a PLED like pattern with subtle buildup.
+2. Markedly slow pattern.
+3. Underlying arrhythmic delta activity in the left central temporal region.
+
+CLINICAL CORRELATION:  The pattern described above may be seen in the context of a postictal pattern or an ongoing, late status epilepticus.  Of note, this EEG was recorded approximately 10 hours after the patient's last convulsion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

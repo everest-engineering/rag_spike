@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Refractory spasms of the upper extremities, particularly as she tries to drift off to sleep.
+MEDICATIONS:  Duragesic, Fentanyl patch, Famotidine, Amitiza, Depakote, Gabapentin, Cymbalta, Lidocaine, Atarax.
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  There is prominent, 6-7 Hz theta throughout the record.  The posterior dominant rhythm is slow, approximately 7 Hz.  Generous beta is noted. Features of drowsiness include an increase in rhythmicity of the background. Photic stimulation does elicit a driving response and intermediate flash frequencies.  In relaxed wakefulness there is occasional focal slowing in the right central region and there is a single right temporal sharp wave.
+HR:    126 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Subtle underlying focal slowing in the right hemisphere.
+CLINICAL CORRELATION:  There was only a single sharp wave noted on the right, but it is in the region of the focal slowing, suggesting a structural process in the right hemisphere.  The patients medications my play a role in the background slowing.
+
+
+

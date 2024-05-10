@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 67-year-old, nursing home resident, with previous intracerebral hemorrhage and enhancing cystic lesion on CT scan, evaluated for change in mental status.
+MEDICATIONS:  Renagel, Diovan, insulin, metoprolol, and others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was lethargic.  Hyperventilation and photic stimulation were not possible.  This is a technically acceptable EEG with most impedances under 5 kilo ohms.  The patient is poorly responsive, and at times, restless.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a mixed frequency, slow background.  Even when the patient is motorically active, there is spindle activity noted in the right central region.  Stimulation of the patient produces an increase in alpha and theta frequency activity.  When the patient is unstimulated, he drifts off into a sleep like state with beta spindles seen primarily from the right hemisphere and a more slow arrhythmic delta pattern noted on the left.
+Heart rate 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+An asymmetry noted in this record, characterized primarily by asymmetric beta spindles in the central regions, but also additional focal slowing on the left.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No epileptiform features were noted.
+
+
+

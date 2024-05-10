@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 43-year-old woman with epilepsy and HIV disease, past history of mild stroke on the right side of the head.  Evaluate for epilepsy.
+MEDICATIONS:  Keppra and phenytoin.
+INTRODUCTION:  One-hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This record captures wakefulness through sleep.  It has some technical limitations including a great deal of muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm, which is symmetric and reactive to eye opening.  There is a fair amount of muscle artifact noted throughout the waking background.  Intermittent generalized theta was noted with a slight asymmetry, slightly more theta noted on the right.  Features of drowsiness include an increase in theta noted in the background as well as an increase in beta
+Stage 2 sleep includes vertex waves, K complexes, and spindles.
+Focal features in this record include subtle underlying focal slowing in the right central region.  In addition, a handful of the vertex waves phase reversed to the right of the midline.  Of note, muscle artifact is also asymmetric in this record.
+A single frontotemporal sharp wave was noted in the transition to sleep, maximum in the right frontotemporal region, but involving the frontocentral region as well.
+Hyperventilation produced an increase in background theta.  Photic stimulation was performed while the patient was falling asleep, but did produce a driving response.
+Heart rate:  84 bpm.
+IMPRESSION:  Technically challenging EEG, but abnormal due to:
+Excess theta.
+Intermittent asymmetry with focal features noted in the right hemisphere, particularly the central regions.
+CLINICAL CORRELATION:  There is only a single sharp wave noted in this record although, there are some asymmetric vertex waves.  This EEG supports both a diffuse disturbance of cerebral function and an underlying focal process on the right.  The asymmetric sleep morphologies may be part of the underlying focal features.  Previous EEGs were not available at this time for comparison.
+
+
+

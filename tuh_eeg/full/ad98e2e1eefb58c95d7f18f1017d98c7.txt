@@ -1,0 +1,51 @@
+AGE: 49 y.o.
+SEX: female
+DATE OF STUDY: 09/30/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG #: 15-1429
+HISTORY :
+a 49 y.o. Female with a history of HIV and epilepsy in the setting of possible cerebritis, s/p brain biopsy referred for routine EEG as a follow up study.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+lamotrigine (LAMICTAL) 100 mg tablet , Take 1 tablet by mouth 2 times daily. This follows the lamictal 25 Mg titration
+naproxen (NAPROSYN) 500 mg tablet, Take 1 tablet by mouth 2 times daily (with meals) .
+acetaminophen (TYLENOL) 325 mg tablet, Take 650 mg by mouth every 6 hours as needed for Pain.
+darunavir (PREZISTA) 800 mg Tablet, Take 800 mg by mouth daily. senna-docusate (SENNOSIDES-DOCUSATE SODIUM) 8.6-50 mg per tablet, Take 1 tablet by mouth daily.
+psyllium (METAMUCIL) packet, Take 1 packet by mouth daily. ritonavir (NORVIR) 100 mg capsule, Take	by mouth 2 times daily. emtricitabine-rilpivirine-tenofovir	(COMPLERA) 200-25-300 mg Tablet, Take	by mouth daily.
+oxycodone-acetaminophen	(PERCOCET) 5-325 mg per tablet, Take 1 tablet by mouth every 4 hours as needed for Pain.
+clonazepam (KLONOPIN) 1 mg tablet, Take 1 mg by mouth 3 times daily.
+escitalopram oxalate (LEXAPRO) 20 mg tablet, Take 20 mg by mouth daily.
+hydroxyzine (ATARAX) 50 mg tablet, Take 100 mg by mouth at bedtime.
+levetiracetam (KEPPRA) 750 mg tablet, Take 2 tablets by mouth 2 times daily.
+Lidocaine 5 % Cream, Apply twice per day to your head where it hurts
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is continuous and asymmetric.
+The left hemisphere is characterized by a fairly well organized mixture of alpha and excess frontal alpha and beta, with a posterior dominant rhythm of 9.5 Hz.
+The right hemisphere is characterized by a fairly well organized mixture of theta, alpha, and excess of frontal alpha and beta, with no clear posterior dominant rhythm.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by further background slowing. There are 1-second runs of spindle-like 12-Hz activity seen both synchronously and asynchronously, parasagittal and frontally, across the hemispheres.
+No generalized slowing is present.
+There is abundant right posterior temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and accentuates the focal slowing in the right posterior temporal region
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and asleep routine EEG due to:
+Suboptimal background organization
+Abundant right posterior temporal polymorphic slowing
+CLINICAL CORRELATION:
+These findings indicate the presence of right posterior temporal cerebral dysfunction superimposed on mild diffuse cerebral dysfunction . When compared to two prior EEGs in 6/2015, the current study demonstrates marked improvement in the slowing and organization of the right hemisphere.
+
+
+
+

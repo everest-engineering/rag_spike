@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 49-year-old male admitted after a fall and found to have intermittent facial twitching.  Spinal cord injury, status post trach, now agitated with shaking of the upper extremities and intermittent facial twitching.
+MEDICATIONS:  Versed, fentanyl drip, Ativan, Seroquel, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.
+DESCRIPTION OF THE RECORD:  This is an awake and jittery patient with a great deal of muscle movement artifact.  The background is remarkable for primarily a theta frequency background with smaller amounts of beta, eye movement and muscle twitch artifact.  The patient is interactive with the technologist.
+Heart rate 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to excess background theta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The background theta described above is a nonspecific finding.  It can be seen following the use of sedative hypnotic medications or with a diffuse disturbance of cerebral function.
+
+
+

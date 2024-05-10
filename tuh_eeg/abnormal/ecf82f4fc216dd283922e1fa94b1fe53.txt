@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  39 year old right handed male with an episode of dizziness following a beer and a cigarette.  He had a beer, cigarette and then went out in the cold, and had a syncopal episode with a fall, jaw fracture.  Intermittent dizzy and lightheaded spells for 1 month.
+MEDICATIONS:  Lisinopril, Prinivil, Zestril
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel  EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes an 11 Hz alpha rhythm.  Drowsiness is characterized by an increase in beta.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits a subtle driving response.  Heart rate is 60 BPM.
+IMPRESSION:  Normal EEG in wakefulness through stage I sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  No pathological features were seen.  If epilepsy is an important consideration, a 1-hour sleep deprived EEG may be considered.
+
+
+

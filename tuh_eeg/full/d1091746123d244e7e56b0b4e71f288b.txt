@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  73 year old right handed gentleman with right sided weakness and confusion.  This is followed by a seizure.  Past history of stroke 2 years ago with right hemiparesis.
+MEDICATIONS:  Keppra, Lovenox.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is relatively low voltage with an alpha rhythm of approximately 8.5 Hz.  There are bursts of higher amplitude slowing noted intermittently from the left. As the patient transitions in and out of stage I and stage II sleep there are occasional bursts of lower voltage shifting slowing from either hemisphere.  Photic stimulation does elicit a vigorous driving response with supraharmonic driving.  This is particularly notable at 9 Hz.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+A very low voltage pattern.
+Occasional bursts of rhythmic slowing from either hemisphere, a bit more so on the left compared to the right.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The findings described above are nonspecific.  They carry an intermediate correlation of pathology in
+either hemisphere.  If additional information is needed, a follow up EEG is suggested.  The supraharmonic driving is a normal finding.
+
+
+

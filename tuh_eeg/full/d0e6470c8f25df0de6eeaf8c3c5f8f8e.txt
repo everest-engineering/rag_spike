@@ -1,0 +1,28 @@
+History:	42 YR FEMALE WITH NEW ONSET SZ. LEFT SIDE TWITCHING FACIAL.
+SOMETIMES UE. PT STARES DURING SEIZURE. AFTERWARD RESPONDS TO
+QUESTION.  PMHX:  DEPRESSION, ANXIETY,  CHIARI MALFORMATION
+DECOMPRESSION. 2003 SURGERY. MI.
+Medications:	Phenobarbital, Xanax, Topamax
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Excess diffuse 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+Intermittent polymorphic delta activity is present in the left mid and anterior temporal region.  No
+epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces photomyogenic response at 5Hz, but no photic driving.  HR 78
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, mild, left temporal
+Interpretation:
+This is am ABNORMAL EEG, awake, drowsy, and asleep, due to intermittent focal slowing in the
+left anterior and midtemporal regions.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.  The excess beta may be seen with the use of benzodiazepine
+and/or barbituates.
+

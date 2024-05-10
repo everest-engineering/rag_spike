@@ -1,0 +1,10 @@
+TYPE OF STUDY:  Routine EEG.
+DIAGNOSIS:  Rule out seizures.
+CLINICAL HISTORY:  The patient is a 55-year-old female with prior EEG and presents with history of diabetes, hypertension, anemia, hyperlipidemia, coronary artery disease, bypass surgery.
+MEDICATIONS:  Patient is taking medications for diabetes and high blood pressure.
+INTRODUCTION:  A digital EEG was performed in the lab using the standard International 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation was not performed and photic stimulation was performed.  This tracing captures wakefulness and stage I and II sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, alpha rhythm is 8-8.5 Hz in frequency, 30-50 microvolts in amplitude seen in occipital region which attenuates with eye opening.  There is 6-7 Hz diffuse theta activity seen during wakefulness which is distributed symmetrically.  There was a small amount of low amplitude frontocentral beta activity which is distributed symmetrically.  A stage I and stage II sleep is characterized with disappearance of alpha rhythm, slowing of the background activity, and absence of motion and eye-blink artifact as well as presence of the vertex sharp waves, sleep spindles, and K complexes.  Photic stimulation was performed at multiple frequencies and did not resolve in a driving response.  Heart rate was 60-70 beats per minute.
+IMPRESSION:  This is mildly abnormal EEG due to excess theta activity during wakefulness.  There was no epileptiform discharge or seizure activity noted during this recording.  The above finding could be due to metabolic, toxic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to effect of sedating medication, bilateral cerebral dysfunction, degenerative brain disease.  No epileptiform abnormalities or seizures were captured or recorded.  This does not rule out the diagnosis of epilepsy or intermittent seizures.
+
+
+

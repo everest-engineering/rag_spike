@@ -1,0 +1,37 @@
+AGE: 76 y.o.
+SEX: female
+DATE OF STUDY: 11/17/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1679
+HISTORY:
+76 y.o. female with a history of HIV and TB meningitis, with several weeks of altered mental status and a seizure on 10/9/2015.	This is a follow up study requested after an episode of unresponsiveness this morning.
+MEDICATIONS: Valproic acid SEDATION: None listed
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is continuous and symmetric, but poorly organized, consisting of theta, alpha, and delta frequencies. There is no posterior dominant rhythm.
+Drowsiness and sleep are not clearly captured. There is moderate generalized slowing.
+There is no focal slowing.
+EPILEPTIFORM ACTIVITY: ·
+Abundant right posterior quadrant (T6 and P4 max)
+sharp-and-wave discharges. Occasionally these become periodic at 1 Hz for -6 runs.
+Very frequent independent left posterior quadrant (TS and P3 max) sharp-and-wave discharges. These often distribute more broadly over the left hemisphere.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 102 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake only	routine EEG due to:
+Moderate generalized slowing and background disorganization
+Abundant right posterior quadrant (T6 and P4 max)
+sharp-and-wave discharges. Occasionally these become periodic at 1 Hz for -6 runs.
+Very frequent independent left posterior quadrant (TS and P3 max) sharp-and-wave discharges. These often distribute more broadly over the left hemisphere.
+CLINICAL CORRELATION:
+These findings indicate the presence of moderate diffuse cerebral dysfunction and at least two potentially epileptogenic foci: right posterior quadrant (more prevalent) and left posterior quadrant. There were no electrographic seizures captured.
+
+
+
+

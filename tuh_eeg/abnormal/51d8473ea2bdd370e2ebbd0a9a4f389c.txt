@@ -1,0 +1,13 @@
+
+CLINICAL HISTORY: 44 year old right handed male with epilepsy. The patient eventually developed a stroke in March 2010, right parietal stroke. Seizure related injury September 16, 2010. Last seizure 2 weeks ago with outpatient EEG.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was completed.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is an 11 hertz alpha rhythm which is present bilaterally. Central mu activity is noted a bit more prominently on the left. As the patient becomes drowsy, there is a subtle asymmetry with the appearance of theta in the right occipital region as well as the right posterior temporal region prior to the left. Vertex waves are seen in stage I sleep. In the transition in and out of sleep, there is a bit more theta slowing in the right compared to the left. Photic stimulation produces a slight driving response, left more so than right.
+HR: 90bpm
+IMPRESSION: Abnormal EEG due to:
+1. Subtle, rhythmic slowing in the right posterior quadrant in drowsiness.
+2. Slightly asymmetric driving response.
+CLINICAL CORRELATION: No epileptiform features are observed. The focal features described above are congruent with a stroke history.
+
+
+

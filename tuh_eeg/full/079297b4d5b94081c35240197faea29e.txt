@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 60 year old male admitted on November 26, 2011. Found down at home with a seizure in the emergency room.
+MEDICATIONS: Zosyn, Vancomycin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very low voltage pattern. However, there is central vertex waves and central beta activity. The remainder of the EEG is relatively low voltage and featureless. Out of this quite suppressed background, there is a spontaneous arousal with eye opening and the appearance of brief 8 Hz alpha frequency activity and theta.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to: 1. Replacement of normal background with a low voltage slow pattern. 2. Intermittent attenuation.
+CLINICAL CORRELATION: In that there is a spontaneous arousal with just a somewhat slow pattern, this EEG may represent a toxic, metabolic, or other transient phenomenon. There were no epileptiform feature and no focal features. No ominous prognostic features were noted.
+
+
+

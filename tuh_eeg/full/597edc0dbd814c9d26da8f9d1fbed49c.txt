@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 41 year old male with epilepsy, stroke 1 year ago, cirrhosis, admitted with hepatic encephalopathy.
+MEDICATIONS:  Folate Acid, Thiamine, Prednisone, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was unresponsive.
+DESCRIPTION OF THE RECORD:  The background EEG includes continuous, frontally predominant triphasic waves with an anterior to posterior lag. These are relatively symmetric.  They are superimposed upon a background of lower voltage slow delta and scant theta. Occasionally, the triphasic waves are asymmetric. Stimulation of the patient produces minimal theta.
+HR:    108 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Prominent triphasic waves.
+CLINICAL CORRELATION:  These findings are characteristic of a metabolic encephalopathy.  No focal or epileptiform features were identified.  If additional
+information is needed, a follow up study may be considered.
+
+
+

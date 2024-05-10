@@ -1,0 +1,22 @@
+History: 56 year old ma n presents with a syncopal event.
+Medications: TORADOL, LORAZEPAM. LISINOPRIL. LIPITOR, METOPROLOL, LOVENOX
+Sedation:
+EEG Type: Awake & asleep
+Technique: International 10-20 System; standard 21 electrodes with T11T2 electrodes and EKG electrodes, awake, photic
+
+Description:
+Waking background Is characterized by a 25-40uV, 1O Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity Is present, maximal over bilateral frontal regions.
+
+No normal sleep architecture is present No focal slowing is present No epileptiform discharges are present.
+
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 Hashes per second {fps) does
+not produce any effect. A single EKG lead demonstrates regular heart rate.
+
+Summary of Findings:
+No stage 2 sleep
+No epileptiform discharges
+
+Interpretations:
+This is a NORMAL 23-minute EEG, awake only. No epileptiform discharges were present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 51-year-old woman admitted for a syncopal episode lasting 10-15 minutes followed by lethargy and confusion.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake through stage 2 sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm.  Mu activity was identified, but testing was not performed to confirm this.  The patient transitions readily into stage 2 sleep with vertex waves, K complexes, spindles and POSTs.
+Hyperventilation produces a small amount of slowing.  Photic stimulation elicits a driving response.  Heart rate 72 BPM.
+IMPRESSION:  This is a normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified.  This seems to be a very drowsy patient.
+
+
+

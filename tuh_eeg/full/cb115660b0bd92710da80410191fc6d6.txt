@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  The patient is a 59-year-old man status post cardiac arrest and CPR. EEGs are performed to assess for later events.
+MEDICATIONS:  Depakote, vancomycin.
+INTRODUCTION:  The recording was performed in ICU according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead. Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  There are at least 8 seizures captured.  These seizures start with brief bursts of generalized polyspikes that increase in frequency and duration, and eventually coalesce into high amplitude generalized fast activity.  These seizures have a somewhat abrupt offset and are followed by generalized frontally predominant, left greater than right, spikes followed by slow waves.  Blinking is noted during these seizures by the EEG technologist.  Between the seizures, the background consists of diffuse frontally predominant 1 to 2 Hz generalized spikes mixed with bursts of polyspikes and background discontinuity.
+Hyperventilation and photic stimulation are not performed.
+FINDINGS:  Status epilepticus.
+IMPRESSION:  This is a very abnormal 22-minute electroencephalogram due to at least 8 generalized seizures that are associated with blinking artifact.  Seizures last at least 30 seconds each.  These findings were conveyed to the neurology consulting team.
+
+
+

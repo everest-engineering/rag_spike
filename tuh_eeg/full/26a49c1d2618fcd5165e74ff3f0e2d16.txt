@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 76 year old right handed woman with right carotid stenosis and previous abnormal EEGs including sharp waves. Past left carotid endarterectomy and known right frontocentral sharp waves.
+
+MEDICATIONS: Propofol, Fentanyl, Vecuronium, SEVOFLURANE, Phenylephrine, Ancef
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The tracing begins after the patient has received anesthesia at 9:19 a.m. and concludes at 1:22.
+
+DESCRIPTION OF THE RECORD: As the tracing opens, the EEG is slightly discontinuous. There is also shifting asymmetry in this individual with bihemispheric disease. As the time moves away from the induction of anesthesia, the record is a bit more symmetric, but there is intermittent discontinuity or attenuation.
+
+The right internal carotid artery is clamped at 11:54. This is associated with initially slight discontinuity. The common carotid is clamped at 11:54:55 and external immediately after this. This produces an abrupt change first on the left and then on the right with initially discontinuity on the left and then marked attenuation on the right and a bit of discontinuity.
+
+The surgeon is informed of these changes at 11:53:33. A shunt is in place by 11:57. The EEG pattern starts to improve by 12:02:33, but there remains some discontinuity, which can mask the pattern on the right. At 12:16, the EEG is markedly suppressed, with artifact at T4 and preservation of activity in the right temporal region. By 12:26, cerebral activity is starting to return, but the activity is overall suppressed. There is no note in the chart about change in anesthesia.
+
+The carotid is reclamped at 12:52 and at that time, the EEG is discontinuous, but there is more significant cerebral activity than noted earlier. Patency is confirmed by Doppler at 1:00. At that point, the EEG is a bit more of an anesthetic pattern with discontinuity.
+
+HR: 53 bpm
+
+IMPRESSION/CLINICAL CORRELATION: This was a challenging intraoperative EEG monitoring study. Clear changes were noted in the EEG with placement of the clamp, which improved, however, there were sections during the operative period when the EEG was quite suppressed. This may represent anesthetic impact and correlation with the anesthesia record would be valuable.
+

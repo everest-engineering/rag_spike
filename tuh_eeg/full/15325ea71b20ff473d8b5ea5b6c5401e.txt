@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 53-year-old woman with 8-month history of recurrent episodes of deja vu, olfactory paroxysms and a bitter taste in her mouth, history of reflux, hypertension, and migraine.
+MEDICATIONS:  Keppra ? Topiramate.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software was utilized.  The patient was able to push the monitor and recorded 12 events with olfactory symptoms and a bitter taste in her mouth, but none with impairment of awareness.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG was well organized with symmetric reactive 10 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by slow rolling eye movements with POSTS noted in sleep.  The patient appears to have difficulty getting to sleep and was up throughout much of the night, but brief stage II sleep was noted.
+INTERICTAL EPILEPTIFORM DETECTIONS:  None.
+ELECTROGRAPHIC SEIZURES:  None.
+PUSH BUTTONS:  times  11:11, 11:47, 12:39, 01:50, 02:59, 04:20, 04:30, 05:02, 06:13, 08:18, 11:13 p.m.  Although one of these included a practice  pushbutton, all others were for the patient's clinical symptoms.  All demonstrated a normal awake pattern.
+HEART RATE 66 bpm.
+IMPRESSION:  This first 24 hours of continuous video EEG monitoring was remarkable for:
+A normal awake and sleep pattern.
+The absence of epileptiform activity.
+Multiple push button events for symptoms without impairment of awareness, which did not carry an EEG scalp correlate
+
+
+

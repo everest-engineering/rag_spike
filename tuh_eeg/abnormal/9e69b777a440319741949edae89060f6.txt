@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 77-year-old male with systolic heart failure, tachycardia.  recent C3-C4 posterior cervical laminectomy.  Change in mental status with episodes of tongue movement and eye deviation.
+MEDICATIONS:  Acyclovir, Depakote, antibiotics, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient was intubated, but awake.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm with a small amount of theta and frontocentral beta.  The technologist notes significant ICU artifacts and there is some muscle artifact in the frontal regions.  There are rare shifting asymmetries in the frontal region in terms of faster frequently activity.
+Heart rate 126 BPM.
+IMPRESSION:  Mildly abnormal EEG due to:
+Mild excess beta.
+Mild excess theta.
+CLINICAL CORRELATION:  In this critically patient, the excess beta and theta described above are quite modest.  In comparison to a study earlier this week, this patient is now awake and background slowing has improved.
+
+
+

@@ -1,0 +1,13 @@
+LENGTH OF THE RECORDING:  23 minutes.
+CLINICAL HISTORY:  Patient is a 60-year-old woman status post cardiac arrest, requiring CPR.  Patient currently is in a coma, with myoclonic jerks noted on 12/31/2012.
+MEDICATIONS:  Current medications include Keppra, Zosyn and others.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  EEG was performed at patient's bedside.
+DESCRIPTION OF THE RECORDING:  There is severe diffuse voltage attenuation.  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  Intermittent frontally predominant diffuse broad triphasic-like waveforms are noted.  Additionally, intermittent diffuse frontally predominant high-amplitude EMG artifact is observed.  Based on the video review, this EMG artifact corresponds with myoclonic jerks.  There is no normal sleep architecture.  Hyperventilation and photic stimulation were not performed.  Tachycardia is noted on the single EKG lead.
+FINDINGS:
+Severe diffuse slowing and voltage attenuation.
+Intermittent EMG artifact that corresponds to the myoclonic jerks.
+IMPRESSION:  This is a very abnormal 23-minute EEG due to severe background slowing and voltage attenuation.  These findings indicate severe diffuse cerebral dysfunction that is etiologically nonspecific.  In a patient with postanoxic injury, this EEG pattern indicates a poor chance of a full neurological recovery.  Myoclonic jerks observed correspond to EMG artifact without underlying electrographic seizures.
+These findings were conveyed to the neurology resident at the time of the review.
+
+
+

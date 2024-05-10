@@ -1,0 +1,16 @@
+History:	45 YR OLD WOMAN RIGHT HANDED PMHX MR CPS WITH SECONDARY GENERALIZATION.
+Medications:	DILANTIN, KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9Hz alpha rhythm, which attenuates symmetrically with eye opening.  Mild excessive 5-15uV, 18-25Hz activity is present.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording during wakefulness.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+HR was 54
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild diffuse, Excess theta in wakefulness
+Interpretation: This is an ABNORMAL awake, drowsy, and sleep EEG because of Excess theta in wakefulness and mild disorganization of the background.  This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+

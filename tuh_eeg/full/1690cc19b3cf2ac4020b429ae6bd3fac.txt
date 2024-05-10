@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 59 year old right-handed woman with tonic clonic seizures, last seizure in November 2009. Duration of epilepsy as well as other features unknown.
+
+MEDICATIONS: Phenobarbital
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20-system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is quite abnormal. Although there is a 10 Hz alpha rhythm identified bilaterally, there is significant focal slowing identified from the left temporal region characterized by disruption of faster frequency activity, occasional rhythmic 3-5 Hz activity, and left anterior temporal sharp waves. Hyperventilation is performed ear1y on in the record, accentuating the focal slowing and the sharp waves. In drowsiness, again the focal slowing is quite prominent There are occasional sharp waves picked up on the right maximum at T2 however the vast majority of epileptiform discharges are on the left. Photic stimulation elicits a driving response despite essentially continuous focal slowing and sharp waves.
+
+HR: 71 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Continuous focal slowing.
+2. Left anterior temporal sharp waves.
+
+CLINICAL CORRELATION: These findings suggest an underlying structural functional abnormality on the left. This may be a highly irritative process given the frequent sharp waves. Correlation with imaging is suggested.
+
+
+

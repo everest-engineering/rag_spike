@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 72-year-old male with diabetes, hypertension, alcohol abuse, status post cardiac arrest September 25.  The patient currently completing hypothermic protocol.
+DATE OF STUDY:  September 25 through 26.
+MEDICATIONS:  Dopamine, amiodarone, vecuronium, others.
+INTRODUCTION:  Continuous video EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  Although the patient had been twitching earlier on, later sections of the EEG demonstrated an intubated, comatose, individual.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a discontinuous pattern with an overall increase in continuity noted in the early morning hours on the 26th.  The sections of discontinuity are typically on the order of 4 or 5 seconds.  Bursts of higher amplitude, 5-6 Hz activity are sharply contoured and there is a suggestion of an underlying sharp or spike focus in the right frontotemporal region.
+Tactile stimulation does not activate the record.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Burst suppression pattern.
+When the patient does have cerebral activity, there are bursts of theta but there does appear to be a right frontal spike focus.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  The presence of epileptiform activity in this burst suppression pattern suggests that this is a potentially epileptogenic pattern.  No sustained seizures were noted and viewing the video at this time, it appears that the patient has stopped jerking.
+
+
+

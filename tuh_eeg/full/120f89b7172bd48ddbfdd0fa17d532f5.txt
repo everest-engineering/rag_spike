@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 52-year-old man who was admitted with transient visual loss and hemiparesis, and was found to have significant right internal carotid artery stenosis.  He has a past medical history of hypertension, diabetes, CHF, and COPD.
+MEDICATIONS:  Fentanyl, propofol, Ancef, Heparin among others.
+INTRODUCTION:  Intraoperative EEG monitoring was performed the interventional radiology suite using standard OR Montage with 1 channel of EKG.  Recording began at 11 a.m. in the morning and concluded at 1:37 p.m.  A physician was present in the OR for 1 hour and 36 minutes and was available to review the record remotely during the remainder of the procedure.  The recording began with the patient awake and concluded with the patient remaining awake.  Despite sedation, the patient remained awake.
+DESCRIPTION OF THE RECORD:  At the beginning of the record when the patient was awake, there was a 10 hertz alpha rhythm.  In addition, there were some intermittent focal slowing more on the left hemisphere than the right hemisphere, comprised of brief bursts L mixed theta/delta.  This intermittent focal slowing was accentuated by sedation.  There were no other EEG changes noted with placement of the catheter balloon or stent.  In addition, there was minimal change in the EEG with administration of small amounts of fentanyl and propofol.
+The catheter was placed at 1 p.m., the stent was deployed at 1:25 p.m., and the balloon was removed at 1:37 p.m. No changes were seen with any of these interventions
+IMPRESSION/CLINICAL CORRELATION:
+Intermittent focal slowing.  This is indicative of a mild focal cerebral dysfunction of which is nonspecific in regards to etiology.
+No EEG changes were noted during the procedure.
+
+
+

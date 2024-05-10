@@ -1,0 +1,17 @@
+History: 86 year old rig hi handed woman with sudden onset of right arm and leg weakness and slurred speech
+Medications: Keppra. Lasix
+Sedation: None
+EEG Type: Routine. awake & drowsy
+Technique: international 10-20 System; standard 21 electrodes. awake, drowsy, photic
+Description:
+Waking background Is characterized by a 7.5·8 Hz activity, which attenuates symmetrically with eye opening. Frontocentral beta activity is also seen. Background activity is predominantly irregular 5075uV, 6-7Hz activity. During drowsiness. the background slows more with lack of PDR and eye blink
+artifact
+No epileptiform discharges are present.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect. HR is 90 bpm.
+Summary of Findings:
+Interpretation:
+This is an awake and drowsy EEG because of diffuse background slowing and slow PDR. These findings are indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific. No clinical or electrographic seizures are present. The lack of epileptiform discharges on a
+routine EEG does not rule out a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 61-year-old woman with a history of  heart failure and possible seizure. The patient presented to the emergency room with unresponsiveness.  Previous stroke involving the right side with left hemi-neglect.
+MEDICATIONS:  Coreg, lisinopril, Keppra, Plavix, aspirin, Coumadin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel  EKG.  Hyperventilation was deferred, but photic stimulation was completed.  This is an awake and drowsy record.  The technologist noted that the patient came with braids.  Impedances were not optimal, but this is a technically acceptable record.
+DESCRIPTION RECORD:  Despite the issues described above, the background EEG from the left hemisphere is well organized with a glimpse of a 10 Hz alpha rhythm and significant muscle artifact.  The right hemisphere demonstrates an alpha rhythm which is sometimes a bit disrupted.  More notable, is intermittent, somewhat rhythmic slowing with a mixture of theta and delta from the right hemisphere, maximum in the frontotemporal and centrotemporal regions.  As the patient becomes drowsy with slow rolling eye movements, the focal slowing on the right becomes more prominent.
+Photic stimulation elicited bilateral driving.
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Focal slowing in the right hemisphere, intermittent.
+CLINICAL CORRELATION:  Epileptiform features were identified.  The intermittent, focal slowing with disruption of faster frequency in underlying mixed theta/delta supports a structural process on the right involving gray and white matter.  If seizures are an important consideration a followup study may be of value.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 73-year-old woman with multiple strokes, recent silent stroke, and cortical blindness, admitted after an episode of unresponsiveness.
+MEDICATIONS:  Keppra, baclofen, Prozac, pravastatin, Coumadin, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was a somewhat technically challenging EEG for a confused patient who had difficulty relaxing.
+DESCRIPTION OF THE RECORD:  The background EEG was medium amplitude with suggestion of 7 Hz posterior dominant rhythm, which at times was asynchronous, but can be identified from either occipital region.  Although there was a fair amount of muscle artifact in the background, shifting slowing was noted primarily in the posterior regions, right or left.
+Occasional bursts of more rhythmic delta were noted from the left hemisphere with left centrotemporal maximum.
+Heart rate 100 to 150 BPM, irregular.
+IMPRESSION:  Abnormal EEG due to;
+Medium amplitude, somewhat generalized slow pattern.
+Slowing of the alpha rhythm.
+Occasional posterior bursts of slowing, right or left.
+Rare bursts of sharply contoured slowing from the left.
+No epileptiform features were identified.
+CLINICAL CORRELATION:  The focal features identified above may be correlated with imaging.  If epilepsy is an important consideration, a followup study may be of use.  This patient had markedly irregular heart rate, which may have contributed to the episode of loss of consciousness.
+
+
+

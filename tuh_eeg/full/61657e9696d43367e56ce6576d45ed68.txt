@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 35 year old woman admitted with a hemoglobin of 2.6, poorly responsive.  She is status post 31-day hospitalization.
+MEDICATIONS:  Hydrocortisone, Daptomycin, Pantoprazole, Reglan, Insulin, Heparin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a tracheostomy and is poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a background of medium to low voltage 1.7 to 2.5 Hz delta and scant amounts of theta.  There is little reactivity or variability.
+HR:  114 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+CLINICAL CORRELATION:  With this duration of time following this patient's medical insult, evoked potentials may be more valuable for prognostic use.  Compared to a previous study January 22, 2012, this EEG is slower.
+
+
+

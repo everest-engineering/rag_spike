@@ -1,0 +1,9 @@
+CLINICAL HISTORY:A 57-year-old with epilepsy, hepatitis C, and schizoaffective disorder.
+MEDICATIONS: Keppra.
+INTRODUCTION: Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation was deferred. Photic stimulation was completed. This is an awake and asleep record. Impedances were accepted aside from the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9Hz alpha rhythm with a small amount of low voltage, frontal central beta. Drowsiness is characterized by brief attenuation of the alpha rhythm and slow rolling eye movements. Photic stimulation elicited scant driving. Heart rate 84 bpm.
+IMPRESSION: Electroencephalogram within normal limits In wakefulness and brief drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified. A normal EEG does not exclude a diagnosis of epilepsy. If additional Information is needed, a follow up study capturing additional sleep may be of value.
+
+
+

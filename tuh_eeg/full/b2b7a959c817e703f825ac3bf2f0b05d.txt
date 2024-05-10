@@ -1,0 +1,20 @@
+History:		20 year old man with anoxic brain injury (as a result of several gun shot wounds), now with continuous facial twitching.
+Medications:	Versed, Depakote Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1ff2 electrodes and EKG and EMG electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 29 hours from 04/28/2015 till 04/29/2015 . Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns. All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient. Early in the recording the background consists of a mixture of theta and alpha activity, periods of discontinuity and bifrontal {left>right) sharp waves. As the recording progresses, sharp waves disappear. Additionally, with stimulation, the background attenuates significantly and slows down to the delta activity range.
+There is nearly continuous C4, Fz, Cz and Pz lead artifact.
+Summary of Findings:
+Other, clearly reactive background No electrographic seizures
+Sharp waves, bilateral frontal, resolve by the end of the recording
+Interpretation:
+This is a very abnormal continuous -29 hour video EEG due to background slowing and bifrontal epileptiform discharges seen in the first half of the recording. These findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction and increased bilateral cortical excitability, especially over the bifrontal region. No clinical or electrographic seizures are present. Clear background reactivity is present. These findings were conveyed to the primary team.
+
+
+
+

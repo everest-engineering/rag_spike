@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is an 87-year-old woman, who was diagnosed with seizures 3 months ago, characterized by staring without confusion.  The patient started phenytoin and developed worsening rash with swollen lips, treated with Keppra and Depakote.
+MEDICATIONS:  Zocor, insulin, iron, folate, morphine, metoprolol, and Seroquel.
+INTRODUCTION:  Digital video EEG was performed at bedside in the burn unit using standard 10-20 system of electrode placement with one channel of EKG.  This was a technically acceptable EEG with most impedances below 5 kilohms, despite the presence of Stevens-Johnson hypersensitivity.  The patient had involuntary movements of the mouth and had throughout the EEG.  Head rocking or head bobbing was noted by the technologist.  The video unfortunately does not show a great deal of movement.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a mixed frequency pattern with medium amplitude theta and delta.  A periodic head rocking artifact is noted in the occipital regions every 2-3 seconds.  In addition, there are some frontally predominant triangular-shaped waveforms noted.  With some of the patient's oral movements, there is an increase in faster frequency activity in the frontal regions.  As the recording continues, the patient's oral bubbling movements are a little bit more prominent and the oral movements are more consistently associated with frontal 9 Hz activity and in the occipital head rocking artifact. The occipital activity includes a burst of periodic delta which follows the oral movements
+Heart rate 125 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Markedly abnormal background.
+Replacement of normal pattern with a markedly slow pattern.
+There are some bilateral frontally predominant triangular-shaped waveforms, which may represent an interictal epileptiform discharge.
+Questionable posterior PLED vs artifact.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function and demonstrates a markedly abnormal pattern.  Epileptiform activity may be extremely challenging to identify the context of Stevens-Johnson hypersensitivity with scalp sensitivity.
+If the patient is able to tolerate it, a repeat tracing, as her condition improves is advised to more completely evaluate potential epileptiform activity.
+
+
+

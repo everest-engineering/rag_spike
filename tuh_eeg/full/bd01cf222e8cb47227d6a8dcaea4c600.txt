@@ -1,0 +1,33 @@
+History:	27 YR MALE WITH PMHX OF 1 SZ. WITH SUBSEQUENT. FIND OF BRAIN TUMOR.
+RESECTED 2009 FOLLOWED BY RADIATION.  CHECK UP.  (PRIOR AT COOPER
+HOSP).  PT STILL WITH CC OF HEADACHES,  PER WIFE HAS EPISODES OF
+SHAKING AND MOUTH BITING 2-3 X EVERY NIGHT. PRESENTS NOW F
+Medications:	LAMICTAL, LAMOTRIGINE, MONTELUKAST, AMBIEN, CITALOPRAM,
+CETIRIZINE, TOPIRAMATE, ALBUTEROL, XANAX, PERCOCET, TRAMADOL,
+VICODIN, DIVALPROEX
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Asymmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions with slightly higher amplitude over  the left.  During drowsiness, the
+background slows to central theta activity, frontal beta activity becomes more prominent, and the
+alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further
+to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Spindles are more prominent over the left frontal hemisphere.
+Continuous polymorphic delta activity is present in the left frontal region during wakefulness,
+increasing during drowsiness.  Frequent focal sharp waves are present in the left frontal region, with
+phase reversal and amplitude maximum at F3. At times they become rhythmic while in sleep.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left frontal region.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 90
+Summary of Findings:
+Sharp waves, frequent, left frontal, Seen best in sleep
+Focal slowing, polymorphic, continuous, left frontal, with associated breach
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the left frontal region and continuous focal slowing.  These findings  are consistent with the
+known tumor resection and a diagnosis of localization-related epilepsy.
+

@@ -1,0 +1,32 @@
+History:	47 year old woman with a history of aneurysms, SAH, bilateral MCA territories,
+Medications:	Keppra, Amlodipine
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Intermittent polymorphic theta and delta activity is present in the bilateral anterior temporal regions
+(left>right, increasing during hyperventilation.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the bilateral anterior temporal regions.  Stepped photic stimulation from 1-21 flashes per
+second (fps) induces symmetric photic driving at multiple flash rates.  A single EKG lead
+demonstrates heart rate of ~100 bpm and occasional premature QRS complexes.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, mild, bilateral (L>R) temporal, anterior
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL 21-minute awake and drowsy EEG due to intermittent focal slowing in the
+bilateral anterior temporal regions, left>right.  This finding is indicative of focal cerebral
+dysfunction, which is etiologically non-specific, but possibly structural in origin.  No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.  A single EKG lead demonstrates heart rate of
+~100 bpm and occasional premature QRS complexes.
+
+
+
+

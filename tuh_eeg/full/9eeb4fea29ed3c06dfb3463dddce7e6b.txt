@@ -1,0 +1,28 @@
+History:	65 YO FEMALE W/ PREVIOUS HISTORY OF SEIZURES. EEG REQUESTED FOR
+LEFT LEG AND ARM TWITCHING.
+PMH: LEFT SDH S/P CRANIOTOMY, RIGHT SUBDURAL HYGROMA
+Medications:	keppra
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes, comatose
+Description:
+Background activity is predominantly irregular, theta and delta activity, with absence of the normal
+anterior to posterior gradient of frequencies.  There is intrahemispheric asymmetry in both
+amplitude and frequency, with higher amplitudes and slower frequencies seen over the left
+hemisphere.  No definite state changes were present.
+Frequent frontally predominant triphasics waves were seen, with a higher amplitude over the left
+hemisphere.  Frequent and at times nearly continuous, focal spike-and-wave discharges a are
+present in the left frontal region.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Spike-and-wave complexes, abundant, left frontal
+Diffuse slowing, polymorphic, bilateral (L>R)
+Triphasic waves, frequent, bilateral
+Breach artifact, frequent, left
+Interpretation:
+This is an abnormal EEG due to frequent epileptiform discharges in the left frontal region.  These
+findings are indicative of a potentially epileptogenic focus in this region. In addition,  there were
+frequent, frontally-maximal triphasic waves and severe diffuse background slowing.  These findings
+are indicative of a severe diffuse encephalopathy, which is etiologically nonspecific, but suggestive
+of a metabolic origin.  The breach artifact correlates with the patient's history of a left-sided
+

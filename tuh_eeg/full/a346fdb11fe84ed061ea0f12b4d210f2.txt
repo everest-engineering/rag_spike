@@ -1,0 +1,21 @@
+CLINICAL HISTORY: A 55-year-old woman with epilepsy, seizure free for the last 7 years.
+
+MEDICATIONS: Phenytek, phenobarbital.
+
+
+INTRODUCTION: Digital video EEG is performed was performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were completed.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz alpha rhythm reaching 80 MeV wave forms were identified.
+
+Hyperventilation was performed early in the record producing brief bursts of frontally predominant spike and wave activity. This activity is composed of 3-5 Hz spike and wave complexes lasting less than 2 seconds. No clinical symptoms were noted during this burst. Following hyperventilation, as the patient became drowsy, additional brief bursts of frontally predominant 3-5 Hz spike and wave activity were noted. Stimulation of the patient seemed to attenuate the bursts but then they occur again as the patient starts to transition to drowsiness. Other features of drowsiness includes an increase in background theta.
+
+Deeper stages of sleep were not achieved.
+
+Photic stimulation was associated with frontally predominant 3-5 Hz spike and wave complexes again typically under 2 seconds in duration and not associated with a change in the patient's cognitive function.
+
+Heart rate 72 bpm.
+
+IMPRESSION: Abnormal EEG due to frontally predominant 3-5 Hz spike and wave activity.
+
+CLINICAL CORRELATION: The 3-5 Hz frontally predominant spike and wave activity has been previously described. No clinical seizures were recorded. This EEG is most characteristic of an inherited mechanism for epilepsy such as primary generalized mechanism.
+

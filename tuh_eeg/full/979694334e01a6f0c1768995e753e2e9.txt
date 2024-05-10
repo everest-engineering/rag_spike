@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 	85 year old female status post code on 10/04/2009 with a past medical history of diabetes, hypertension, and asthma.
+MEDICATIONS:  Albuterol, Calcium, Heparin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The record is also recorded with EECS montage.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates that absence of cerebral activity. There is EKG artifact only. Stimulation of the patient does not elicit
+a change in the background.  There is no reactivity to tactile or auditory stimulation. The technologist confirms the integrity of the system.
+HR:        78 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+1.  Absence of electrocerebral  activity.
+CLINICAL CORRELATION:   This EEG is compatible with electrocerebral silence.  To make this assessment, it would be critical to know the presence or absence of 7 sedative/hypnotic medications and body temperature.
+
+
+

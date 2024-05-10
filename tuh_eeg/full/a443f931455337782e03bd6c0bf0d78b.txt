@@ -1,0 +1,14 @@
+EEG LENGTH:  26 minutes.
+CLINICAL HISTORY:  The patient is a 70-year-old man with a past medical history of intracranial hemorrhage bifrontally.
+MEDICATIONS:  Metformin, Depakote, Pravachol, metoprolol, lisinopril, and amlodipine.
+CONDITION OF THE RECORDING:  The recording is performed according to the standard 10-20 system of electrode placement with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed as well.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low amplitude, polymorphic __________Hz alpha activity that attenuates with eye opening.  The anterior to posterior frequency amplitude gradient is weak.  Additional diffuse polymorphic theta activity is present.  No normal sleep architecture is observed.  Continuous polymorphic theta and delta activity is captured over the bilateral anterior temporal regions, left greater than right.  Hyperventilation produces no significant change in the background.  Photic stimulation results in no additional abnormalities.
+FINDINGS:
+Mild diffuse slowing.
+Continuous mild to moderate bilateral, left greater than right, left anterior temporal slowing.
+No epileptiform discharges.
+No stage II sleep.
+IMPRESSION:  This is an abnormal awake only 26-minute EEG due to mild diffuse slowing and bilateral anterior temporal mild to moderate focal slowing, left greater than right.  Diffuse slowing indicates __________ nonspecific diffuse cerebral dysfunction.  Focal slowing indicates focal cerebral dysfunction, likely structural in etiology, in this patient consistent with a prior history of intracranial hemorrhage.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical indication for seizures persist, a repeat study with stage II sleep may be of benefit.
+
+
+

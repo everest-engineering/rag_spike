@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 63 year old woman with a recent episode of blurry vision and expressive aphasia for 1 hour, evaluate for TIA versus complex partial seizure.
+MEDICATIONS:  Metoprolol.
+INTRODUCTION:  Digital video EEG was performed in the laboratory using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta.
+Despite the eye movement artifacts, as the patient transitions into drowsiness, there is occasional, focal slowing with beta noted in the left hemisphere, particularly frontotemporal frontocentral.
+Photic stimulation elicited brief bilateral driving.
+Heart rate 60 beats per minute.
+IMPRESSION:  This is a mildly abnormal EEG due to focal slowing noted in drowsiness in the left frontocentral frontotemporal region.
+CLINICAL CORRELATION:  The findings described above are of unclear clinical significance.  They may be seen in the context of TIA or cerebrovascular ischemia.  No definitive epileptiform features were identified.  Because similar features can be seen in the context of a focal seizure, if needed, a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

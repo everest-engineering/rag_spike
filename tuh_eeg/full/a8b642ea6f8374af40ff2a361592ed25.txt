@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 65-year-old woman with hypertension, diabetes, angina, obstructive sleep apnea, and COPD with episode of involuntary shaking, drooling, and unresponsiveness evaluated for seizures.
+MEDICATIONS: Multiple meds, No AED
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by slow rolling eye movements and an increase in beta.  Photic stimulation elicits supra harmonic driving.
+Heart rate 96 bpm.
+IMPRESSION:  Normal EEG in wakefulness through brief sleep.
+CLINICAL CORRELATION:  No epileptiform features were noted.  If this patient is thought to have epilepsy, a more prolonged study may be of value.
+
+
+

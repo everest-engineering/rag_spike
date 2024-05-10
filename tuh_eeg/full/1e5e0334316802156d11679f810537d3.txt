@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is an 80-year-old male with subdural hematoma on October 10th and new-onset focal seizures involving the right arm.  Acute left-sided subdural hematoma.
+MEDICATIONS:  Dilantin, Keppra, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically challenging bedside portable EEG in the ICU with both ICU artifacts, and a patient who had some difficulty cooperating.
+DESCRIPTION OF THE RECORD:  The overall EEG is diffusely slow with primarily a theta frequency background.  Shifting slowing was noted.  The patient transitions into stage II sleep with spindles, somewhat more prominent field on the right.  Stimulation of the patient out of stage II sleep produces more of a theta pattern in a drowsy individual.  Heart rate 66 bpm.
+IMPRESSION:  This is a somewhat technically challenging bedside ICU, but remarkable for:
+Generalized background slowing.
+Shifting slowing and shifting amplitude.
+Asymmetric vertex waves
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The diffuse slowing is consistent with a diffuse CNS process.  The somewhat asymmetric sleep morphology is compatible with an acute left subdural hematoma and mass effect.  If seizures are an important consideration, a follow-up study may be evaluated.
+
+
+

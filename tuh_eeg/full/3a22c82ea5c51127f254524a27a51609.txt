@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Elderly woman with previous gunshot wound to right eye, patient became aware on Monday of a painful left eye with crusting and had a transient impairment of vision, found to have a chronic occipital infarct on imaging.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a routine 20 minute EEG.  Hyperventilation and photic stimulation were not possible.  This is a technically acceptable EEG, although impedance in the T1 electrode was not optimal.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm, which reaches 9 hertz and is reactive to eye opening.  There is some shifting slowing noted in the record, some of which can be to hemisphere.  In addition, there is intermittent occipital slowing, which can be identified in the right or left.  Features of drowsiness include slow rolling eye movements and an increase in beta.  Deeper stages of sleep were not obtained.
+Heart rate 78 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to,
+Bursts of shifting slowing.
+Some occipital slowing, which can be on the right or the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Given this field of cortical activity in the occipital region, the localization identified above may not match imaging.
+
+
+
+

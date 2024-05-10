@@ -1,0 +1,25 @@
+CLINICAL HISTORY: 52 year old gentleman with recurrent syncope episodes for the
+last 2 years, past history of gunshot wound to the face in 1973 and epilepsy.
+MEDICATIONS: Keppra, Lovenox, Hydralazine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel EKG. Photic simulation is performed.
+This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10-Hertz 40 microvolt
+posterior dominant rhythm. There is prominent frontal beta and only a small amount of
+rhythmic frontal theta left more so than the right. As the patient becomes drowsy,
+arrhythmic delta activity is observed with some shifting slowing but the arrhythmic delta
+activity is a bit more prominent in the right as the patient becomes drowsy and then later
+on there is lower voltage rhythmic delta in the left anterior temporal region. In
+drowsiness there are rare right anterior temporal sharp waves. Photic stimulation elicits
+scant driving.
+HR: 60 bpm with a broad QRS complex noted in a single lead EKG.
+IMPRESSION: Abnormal EEG due to:
+1. Arrhythmic delta activity in the right temporal region.
+2. Rhythmic delta from the left temporal region.
+3. Rare (2) right anterior temporal sharp waves.
+CLINICAL CORRELATION: These findings may be correlated with imaging. No
+seizures were recorded. This EEG supports a bi-hemispheric process and may be
+compatible with pathophysiology of this individual's head trauma.
+
+
+

@@ -1,0 +1,21 @@
+History:	65 year old woman with a history of focal seizures, presents with more seizures and change in mental status.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~13 hours from 10/07/2014 till 10/08/2014.    Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a mixture of low to moderate voltage theta and delta activity. A PDR that reaches at best 7Hz can be seen over the right hemisphere.  Some state changes can be seen.
+Continuous polymorphic delta activity is present in the C3 region during wakefulness, increasing during drowsiness and sleep. There are occasional bi-occipital electrographic seizure lasting ~90-120 sec.
+Seizures are characterized at the onset by  02 beta that then increases to a theta frequency discharge that settles on the 01 region.  Seizure frequency gradually decreases in the course of the recording.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, continuous, moderate, left central Seizure, occasional, bilateral occipital
+Interpretation:
+This is a very ABNORMAL ~13 hour continuous video EEG due to occasional very focal bioccipital seizures, focal left central moderate slowing and mild-to-moderate diffuse slowing. These findings indicate a structural occipital epileptogenic focus and a structural left central structural abnormality. Lastly there is mild-to-moderate  diffuse background slowing that is etiologically non-specific.  These findings were conveyed to the primary team.
+
+
+

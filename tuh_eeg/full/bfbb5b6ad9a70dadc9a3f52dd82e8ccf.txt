@@ -1,0 +1,12 @@
+LENGTH OF RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is a 21-year-old woman with a history of seizures.  She has been seizure free since 2010.  She was diagnosed with lupus approximately 1-1/2 years ago.
+MEDICATIONS:  Topamax, methotrexate, hydroxychloroquine, and prednisone.
+INTRODUCTION:  The recording was performed according to a standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.   Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, the posterior dominant rhythm consists of a well-formed and modulated 10.5 to 11 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, posterior dominant rhythm attenuates, bursts of centrally pronounced theta as well as diffuse delta are captured.  There are frequent multifocal epileptiform discharges.  They occur independently over the bitemporal regions with face reversal over T3 and T4 electrodes.  They also occur in moderate to high amplitudes 0.5 to 2 second runs of generalized frontocentral predominant spikes with __________slow waves.  The__________runs have either right or left-sided lead in and they are often poorly formed.  Hyperventilation is produced with fair effort and produces no significant change in the background.  Stepped photic stimulation results in symmetric occipital driving with multiple flash frequencies.
+FINDINGS:
+Epileptiform discharges found independently over bitemporal regions, with face reversal over T3 and T4 electrodes, as well as 0.5 to 2 second bursts of poorly formed, broadly based approximately 8.5 Hz generalized spike and wave discharges, that are more pronounced frontocentrally.
+No electrographic seizures.  No stage II sleep.
+IMPRESSION:  This is an abnormal awake and drowsy EEG due to multifocal epileptiform discharges.  This finding could indicate multiple epileptogenic foci, however, __________could also be seen in __________generalized epilepsy of a patient who is taking an anti-epileptic medication.  No electrographic seizures were seen.
+
+
+

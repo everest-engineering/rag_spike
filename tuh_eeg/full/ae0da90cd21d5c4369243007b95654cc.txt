@@ -1,0 +1,16 @@
+MEDICATIONS:  Keppra, phenobarbital, Vimpat.
+CLINICAL HISTORY:  A 60-year-old male, previously treated at the University of Pennsylvania for strictly nocturnal seizures.  Recent worsening of seizures, the patient woke up on the floor incontinent of bladder.  The patient reports that seizures have increased with new medicines.
+INTRODUCTION:  The 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.
+Technical limitations of this record include a small mass behind the right ear, which produced artifact and may have led to attenuation of activity in the right mid and posterior temporal scalp electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, the overall EEG is low voltage.  There is a 10 Hz alpha rhythm identified bilaterally, but with a greater field of spread on the left in comparison to the right.  Drowsiness was characterized by an increase in theta followed by vertex activity.  The artifacts noted in wakefulness in the right mid to posterior temporal region persistent to drowsiness.  The patient drifts in and out of stage 2 sleep with snore artifact.
+Hyperventilation was performed with reasonable effort, but primarily produced movement artifact.
+Photic stimulation elicited scant driving.
+Heart rate:  60 bpm, irregular.
+IMPRESSION:  This is a technically limited EEG due to extracranial scalp artifact.
+CLINICAL CORRELATION:  Underlying focal slowing in the right mid to posterior temporal region may be under recognized in this record because of the scalp finding.  There is a suggestion of some underlying slowing in that region, but there is also clear artifact.  No epileptiform features were noted at this time.
+Comparison with previous studies may be helpful to more clearly identify this patient's epileptiform pattern.
+
+
+
+
+

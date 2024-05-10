@@ -1,0 +1,27 @@
+History:	72 YO FEMALE WAS NOTICED TO BECOME APHASIC BY FAMILY MEMBERS.
+"DIFFERENT FROM BASELINE"
+PMHX: GERD, TIA, HLD, CAD, ASTHMA, ANXIETY, ESRD ON HD, IDDM, RCC S/P
+NEPHRECTOMY, LEFT AV FISTULA.
+Medications:	TRAMADOL, HEPARIN, INSULIN, COREG, FLAGYL, FLONASE, ISOSORBIDE,
+ASA, PROTONIX
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Description:
+The waking background is well-organized, with a 25-40uV, 6Hz symmetric posterior dominant
+rhythm which attenuates on eye opening.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Background activity is predominantly irregular 50-75uV, 6-7Hz activity.  There is a
+very prominent central theta with a sharp morphology. However, it is very irregular and does not
+appear to evolve.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR 60
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate, bilateral generalized
+Other, Central theta
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+The central theta described above is of unclear significance but does not appear to be
+

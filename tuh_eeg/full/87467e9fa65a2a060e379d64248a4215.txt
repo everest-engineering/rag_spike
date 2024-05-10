@@ -1,0 +1,13 @@
+History:	67 yo RH man with sepsis and encephalopathy. EEG to R/O non-convulsive seizures.
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  Some discharges appear to have anterior to posterior lag with a triphasics wave morphology.  No normal sleep architecture was present. No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present. Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.  HR was 106.  This EEG was technically very challenging and was limited by continuous movement artifact.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL  8 minute limited EEG  because of diffuse background slowing and absent alpha rhythm. Some waveforms have a triphasic morphology.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction, in this case the triphasic wave may suggest a metabolic  etiology for the encephalopathy.  Please note that due to the limited quality and short duration of the EEG epileptiform abnormalities could have been missed.  Repeated EEG with sedation may be beneficial if clinically necessary.
+
+
+

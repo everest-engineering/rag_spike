@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 31 year old right handed woman with generalized anxiety disorder, constant seizures, depression, and heart murmur.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   Hyperventilation and photic stimulation were completed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is well organized with a 9 Hz 40 mV alpha rhythm.  There is generous frontal central beta.  There is also some challenging electrode impedances noted with a fair amount of eye movement artifact. Drowsiness is characterized by an increase in beta.  POSTS and rare vertex waves are noted in stage I sleep.  There are rare spindles. Photic stimulation is performed while the patient is asleep.  Despite this, there is a driving response.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness to stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features are identified.  A normal EEG does not exclude a diagnosis of epilepsy.  The prominent beta may be due to medications for anxiety or other causes. This EEG was compared to a previous EEG in 2009, this is her second, normal, EEG.
+
+
+

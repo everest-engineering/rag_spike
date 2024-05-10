@@ -1,0 +1,39 @@
+History:	24 YR FEMALE WITH CC OF STATUS.  PMHX: MENINGITIS ENCEPHALITIS AT
+AGE 3, VNS 2013 (JEFFERSON), IBS,.
+Medications:	Propofol, Ativan, Dilantin, Keppra
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 20 hours from 03/10/2014 to 03/11/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	4
+Description of pushbutton events
+See seizure description. She had 4 push buttons but had 7 clinical seizures.
+Description:
+Infrequently a posterior dominant rhythm reaches 9 Hz  Overall the background activity was
+characterized by a disorganized diffuse delta and theta activity with absence of the expected
+anterior to posterior gradient of frequencies.  No normal sleep architecture was present.
+Almost continuous focal slowing is present over the right centro-temporal region and bifrontal
+regions.  High amplitude epileptiform discharges are seen in the central region at C3/CZ and
+CZ/C4 at times with a more frontal component.  These appear in rhythmic bursts for seconds.
+Frequent bilateral frontal discharges are seen at F7 and F8 independently.  7 Clinical Seizures
+were captured. The EEG reveals a sudden diffuse attenuation followed by a diffuse beta discharge
+that slow down in frequency and suddenly stops. The seizures last 15-25 seconds.  Clinically the
+eyes open and roll backwards. The mouth opens and exhibits clonic twitching. The arms may also
+tremble while they slowly rise. The behavior suddenly stops at the end of the seizure.
+Hyperventilation and photic stimulation were not performed.  HR was 114
+Summary of Findings:
+Seizure
+Spikes and sharp waves
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL EEG because of 7 clinical seizures with a diffuse and unclear onset. There
+are also frequent bifrontal independent as well as central spike and sharp waves, which are
+supportive of a multifocal epilepsy.  In addition, diffuse background slowing and absent alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+

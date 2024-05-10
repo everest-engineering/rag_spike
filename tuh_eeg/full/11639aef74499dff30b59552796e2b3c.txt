@@ -1,0 +1,39 @@
+History:	42 year old woman with a history of seizures, now presents in status epilepticus.
+Medications:	 DEPAKOTE, PHENOBARBITAL, DILANTIN
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 09/03/2015 till 09/04/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by trained nurses
+and EEG technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team
+for detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient.  During wakefulness, the background consists of polymorphic
+diffuse theta and delta activity activity.  Diffuse excess beta activity is present.  Sleep spindles and
+K-complexes are captured.  Sleep spindles are better formed over the right hemisphere.
+Continuous 1 Hz left temporal PLEDs-plus are captured.  Maximal scalp negativity occurs over the
+T3 lead and sharp waves have a broad field.  Two typical focal right temporal onset electrographic
+seizures are captured, at 8:44 am (duration 35 sec) and at 8:15 pm (duration 57 sec).  There is no
+Various EEG leads demonstrate artifact throughout the recording.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+PLEDs-plus, continuous, left temporal, 1 Hz
+Seizure, two, left temporal, 35sec-57 sec
+Interpretation:
+This is an ABNORMAL continuous 24-hour EEG due to (1) moderate -to-severe diffuse slowing; (2)
+continuous 1 Hz left temporal periodic lateralized epileptiform discharges (PLEDs-plus) and (3) 2
+left temporal subclinical seizures.  There is a focal left hemispheric structural cerebral abnormality,
+especially over the left temporal region, that contains an epileptogenic focus.  Diffuse slowing is
+indicative of moderate-to-severe diffuse cerebral dysfunction, which is etiologically nonspecific.
+clear correlate.
+
+
+
+
+

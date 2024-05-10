@@ -1,0 +1,28 @@
+History:	35 YO FEMALE W/ AURA OF CANDY SMELL FOLLOWED BY LEFT FACE TWITCH X
+2. PMHX: SZ, STARTED AT 21Y 0, OCCURRING 1/MONTH LASTING 1 - 2 MIN. LAST SZ 6/22/14 OTHER AEDS IN CHART. PT CLAIMS TO HAVE MISSED DAILY KEPPRA DOSE
+
+
+Medications: Sedation: EEG Type:
+
+
+KEPPRA
+None
+Continuous (inpt, video), 24 hrs
+
+
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 14 hours from 07/11/2014 to 07/12/2014. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	O Description of pushbutton events
+
+
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present. No epileptiform discharges are present. Hyperventilation and photic stimulation are not performed. HR was 60
+Summary of Findings:
+No epileptiform discharges
+
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep
+

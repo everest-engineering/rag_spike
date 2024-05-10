@@ -1,0 +1,42 @@
+AGE: 22 y.o.
+SEX: male
+DATE OF STUDY: 12/29/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1872
+HISTORY:
+22 y.o. male with a history of localization related epilepsy referred for routine EEG for characterization of seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+topiramate (TOPAMAX) 50 mg tablet, Take 1 tablet by mouth 2 times daily. 1 at bed for 2 weeks, then 1 BID; min target dose 200 mg clonazepam (KLONOPIN) 2 mg disintegrating tablet, Use as needed for any sz longer than 5 minutes
+Levetiracetam 750 mg Tablet Sustained Release 24 hr, Take 2,250 mg by mouth nightly. 3 tabs po hs
+divalproex (DEPAKOTE) 500 mg 24 hr tablet, Take 500 mg by mouth.
+4 taps po qd SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a
+mixture of alpha and a moderate amount of bifrontal beta activity; organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing with bursts of sharply contoured theta and delta are seen.
+Sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background slowing.
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 102, but reaching as high as 130, bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and drowsy	routine EEG.	There are no clinical or electrographic events reported or detected.
+Heart rate up to the 130s is noted on a single EKG lead.
+CLINICAL CORRELATION:
+This is a normal awake and drowsy routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+Heart rate up to the 130s is noted on a single EKG lead.
+
+
+

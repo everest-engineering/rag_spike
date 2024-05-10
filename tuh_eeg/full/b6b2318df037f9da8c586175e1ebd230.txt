@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  This is a 33-year-old man with a history of seizures since age 15, the last one on June 13th, who presents to EMU for evaluation of seizures and differential diagnosis.
+
+He has a past medical history of seizures, asthma, bronchitis, depression, migraine, and drug abuse.
+
+MEDICATIONS:  Divalproex, methadone, Advair, and albuterol.
+
+INTRODUCTION:  A digital video EEG monitoring was performed in the EMU using the standard 10-20 system of electrode placement with 1 channel of EKG monitoring.  An automated seizure and spike detection system and patient activated alarm system were used.  Records were reviewed daily for EEG abnormalities and clinical events.
+
+DESCRIPTION OF THE RECORD:  Interictal EEG from 08/12/2013 to 08/15/2013:  In the most alert state, there is a normal posterior dominant rhythm with a frequency of 9-10 Hz seen in the occipital region, which attenuates with eye opening.  There is normal frontal central beta activity.  The stage I sleep was characterized by the disappearance of the alpha rhythm, slowing of the background, and absence of eye blink and muscle artifact, vertex sharp waves, and posts.  The stage II sleep is characterized by the presence of K complexes and sleep spindles.  The deeper stages of sleep were characterized by increasing amounts of delta frequency activity.  REM sleep was also captured.  Heart rate was 70-80 beats per minutes and regular.
+
+Clinical events:  On 08/13/2013 at 7:25 p.m., there is a push button event as the patient lying in bed.  The nurse is in to check while the patient's head turned to the right with jerking in right shoulder for a few seconds.  EEG showed no ictal change.  There was normal awake background.
+
+IMPRESSION:  This is a normal video EEG monitoring study with no interictal epileptiform abnormalities.  Patient had 1 event consisting of right arm shaking for a few seconds with no change in mental status.  There were no associated ictal changes on EEG.
+
+CLINICAL CORRELATION:  This video EEG monitoring does not rule out the diagnosis of epilepsy.  If all of the patient's habitual events have not been captured, a repeat video EEG monitoring may be helpful.
+
+
+
+

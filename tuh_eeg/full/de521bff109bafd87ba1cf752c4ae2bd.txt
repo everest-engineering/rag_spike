@@ -1,0 +1,29 @@
+History:	76 year old man with recent right subdural hematoma, now with 5 minute episode
+of decreased responsiveness.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Description:
+The posterior dominant rhythm reaches 6-7 Hz polymorphic low amplitude theta activity.  The AP
+gradient is weak.  Excess diffuse low amplitude polymorphic theta and delta activity is present
+throughout the recording and increases during drowsiness.  During sleep, symmetrical vertex waves
+and sleep spindles are captured.
+Intermittent independent polymorphic theta and delta activity is present posteriorly.  No clear
+epileptiform discharges are present.  An episode of decreased responsiveness lasting ~20-30
+seconds is captured.  Electrographically it corresponds with sleep.  Once patient's name is loudly
+called, he wakes up, opens his eyes and starts answering the questions.
+Hyperventilation and photic stimulation are not performed.  A regular heart rate is noted on a
+single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, intermittent, moderate, bilateral posterior, independent
+Other, episode of decreased responsiveness corresponds electrographically with sleep
+Interpretation:
+This is an ABNORMAL awake and asleep 34 minute EEG because of mild-to-moderate diffuse
+slowing and intermittent independent focal moderate posterior slowing.  Diffuse slowing is
+indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+Posterior slowing indicates focal cerebral dysfunction, possibly structural in etiology.  Patient
+became briefly non-responsive during the study because he fell asleep.
+

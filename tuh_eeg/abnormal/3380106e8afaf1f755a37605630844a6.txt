@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 23-year-old woman who presents with history of seizures.  She had 3 episodes since 2011.  The event is described as loss of consciousness with generalized tonic-clonic convulsions followed by postictal confusion.
+MEDICATIONS:  None.
+INTRODUCTION:  A digital video EEG was performed in the lab using the standard International 10-20 system of electrode placement in addition to T1 and T2 electrodes and 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness through stage 2 sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state alpha rhythm is 9-10 Hz in frequency seen in the occipital region which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity which is distributed symmetrically.  Stage 1 and stage 2 sleep are characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and POSTs K complexes and sleep spindles.  Hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate is 70 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 2 sleep.  No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, a repeat EEG or a 24-hour ambulatory EEG may be helpful.
+
+
+

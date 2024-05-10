@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 57-year-old woman, transferred from Episcopal for confusion, left PCA infarct, hypertension, and diabetes.
+MEDICATIONS:  Heparin, insulin, metoprolol, and aspirin.
+INTRODUCTION:  A 24-minute digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one-channel EKG.  The patient was quite somnolent with brief arousals noted.
+DESCRIPTION OF THE RECORD:  Although this was a technically challenging EEG with significant artifact in wakefulness, the majority of the record demonstrated a diffusely slow pattern with a mixture of delta and theta, as well as head rocking artifact.  Snore artifact, occasional vertex waves, and spindles were noted.  Stimulation of the patient produced spindles.
+The patient was uncomfortable while awake, and in maximal wakefulness, there is primarily a theta frequency pattern.  In wakefulness, there were bursts of shifting arrhythmic delta activity, but there were some more significant bursts of intermittent focal delta noted out of the left hemisphere with disruption of faster frequency activity and variable maximum in the left hemisphere, mid temporofrontal or central.
+Stimulation of the patient later in the record produced trivial arousal, and the patient was falling off to sleep.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to;
+Generalized background slowing.
+Hypersomnolent patient.
+Intermittent bursts of focal delta from the left hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were noted in the record.  Focal features were seen primarily with an awake state.  If epilepsy is an important consideration, a more prolonged study may be of value.
+
+
+

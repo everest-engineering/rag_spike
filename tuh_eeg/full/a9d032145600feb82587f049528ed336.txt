@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  76 year old male with left carotid stenosis.
+MEDICATIONS:  Fentanyl, Propofol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The standard CEA montage is employed.  This is a 5-hour study.  This study concludes after patency is confirmed by Doppler.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is awake in the operating room.  There is 9.5 Hz alpha rhythm identified.  Induction of anesthesia appears to have been at 8:41 with the appearance of background slowing and intermittent discontinuous pattern with generous beta.
+The technologist notes that intubation is at 8:47.
+Prior to clamping of the carotid, in the early sections of the record, there is intermittent discontinuity noted in the record.  There is also Bovie artifact.
+Heparin is given at 10:10.  The EEG at this time does demonstrate both Bovie artifact and intermittent discontinuity.  The first notation by the tech is "internal" at 11:03:09.  Presumably this means that the internal carotid artery was clamped.  It is unclamped at 11:03.  Of note, there is a discontinuous record noted with placement of the clamp and that phenomenon continues.  The carotid is reclamped at 11:11:08.  This is a challenging EEG both before and after placement of the clamp.  Challenges in the EEG include some asymmetries prior to placement of the clamp and there may be a bit more slowing in the left posterior quadrant, but there is also artifact noted.  The common carotid is clamped at 11:30.  External carotid clamped at 11:20:49.
+All clamps were removed at 12:15:20.
+The level of anesthesia also seems to change at this time and the discontinuity disappears.  Some of the focal features including some focal slowing in the left posterior quadrant persists.  Recording concludes at 1:21 p.m. and at that time, the EEG is continuous.  It is a technically challenging record, but there does appear to be some slowing in the left mid to posterior temporal region.
+HR:     60 bpm
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this left carotid endarterectomy was quite challenging.  There were focal features noted following the induction of anesthesia and it was also a discontinuous record, making the interpretation more difficult.  There did not appear to be any new, significant changes noted with the multiple clamp placements.
+
+
+

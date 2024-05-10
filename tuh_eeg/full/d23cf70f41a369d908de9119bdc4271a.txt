@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 55-year-old male with intracerebral hemorrhage, left basal ganglia, status post TPA, now sedated and intubated on CPAP, and left-sided weakness.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had a trach, was agitated, sweaty, and had a great deal of difficulty cooperating with the test.
+DESCRIPTION OF THE RECORD:  This is a technically, extremely challenging EEG with a great deal of artifact and eye blink.  Despite this, there is a continuous pattern of cerebral activity with theta delta pattern.  There was almost essentially continuous artifacts noted from the left scalp electrodes.  There is eye movement artifact.  There is more prominent frontal delta, more regular right greater than left, but again the left-sided electrodes are extremely compromised.
+Heart rate:  Irregular 100-107 bpm.
+IMPRESSION:  This is a technically challenging EEG, but it does demonstrate:
+A continuous cerebral pattern.
+No discernable pattern of ongoing seizures.
+Frontal delta, a bit more sharply contoured on the right.
+CLINICALLY CORRELATION:  This is an acceptable record to exclude status epilepticus, but does not completely evaluate this patient's cerebral activity.  At this time, there are no previous EKGs for comparison.  Overall, this EEG supports a diffuse, bihemispheric disturbance of cerebral function, perhaps involving the right more significantly than the left, but consideration for a followup study when the patient is cooperative is appropriate.
+
+
+

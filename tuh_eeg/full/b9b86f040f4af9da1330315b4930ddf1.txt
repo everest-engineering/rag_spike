@@ -1,0 +1,17 @@
+History:	63YR FEMALE FOLLOW UP EEG. PMHX: MENINGIOMA RESECTION RIGHT
+FRONTAL. SZS. MULTI MED PROBLEMS.  LAST SZ 1 6 WEEKS AGO.
+Medications:	DEPAKOTE, VALIUM
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.
+

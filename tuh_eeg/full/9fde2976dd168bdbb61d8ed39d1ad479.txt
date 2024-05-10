@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is an 80-year-old male found on the floor with confusion.  History of atrial fibrillation.  CT scan demonstrates left frontal hemorrhage.
+MEDICATIONS:  Nicardipine.
+INTRODUCTION:  Digital video EEG was performed in the emergency room using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly cooperative.  This is a technically challenging EEG with most impedances below 5 kilohms, but it is an interpretable 20-minute bedside study.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow and poorly organized with a posterior dominant rhythm reaching a maximum of 7 Hz.  There is background theta noted throughout.  Muscle and chew artifact as well as movement artifact was noted.
+Heart rate is irregular, 100 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record, although movement and muscle artifact may obscure some of this.  If additional information is needed, a followup study when the patient is a bit more cooperative is suggested.
+
+
+

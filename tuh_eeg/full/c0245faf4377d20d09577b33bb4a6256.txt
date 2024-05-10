@@ -1,0 +1,15 @@
+EEG REPORT
+CLINICAL HISTORY: 69 year old gentleman with bilateral subdural hygromas, alcohol abuse, cerebellar atrophy, and left facial twitching and left facial dyskinesias.
+MEDICATIONS: Protonix, Insulin, Trazodone, Lovenox, Lacosamide
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake with frequent left facial twitching.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is slow,
+relatively low voltage. There are shifting asymmetries. There is a bit more faster frequency activity in the left hemisphere than the right. There is an area of more slow delta in the right posterior quadrant. The facial twitching produces muscle artifact. There is a single left temporal sharp wave noted. Features of drowsiness included increase in background beta.
+HR: N/A
+Abnormal EEG due to:
+1. Low voltage relatively slow record.
+2. A focal pattern slower on the right, particularly in the right posterior quadrant.
+CLINICAL CORRELATION: This patient's facial twitching was not associated with a scalp EEG signature. The background EEG may have been attenuated by the fluid collection.
+
+
+
+

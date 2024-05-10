@@ -1,0 +1,28 @@
+History:	57 YR MALE WITH PMHX OF CVA , SEIZURES, HTN, DEPRESSION. EVAL TO
+WEAN KEPPRA.
+Medications:	KEPPRA, PROZAC, REMERON, BACLOFEN,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which is best seen on the
+left.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and sleep spindles seen best on the left.
+Continuous polymorphic delta activity is present in the right hemisphere maximal in the mid
+temporal region with associated loss of faster frequencies.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric, maximal in the mid temporal region
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+right hemisphere maximal in the mid-temporal region with associated loss of faster frequencies.
+This finding is indicative of a focal structural lesion in this region and consistent with the known
+
+
+
+
+

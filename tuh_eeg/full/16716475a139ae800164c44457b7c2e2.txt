@@ -1,0 +1,13 @@
+TYPE OF SURGERY:  Routine EEG capture in wakefulness.
+CLINICAL HISTORY:  The patient is a 42-year-old male with a history of gunshot wound in right posterior temporal region with subsequent seizure activities.  He has been seizure free since 10 years ago.  It is a followup study.  Patient had a blind right eye.
+MEDICATIONS:  The patient's medications include carbamazepine.
+INTRODUCTION:  A digital EEG was performed in the lab using the standard International 10-20 System of electrodes placed in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  The tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hz in frequency 50-70 microvolt in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity, which is distributed symmetrically throughout intermittent burst of right anterior and mid temporal slowing at F8-T4 during wakefulness consisting of 2.5-3 Hz delta frequency, 50-70 microvolts in amplitude.  There is breach rhythm noted in right posterior quadrant region.  Photic stimulation was performed at multiple flash frequencies and resulted in symmetrical driving response.  Heart rate 70-80 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG due to,
+Right temporal slowing during wakefulness.
+Right breach rhythm.
+CLINICAL CORRELATION:  The above finding was suggestive of structural abnormality in the right hemisphere and right temporal dysfunction.  Hemispheric asymmetry evidence by higher voltage on the right posterior region can be explained by
+skull defect after gunshot wound.  There was no epileptiform discharge or seizure activity noted during this recording.
+
+
+

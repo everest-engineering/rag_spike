@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 73-year-old man who presented with an episode of passing out preceded by a sensation of dizziness.
+MEDICATIONS:  Current medications include Coumadin, lisinopril, vancomycin, risperidone, metoprolol, digoxin, others.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, the posterior dominant rhythm reaches 9 Hz alpha activity.  Throughout the majority of the recording the posterior dominant rhythm is at approximately 8 Hz.  The anterior to posterior frequency amplitude gradient is weak.  Additional diffuse polymorphic theta activity is captured.  Intermittent frontally predominant rhythmic delta activity (FIRDA) is observed.  During drowsiness, the background voltage attenuates and FIRDA becomes more prominent.  Hyperventilation is not performed.  Stepped photic stimulation results in symmetrical occipital driving at medium flash rates.  A single EKG lead demonstrates intermittent PVCs as well as rare premature QRS complexes.
+FINDINGS:
+Mild diffuse slowing and disorganization.
+No sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and drowsy 23-minute EEG due to mild diffuse slowing and disorganization.  This finding indicates etiologically nonspecific diffuse cerebral dysfunction.  FIRDA could be seen in various forms of encephalopathy, increased intracranial pressure, or deep white matter lesions.  Intermittent premature QRS complexes are captured on a single EKG lead.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

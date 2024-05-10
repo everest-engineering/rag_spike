@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 64 year old gentleman with alcohol abuse, cirrhosis, and obtundation.
+MEDICATIONS:  Midazolam, Fentanyl, Rifaximin, Insulin, Lovenox, Vancomycin, Zosyn, Atorvastatin, Metoprolol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  The EEG is markedly slow and includes a mixture of slow delta with smaller amounts of theta.  Shifting slowing is noted.  Rare triphasic waves are observed.  There is a small degree of shifting slowing noted.  Stimulation of the patient does not significantly activate the record.
+HR:    132 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+Rare triphasic waves.
+CLINICAL CORRELATION:  No epileptiform features are identified.  Triphasic waves are an anticipated finding in the context of a metabolic encephalopathy.
+
+
+

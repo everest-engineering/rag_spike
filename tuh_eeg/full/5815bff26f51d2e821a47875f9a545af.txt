@@ -1,0 +1,45 @@
+AGE: 76 y.o.
+SEX: male
+DATE OF STUDY: 12/05/2015
+RECORDING ENVIRONMENT: STAT bedside portable NICU EEG TYPE: 20 min 95819
+EEG #: 15-1767
+HISTORY:
+76 y.o. male with a acute hypercapnia
+referred for routine EEG for somnolence, left sided twitching and unilateral eye blinking. Patient on BiPAP. Acute pontine infarct. MEDICATIONS:
+Current Outpatient Prescriptions:
+brimonidine (ALPHAGAN) 0.2 % ophthalmic solution, Place 1 drop into both eyes 2 times daily.
+dorzolamide-timolol (COSOPT) 22.3-6.8 mg/mL ophthalmic solution, Place 1 drop into both eyes every 12 hours.
+prednisolone acetate (PRED FORTE) 1 % ophthalmic suspension, Place 1 drop into the right eye 4 times daily.
+latanoprost (XALATAN) 0.005 % ophthalmic solution, Place 1 drop into both eyes nightly.
+cyclopentolate (CYCLOGYL) 0.5 % ophthalmic solution, Place 1 drop into the right eye 2 times daily.
+albuterol (PROVENTIL HFA;VENTOLIN HFA) 90 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 6 hours as needed for Wheezing.
+tiotropium (SPIRIVA) 18 mcg inhalation capsule, Inhale 1 capsule into the lungs daily.
+acetaminophen (TYLENOL EXTRA STRENGTH) 500 mg tablet, Take 2 tablets by mouth every 6 hours as needed for Pain. mirtazapine (REMERON) 15 mg tablet, TAKE 1 TABLET BY MOUTH NIGHTLY.
+metoprolol (LOPRESSOR) 25 mg tablet, Take 1 tablet by mouth 2 times daily.
+ferrous sulfate 325 mg (65 mg iron) tablet, Take 1 tablet by mouth daily.
+Carboxymethycellulose-Glycerin (OPTIVAR) 0.5-0.9 % Drops, Apply 1 drop to eye 4 times daily as needed.
+nitroglycerin (NITROSTAT) 0.4 mg SL tablet, DISSOLVE 1 TABLET UNDER THE TONGUE BY MOUTH EVERY 5 MINUTES AS NEEDED FOR CHEST FOR PAIN
+current facility-administered medications :ATORVASTATIN, FAMOTIDINE
+SEDATION: none TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. There is excess diffuse theta	Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen. There is generous beta.
+Sleep: no stage II sleep.
+Generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY
+None
+ACTIVATION PROCEDURES: n/a EVENTS
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal routine EEG. 1.Excess theta
+2. There are no clinical or electrographic events reported or detected .
+CLINICAL CORRELATION :
+Supportive of a mild diffuse disturbance of cerebral function which can include medications, toxic or metabolic process or even post ictal state.	No epileptiform features.
+This	EEG does not support or refute the diagnosis of epilepsy.
+
+
+

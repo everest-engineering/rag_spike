@@ -1,0 +1,33 @@
+History:	83 year old woman with a history of strokes, now presents with fluctuating mental
+Medications:	SINEMET, METOPROLOL
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~13 hours from 10/07/2014 till 10/08/2014.
+Nursing-initiated event buttons were correlated with clinical behavior.    Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the ICU monitoring
+technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  There is right-to-left intrahemispheric asymmetry is present.
+The background over the left consists of polymorphic poorly modulated 8-9 Hz activity posteriorly,
+weak AP gradient and excess theta activity.  Continuous polymorphic delta >theta activity and
+voltage attenuation are present over the right hemisphere.  Periods of quiescence are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, continuous, right hemispheric, moderate-to-severe
+Attenuation, moderate, right hemispheric
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL ~13 hours continuous video EEG due to mild-to-moderate diffuse slowing
+and focal moderate-to-severe right hemisphere slowing and attenuation. Diffuse is indicative of
+mild-to-moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal
+slowing and attenuation indicative of a focal structural lesion in this region.  No electrographic
+
+
+
+

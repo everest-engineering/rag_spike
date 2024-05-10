@@ -1,0 +1,32 @@
+History:	54 year old woman who presents after Baclofen overdose.  She was observed to
+have 2 episodes consisting of pelvic thrusting, thrashing on the bed.
+Medications:	Ativan PRN episodes
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of burst-suppression with burst-to-
+suppression ratio of ~ 1:1-1:2.  Bursts consists of moderate-to-high amplitude polymorphic delta
+activity that sometimes has triphasic appearance.  Additionally, occasionally, generalized frontally
+predominant spikes with aftergoing slow waves are captured within the bursts.  No normal sleep
+architecture is captured.
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Triphasic waves, occasional
+Burst-suppression pattern, 1:1 to 1:2 ratio
+Spikes, occasional generalized
+No reactivity
+Interpretation:
+This is an ABNORMAL comatose portable 28 minute EEG due to mild burst-suppression pattern
+and occasional epileptiform discharges that are present within the bursts. Burst-suppression is
+indicative of severe diffuse cerebral dysfunction, which is etiologically nonspecific, but suggestive
+of a metabolic origin.  There is generalized cortical excitability.  No clinical or electrographic
+seizures are present.  A typical event was observed after the recording was stopped, therefore it was
+not captured on this EEG.  Patient will be placed on continuous EEG monitoring.
+
+
+
+
+

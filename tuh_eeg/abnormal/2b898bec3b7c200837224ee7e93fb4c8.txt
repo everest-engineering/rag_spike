@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  45 year old right handed female with history of syncope.  The patient got on the bus, became sweaty, and had a loss of consciousness.  This was her third syncopal evaluation.  She suffers from severe claustrophobia.
+MEDICATIONS:  Lovastatin, HCTZ, Hydrodiuril, Seroquel, Paxil, Bisacodyl, Diovan, Ranitidine, Piroxicam, Terbinafine, Abilify
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  The patient terminated this study after 18 minutes due to a full bladder.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz 50 microvolt posterior dominant rhythm with a generous amount of frontocentral beta.  Hyperventilation produces slowing of the background.  Drowsiness is characterized by hypersynchronous rhythmic slowing.  Brief vertex waves are observed.  Photic stimulation elicits scant driving.
+HR:    96 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were observed in this EEG.  Of note, this patient had what might be considered a micro-stage II sleep.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 75 year old right handed male with left-sided numbness. Left sided meningioma.
+MEDICATIONS: None listed.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized. The alpha rhythm is approximately 7.5 Hz. There is an asymmetry noted between the right and the left. Activity on the left is higher amplitude than the right and the right is slightly slower. There is some shifting slowing noted in the background. Features of stage I sleep include vertex waves. Photic stimulation elicits scant driving.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Slowing of the alpha rhythm
+2. Shifting slowing.
+3. An asymmetry between the 2 hemispheres with a lower amplitude pattern on the right and a bit more slowing with disruption of POSTS on the right compared to the left.
+CLINICAL CORRELATION: These findings may be correlated with imaging. They are congruent with a history of left-sided sensory symptoms.
+
+
+

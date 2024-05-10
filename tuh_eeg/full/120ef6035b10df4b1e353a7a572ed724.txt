@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 73-year-old male with confusion and 1 week of right-sided weakness.  Found to have subacute left thalamic infarct
+MEDICATIONS:  Insulin, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This was a bedside study with impedances under 5 kilohms.  Hyperventilation and photic stimulation were deferred.  There were some technical challenges noted by the tech due to the electrical circuits within the patient's hospital bed.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is somewhat drowsy.  There is an intrahemispheric asymmetry noted.  A low voltage, somewhat slow 7 Hz alpha rhythm is noted in the right hemisphere and the right hemisphere has a modest amount of diffuse theta.  The left hemisphere is remarkable for the disruption of the alpha rhythm, disruption of faster frequency activity, and more, slow delta.  As the patient becomes drowsy, the EEG is bilaterally slow.  Brief arousals are associated with an increase in alpha frequency activity much more prominently so on the right compared to the left.
+Heart rate irregular 60 bpm.
+IMPRESSION:  This bedside portable EEG is remarkable for:
+Hypersomnolent patient.
+Focal slowing from the left hemisphere characterized by disruption of faster frequency activity.
+Mild slowing in the right hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The slowing described above in the left hemisphere supports a structural process involving gray and white matter, mild slowing on the right is nonspecific and may be correlated with the clinical syndrome described above.
+
+
+

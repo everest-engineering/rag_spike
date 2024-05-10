@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 50 year old right handed female who had a meningioma resected in 2002, with a seizure in 2005, after a seizure-free period of what may have been 5 years.
+MEDICATIONS: Divalproex
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a well-organized 10.5 Hz alpha rhythm. Mu rhythm is identified but testing is not performed to confirm this. Brief drowsiness is characterized by slow, rolling eye movements. Photic stimulation elicits vigorous driving.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: EEGs in 2005 and in 2006 identified subtle left temporal slowing which was not identified today. Normal EEG does not exclude a diagnosis of epilepsy and if further evaluation is needed, additional EEG recording capturing deeper stages of sleep may help identify epileptiform activity.
+
+
+

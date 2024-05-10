@@ -1,0 +1,11 @@
+CLINICAL HISTORY: A 68-year-old woman with 20 year history of epilepsy, seizures characterized by loss of consciousness, postictal confusion. The patient had a seizure related fall and was admitted to an outside hospital. Typically has one seizure per year
+MEDICATIONS: Carbatrol, Keppra.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10.20 system of electrode placement with one channel of EKG.. This is a technically satisfactory, routine, greater than 20-minute record with adequate T1-T2 electrode placement but with some head rocking.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9Hz alpha rhythm with a modest amount of low voltage, frontal central beta. Prominent head rocking is picked up in the posterior regions. Despite this, there is intermittent, underlying delta in the posterior regions, right more so than the left.  Features of drowsiness include anterior spread of the alpha rhythm and a small increase in beta but deeper stages of sleep were not obtained.
+Photic stimulation elicited scant driving. Heart rate 78 bpm. IMPRESSION: This is an abnormal EEG for an adult of this age due to:
+1.	A modest degree of background slowing and disorganization.
+2.	Underlying posteriorly predominant ant delta.
+CLINICAL CORRELATION: No definitive epileptiform features were seen. To more completely characterize this patients’ epilepsy, a follow up study with more extensive sleep is suggested.
+
+
+

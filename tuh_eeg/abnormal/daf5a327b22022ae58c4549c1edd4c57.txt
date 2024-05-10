@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  26 year old with moderate mental retardation, tonic clonic seizures followed by postictal tremor and headache.
+MEDICATIONS:  Zantac, Ventolin, Prilosec, Tylenol, Singulair.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 hertz, 80 microvolt posterior dominant rhythm with a small amount of low voltage frontal central beta activity. Drowsiness is characterized by an increase in theta in the background. Hyperventilation does no activate the record. Photic stimulation does not activate the record.
+HR:    54 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There were no focal nor epileptiform features in this primarily awake record. If additional information is needed, a more prolonged study capturing sleep may be considered.
+
+
+

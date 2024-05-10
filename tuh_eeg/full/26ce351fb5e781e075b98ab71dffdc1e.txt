@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 54 year old right-handed male with paranoid psychosis, delusional disorder and seizures following a stroke. Right leg weakness.
+MEDICATIONS: Cogentin, Haldol, Lisinopril, Norvasc, Cipro
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the overall background is relatively low voltage with an 8 Hz alpha rhythm and a small amount of low voltage frontocentral beta activity. Vertex waves are noted in stage I sleep. At the close of the record, brief maximal wakefulness was observed with an alpha achieving 8.5 Hz. Photic stimulation does not significantly alter the record.
+HR: 84 bpm
+IMPRESSION: EEG is at the limits of normal. CLINICAL CORRELATION: There are no focal nor epileptiform features observed. To more clearly capture this patient's epileptiform activity, a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

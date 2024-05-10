@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Forgetfulness and headaches.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 system of electrode placement with system with the addition of anterior temporal and single lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+MEDICATIONS:  None.
+HISTORY:  A 70-year-old woman with forgetfulness, dizziness, headaches, right hand tremor, dementia and gait problems.
+TECHNICAL DIFFICULTIES:  Some temporalis muscle artifact is seen intermittently.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is some excessive beta seen throughout the recording.  Activating procedures included photic stimulation produces no abnormal discharge.  The patient was recorded in wakefulness and stage and stage II sleep.
+Abnormal Discharges:  Focal slow waves seen intermittently at T3 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.
+Seizure:  None.
+IMPRESSION:  Abnormality EEG due to left midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction, which is nonspecific with regards to etiology.  No seizure or epileptiform discharges were seen.
+
+
+

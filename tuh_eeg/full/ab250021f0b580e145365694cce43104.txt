@@ -1,0 +1,44 @@
+AGE: 67 y.o.
+SEX: female
+DATE OF STUDY: 12/07/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 40-60 min, awake and asleep EEG #: 15-1774
+HISTORY:
+67 y.o. female with a history of seizures, reportedly seizure free for 20-30 years. On 11/25/2015 she had generalized shaking and stiffening in the middle of the night; the following morning she was very tired. She is referred for routine EEG for further evaluation.
+MEDICATIONS: no AEDs SEDATION: None TECHNIQUE :
+A 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with mild excess of theta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR). The normal
+anterior-to-posterior gradient of frequency and amplitude is present.	There are additionally occasional bursts of irregular sharply contoured delta activity in wakefulness for < 5 second runs.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes . Slow wave sleep was not captured.
+There is mild generalized slowing is present.
+There is frequent left temporal polymorphic slowing. There is frequent independent right temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+Occasional (1/hour to <1 min) right temporal (T2 > F8/T4) sharp waves, activated by sleep.
+Occasional (1/hour to <1 min) left temporal (Tl > F7/T3) sharp
+waves, seen in drowsiness .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES :
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+An irregular heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG due to:
+Mild generalized slowing
+Frequent left temporal polymorphic slowing
+Frequent independent right temporal polymorphic slowing
+Occasional (1/hour to <1 min) right temporal (T2 > F8/T4) sharp waves, activated by sleep.
+Occasional (1/hour to <1 min) left temporal (Tl > F7/T3) sharp waves, seen in drowsiness.
+An irregular heart rate of 60 bpm captured on a single EKG lead.
+CLINICAL CORRELATION:
+These findings indicate the presence of bitemporal cerebral dysfunction superimposed on mild diffuse cerebral dysfunction, and bitemporal independent epileptogenic potentials . An irregular heart rate is captured on a single EKG lead.
+
+
+
+

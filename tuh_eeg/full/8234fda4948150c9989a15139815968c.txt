@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 43 year old male with epilepsy since age 15, with several seizures in 2010, including April and November. The patient has loss of consciousness and is amnestic for events. This is his third EEG. Tonic-clonic seizures since age 15.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a symmetric reactive 9 Hz alpha rhythm which slows to 8 Hz in drowsiness. Other features of drowsiness include an increase in beta and anterior spread of the alpha rhythm. Photic stimulation elicits bilateral driving. Hyperventilation produced a single burst of left temporal focal slowing.
+HR: N/A
+IMPRESSION: This EEG is within normal limits..
+CLINICAL CORRELATION: There was only a single burst of left temporal focal slowing and so this must be considered normal. Of note, however, this is the patient's third EEG and all EEGs have demonstrated either a single burst of focal slowing or a single left temporal sharp wave. To more completely evaluate this individual's epilepsy,
+a prolonged, sleep-deprived EEG may be helpful.
+
+
+

@@ -1,0 +1,29 @@
+
+
+History:	58 YR MALE WITH SPACED OUT SPELLS. PMHX: CVA OLD RIGHT INFERIOR ENCEPHALOMALACIA, HTN, ALSO WITH SOME DIZZINESS AND DYSARTHRIA.
+Medications:	ZOLPIDEM, LISINOPRIL, METOPROLOL
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+
+
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates with eye opening and is seen best over the left.  Asymmetric 5-15uV, 18-25Hz activity is present, maximal over the frontal regions but seen best over the left hemisphere. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and sleep spindles and K complexes appear. This sleep patterns are seen best over the left.
+
+Continuous rhythmic delta activity is present in the right hemisphere maximal in the anterior temporal region during wakefulness, increasing during drowsiness. There is an associated loss of faster frequencies over this region. No epileptiform discharges are present.
+
+Hyperventilation and photic stimulation are not performed. HR was 66
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, right hemispheric, maximal over the anterior temporal
+
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the right hemisphere maximal in the anterior temporal region. This finding is indicative of a focal structural lesion in this region. No clinical or electrographic seizures are present.
+
+
+
+
+
+
+
+

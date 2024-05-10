@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 65 year old gentleman admitted for stroke workup and episodes of loss of consciousness.
+MEDICATIONS: Metformin, Actos, Diovan, Asa, Ventolin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a theta frequency pattern. There is alpha rhythm never exceeding 7.5 Hz. There is intermittent focal slowing. This phenomenon is seen in the right temporal region. There are occasional bursts of bilateral slowing which are predominantly slower on the right side.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Intermittent focal slowing more prominent on the right side.
+CLINICAL CORRELATION: No epileptiform activity was identified. The focal slowing is more prominent and contralateral to the area of the acute stroke. This may be due to the subcortical nature of the stroke on the left side.
+

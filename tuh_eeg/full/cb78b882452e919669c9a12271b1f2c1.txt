@@ -1,0 +1,15 @@
+HISTORY:  A 60-year-old woman, presented with syncope 01/27/2015.  Associated lightheadedness and neck pain.  Childhood epilepsy, onset at age 18 months, past history of stroke and cancer.
+MEDICATIONS:  Keppra, Elavil, Klonopin, Lyrica, Remeron, Plavix, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is a technically acceptable record with most impedances below 5 kilohms.
+DESCRIPTION OF RECORD:  In maximal wakefulness, the background EEG is well organized with 10.5 hertz, 40 microvolt posterior dominant rhythm and a small amount of low voltage, frontal central beta.  Drowsiness was characterized by an increase in beta.  In drowsiness, there is an asymmetry and the right hemisphere is richer in beta frequency activities than the left.  Deeper stages of sleep were not sustained.  Photic stimulation elicited scant driving, again a bit more prominent on the right in comparison to the left.
+Heart rate 96 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Beta asymmetry noted primarily in drowsiness.
+A slight asymmetry in photic stimulation.
+CLINICAL CORRELATION:  There is somewhat more vigorous driving response on the right and the beta asymmetry may be correlated with imaging for this patient with a history of left MCA and cerebellar infarct.  No epileptiform features were noted.  If epilepsy is an important consideration, a follow up study might be of use.
+__________________________
+
+
+
+
+

@@ -1,0 +1,12 @@
+MEDICATIONS:  None.
+CLINICAL HISTORY:  A 26-year-old woman, now 10 weeks pregnant.  Past history of seizures in previous pregnancies including a seizure in 2007 while pregnant.  She had her 1st EEG performed at age 19 at 38 weeks gestation following a convulsion.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred, but photic stimulation was performed.  This is a routine 20 minute EEG with photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 hertz, 50 microvolt posterior dominant rhythm.  Features of drowsiness include slow rolling eye movements and hyper synchronous rhythmic theta.  Brief deeper stages of sleep include vertex waves and spindles.
+Hyperventilation was deferred.  Photic stimulation elicited a driving response, but the patient was falling asleep during photic stimulation.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the third EEG for this young adult.  At age 19, she had an occipital response to hyperventilation, which is a relatively normal finding in a young person.  At that time there was a question of underlying spike and wave activity.  None was identified today.  The patient does demonstrate a normal variant, which is rhythmic temporal theta of drowsiness, but this is overall a normal EEG.
+Additional clinical evaluation may be considered if this patient is thought to have ongoing risk for seizures.
+
+
+

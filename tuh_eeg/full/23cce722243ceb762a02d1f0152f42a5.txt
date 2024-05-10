@@ -1,0 +1,26 @@
+CLINICAL HISTORY:  44 year old right handed male with post traumatic epilepsy since age 5, multiple seizures per day, followed by confusion.
+
+MEDICATIONS:  Lamictal, Zonegran
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm.  This record demonstrates excess rhythmic 4.5 Hz activity and some theta activity.  At times there is a posterior dominant rhythm significantly faster, approximately 12 Hz. There is a burst of frontally predominant spike and wave activity noted at 10:43:23.  This activity is a slow spike and wave pattern with a slow background, but as it ends, it is clearly sustained in the left frontal region.  This is followed by sleep wave forms, including a handful of vertex waves.
+
+The patient has a clinical event with myoclonus.  As the tech gets ready to do photic stimulation the patient has the frontally predominant high amplitude spike and wave and polyspike and wave activity with myoclonus, this even is 3 seconds in duration.   Photic stimulation produces both a driving response, but it also does seem as if it elicits some spike and wave activity as well. At the close of the record, as the patient drifts off to sleep, again, spike and wave activity is noted.
+
+HR:    72 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Excess background theta.
+2. Slow spike and wave activity.
+3. Focal activity with spike and wave activity on the left.
+4. Clinical seizures characterized by myoclonus.
+
+CLINICAL CORRELATION:  This EEG is diagnostic of epilepsy.  A secondary generalized mechanism should be considered.
+
+
+
+DD:01/30/2012
+DT:01/30/2012
+
+

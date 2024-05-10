@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  72 year old left handed male found at the bottom of 4 steps, unresponsive.  Syncope
+
+MEDICATIONS:  Librium, Haldol, Thiamine, Keppra, Clonidine, Lovenox
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was initially unresponsive and then later in the EEG was awake.
+
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm and a relatively well organized pattern.  In the initial sections of the record when the patient was poorly responsive, there is a lower voltage slow pattern, compatible with sleep. Occasional low voltage vertex waves were noted.
+
+HR:    72 bpm
+
+IMPRESSION:  EEG within normal limits.
+
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow-up study may be obtained.

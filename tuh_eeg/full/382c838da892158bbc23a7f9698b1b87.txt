@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  53 year old woman found at a shelter with altered mental status, myoclonic jerking, and incontinence.  Possible overdose of drugs or alcohol.
+MEDICATIONS:  Narcan, Haldol, Midazolam
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is very restless and it is performed in the lab.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a discernable 9 Hz alpha rhythm.  There is generous beta and theta. The patient is able to cooperate with hyperventilation.  Features of drowsiness include hypersynchronous rhythmicity in the background and decrease in the muscle artifact. In relaxed wakefulness there is a 10 Hz alpha is well defined. Photic stimulation elicits bilateral driving.
+HR:    84 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Small excess of beta.
+Small excess of theta.
+CLINICAL CORRELATION:  The excess beta and theta are nonspecific findings which may be related to this patient's medications.  No epileptiform features were observed.  If
+seizures are an important consideration, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

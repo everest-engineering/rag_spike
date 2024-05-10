@@ -1,0 +1,28 @@
+History:	66 YR MALE WITH CAD S/P SENT, CHF, HTN, DM, GERD, CVA 1995, GOUT.  PT
+HAD EPISODE OF YELLING THEN FOUND GTC. STARING. LASTING 20-40
+SECONDS THEN 15 MIN POST ICTAL.  NEW ONSET.
+Medications:	INSULIN, HEPARIN, HYDRALAZINE, NAPROXEN, PLAVIX, ASA, ZOCOR,
+CARVEDILOL, ISOSORBIDE, PROTONIX, TORADOL
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in F7/T3 more than T3 region during wakefulness,
+increasing during drowsiness.  At time it appears somewhat monomorphic and rhythmic consistent
+with TIRDA.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 72
+Summary of Findings:
+Focal slowing, polymorphic, frequent, moderate, left temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the left
+anterior and midtemporal region at time with a monomorphic appearance consistent with TIRDA.
+This finding is indicative of focal cerebral dysfunction in this region and TIRDA has a high
+correlation with epileptogenic  activity arising from that region.
+
+

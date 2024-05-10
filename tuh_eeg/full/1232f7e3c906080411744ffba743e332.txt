@@ -1,0 +1,22 @@
+History:	62 year old woman with metastatic lung cancer, with known brain metastasis and prior left posterior quadrant resection and gamma knife, now presents with change in mental status and a focal seizures, characterized by rhythmic right face twitching and arm shaking.
+Medications: Sedation: EEG Type: Technique:
+Depakote, Ativan
+Continuous (inpt, video), 24 hrs
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -14 hours from 09/01/2015 till 09/02/2015 .   Nursing­ initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right. The background over the left consists of -8 Hz theta posteriorly, excess polymorph ic theta activity and weak AP gradient. There is no PDR or AP gradient over the right. The background over the right consists of epileptiform activity posteriorly and theta-beta mixture anteriorly. Epileptiform activity posteriorly is characterized as high amplitude rhythmic and semi-rhythmic theta and delta activity with frequent T5/P3 embedded spikes with aftergoing slow waves. Bursts of rhythmic activity do not exceed 10 seconds and none represent ictal runs. Diffuse excess beta activity is captured. Symmetrical sleep spindles are seen during sleep.
+Summary of Findings:
+Other, left posterior, ictal-interictal continuum Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic , continuous, left posterior Beta, excessive
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous 14-hour video EEG due to mild diffuse slowing, focal left posterior quadrant focal slowing and left posterior quadrant ictal-interictal continuum without well defined ictal runs. There is a structural epileptogenic focus over the left posterior quadrant.  Even though no seizures are captured, many posterior quadrant runs are rhythmic and signify an increased risk of seizure recurrence. Status epilepticus that was captured on a spot  EEG on 9/1/2015 has resolved. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific. Excessive beta activity
+could be secondary to the medication effect, such as benzodiazepines or barbiturates. These findings were conveyed to the primary team.
+
+
+
+

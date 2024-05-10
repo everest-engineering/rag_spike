@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 47 year old right handed gentleman with large left frontoparietal AVM, epilepsy since age 15, right hemiparesis.
+MEDICATIONS: Phenobarbital, Topamax, Carbamazepine, Lactulose
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates vigorous, higher amplitude pattern. There is a 9 hertz alpha rhythm, but there is also some 6 hertz theta activity noted. The activity is higher amplitude in the right hemisphere in comparison to the left. There is occasional delta noted in the right posterior quadrant The left hemisphere is a bit slower than the right. Although there is EKG artifact, there are also some right temporal sharp waves noted. These are maximum at T4. As the patient becomes drowsy, there is beta asymmetry with accentuation of beta at T602 and a T6 sharp wave starts to emerge in sleep. Photic stimulation elicits scant driving.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+I . Disruption of faster frequency activity in the left hemisphere with occasional left frontal delta.
+2. An amplitude asymmetry with higher amplitude activity on the right
+3. Sharp waves noted at T4 and T6.
+CLINICAL CORRELATION: These findings have been previously described. These sharp waves are contralateral to the AVM. Epileptiform activity has previously been seem from the left, but the pattern of epileptiform activity from the right has been previously identified.
+
+
+

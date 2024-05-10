@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 60 year old male with a breakthrough seizure and postictal confusion on an unknown date. History of epilepsy, alcohol abuse, and COPD.
+MEDICATIONS: Tegretol, Primidone, Metoprolol,
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake but confused.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is primarily a theta frequency background with generous beta. Drowsiness is not achieved.
+
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess theta.
+CLINICAL CORRELATION: No epileptiform features were observed. These findings are nonspecific and can be seen in a diffuse disorder of many different causes, but the beta activity may be due to this patient's medications.
+
+
+

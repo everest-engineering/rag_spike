@@ -1,0 +1,30 @@
+History:	28 Y.O S/P  PEA code , has diffuse cerebral edema on CT head.
+Medications:	No sedation
+Sedation:	None
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of burst suppression with variable
+interburst intervals lasting 5 seconds up to 60 seconds.  Burst lasts approximately 1-1.5 seconds.
+Bursts consist of polymorphic moderate to high amplitude delta activity that is somewhat
+stereotyped. Early in the recording several bursts contain generalized frontally predominant sharp
+waves.  Additionally, faint very low amplitude EMG artifact is noted in a single EKG lead.  No
+Hyperventilation and photic stimulation are not performed.  There is no reactivity to visual,
+auditory, tactile, or noxious stimuli.  A single EKG lead demonstrates a heart rate of 120 beats/Min
+with intermittent abnormal QRS complexes.
+Summary of Findings:
+Burst-suppression pattern, Variable interburst interval of 5-60 seconds.
+Other, EMG artifact in EKG lead with each burst.
+No reactivity
+Interpretation:
+This a very abnormal 21 Minute portable EEG due to a variable degree of burst suppression and
+lack of background reactivity. These findings are etiologically nonspecific indicators of marked
+diffuse cerebral dysfunction.  In a patient with post anoxic brain injury, this pattern indicates poor
+chance of full neurological recovery.  Of note, even though not observed, each burst is associated
+with subtle movement that is seen in the EKG lead.  These findings were conveyed to the
+
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 40-year-old man with past medical history of seizures and cerebellar atrophy and cerebral palsy.  Patient had a seizure a week prior to the EEG.
+MEDICATIONS:  Keppra, Depakote, ranitidine.
+INTRODUCTION:  This is digital video EEG performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  This is a diffusely slow EEG with a glimpse of 7.5 Hz alpha rhythm.  There was subtle right delta rhythmic activity.  As the patient gets drowsy, there is underlying right temporal TIRDA activity and sharply contoured slowing in T2.  There is generous beta activity on vertex waves in a stage I of sleep.  Hyperventilation causes focal slowing on the right temporal region, and photic stimulation induces driving response at 11 Hz.
+Heart rate is 72.
+IMPRESSION:  This is an abnormal EEG due to,
+Focal slowing on the right temporal region.
+Excessive beta activity.
+CLINICAL CORRELATION:  There are no epileptiform features on this EEG.  There is excessive beta activity that could be due to medications.  The left focal slowing can be seen in temporal lobe epilepsy and structural abnormality of the left temporal lobe.
+
+
+

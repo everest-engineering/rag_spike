@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  Recurrent fainting spells, most recent March 13.  Patient feels sick, shaky and confused afterward.  Stress-related.  Also global migraine headaches since age 12.
+MEDICATIONS: None
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by rhythmic theta followed by an increase in beta.  The features of drowsiness include hypersynchronous rhythmic slowing and then POSTS in stage I sleep.
+Photic stimulation produced a driving response.  Hyperventilation produced a small amount of slowing.  Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep is suggested.  Alternatively, an EEG capturing one of her spells may be of value.
+
+
+

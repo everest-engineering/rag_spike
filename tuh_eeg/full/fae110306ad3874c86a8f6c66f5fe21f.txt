@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 21-year-old male with lupus, lupus anticoagulant, recurrent DVT/PE, despite IVC filter.  Recent renal infarcts.  CTEPH for thrombectomy.
+MEDICATIONS:  Versed, fentanyl, rocuronium, tadalafil, FONDAPARINUX SODIUM
+and others.
+INTRODUCTION:  A 7-hour 15-minute digital EEG was performed in the OR using standard intraoperative montage with 1-channel EKG.  The patient received hypothermic therapy with EEG monitor as part of the protocol for pulmonary thrombectomy.  .
+DESCRIPTION OF THE RECORD:  The recording begins at 9:00 a.m. with the patient awake, with a glimpse of 10 Hz posterior dominant rhythm prior to induction of anesthesia with replacement of the background with relatively symmetric pattern with generous beta and delta.  Cooling began at 11:06 a.m.  This gradually produced an attenuation of the background.  The target was to cool to 16 degrees.  The EEG pattern rapidly dropped out and stabilized to a suppressed pattern at 11:48.  The procedure began at at 11:53 with head temperature of 15.5, body temperature 19.7.  Because of the artifacts in the extreme cooling, the technologist replaced some of the gel electrodes.  There was a brief reperfusion at 12:39 as part of the procedure.  Rewarming began at 2:12 p.m.  The EEG was initially suppressed and then returning to a delta pattern.  The heart was restarted at 2:39 and of course, EKG artifact returns at that time.  EEG monitoring continues until 4:17 with the head temperature warming initially to 32.9, 37.2, and then 34.8.  A continuous but slow delta pattern with smaller amounts of theta is noted, compatible with anesthesia.
+Heart rate:  64 to 134 BPM.
+IMPRESSIONS/CLINICAL CORRELATION:  EEG monitoring during pulmonary thrombectomy was remarkable for the successful development of electrocerebral suppression.
+
+
+
+
+

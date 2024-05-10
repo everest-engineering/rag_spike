@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  63 year old woman, found on January 24, after having been "down for 3 days," stroke, sepsis, respiratory distress, right thalamic hemorrhage.  Past history of suicide attempt.
+MEDICATIONS:  Metoprolol, Hydrocortisone.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow in wakefulness. There is a glimpse of a 9 Hz alpha rhythm which is easier to identify on the left than the right.  In wakefulness, there is an intermittent paroxysmal nature to the record and the background intermittently attenuates bilaterally.  There is an asymmetry in the record.  There is less muscle artifact on the left than the right, compatible with a history of the right thalamic hemorrhage.  Other asymmetries include a posterior dominant rhythm which can be glimpsed a bit better on the left than the right.  Stimulation produces faster frequency activity.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Intermittent attenuations.
+Subtle asymmetries noted including disruption of faster frequency activity on the right and a decrease in muscle on the left.
+CLINICAL CORRELATION:
+
+
+

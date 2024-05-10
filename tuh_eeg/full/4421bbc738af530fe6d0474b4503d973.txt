@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 24-year-old right-handed gentleman with a  blackout spell at age 17, no other episodes with loss of consciousness or seizures.  Previous EEG 3 to 4 years ago, but results N/A.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is appropriately organized with a 10.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements with vertex waves and spindles noted in stage II sleep.
+Hyperventilation and then transition to drowsiness are remarkable for minor abnormalities in this EEG.  Hyperventilation is characterized by bursts of rhythmic, relatively symmetric slowing and then later by slight asymmetry with a bit more slowing on the left.  As the patient transitions to drowsiness, there is intermittent, subtle asymmetry with a bit of slowing on the left relative to the right.
+Photic stimulation is performed while the patient is falling asleep, but a scant driving response was observed at 17 Hz.  Heart rate 60 BPM.
+IMPRESSION:  This is a very mildly abnormal EEG for an adult of this age due to:  A small degree of asynchrony both in hyperventilation and early drowsiness, and subtle slowing from the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  These findings may be correlated with  clinical history and imaging.  In any event, they are relatively subtle findings.
+
+
+

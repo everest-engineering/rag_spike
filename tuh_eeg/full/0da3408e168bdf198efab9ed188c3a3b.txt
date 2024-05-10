@@ -1,0 +1,12 @@
+History:	57 YR OLD FEMALE PRESENTS ON 4/6/14 WITH H/O FOUND DOWN UNRESPONSIVE/ ALTERED MENTAL STATUS, LAST SEEN APPROX 6PM BY FAMILY, FAMILY DID NOT CHECK PT UNTIL 8:30 FAMILY THOUGHT ? DRUG USE BY PT/BROUGHT IN STROKE ALERT CLLD AT 8:57PM.
+Medications:	PROTONIX
+Sedation:	None
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description: No posterior dominant rhythm is present.  There is no electrocerebral activity over 2uV during the recording.  This EEG was performed according to the guidelines of the American Clinical Neurophysiology Society for the determination of electrocerebral inactivity.  No normal sleep architecture was present. There is no spontaneous state change during the recording and no change with visual, auditory, or tactile stimuli.  All electrodes were checked for integrity.
+HR was 90.
+Summary of Findings: Electrocerebral inactivity
+Interpretation: This is an ABNORMAL EEG because this is an isoelectric EEG performed according the the ACNS guidelines for the determination of electrocerebral inactivity.  This EEG is consistent with, but not diagnostic of, cerebral death.
+
+
+

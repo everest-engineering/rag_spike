@@ -1,0 +1,29 @@
+History:	83 YR OLD MALE PRESENTS WITH H/O CAD S/P CABG, COPD, HTN, HLD, PAD,
+S/P CAROTID BYPASS PRESENTING S/P PEA ARREST ON 3/20/14 X 30 MIN.
+Medications:	Versed, Depakote
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta activity with absence of the expected anterior to posterior gradient of frequencies.  No
+normal sleep architecture was present.
+No focal slowing is present.  In the occipital region (O1>O2) there are periodic lateralized
+epileptiform discharges at 2-3Hz and a low amplitude of 10-20uV.  They do not appear to clearly
+evolve.  The patient also has intermittent sudden truncal jerks clinically that have no EEG correlate,
+consistent with myoclonus.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+PLEDs (periodic lateralized epileptiform discharges), continuous, bilateral (L>R) occipital
+Diffuse slowing, polymorphic, continuous, severe diffuse
+Other, frequent, Myoclonus with no EEG correlate
+Interpretation:
+This is an ABNORMAL EEG because of  continuous periodic lateralized epileptiform discharges
+(PLEDs) in the occipital region.  These findings are indicative of a highly potentially epileptogenic
+acute focal destructive lesion in the region.  The patient also appears to exhibit independent
+frequent clinical myoclonus with no EEG correlate.  Lastly, there is  severe diffuse background
+slowing and absence alpha rhythm.  These findings are etiologically nonspecific indicators of
+moderate diffuse cerebral dysfunction. No electrographic seizures are present.
+

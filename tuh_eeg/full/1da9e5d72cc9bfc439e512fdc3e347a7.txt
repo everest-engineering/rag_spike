@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 21-year-old woman with epilepsy since age 17, recent MVA.  Seizures previously described as tonic-clonic seizures.
+MEDICATIONS:  Keppra, Pentasa, methotrexate, Celexa, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Impedances were acceptable, although T1 and T2 electrodes slightly greater than 5 kohms.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a low voltage, 11 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  In the initial sections of the record there is frequent eye blink, but there is also a subtle area of sharply contoured slowing in the right mid temporal region at T2 and T4.  Hyperventilation is performed slightly after this finding is noted and produces an increase in amplitude, an increase in beta and does not clearly accentuate this finding which is noted again as the patient becomes drowsy with slow rolling eye movements.  This subtle lower voltage focal slowing in the right mid to posterior temporal region has almost a periodicity and when there is some overlying alpha frequency activity there is appearance of a low voltage sharp but without an after going slow wave.  It persisted into drowsiness with an increase in beta but deeper stages of sleep were not achieved.
+The patient was relatively drowsy during photic stimulation which did elicit a driving response.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to right mid to posterior temporal focal slowing at times sharply contoured with a frequency of approximately 4 Hz.
+CLINICAL CORRELATION:  These findings are very similar to the previous study 05/13/2013.  There is a slight periodicity of the focal slowing.  These findings contrast to previous EEGs in childhood which are reported to have demonstrated generalized spike and wave activity.  But these findings were similar on the previous study and therefore are not likely to have been associated with the car accident and concussion.
+
+
+

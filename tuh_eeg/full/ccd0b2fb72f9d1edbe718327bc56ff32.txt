@@ -1,0 +1,31 @@
+History:	58 year old woman with a history of seizures without loss of consciousness.
+Medications:	Lamictal, Flexeril and others
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+Occasional shifting polymorphic theta and delta activity is present in the bitemporal regions (R>L)
+during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  Occasional 50-75uV, 100 msec positive
+sharp transients occur bilaterally over the occipital regions of the head during saccadic eye
+Summary of Findings:
+Lambda waves, occasional
+No stage 2 sleep
+Focal slowing, polymorphic, occasional, bilateral (R>L) temporal, shifting mild focal bitemporal
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute EEG because of mild occasional shifting focal
+slowing in the bitemporal region, right>left.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific, but possibly structural in origin.  No epileptiform discharges were
+present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep
+recording may provide additional information.
+
+
+
+

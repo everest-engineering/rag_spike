@@ -1,0 +1,30 @@
+History:	71 year old woman admitted with left sided SAH status post coiling, who remains
+confused and aphasic.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  During
+wakefulness, the background over the right hemisphere is sharply contoured consists of moderate
+amplitude 10 Hz alpha activity, excess theta and beta activity and underriding delta activity.  AP
+gradient is unstable over the right.  There is no PDR or AP gradient over the left.  The background
+over the left is a mixture of polymorphic theta and delta activity.  Delta activity is more pronounced
+over the left temporal region.  Overall, EEG demonstrates diffuse underriding delta activity that is
+at times semirhythmic.  Patient cycles rapidly between wakefulness and sleep.  Sleep architecture
+consisting of sleep spindles is captured.  Sleep spindles are better formed over the right.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, left hemispheric, moderate-to-severe, especially over the
+Interpretation:
+This is an ABNORMAL awake and asleep EEG due to mild diffuse slowing and focal moderate-to-
+severe left hemispheric slowing that is especially pronounced over the left temporal region. Diffuse
+slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+Continuous focal slowing is indicative of a focal structural lesion in this region and in the patient
+with SAH could indicate vasospasm in the left temporal region.  Diffuse underriding delta activity
+suggests increased ICP.  Please correlate clinically.
+
+
+

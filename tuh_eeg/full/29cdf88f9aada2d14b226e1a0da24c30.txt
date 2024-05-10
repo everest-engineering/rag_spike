@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 41 year old right handed gentleman with posttraumatic epilepsy, now seizure-free.
+MEDICATIONS: Keppra.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is well organized. There is an 11 Hz alpha rhythm on the right, sometimes disrupted on the left. There is some subtle theta from the left hemisphere, including frontocentral and frontotemporal region. Hyperventilation does accentuate this focal theta. Photic stimulation elicits subtle, bilateral driving.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Subtle focal slowing from the left hemisphere with left frontocentral theta.
+2. Rare alpha asymmetry.
+CLINICAL CORRELATION: No epileptiform features were seen in this EEG, nor were they seen in the first EEG. If epilepsy is an important consideration a follow up study capturing deeper stages of sleep is suggested.
+
+
+

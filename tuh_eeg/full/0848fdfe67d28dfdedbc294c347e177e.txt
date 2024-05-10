@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 65 year old male status post code for about 15 to 30 minutes, now with visual twitching and myoclonus jerks.
+
+MEDICATIONS: Aspirin, Plavix, Lipitor, potassium, Midazolam, Demerol, Fentanyl, Nitroglycerin
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG was performed. The patient is intubated, comatose, and on warming blanket.
+
+DESCRIPTION OF THE RECORD: This EEG is markedly abnormal. The overall pattern is low voltage and suppressed with muscle artifact. Brief bursts of generalized theta, more prominent in the right central region, are followed by high amplitude spike and wave activities. Clinically this is associated with myoclonic jerking of the entire body. Stimulation of the patient does not seem to impact the background. The burst of myoclonic activities seems once or twice per second.
+
+HR: 72 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Brief burst of theta.
+2. A burst suppression pattern.
+3. A burst of theta followed by myoclonic jerking.
+
+CLINICAL CORRELATION: This EEG supports an epileptic myoclonus. This is a worrisome pattern followed after cardiac arrest.
+
+
+
+

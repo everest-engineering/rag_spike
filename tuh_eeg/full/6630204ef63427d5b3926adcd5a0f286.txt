@@ -1,0 +1,16 @@
+LENGTH OF RECORDING:  21-minutes.
+CLINICAL HISTORY:  The patient is a 53-year-old woman who had an episode of loss of consciousness with associated generalized shaking and subsequent urinary incontinence.  The episode occurred on December 27, 2012 while the patient was in the shower.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Both hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated 10-10.5 Hz alpha activity which attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Excess diffuse beta is captured.  During brief drowsiness background attenuates, but no stage 2 sleep is captured.
+Hyperventilation is performed with good effort and produces no significant change in the background.
+Step photic stimulation results in symmetrical occipital driving at multiple flash frequencies.
+A regular heart rate is noted on a single EKG lead.
+FINDINGS:
+No stage 2 sleep.
+No epileptiform discharges.
+Excess beta
+IMPRESSION:  This is a normal awake and briefly drowsy 21-minute EEG.  No epileptiform discharges were recorded, however, stage II sleep was not captured.  If clinical indication for seizures persist, a repeat study with sleep may be of benefit. Excess beta could be secondary to medication effect, such as benzodiazepines or barbiturates.
+
+
+

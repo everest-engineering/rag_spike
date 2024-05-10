@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  54 year old right handed woman with epilepsy since childhood diagnosed as an adult, now free of auras.
+MEDICATIONS:  Zonegran, Topamax
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were  performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized. There is a 9 hertz alpha rhythm. In relaxed wakefulness, there is intermittent sharply contoured slowing from the right or left temporal region. There is some irregular, arrhythmic delta activity disrupting the faster frequency. Independent sharp waves are observed primarily from the right mid to anterior temporal region, but occasionally from the left. In wakefulness, lambda is noted. Hyperventilation seems to accentuate the irregular temporal slowing. Features of drowsiness include an increase in background beta. Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent right or left focal slowing with arrhythmic delta activity.
+Right greater than left temporal sharp waves.
+CLINICAL CORRELATION:  This EEG is similar to previous studies. Both the focal slowing and the epileptiform activity is identified independently from each temporal region.
+
+
+

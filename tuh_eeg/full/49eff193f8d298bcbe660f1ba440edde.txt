@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Prozac, Elavil, Xanax, Percocet, others.
+CLINICAL HISTORY:  A 3-4 year history of seizures, associated hypoglycemia, anxiety and panic.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was very nervous during the EEG.  Hyperventilation and photic stimulation were performed.  This is an awake record.  It is technically acceptable.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.   Hyperventilation and photic stimulation do not activate the record.  Deeper stages of sleep were not achieved.  Heart rate 96 bpm.
+IMPRESSION:  Normal EEG clinical correlation.  This is the 3rd normal EEG.  If this patient is thought to have epilepsy with frequent spells, a more prolonged recording strategy may be considered.
+
+
+

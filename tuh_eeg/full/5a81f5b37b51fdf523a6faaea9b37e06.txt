@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 69-year-old woman with coronary artery disease, abdominal aortic aneurysm and significant left carotid stenosis, no noted prior stroke but right vertebrobasilar pathology.
+MEDICATIONS:  Vecuronium, fentanyl propofol, sevoflurane, Ancef, Remifentanil, aspirin, Norvasc, metoprolol, and isosorbide.
+INTRODUCTION:  Digital EEG was performed in the OR using standard 10-20 system of electrode placement with 1 channel of EKG.  This CEA montage was utilized.  Recording began at 12:42 and concluded at 3:51 for a 3-hour EEG.
+DESCRIPTION OF THE RECORD:  As the tracing began, the patient had received anesthetic medications.  Initially, there was a fair amount of ICU artifact.  The overall baseline was symmetric, although there were some shifting asymmetries and a slight bit of attenuation noted on the right.  When anesthetic medications were adjusted, the overall background with attenuate intermittently, but at times this was a bit more prominent on the right.
+The clamp was placed over the carotid at 2:24.  The EEG was continuous at that time.  During the procedure, anesthetic medications were adjusted when the patient's blood pressure increased and this produced an increase in discontinuity of the record, but no major focal features.  The total clamp time 1 hour 17 minutes.  Towards the end of the clamp time, anesthetic medications were adjusted at 3:24 producing a burst suppression pattern.  The technologist queried the anesthesiologist to the change in anesthetic medications to the technologist and medicines were adjusted.  The clamp was removed at 3:42, at which point the EEG was discontinuous.  As anesthetic medications were reduced, the EEG became more continuous.  Electrode artifact was noted towards the end of the record.
+Heart rate 90 bpm.
+IMPRESSION AND CLINICAL CORRELATION:  EEG monitoring during this left carotid endarterectomy was remarkable for a discontinuous pattern  after anesthetic medications were adjusted, but no significant focal features with placement of the clamp.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 59-year-old male with left-sided weakness, palpitations, history of alcohol withdrawal, MI, and stroke.
+MEDICATIONS:  Albuterol, Ventolin, Remeron, lithium, metoprolol, temazepam, Zocor, sertraline, others, Thorazine.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was very drowsy throughout the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz posterior dominant rhythm, which is relatively low voltage.  Drowsiness is characterized by attenuation of the alpha rhythm with lower voltage theta.  In the transition to drowsiness, there is a subtle asymmetry with a bit more slowing in the right posterior quadrant relative to the left and stage 2 sleep symmetric spindles were noted.
+Photic stimulation elicited a slightly asymmetric driving response, at some frequencies, it was somewhat more blunted on the right relative to the left.
+Heart rate 60 bpm.
+IMPRESSION:  This is a low voltage, but mildly abnormal EEG due to:
+Subtle focal slowing in the right posterior quadrant.
+CLINICAL CORRELATION:  No epileptiform features were noted.  If epilepsy is an important consideration, a followup study may be of use.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 32-year-old right-handed construction worker without past epilepsy risk factors.  Patient was in the emergency room February 28 after seizure, positive tox screen for benzodiazepines, and use of tramadol.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed. This was an awake and a sleep record in an individual who seemed to be a bit anxious and had involuntary jerking during sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta activity.  There is a small amount of disorganization and a small amount of theta.  Temporal wicket was noted.
+As the patient drifts off to sleep, occasional twitching was noted typically of his head but sometimes of his leg.  The involuntary jerking disappears when the patient sustains stage I sleep with vertex waves and posts.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation did not elicit a driving response but the patient seemed to be falling asleep during photic stimulation.  Heart rate 72 beats per minute.
+IMPRESSION:  This is a slightly abnormal electroencephalogram for an adult of this age due to:
+Slight background disorganization.
+Excess theta.
+CLINICAL CORRELATION:  No epileptiform features were seen. The background disorganization is a nonspecific finding.  It may be related to medications.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep is suggested.  In that there is a question of benzodiazepine withdrawal, additional monitoring may be helpful for the tics and twitches which did not have a definitive EEG signature.
+
+
+

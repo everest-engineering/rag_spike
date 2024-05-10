@@ -1,0 +1,24 @@
+History:	73 year old woman with a reported seizure.
+Medications:	Famotidine, Lovenox, Colace, Solu-Medrol, Gabapentin,Miralax, Insulin, Mucomyst
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and ekg
+electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm reaches 7.5 Hz maximally.  The anterior to posterior frequency-
+amplitude gradient is weak.  Background activity is predominantly irregular 7-.57Hz activity with
+occasional intrusions of polymorphic delta activity.  During brief drowsiness, the degree of diffuse
+theta activity increases.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy EEG because of mild diffuse slowing.  This finding
+indicates mild diffuse cerebral dysfunction that is etiologically non-specific.  No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.
+
+
+

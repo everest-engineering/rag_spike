@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 65 year old right handed male admitted with facial numbness, tingling, aphasia, intracranial stenosis and question intracerebral hemorrhage or subarachnoid hemorrhage.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: The patient transitions between wakefulness and sleep, but even when the patient seems to be awake, he is poorly responsive to the technologist. In wakefulness, there are occasional bursts of frontal delta. In addition, there are rare sharp waves identified from the left anterior temporal region. The patient transitions rapidly into stage II sleep. Photic stimulation did not activate the record.
+
+HR: 50-70 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Occasional bursts of frontal delta.
+2. Rare discrete left temporal sharp waves.
+CLINICAL CORRELATION: These findings are nonspecific. The frontal delta can be seen in a toxic or metabolic encephalopathy although it is not necessarily particularly characteristic of an acute stroke. The sharp waves are quite simple in their morphology.
+
+
+

@@ -1,0 +1,26 @@
+History:	70 YR OLD MALE PRESENTS WITH H/O LT ARM/LEG WEAKNESS X 2 DAYS.
+ISCHEMIC STROKE W/O THROMBOLYSIS. PMHX SIG FOR HTN, HLD, PE, RT
+CEA 7/2009, TIA, MI AND A-FIB.
+Medications:	HEPARIN, KEPPRA, METOPROLOL, ASPIRIN, PROTONIX, ZOCOR
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 9-10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Nearly continuous rhythmic delta activity is present in the right anterior temporal region (F8/T4).
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  There was continuous 60Hz artifact in
+the EEG. Notch filter was used.  HR 72. Some PVCs were noted.
+Summary of Findings:
+Focal slowing, polymorphic, nearly continuous, right temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in
+The right anterior temporal region.  This finding is indicative of severe focal cerebral dysfunction in
+this region, likely structural in origin.
+
+

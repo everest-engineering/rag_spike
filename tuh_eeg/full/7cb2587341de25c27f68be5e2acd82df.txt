@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 24-year-old male status post MVA September 18th, pulseless, CPR and epinephrine.  The patient has occipital and brainstem injuries and is in a halo.
+MEDICATIONS: Not provided.
+INTRODUCTION:  Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1channel of EKG. Electrode placement is modified in the right occipital region.
+DESCRIPTION OF RECORD: The background EEG demonstrates a continuous pattern with a mixture of delta, theta and even scant alpha frequency activity. Slow eye movement artifacts were noted. Although there are some artifacts noted in the background, this EEG does demonstrate some variability with some variability in the amount of alpha and theta frequency activity, Sleep wake cycles were not obtained.
+Heart rate: 104 bpm.
+IMPRESSION: This is an abnormal EEG due to marked background slowing.
+CLINICAL CORRELATION:  No epileptiform features are identified in this record.  The background slowing supports a diffuse disturbance of cerebral function. In comparison to the initial study, the long
+term EEG does identify some faster frequency activity including alpha and theta frequency activity. These findings may be integrated with this patient's clinical history.
+

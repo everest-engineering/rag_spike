@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 58 year old male with hypertension, epilepsy, and syncope.  The patient has had have loss of consciousness in the heat.
+MEDICATIONS:  Hydralazine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  Although the patient is quite drowsy, when he is maximally awake a low-voltage 10 Hz alpha rhythm is noted.  The patient transitions in and out of stage I and stage II sleep.   Hyperventilation does not activate the record.  Photic stimulation elicits scant driving.
+HR:    78 bpm
+IMPRESSION:  Normal but low-voltage EEG.
+CLINICAL CORRELATION:  No epileptiform features were observed.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

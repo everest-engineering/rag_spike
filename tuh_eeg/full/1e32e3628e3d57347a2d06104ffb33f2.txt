@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 46-year-old woman with 2-3 headaches per week, which are so disabling that she cannot get out of bed, evaluate for seizures.
+MEDICATIONS:  Lisinopril, Zanaflex, hydrocodone, Zoloft, Seroquel, Xanax, aspirin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred, but photic stimulation was completed.  The patient was very tense, and there is a great deal of muscle artifact.
+DESCRIPTION OF RECORD:  In maximal wakefulness, the background EEG includes generous beta and theta.  There is a glimpse of a 9 Hz alpha rhythm, but generally speaking, the alpha rhythm is about 6-7 Hz.  Drowsiness is characterized by an increase in beta.
+Photic stimulation is obscured by the patient's muscle artifact.
+Heart rate, 54 bpm.
+IMPRESSION:  Abnormal EEG due to
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  The excess beta and excess theta are nonspecific findings.  They may be attributed to this patient's CNS medications.
+
+
+

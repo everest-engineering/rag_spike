@@ -1,0 +1,35 @@
+AGE: 64 y.o.
+SEX: male
+DATE OF STUDY: 12/07/2015 RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG # :  15-1773
+HISTORY:
+64 y.o. male with a history of seizures and alcohol abuse, referred for routine EEG for a seizure in the setting of a dilantin level of 35.
+MEDICATIONS: Dilantin
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 7.5-8 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+Mild generalized slowing is present.
+There is continuous left hemispheric polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Hyperventilation is not performed.
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 86 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and drowsy	routine EEG due to:
+Mild generalized slowing
+Continuous left hemispheric polymorphic slowing
+CLINICAL CORRELATION:
+These findings indicate the presence of a left hemispheric lesion, likely structural in etiology, superimposed on mild diffuse cerebral dysfunction.
+
+
+

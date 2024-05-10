@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 45 year old right handed woman with one week episode of left sided twitching lasting 15 minutes.  The symptoms start and stop for about 5 minutes.  They occurred over a 3-day period.  In addition, she experiences lightheadedness, no history of seizures, but a history of head and neck injuries.
+MEDICATIONS:  Ativan.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 40 mV, 10.5 Hz alpha rhythm and a small amount of low voltage, frontal central beta activity. Drowsiness is characterized by an increase in theta, followed by beta.  Vertex waves and spindles are noted in stage II sleep. The patient has persistent eye movements in sleep. Photic stimulation elicits both a driving response and lambda.
+HR:    96 bpm
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  No epileptiform features are observed.  A normal EEG does not exclude a diagnosis of epilepsy.  Persistent eye movements are sleep is not
+indicative of any neurologic pathology and has historically been reported in the context of depression and/or use of medications for psychiatric syndromes.
+
+
+

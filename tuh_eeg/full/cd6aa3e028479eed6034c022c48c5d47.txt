@@ -1,0 +1,33 @@
+History:	26 year old right-handed woman with staring spells where she is aware but cannot
+talk back. She has 2-3 episodes a day. She sometimes has associated incontinence
+and tongue biting.
+Medications:	None
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also
+seen.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During
+stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  HR was 84.  At the outset of the study, the patient became unresponsive and
+exhibited some infrequent head movements, and eye blinking seen on video. Despite questioning,
+she remained unresponsive.  The background EEG did not exhibit changes in cerebral activity.
+Over the course of the study, she became more alert and was able to participate in the
+hyperventilation.  This clinical event likely represented a non-epileptic event.
+Summary of Findings:
+No epileptiform discharges
+Alpha rhythm, normal
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. The single episode of unresponsiveness was
+not associated with changes in cerebral activity and thus represented a non-epileptic event.
+However, the full event was not captured and thus a repeat or more prolonged study may be
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 79-year-old male with past history of cryptococcal meningitis, pancytopenia, now with intermittent episodes of rigidity.
+MEDICATIONS:  Keppra, multiple antibiotics, meropenem.  The patient received 16 mg of morphine and 2 mg of Ativan the day prior to the EEG.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was contractured in an unusual position and poorly responsive.  There was significant muscle artifact noted in the background.
+DESCRIPTION OF THE RECORD:  In the sections of the EEG without significant muscle, the background is diffusely slow with a mixture of rhythmic 2-4.5 Hz activity.  Stimulation of the patient does not activate the record, but does produce an increase in muscle artifact.  There is some variability of the record with some sections demonstrating a bit more slow featureless delta.
+Heart rate:  162 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  Marked background slowing.
+CLINICAL CORRELATION:  This is a technically challenging record, but no focal or epileptiform features were noted.  Additional EEG recording was initiated in an attempt to capture one of these patient's motor behaviors.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 51-year-old woman with 2-4 complex partial seizures per month, usually complex partial with loss of consciousness, patient may run.
+MEDICATIONS:  Keppra, zonisamide, others.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  The patient was noted to be asleep throughout much of the day and sleep during the night was relatively disrupted.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm with abundant lambda.  In wakefulness, there are intermittent asymmetries and occasional attenuation of faster frequency activity in the right or left temporal region.
+In this 24-hour recording, there are exceptionally rare sharp waves noted, independently right or left anterior temporal, typically seen in drowsiness.
+Heart rate 66 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Intermittent, subtle attenuations in the right or left temporal region.
+Exceptionally rare sharp waves noted at T2/F8 or T1.
+CLINICAL CORRELATION:  EEG monitoring will continue in hopes of capturing this patient's seizures.
+
+
+

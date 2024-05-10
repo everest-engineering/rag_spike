@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 39-year-old male with history of hypertension and diabetes who presents with episode of loss of consciousness in the setting of respiratory distress on 03/08/2013.
+MEDICATIONS:  Norvasc, atenolol, insulin, Tylenol, and others.
+INTRODUCTION:  Digital video EEG was performed using a standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 9.5-10 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is low amplitude diffuse beta activity, which is distributed symmetrically.  Drowsiness is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact.  Hyperventilation results in no change in background activity.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate was 70 beats per minute.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through drowsiness.  No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are clinical concern, a repeat EEG capturing at deeper stages of sleep or a 24-hour ambulatory EEG may be helpful.  The generalized beta activity could be due to medication effect including benzodiazepine or barbiturate or could be due to anxiety or hyperthyroidism.  Clinical correlation is recommended.
+
+
+

@@ -1,0 +1,7 @@
+CLINICAL HISTORY:  	20 year old female with migraine headaches.
+MEDICATIONS:  Propofol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 10.5 Hz posterior dominant rhythm with posterior slow waves of youth.  Drowsiness is characterized by an increase in background slowing and a small degree of disorganization.  Hyperventilation produces an increase in amplitude. Photic stimulation elicits bilateral driving.
+HR:	78 bpm
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION:   No focal nor epileptiform features are observed.   Normal EEG does not exclude a diagnosis of epilepsy.

@@ -1,0 +1,50 @@
+History:	56 year old woman who presents with focal status epilepticus.  Patient has a history
+of stroke, focal seizures and HIV.
+Medications:	Depakote, Ativan
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~18 hours from 1/15/2015 till 1/16/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.   The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 7 Hz PDR posteriorly but poor AP gradient with delta activity
+anteriorly and excess polymorphic theta.  The background over the left consists of a mixture of
+polymorphic theta and delta activity, predominantly delta activity anteriorly and continuous
+anterior temporal periodic epileptiform discharges that occur with a regular repetition rate of ~1-1.5
+Hz.  Many of the discharges are accompanied by low amplitude fast activity (PEDs-plus).  Maximal
+scalp negativity occurs over T3/F7 and F3/C3 leads.  Sleep spindles are captured.
+There are occasional seizures that last ~20 seconds to >2 minutes.  Seizures are characterized by
+disappearance of PEDs and appearance of fast activity over the left frontal leads and rhythmic 4-5
+Hz activity over the left temporal/ central leads.  This activity gradually evolves into rhythmic ~3 Hz
+left hemispheric delta activity.  This rhythmic delta activity reflects over the right anterior region.
+Seizure examples at 4:25:40 pm and 2:47:30 pm.  During prolonged events patient appears to
+have arrest of speech and inability to follow any commands.  However, patient is not tested formally
+during any of her seizures.
+Summary of Findings:
+Seizure, occasional, left frontotemporal, 20 sec to >2 min
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Diffuse slowing, polymorphic, mild
+PEDs (periodic epileptiform discharges), continuous, severe, left, anterior temporal/ frontocentral
+Interpretation:
+This is an ABNORMAL continuous video 18 hours EEG due to (1) mild diffuse slowing; (2)
+continuous left hemispheric slowing that is most pronounced over the anterior region; (3)
+continuous left anterior temporal/ frontocentral epileptiform discharges (PEDs and PEDs-plus) and
+(4) occasional left hemispheric seizures that are frontotemporal in onset.  Diffuse slowing is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous left
+hemispheric focal slowing, continuous left anterior-temporal/ frontocentral PEDs and occasional left
+hemispheric seizures are indicative of an epileptogenic focal structural lesion on the left.
+
+
+
+
+
+

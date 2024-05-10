@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 79-year-old woman with slurred speech, stroke, evaluate for subclinical seizures.
+MEDICATIONS:  Keppra and propofol drip.
+INTRODUCTION:  Digital video EEG is performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  Overall, EEG demonstrates a low-to-medium amplitude pattern.  The activity at the beginning is subtly discontinuous.  There is also an asymmetry with a little bit more higher amplitude and sharply contoured activity in the left hemisphere particularly frontal temporal region.
+Tactile stimulation of the patient produces an increase in muscle, a handful of sharply contoured bursts of slowing from the left, and tachycardia 106 BPM.  As the stimulation wears off, the patient transitions to a pattern, which is a little bit more vigorous on continuous with more beta and theta as well as bursts of sharply contoured slowing noted primarily from the left hemisphere and primarily left mid to anterior temporal region.  As the patient drifts off into an unstimulated state, the EEG transitions again to more of a intermittently discontinuous pattern with intermittent suppressions and some sharply contoured slowing in the left frontal central region as well as rare left anterior temporal sharp waves.  There are a handful of suspicious underlying right frontal sharp waves noted as well.
+Heart rate maximum 108 BPM.
+IMPRESSION:  This EEG is remarkable:
+Markedly abnormal background.
+Intermittent burst suppression.
+Asymmetry with a more suppressed pattern on the right, and more sharply contoured activity on the left.
+Occasional sharp waves in the left hemisphere, which range from more discreet left frontal sharp waves to more broadly contoured T3 maximum sharp waves.
+CLINICAL CORRELATION:  This EEG supports a severe, bi-hemispheric disturbance of cerebral function.  No clinical seizures were noted.  The epileptiform activity was seen primarily on the left, and this may be correlated with imaging, the long-term EEG monitoring, will follow this study to exclude subclinical seizures.
+
+
+

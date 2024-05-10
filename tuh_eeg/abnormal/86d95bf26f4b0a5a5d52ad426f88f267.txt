@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 59-year-old woman with a fainting spell July 2012.  She had an aura of dizziness and then loss of consciousness.  She has had 3 episodes and sometimes can sit herself before loss of consciousness.  Hypertension and asthma.
+MEDICATIONS:  Antihypertensives.
+INTRODUCTION:  Digital video EEG is performed as an outpatient using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a symmetric reactive alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Brief drowsiness is characterized by anterior spread of the alpha rhythm and slow rolling eye movements.
+Hyperventilation produces a small amount of head rocking artifact but no focal features.  Photic stimulation elicits supra-harmonic driving.  Heart rate 72 BPM.
+IMPRESSION:  Normal electroencephalogram.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Supra-harmonic driving is a normal finding.
+
+
+

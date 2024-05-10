@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 86 year old male status post stroke with increasing weakness, right greater than left, for 3 days with loss of consciousness and encephalopathy.
+MEDICATIONS: Lasix, Advair, Vicodin, Spiriva, Furosemide, Diovan, Lipitor, Lopressor, Tamsulosin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is no hyperventilation or photic simulation.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern with a 7.5 Hz alpha rhythm intermittently interrupted by bursts of rhythmic frontal delta. The alpha rhythm is somewhat asymmetric and is a bit disrupted on the right compared to the left.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Slowing of the alpha rhythm.
+3. FIRDA.
+4. Some asymmetries including disruption of the alpha on the right.
+CLINICAL CORRELATION: These findings are nonspecific and can be seen in the context of ischemic cerebrovascular disease, dementia, toxic or metabolic encephalopathy as well as a combination of all of the above.
+
+
+

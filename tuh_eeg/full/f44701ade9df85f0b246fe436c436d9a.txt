@@ -1,0 +1,38 @@
+History:	89 year old man who remains altered after an episode of bradycardia and loss of
+consciousness s/p cardiac arrest.
+Medications:	Mucomyst/ Albuterol, Insulin, Aztreonam
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 20 hours from01/08/2014 to 01/09/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low-to-
+moderate voltage polymorphic delta and theta activity with absence of the expected anterior to
+posterior gradient of frequencies.  Over time the background becomes more severely attenuated to
+almost completely suppressed between triphasic discharges.  Diffuse, frontally maximal sharp waves
+with triphasic morphology at 1Hz are present throughout the recording.  These waveforms
+demonstrate an anterior to posterior phase lag and become more prominent with stimulation.  No
+normal sleep architecture is present.
+Paucity of faster frequencies and lower voltages are noted diffusely.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  An irregular heart rate is noted on a
+single EKG lead.
+Summary of Findings:
+Attenuation
+Triphasic waves
+Interpretation:
+This is an ABNORMAL 21-minute EEG because of sever diffuse background slowing and
+attenuation with continuous triphasic waveforms.  These findings are indicative of a moderate to
+severe diffuse encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic
+origin.  Triphasics waveforms are also seen in various types of encephalopathy.  No electrographic
+seizures are present.  An irregular heart rate is noted on a single EKG lead.
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 31-year-old male admitted on November 7, 2012 following a seizure, alcohol abuse.  The patient subsequently had an aspiration with metabolic acidosis, intubated, and admitted to the ICU.  He was treated with Ativan drip and Fentanyl drip.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The technologist noted that the patient had many burns over his body and it was very difficult to achieve adequate impedance.  This is a bedside critical care recording for an intubated patient.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage with diffuse beta.  The patient was poorly responsive and with tactile stimulation the tech noted that it was difficult to tell if the patient was responding behaviorally.  The overall pattern is one of low voltage beta with smaller amounts of delta.  Spindles were observed.  Tactile stimulation of the patient did not produce a significant change in the EEG.
+Heart rate:  132 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with beta frequency activity.
+Underlying delta.
+CLINICAL CORRELATION:  The beta described above is an anticipated finding with the utilization of an Ativan drip.  No focal or epileptiform features.  If there are additional concerns about seizures, a follow up study when the patient is out of the ICU maybe of value.
+
+
+

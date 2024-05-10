@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 66 year old female found unresponsive.
+INTRODUCTION: Digital video EEG was at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive. Hyperventilation and photic simulation were performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern with slow, arrhythmic delta activity superimposed with other sections of the record with more beta frequency activity. Stimulation of the patient is associated with an increase in theta.
+HR: 60 to 80 bpm, irregular.
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowly.
+
+CLINICAL CORRELATION: No epileptiform features are identified. If epilepsy is an important consideration, a repeat tracing may be appropriate. In addition, it is important to note the patient's medications as could play a role in the beta described above.
+
+
+

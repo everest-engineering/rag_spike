@@ -1,0 +1,27 @@
+History:	61 year old man who reportedly suffered a head trauma ~ 3 months ago.  He
+subsequently had a seizure.  He also has a history of alcohol abuse.
+Medications:	Keppra, Lexapro and others
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by low amplitude 10-10.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Patient remains awake throughout the recording.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 27-minute EEG, awake-only.  No epileptiform discharges were present, but stage
+2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.
+
+
+
+
+

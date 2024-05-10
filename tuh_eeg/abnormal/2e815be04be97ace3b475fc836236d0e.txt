@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 34-year-old male with history of bipolar disease, head and neck trauma, MVA one year ago.  The patient recalls the use of Percocet, followed by abrupt cessation and ingestion of 2 muscle relaxing medications, followed by a seizure.  Date of seizure not clear.
+MEDICATIONS:  Elavil, benztropine, Abilify.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  There was a great deal of muscle artifact in wakefulness and the patient complained of being cold.  Hyperventilation and photic stimulation were completed.  This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD:  The awake record is limited by muscle and motor activity.  There is low voltage underlying 11 Hz alpha rhythm with a generous amount of beta.  Abundant stage II with vertex waves, K-complexes, spindles, and POSTS was recorded.
+Hyperventilation produces an increase in amplitude and again a lot more shivering.
+Photic stimulation was performed as the patient was awakening from stage II sleep, but did elicit a bilateral driving response.
+Heart rate:  66 BPM.
+IMPRESSION:  This EEG is within normal limits in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The generous beta and muscle artifact may be related to the patient's shivering.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  23 year old right handed man with childhood epilepsy, began at age 2, remitted at age 14.  The patient discontinued medications 2 years ago.  Past history of sickle cell trait, tibial fracture and anger management issues.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Drowsiness is characterized by attenuation of the alpha rhythm with vertex waves and stage 1 sleep.  Vertex waves, K complexes, and spindles are noted.  The patient transitions in and out of stage 2 sleep. The patient is falling asleep in both hyperventilation and photic stimulation.  No driving response was noted.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features were observed.  The transitions in and out of stage sleep can be seen in a sleep-deprived patient.
+
+
+

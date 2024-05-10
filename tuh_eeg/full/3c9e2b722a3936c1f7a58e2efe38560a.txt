@@ -1,0 +1,5 @@
+EEG REMARKS: 
+Normal
+See format- options only LTM and montages are incomplete.  How was this recorded and why doesn’t it have all the usual options in review mode?
+
+

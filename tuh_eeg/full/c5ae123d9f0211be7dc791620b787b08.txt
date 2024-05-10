@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  56 year old male with alcohol abuse, hepatitis C, hypertension, drug abuse. Found poorly unresponsive by spouse on October 31. Alcohol withdrawal seizures,  on Ativan drip for alcohol withdrawal.
+MEDICATIONS:  Lovenox, ASA, Methadone, Lorazepam
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is intubated but easily arousable.
+DESCRIPTION OF THE RECORD:  Some of the record includes a low voltage beta pattern. The patient awakens with eye movement artifact. The pattern is rich in theta, and there is some higher amplitude theta on the right compared to the left. No definitive sharp waves are noted.
+HR: 	66 bpm
+IMPRESSION:  Abnormal EEG due to:
+1.	Excess theta.
+2.	Excess beta.
+3.	The suggestion of an asymmetry with a bit more sharply contoured theta in the right centrotemporal region.
+CLINICAL  CORRELATION:  No epileptiform features were seen.  This EEG supports a diffuse disturbance of cerebral function. If epilepsy is an important consideration a repeat could be helpful to characterize epileptiform activity.
+
+
+

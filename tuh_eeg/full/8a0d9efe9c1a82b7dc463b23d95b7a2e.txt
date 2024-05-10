@@ -1,0 +1,41 @@
+History:	 69 year old woman undergoing left CEA.
+
+INCISION;   5:50PM
+HEPARIN: 5000 UNITS  6:47PM +1000 7:48PM +1000 HEPARIN 8:50PM
+CLAMP:  6:55PM    SHUNT 6:59PM
+RECLAMP 8:47PM
+REMOVE SHUNT:   8:50PM
+UNCLAMP: 8:54PM
+Medications:	VERSED, FENTANYL, ETOMIDATE, ROCURONIUM, SEVOFLURANE, ESMOLOL,
+PHENYLEPHRINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+Patient is sedated as the recording opens.  The background is symmetrical and consists of a mixture
+of polymorphic frequencies (delta, theta, alpha and beta).  Occasionally the background becomes
+discontinuous or frankly burst-suppressed.  These changes are related to adjustments in anesthesia.
+Left internal carotid artery is clamped at 6:55 pm and left common carotid artery is clamped ~ 25-
+30 seconds later.  Within ~ 15-20 seconds of clamping the left common carotid artery, diffuse
+change is seen.  It is more pronounced over the left.  This change is characterized by voltage
+attenuation as well as abrupt disappearance of fast frequencies.  The attending surgeon is notified
+of these changes immediately and shunt placement takes place.  Simultaneously, there is increase
+in the dose of  sevoflurane and prominent diffuse delta activity appears as a result.  The primary
+team is informed of these changes.  EEG returns to the pre-clamp baseline b ~ 7:06 PM.  Left
+carotid artery is re-clamped at ~ 8:48 PM and EEG changes within ~ 5 seconds.  This change is
+characterized by diffuse (left>right) voltage attenuation and dominance of delta activity.  EEG
+change persists until ~ 8;55 PM when left internal and common carotid arteries are unclamped.
+EEG gradually returns to the pre-clamp baseline.
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL ~4 hour continuous intraoperative EEG due to global (left>right) changes
+that were seen after clamp was applied to the left common and internal carotid arteries. However,
+by the end of the recording, EEG appeared symmetrical and at pre-clamp baseline.  Total time of
+the direct EEG monitoring by the EEG attending: ~ 2 hours.
+
+
+
+
+
+

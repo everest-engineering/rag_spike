@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  78 year old woman with a 2-year history of epilepsy, recurrent syncope, incontinence.  The patient was admitted with intermittent episodes of confusion and was found on the floor in the bathroom.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized with shifting theta and delta from either temporal region.  Particularly from the left this could be somewhat irregular.  There is also an irregular heart rate which produces an artifact in the EEG.  Drowsiness and sleep are not sustained.  Photic stimulation elicits scant driving.
+HR:     90 bpm and irregular
+IMPRESSION:  Mildly abnormal EEG due to:
+Small amount of background theta.
+Shifting arrhythmic delta.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function which is nonspecific in an adult of this age.  No epileptiform features were observed.
+
+
+

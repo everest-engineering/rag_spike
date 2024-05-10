@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 53-year-old male, admitted March 1, 2015 to the hospital after found down, unresponsive.  The patient was treated with sedative hypnotic drip and shortly after the drip was withdrawn, had a change in mental status, possible seizure.
+MEDICATIONS:  Ativan, aspirin, metoprolol, and antibiotics.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated, poorly responsive, but tactile stimulation was performed.
+DESCRIPTION OF THE RECORD:  Background EEG demonstrates a continuous pattern of medium amplitude mixed frequency activity, primarily beta with smaller amounts of delta and smaller amounts of theta frequency activity.  Noxious stimulation produces an increase in theta.  Minor shifting asymmetries were identified.
+Heart rate:  96 bpm.
+IMPRESSION:  Abnormal EEG due to
+Generalized background slowing.
+Excess beta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  Previous EEGs were not available comparison.  The EEG is most compatible with pharmacologic sedation.
+
+
+
+
+

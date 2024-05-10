@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  Epilepsy since age 7 admitted with 3 seizures on 01/18/2013 with generalized shaking and/or right sided shaking lasting 1-2 minutes.
+MEDICATIONS:  Tegretol, phenobarbital, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside at 9:54 a.m. using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was somnolent and not entirely cooperative.
+DESCRIPTION OF THE RECORD:  The EEG transitions between stage 2 sleep with vertex waves and K-complexes, as well as a drowsy pattern.  In drowsiness there is an increase in alpha frequency activity.  In this bedside recording in this patient who persists on lying on his left side, there is some artifacts in the posterior scalp region.  The technologist attempts to obtain the patient's cooperation with little success.  Arousals produce eye opening.  The patient then drifts off to sleep.  On one or 2 occasions there is a suggestion of an 8 Hz alpha rhythm before he drifts off to sleep.  POSTS were noted in sleep.
+Heart rate:  84.
+IMPRESSION:  This is a technically challenging bedside EEG, but it is within normal limits, primarily in sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Subtle focal features could be overlooked given the patient's positioning.  The hypersomnolence is an anticipated finding after seizures and a repeat study when the patient is able to come to the lab may be helpful in characterizing epileptiform activity.
+
+
+

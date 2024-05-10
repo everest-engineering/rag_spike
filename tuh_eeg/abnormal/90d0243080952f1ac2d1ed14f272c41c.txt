@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  31 year old right handed male with congenital spinal stenosis, newly diagnosed epilepsy, fibromyalgia, chronic pain, and urinary frequency, now with intermittent spells of spacing out.
+MEDICATIONS:  Elavil, Flexeril, Keppra, Lamictal, Nexium
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a shunt in the right occipital area.
+DESCRIPTION OF THE PROCEDURE:  In wakefulness there is a 10.5 Hz alpha rhythm.  In stage II sleep there are vertex waves, complexes, and spindles.  There are a handful of bursts of shifting slowing in stage II sleep.  Photic stimulation is performed while the patient is transitioning in and out of stage II sleep.  There are rare, slightly asynchronous vertex waves during the photic stimulation in stage II sleep.  The remainder of the vertex waves are symmetric.
+HR:    90 bpm
+IMPRESSION:  Minimally abnormal EEG due to:
+A handful of bursts of asynchronous slowing in stage II sleep.
+CLINICAL CORRELATION:  In contrast to previous EEG there are no left temporal sharp waves noted.  Focal features are also much less prominent in this EEG.
+
+
+

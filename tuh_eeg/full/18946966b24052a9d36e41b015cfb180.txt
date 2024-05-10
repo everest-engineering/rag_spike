@@ -1,0 +1,26 @@
+History:	57 YO MALE W/ PMHX FOCAL PARTIAL EPILEPSY, LEFT S/P TEMPORAL
+LOBE, RESULTS IN RIGHT PARESIS.
+PT GTC SZ 3 MONTHS AGO.
+Medications:	Trileptal, Depakene
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.   5-15uV, 18-25Hz activity is present, over right hemisphere
+maximal over the frontal region.  During drowsiness, the background slows to central theta activity,
+frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes
+Continuous polymorphic delta activity is present in the left hemisphere maximal over the mid
+temporal region during wakefulness.  There is an associated increase amplitude over this region
+consistent with a breach rhythm. At times the delta is sharply contoured.  No epileptiform discharges
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 90, some PVC were noted.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric, maximal mid temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the left
+hemisphere maximal over the mid temporal region.  This finding is consistent with the known
+surgical resection.  No seizures or epileptiform activity were seen.
+
+

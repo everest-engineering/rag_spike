@@ -1,0 +1,11 @@
+HISTORY:  A 47-year-old male with memory loss, and convulsions, worsening over the past year.
+MEDICATIONS:  Seroquel, Klonopin, Lamictal, Prilosec, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel  EKG.  This is a routine, 20 minute outpatient EEG.  Impedances were under 20 kilo ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The background EEG is well organized.  There is a symmetric, 10 Hz alpha rhythm, as well as a small amount of low voltage, frontal central beta.  Hyperventilation was performed early on in the record producing an increase in amplitude of the record.  Eye blink was noted but no significant bursts of frontal delta.  Features of drowsiness include an increase in background theta with slow rolling eye movements.
+Photic stimulation elicited a subtle driving response.
+Heart rate 84 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  A normal EEG does not exclude a diagnosis of epilepsy.  A more prolonged EEG may be valuable to search for epileptiform activity.  The generous beta activity noted as this patient becomes drowsy is a normal finding.
+
+
+

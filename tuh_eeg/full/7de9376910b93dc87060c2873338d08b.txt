@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 51-year-old male of unknown handedness, 18 days status post coil for vertebrobasilar dissection; persistent unresponsiveness.
+MEDICATIONS:  Keppra, gabapentin, morphine, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was relatively somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and demonstrates a dynamic pattern.  The overall picture was one of rhythmic theta and delta.  Some sections of the record demonstrate more slow, relatively rhythmic delta, others a bit more theta.  Intermittent underlying attenuations occur in the record.  There are also shifting asymmetries noted.  Occasional broadly contoured triphasic waves were noted in the frontal regions.
+Intermittent shiver artifact was a challenge in this record, but there are also some posterior, right or left, periodic appearing bursts of delta without evolution.
+The shivering produces some overall artifact in the background.
+Heart rate 96 bpm.  Occasional PVCs.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing with replacement of normal background with a pattern of relatively rhythmic delta and theta.
+Triphasic waves.
+Intermittent attenuations in a somnolent reactive patient.
+Triphasic waves.
+Subtle, occasional bursts of periodic delta in the occipital regions.
+CLINICAL CORRELATION:  No seizures were recorded.  No triphasic waves are hallmarks of a metabolic encephalopathy.  This EEG on the whole is most supportive of a subacute or chronic encephalopathy with intermittent attenuation of the background, otherwise more or less alert patient.  There were no prominent epileptiform features in this record.  If seizures are an important consideration, a more prolonged monitoring session may be undertaken.
+
+
+

@@ -1,0 +1,44 @@
+History:	35 YO FEMALE FOUND DOWN FOR UNKO9WN AMOUNT OF TIME. HEAD CT
+SHOWED LARGE RIGHT FRONTAL INTRAPARENCHYMAL ACUTE
+HEMORRHAGE WITH INTRAVENTRICULAR EXTENSION AND MIDLINE SHIFT
+Medications:	Keppra, Vancomycin, Labetalol
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for18 hours from 06/14/2015 to 06/15/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+Waking background is characterized by a 25-40uV, 7Hz alpha rhythm, which is best seen on the left.
+Background activity is predominantly irregular 50-75uV, 6-7Hz activity.  During drowsiness, the
+background slows to central theta activity, frontal beta activity becomes more prominent, and the
+alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further
+to moderate voltage 2-4Hz activity.
+Continuous polymorphic delta activity is present in the right hemisphere maximal in the
+midtemporal region. There is an associated loss of faster frequencies over this region.  Intermittent
+polymorphic delta activity is present in the left anterior temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 96
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Focal slowing, polymorphic, intermittent, left temporal, anterior
+Focal slowing, polymorphic, continuous, marked, right hemispheric, Maximal midtemporal with
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+right hemisphere maximal in the midtemporal region.  This finding is indicative of a focal structural
+lesion in this region. In addition there is  intermittent focal slowing in the left anterior temporal
+region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+Lastly, there is moderate  diffuse background slowing.  This finding is indicative of mild diffuse
+cerebral dysfunction, which is etiologically nonspecific.  No clinical or electrographic seizures are
+present.
+
+
+
+
+

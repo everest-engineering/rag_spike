@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Episodes of left eye twitching, stiffness of the right arm lasting hours, multiple normal MRIs and normal neurological examination.
+MEDICATIONS:  Celexa, lisinopril, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  Technical considerations were within limits, although T1 and T2 impedances were slightly above 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz 40 mV posterior dominant rhythm with a small amount of low voltage frontal central beta.  Features in drowsiness include an increase in beta, as well as slow rolling eye movements.
+Hyperventilation produced an increase in amplitude of the background.
+Photic stimulation was remarkable for muscle artifact and photic electric artifact with scant driving.
+Heart rate:  66 BPM
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in the EEG.
+
+
+

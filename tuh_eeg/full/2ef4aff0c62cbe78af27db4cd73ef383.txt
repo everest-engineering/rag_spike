@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 41 year old male with multiple head injuries, confusion, and epilepsy. Concomitant DVT, atrial fibrillation, depression, and 3 strokes.
+
+MEDICATIONS: Neurontin, Cardizem, ASA, Lisinopril
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz posterior dominant rhythm identified bilaterally. There is a subtle asymmetry, particularly in the temporal regions. There is a bit more theta in the left frontocentral region compared to the right. Some of this is sharply contoured as the patient becomes drowsy. The overall background is relatively low voltage. Photic stimulation is performed while the patient is falling asleep. There is a suggestion of a driving response at 9 Hz on the right. In addition, there are rare left frontotemporal sharp waves noted just in between the stimuli.
+
+HR: 78 bpm
+
+IMPRESSION: Abnormal EEG due to:
+I. Mild bilateral background theta.
+2. Left temporal focal theta.
+3. Rare left anterior temporal sharp wave in drowsiness.
+
+CLINICAL CORRELATION: This EEG supports a structural process involving the left. Correlation with imaging is advised.
+
+
+
+
+

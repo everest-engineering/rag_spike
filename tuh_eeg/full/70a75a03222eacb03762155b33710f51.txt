@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 72 year old male with right parietooccipital infarct, left carotid stenosis.
+MEDICATIONS: Heparin, Etomidate, Fentanyl, Remifentanil, Vecuronium
+INTRODUCTION: Digital EEG was performed at bedside in OR using standard 10-20 system of electrode placement with 1 channel EKG. This was a 4 hour and 16 minute EEG.
+DESCRIPTION OF THE RECORD: As the recording begins, the patient is initially awake with a low voltage pattern bilaterally. With induction of anesthesia at 7:42, rhythmic theta is seen with some prominent shifting asymmetries. Heparin is given at 9:00 p.m. At that time, the EEG is relatively continuous but demonstrates intermittent attenuation. The carotid is clamped at 9:51. Between 9:00 a.m. and 9:51, the level of anesthesia has changed significantly, and in fact that seems to have changed most after 9:31. The EEG starts to demonstrate more stowing by 9:38, and then transitions to a burst suppression pattern at 9:51, when the carotid is clamped. With the placement of the clamp across the carotid, no additional features are noted and the EEG becomes a bit more continuous overtime including by 10:16.
+HR: 60 bpm
+IMPRESSION/CLINICAL CORRELATION: This carotid endarterectomy study was remarkable for a discontinuous pattern which appeared before the placement of the clamp. The discontinuous pattern continued throughout much of the surgical procedure and demonstrated slight asymmetries. Because the discontinuity tended to wax and wane, it is more compatible with a pharmacologic pattern, although there is not enough information provided to know whether or not anesthetic medications would have accounted for the discontinuous pattern. The EEG is less valuable to monitor for changes in blood flow when the pattern is discontinuous. Of note, by 11:43 the EEG had returned to a continuous pattern.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 39-year-old woman with epilepsy, now with complaint of impaired verbal memory.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  The patient transitioned between wakefulness and sleep with an increase in beta during sleep.
+In hyperventilation and in the transition to sleep, there is subtle, underlying focal slowing noted from the left temporal region with scant temporal theta.
+Photic stimulation elicited a bilateral driving response.
+By the close of the record, the patient is transitioning in and out of stage 2 sleep with vertex waves and spindles as well as snore artifact.
+Heart rate 84 bpm.
+IMPRESSION:  This is a subtly abnormal EEG due to:
+subtle left temporal focal slowing, primarily seen in drowsiness or hyperventilation.
+CLINICAL CORRELATION:  This is 5th EEG for this patient.  A previous study in 2007 identified similar findings.  No sharp waves or spikes have been seen in any of the EEGs.
+
+
+

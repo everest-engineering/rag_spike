@@ -1,0 +1,35 @@
+History:	29 year old man with a history of GSW with subsequent seizures.  No reported
+seizures since 2006 and off AEDs till his recent seizure.
+Medications:	none
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11-11.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+Continuous polymorphic sharply countoured theta and delta activity is present over the right
+midtemporal region.  Additional underriding fast activity is seen over the right anterior-
+midtemporal region.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and accentuates focal slowing
+in the right midtemporal region.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right temporal, mid, mild-to-moderate
+Breach artifact, right temporal
+No epileptiform discharges
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 26-minute EEG due to continuous focal slowing in the
+right midtemporal region.  This finding is indicative of a focal structural lesion in this region.
+Breach artifact is secondary to the skull defect.  The lack of epileptiform discharges on a routine
+EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

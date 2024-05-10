@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 69 year old gentleman with renal transplant, diabetes, hypertension, gout, stroke, and shunt, now with meningoencephalitis.
+MEDICATIONS: Depakote, Ativan
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and deeply comatose.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a somewhat discontinuous pattern. There is a pattern of rhythmic 13 Hz activity superimposed upon 1 to 2 Hz of delta activity. This occurs in a burst-like fashion with smaller amounts of theta and delta. At least initially in the record stimulation of the patient does produce an alerting response. As the recording continues and the Ativan drip continues, there is more of a burst suppression pattern with a slower alpha-theta burst.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing.
+2. Transformation to a burst suppression pattern.
+CLINICAL CORRELATION: This EEG is compatible with a pharmacologic coma. EEG monitoring was performed for this individual who earlier in the day had refractory status epilepticus.
+
+
+

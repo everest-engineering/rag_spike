@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  19 year old right handed woman who developed epilepsy at age 8.  She had a tonic-clonic seizure and then developed absence seizures, treated with ethosuximide.  The patient stopped taking her medications in January 2012 because of GI upset.  The patient reports that she has seizures only when she is exercising heavily such as running or undergoing mental concentration.  She does not describe a lapse of attention but is aware of a lightheaded feeling.  She recalls that this lightheaded feeling was identical to the feeling that she had when she suffered more active absence seizures.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm with a small amount of low-voltage, frontocentral beta.  Drowsiness is characterized by slow rolling eye movements followed by generous vertex wave spindles and posts.  Photic stimulation elicits vigorous bilateral driving. Notable in this record is the hyperventilation response.  There are bursts of rhythmic high-amplitude delta.  A handful of these are notched.  Overall, however, there is a very generous hyperventilation response and clearly identifying spike and wave activity from the background is somewhat difficult.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Underlying spike and wave activity underneath the hyperventilation response.
+CLINICAL CORRELATION:  Spike and wave activity was not identified at any other time other than hyperventilation, congruent with this the patient's clinical history of only experiencing symptoms under similar conditions.  Comparison with childhood EEGs would be of help.
+
+
+

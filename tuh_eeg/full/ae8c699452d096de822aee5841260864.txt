@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 43-year-old male with epilepsy since the 1990s, most recent seizure was the 17th.  Seizure is characterized by an aura, patient feels it coming on, the patient starts to walk off the seizure.  Sometimes this will stop the seizure, but, if not, he has loss of consciousness.  At other times, he has loss of ability to speak.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low voltage, frontocentral  data.  Drowsiness is characterized by attenuation of the alpha rhythm with overall slowing of the background and some bursts of bilateral slowing.  Deeper stages of sleep were not sustained.
+Hyperventilation produces rhythmic, bihemispheric slowing.  Photic stimulation elicited a bilateral driving response.  Heart rate 66 beats per minute.
+IMPRESSION:  Normal electroencephalogram.
+No focal or epileptiform features were identified.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep is suggested.
+
+
+

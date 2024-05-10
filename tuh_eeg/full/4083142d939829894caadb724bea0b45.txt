@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 72-year-old male with left carotid stenosis for carotid endarterectomy.
+MEDICATIONS:  Propofol, fentanyl, remifentanil, heparin, and phenylephrine.
+INTRODUCTION:  4-hour digital EEG was performed in the OR using standard CEA montage with 1 channel EKG.  Physician was online for 165 minutes of remote review.  Physician was available throughout the procedure as needed.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient was awake in the OR with a relatively symmetric background.  Spontaneous eye movement was noted.  With induction of anesthesia, the EEG demonstrates a background slowing.  The record is slower in the occipital regions bilaterally and a little slower on the left.  Intermittently, an intermittent attenuation was noted throughout the record.
+The EEG was low voltage, but continuous when the carotid was clamped at 10:37.  No focal features were noted.  The clamp was removed at 11:24 and patency was confirmed by Doppler.  Again, no focal slowing was noted but 1 section of the record with some artifact.  There was a question of left frontal sharp wave, not sustained.
+Recording concluded at 11:44 a.m.
+Heart rate 54 bpm.
+IMPRESSION/  CLINICAL CORRELATION:  EEG monitoring during this left carotid endarterectomy did not identify significant focal features.
+
+
+

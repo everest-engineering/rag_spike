@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 53-year-old woman with past history of drug abuse, cocaine, opioid use, hepatitis C, patient had a seizure after falling from the stairs. Admitted to the trauma service
+MEDICATIONS:  Ativan, hydralazine, Keppra, fentanyl, propofol, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  There is no mention of cranial defect.  Impedances were appropriate.  This is a technically satisfactory, 20-minute ICU recording.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow, low voltage with a mixture of slow, delta and some more rhythmic theta.  This pattern is punctuated by frontally predominant complexes.  Some of these are triphasic in nature, but others are asynchronous, with asymmetries in voltage and field, suggestive of a frontal sharp wave noted from either hemisphere.  In addition, there are subtle, phase reversals with sharply contoured delta noted in the right frontal or frontotemporal region.
+Stimulation of the patient produced an attenuation of the background.
+Heart rate 102 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+A markedly slow background.
+A pathological response to stimuli with flattening of the overall background.
+Triphasic waves.
+Epileptiform discharges some of which are broadly contoured, but some of which have a phase reversal more likely to be seen in the right frontal region than the left, which may represent a generalized periodic complex or more well-defined sharp wave.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  There are features that suggest a toxic or metabolic disturbance as well as a severe underlying encephalopathy with flattening of the record in response to tactile stimuli.  Given the potential epileptiform activity and the asymmetry in the discharges described above, a 24-hour EEG monitoring was initiated.
+
+
+

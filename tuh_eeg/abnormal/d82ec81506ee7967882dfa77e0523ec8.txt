@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   21 year old woman with epilepsy, currently seizure free.  Characteristics of seizures described as shakiness.
+MEDICATIONS:  Zonegran.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10.5 Hz symmetric reactive alpha rhythm with a small amount of low voltage  central beta activity.  In the transition to drowsiness, very brief bursts of higher amplitude 5-6 Hz hypersynchronous activity is noted.  It is relatively generalized and is not associated with epileptiform activity. Hyperventilation is remarkable for significant artifact but no definitive focal features.  Artifacts are a bit more prominent in hyperventilation and photic stimulation from the left scalp electrodes. Photic stimulation does elicit a driving response.
+HR:    66 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  There was no definitive spike and wave activity.  Childhood EEGs are not available for comparison.  This EEG demonstrates some hypnagogic hypersynchrony which is a normal variant.
+
+
+

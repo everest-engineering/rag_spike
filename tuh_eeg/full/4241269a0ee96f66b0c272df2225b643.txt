@@ -1,0 +1,19 @@
+LENGTH OF THE RECORDING:  46 minutes.
+
+CLINICAL HISTORY:  The patient is a 40-year-old woman who presents with witnessed generalized tonic clonic convulsions.  History is notable for a single seizure approximately 2 months ago.
+
+MEDICATIONS:  Keppra and 2 mg of Ativan during this study.
+
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm appears to reach 8 Hz theta bilaterally.  There appears to be anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Throughout nearly the entire recording there are discrete focal seizures with right temporal occipital onset.  The seizures are characterized by discrete sharp waves with after going slow waves that appear to start over the right temporal occipital region (notably T4 and O2 electrodes).  This activity increases in amplitude, decreases in frequency, and spreads throughout the right hemisphere with some reflection over the left hemisphere.  The seizures last on average 30 to 60 seconds.  The seizures occur nearly continuously with seizure of no more than 10 seconds.  Clinically, the patient appears to be confused and not following commands very well.  Two mg of Ativan is administered at approximately 1:01:50 p.m.  This results in decrease in seizure duration and organization, but it does not result in complete seizure cessation.  Hyperventilation is produced with fair effort and does not result in significant change in the background.  Stepped photic stimulation does not result in additional abnormalities.
+
+FINDINGS:
+1. Mild diffuse slowing and disorganization.
+2. Focal right hemispheric status epilepticus with onset over the right temporal occipital region.
+3. Administration of Ativan results in decrease in seizure duration and organization, but does not result in complete seizure cessation.
+
+IMPRESSION:  This is a very abnormal 46 minute EEG due to mild diffuse slowing and focal right hemispheric status epilepticus.  Mild diffuse slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Right temporal occipital onset of seizures indicates underlying focal cerebral dysfunction, correlation with clinical exam and imaging is recommended.  The EEG was reviewed live while being recorded and the patient was subsequently placed on long-term EEG monitoring.
+
+
+

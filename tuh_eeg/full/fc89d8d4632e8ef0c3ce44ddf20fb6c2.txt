@@ -1,0 +1,15 @@
+History:	67 YR OLD MALE PRESENTS WITH H/O ? NEW ONSET SZ VS SNYCOPAL EVENT X 2, 1 WEEK AGO PT SEEN AT OSH. PT HAS NO RECALL OF EVENT. REPORT HA, DIFFICULTY SLEEPING FOR  AT LEAST 5 DYS  AND TROUBLE FORMING WORDS. PT REPORTS "STRESS FACTORS AND ANXIETY.
+Medications:	KEPPRA (TAPERING OFF), PREDNISONE, SEROQUEL  / SEE LIST IN CHART
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, photic
+Description: Waking background is characterized by a 25-40uV, 9.5Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves. Intermittent polymorphic delta activity is present in the left anterior temporal region during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces a strong symmetric photic driving response.
+HR is 96.
+Summary of Findings:
+No epileptiform discharges
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left anterior temporal region.  This finding is indicative of focal cerebral dysfunction
+
+
+

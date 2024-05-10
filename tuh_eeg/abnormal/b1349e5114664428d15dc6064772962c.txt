@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 22-year-old male with epilepsy since 2006.  Nocturnal seizures, the most recent one week ago out of sleep with incontinence and postictal confusion.
+MEDICATIONS:  Lamictal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+This is an awake and asleep record.  This is a technically acceptable record, although T1-T2 impedances were slightly above 5 kohms.  There is a fair amount of muscle artifact in wakefulness.
+DESCRIPTION OF RECORD:  In maximal wakefulness, there is an 11 Hz, 30 microvolt alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness was characterized by slow rolling eye movements and an  increase in beta with transitions in and out of sleep.  There is also some rhythmic central theta, and in sleep electrode artifact was observed at T4.
+Photic stimulation was remarkable for artifact and scant, supra-harmonic driving.
+Hyperventilation did not significantly activate the record.
+In the transition to drowsiness, there was a single, subtle left temporal transient.
+Heart rate 72 bpm.  Rare PVCs.
+IMPRESSION:  This is a technically challenging, but normal EEG in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted.  There was a single, subtle, left temporal sharp wave.  In that there is only 1 sharp wave, this must be considered artifact.  A repeat tracing capturing deeper stages of sleep may be of value to more definitively characterize this patient's epileptiform activity.
+
+
+

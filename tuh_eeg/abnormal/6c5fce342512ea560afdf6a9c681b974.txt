@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An 83-year-old woman found down at 1:00 p.m. on Sunday, July 28.  She was shivering with eyes rolling straight ahead, had not been incontinent.  Evaluate for seizure or change in mental status.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is restless or drowsy.
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat slow with a theta pattern as well as generous beta.  Shifting arrhythmic delta is noted, but there is a bit more delta in the right hemisphere particularly centrotemporal and posterior temporal regions.  Arousals are characterized by an increase in beta.  When awake, the patient seems to be quite confused.
+Hyperventilation and photic stimulation were not possible.
+Heart rate 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Diffuse background slowing.
+Shifting arrhythmic delta.
+Superimposed focal slowing from the right hemisphere, particularly the centrotemporal region.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The generalized background slowing and focal slowing may be correlated with imaging and clinical history.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 55 year old female with ongoing status epilepticus, status post treatment with phenobarbital, transitioning to midazolam.
+
+MEDICATIONS: Pantoprazole, Mycamine, Heparin, Phenobarbital, Cefepime
+
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+
+DESCRIPTION OF THE RECORD: This bedside EEG continues to demonstrate a pattern of repetitive polyspike or fast activity at approximately 5 Hz. There is subtle frequency evolution. The activity can be reviewed at a very slow paper speed and there are no traditionally evolving seizures, just a pattern of higher amplitude spike activity with a small amount of frequency evolution. There is an after going slow wave observed in the background. In a 20 second epoch this pattern may occur 3 or 4 times. Tactile stimulation of the patient does not activate the record. It is difficult to determine with the bedside video if the patient is still twitching.
+HR: N/A.
+IMPRESSION: CLINICAL CORRELATION: This continuous EEG monitoring is remarkable for: An ongoing ictal pattern with polyspike activity which is starting to slow overall. The repetitive paroxysmal sharp activity is now occurring in shorter bursts of approximately 5-6 seconds. No right hemispheric seizures are noted at this time.
+
+
+

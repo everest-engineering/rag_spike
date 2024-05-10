@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  29-year-old with refractory epilepsy.
+MEDICATIONS:  None.
+DATE OF STUDY:  July 24 to 25.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software was utilized.  Medications were held and seizures were recorded.
+BACKGROUND:  In wakefulness, there is a 9 Hz alpha rhythm with symmetric reactive alpha.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTs.
+FOCAL FEATURES:  Intermittent focal slowing was noted.
+EPILEPTIFORM DETECTIONS:  No definitive sharp waves.
+SEIZURES:  None.
+IMPRESSION:  This day of continuous video EEG monitoring did not identify epileptiform seizures.  Recording will continue.
+DATE OF STUDY:  July 25 to 26.
+MEDICATIONS:  None.
+INTRODUCTION:  Continuous video EEG monitoring using seizure and spike detection software.  The patient's seizure medications were held. No events recorded
+BACKGROUND:  In wakefulness, there is symmetric reactive alpha rhythm.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTs.  Particularly in drowsiness, intermittent left temporal focal slowing was noted.  Left temporal wicket was also seen.
+ELECTROGRAPHIC SEIZURES:  None.
+IMPRESSION:  These 2 days of EEG monitoring were remarkable for:
+No clinical events.
+Focal slowing and sharply contoured slowing as described previously.
+
+
+
+
+

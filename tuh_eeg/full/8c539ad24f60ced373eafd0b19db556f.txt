@@ -1,0 +1,26 @@
+History:	69 year old woman with a known metastatic cancer to the brain (left basal ganglia),
+now presents with increase in mental status.
+Medications:	Keppra, Dexa
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, lethargic
+Description:
+The posterior dominant rhythm consists of moderate amplitude polymorphic 8-9 Hz activity.  The
+AP gradient is weak.  Diffuse excess polymorphic theta activity is captured.  Patient remains awake
+throughout the recording.
+Intermittent brief bursts of rhythmic bitemporal somewhat synchronous delta activity are seen over
+the bitemporal regions.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+TIRDA (temporal intermittent rhythmic delta activity), intermittent, bilateral temporal
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake-only 22-minute portable EEG due to mild diffuse slowing and
+intermittent bilateral TIRDA (temporal intermittent rhythmic delta activity). Diffuse slowing is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  TIRDA indicates
+an increased epileptogenic potential over the bitemporal regions and is equivalent to epileptiform
+
+
+
+

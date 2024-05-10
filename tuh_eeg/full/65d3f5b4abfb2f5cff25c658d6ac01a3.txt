@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  The patient is an 82-year-old female with a history of Alzheimer disease and a prior right hemisphere stroke.
+RECORD TIMES:  Record start time was 3:30 p.m.  Record end time was 3:55 p.m.  Recording length was 25 minutes.
+MEDICATIONS:  Current patient medications include Celexa and Aricept.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  As the record opens, there is a well-formed posterior dominant rhythm achieving 10-11 Hz noted in the left hemisphere.  This is reactive to eye opening.  The posterior dominant rhythm over the right is somewhat slower and achieves 8-10 Hz and is a bit more fragmented.  It is nonetheless reactive to eye opening.  There is a small amount of frontocentral beta activity, and that is symmetrically distributed.  However, there is also evidence of nearly continuous focal slowing noted in the right centrotemporal regions characterized by the appearance and persistence of 5-7 Hz theta activity.  Hyperventilation was not performed in this patient.  Photic stimulation induces __________ photic driving response at intermediate flash frequency ranges.
+IMPRESSION:  This is an abnormal EEG due to the presence of nearly continuous focal slowing noticed over the right centrotemporal region.  Clinical correlation in the presence of focal slowing may suggest a structural brain lesion in this region.  There were no electrographic seizures detected.
+
+
+

@@ -1,0 +1,30 @@
+
+History:	60 year old man undergoing thromboendarterectomy.
+
+INCISION: 11:09A
+HEPARIN: 33000 UNITS 11:23A
+COOLING :11:41A  with complete burst-suppression 12:53P
+WARM:  2:12P        BASELINE: symmetrical
+
+CARDIAC ARREST 11:56A
+CIRCULATORY ARREST 1:04P
+Medications:	Fentanyl, Versed, Vecuronium, isoflurane, heparin
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, comatose
+Description:
+Patient is awake early in the recording.  The background consists of low amplitude 10 Hz PDR with
+normal AP gradient.  Patient is intubated and by ~10:15 am the background consists of a mixture of
+frequencies without the PDR or AP gradient present.  Incision takes place at ~ 11:09 AM.  Cooling
+starts at ~ 11:41 AM.  As cooling progresses, there is progressive slowing of the background with
+complete burst-suppression achieved at ~12:53 PM.  Circulatory arrest starts at ~1:09 PM and ends
+at ~ 1:23 PM.  Rewarming starts at ~ 2:12 PM with bursts of cerebral activity noted at ~2:32 PM.
+Return of QRS complexes is noted at 2:24 PM.  By the end of the case, patient is normothermic
+Summary of Findings:
+Other, unremarkable study
+Interpretation:
+This was an unremarkable ~5.5 hours remote intraoperative continuous EEG monitoring.  Out of
+those hours, ~ 3.5 hours was spent monitoring patient live, out of the OR, remotely.
+
+

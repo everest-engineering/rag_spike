@@ -1,0 +1,18 @@
+History: 68 year old woman with history of stroke, seizures, depression, now presents with confusion.
+Medications: Keppra, Paxil, Crestor, Depakote, Vimpat, Lopressor, Lisinopril, Insulin, Metformin, Albuterol, Aspirin
+Sedation:
+EEG Type: Routine. awake & drowsy
+Technique: international 10-20 System; standard 21 electrodes with T1-T2 electrodes and EKG electrodes, awake, photic
+Description:
+The posterior dominant rhythm consists of 9 Hz alpha activity over the right and 6-8.5 Hz activity over the left. There is an anterior-to-posterior frequency-amplitude gradient with faster frequencies at lower amplitudes activity. During drowsiness, the alpha rhythm attenuates and 5-7Hz slow waves appear diffusely.
+Continuous polymorphic theta and delta activity is present in the left temporal region. No clear epileptiform discharges are present
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities. A single EKG lead demonstrates heart rate of fewer than 60 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate. left temporal
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 24-minute EEG because of continuous moderate focal slowing in the left temporal region. This finding is Indicative of a focal structural lesion in this region and is consistent with patients history of stroke in that region. No epileptiform discharges are present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. The lack of epileptiform discharges on a routine EEG does
+
+
+

@@ -1,0 +1,40 @@
+History:	55 YR WITH SKULL DEFECT RIGHT SIDE. CC OF FOCAL SZ TAKEN ER GIVEN 2
+ATIVAN 6 VERSED. LOADED DILANTIN,
+Medications:	Ativan, Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+There is obvious hemispheric asymmetry characterized by continuous focal delta over the right
+hemisphere and theta/delta seen over the left hemisphere. A fragmented posterior dominant
+rhythm is seen on the left from 7-8Hz.  The amplitude asymmetries suggest a right breach rhythm.
+No normal sleep architecture was present.
+There are rhythmic to semi-rhythmic right occipitotemporal PLEDs varying from 1-1.5 Hz maximal
+at T4-T6. There are no overt clinical manifestations associated with the PLEDs..  There are
+numerous brief electrographic seizures (e.g., 12:18AM, 1:22AM, 1:30AM, 4:14AM) which evolve
+out of the right PLEDs into 2Hz spikes, each lasting 10-20 seconds.  There are no overt clinical
+manifestations associated with these discharges.
+On several occasions the patient sits up, looks around and attempts to move. These are not
+associated with ictal EEG changes.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Focal slowing, polymorphic, continuous, right hemispheric
+Breach artifact, continuous, right
+PLEDs (periodic lateralized epileptiform discharges), continuous, right posterior quadrant
+Seizure, frequent, right posterior quadrant
+Interpretation:
+This is an ABNORMAL 24 hour video EEG due to focal right hemisphere slowing, diffuse
+bihemispheric slowing, a right breach artifact, right sided PLEDs, and frequent right posterior
+quadrant electrographic seizures. These findings suggest a structural lesion over the right hemisphere with a highly epileptogenic, irritative focus.  The frequent seizures would suggest
+electrographic status epilepticus however the baseline electrographic state of this patient is
+unknown.  These findings were conveyed to the primary team.
+

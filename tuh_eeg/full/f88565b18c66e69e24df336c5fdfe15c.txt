@@ -1,0 +1,29 @@
+History:	37 year old woman undergoing hypothermia protocol.
+Medications:	Propofol and fentanyl,
+Sedation:
+EEG Type:	Asleep only
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~24 hours from 11/11/2015 to 11/12/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+During periods of decreased sedation and arousals, the background consists of a mixture of
+moderate amplitude frequencies (primarily theta and alpha activity).  The majority of the
+background is sedated with slow diffuse delta activity with overriding sleep-spindle-like waveforms
+and a mixture of theta and delta.  No clear electrographic seizures are captured.
+Summary of Findings:
+Other, sedated recording
+Interpretation:
+This is an ABNORMAL continuous 24-hour video EEG due to variable degree of diffuse slowing.
+This finding is indicative of diffuse cerebral dysfunction, which is etiologically nonspecific, but in
+this patient is primarily related to medication effect.
+
+
+
+
+

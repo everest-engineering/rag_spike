@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 62-year-old right-handed individual, who presents with right hemiplegia, aphasia, and found to have left basal ganglia hemorrhage.
+MEDICATIONS:  Keppra, morphine, labetalol, and others.
+INTRODUCTION:  A digital video EEG is performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically satisfactory routine 20-minute EEG for a patient, who is described as poorly responsive with hiccups.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous, medium to low amplitude relatively featureless pattern.  Although, there is eye movement noted, the typical morphologies of an awake patient are not identified.  Intermittent rhythmic delta can be noted from either hemisphere.  This is an isolated area in the right central region with preserved faster frequency activity.  Stimulation of the patient produces hiccups and additional eye movements as well as an increase in beta frequency activity.  The patient seems to have some hiccups or some axial movements.
+Heart rate:  84 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing with overall of featureless pattern.
+An area of more preserved cerebral activity with faster frequency activity noted in the right central region.
+CLINICAL CORRELATION:  This video EEG suggests that the hiccups may be a stimulus induced entity, they were reproducible with stimulation and the EEG pattern looks like an arousal.  Overall, the marked background slowing is supportive of a severe, bihemispheric disturbance of cerebral function.  These findings may be correlated with clinical history for this individual, who has been in the ICU for some weeks.
+
+
+
+

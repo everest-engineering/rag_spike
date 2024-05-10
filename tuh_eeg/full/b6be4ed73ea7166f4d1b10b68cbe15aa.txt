@@ -1,0 +1,32 @@
+History:	53 year old male with history of seizures.
+
+There is a scar in the C3/P3 electrode area.
+Medications:	Lamictal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Fast alpha rhythm is frequently present.  Symmetric 5-15uV, 18-
+25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During brief stage 2 sleep, the record slows further to
+moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+There is continuous polymorphic sharply contoured delta activity present only in C3 electrode,
+representing electrode artifact vs very focal slowing.  No clear epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Other, C3 electrode artifact vs very focal slowing
+Sleep, stage 2
+Alpha variant, fast
+Interpretation:
+This is a likely NORMAL awake and asleep 26-minute EEG. Continuous polymorphic delta activity
+that is observed only in C3 electrode likely represents C3 electrode artifact rather than focal
+slowing, given very focal nature of the finding.  A repeat study would be of benefit to differentiate
+between those two possibilities.
+
+
+

@@ -1,0 +1,14 @@
+MEDICATIONS:  Amobarbital, albuterol, phenobarbital, Zocor, Vasotec, and others.
+INTRODUCTION:  EEG monitoring was performed for this patient, who underwent a carotid angiography and Wada testing  The standard intra-operative montage was utilized.  Total recording time 1 hour 50 minutes.  This EEG is recorded in 2 sections with a brief pre-procedure baseline.  The EEG physician was present during the Wada Procedure
+DESCRIPTION OF THE RECORD:  The baseline includes symmetric reactive 11 Hz alpha rhythm without epileptiform activity.
+PROCEDURE:  EEG monitoring begins at 8:11 in the angiography suite.  The patient is awake with symmetric reactive 11 Hz alpha rhythm.  Occasional lambda was noted.
+Heart rate:  60 bpm.
+Right carotid injection:  Cerebral angiography was performed demonstrating patent right carotid.  No anterior cross filling was noted in the angiogram nor filling of the vertebrobasilar system, but there was persistent fetal circulation with takeoff of the PCA from the anterior circulation.  The right carotid was injected with 125 mg Amytal at 8:46 producing nearly immediate increase in both beta activity from the right hemisphere and right focal delta.  This study was unilateral within 2 minutes of injection.  Testing was performed during the time period in which there was right focal slowing and beta.  Testing was completed by 8:55.  Spontaneous observation and recognition of objects was performed at 8:59.  EEG was clearly back to baseline by 8:59.
+Left carotid injection:  Left carotid injection angiogram demonstrated again patent left internal carotid artery, no anterior cross filling, but again persistent fetal circulation.  The carotid was injected with 125 mg Amytal at 9:24:11 producing rhythmic high-amplitude slowing from the left hemisphere with some brief bifrontal delta.  The patient was noted to be aphasic at 9:25:23.  Testing was initiated at 9:26:03.  Of note, with a left carotid injection, there was a prominent increase in fast activity and the appearance of left temporal, T3 maximum sharp waves (T1-T2 electrodes were not employed).  The focal slowing waned from the left hemisphere, but there was prominent accentuation of beta activity persisting to 9:31.  The EEG took longer to return to baseline, returning closer to baseline at 9:41.  Recall was then tested  Recording continued to the conclusion of the study and ended at 9:48:20.
+IMPRESSIONS/CLINICAL CORRELATION:  EEG monitoring during the intracarotid amobarbital test was remarkable for:
+The ability to produce unilateral physiological changes in the EEG with focal slowing with each injection.
+No significant bilateral features during testing.
+
+
+
+

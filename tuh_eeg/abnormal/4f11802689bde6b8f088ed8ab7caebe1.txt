@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 49 year old left handed woman with refractory epilepsy, schizophrenia, hypothyroidism.
+MEDICATIONS: Topamax, Depakote, Valproic Acid
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is poorly organized with excess background theta. There is focal slowing noted in the background, particularly in the right hemisphere, but there is some shifting and slowing from either hemisphere. Discrete T2 sharp waves can be observed which can be differentiated from EKG artifact. Features of drowsiness include an increase in rhythmicity. In drowsiness, there are a handful of sharp waves observed from the left. Photic stimulation elicits a driving response which demonstrates some shifting asymmetries but is a bit better preserved on the left than the right.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Shifting and slowing with focal features from either hemisphere.
+3. Right temporal sharp waves.
+CLINICAL CORRELATION: In comparison to previous studies, this pattern with primarily right temporal seizures has been seen in her 7 prior EEGs.
+
+
+

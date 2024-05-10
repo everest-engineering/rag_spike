@@ -1,0 +1,32 @@
+CLINICAL HISTORY:  54 year old left handed male with epilepsy, cerebral palsy, developmental delay, and psychosis.  Seizure free until he had medication error.  Tonic clonic seizures lasting up to 30 minutes with postictal confusion.
+
+MEDICATIONS:  Tegretol, Abilify, Lasix
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 9 Hz posterior dominant rhythm, which is relatively low voltage.  In relaxed wakefulness there is intermittent background theta.  There is also intermittent focal slowing from the right hemisphere in this very low voltage record.  There are a handful of T2 sharp waves. Hyperventilation produces left central slowing.  As the patient becomes drowsy, focal slowing from the right temporal region is more prominent.  There is some lateral rectus spike artifacts noted.  More well defined sharp waves are on the right.  In addition, as the patient is transitioning in and out of stage I sleep, the focal features on the right are apparent.  Low voltage discreet spikes are noted as the patient transitions in and out of stage II sleep.  Photic stimulation is performed while the patient is asleep.  Again, the discreet spike from the right temporal region are observed.
+
+HR:    72 bpm
+
+IMPRESSION:  Abnormal EEG in wakefulness through stage II sleep due to:
+1. Intermittent focal slowing from the right temporal region.
+2. Right temporal sharp waves and spikes.
+3. Background disorganization.
+
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for this patient's epilepsy, but there is bilateral background slowing suggesting a more diffuse process.
+
+
+
+
+
+
+
+
+
+
+
+DD:03/19/2012
+DT:03/19/2012
+
+
+

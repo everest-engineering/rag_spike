@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  36 year old right handed woman with new onset seizures.  She reported a whole day of headache, feeling faint, felt as if she had low blood sugar.  She had an event with loss of consciousness and generalized tonic-clinic activity.  Afterward she was confused, was amnestic for the event, and had inappropriate behavior.  History of anxiety disorder, treated with Xanax, but had not received Xanax for 3 days prior to the event.
+MEDICATIONS:  Xanax.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record in a patient who seemed somewhat tense.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  As the patient drifts off to sleep, there is an increase in theta.  Other features of drowsiness include hypersynchronous rhythmic slowing or anterior spread of the alpha rhythm.  Hyperventilation produces slowing of the background.  Photic stimulation elicits driving.
+HR:    55 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

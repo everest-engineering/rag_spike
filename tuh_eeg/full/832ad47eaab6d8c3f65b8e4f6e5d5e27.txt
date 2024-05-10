@@ -1,0 +1,18 @@
+History:	33 year old woman with a history of epileptic vs nonepileptic events. Medications:	No AEDs
+Sedation:
+EEG Type: Technique:
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Diffuse excess beta activity is present.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect. Stepped photic stimulation is performed from 1-7 fps. It is aborted early because patient has an event early during photic stimulation. Event lasts - 90 seconds and has no abnormal EEG correlate. Video review (no sound captured and only patient's chest and head are visible) and EEG technologist's notes review show that patient develops diffuse low amplitude shaking and pelvic thrusting. She is able to answer questions correctly and recalls a code word. The event ends abruptly.
+Summary of Findings:
+Event, one, No EEG correlate Beta, excessive
+No epileptiform discharges No stage 2 sleep
+Interpretation:
+This is a NORMAL 27-minute EEG,awake and drowsy. No epileptiform discharges were present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. A single event that occurs during photic stimulation has no abnormal EEG correlate. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+

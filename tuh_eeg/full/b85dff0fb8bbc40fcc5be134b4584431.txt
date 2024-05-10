@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 38-year-old woman with sarcoid, transferred from an outside hospital with recurrent seizures.
+MEDICATIONS: Vimpat, Lamictal, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient is awake, but a bit confused.
+DESCRIPTION OF THE RECORD:  The background EEG is abnormal with generous beta.  There is intermittent rhythmic slowing, which may be seen from the right or left frontocentral region.  Stimulation of the patient produces an increase in alpha and beta frequency activity.  As the patient becomes a little bit more comfortable, there is a suggestion of a bit more rhythmic slowing in the right frontocentral region compared to the left.
+Heart rate 190 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Excess beta.
+Shifting rhythmic slowing.
+CLINICAL CORRELATION:  Previous EEGs are not available for comparison.  This EEG supports a bihemispheric process.  The generous beta may be associated with the use of previous antiepileptic drugs.  The excess theta may reflect this patient's CNS pathology or post ictal state.
+
+
+

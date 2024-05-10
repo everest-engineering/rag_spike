@@ -1,0 +1,35 @@
+History:	PRIOR EEG 65 YR OLD MALE WITH EPILEPSY, 2 MCA STROKE ,
+APHASIA.POST STROKE SZ
+
+PRESENT FOR MULTI SZ
+Medications:	Keppra
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 28 hours from 05/09/2014 to 05/10/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	1
+Description of pushbutton events
+Patient was shaking his head side to side and exhibiting mouth movements. The EEG was
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Periodic lateralized epileptiform discharges (PLEDs) are present in the
+PZ/P3 region at a rate of 1-2 Hz.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+PLEDs (periodic lateralized epileptiform discharges), continuous parietal, central
+Diffuse slowing, polymorphic, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL 24 hr EEG because of continuous periodic lateralized epileptiform
+discharges (PLEDs) in the left centro-parietal region.  These findings are indicative of a highly
+potentially epileptogenic acute focal destructive lesion in the region.  No electrographic seizures
+are present.  In addition there is marked diffuse background slowing and slow alpha rhythm.  These
+findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction.  The episode
+of head shaking was not epileptic in nature.
+

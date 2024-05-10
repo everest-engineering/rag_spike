@@ -1,0 +1,28 @@
+History:	61 year old man who was admitted with left thalamic hemorrhage.  He now has
+change in mental status and left arm shaking.
+Medications:	Keppra, Ativan and Fentanyl
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  The background consists of a primarily delta activity and
+occasional theta activity.  Paucity of faster frequencies and voltage attenuation are noted over the
+right.  Patient remains awake throughout the recording.  There is moderate amount of EMG artifact.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Attenuation, right hemispheric
+Focal slowing, polymorphic, continuous, severe, right hemispheric
+Diffuse slowing, polymorphic, moderate-to-severe
+Interpretation:
+This is an ABNORMAL portable 21-minute EEG due to moderate-to-severe diffuse slowing that is
+more pronounced over the right hemisphere. This finding is indicative of moderate to severe diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing indicative of a
+focal structural lesion in this region.  There is moderate amount of movement during the recording.
+These findings were conveyed to the primary team.
+
+
+
+
+
+

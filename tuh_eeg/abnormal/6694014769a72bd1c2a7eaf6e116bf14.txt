@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  25 year old right handed male with epilepsy, onset at age 12, seizure-free since age 15, now 6 weeks pregnant, EEG obtained should consider a lowering seizure medication.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a symmetric reactive 11 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Hyperventilation produces some rhythmic higher amplitude slowing.  Minimal drowsiness with slow rolling eye movements was noted.  Photic stimulation elicits scant driving.
+HR:    78 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified in this EEG.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

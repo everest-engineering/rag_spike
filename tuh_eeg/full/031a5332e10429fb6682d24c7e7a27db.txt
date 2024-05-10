@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 51 year old right handed female with left carotid stenosis and left CEA with a history of left stroke in June of 2012.
+MEDICATIONS:  Propofol, Percocet, Fentanyl, Vecuronium, Isoflurane
+REASON FOR STUDY:  Left carotid endarterectomy.
+INTRODUCTION:  Digital video EEG was performed during left carotid endarterectomy using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during the entire operation.  Feedback was given to the surgeon as well as discussions with Anesthesia was had throughout the procedure.
+DESCRIPTION OF THE RECORD:  The baseline record revealed a posterior dominant rhythm that reached 9-10 Hz which was reactive to eye opening.  At times there was some focal slowing seen at F7/T3 at 2-4 Hz and an amplitude of 20-60 microvolts.  Otherwise, there was nice frontocentral beta. During the procedure the common carotid was clamped at 10:32:36 and the internal carotid was clamped at 10:31:50.  After clamping no change in the faster frequencies over the left hemisphere were noted and this was informed to the surgeon at 3 and 5 minutes.  The recording continued to be monitored and there continued to be no change at 11:48:13 a.m.  The carotids were unclamped and again there was no change in the faster frequencies in the recording.
+IMPRESSION:  Normal EEG consistent with symmetric background of 9 Hz with no change in the background upon carotid artery clamping.
+CLINICAL CORRELATION:  This was an uneventful left carotid endarterectomy with no changes.  Feedback was given continuously to the surgeon about the EEG.
+
+
+

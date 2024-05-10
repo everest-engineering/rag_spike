@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 32-year-old male admitted on 05/31/2015, after found unresponsive in the field, PEA code, heroin overdose.
+MEDICATIONS: Ativan, midazolam, vecuronium, fentanyl, and others.
+INTRODUCTION: Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG. The patient was experiencing involuntary movements in the initial section of the EEG and a neuromuscular blocking agent was utilized to provide a clear picture of the patient's background cerebral activity. The patient was noted to be tachypneic, with tremor artifact noted without the use of Versed and vecuronium.
+DESCRIPTION OF THE RECORD: The sections of the EEG and their interpretable demonstrate a very slow, featureless pattern with featureless delta. There is a discrete low voltage frontal sharp waves noted infrequently in some sections of the record.  It is present in the frontal regions, may be unilateral or bilateral, and may have infrequently a periodicity of 0.3 Hz. Tactile stimulation of the patient did not activate the record.
+Heart rate: 96-120 BPM.
+IMPRESSION:  Markedly abnormal EEG due to:
+Replacement of normal background with a very slow featureless record.
+Discrete frontal sharp waves without frequency evolution.
+CLINICAL CORRELATION:  No seizures were recorded.  On the whole, this EEG supports a bihemispheric, severe disturbance of cerebral function. The low voltage intermittent frontal sharp waves have almost a triphasic nature, but do not have the characteristic anterior to posterior spread as might be seen in triphasic waves.  If there is any question about ongoing seizures, a more prolonged study may be obtained.
+
+
+
+

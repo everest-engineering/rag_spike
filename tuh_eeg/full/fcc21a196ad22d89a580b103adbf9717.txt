@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  20 year old right handed female with VP shunt, hearing loss, and a 5-year history of epilepsy.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This EEG was recorded in 2 sections.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage frontal central beta.  In addition, there is a fair amount of muscle artifact noted. Hyperventilation produces an increase in theta. In relaxed wakefulness, there is some shifting slowing and a question of a breech rhythm at C4.
+Photic stimulation is performed as the patient is drifting off to sleep.  Photic stimulation elicits a driving response, but there is shifting slowing noted in photic stimulation.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Shifting slowing noted in relaxed wakefulness or early drowsiness, primarily in the central region.
+CLINICAL CORRELATION:  No epileptiform features were observed.  There is a question of a subtle breech in the central regions.  If seizures are an important
+consideration, a more prolonged tracing capturing deeper stages of sleep may be of value.
+
+
+

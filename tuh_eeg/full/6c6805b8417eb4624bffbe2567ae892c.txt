@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 67 year old right handed woman with syncope, extensive cerebrovascular disease, and seizure in late February.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed In lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. Photic stimulation is completed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm. There is a great deal of EKG artifact throughout this EEG, but despite the EKG artifact, there is a right anterior temporal sharp wave with focal slowing in the right frontal central region. Occasional bifrontal shifting slowing is noted as the patient transitions to stage 1 sleep. Other features of sleep include an increase in beta activity followed by vertex waves.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Right anterior temporal sharp waves
+2. Right frontal focal slowing
+CLINICAL CORRELATION: These findings support a localization-related mechanism for epilepsy. If there are additional questions, given the large quantity of EKG artifact, a follow-up study may be useful.
+
+
+

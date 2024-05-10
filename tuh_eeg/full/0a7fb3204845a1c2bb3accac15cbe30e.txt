@@ -1,0 +1,34 @@
+History:	83 year old woman admitted with a stroke.  Patient was noted to have behaviors
+concerning for seizures.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, lethargic
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of polymorphic low
+amplitude theta>delta activity.  During arousals, there is significant diffuse EMG artifact that
+obscures majority of the recording.  There is continuous paucity of faster frequencies over the right
+frontotemporal region.  Sleep spindles are captured.  They are better formed over the left.
+No electrographic seizures are captured.
+Summary of Findings:
+Technically limited
+Artifact, EMG, frequent
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right frontotemporal
+No electrographic seizures
+Asynchrony, sleep spindles, better over the left
+Interpretation:
+This is an ABNORMAL awake and asleep portable technically limited (due to large amount of EMG
+artifact) 22 minute EEG due to moderate diffuse slowing, continuous focal right frontotemporal
+slowing and asymmetry of sleep architecture, with sleep architecture better visualized over the left.
+Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Continuous focal slowing is indicative of a focal structural lesion in the right
+frontotemporal region.  Asymmetry of sleep architecture over the right suggests disruption of right
+thalamocortical connections.  Due to large amount of EMG artifact, subtle abnormalities, such as
+epileptiform discharges, could have been missed.  No electrographic seizures are captured.  These
+findings were conveyed to the primary team.
+
+
+
+

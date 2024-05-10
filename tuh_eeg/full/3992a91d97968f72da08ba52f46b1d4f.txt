@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  22 year old left handed female, status post MVA, 04/06/2012, unrestrained driver, now with confusion.
+MEDICATIONS:  Potassium
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is awake and able to follow commands.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10-Hz alpha rhythm with a small amount of low-voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm and an increase in theta. Spindles are noted in stage II sleep.
+HR:    68 bpm
+IMPRESSION:  Normal EEG in wakefulness through brief stage II sleep.
+CLINICAL CORRELATION:  There were no focal nor epileptiform features noted.  If additional information is needed, a followup study in the lab with hyperventilation and photic stimulation may be of value.
+
+
+

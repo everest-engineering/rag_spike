@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  An 83-year-old male with recent stroke as an inpatient.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not possible.  This was a technically acceptable bedside record with impedances generally acceptable, although a fair amount of muscle artifact was noted.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a relatively slow pattern in a drowsy though.  There is a posterior dominant rhythm of approximately 8-9 Hz identified, this is a bit more vigorous on the left compared to the right.  Despite the significant muscle artifact, there is an asymmetry in the record with disruption of faster frequency activity in the right hemisphere in comparison to the left.
+Heart rate 90 bpm.
+IMPRESSION:  Technically challenging, but abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing in the right hemisphere characterized by slower frequency activity and disruption of faster frequency activity on the right.
+CLINICAL CORRELATION:  No epileptiform features were identified.  These findings may be correlated with imaging.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep performed in the lab may be of value.
+
+
+

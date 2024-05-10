@@ -1,0 +1,24 @@
+History:	27 year old man undergoing hypothermia protocol.
+Medications:	PROPOFOL, MIDAZOLAM, DOPAMINE.
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and
+EKG/Hypothermia electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of nurse-suppression pattern with
+occasional brief bursts consisting of a mixture of polymorphic theta and delta activity.  No normal
+sleep architecture is present.
+There was no reactivity to auditory, tactile, or painful stimuli.  A single EKG lead demonstrates
+heart rate of 60 bpm.
+Summary of Findings:
+Burst-suppression pattern, severe
+No reactivity
+Interpretation:
+This is an ABNORMAL 30-minute portable EEG due to severe burst-suppression pattern and lack of
+reactivity. These findings are etiologically nonspecific indicators of marked diffuse cerebral
+dysfunction.  In this patient, this pattern could be partially related to the medication effect.
+
+
+
+
+

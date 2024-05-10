@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 75-year-old woman with dementia, ACA aneurysm, presented with syncope, hypotension, eye deviation.
+MEDICATIONS:  Synthroid, levothyroxine, Paxil, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This is an awake to stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 7.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  As the patient transitions to sleep, there is dropout of the alpha rhythm, followed by vertex waves and post.  There is some cycle delta, which on the whole symmetric.
+Heart rate:  60 bpm.
+IMPRESSION:  Mildly abnormal EEG due to: Slowing of the alpha rhythm.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified. The mild background slowing is a nonspecific finding, which can be due to this patient's medications or cognitive difficulties.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 64 year old female present for Left CEA.
+MEDICATIONS: Desflurane, Sufentanil, Propofol, Vecuronium,
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrodes placement with 1 channel of EKG. Recording beings at 12:42 p.m. and continues until 5:40. This is a 5-hour study.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is awake with a very well organized, low to medium amplitude pattern with generous beta activity. Anesthetic medications are given after 1 p.m. This produces a pattern of beta with some lower voltage delta. The carotid is clamped at 3:20 according to the tech note, although on the record, the tech has indicated that the carotid was clamped at 3:31.
+
+At 3:21, the EEG demonstrates a nearly continuous pattern with slight discontinuity. The pattern is rich in theta frequency activity.
+At 3:31:04, the technologist has marked that the internal carotid is clamped. The EEG is slightly discontinuous at that time as was seen prior to placement of the clamp. Placement of clamp does not produce additional changes in the EEG. As the recording continues, the EEG actually becomes a bit more continuous compatible with changes in the level of anesthesia. Discontinuity in this record is limited to 1 to 2 seconds and sometimes is simply an attenuation. EEG recording continues until the carotid is opened at 3:15. Patency is confirmed by Doppler and the study ends at 5:40 p.m.
+HR: 60 bpm
+IMPRESSION/CORRELATION: EEG monitoring during this left carotid endarterectomy did not identify significant focal features.
+
+
+

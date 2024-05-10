@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  47 year old right handed male, atypical migraine, post traumatic stress disorder, anxiety and insomnia, episodic dizziness with lack of coordination.
+MEDICATIONS:  Topamax, Ativan, Ambien.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is low to medium amplitude with a well defined 8 Hz alpha rhythm, a small amount of low voltage, frontocentral beta activity. Central Mu activity is seen, but testing is not performed to confirm this. Hyperventilation is performed early on in the record producing brief bursts of hypersynchronous rhythmic higher amplitude theta delta. Photic stimulation elicits bilateral driving. Heart rate is 60 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were seen. Normal EEG does not exclude a diagnosis of epilepsy. If this patient is found to have frequent events, an outpatient ambulatory EEG recording may be of value.
+
+
+

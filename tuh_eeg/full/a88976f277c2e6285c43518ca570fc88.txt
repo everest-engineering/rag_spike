@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  72-year-old woman with hypoxic respiratory failure, breast cancer, and encephalopathy.
+MEDICATIONS:  Insulin, vitamin B12, Arixtra, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was in mittens and was agitated.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow, poorly organized pattern with a glimpse of a 9 Hz alpha rhythm and excess beta and theta, as well as intermittent arrhythmic delta activity.  There are bursts of shifting arrhythmic delta activity, which disrupts the sections of the record that have more significant alpha frequency activity.  Brief drowsiness is characterized by a bit of hypersynchronous slowing and then the patient remains awake and agitated.
+Heart rate:  102 bpm.
+IMPRESSION:  Abnormal EEG due to slow and disorganized pattern.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The slow and disorganized pattern is a nonspecific finding and can be seen in many clinical settings including toxic or metabolic encephalopathy.
+
+
+
+

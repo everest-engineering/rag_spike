@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 64-year-old gentleman with history of seizures and motor vehicle accident status post fall and loss of consciousness.
+PAST MEDICAL HISTORY:  Significant for hypertension, hyperlipidemia, and back pain.
+MEDICATIONS:  Vicodin.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  This is a technically limited study due to muscle artifact in most of the recording.  In the most alert state, the posterior dominant rhythm was 8-8.5 Hz in frequency noted for a short period of time in the occipital region, which attenuates with eye opening.  There is 6-7 Hz diffuse theta activity seen during wakefulness.  There is generalized low amplitude beta activity, which is distributed symmetrically.  Stage 1 sleep is characterized by disappearance of the posterior dominant rhythm and slowing of the background, and absence of muscle and eye blink artifact, as well as the presence of vertex sharp waves.  Stage 2 sleep is characterized by the presence of K complexes and sleep spindles.  Photic stimulation was performed at multiple flash frequencies and results in no driving response.  Hyperventilation was associated with slowing of the background activity.  Heart rate was 80 beats per minute and regular.
+IMPRESSION:  This is a technically limited EEG due to a muscle artifact in most of this recording.  This is an abnormal EEG due to slowing of the posterior dominant rhythm and background activity during wakefulness and sleep.  No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  Slowing of the posterior dominant rhythm and background activity are suggestive of cerebral dysfunction due to toxic, metabolic, infectious, or degenerative disorders.  The generalized beta activity could be due to medication effect including benzodiazepine, barbiturate, or could be due to anxiety or hypothyroidisms.  No epileptiform abnormalities were seen in this record.  This does not rule out the diagnosis of epilepsy.  A repeat EEG is recommended due to technically limited recording.
+
+
+
+

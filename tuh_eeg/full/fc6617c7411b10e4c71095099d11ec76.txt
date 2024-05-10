@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  62 year old right handed woman with epilepsy, onset at age 40, characterized by episodes of twitching of mouth and legs for several minutes.  No loss of consciousness.  May bite her lip.  Last event 1 month ago.
+MEDICATIONS:  Tegretol, Valium, Effexor, Flexeril, Tenormin, Singular, Bentyl, Proventil
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9 Hz alpha rhythm.  There is generous beta noted.  Hyperventilation produces an increase in amplitude of the record.  Photic stimulation produces a driving response. The patient demonstrates multiple normal variants including wicket, and also rhythmic mid-temporal theta of drowsiness.  Both of these are epileptiform appearing.
+Other features of drowsiness include attenuation of the alpha and an increase in beta.
+HR:    72 bpm
+IMPRESSION:   EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were seen.  If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep may be of value.
+
+
+

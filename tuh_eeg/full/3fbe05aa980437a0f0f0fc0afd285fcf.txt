@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 45-year-old male with diabetes, anxiety, hypertension, and an episode of rapid tremulousness.
+MEDICATIONS:  Keppra, Ativan, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The tech noted that there was significant electrical artifact in the room.
+DESCRIPTION OF THE RECORD:  As the record opens the patient is awake with a well organized alpha rhythm of 11 Hz and generous beta.  During the EEG the patient has tremulousness of the left arm.  This is associated with movement artifact, but not epileptiform features.  The technologist interacts with the patient during his clinical event.  The EEG demonstrates an awake pattern with an individual who can respond to questions.
+Heart rate:  96 BPM.
+IMPRESSION:  This bedside EEG is normal.
+CLINICAL CORRELATION:  The motor activity and the behavior described was not associated with epileptiform activity.
+
+
+

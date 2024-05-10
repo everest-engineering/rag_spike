@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 43-year-old male with history of traumatic brain injury, motorcycle accident with right occipital injury.  Seizure free for 1 year, the patient would like to stop seizure medications.
+MEDICATIONS:  Carbamazepine, blood pressure medicines.
+INTRODUCTION:  Routine outpatient digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable record with most impedances below 5 kilohms.  It captures wakefulness and sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.5 hertz, 30 microvolt posterior dominant rhythm with a generous amount of low voltage, frontocentral beta.  Occasional rhythmic frontal slowing was noted.  In addition, intermittent focal slowing was noted from the right hemisphere with disruption of faster frequency activity and arrhythmic delta.  This was seen in drowsiness and hyperventilation.  Deeper stages of sleep were not sustained.
+Hyperventilation produces rhythmic frontal slowing as well as higher amplitude rhythmic generalized slowing.
+Photic stimulation elicits a driving response, slightly more prominent on the left.
+Heart rate: 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Superimposed arrhythmic delta activity in the right hemisphere.
+__________.
+CLINICAL CORRELATION:  No definitive epileptiform features were seen.  These findings may be correlated with imaging.
+
+
+

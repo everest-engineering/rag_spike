@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 54 year old right handed female with history of carotid stenosis. The patient presented with a seizure when she had a stroke last week.
+MEDICATIONS: Midazolam, Fentanyl, Propofol
+INTRODUCTION: Digital video EEG was performed at bedside in the OR using standard 10-20 system of electrode placement with 1 channel of EKG. Our typical carotid endarterectomy montage was modified. The montage was then corrected by the technologist toward the end of the record which was a 2.5 hour study.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient appears to have received some sedating medicines. The overall background EEG is relatively low voltage. At 8:13, the patient appears to have received more sedative hypnotic medications and the EEG is somewhat discontinuous. Heparin is given at 9:16. The carotid is clamped at 10:01. Despite the challenges in this EEG which include a dynamic pattern and some shifting slowing particularly in the right posterior region, no significant focal features are noted with placement of the carotid. Doppler is used to assess potency at 10:47. No focal features are noted. The patient's level of anesthesia seems to be fluctuating at 11:16 with an increase in faster frequency activity.
+HR: 90bpm
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this fight carotid endarterectomy was remarkable for an abnormal preprocedure EEG with intermittent slowing in the right posterior quadrant but no additional focal features were noted with placement of the clamp.
+
+
+

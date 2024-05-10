@@ -1,0 +1,17 @@
+History:	59 year old woman who presents to the hospital after 5 reported convulsions. Medications :  Tegretol, Topamax, Ativan
+Sedation:
+EEG Type: Technique:
+Routine, awake & drowsy, portable
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+Description:
+There is no PDR or AP gradient.  The background consists primarily of diffuse polymorph ic theta activity with underriding beta activity and overriding prominent polymorphic slow delta activity. Right frontocentral region contains frequent subtle stereotyped runs of activity that are concerning for electrographic
+seizures. These runs start with right frontocentral (Fp2, F4, C4) medium amplitude fast activity that evolves into - 6 Hz rhythmic sharply contoured theta activity that spreads towards midline (Cz lead) and posteriorly (P4 lead). These runs last - 20-30 seconds and occur frequently throughout the recording. There is no obvious clinical correlate. During drowsiness, EMG artifact disappears.
+Hyperventilation and photic stimulation are not performed. Summary of  Findings:
+Status epilepticus, right, frontocentral Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL 22-minutes awake and drowsy portable EEG due to moderate diffuse slowing and recurrent brief runs of stereotyped activity that are concerning for recurrent seizures (partial status epilepticus)  Diffuse slowing is indicative of mild to moderate diffuse cerebral dysfunction , which is etiologically nonspecific. There epileptogenic structural abnormality over the right frontocentral region.
+These findings were conveyed to the primary team at the time of the record review.  Patient was subsequently  placed on continuous  EEG monitoring.
+
+
+
+

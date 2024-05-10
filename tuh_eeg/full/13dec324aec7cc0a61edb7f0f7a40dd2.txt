@@ -1,0 +1,47 @@
+History: 59 year old woman with a reported first convulsion several days ago.
+Medications:	Ativan, Ambien, Zoloft
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of 10.5-11 Hz alpha activity that attenuates with eye
+opening.  There is an expected AP gradient with faster frequencies at lower amplitudes anteriorly.
+Diffuse excess beta activity is captured.  Symmetrical sleep architecture consisting of vertex waves,
+sleep spindles and K-complexes is captured in the second half of the recording.
+Multiple events concerning for focal electrographic seizures are captured in the first half of the
+recording.  Clinically, patient has not complaints and able to answer questions correctly, including
+able to count during these events.  They last ~ 35-55 seconds.  The onset is not clearly lateralized
+for the majority of the events.  They start with P3/P4 broad moderate amplitude sharp waves that
+gradually increase in frequency up to 6 Hz and spread to the left posterior temporal region
+(example ~12:17 PM).  Some events start with ~ 4 Hz medium amplitude rhythmic right parietal
+activity that gradually spreads to the left parietal and left temporal regions (example ~12:35:50 pm).
+After hyperventilation, brief bursts (<10 sec) of non-evolving shifting bilateral
+posterior 5-6 Hz rhythmic moderate amplitude delta activity are captured.  Once P3 and P4 leads
+are exchanged at ~12:46:55 PM, the above activity is no longer present.  A single clear right
+posterior temporal sharp wave with aftergoing slow wave is captured early in the recording.
+Maximal scalp negativity occurs over the T6 lead.  Hyperventilation is performed for 240 seconds
+with good cooperation, and results in increase of bilateral parietal rhythmic delta activity.  Stepped
+photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple
+Summary of Findings:
+Beta, excessive
+Sharp waves, one, right temporal, posterior
+Sleep, stage 2
+Seizure, frequent, bilateral parietal, 35-55 seconds
+Interpretation:
+This is an ABNORMAL 48 minute awake and asleep EEG due to presence of multiple suspected
+bilateral parietal focal brief (35-55 sec) seizures/ ictal runs.  Of note, these runs disappeared once
+P3 and P4 electrodes were exchanged but patient also fell asleep.  Additionally, a single clear
+right posterior temporal epileptiform discharge is present.  These findings suggest structural focal
+cerebral abnormality over the bilateral parietal, right temporal region.  Since It is possible that
+activity seen was artifactual (it disappeared after leads were exchanged), a repeat prolonged EEG
+may be of benefit.  These findings were discussed with the ordering physician.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+flash rates.
+
+
+
+
+
+

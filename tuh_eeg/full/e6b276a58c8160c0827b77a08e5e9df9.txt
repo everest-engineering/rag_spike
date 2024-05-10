@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 46-year-old woman with a history of intracranial bleed in 09/2011 status post craniotomy.
+MEDICATIONS:  Keppra, Klonopin, trazodone, buspirone, and others.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  Maximal wakefulness is achieved by the end of the recording.  During maximal wakefulness, the posterior dominant rhythm consists of 7 to 8 Hz theta activity.  The anterior to posterior frequency amplitude gradient is weak.  The majority of the recording is captured during sleep.  Abundant sleep spindles are captured.  There is intermittent asymmetry of sleep spindles.  This asymmetry is independent and bilateral and is most prominent posteriorly.  No clear epileptiform discharges are captured.  Hyperventilation is not performed.  Stepped photic stimulation does not result in additional abnormalities.
+FINDINGS:
+Mild diffuse slowing.
+Independent bilateral asymmetry of sleep spindles, most prominent posteriorly.  No clear epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and asleep 22-minute EEG, due to mild diffuse slowing and asymmetry of sleep architecture, most pronounced posteriorly.  Mild diffuse slowing indicates etiologically nonspecific mild diffuse cerebral dysfunction.  Asymmetry of sleep architecture could be secondary to underlying focal pathology, and in this case could be consistent with the patient's history of prior intracerebral hemorrhage and surgery.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

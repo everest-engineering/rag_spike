@@ -1,0 +1,35 @@
+History:	53 year old woman with new onset episodes of right arm shaking.
+Medications:	None
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, hyperventilation
+Description:
+The background consists of low-to-moderate amplitude polymorphic 8 Hz theta activity and weak
+AP gradient.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording
+and increases during drowsiness.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely.
+Intermittent polymorphic theta and delta activity is present in the left frontocentral region during
+wakefulness, increasing during drowsiness.  Frequent left frontocentral sharp waves are present.
+Maximal scalp negativity occurs over F3/C3 electrodes.  Frequency of sharp waves increases during
+drowsiness.  They are often periodic and semiperiodic (PLEDs and quasi-PLEDs), 1-2 Hz,  occurring
+in brief runs (up to 20 seconds long).  Two seizures are captured at ~ 7 min 17 seconds and 22 min
+42 seconds into the recording.  They last ~ 12 seconds and 43 seconds, respectively.  The first
+seizure does not an obvious clinical correlate.  The second seizure is associated with rhythmic right
+Electrographically seizure #1 is characterized by rhythmic left frontocentral sharp waves that rapidly
+increase in frequency (up to 2 Hz) and amplitude.  Onset of seizure #2 is obscured by EMG.  There
+is appearance of rhythmic F3/C3 sharp waves that gradually increase in frequency (up to 4 Hz) and
+amplitude and speed to Cz electrode.  Hyperventilation is performed for 240 seconds with good
+cooperation, and produces diffuse symmetric background slowing.  Stepped photic stimulation is
+not performed.
+Summary of Findings:
+Seizure, two, left, frontocentral: sz #2 associated with right arm shaking
+PLEDs (periodic lateralized epileptiform discharges), occasional, left, frontocentral; also quasi-
+Focal slowing, polymorphic, intermittent, moderate, left, frontocentral
+Interpretation:
+This is a very abnormal awake and drowsy 24 minute EEG due to left frontocentral focal slowing,
+left frontocentral semi-periodic and periodic epileptiform discharges and 2 brief focal left
+frontocentral seizures. These findings are indicative of a structural lesion and an epileptogenic
+focus in the left frontocentral region.  These findings were conveyed to the primary team at the
+time of the record review.  Patient will be placed on continuous EEG monitoring.
+

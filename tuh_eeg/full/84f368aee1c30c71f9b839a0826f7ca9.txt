@@ -1,0 +1,25 @@
+MEDICINE:
+Seroquel, Keppra, and lactulose.
+HISTORY:
+A 67-year-old male with a history of epilepsy since approximately age 50, typically alcohol withdrawal seizures. Status post meningioma resection in the right parasagittal region approximately 10 years ago. No additional seizures since transfer to nursing home in March.
+INTRODUCTION:
+Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel EKG.
+Photic stimulation was performed hyperventilation.
+DESCRIPTION OF RECORD:
+In maximum wakefulness, the alpha rhythm reaches 8 Hz. It is a bit higher amplitude on the left in comparison to the right. The alpha rhythm on the right is somewhat slower. A breech rhythm is prominent in the right central region with accentuation of beta activity in that region. There is suggestion of right central, waves, but-there is-breech activity in this region. Vertex waves are noted in stage I sleep. Drowsiness is characterized by accentuation of the beta frequency activities and likely the right central sharp waves, but wicket is also noted in the region.
+Deeper stages of sleep are not sustained.
+Photic stimulation elicits scant bilateral driving. There is also some shifting, slowing noted in photic stimulation.
+HEART RATE:
+60 bpm.
+IMPRESSION:
+Abnormal EEG due to:
+1. Generalized background slowing.
+2. Subtle slowing in the right hemisphere.
+3. Right focal slowing at C4.
+4. Likely C4 sharp waves.
+
+CLINICAL CORRELATION:
+The breech rhythm (a craniotomy defect) accentuated underlying epileptiform activity. In any case, the epileptiform activity and focal slowing is the most prominent in the region of his previous neurosurgery.
+
+
+

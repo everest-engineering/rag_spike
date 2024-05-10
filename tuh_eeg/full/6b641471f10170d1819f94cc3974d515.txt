@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  Twenty-five-year-old woman anemia, leukopenia, and an episode of syncope lasting 5 minutes in July 2012.
+MEDICATIONS:  Omeprazole.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10Hz alpha rhythm.  Drowsiness is characterized by attenuation of the alpha rhythm with rhythmic central theta.  Photic stimulation elicits scant driving.  Hyperventilation does not significantly activate the record.  Heart rate 90 BPM.
+IMPRESSION:  Normal EEG in wakefulness through stage I sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified in the record.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow-up study capturing deeper stages of sleep may be valuable.
+
+
+

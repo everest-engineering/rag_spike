@@ -1,0 +1,43 @@
+History:	61 year old man undergoing aortic root/ hemiarch replacement and aortic valve
+replacement
+Medications:	Klonopin; versed, fentanyl, sevoflurane gas, rocuronium,
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Patient is awake at the beginning of the procedure.  The opening background consists of ~10 Hz
+PDR, expected AP gradient, bursts of diffuse theta and delta and diffuse excess beta activity.
+There is no asymmetry.  At ~ 7:47:32 AM, there is rapid change in the background, disappearance
+of PDR and AP gradient and appearance of diffuse delta activity.  This corresponds to
+administration of anesthesia and patient intubation.  The background gradually becomes a mixture
+of polymorphic alpha, theta activity with underriding delta activity and periods of brief
+discontinuity. Additionally, subtle polymorphic delta activity is noted over the left fronto-central/
+centroparietal  region.  Cardiopulmonary bypass is initiated at ~ 9:32 AM.  Following it, there is a
+diffuse change in the background with increase in diffuse polymorphic delta activity and decrease
+in underriding fast activity.  At ~10:20 AM there is increase in the amount of diffuse monomorphic
+fast activity in the alpha-frequency range and decrease in delta activity. There is also gradual mild
+voltage attenuation.  This corresponds to increase in isoflurane concentration.  The background
+changes throughout the case depending on isoflurane concentrations from somewhat monomorphic
+theta and alpha activity to a mixture of frequencies.  From ~ 11:45 AM till ~ 12:40 PM there is
+further attenuation of the background.  Cause of such a change is not clear (no changes in
+medications or vital signs reported).  The Attending surgeon was made aware of the change.  There
+is gradual improvement in the background with a mixture of frequencies at medium amplitudes
+observed by the end of the recording. Subtle polymorphic delta activity persists over the left fronto-
+central/ centroparietal region.  Cardiopulmonary bypass is stopped at ~ 12:28 PM.
+Cardiac arrhythmia and increase in heart rate to  ~100-120 bpm are noted on a single EKG lead at
+~ 9:47 AM.  At ~ 9:57 AM no activity is observed on a single EKG lead.  QRS complexes re-appears
+at ~ 12:45 PM.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left, fronto-central/ centroparietal; not observed during
+Interpretation:
+This was an unremarkable 5 hour and 21 minute intraoperative EEG monitoring with ~ 4 hours of
+direct remote monitoring and ~15 minutes of inside OR monitoring.  The Attending Surgeon was
+notified of any major EEG changes throughout the case. Patient was on the cardiopulmonary
+bypass from ~ 9:32 AM till ~ 12:28 PM.  Intermittent focal slowing in the left frontocentral/
+centroparietal region is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.
+
+
+
+
+

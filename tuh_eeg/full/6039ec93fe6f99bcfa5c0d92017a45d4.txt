@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 67 year old right handed female with left carotid stenosis.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20  system of electrode placement with 1 channel EKG. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 Hz alpha rhythm with a scant amount of 8 Hz activity in the background. As the patient becomes drowsy, there is a small amount of right or left temporal theta. Occasional shifting slowing in the temporal regions is noted as the patient transition toward sleep. Photic stimulation does not activate the record.
+HR: 50 bpm
+IMPRESSION: Minimally abnormal EEG due to:
+1. Minimal excess temporal theta for age.
+CLINICAL CORRELATION: No epileptiform features were noted. The theta described above is a nonspecific finding but can be seen in the context of underlying cerebrovascular disease .
+
+
+
+

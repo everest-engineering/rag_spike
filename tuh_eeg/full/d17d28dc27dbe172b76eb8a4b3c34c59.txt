@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  59-year-old male with small cell lung cancer, admitted on the night of 22nd with recurrent seizures characterized by right arm shaking and confusion.
+MEDICATIONS:  Inpatient medicines are Keppra, Dilaudid, valium, Decadron.  Chemotherapeutic medications.
+INTRODUCTION:  22-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG monitoring.  Hyperventilation and photic stimulation were deferred.  The patient was quite somnolent and with stimulation, a brief alerting was associated with muscle artifact.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage pattern with mixed frequency activity including delta and theta.  There are shifting asymmetries noted in the record, but no sustained focality.  Stimulation of the patient produces a brief alerting with a glimpse of a posterior dominant rhythm and muscle artifact, and then the patient drifts off to sleep.
+Heart rate:  Irregular at 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a low voltage, slow pattern.
+Shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Despite the history described above, there were no strongly lateralizing features.  The background slowing may be due to this patient's CNS pathology, toxic or metabolic factors, or postictal state.
+
+
+
+

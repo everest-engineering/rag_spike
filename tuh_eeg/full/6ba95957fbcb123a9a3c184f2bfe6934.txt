@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  57 year old female presents with history of MCA stroke now with continuous left hand shaking.
+MEDICATIONS:  Keppra, Oxycodone, Donepezil, ASA, Gabapentin, Escitalopram, Clonidine, Prochlorperazine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record.  The patient has right arm and hand pain during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized with generous beta, but a 9 Hz alpha rhythm.  There is a subtle asymmetry between the 2 hemispheres with disruption of faster frequency activity which is relatively subtle, but is seen in the frontocentral and posterotemporal regions.  In addition, as the patient becomes drowsy there is a bit more focal slowing with isolated delta or theta.
+Features of photic stimulation include a driving response which is better seen on the right compared to the left.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Mild generalized background slowing.
+Focal slowing with disruption of faster frequency activity in the hemisphere and intermittent focal delta.
+CLINICAL CORRELATION:  The patient's symptoms of twitching in the left hand were not associated with sharp waves or spikes.  This EEG supports a diffuse disturbance of cerebral function as well as a focal process as might be considered following a stroke.
+
+
+

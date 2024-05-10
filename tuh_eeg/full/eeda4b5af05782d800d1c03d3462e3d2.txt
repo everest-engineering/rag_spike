@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 63 year old right handed male who had a stroke with right arm and leg weakness.
+MEDICATIONS: Insulin, Hydralazine, Zocor, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was attempted. Photic stimulation was performed. This is an awake and sleep record in a very sleepy individual.
+DESCRIPTION OF THE RECORD: In maximal wakefulness there is a 9 Hz posterior dominant rhythm. The maximal awake record is identified primarily at the end of the recording. Drowsiness is characterized by increase in beta. In the transition to sleep, there is rhythmic slowing, POSTS, and occasional bursts of slowing in the posterior quadrant, left or right. Photic stimulation elicits bilateral driving.
+HR: 66 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. A small amount of shifting slowing in the posterior regions.
+CLINICAL CORRELATION: No epileptiform features were seen. There were no strong lateralizing features observed. If epilepsy is an important consideration a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

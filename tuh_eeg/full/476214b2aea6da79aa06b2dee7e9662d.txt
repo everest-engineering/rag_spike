@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  33 year old right handed male with seizures in 2010, last seizure 2 weeks ago with tonic clonic seizures followed by confusion.  History of childhood epilepsy.
+MEDICATIONS:  Methadone, Xanax, Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz posterior dominant rhythm.  Hyperventilation is performed early on in the record producing rhythmic eye blink but there is also the appearance of some very subtle underlying rhythmic theta from the left frontocentral region.  Drowsiness follows this with an increase in beta activity, anterior spread of the alpha rhythm, and eye blink artifact.  Photic stimulation elicits bilateral driving.
+HR:    84 bpm
+IMPRESSION/CLINICAL CORRELATION:  This is a challenging EEG due to a fair amount of movement of rhythmic eye blink artifact.  Subtle left frontocentral focal features noted in hyperventilation only should be interpreted with caution.
+There were no epileptiform features noted in this EEG which contrasts to a previous, inpatient study which demonstrated left rhythmic sharp activity and frontally predominant rhythmic theta and delta seen bilaterally.
+The prior inpatient EEG was recorded in closer proximity to a seizure which may explain why epileptiform activity was identified.
+
+
+

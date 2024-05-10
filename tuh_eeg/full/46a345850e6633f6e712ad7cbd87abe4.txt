@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 83 year old male with confusion, evaluate for seizures.
+MEDICATIONS: Hydralazine and others not listed in chart.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is quite somnolent.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a quite slow and disorganized pattern. Delta is the primary frequency in the temporal regions with more of a mixed theta and delta in the central regions. The delta is somewhat slower on the right compared to the left. Occasional vertex waves and FIRDA is observed. Stimulation of the patient produces an alerting response with more of a rhythmic 5 Hz theta frequency pattern and then the patient drifts back to sleep.
+HR: 78 bpm and irregular.
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing.
+2. Disorganization.
+CLINICAL CORRELATION: The findings described above are nonspecific and may be seen in multiple different processes, including toxic or metabolic encephalopathy. No epileptiform features were noted. These findings may be correlated with imaging. These findings may be part of a chronic or an acute neurologic process.
+
+
+

@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  65-year-old woman with anemia, Etoh abuse and left intracranial hemorrhage.
+MEDICATIONS:  Serax and others.
+INTRODUCTION:  Twenty-four hour digital video EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and poorly responsive.  The patient had previously been evaluated for left arm involuntary movements, which were not identified in this section of the record.  This is a technically acceptable study.
+DESCRIPTION OF THE RECORD:
+Background:  The background EEG varies from drowsy pattern to an awake pattern with muscle activity.  The pattern includes a prominent asymmetry between the 2 hemispheres with somewhat featureless arrhythmic delta activity from the left hemisphere and disruption of faster frequency activity.  Eye movement is noted, but the bedside assessment is that the patient is not responsive to the examiner.  The initial sections of the record demonstrate some alpha and theta frequency activity in the right hemisphere and this is noted a bit more prominently when the patient has eye movements and is moving about.  Other sections of the record are compatible with a sleep or drowsy pattern with some spindle activity noted primarily in the central regions and primarily on the right in comparison to the left.  Arrhythmic delta activity or shifting focal delta activities noted in the left hemisphere particularly with F7 phase reversal.
+Over the course of the monitoring, the patient demonstrates spontaneous arousals including 11:20:58.  At those times, the well defined posterior dominant rhythm that was previously noted is not well delineated.  The background is slower on the left as well.
+Seizures: None
+Epileptiform Discharges: None
+Heart rate from 60 to 90 bpm, occasionally irregular.
+IMPRESSION:  This initial section of video EEG room monitoring is remarkable for:
+No epileptiform features.
+An asymmetric pattern with focal slowing from the left hemisphere and significant disruption of the background on the left.
+Deteriorating Pattern on the right, which is not as well organized and lacks the alpha rhythm, in comparison to the baseline study on the 14th.
+CLINICAL CORRELATION:  Ongoing video EEG monitoring will be obtained in search of the behaviors considered concerning for seizures.  The increasing slowing, in the absence of significant new CNS pathology supports a diffuse disorder of cerebral function.
+
+
+

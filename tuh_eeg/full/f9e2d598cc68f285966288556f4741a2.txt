@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 70-year-old female, status post PEA code on 03/22/2013 at 1:30 p.m., found unresponsive at home for at least 30 minutes.  Past medical history significant for hypertension, diabetes, CHF, atrial fibrillation.  Patient is intubated on Versed drip in ICU.
+MEDICATIONS:  Versed, Depakote, and others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In the comatose state, there is burst suppression pattern consisting of burst of high amplitude, sharply contoured delta activity with a frequency of 2-3 Hz intermixed with sharp and slow wave discharges and also spike and poly spike activities lasting 7-12 seconds with intervening periods of suppression lasting 8-10 seconds in duration.  There are myoclonic jerks involving face and upper and lower extremities, which are time-locked with the burst.  There is no spontaneous variability or stimulation reactivity noted during this recording.  Heart rate was 90 to 100 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to burst suppression pattern.
+CLINICAL CORRELATION:  The burst suppression pattern can be seen in the context of diffuse cerebral dysfunction with coma and indicates the clinical severity, which can be seen in cerebral anoxia, hypothermia, end-stage status epilepticus, and high levels of sedation.  Clinical correlation is recommended.  The presence of burst suppression in the setting of anoxic brain injury is associated with poor prognosis.
+
+
+

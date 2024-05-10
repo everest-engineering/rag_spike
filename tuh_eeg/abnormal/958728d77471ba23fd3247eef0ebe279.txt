@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  29 year old right handed male with single seizure followed by failure to recognize his brother and postictal confusion in July 2012.  Patient did recall EMS subsequently.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a small amount of low voltage, frontocentral beta and a 10.5 Hz alpha rhythm.  Early in drowsiness, there is subtle slowing of the background. Other features of drowsiness include a prominent increase in beta followed by rhythmic central theta.  The patient transitions to stage 2 sleep with vertex waves, spindles and POSTs during photic stimulation.  Despite this, as he transitions in and out of sleep during photic stimulation, there is a driving response.  Hyperventilation produces a small amount of slowing.
+HR:    78 bpm
+IMPRESSION:  Normal EEG is wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  There were no epileptiform features identified.  If additional information is needed, a follow-up, more prolonged study or sleep-deprived study might be of value.
+
+
+

@@ -1,0 +1,28 @@
+History:	33 yr male found down, received cpr x5 min. Pt now with szs. History of  HIV, HCV,
+heroine/cocaine abuse. Narcan/vecuronium/versed given in field to intubate
+Medications:	Midazolam, Levetiracetam
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+Background activity was characterized by diffuse low voltage delta and theta activity with absence
+of the expected anterior to posterior gradient of frequencies. There is diffuse amplitude attenuation
+of the background.  Frequent eye blink artifact is noted.  No normal sleep architecture was present.
+There are frequent 2 Hz sharp waves in the bifrontal regions noted.  The record showed a few
+electrical seizures characterized by with rhythmic sharp wave discharges in bilateral frontal regions
+lasting up to 2 minutes.
+Hyperventilation and photic stimulation were not performed.  HR was 100-110 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous diffuse
+Sharp waves, frequent, bilateral frontal
+Seizure
+Attenuation, continuous diffuse
+Interpretation:
+This is an ABNORMAL 40 minute EEG because of diffuse background slowing and absent alpha
+rhythm, amplitude attenuation, and intermittent sharp waves with electrographic seizures.  Diffuse
+slowing and attenuation is an etiologically nonspecific indicator of moderate to severe diffuse
+cerebral dysfunction.  Electrographic seizures arising from the bifrontal region are indicative of an
+epileptogenic focus in this region, and are consistent with status epilepticus.
+
+

@@ -1,0 +1,19 @@
+History:	71 year old male with anterior MCA infarct recently discharged to rehab found to be somnolent. Re-admitted with complete right MCA infarct. EEG to r/o sub clinical seizures
+Medications:	Heparin, Protonix Sedation:
+EEG Type: Technique:
+Continuous (inpt, video), 24 hrs
+International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, obtunded
+Continuous bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for -17 hours from 09/06/2014 till 09/07/2014.   Nursing­ initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  There is clear right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The background over the left consists of a mixture of polymorphic theta and delta activity. The background over the right consists of polymorphic delta activity.  Some sleep -spindle like waveform are present bilaterally.
+There is reactivity to visual, auditory, tactile, or noxious stimuli. Summary  of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, severe, right hemispheric No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous 17 hour video EEG due to moderate diffuse slowing and severe continuous focal right hemispheric slowing. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a focal structural lesion in this region and is consistent with a history of right MCA territory stroke.  No electrographic seizures are present.  These findings were conveyed to the primary team.
+
+
+

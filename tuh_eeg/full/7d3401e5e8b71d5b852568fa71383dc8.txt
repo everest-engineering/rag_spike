@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 74-year-old male admitted to the Medicine service recently for episode of loss of consciousness with postictal confusion, cardiac pathology.
+MEDICATIONS:  Lisinopril, Requip, metoprolol, aspirin, Mevacor, Plavix, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a followup EEG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.5 Hz alpha rhythm.  Drowsiness was characterized by slow rolling eye movements.
+Notable in this record, hyperventilation seems to elicit a somewhat asymmetric hyperventilation response with drop out of faster frequency activity on the left compared to the right and a bit of slowing on the left, although there is some movement artifact.  In addition, in drowsiness, the alpha rhythm drops out on the left a little earlier than the right.
+Photic stimulation did not activate the record.
+Heart rate irregular, 60-80 BPM.
+IMPRESSION:  This is a mildly abnormal EEG due to:
+Focal slowing noted on the left, seen in hyperventilation and in the transition to drowsiness.
+CLINICAL CORRELATION: There are some technical limitations to this record, but the left focal features appear to be genuine.  The irregular heart rate may be a new finding and the patient's outpatient physician will be contacted.
+
+
+

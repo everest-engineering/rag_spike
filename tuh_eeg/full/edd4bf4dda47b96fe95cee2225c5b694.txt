@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  36 year old right handed woman with depression, anxiety and palpitations.  History of recurrent syncope but with one episode with loss of consciousness and shaking of arms and hands.  Post ictal tremulousness.
+MEDICATIONS:  Cyclobenzaprine, Naprosyn, Celexa, Seroquel, Ativan, Lorazepam
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Brief drowsiness was characterized by an increase in theta and attenuation of the alpha rhythm.   Hyperventilation did not activate the record.  The patient started to fall asleep during photic stimulation.  A driving response was observed at faster flash frequencies.
+HR:    90 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were noted.  If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

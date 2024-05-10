@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  70 year old woman, status post PEA code on May 9 with 16 minute asystolic event, breast cancer, Parkinson's disease, many other medical problems.
+MEDICATIONS:  Colace, heparin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a body temperature of 98 and has not received any sedative, hypnotic, or paralytic medications and is able to trigger the respirator.
+DESCRIPTION OF THE RECORD:  This EEG is remarkable for absence of definitive cerebral activity.  There is 1.9 Hz artifact noted in the background.  The patient is not paralyzed and there is some muscle artifact noted. Tactile stimulation does not activate the record.  There is no variability.
+HR:    126 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Absence of definitive cerebral activity.
+CLINICAL CORRELATION:  In this individual with a significant anoxic insult.  If there are any other questions, a repeat study using a paralytic agent to eliminate the muscle
+artifact may be considered.  This EEG may be evaluated with the patient's other clinical features, but suggest a severe anoxic encephalopathy.
+
+
+

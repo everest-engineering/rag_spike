@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  79 year old right handed woman with recent TIA, intermittent delirium.
+MEDICATIONS:  Unknown by patient
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  Photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is low-voltage.  There is a 9 Hz alpha rhythm.  There is intermittent low-voltage theta and delta in what is otherwise a quite low-voltage record.  There are sections of the record where the background is well organized with lambda.  Prominent eye artifact is observed. Photic stimulation functions as an alerting response with symmetric driving.
+HR:    60 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Intermittent excess theta.
+CLINICAL CORRELATION:  The intermittent excess theta is a nonspecific finding and can be seen in the context of a diffuse disturbance of cerebral function such as underlying ischemic cerebrovascular disease or dementia.  No epileptiform features
+have been seen in any of her EEGs.  If epilepsy is an important consideration, a followup study is suggested.
+
+
+

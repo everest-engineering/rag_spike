@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  48 year old transplant patient with history of hepatitis C, rheumatic heart disease.  The patient was reevaluated for confusion, tremulousness, and jerkiness.
+MEDICATIONS:  Seroquel, Ativan, CellCept, Dilaudid, Insulin, Benadryl, Prograf, Nystatin, Valcyte, Prednisone, Protonix, Lopressor, Acetylcysteine, Bactrim, ASA
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG monitoring.  The patient is confused.  This is an awake and drowsy record where jerking is noted in the EEG.
+DESCRIPTION OF THE RECORD:  There are abundant sections of the record with an 8.7 Hz alpha rhythm and generous low voltage, frontal central beta.  The patient is quite restless and if she becomes restless there is an increase in delta.  Sleep is not sustained.  Occasional muscle jerks is not associated with epileptiform activity.
+HR:    138 bpm
+IMPRESSION:  Abnormal EEG due to:
+Periods of agitation characterized by an increase in background slowing.
+CLINICAL CORRELATION:  The overall background has improved compared to last week.  The patient's involuntary movements do not carry an EEG signature.  Overall, this EEG is most supportive of a metabolic process.
+
+
+

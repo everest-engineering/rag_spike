@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is an 88-year-old right handed woman with change in mental status and hypertension, treated in the emergency room with benzodiazepine.
+MEDICATIONS:  Percocet and Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Central mu activity was noted, but testing was not performed to confirm this.  There is a small amount of background theta.  Drowsiness is characterized by an increase in beta.  Occasional muscle artifact is noted.
+Heart rate 54 bpm.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness for an adult of this age.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in the record.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

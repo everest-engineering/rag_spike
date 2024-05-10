@@ -1,0 +1,35 @@
+History:	65 year old female presenting with left intracranial hemorrhage.  She had a PEA
+code 7/21/14.
+She now has episodes of eye flutter and right gaze deviation and upward gaze.
+Medications:	No AED, no sedation
+Sedation:	None
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture is present but few periods of quiescence are captured.
+Intermittent polymorphic delta activity is present in the bifrontal regions.  No clear electrographic
+seizures are present.  Frequent brief episodes of eye flutter and gaze deviation to the left are not
+associated with an abnormal ictal correlate, but there is large amount of EMG artifact and subtle
+Hyperventilation and photic stimulation were not performed.  HR 66.  There is nearly continuous
+prominent diffuse EMG artifact that limits interpretation of the recording.
+Summary of Findings:
+No electrographic seizures
+Focal slowing, polymorphic, intermittent, severe, bilateral frontal
+Diffuse slowing, polymorphic, moderate-to-severe
+Artifact, EMG, nearly continuous
+Other, eye flutter and gaze deviation do not have an associated ictal correlate
+Interpretation:
+This is an ABNORMAL 24-minute awake and drowsy EEG due to moderate-to-severe diffuse
+slowing that is most pronounced over the anterior regions. These findings are etiologically
+nonspecific indicators of moderate-to-severe diffuse cerebral dysfunction.  No clear electrographic
+seizures are present but there is frequent diffuse EMG artifact that limits interpretation of the
+recording.  A repeat study with a paralyzing agent may be of benefit.  Frequent brief episodes of
+eye flutter and gaze deviation to the left are not associated with an abnormal ictal correlate, but
+there is large amount of EMG artifact and subtle findings could be missed.
+
+
+
+

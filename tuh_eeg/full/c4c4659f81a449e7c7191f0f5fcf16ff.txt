@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 95 year old woman with dementia and an episode of right-sided tremulousness and confusion, now with persistent obtundation.
+
+MEDICATIONS: ASA
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has advanced dementia and is poorly responsive but is less responsive than usual. Hyperventilation and photic simulation are performed.
+
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a mixed frequency background rich in beta and theta. There is also some frontally predominant delta. Stimulation of the patient produces an increase in beta and alpha frequency activity.
+
+HR: 90 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Background disorganization.
+2. Background slowing.
+3. Excess beta.
+
+CLINICAL CORRELATION: These findings are nonspecific but can be seen in a diffuse disturbance of cerebral function due to many different causes. If epilepsy is an important consideration, a repeat study may be useful.
+
+
+
+

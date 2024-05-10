@@ -1,0 +1,10 @@
+TYPE OF STUDY:  Outpatient EEG.
+CLINICAL HISTORY:  A 24-year-old female, patient had an abrupt presyncopal-like sensation with a funny pressure in her head, felt queasy, left the room, dropped to the floor and was found with convulsive-like motor activity.  No past history of epilepsy or known epilepsy risk factors.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient appeared to be nervous.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm.  There is low voltage, frontocentral beta activity.  Rhythmic eye blink artifact is noted, as is a small amount of shivering.  Hyperventilation does not significantly active the record.  Photic stimulation elicits vigorous bilateral driving. Heart rate 84 BPM.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this acute, postictal EEG.  If epilepsy is an important consideration, a follow-up study capturing sleep may be of value.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 56-year-old woman with atrial fibrillation, hypertension, GI bleed, drop in hematocrit.
+MEDICATIONS:  Cefepime, rifaximin, lactulose, fentanyl.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage, continuous pattern.  In the initial sections of the record, when unstimulated, the EEG is low voltage, featureless with eye movements.  Eye movements are slightly asynchronous, raising the possibility of some challenges, and electrode placement.  With stimulation, there are various different patterns including a lower voltage pattern with fast activity.  Spontaneous arousals were associated with an increase in theta.  Eye movement, jaw movements, and other artifacts were noted in the background.
+Heart rate 96 BPM.
+IMPRESSION:  This is a technically acceptable, 20-minute routine bedside EEG record in an ICU patient and is remarkable for:
+Generalized background slowing.
+CLINICAL CORRELATION:  No significant focal or epileptiform features were noted.  The background slowing is a nonspecific pattern and can be related to a toxic or metabolic encephalopathy or the use of sedative hypnotic medications.  The presence of reactivity and variability are positive prognostic features.
+
+
+

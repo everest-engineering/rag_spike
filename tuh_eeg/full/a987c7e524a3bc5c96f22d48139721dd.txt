@@ -1,0 +1,36 @@
+History:	52 year old woman with a history of medically refractory childhood epilepsy.
+Medications:	Albuterol, Lamictal and Ativan
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles, and vertex waves.
+No focal slowing is present.  Abundant generalized frontally-maximal spikes with aftergoing slow
+waves are present.  While awake, they occasionally occur in 1-2 second bursts of generalized 3-4 Hz
+spikes with aftergoing slow waves.  When patient falls asleep, high amplitude isolated generalized
+frontally predominant spikes and polyspikes are captured.  At times they are more pronounced over
+the right.  A phenomenon of dyshormia is captured during sleep.
+Hyperventilation is performed for 240 seconds with good cooperation, and exacerbates
+generalized epileptiform discharges.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at flash rates from 3 to 13 fps.
+Summary of Findings:
+Spike-and-wave complexes, fast, frequent generalized, 3-4 Hz
+Sleep, stage 2
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and asleep 1 hour EEG due to 3-4 Hz generalized frontally
+predominant spike and waves and polyspike and wave discharges. These findings are suggestive of
+generalized mechanism of epilepsy, however, scone occasional right sided epileptiform discharge
+predominance is present, secondary bisynchrony too is a possibility.
+
+
+
+
+
+

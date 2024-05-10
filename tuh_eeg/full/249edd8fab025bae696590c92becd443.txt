@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 44-year-old woman with a history of schizophrenia, recently diagnosed with HIV and asthma, now with a question of seizures.
+MEDICATIONS:  Albuterol, Benadryl, Robitussin, Motrin, Elocon, Seroquel
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+LENGTH OF RECORDING:  23 minutes.
+DESCRIPTION OF THE RECORD:  The patient remains asleep throughout most of the recording.  During very brief wakefulness, the posterior dominant rhythm consists of low to moderate amplitude 10 to 11 Hz alpha activity.  Fast alpha variant, is observed.  There is an anterior to posterior frequency amplitude gradient during the period of very brief wakefulness.  The majority of the recording is asleep.  Sleep spindles, Vertex waves, and K-complexes are captured.  There is no focal slowing and no epileptiform discharges.  Hyperventilation is performed with poor effort and produces no background change.  Photic stimulation does not produce driving in the background.
+FINDINGS:
+Mostly asleep study.
+No epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is a normal, primarily asleep, EEG.  No epileptiform discharges are captured.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

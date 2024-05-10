@@ -1,0 +1,35 @@
+History:	51 year old man status post left ICH status post hematoma evacuation.
+Medications:	Keppra, Oxycodone, Zocor, Trazodone, Others
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of well formed and modulated 10-11 Hz alpha posterior and
+expected AP gradient.  The background over the left consists of polymorphic unstable 8-9 Hz
+activity posteriorly, absent AP gradient and primarily polymorphic theta activity with overriding
+sharply contoured delta activity, especially pronounced over the midtemporal-central  region.
+Additional, underriding fast activity is noted over the left midtemporal-central region.  Diffuse
+excess beta activity is present.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+No clear epileptiform discharges are observed.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left, midtemporal-central
+Breach artifact, left, midtemporal-central
+Beta, excessive
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 43-minute EEG due to continuous moderate left
+midtemporal-central focal slowing. This finding is indicative of a focal structural lesion in this
+region.  No clear epileptiform discharges are present, but stage 2 sleep was not recorded.  If
+clinically indicated, repeat EEG with sleep recording may provide additional information.  Breach
+artifact is secondary to a skull defect.  Excessive beta activity could be secondary to the medication
+effect, such as benzodiazepines or barbiturates.
+
+
+
+

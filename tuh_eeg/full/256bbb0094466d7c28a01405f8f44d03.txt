@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  44 year old right handed male, childhood epilepsy, refractory epilepsy.  He has had seizures characterized by tonic clonic seizures with loss of consciousness, postictal confusion, and visual impairment. Seizures types include complex partial seizures with epigastric rising.
+MEDICATIONS:  Vimpat, phenobarbital.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm of 8.0 Hz.  This is sometimes disrupted on the left compared to the right.  In addition, there is occasional, rhythmic slowing in the left temporal region with rhythmic 3-5 Hz activity.  Rare left temporal sharp waves are observed.  As the patient transitions towards sleep, there is some more sharply contoured slowing from the left.  Sleep is not sustained.
+Photic stimulation elicits bilateral driving with supraharmonic driving.
+HR:    56 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left temporal rhythmic theta.
+Rare left temporal sharp waves.
+Alpha asymmetry.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the left.  The sharp waves are in the region of the focal slowing.
+
+
+

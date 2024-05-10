@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  38 year old left handed woman with right temporal meningioma, now with infrequent seizures, but persistent hallucinations.  The patient recalls no recent seizures.
+MEDICATIONS:  Tegretol, Celexa, Motrin, Omeprazole
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm.  Prominent beta activity is noted.  A breech rhythm is noted, particularly in the right central region with prominent accentuation of beta frequency activity. Hyperventilation elicits focal slowing in the right central temporal region.  The patient is very drowsy and is in stage II sleep during much of the record, including during photic stimulation.
+HR:    48 bpm
+IMPRESSION:  This EEG is remarkable for:
+Focal slowing in the right central region accentuated by hyperventilation.
+A breech rhythm in the same region.
+CLINICAL CORRELATION:  The focal slowing and breech rhythm are anticipated findings following craniotomy.  In contrast to previous EEG, no sharp waves or seizures were recorded.  Additional evaluation for bradycardia may be appropriate.
+
+
+

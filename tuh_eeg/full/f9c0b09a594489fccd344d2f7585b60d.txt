@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 50 year old man with history of recent ischemic stroke and left sided weakness. He was found to have high grade ICA stenosis.
+
+MEDICATIONS: Isoflurane, Propofol, SEVOFLURANE, Versed, Rocuronium, Lidocaine, Fentanyl, Neosynephrine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness there is a 6-7 Hz posterior dominant rhythm. Shifting slowing can be seen from either hemisphere. At times there is a bit more theta or delta on the left. There are also isolated bursts of delta on the right. Drowsiness is characterized by an increase in beta. A telephone produces electrical artifact in the scalp electrodes on the right.
+
+HR: 90 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Shifting slowing, sometimes slower on the right or left.
+
+CLINICAL CORRELATION: No definitive epileptiform features were seen. The shifting slowing should be clinically correlated with imaging.
+

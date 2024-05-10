@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  29 year old right handed woman with fibromyalgia and epilepsy.  She has 2 types of seizures, including grand mal seizures which began as a funny smell and then clenching of hands and teeth.  These may occur in sleep.  In addition, she has seizures characterized by an aura, followed by blanking out for a few minutes.
+MEDICATIONS:  Trileptal, Klonopin, Pristiq, Pamelor.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness the background EEG is well organized with an 11 Hz alpha rhythm.  There is a small amount of background theta. Hyperventilation produces an increase in theta. Wicket is noted.  Photic stimulation elicits a vigorous driving response at essentially all flash frequencies.
+Muscle artifact is noted in relaxed wakefulness.
+HR:    84 bpm and irregular
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  Wicket is a normal finding.  If further characterization of this patient's epilepsy is needed, a more prolonged record capturing stage II sleep is suggested.
+
+
+

@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  Adult female with MRSA pneumonia, sepsis, decline in mental status, increasing left-sided weakness.
+MEDICATIONS:  Vimpat, Depakote, Keppra, Ativan, Versed, phenobarbital.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG and seizure and spike detection software.  The patient had 1 episode of left arm shaking at 3:28.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is relatively awake with a lower voltage, but slow pattern on the left and a glimpse of a 9 Hz alpha rhythm.  High amplitude periodic complexes were noted from the left hemisphere with a polyphasic component and some frequency evolution.  At 3:39, around the time that the patient has a clinical event with the arm shaking, there is more muscle and a bit more periodicity but no definitive evolution.  In the initial sections of the record, the epileptiform activity more clearly waxes and wanes.
+Versed is given around 4:00 p.m. producing a slowing of the periodic activity.  Phenobarbital was given over the course of the evening, again producing some slowing at least transiently.
+Over the evening, after the phenobarbital, the patient is described as more awake and more alert.  She was awake at 3:45 a.m. and at that point, there is an increase in epileptiform activity on the right but without clear clinical correlates.
+By the morning of the 26th, although the patient waxes and wanes from wakefulness to sleep, there is more sustained wakefulness with a suggestion of an alpha rhythm on the left.
+Heart rate 84 BPM.
+IMPRESSION:  Abnormal electroencephalogram due to:
+A pattern of periodic activity with waxing and waning, epileptiform activity, and seizures compatible with a late status epilepticus or ictal pattern.
+Highly epileptogenic focus in the right hemisphere with some variability in the central and parietal and posterior temporal occipital regions.
+Marked slowing on the right.
+An improving pattern on the left but one that remains somewhat slow.
+CLINICAL CORRELATION:  This EEG demonstrates an improvement in a worrisome pattern without ongoing clinical seizures but supports a very highly epileptogenic process.
+
+
+

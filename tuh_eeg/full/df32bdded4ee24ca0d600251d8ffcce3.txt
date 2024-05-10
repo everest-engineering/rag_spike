@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  22 minutes
+CLINICAL HISTORY:  The patient is a 74 -year-old woman with a history of recent right PCA stroke with subsequent left homonymous hemianopia, CHF, anemia, depression, who now presents with new visual disturbance.
+MEDICATIONS:  Hydralazine, Labetalol, aspirin, amlodipine, folic acid, vitamin B, Zocor, Protonix.
+CONDITION OF THE RECORDING:  The recording was performed according to standard the 10-20  system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  There is a posterior dominant rhythm which is 9.5 Hz alpha activity during maximal wakefulness.  There is anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Additional diffuse polymorphic theta activity is captured.  During drowsiness, brief bursts of diffuse polymorphic delta observed. Intermittent, at times, sharply contoured polymorphic theta and delta activity is captured over the left anterior temporal region.  Hyperventilation and photic stimulation are not performed.
+FINDINGS:
+Mild diffuse slowing.
+Intermittent moderate left anterior temporal slowing.
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and drowsy 22 minute EEG due to mild diffuse slowing and intermittent moderate left anterior temporal slowing.  Diffuse background slowing indicates etiologically nonspecific diffuse cerebral dysfunction; since the degree of slowing improves as patient's level of alertness increases, it is possible that slowing at least partially related to excessively drowsy patient.  Focal left anterior temporal slowing indicates focal cerebral dysfunction, possibly structural in etiology.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

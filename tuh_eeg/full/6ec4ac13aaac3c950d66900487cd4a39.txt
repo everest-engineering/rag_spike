@@ -1,0 +1,35 @@
+History:	65yo RH woman found down shaking and foaming at the mouth.  She had another
+episode in the ED with prolonged post ictal confusion. PMH of right frontal calcified
+meningioma and seizures.
+Medications:	Keppra, Ativan
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is captured.  During drowsiness, the
+background slows to central theta activity, frontal beta activity becomes more prominent, and the
+alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further
+to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Intermittent subtle polymorphic theta and delta activity is present in the left anterior temporal
+region during wakefulness, increasing during drowsiness and sleep.  No epileptiform discharges are
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate of ~ 60 bpm.
+Summary of Findings:
+Sleep, stage 2
+Focal slowing, polymorphic, intermittent, left temporal, anterior, subtle
+No epileptiform discharges
+Beta, excessive
+Interpretation:
+This is an ABNORMAL awake and asleep EEG due to subtle intermittent mild-to-moderate left
+anterior temporal focal slowing. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  The lack of epileptiform discharges on a
+routine EEG does not rule out a clinical diagnosis of epilepsy.  Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.  A single EKG lead
+
+
+
+
+

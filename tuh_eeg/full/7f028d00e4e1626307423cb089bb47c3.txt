@@ -1,0 +1,23 @@
+CLINICAL HISTORY:  Status post cardiac arrest on 09/05, at 7:00 a.m. with initially cranial nerve signs present, but comatose on the 5th.
+
+MEDICATIONS:  Multiple pressors, no sedative hypnotic medications.  Epinephrine, vasopressin and norepinephrine.
+
+INTRODUCTION:  Continuous bedside EEG monitoring was performed using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  No clinical seizures were noted.  This EEG captures September 5 through September 6.
+
+The patient remained comatose without involuntary movements.
+
+DESCRIPTION OF RECORD:  The initial sections of the record demonstrate a suppressed pattern.  By 6:00 p.m. on the 5th, the EEG demonstrates scant cerebral activity in a more suppressed and burst suppression pattern.  In the overnight recording, the EEG transitions to a burst suppression pattern with cerebral activity which may be 3 seconds in duration.  There is an asymmetry in that there is a bit more cerebral activity on the left compared to the right and some of which is sharply contoured at T5 or T1.
+
+By the end of this section of EEG at 11:30 on the 6th, the patient seems to have some very slow periodic eye movements.  The EEG is demonstrating an increase in continuity.  The subtle sharp waves noted at T5 and the sharply contoured slowing noted on the left persists, but has not significantly evolved.
+
+Heart rate is 110 BPM.
+
+IMPRESSION:  This is a markedly abnormal 24 hour video EEG due:
+1. Initially a suppressed brain pattern.
+2. Transition to a burst suppression pattern.
+3. An asymmetric pattern with some left posterior temporal sharp waves noted.
+
+CLINICAL CORRELATION:  The overall pattern carries a worrisome prognosis following cardiac arrest.  Although, the EEG is now demonstrating a continuous pattern, it is a low voltage slow pattern.  Ongoing clinical observation is suggested in that the EEG demonstrates asymmetry and sharp waves, though not frequent, are present.
+
+
+

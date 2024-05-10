@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 25-year-old male with recurrent ganglioglioma resections in childhood, patient states that he has been seizure free since 2007.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  A prominent craniotomy defect was noted in the left temporal and central regions.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well formed, __________ rhythm reaching 70 microvolts in amplitude.  A prominent breech rhythm was noted with accentuation of beta activity in the left temporal and central regions almost involving the right central region.  Intermittent underlying focal slowing was noted in the left central temporal region and was clearly accentuated by hyperventilation.  In addition, there was some shifting and slowing also accentuated by hyperventilation.  In this sharply contoured record, as the patient transitions in and out of stage I and stage II sleep with vertex waves and spindles, there are a handful of sharp waves noted in the left central temporal region with an after going slow wave.  Other features of the drowsy record include an accentuation of the focal slowing in the left hemisphere including frontocentral and posterior temporal regions with attenuation of activity in drowsiness in the left frontocentral region.
+Photic stimulation was performed while the patient was drifting off into stage II sleep.  Photic stimulation elicited scant driving.
+Heart rate:  60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Left hemispheric focal slowing with variable maxima depending on whether the patient is awake, asleep or performing hyperventilation.
+In the context of a breech rhythm and a sharply contoured record, there are a handful of sharp waves with after going slow waves in the left mid temporal region.
+CLINICAL CORRELATION:  The findings described above are congruent with a structural process on the left as well as a breech rhythm.  A breech rhythm can accentuate background activity but there are a handful of sharp waves with after going slow waves suggesting an ongoing potential for seizures in this seizure free adult.
+
+
+

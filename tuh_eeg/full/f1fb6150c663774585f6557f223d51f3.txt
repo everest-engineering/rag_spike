@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  49 year old right handed male, having placement for aortic surgery.  Mitral valve replacement.
+MEDICATIONS:  Versed, Fentanyl and others
+INTRODUCTION:  Digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The recording begins at 8:43 a.m. and ends at 4:10; this is an 8-hour and 20-minute EEG for this patient.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake in the operating room.  The EEG demonstrates a symmetric pattern, although the overall amplitude is low voltage with generous theta and a hint of an alpha rhythm.  Medications to induce anesthesia began at 8:44 and produced a symmetric pattern with frontal delta and generous beta.  Movement artifact is noted.
+During the course of the EEG, a balloon is inserted at 1:29 p.m.  Balloon pressure rises to 450.  The patient was placed on cardiac bypass at 1:40.  A ring is inserted at 1:45.  The balloon is deflated at 3:48 p.m., and the heart is restarted at 3:49.  The patient is "shocked" at 3:56, and he is rewarmed at 3:57 p.m.
+Although it is a lower voltage EEG, there is generous beta.  The record remains symmetric.  With anesthesia, there are intermittent 1-second attenuations, but no real burst suppression pattern.  Generous beta is noted at 11:40.  The overall pattern is symmetric.  Movement artifact is noted intermittently.  Right lung "down" at 11:23.
+Heparin given at 11:42.  Lung expanded at 12:20.
+The EEG is unremarkable with a generous beta pattern with balloon insertion.  There seemed to be some electrode problems in the left frontal region, but aside from this the record is symmetric.  Although there is some variability in the beta activity and there is some loss  of electrodes on the left, there are no focal or generalized features noted with these cardiac maneuvers.
+HR:   80 to 117 bpm.
+IMPRESSION/CORRELATION:  EEG monitoring during this long procedure was not associated with focal features.
+
+
+

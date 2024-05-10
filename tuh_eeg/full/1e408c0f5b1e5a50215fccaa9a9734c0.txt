@@ -1,0 +1,36 @@
+History:	41 year old man who presents after 2 generalized convulsions, now with persistently
+poor mental status.
+Medications:	Dilantin, keppra,
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 03/14/2015 till 3/15/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+During arousals the background consists of primarily low amplitude polymorphic theta activity.
+Periods of sleep are characterized by low amplitude delta activity, admixed with underriding fast
+activity and sleep spindles.
+Frequent multifocal independent focal and generalized sharp waves and spikes are captured.
+Sharp waves are captured over the left frontocentral region, left temporal, right frontocentral,
+predominantly left occipital,  bifrontal region.  Many epileptiform discharges are also generalized.
+Some appear as low amplitude polyspikes.  No electrographic seizures are observed.
+Summary of Findings:
+Sharp waves, frequent multifocal
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL continuous 24 hour video EEG due to moderate diffuse slowing and
+multifocal epileptiform discharges. Diffuse background slowing indicates diffuse cerebral
+dysfunction, that is etiologically non-specific.  Its severity decreases as the recording progresses.
+Epileptogenic potential is present in multiple cerebral regions.  No electrographic seizures are
+present.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+

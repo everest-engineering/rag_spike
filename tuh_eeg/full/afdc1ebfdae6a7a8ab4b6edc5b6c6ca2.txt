@@ -1,0 +1,14 @@
+Department of 	Sex:	Female
+History:	74 YO FEMALE H/O SEIZURE  PMH:  ESRD ON HD, DEMENTIA, CKD, CHF, DM,
+HTN, HEP-C, ANEMIA PT WITH CHANGE IN MS.  FOUND TO BE IN STATUS?
+Medications:	Keppra
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, asleep, comatose
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta activity with absence of the expected anterior to posterior gradient of frequencies. Diffuse, frontally maximal sharp waves with triphasic morphology are present throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag. They occur at 2-3Hz continuously throughout the record.  No normal sleep architecture was present. No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Triphasic waves
+Interpretation:
+This is an ABNORMAL EEG because of frequent frontally-maximal triphasic waves and severe diffuse background slowing.  These findings are indicative of a severe diffuse encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin.

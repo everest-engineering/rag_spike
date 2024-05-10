@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 32 year old right handed male with epilepsy. Not known to have a seizure within the last 3 years.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: This is an awake and asleep record. In wakefulness, there is 10.5 hertz alpha rhythm. Posterior slow waves of youth are identified. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits vigorous bilateral driving.
+HR: 60 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are identified in this record. A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

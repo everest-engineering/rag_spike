@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 71 year old right handed male with right carotid stenosis and MRI with stroke in 2011.  Episodic left arm numbness and clumsiness, microvascular changes on the MRI.
+MEDICATIONS:  ASA, Lipitor, Enalapril, HCTZ
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG demonstrates a well-organized pattern.  There is a 10 Hz alpha rhythm present bilaterally.  Lambda is also present bilaterally.  As the patient becomes drowsy, there is an increase in theta.  On rare occasions, as the patient starts to become drowsy, the alpha drops out slightly earlier on the right than the left, but overall, this is an awake EEG.
+HR:    72 bpm
+IMPRESSION:  Very subtly abnormal EEG due to:
+Drop out of the alpha rhythm on the right.
+CLINICAL CORRELATION:  Unfortunately, very limited drowsiness and sleep was recorded.  Therefore, these findings should be interpreted with caution.  This EEG will be used for this patient's carotid endarterectomy baseline.
+
+
+

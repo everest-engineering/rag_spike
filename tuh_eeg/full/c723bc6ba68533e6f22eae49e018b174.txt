@@ -1,0 +1,42 @@
+AGE: 64 y.o.
+SEX: female
+DATE OF STUDY: 11/24/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1715
+HISTORY:
+64 y.o. female with a history of atrial fibrillation, hyperlipidemia, GERD, and gout presenting with a history of altered mental status. Her family witnessed shaking of her head then rolling of her eyes with loss of consciousness.
+She was referred for routine EEG for assessment of mental status change.
+MEDICATIONS: AMLODIPINE, METOPROLOL, ATORVASTATIN SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9.5 Hertz posterior dominant rhythm (PDR) . The normal anterior-to posterior gradient of frequency and amplitude is present.
+During brief periods of drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.
+There is abundant left temporal polymorphic slowing; occasionally this slowing becomes rhythmic (see below under "epileptiform activity") .
+There is frequent synchronous and also independent right temporal polymorphic slowing; occasionally this slowing becomes
+quasi-rhythmic (see below under "epileptiform activity") .
+EPILEPTIFORM ACTIVITY:
+Occasional bi-temporal (left > right) independent quasi-rhythmic slowing at 1-2 Hz for runs of 6 seconds or less, as above (temporal intermittent rhythmic delta activity [TIRDA] or lateralized rhythmic delta activity [RDA] ).
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+An irregular heart rate of 84 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and briefly drowsy routine EEG due to:
+Abundant left temporal polymorphic slowing; occasionally this slowing becomes rhythmic [TIRDA I lateralized RDA] .
+Frequent synchronous and also independent right temporal polymorphic slowing; occasionally this slowing becomes
+quasi-rhythmic [TIRDA I lateralized RDA] .
+An irregular heart rate of 84 bpm captured on a single EKG lead.
+CLINICAL CORRELATION:
+These findings indicate the presence of bitemporal independent (left > right) cerebral dysfunction.
+Temporal intermittent rhythmic delta activity (TIRDA, also known as lateralized rhythmic delta activity or RDA), seen bitemporally but more on the left, has been associated with seizures.
+Clinical correlation is advised.
+An irregular heart rate of 84 bpm is captured on a single EKG lead.
+
+
+

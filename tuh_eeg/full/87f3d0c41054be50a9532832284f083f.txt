@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  35 year old right handed male, with a seizure May 7, described as a feeling of euphoria and then lost consciousness. The patient is aware afterwards, when he is postictal, he is terrified and combative.  He reports 3-4 times per week he wakes up out of sleep feeling as if he may have had a seizure in sleep, is confused.  Past history of bipolar disease and positive family history of epilepsy.
+MEDICATIONS:  Cymbalta, Tegretol, Tramadol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm of 40 mV.  There is a small amount of background theta noted in the background.
+Hyperventilation is performed early in the record producing an increase in theta.  At the end of hyperventilation and as the patient drifts off into drowsiness, there is a subtle asymmetry with a bit more irregular theta on the left, but this disappears as the patient transitions towards stage II sleep.  Muscle artifact persists at times into the transition into sleep. Photic stimulation elicits bilateral driving.
+HR:    78 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Subtle left temporal theta noted primarily in the transition to drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The left temporal theta is a nonspecific finding which can be a seen in a structure or functional abnormality.  It can also be seen in individuals with epilepsy.
+
+
+

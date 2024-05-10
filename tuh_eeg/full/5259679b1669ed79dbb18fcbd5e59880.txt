@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 53-year-old male with new onset epilepsy with first-ever seizures characterized by tonic/clonic seizures after alcohol ingestion.  The patient was admitted to the medical ICU for alcohol withdrawal.
+MEDICATIONS:  Keppra, Ativan drip, midazolam.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient had received an Ativan bolus just prior to the EEG.  The patient was intubated and comatose.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage pattern with generous, continuous beta and smaller amounts of delta.  Stimulation of the patient produces a muscle activity but minimal alerting.
+Heart rate 72 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with beta frequency pattern.
+Lower voltage delta.
+CLINICAL CORRELATION:  There is some head rocking artifact in this record but no definitive focal or epileptiform features.  If epilepsy is an important consideration, a followup study when the patient is out of the ICU may be considered.
+
+
+

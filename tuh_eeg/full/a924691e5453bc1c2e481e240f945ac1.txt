@@ -1,0 +1,52 @@
+AGE : 83 y.o.
+SEX: female
+DATE OF STUDY: 12/15/2015
+RECORDING ENVIRONMENT : outpatient EEG TYPE: 20-40 min, awake only EEG # :. 15-1818
+HISTORY :
+83 y .o . female with a history of vascular dementia and pituitary adenoma s/p surgery and radiation therapy referred for routine EEG for evaluation of memory problems .
+MEDICATIONS , per Epic :
+Current Outpatient Prescriptions:
+amlodipine (NORVASC) 2.5 mg tablet, take 1 tablet by mouth once daily
+hydrocortisone (CORTEF) 10 mg tablet, Take 1 tablet by mouth See Admin Instructions . 10mg in the am, 5mg in the pm
+pravastatin (PRAVACHOL) 20 mg tablet, take i' tablet by mouth once
+daily
+Cholecalciferol, Vitamin D3, (VITAMIN D) 1,000 unit Capsule, Take 2 capsules by mouth daily.
+levothyroxine (SYNTHROID, LEVOTHROID) 100 mcg tablet, take 1 tablet by mouth once daily
+megestrol (MEGACE) 40 mg tablet, Take 1 tablet by mouth daily . mirtazapine (REMERON) 15 mg tablet, Take 1 tablet by mouth nightly .
+Food Supplement, Lactose-Free (ENSURE HIGH PROTEIN) Liquid, Drink one can a day
+omeprazole (PRILOSEC) 20 mg capsule, take 1 capsule by mouth once  daily
+Multivitamins-Minerals -Lutein Tablet, Take 1 tablet by mouth
+daily.
+Aspirin 81 mg Tablet, Take by mouth.
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a fairly well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 7 Hertz posterior dominant rhythm (PDR) .
+Drowsiness and sleep are not captured. There is mild generalized slowing.
+There is frequent left temporal polymorphic slowing.
+There is occasional independent right temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes .
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION :
+This is an abnormal awake only routine EEG due to:
+Mild generalized slowing and suboptimal organization
+Frequent left temporal polymorphic slowing
+Occasional independent right temporal polymorphic slowing
+CLINICAL CORRELATION:
+These findings indicate the presence of left greater than right temporal dysfunction superimposed on mild diffuse cerebral dysfunction.
+No epileptiform discharges were present, but stage 2 sleep was
+not recorded.	If clinically indicated, repeat EEG with sleep
+recording may provide additional information.
+
+
+

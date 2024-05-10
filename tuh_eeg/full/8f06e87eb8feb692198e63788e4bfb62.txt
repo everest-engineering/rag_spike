@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  47 year old right handed gentleman with a 10-year history of epilepsy.  Seizures began with an aura of a bad taste in his mouth, then sweating, followed by staring.  Seizures last 1-2 minutes in duration without tonic clonic activity.  Seizures increase with stress.
+MEDICATIONS:  Depakote, Lamotrigine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm which is symmetric and reactive to eye opening.  There is a small amount of low voltage frontal central beta. Drowsiness is characterized by an increase in beta, followed by POSTS and vertex waves. Photic stimulation elicits bilateral driving. Hyperventilation produces an increase in amplitude of the background.
+HR:    84 bpm
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  A follow up, more prolonged, study or a study capturing 1-2 seizures may be of value.
+
+
+

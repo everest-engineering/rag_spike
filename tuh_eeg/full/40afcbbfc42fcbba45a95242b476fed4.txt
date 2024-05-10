@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  59 year old right handed woman with severe obstructive sleep apnea, strong family history of epilepsy.  She has had episodes since 1970 where she drops to the floor or drops things from the right side.
+MEDICATIONS:  Insulin, Naproxen, Metformin, Omeprazole, Hydrodiuril, Furosemide, ASA, Amlodipine, Lisinopril, Methadone, Spironolactone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  The patient was complaining of low blood sugar and received candy during the EEG to alleviate her symptoms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11-Hz alpha rhythm with a small amount of low voltage frontocentral beta.  Vertex waves and spindles are noted in stage II sleep.  The patient is falling asleep during photic stimulation.  There is occasional shifting slowing, a bit more so on the left than the right.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Greater than expected temporal focal slowing with left more than right focal slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

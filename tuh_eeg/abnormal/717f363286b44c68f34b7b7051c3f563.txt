@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 48 year old right handed male with refractory epilepsy, recurrent hospitalizations for seizures, post traumatic epilepsy, postictal stridor, frontal encephalomalacia, substance abuse.
+MEDICATIONS: Depakote.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is completed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hz posterior dominant rhythm. Central mu is identified, but testing is not performed to confirm this. Intermittent rhythmic delta is noted from the right mid temporal region with a mixture of theta delta. This becomes more prominent as the patient becomes drowsy. There is also some electrode artifact noted. In the transition to sleep there is some shifting slowing observed from either hemisphere. Photic stimulation elicits bilateral driving.
+HR: 78bpm
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent rhythmic slowing from the right temporal region.
+CLINICAL CORRELATION: In comparison to other postictal records, there is far less background slowing or disorganization. Previous EEGs have identified a right temporal focus and this EEG is congruent with the rhythmic slowing described above.
+
+
+
+

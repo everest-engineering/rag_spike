@@ -1,0 +1,43 @@
+History:	77 year old woman with a history of left PCOM aneurysmal coil in 12/2014,
+subsequently severely disabled, was observed to have right facial twitching last
+night, requiring Ativan and Dilantin load. Patient remains altered.
+Medications:	Ativan, Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms and attenuated background
+over the left.  The background over the left consists of a mixture of polymorphic theta and delta
+activity admixed with frequent periods of discontinuity.  The background over the right consists of a
+mixture of moderate amplitude theta, delta and alpha activity with alpha activity especially
+pronounced anteriorly(especially over the frontocentral region).  This alpha activity has sleep
+spindle-like appearance and often occurs in runs up to 10 seconds long (example, 9:50 AM).
+Intermittently, this activity is preceded by polymorphic frontocentral delta activity.  Periods of
+discontinuity, albeit less frequent than those found over the left, are noted over the right.  Periods
+of quiescence are clearly noted with periods of discontinuity becoming more frequent and synchronous.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Discontinuous background, intermittent, bilateral (L>R)
+Other, brief right frontocentral runs of uncertain clinical significance
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 22 minute EEG due to moderate diffuse slowing
+that is more pronounced over the left, left hemispheric voltage attenuation and intermittent brief
+right frontocentral runs that are not clearly ictal. Diffuse slowing is indicative of mild to moderate
+diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal and attenuation
+over the left is indicative of a focal structural lesion in this region.  This could also be post-ictal
+phenomenon (such as a form of Todd's-like phenomenon).  Left hemispheric attenuation could also
+be secondary to a fluid collection between the brain and the skull, such as empyema, hematoma
+et etc.  Please correlate clinically.  When compared to the EEG from 12/2014, there is increase in
+diffuse background  slowing that is especially pronounced over the left.  Given the above findings,
+patient may benefit from continuous EEG monitoring to better ascertain the etiology of right
+frontocentral runs and focal left hemispheric slowing.  These findings were conveyed to the primary
+team.
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+History:	33 YR OLD FEMALE PRESENTS WITH H/O ? SZ ONSET X 4 YRS AGO. PT
+REPORTS FEELING OF DEJA VU 3-4 X A MONTH ALONG WITH A STRONG
+SMELL ( AURA )  ELECTRICAL WITH HA THAT OCCURS 30-40 X A DAY LASTING
+FOR 10 SEC. EEG TO R/O SZ
+Medications:	Prilosec
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring in the EMU was performed for 20 hours from 03/14/2014
+to03/15/2014.   Nursing-initiated event buttons were correlated with clinical behavior.     All
+automatically detected events were reviewed in detail by  the attending neurologist.
+# Push button events	5
+Description of pushbutton events
+See below.
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed
+by symmetric vertex waves and POSTs.
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+72  Had 5 push buttons in which she complained of perceiving a burning smell. On one spell she
+was slow to follow commands but alert. No EEG changes were seen during this time.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 20 HOURS EEG, awake, drowsy, and asleep. The five spells had no EEG
+correlate.  However, only ~25% of simple partial seizures are captured on a scalp EEG.
+
+

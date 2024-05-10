@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 29 year old right handed female with syncope, past history of herpes, mental illness and other medical problems.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: As the recording begins the patient is asleep. The overall background is quite low voltage. There is a glimpse of 9 Hertz alpha rhythm. The patient attempts hyperventilation but is falling back to sleep. Stage 2 sleep includes vertex waves, K-complexes and spindles. Photic stimulation does not activate the record.
+HR: 66 bpm
+IMPRESSION: Unusual EEG due to:
+1. Low voltage with very limited wakefulness identified.
+CLINICAL CORRELATION: There are no epileptiform features noted in this record. The sleep morphologies are normal but in terms of complete evaluation of wakefulness, a follow up study with appropriate testing is necessary.
+
+
+

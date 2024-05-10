@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 60 year old male admitted on 06/24, status post code on 06/24, due to hypoglycemia. History of renal failure, hypertension, diabetes, and amputation.
+MEDICATIONS: Ativan, Depakote, Haldol, Valproic Acid Sodium, ASA, Nephro
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is undergoing procedures during the EEG.  DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern. The primary features in the background are a mixture of rhythmic theta, delta, and beta. When the patient is resting comfortably, at times there is 10 Hz alpha rhythm discernable. During the EEG the patient has a nasogastric tube placed. When he is comfortable. there are brief portions of wakefulness with well-defined alpha rhythm, and then this transitions into quite a slow pattern when he is unstimulated. He is responsive and moving about.
+HR: 84 bpm
+
+IMPRESSION: This EEG demonstrates normal wakefulness, but there is also intermittent slowing.
+CLINICAL CORRELATION: No epileptiform features were observed. Overall this is a very positive prognostic finding for a patient who underwent recent cardiac arrest.
+
+

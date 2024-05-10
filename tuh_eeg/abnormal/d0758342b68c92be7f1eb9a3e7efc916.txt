@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  44 year old left handed male with a past history of an MVA 10 years ago, past history of epilepsy, last seizure 3 weeks ago with postictal confusion, now with dystonic spells.
+MEDICATIONS:  Seroquel, Imitrex, Lexapro, Hydrocortisone, Cogentin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has difficulty relaxing and there is a fair amount of muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm with a generous amount of muscle artifact.  Hyperventilation produces prominent rhythmic theta in the background. Brief drowsiness is characterized by an increase in beta. The patient is falling asleep with vertex waves and post during photic stimulation.  The patient starts to transition to stage 2 sleep during photic stimulation.
+HR:    84 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The prominent muscle artifact might have been related to this patient's movement disorder.  In this individual with frequent seizures, a follow up EEG may be of value.
+__________________________
+
+
+

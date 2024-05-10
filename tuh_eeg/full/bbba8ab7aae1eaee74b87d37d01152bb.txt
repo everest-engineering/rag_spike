@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 37-year-old woman with a complex medical history, chronic headaches, childhood epilepsy, previous evaluation for non-epileptic seizures, and carcinoid tumor, now with increasing seizures with new seizure characteristics including a feeling of hotness followed by loss of awareness, no occurring weekly.
+MEDICATIONS:  TPM, LEV, others
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is well organized with a 9 Hz alpha rhythm.  In hyperventilation and early drowsiness, there is a handful of bursts of shifting slowing in the right or left temporal region.  Other features of drowsiness include an increase in beta.  Of note, muscle artifact is noted in wakefulness and drowsiness in this EEG.
+Photic stimulation elicited scant bilateral driving.  Heart rate 72 bpm.
+IMPRESSION:  This EEG is remarkable for rare bursts of shifting right or left temporal slowing.
+CLINICAL CORRELATION:  This is one of many EEGs for this individual.  No epileptiform features have been identified in the EEGs in our lab thus far.
+
+
+

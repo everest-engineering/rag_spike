@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  39 year old left handed female with morbid obesity, severe psychiatric disease and seizures provoked by family stress.
+MEDICATIONS:  Depakote, Seroquel, Fioricet, Wellbutrin, Klonopin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is awake and eating during the EEG.
+DESCRIPTION OF THE RECORD:  Despite significant artifacts including chew and movement, the background includes a 10 Hz alpha rhythm with occasional lambda waves and frontocentral beta.
+HR:    96 bpm
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  This EEG lacks 20 minutes of good quality data due to the patient's motor activity.  No sharp waves noted.
+
+
+

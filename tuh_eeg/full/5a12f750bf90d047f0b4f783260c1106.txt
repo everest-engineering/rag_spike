@@ -1,0 +1,32 @@
+History:	49 year old woman admitted with right parietal hematoma.
+Medications:	Valproic acid
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Description:
+There is right to left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left hemisphere consists of 9.5-10 Hz PDR with preserved AP gradient and
+excess polymorphic theta activity.  There is no PDR or AP gradient over the right.  The background
+over the right hemisphere consists of polymorphic continuous theta and delta activity, most
+pronounced over the temporal region.  Frequent brief (2-5 second) bursts of 100-200uV, 2-4Hz
+rhythmic bifrontal slow waves occur throughout the recording, increasing in frequency during
+drowsiness.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right hemispheric, most pronounced over the
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+No stage 2 sleep
+FIRDA (frontal intermittent rhythmic delta activity)
+Interpretation:
+This is an ABNORMAL awake and drowsy 22-minute EEG due to mild diffuse slowing and
+continuous focal moderate right hemispheric slowing, most pronounced over the temporal region.
+Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+Continuous focal slowing is indicative of a focal cerebral dysfunction, likely structural in etiology.
+FIRDA (frontal intermittent rhythmic delta activity) is seen in encephalopathy, increased ICP and
+bilateral deep white matter lesions.  The lack of epileptiform discharges on a routine EEG does not
+rule out a clinical diagnosis of epilepsy.  These findings were conveyed to the primary team.
+
+
+

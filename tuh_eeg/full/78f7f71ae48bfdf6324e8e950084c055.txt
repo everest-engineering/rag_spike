@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 53-year-old woman, who was found pulseless at home uncertain as to how long.  Had another cardiac arrest in emergency room.  She is now intubated and comatose.
+MEDICATIONS:  Propofol, lorazepam, fentanyl, midazolam.
+INTRODUCTION:  A digital video EEG was performed in the ICU using a standardized 10-20 system of electrode placement with 1 channel of EKG.  Patient was intubated and comatose.  Impedance was less than 5 kilohms.  There was significant amount of muscle on the background.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low-voltage featureless pattern.  No wave forms, wakefulness, or normal sleep were identified.  There was no reactivity to tactile or auditory stimulation.  There was no variability.  EEG was most suppressed in the posterior regions.
+Heart rate 66 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to,
+Replacement of normal EEG pattern with low-voltage featureless background.
+Loss of variability and reactivity.
+CLINICAL CORRELATION:  This EEG demonstrates worrisome findings 24 hours following cardiac arrest.  The use of sedative hypnotic medications can contribute to the pattern described above.  If additional information is needed, a repeated study using neuromuscular blockade and reducing sedation may be of value.
+
+
+

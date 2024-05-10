@@ -1,0 +1,11 @@
+.
+CLINICAL HISTORY:  A 22-year-old woman, with epilepsy, seizures characterized by falling, tonic-clonic activity, and loss of awareness, mild learning disability.  Seizures reported in April.  Now 6 weeks pregnant.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG was well-organized.  A 10 Hz alpha rhythm with a small amount of low-voltage frontal central beta activity was noted in wakefulness.  Drowsiness was characterized by rhythmic central theta with vertex waves and brief stage II sleep with K complexes, spindles, and POSTS.
+Hyperventilation did not significantly activate the record.  Photic stimulation was performed while the patient was in stage II today and did not activate the record.  Heart rate 78 beats per minute.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the second normal EEG for this patient in 2 months.  A normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, comparison with this individual's previous EEGs may be of value.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 38-year-old gentleman with a history of traumatic brain injury, posttraumatic epilepsy, and right prosthetic eye with epilepsy, the patient not able to describe seizures.
+MEDICATIONS:  Tegretol and phenytoin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  Hyperventilation was not possible.  This was a routine EEG with minor technical challenges and some artifact due to the prosthetic eye.
+DESCRIPTION OF RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.   Dysconjugate or irregular eye movements as well as artifacts in the frontal regions are noted in the area of the patient's scarring.  Features of drowsiness include slow rolling eye movements and theta as well as breech artifact.
+Photic stimulation elicited scant driving.  Heart rate slightly irregular at 60 BPM.
+IMPRESSION:  This EEG is within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  The abnormalities due to the prosthetic eye and cranial scarring are anticipated findings.  No epileptiform features were noted.  If epilepsy is an important consideration, a followup tracing capturing more extensive sleep is suggested.
+
+
+

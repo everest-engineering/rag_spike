@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 58-year-old male brought in by fire rescue with an episode of prolonged stiffening and head and eye deviation, the patient required Ativan, fentanyl, propofol, etomidate, and vecuronium for intubation.
+INTRODUCTION:  Digital video EEG was performed in the emergency room using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a routine, 20-minute EEG performed approximately 90 minutes after presentation in the emergency room.  It was a technically acceptable EEG, although impedances in the T1-T2 electrodes were slightly greater than 5 kilo-ohms.  The patient received fentanyl during the EEG.
+DESCRIPTION OF THE RECORD:  The overall EEG is a low voltage pattern and is a burst suppression pattern.  Brief burst of mixed frequency fast activity were noted with most bursts of approximately 2-3 seconds in duration.  There is slight asynchrony in the burst and those from the left hemisphere tend to have a little bit more fast activity.  In addition, the bursts are sometimes more prominent on the left.  Tactile stimulation of the patient seems to produce a more prolonged attenuation lasting more than 5 seconds.
+Heart rate 120 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to,
+Replacement of normal background with a burst suppression pattern.
+An intermittent asymmetry with a bit more fast activity from the left hemisphere than the right.
+CLINICAL CORRELATION:  These findings must be considered in the context of the use of multiple anesthetic medications.  The pattern can be seen as a postictal pattern or in the context of severe CNS insult.  It may also be associated with the use of pharmacologic doses of anesthesia, although the asymmetry suggest that there is a fundamental brain problem.  EEG monitoring will follow this record.
+
+
+

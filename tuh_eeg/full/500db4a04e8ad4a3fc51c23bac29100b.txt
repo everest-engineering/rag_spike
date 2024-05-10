@@ -1,0 +1,26 @@
+History:	63 YR OLD MALE PRESENTS ON 6/7/14 WITH H/O GEN T/C SZ W/TONGUE
+BITING AND POSTICTAL CONFUSION, PT HAD NO RECALL OF EVENT. PRIOR
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The waking background is characterized by a 25-40 uV, 7-8Hz posterior dominant rhythm.
+Background activity was characterized by diffuse theta activity with some anterior to posterior
+gradient of frequencies.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+Very frequent, independent polymorphic delta activity is present in the bilateral midtemporal
+regions during wakefulness. At times this becomes somewhat monomorphic and rhythmic.  No
+epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces marked diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce any effect.  HR 66
+Summary of Findings:
+Focal slowing, polymorphic, frequent, moderate, bilateral temporal, mid
+Diffuse slowing, polymorphic, continuous, mild
+Interpretation:
+This is an ABNORMAL EEG because of  very frequent, independent bilateral midtemporal focal
+slowing.  These findings are indicative of focal cerebral dysfunction, which is etiologically non-
+specific, but possibly structural in origin. In addition, there is  mild diffuse background slowing,
+which is an etiologically nonspecific indicator of mild diffuse cerebral dysfunction.
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  56 year old right handed male with right carotid stenosis.
+MEDICATIONS:  Lidocaine, Propofol, Vecuronium, Fentanyl.
+INTRODUCTION:  Continuous digital video EEG recording was performed at bedside using standard CEA Montague with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake in the OR.  There is a little bit of theta artifact at C3.  Induction of anesthesia produces an increase in fast or frequency activity and some delta.  Following the induction of anesthesia, the overall record is relatively symmetric, but there seems to be more head rocking artifact observed on the left.
+Heparin is given at 9:53.  Prior to placement of the clamp, there are minor asymmetries in beta frequency activity, discernible a slow paper speed.  The common carotid is clamped at 10:01:09, the external is clamped 5 seconds later and all are clamped at 10:01:27.  No significant focal changes are observed following placement of the clamp.  The internal carotid is unclamped at 11:22:33.  No focal features are noted.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this right carotid endarterectomy did not identify significant focal features with placement of the clamp.
+
+
+

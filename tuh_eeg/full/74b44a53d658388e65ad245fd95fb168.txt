@@ -1,0 +1,45 @@
+History:	57 year old man with a history of a large left MCA stroke and seizures.  Patient now
+has episodes concerning for seizures.
+Medications:	Depakote
+Sedation:
+EEG Type:	Ambulatory (outpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Ambulatory EEG
+Continuous ambulatory EEG recording was performed for 1 days.  Automatic seizure and
+epileptiform detection algorithms were employed.  The Persyst Reveal spike and seizure detection
+algorithm was utilized to screen the EEG for electrographic seizures and interictal epileptiform
+discharges.   Patient diaries were reviewed, containing descriptions of any events and patient
+activities during the recording period.  All automatically detected events were reviewed in detail by
+# Push button events	1
+Description of pushbutton events
+practice event
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of fragmented 8-9 Hz activity posteriorly, expected AP gradient
+and excess polymorphic theta activity.  The background over the left consists of fragmented 7 Hz
+theta posteriorly, poor AP gradient and excess polymorphic theta and delta activity.  The latter are
+especially pronounced over the left frontocentral region.  Sleep is characterized disappearance of
+movement and eye blink artifact, increase in diffuse theta activity.  The expected sleep architecture
+is not captured.  Sleep is fragmented.
+No clinical or electrographic ictal events are captured.
+There are continuous O1 lead, T5 lead and diffuse low amplitude EMG-like artifacts.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, especially frontocentral
+No electrographic seizures
+Event, not recorded
+Artifact, electrode
+Interpretation:
+This is an ABNORMAL 24-hour ambulatory EEG due to mild diffuse slowing and moderate focal
+left hemispheric slowing, most pronounced over the left frontocentral region. Diffuse slowing is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal
+slowing  is indicative of a focal structural lesion over the left and is consistent with a prior history of
+a stroke.  No clinical or electrographic seizures are present.  No push button events recorded.  Lead
+artifact limits EEG interpretation.  If suspicion for seizures remains high and event frequency high -
+patient may benefit for an inpatient EMU (epilepsy monitoring unit) admission for better event
+characterization.
+
+
+
+

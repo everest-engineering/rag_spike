@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 48-year-old right-handed male with nocturnal seizures for the last several years.  These are convulsive events.  The patient had a seizure December 2012, fell, had a brief loss of consciousness, hit his left occiput.  Required repeat CT this morning.  Past history of alcohol abuse.  The patient had a left-sided subdural hematoma in December.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one-channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm which is a bit higher amplitude on the right compared to the left and does have a slightly more generous field of spread.  There is also very subtle lower voltage theta noted on occasion in the left hemisphere particularly in the posterior quadrant.
+Hyperventilation was performed early on in the record, producing an increase in amplitude of the background and a more symmetric appearing alpha.  The patient seemed to be relatively tense throughout the EEG and sleep was not sustained.
+Photic stimulation elicited a bilateral driving response.
+Frequency analysis of the posterior dominant activity demonstrates some mild shifting asymmetries overall in the posterior dominant rhythm, but this phenomenon is seen only intermittently.
+Heart rate 104 bpm.
+IMPRESSION:  This is a very subtly abnormal EEG due to:
+Rare theta in the left posterior region.
+Clinical correlation:  No epileptiform features were identified.  The asymmetry noted in the field of spread of the alpha rhythm is within normal limits.  No epileptiform features were identified and there were no previous EEGs for comparison.
+
+
+

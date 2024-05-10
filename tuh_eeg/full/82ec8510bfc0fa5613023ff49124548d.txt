@@ -1,0 +1,31 @@
+History:	61 Y/O MAN IN FOR A BENIGN NEOPLASM OF  PITUITARY. S/P SURGERY
+Medications:	DILANTIN,SODIUM,DEXAMETHASONE,LOVENOX,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+Description:
+Waking background is characterized by a 25-40uV, 7Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Background activity is predominantly irregular 50-75uV, 6-7Hz
+activity.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During
+stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep
+Continuous attenuation is present in the right frontotemporal region.  Intermittent polymorphic delta
+activity is present in the left midtemporal region during wakefulness, increasing during drowsiness.
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Hr was 60
+Summary of Findings:
+Attenuation, continuous, right frontotemporal
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous attenuation in the
+right frontotemporal  region.  This finding is indicative of a focal cortical structural lesion in this
+region. In addition there is  intermittent focal slowing in the left midtemporal  region.  This finding
+is indicative of focal cerebral dysfunction, which is etiologically non-specific. Lastly, there is
+moderate  diffuse background slowing and slow alpha rhythm.  These findings are etiologically
+nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+
+

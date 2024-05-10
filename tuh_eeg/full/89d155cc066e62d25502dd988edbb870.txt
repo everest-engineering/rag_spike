@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  86 year old woman with a history of AVM and craniotomy on the right side.
+MEDICATIONS: Levothyroxine, Zocor, Keppra
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel EKG. Photic simulation was performed.
+DESCRIPTION OF THE RECORD:  The background EEG is obscured by significant muscle artifact during wakefulness.  During periods of drowsiness there is a rhythmic 5 to 7 Hz activity in the left frontocentral, frontotemporal regions.  There is also a background rich in beta activity. Photic stimulation causes activation of the record.
+HR:	72 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Rhythmic slowing in the left frontocentral, frontotemporal regions.
+CLINICAL  CORRELATION : The awake background was not well-characterized due to muscle artifact.  The rhythmic slowing is contralateral to the patient's clinical history. There is no epileptiform activity. The slowing in the left frontocentral, temporal region was seen on a previous EEG.  In contrast to the prior exam, the frontal slowing was not sharply contoured.
+
+
+

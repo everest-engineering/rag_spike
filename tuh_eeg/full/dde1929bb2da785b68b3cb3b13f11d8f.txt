@@ -1,0 +1,32 @@
+History:	93 year old woman who presents with change in mental status.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  Patient very rapidly transitions to stage II sleep.
+Frequent polymorphic theta and delta activity is captured over the left anterior temporal region.  No
+epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates an
+irregular heart rate.
+Summary of Findings:
+Focal slowing, polymorphic, frequent, moderate, left temporal, anterior
+Sleep, stage 2
+No epileptiform discharges
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute EEG due to frequent moderate focal slowing
+in the left anterior temporal region.  This finding is indicative of a focal structural lesion in this
+region.  Rapid transitions to sleep indicate an excessively drowsy/ sleep deprived patient.  A single
+EKG lead demonstrates an irregular heart rate.
+
+
+
+
+

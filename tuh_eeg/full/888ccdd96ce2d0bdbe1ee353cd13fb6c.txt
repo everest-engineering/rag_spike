@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 70-year-old male who was admitted to the trauma ICU after a fall.  Hypercapnic respiratory failure, acute renal failure, episodes of eye deviation 1 day previously, evaluate for seizures.
+MEDICATIONS:  FENTANYL DRIP 2.5, HEPARIN, SYNTHROID, LEVOTHYROXINE, ZOSYN, VANCOMYCIN, YESTERDAY HYDROMORPHINE, TOPROL, TYLENOL 3
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively somnolent throughout, but this EEG does manage to capture wakefulness and sleep in an intubated adult.
+DESCRIPTION OF THE RECORD:  Despite muscle and other artifacts, in maximal wakefulness, there is a low voltage, well organized pattern with a glimpse of a 10 Hz alpha rhythm and central beta and alpha frequency activity.  Drowsiness was characterized by a lower voltage theta pattern.  In sleep, vertex waves were identified.
+Heart rate, irregular 90 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record, but a normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow up study, when the patient is out of the ICU, can be considered.
+
+
+
+
+

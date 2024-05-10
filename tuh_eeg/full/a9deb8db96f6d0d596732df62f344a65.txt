@@ -1,0 +1,29 @@
+History:	37 YR FEMALE WITH 1 SZ 5 YRS AGO 2' TO ETOH WITHDRAWAL AND CVA.  PT
+WAS SZ FREE UNTIL NOV.  NOW WITH MANY SZS SEVERAL A MONTH.  LAST
+ONE LASTING OVER 5 MIN DESCRIBE PRE TINGLY/BLURRY VISION, THEN LOC
+AND RIGHT SIDE SHAKING.   WITH POST CONFUSION. PRESENTS
+Medications:	TEGRETOL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the
+recording and increases during drowsiness.  During drowsiness, the background slows to central
+theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and
+becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz
+activity, and symmetric sleep spindles and K complexes appear.  Please note that the patient has
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Diffuse slowing, polymorphic, frequent diffuse
+Excessive or inappropriate sleep patterns
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of excessive theta in wakefulness
+and short sleep latency.  These findings are etiologically nonspecific indicators of mild diffuse
+cerebral dysfunction.  No clinical or electrographic seizures are present.
+
+

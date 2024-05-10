@@ -1,0 +1,31 @@
+History:	33 year old woman who had a seizure several weeks ago.  Of note, patient had
+seizures years ago while in school.
+Medications:	Prozac, Wellbutrin, Trazodone, Klonopin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  Patient remains awake throughout
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+Beta, excessive
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL awake-only 27-minute EEG. No epileptiform discharges are present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.  Excessive beta activity could be secondary to the medication effect, such
+as benzodiazepines or barbiturates.
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+LENGTH OF THE RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is an 81-year-old man status post recent left subdural hematoma requiring left craniotomy.  The patient also has a history of coronary artery disease, diabetes, hyperlipidemia, and hypertension.  The patient now presents with 2 episodes of aphasia lasting approximately 3 to 4 minutes.
+MEDICATIONS:  Keppra, Ativan.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a low amplitude 9 to 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies and lower amplitudes anteriorly.  This AP gradient is better formed over the right hemisphere.  Brief drowsiness is captured and is characterized by fragmented posterior dominant rhythm and decrease in the overall background voltage.  Additional low amplitude polymorphic delta activity is captured over the left frontotemporal central leads.  Hyperventilation and photic stimulation are not performed.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+Intermittent moderate left frontotemporal central slowing.
+IMPRESSION:  This is an abnormal 22-minute awake and drowsy EEG due to intermittent moderate left frontocentral temporal slowing.  This finding indicates nonspecific focal cerebral dysfunction that in this case is likely related to the prior subdural hematoma.  No epileptiform discharges are captured; however, stage II sleep
+is not recorded.  If clinical suspicion for seizures persist, a repeat study with sleep may be of benefit.
+
+
+

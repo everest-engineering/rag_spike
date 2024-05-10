@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 42 year old right handed gentleman with a head injury followed by a single tonic clonic seizure with post ictal confusion.
+MEDICATIONS: Celexa, Loxapine, Benztropine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the overall background EEG is relatively low voltage with generous beta activity and scant alpha frequency activity. Features of drowsiness include an increase in beta. Significant electrode artifact is noted at the F8 electrode. Rhythmic theta is noted and the patient transitions to drowsiness in early stage I sleep during photic stimulation. Despite this, a scant driving response is noted. At the very end of the record, more well-defined stage I sleep with vertex waves are noted. Hyperventilation produces an increase in amplitude of the record.
+HR: 60 bpm
+IMPRESSION: Low voltage but otherwise normal EEG.
+CLINICAL CORRELATION: No epileptiform features are observed. If epilepsy is an important consideration, a follow-up EEG may be useful. This is the second EEG; neither identified sharp waves.
+
+
+

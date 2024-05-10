@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  Large right occipital stroke last week, now with intermittent episodes of poor responsiveness.
+INTRODUCTION:  Digital EEG begins with digital EEG monitoring at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrated a somewhat slow and disorganized pattern on the left, but there is a 10 Hz alpha rhythm.  There is a prominent intra-hemispheric asymmetry with disruption of faster frequency activity and some broadly contoured sharp waves in the right central temporal region with a generous field of spread.  The patient is awake and stimulation of the patient produces more of an alpha rhythm.  As he drifts off to sleep, there is attenuation of the alpha rhythm on the left and an increase in slowing.  There is no particular accentuation of epileptiform activity with sleep.
+Heart rate irregular, approximately 100 BPM.
+IMPRESSION:  The first 2 hours of EEG monitoring were reviewed.  This section demonstrates focal slowing on the right hemisphere, congruent with the stroke.  There is some sharply contoured slowing primarily in the initial sections, but this is not particularly prominent.  The background on the left has improved, but the background on the right is significantly slower.
+
+
+

@@ -1,0 +1,15 @@
+LENGTH OF THE RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 33-year-old woman who presents with a change in mental status in the setting of status post prolonged hospitalization.
+MEDICATIONS:  No antiepileptic medications.
+INTRODUCTION:  Hyperventilation and photic stimulation were not performed.  The recording was done according to standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.
+DESCRIPTION OF THE RECORDING:  The voltages are diffusely very low.  The posterior dominant rhythm consists of low amplitude 8-9 Hz alpha activity with preserved anterior-to-posterior frequency amplitude gradient.  There is excess diffuse continuous beta activity.  No clear sleep architecture is captured.  There are frequent periods of EMG artifact that is much more pronounced over the left hemispheric leads.  Additionally, an increased amount of theta and delta are captured over the left lateral leads.  Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Very low voltages.
+Focal slowing over the left temporal region.
+Frequent EMG artifact that is more pronounced over the left hemispheric leads.
+No sleep.
+No clear electrographic seizures.
+IMPRESSION:  This is an abnormal awake only; 21 minute EEG due to focal left temporal slowing.  This finding indicates a possible underlying cerebral dysfunction over that region.  Excess beta may be due to a medication effect such as benzodiazepines or barbiturates.  No clear electrographic seizures are captured.
+
+
+

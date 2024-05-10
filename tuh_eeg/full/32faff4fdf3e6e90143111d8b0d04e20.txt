@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 63-year-old woman with frequent falling, evaluate for seizure versus syncope.
+Outpatient EEG.
+MEDICATIONS:  Metoprolol, Neurontin, albuterol, others.
+INTRODUCTION:  Routine 20 minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically satisfactory record with impedances under 5 kilohms with the exception of the T1 and T2 electrodes.  Hyperventilation was deferred, but photic stimulation was completed.  There was a great deal of muscle artifact noted in the record.
+DESCRIPTION OF THE RECORD:  In wakefulness, despite the muscle and other artifacts, there is an 8.5 Hz posterior dominant rhythm.  There is generous beta noted.  Features of drowsiness include an increase in beta.
+Photic stimulation elicited a driving response.
+HEART RATE 60 bpm.
+IMPRESSION:  This is a technically challenging EEG due to muscle artifact and patient inability to relax, but it is without epileptiform activity.
+CLINICAL CORRELATION:  If epilepsy is an important consideration, a more prolonged sleep tracing may be of value to exclude underlying epileptiform activity.
+
+
+

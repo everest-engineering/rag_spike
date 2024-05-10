@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 65-year-old woman who presents after a 10 to 15 minute PEA code with subsequent hypothermia protocol.  The patient remains comatose.
+MEDICATIONS:  Current medications include Demerol, famotidine, atorvastatin.
+CONDITION OF THE RECORDING:  The recording was performed at the patient's bedside.  The recording was performed according to the standard 10-20 system of with the addition of T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of intermittent generalized, frontally predominant, 2 Hz sharp waves with after going slow waves that occur in bursts of variable duration.  When these discharges resolve the background consists of relatively monomorphic, frontally predominant delta activity.  Additionally periods of diffuse background discontinuity are present.  Intermittent diffuse EMG artifact is captured.  Hyperventilation and photic stimulation are not performed.  A single EKG  lead demonstrates a heart rate of approximately 120 beats per minute.
+FINDINGS:
+Severe diffuse slowing.
+Frontally predominant bilateral intermittent sharp waves with after going slow waves (Bi-PEDs).  No clear electrographically seizures.
+Sinus tachycardia.
+IMPRESSION:  This is a very abnormal 21 minute electroencephalogram due to moderate diffuse slowing and frontally predominant generalized periodic epileptiform discharges without clear evolution into electrographic seizures.  These findings indicate etiological nonspecific diffuse cerebral dysfunction, likely partially related to anoxia in this case.  In a patient status post anoxic brain injury this electroencephalogram pattern is consistent with a lower chance of full neurological recovery.  These findings were conveyed to the Neurology consultants.
+
+
+

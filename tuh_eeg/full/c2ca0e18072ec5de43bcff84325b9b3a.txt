@@ -1,0 +1,41 @@
+AGE: 20 y.o.
+SEX: female
+DATE OF STUDY: 08/25/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: Awake and drowsy EEG #: 15-1228
+HISTORY:
+a 20 y.o. female referred for routine EEG for a history of 3 seizures. The seizures started about 1 month ago after using K2. No h/o childhood seizures. PMH: asthma, depression. This is a follow up EEG. Per patient, the last 3 days she has been trembling and shaky but not actually having seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+Prenatal Multivit-Ca-Min-Fe-FA	(PRENATAL VITAMIN) Tablet, Take 1 tablet by mouth daily.
+PNV with Ca,no.71-iron-FA 27-1 mg Tablet, Take 1 tablet by mouth daily.
+Keppra Dilantin
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with T1/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm and diffuse background slowing are seen.
+Sleep transients are not captured. Slow wave sleep is not captured.
+No generalized slowing is present. No focal slowing is present.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation, and produces mild diffuse symmetric background slowing.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-drowsy routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-drowsy routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+This study is similar to her prior routine EEG done 8/10/2015; neither the current study nor the study on 8/10 capture sleep.
+
+
+
+

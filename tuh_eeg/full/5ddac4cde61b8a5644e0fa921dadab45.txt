@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 37 year old right handed woman with epilepsy, last seizure 2 weeks ago. Seizures without loss of consciousness. Adult onset epilepsy. Previous seizure had tongue biting and incontinence and postictal confusion.
+MEDICATIONS: Keppra.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a well defined, symmetric reactive 10 hertz, 40 microvolts alpha rhythm with a small amount of low voltage, frontocentral theta activity. Early in the record in relaxed wakefulness, there is some rhythmic left temporal theta with a discrete T1 sharp wave. Hyperventilation is performed early on in the record producing some rhythmic theta again, left temporal region more than the right particularly in the T1 and T2 electrodes.
+The rhythmic theta activity ranges from 3-5 hertz. Features of drowsiness include anterior spread of the alpha rhythm. As the patient becomes somewhat drowsier, more clearly defined rhythmic delta is noted in the right temporal region. This activity actually starts at 8:43 with rhythmic slowing in the left temporal region at T1 then a little bit bilaterally and then maximum in the right with T2 sharp waves observed at 8:44:40. Unfortunately, there is also double phase reversing artifact noted in this same area. Vertex waves and POSTS are identified in stage I sleep. As the patient transitions in and out of sleep, more clearly defined rhythmic 3-4 hertz activity is noted in the left temporal region. Brief epochs of stage II sleep are noted, but stage II sleep is not sustained. Photic stimulation elicits bilateral driving.
+HR: 40 to 70 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Primarily left temporal rhythmic 3-5 hertz activity, but some from the right temporal region as well.
+CLINICAL CORRELATION: Previous EEG in 2007 also identified theta although in this case, it was in the right temporal region. No definitive sharp waves were seen in this EEG although there was significant artifact in the T1 and T2 electrodes. To more completely define the patient's epileptiform activity, a follow-up study may be helpful to resolve the electrode artifact challenges seen in this study.
+
+
+

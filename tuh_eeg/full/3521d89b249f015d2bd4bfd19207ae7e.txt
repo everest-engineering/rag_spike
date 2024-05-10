@@ -1,0 +1,25 @@
+History:	87 YO MALE AVR: ASCENDING HEMIARCH RECONSTRUCTION W/ AORTIC
+VALVE REPAIR REPLACEMENT CABG: CORONARY ARTERY BYPASS GRAFT
+SURGERY, TRANS ESOPHAGEAL ECHO CARDIOGRAM, EEG, TEE. PMHX: HLD,
+CAD, HTN, ALD, THORACIC ANEURYSM
+Medications:	HEPARIN, FENTANYL, ISOFLURANE, ACCOMADEN, VECURONIUM, ZINACEF,
+NOREPINEPHRINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  As the procedure was done the background activity became
+predominantly irregular low voltage , 6-7Hz activity, with absence of the normal anterior to posterior
+gradient of frequencies with intermittent attenuation noted.  Around 9:45AM some alternating
+asymmetry was noted and reported to the team.  At 11:16AM the EEG became completely
+attenuated. The EEG became more continuous but background remained in the delta range at the
+No focal slowing is present.
+Summary of Findings:
+No electrographic seizures
+Interpretation:
+This is a 7 hour EEG during an uneventful cardiac surgery.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  42 year old right handed woman with migraine headaches, chest pain, palpitations, and reflux.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm with 40 mV.  Mu activity is noted, but testing is not performed to confirm this.   Drowsiness is characterized by an increase in background theta.  Hyperventilation produces a small increase in theta. Photic stimulation elicits scant driving.
+HR:    50 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed.  A normal EEG does not exclude a diagnosis of epilepsy.  This EEG is similar to a previous study in 2008.
+
+
+

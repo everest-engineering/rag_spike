@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 42 year old right handed male admitted with confusion.
+MEDICATIONS: Percocet, Lovenox
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record in a patient who is somewhat restless with frequent eye blinks.
+DESCRIPTION OF THE RECORD: The background EEG is more of a pattern of diffuse rhythmic theta frequency activity with smaller amounts of beta in the frontocentral regions. Brief drowsiness is characterized by synchronous rhythmic slowing. Brief vertex waves are noted. There are brief epochs in this record where the patient has eye opening with an 8.5 Hertz alpha rhythm.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Prominent rhythmic theta frequencies slowing.
+CLINICAL CORRELATION: Overall, this is a relative symmetric pattern. This EEG is more supportive of a diffuse disturbance of cerebral function. Because of an intermittent and in fact nearly continuous pattern, a toxic or metabolic encephalopathy would be the most likely explanation although any other diffuse CNS process could produce this pattern.
+
+
+

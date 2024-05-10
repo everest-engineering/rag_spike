@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 63-year-old male with recurrent episodes of dizziness, followed by generalized tonic-clonic activity and postictal fatigue and weakness.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were NOT performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta and scant theta.  Drowsiness is characterized by slow rolling eye movements, but deeper stages of sleep were not achieved.
+Heart rate 55 to 66 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this limited EEG.  In this individual with recurrent seizures, a follow up study capturing stage 2 sleep with hyperventilation and photic stimulation should be performed.
+
+
+

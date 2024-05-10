@@ -1,0 +1,41 @@
+CLINICAL HISTORY:  Adult female with advanced dementia, schizophrenia, epilepsy, status post aspiration, found comatose in the early morning hours of the 4th, initially comatose lacking in brainstem signs now with repetitive eye blink.
+MEDICATIONS:  Depakote and Versed.  Many others.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+October 6-7
+DESCRIPTION OF THE RECORD:
+As the tracing began, there was a great deal of muscle artifact in the EEG.  In addition to the eye blink artifact, there is a periodic complex identified in the frontocentral regions with a broad field of spread in the parasagittal regions.  When reviewed with an a CZ reference, CZ appears to be active.  There are frontal, periodic, discrete sharp waves or spikes noted.
+Throughout the recording, a Versed drip is initiated.  The Versed drip is initiated at 11:29.  At 11:48, the patient receives 4 mg bolus of Versed which significantly decreased both periodic complexes and the background artifact.  When the sensitivity is increased, the sharp wave can be much more easily defined and is a CZ vertex sharp.  The periodicity of the sharp wave is approximately 1 per second and varies from 0.5 per second to 1 per second.  There is no frequency evolution associated with this discharge.
+Heart rate 93 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+A challenging but slow background noted prior to the Versed bolus.
+A periodic or pseudoperiodic complex noted in the background sometimes with a frontal sharp wave, sometimes with a vertex sharp wave.
+Absence of significant reactivity to tactile stimulation.
+CLINICAL CORRELATION:  The pattern described above can be seen in the context of anoxic encephalopathy.  It can also be seen as a late status epilepticus pattern.  In this
+individual with a past history of epilepsy and a recent anoxic insult, additional EEG monitoring was initiated to clarify this finding.
+October 7-8
+DESCRIPTION OF THE RECORD:
+This section of the record demonstrates primarily a theta background.  Some sections of the record demonstrate significantly more muscle.  There is an underlying vertex sharp wave more apparent in some sections than others.  This sharp wave does not demonstrate frequency evolution.  The background does have some variability in that some sections including at 2:00 a.m. have a bit more continuous theta but at 6:00 a.m. there is more of a pattern of theta and then discontinuity.  On some occasions, tactile stimulation of the patient produced artifact but tactile stimulation of the patient did not produce an alerting response in the EEG.
+The clinical team noted that after the Versed drip was increased, the patient's eye blinking stopped.  No other involuntary movements were noted, and even though there were some sections of the record with some muscle artifact, when the patient receives nursing care, there is no change in EEG.
+By the end of the first 24 hours, the EEG is relatively continuous with brief attenuations but demonstrates frontal or vertex sharp waves.  At that juncture, the Versed drip is increased from 5 to 5.5 mg.
+October 7 through October 8, continuous video EEG monitoring:  Medications Depakote, Versed, others.  Introduction:  Continuous video EEG monitoring during this section of the recording is provided for a comatose, intubated woman without motor activity.  The EEG demonstrates an overall low voltage mixed theta with smaller amounts of delta pattern.  There is a subtle and prominent sharp wave noted in the frontocentral regions.  This is almost a vertex sharp wave, but in this section of the record the phase reversal is starting to shift just to the right of the midline; however, using an average reference this is now transitioned from a CZ sharp wave to an FV sharp wave with just a bit more spread to F4.
+In the overnight hours, the patient seems to have been dazed at around 3:00 a.m., producing a great deal of muscle.
+In the overnight recording, the frontal sharp wave seems to be fading.  The overall quality of the EEG starts to vary a bit, although there is no note as to whether or not the electrodes had been moved.
+By 4:30 a.m., the FV sharp wave is noted, and at this point it is a bit more prominent at F3 than F4.  The sharp wave is becoming less continuous, seen about once every second by 5:30 a.m.  At 6:03 a.m., tactile stimulation of the patient does not seem to activate the record.  The sharp wave does not evolve.  No note is made as to whether or not there has been additional changes in the patient's medications, but the background EEG which accompanies the sharp wave include a little less theta and a bit more arrhythmic delta with intermittent attenuations.
+EKG:  NA.
+INTERVAL IMPRESSION:  EEG monitoring for this patient with an anoxic insult and post-anoxic ocular jerking demonstrates a pattern of fading periodic complexes.  These complexes have a complex feel of spread, maximum at the midline at CZ and then transitioning to FV.  By the end of the 2-day recording, the activity appeared to be less epileptiform in nature and the overall periodicity was fading.
+No evolving seizures were identified.
+October 8-9
+INTRODUCTION:  Continuous video EEG monitoring was performed in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and comatose.  No involuntary eye twitching was noted, but sometimes the patient was observed to have stiffening of the jaw.  Corneal and pupillary reflexes were absent.
+DESCRIPTION OF THE RECORD:
+Although there are some sections of the record somewhat obscured by muscle, the overall 24-hour recording includes a now frontally predominant, more generalized periodic complex.  The periodic complexes transition from a CZ complex to more of a frontal complex.  There is occasional asymmetry, but it is generally frontally predominant.
+Vecuronium was provided to eliminate muscle and to confirm the cerebral nature of the complex.
+Over this 24-hour section the EEG activity is increasingly blunted with a more of a periodic sharp than a spike, lower voltage activity, and slowing of the periodic complex with sometimes as few as 2 in a 10-second period and at the very end of the recording 1 in a 10-second period.
+Heart rate:  80 BPM.
+IMPRESSION:  This multi-day long term video EEG monitoring session was remarkable for:
+A generalized periodic complex with an initial somewhat PLEDs pattern.
+Slowing of the periodic activity.
+Progressive background suppression.
+CLINICAL CORRELATION:  This EEG supports a severe, anoxic insult.  The overall pattern is a pattern of thick lining cortical function.
+
+
+

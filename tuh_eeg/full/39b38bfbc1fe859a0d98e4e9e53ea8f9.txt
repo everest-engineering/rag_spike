@@ -1,0 +1,29 @@
+History:	33 year old woman with seizures.
+Medications:	ALEPSAL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely.
+Occasional polymorphic theta and delta activity is noted over the left anterior temporal region
+during wakefulness, increasing in frequency during drowsiness/  Intermittent left anterior temporal
+irregular sharp waves are noted during drowsiness.  Maximal scalp negativity occurs over F1/T1
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, left temporal, anterior
+Sharp waves, occasional, left temporal, anterior, most pronounced during drowsiness
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 21 minute EEG because of occasional focal slowing and
+epileptiform discharges in the left anterior temporal region.  These findings are indicative of a
+potentially epileptogenic focal structural lesion in the left temporal region.
+
+
+
+

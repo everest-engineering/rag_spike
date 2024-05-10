@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 41-year-old woman with epilepsy, transferred from an outside hospital after seizure with aspiration pneumonia.  History of diabetes, hypertension, cocaine use, and MI.
+MEDICATIONS:  Lisinopril, phenobarbital, carvedilol, and propofol.
+INTRODUCTION:  Twenty-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had been sedated and just transferred from the outside hospital.
+DESCRIPTION OF THE RECORD:  The initial section of the record demonstrates a low-voltage beta pattern with intermittent attenuations.  As the recording continues, there is eye movement in a pattern that is richer in activity.  The patient starts to wake up and sit up at 4:41.  EEG remains a mixed frequency background with generous beta and some frontal delta.
+Heart rate 107 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Dynamic pattern with replacement of normal background with initially a lower voltage beta and slightly suppressed pattern to a more diffuse beta pattern.
+CLINICAL CORRELATION:  This EEG is compatible with pharmacologic sedation.  No seizures recorded.  There were no epileptiform features identified.  Patient's previous 9 EEGs were not available at this time.
+
+
+
+

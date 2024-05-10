@@ -1,0 +1,28 @@
+History:	83 year old woman with a history of left temporal ICH.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+The posterior dominant rhythm consists of low amplitude 8.5-9 Hz alpha activity posteriorly with
+expected AP gradient.  Patient remains awake throughout the study.
+Continuous polymorphic and rhythmic moderate amplitude sharply contoured theta and delta
+activity is present in the left temporal region.  Intermittent sharp waves with aftergoing slow waves
+are captured  over the left anterior temporal region (F7/T3 maximal).  Despite presence of a lot of
+rhythmicity in the left temporal region, there is no clear evolution into ictal runs.
+Hyperventilation and photic stimulation are not performed.  Rare premature QRS complexes are
+captured on a single EKG lead.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left temporal, and rhythmic
+Sharp waves, intermittent, left temporal, anterior
+No electrographic seizures
+Interpretation:
+This is an abnormal 22-minute awake-only portable EEG due to continuous moderate polymorphic
+and rhythmic focal slowing over the left temporal region as well as intermittent left anterior
+temporal epileptiform discharges. There is a structural focal cerebral abnormality with increased
+epileptiform potential over the left temporal region - initiation of an AED may be warranted in this
+
+
+
+

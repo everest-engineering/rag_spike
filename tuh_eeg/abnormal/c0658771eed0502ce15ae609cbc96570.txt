@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 55-year-old male with idiopathic cardiomyopathy, multiple episodes of ventricular tachycardia, ventricular fibrillation, arrest, previously on a fentanyl drip and responsive, now not following purposeful commands.
+MEDICATIONS:  Fentanyl drip, Cardene, Lasix, many others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated and was unresponsive.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a pattern of rhythmic theta and rhythmic delta.  There is a bit more prominent frontal 3 Hz medium amplitude delta activity.  There is a small amount of shifting asymmetry.
+Stimulation of the patient does not activate the record.
+Heart rate:  126 BPM.
+IMPRESSION:  This EEG is markedly abnormal due to:
+Marked background slowing.
+Lack of reactivity.
+CLINICAL CORRELATION:  There is a small degree of variability with some sections of the record demonstrating an increase in beta.  This EEG supports a severe encephalopathy.  Contributing factors can include toxic metabolic and/or anoxic factors.
+
+
+

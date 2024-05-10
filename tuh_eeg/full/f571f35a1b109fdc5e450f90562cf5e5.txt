@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Adult female found incontinent, developed thrombocytopenia.  Patient is arousable, wakes up and asks questions, evaluate for encephalopathy.
+MEDICATIONS:  Protonix.
+INTRODUCTION:   Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was not possible.  This is a technically acceptable EEG with impedances under 5 kilohms in a patient who had difficulty cooperating.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, the background EEG is a bit slow and disorganized with a posterior dominant rhythm that achieves only 6 Hz.  There is intermittent, shifting arrhythmic delta activity.  When unstimulated, the patient seems to drift in and out of light sleep with an increase in delta.  Lateral rectus spike artifact (extraocular movement) was noted.  Vertex waves were seen in stage 1 sleep and slight spindles were noted in stage 2 sleep.
+Photic stimulation served to alert the patient.  Minimal driving response was noted at faster flash frequencies.
+Heart rate 75 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing.
+Intermittent bursts of shifting arrhythmic delta.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  The findings described above can be seen in encephalopathy due to many different conditions including a bihemispheric disturbance, toxic or metabolic encephalopathy, or other cause.  If epilepsy is an important consideration, a follow up study may be of value.
+
+
+

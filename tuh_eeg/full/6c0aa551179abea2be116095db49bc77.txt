@@ -1,0 +1,33 @@
+History:	29 YR OLD MALE PRESENTS WITH H/O S/P MVA AUGUST 2015 WITH LOC/
+POST CONCUSSION SYNDROME.PT REPORTS EPISODES OF BLACKOUT
+LASTING APPROX  2 MIN; MIGRAINE HA AND SHORT TERM MEMORY LOSS.
+PT DENIES SZ ACTIVITY.
+Medications:	None
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left anterior temporal region.  Stepped photic stimulation from 1-21 flashes per
+second (fps) does not produce any effect.
+Summary of Findings:
+Focal slowing, polymorphic, frequent, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.  Excessive beta activity could be secondary to the medication effect,
+such as benzodiazepines or barbiturates.
+
+
+
+
+

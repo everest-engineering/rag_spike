@@ -1,0 +1,14 @@
+CLINICAL HISTORY: A 78-year-old woman with aphasia. The family is uncertain if she had a stroke.
+This patient is a nursing home resident.
+MEDICATIONS: Aspirin, Zoloft, and others.
+INTRODUCTION: Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. The patient was accompanied by a caregiver.
+DESCRIPTION OF RECORD: In wakefulness, the background EEG includes symmetric reactive, 9 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta activity. Intermittent bursts of rhythmic frontal delta were noted. In addition, bursts of subtle, underlying medium amplitude right or left temporal mixed theta-delta were noted. None of these were sustained and they could be shifting or bilateral.
+Features of drowsiness include an increase in beta and dropout of the alpha rhythm. Photic stimulation elicited bilateral driving.
+Heart rate 56 bpm.
+IMPRESSION: This is an abnormal EEG for an adult of this age due to:
+1. Occasional isolated medium amplitude, right. left. or bilateral temporal focal slowing.
+2. Rare FIRDA.
+CLINICAL CORRELATION: No epileptiform features were noted. In this particular context, the focal features in the temporal regions were quite modest and are not particularly remarkable for a subject of this age. If epilepsy is an important consideration, a repeat tracing may be of use. In addition, if this individual is thought to have more prolonged episodes of impaired language communication, additional EEG recording may be of value.
+
+
+

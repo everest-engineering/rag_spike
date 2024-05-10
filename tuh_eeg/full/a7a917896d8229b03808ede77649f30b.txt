@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a right-handed female to evaluate for seizures.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable record with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  This is an extremely drowsy individual and the record begins with the patient in stage II sleep with vertex waves, K complexes, spindles, and abundant POSTs.  In wakefulness, there is an 8.5 Hz alpha rhythm but alpha squeak was noted.  Hyperventilation produces an alerting response but no pathological features.  Photic stimulation was performed while the patient was drifting off to sleep, and elicited a scant driving response after which the patient drifted back to stage II sleep.
+Heart rate 66 bpm.
+IMPRESSION:  This is a normal 1 hour outpatient EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.
+
+
+

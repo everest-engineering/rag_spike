@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 21 year old male with MR and epilepsy. Past medical history
+includes diabetes.
+MEDICATIONS: Depakote, Keppra, Trileptal, Metformin, Haldol, Cogentin, Lexapro.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Photic simulation was
+performed.
+DESCRIPTION OF THE RECORD: The background EEG was slow and disorganized.
+There was a 6.5 Hz alpha rhythm Identified. There was a lot of EKG artifact. There was
+no response to photic stimulation.
+HR: 78 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Background slowing
+2. Disorganized with a 6.5 Hz alpha rhythm.
+CLINICAL CORRELATION: No epileptiform activity was identified. The EEG was slow
+and disorganized but the background is similar to other studies. This slowing on the
+EEG may be related to structural abnormalities or medication. The absence of
+epileptiform activity does not exclude a diagnosis of epilepsy.
+
+

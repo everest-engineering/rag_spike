@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 65-year-old male with insomnia.  The patient sleeps during the day and finds that he falls out of bed at that time, rule out seizures.
+MEDICATIONS:  Duragesic, Medrol, Ambien, Ventolin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically satisfactory routine 20 minute EEG.  Photic stimulation was completed, but hyperventilation was deferred.  Impedances were under 5 kilo-ohms with the exception of the T1 and T2 electrodes. During the record, the technologist was adjusting electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of background theta and a small amount of frontal central beta.  Chew artifact was noted.
+The patient drifts off to brief stage 1 sleep with vertex waves and then demonstrates arousal.  There is some background muscle or chew artifact noted intermittently as the patient becomes sleepy.
+Sleep was not sustained.
+Photic stimulation did not significantly activate the record.
+Heart rate:  66 BPM.
+IMPRESSION:  This is a technically somewhat challenging, but acceptable EEG.  It is abnormal due to:
+Mild excess theta.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The mild background theta is a nonspecific finding which could be related to this patient's underlying neurological illness or medications.  In this individual with a question of an underlying sleep disturbance, a more prolonged EEG may be of use in an attempt to capture deeper stages of sleep.
+
+
+

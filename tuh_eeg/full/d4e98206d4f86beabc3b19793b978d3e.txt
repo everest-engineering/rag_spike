@@ -1,0 +1,11 @@
+HISTORY:  An 87-year-old woman with syncope and incontinence.  History of shingles, sick sinus syndrome and pacemaker.
+MEDICINES:  Insulin.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Technical issues were satisfactory with the exception of the T1, T2 electrodes which have slight increased impedance.  There is a fair amount of muscle artifact and the patient demonstrated poor cooperativity.
+DESCRIPTION OF RECORD:  The background EEG is markedly slow with a pattern of primarily rhythmic theta and smaller amounts of delta.  Head rocking artifact was prominent in the right occipital region.  Agitation was characterized by an increase in movement.  Drowsiness was characterized by a decrease in eye movement, but was not sustained and the patient was increasingly agitated as the recording continued.
+Heart rate:  Irregular 90 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing in an awake patient.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG demonstrates marked background slowing. This is a nonspecific finding, but it can be seen in advanced dementia.  If epilepsy is an important consideration, a repeat study may be considered.
+
+
+

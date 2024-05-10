@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  38 year old male with alcohol withdrawal seizure on April 2.
+MEDICATIONS:  Serax, Lovenox, Protonix
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  The technologist has some electrical interference despite good impedance and other evidence of good EEG quality.  She is unable to determine the cause of the electrical interference.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz 30 microvolt posterior dominant rhythm and a small amount of low voltage frontocentral beta.  Lambda is noted in wakefulness.  Posts and attenuation of the alpha rhythm are noted in drowsiness as well as an increase in beta.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation produces a bilateral driving response.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No cause for the electrical artifact was identified.  If epilepsy is an important consideration, a follow-up study may be considered.
+
+
+

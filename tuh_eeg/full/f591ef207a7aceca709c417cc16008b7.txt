@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 24-year-old with bipolar disease, schizophrenia.  Evaluate for episodes of loss of consciousness with shortness of breath and dizziness.
+MEDICATIONS:  Cogentin, Depakote, Abilify, and Keppra.
+INTRODUCTION:  Digital EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF RECORD:  This patient is drowsy throughout much of the EEG.  There is a 9 Hz posterior dominant rhythm.  The overall background is somewhat disorganized with excess theta.  There is some head rocking noted in the posterior regions, but there also is a bit of posteriorly predominant slowing.
+Hyperventilation was performed early in the record and also seems to accentuate a bit of bilateral posterior slowing.  There is a single, subtle transient noted at T5, this is a very low voltage finding noted during hyperventilation.
+Vertex waves, K complexes, and spindles were noted in stage II sleep.
+The patient was transitioning in and out of sleep during photic stimulation, but a driving response was identified.
+Heart rate 78 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Excess theta.
+Background disorganization.
+Posterior slowing in the context of head rocking artifact
+CLINICAL CORRELATION:  This is the 2nd EEG for this adult which demonstrates a somewhat disorganized pattern with excess theta but no definitive sharp waves.  There is some posterior slowing.  If seizures are an important consideration, a more prolonged study may be of value.
+
+
+

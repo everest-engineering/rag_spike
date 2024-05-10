@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 63 year old male with recent stroke, carotid stenosis for left carotid endarterectomy.
+MEDICATIONS: SEVOFLURANE, Ancef, Fentanyl, PROPOFOL, Versed, Vecuronium, Lidocaine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This a 3.5 hour recording.
+DESCRIPTION OF THE RECORD: As the record begins, the patient has already received anesthetic medication. The background EEG is relatively low voltage discontinuous pattern. By 8:52, the activity is more continuous, but there is an asymmetry with lower voltage activity on the right. The background EEG waxes and wanes and tends to attenuate intermittently.
+The record prior to placement of the clamp is a very dynamic record, sometimes discontinuous and sometimes asymmetric and further complicated by a fair amount of Bovie artifact. The carotid is clamped at 10:26:11. No additional changes are noted, but the record does demonstrate intermittent paroxysmal higher amplitude activity and an intermittent attenuation more compatible with a generalized pattern.
+Patency is confirmed by Doppler at 11:30. In the last 20 minutes of the record, the anesthetic medications are adjusted and an increase in fluorane and a decrease in PROPOFOL results in a more discontinuous and attenuated pattern.
+HR: 60 bpm
+IMPRESSION/CLINICAL CORRELATION: This EEG monitoring during this carotid endarterectomy was remarkable for baseline record that demonstrated many fluctuations, but no significant focal changes with no clamp. The lower voltage pattern on the right may be correlated with imaging.
+
+
+

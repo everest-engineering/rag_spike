@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 50 year old right handed woman with a 5-year history of frontal headaches lasting 3-4 days with associated blurring vision.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz 40 microvolt posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. Hyperventilation was performed early on in the record, producing an increase in amplitude of the background. Features of drowsiness include rhythmic central theta. Photic stimulation is remarkable for photoelectric artifact, but there is a driving response.
+HR: 90 bpm
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No epileptiform features are observed. Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

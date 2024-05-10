@@ -1,0 +1,34 @@
+History:	54 year old male with history of subdural hematoma and now status epilepticus.
+Medications:	Dilantin, Keppra, Phenobarbital, Midazolam
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 03/10/2014 to 03/11/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None.
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  On the right there is an admixture of theta and delta activity.  At the beginning there
+was a burst suppression pattern which improved after the first hours of recording.  No normal sleep
+Continuous polymorphic delta activity is present in the left hemisphere maximal at C3 region during
+wakefulness, increasing during drowsiness.  There are left hemispheric PLEDs occurring almost
+through the entire record. At times they appear to improve in frequency and almost stop.
+Hyperventilation and photic stimulation are not performed.  There are no motor movements
+associated with the spikes.
+Summary of Findings:
+PLEDs (periodic lateralized epileptiform discharges)
+Focal slowing, polymorphic
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of focal left central PLEDs. There is
+continuous focal slowing in the left central region.  These findings are indicative of a focal irritative
+structural lesion.  There is diffuse background slowing and absent alpha rhythm.  these findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  These findings were
+conveyed to the primary team.
+

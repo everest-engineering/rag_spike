@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 79 year old male admitted with 2 episodes of seizures and noted to have jerking movements involving the right arm and face.
+MEDICATIONS: Ativan
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: Background EEG shows an 8Hz alpha rhythm. There is interhemispheric asymmetry. The right is slow with excess theta and beta. The left side is even slower than the right with delta as well as less faster frequency. There is bilateral FIRDA. Sharps were noted in FP/F7, left frontal.
+HR: N/A
+IMPRESSION: Abnormal EEG due to:
+1. Intrahemispheric asymmetry
+2. Excess theta and beta on the right.
+3. Excess delta on the left.
+4. Bilateral FIRDA.
+5. Left frontal sharp waves
+CLINICAL CORRELATION: No epileptiform activity was noted but EEG suggests left frontal focus for seizure. Sharps were noted in the left frontal region. Correlation with imaging was recommended. The EEG supports a diagnosis of mechanism for seizure.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 40 year old right handed woman with epilepsy, schizophrenia, spasticity and diabetes.
+MEDICATIONS: Tegretol, Baclofen, Gabapentin, Risperdal, METFORMIN, Lisinopril, Microgestin, Benztropine, Chlorpromazine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake but is suffering from a cold. Hyperventilation is deferred. DESCRIPTION OF THE RECORD: The background EEG demonstrates primarily a theta frequency with 6-7 Hertz theta in the background and a 7-8 Hertz alpha rhythm. There is an amplitude asymmetry with higher amplitude in the left hemisphere compared to the right. There is some arrhythmic delta activity particularly the left posterior quadrant. Features of drowsiness include rhythmic background slowing, occasional vertex waves and some Firda. Photic stimulation does not significantly activate the record.
+HR: 96bpm
+IMPRESSION: EEG is abnormal due to:
+1. Left hemisphere demonstrates mild slowing of the alpha rhythm.
+2. Right hemisphere a bit more slowing and a little bit more arrhythmic delta activity.
+CLINICAL CORRELATION: None of this patient's EEGs have ever demonstrated significant epileptiform activity, however, this is the best quality record to-date. That study failed to identify epileptiform activity in association with the spells. This is one of many EEGs and is the best quality of all of her studies.
+
+

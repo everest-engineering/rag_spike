@@ -1,0 +1,29 @@
+History:	62 Y/O FEMALE R HANDED PMHX.LUPUS SEIZURE COPD,HT,NIDDM,STROKE R
+SIDE. PT.ADMITTED FOR SOB  AND FLARE UP FOR LUPUS PT.IS ON HIGH
+DOSE OF STEROIDS FOR 3 DAYS PT HAS H/O SZ. INCONTINENCE, TONGUE
+BITING  SHAKING EYES ROLLING LAST SZ 2 X DAYS AGO.
+Medications:	OXYCODONE,INSULIN,DILANTIN,VALPROIC ACID
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left frontotemporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 84
+Summary of Findings:
+Focal slowing, polymorphic, frequent, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left frontotemporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.
+
+
+
+
+

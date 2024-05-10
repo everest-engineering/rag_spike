@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 22-year-old woman with near syncopal spell on 04/11/2015.  The patient experienced an episode of shaking all over with questionable loss of consciousness, blurry vision, and 25 minutes of tingling throughout her body.
+MEDICATIONS:  Naprosyn
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically satisfactory EEG with most impedances below 5 kilohms with the exception of the T1 and T2 electrodes.  This EEG captures wakefulness and brief sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 11.7 Hz alpha rhythm, which is symmetric and reactive to eye opening.  The overall background is appropriately organized for age.  Drowsiness is characterized by an increase in beta followed by rhythmic theta, but without sustained stage II sleep.
+Photic stimulation elicited a bilateral driving response.  Hyperventilation did not significantly activate the record.
+Heart rate:  72 bpm.
+IMPRESSION:  Normal EEG in awake through brief stage 1 sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  Normal EEG, does not exclude a diagnosis of epilepsy and if seizures are a strong concern, a more prolonged study capturing deeper stages of sleep is suggested.
+
+
+
+
+

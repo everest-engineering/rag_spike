@@ -1,0 +1,34 @@
+History:	65 year old woman with a history of severe TBI.
+Medications:	none listed
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 1/12/2015 till 1/13/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  With stimulation/ during arousals, the background consists of a
+mixture of polymorphic theta and delta activity with delta activity most pronounced anteriorly.  No
+normal sleep architecture is noted but periods of quiescence are clearly present and are
+characterized by diffuse moderate-to-high amplitude polymorphic delta activity.
+No clearly sustained focal slowing is noted.  No electrographic seizures are present.
+There is severe artifact in nearly all of the leads until ~ 12 PM.  That portion of the EEG is not
+interpretable.  Bed percussion artifact is present.
+Summary of Findings:
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG due to moderate diffuse slowing. This
+finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  No
+clinical or electrographic seizures are present.  There is severe artifact in nearly all of the leads
+until ~ 12 PM.  That portion of the EEG is not interpretable.
+
+
+
+
+

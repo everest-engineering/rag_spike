@@ -1,0 +1,49 @@
+AGE: 68 y.o.
+SEX: female
+DATE OF STUDY: 09/22/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and drowsy EEG #: 15-1392
+HISTORY:
+a 68 y.o. female with a history of reported seizures, as well as pulmonary embolism, HTN, DM, cataracts, and glaucoma referred for routine EEG.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+diphenhydramine (BENADRYL) 25 mg capsule, Take 25 mg by mouth every 6 hours as needed for Itching.
+rosuvastatin (CRESTOR) 5 mg tablet, Take 2 tablets by mouth nightly.
+valsartan-hydrochlorothiazide	(DIOVAN-HCT) 320-25 mg per tablet, Take 1 tablet by mouth daily.
+dabigatran etexilate (PRADAXA) 150 mg Capsule, Take 150 mg by mouth 2 times daily.
+cholecalciferol, vitamin D3, 50,000 unit Tablet, Take 1 tablet by mouth once a week.
+allopurinol (ZYLOPRIM) 100 mg tablet, Take 1 tablet by mouth daily.
+phenytoin (DILANTIN) 100 mg ER capsule, Take 2 capsules by mouth 2 times daily.
+hydralazine (APRESOLINE) 50 mg tablet, Take 1 tablet by mouth 3 times daily.
+aspirin 81 mg EC tablet, Take 1 tablet by mouth daily. amlodipine (NORVASC) 10 mg tablet, Take 1 tablet by mouth daily. baclofen (LIORESAL) 10 mg tablet, Take 10 mg by mouth 3 times
+daily.
+acetaminophen -codeine (TYLENOL-CODEINE #3) 300-30 mg per tablet, Take 1 tablet by mouth every 4 hours as needed for Pain.
+Meclizine (ANTIVERT) 25 mg tablet, Take 1 tablet by mouth 3 times daily as needed for Dizziness.
+topiramate (TOPAMAX) 25 mg tablet, Take 2 tablets by mouth 2 times daily.
+Lorazepam (ATIVAN) 0.5 mg tablet, Take 1 tablet by mouth as needed for Anxiety (MRI).
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a low voltage background.
+During drowsiness, diffuse theta background slowing is seen. Sleep is not captured.
+No generalized slowing is present.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 48 bpm is captured on a single EKG lead, with up to 2.4-second pauses.
+IMPRESSION / CLINICAL CORRELATION:
+This is an essentially normal Awake and drowsy	routine EEG. There are no clinical or electrographic events reported or detected.	A low voltage background may represent a normal
+variant in an adult.	Note is made, however, of bradycardia with up to 2.4-second pauses on a single EKG strip .
+
+
+
+
+

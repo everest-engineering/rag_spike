@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 29-year-old with new onset seizures 06/25/2013 in the context of frequent migraine headache.
+MEDICATIONS:  Valtrex.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record. This is a technically satisfactory routine EEG aside from slightly increased impedance in the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-formed alpha rhythm of 11 Hz, reaching 50 microvolts.  Alpha squeak was identified.  Lambda was noted in wakefulness.  Features of drowsiness include an increase in beta with rhythmic central theta and slow rolling eye movements.
+Hyperventilation did not activate the record.  Photic stimulation elicited bilateral driving.
+Heart rate 60 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If additional information is needed a more prolonged record capturing sleep may be of value.
+
+
+

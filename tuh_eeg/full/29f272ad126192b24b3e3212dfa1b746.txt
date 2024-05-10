@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 46-year-old male with epilepsy since age 16, seizure-free for 4 years, but recurrence in 2012 and a repeat seizure on 11/11/2013.
+MEDICATIONS:  Lamictal, Phenytoin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel  EKG.  This is a greater than 20 minute, technically satisfactory EEG with impedances under 5 kilohms with the exception of the T1-T2 electrodes which were slightly above this.  The patient was cooperative with testing throughout the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  There is a very subtle asymmetry with a bit of underlying focal 3-5 Hz activity in the left frontal region.  This can be identified in wakefulness.
+Hyperventilation was performed early in the record and produces frontally predominant 3-4 Hz spike and wave activity.  The activity is slightly asynchronous.  While it is present bilaterally, on some occasions it is more maximum in the left frontal region than the right.
+Spike and wave activity is also prominent as the patient transitions to stage 2 sleep with vertex waves.  Some of the activity does show some variability, occasionally a bit more prominent with a spike in the right frontal region, but it is by in large either generalized spike and wave activity or with a slight focality on the left.  In addition, as the patient becomes drowsy and vertex waves emerge in stage 1 sleep, there are some spikes with an unusual dipole, left frontal and more right posterior pattern.  Dyshormia was noted.  There is some fast activity noted in some of the spike and wave complexes as the patient transitions in and out of sleep.  Photic stimulation elicited a driving response.  In addition, the spike and wave activity did seem to appear during photic stimulation, but the patient was drifting off to sleep during photic stimulation.
+HEART RATE 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Subtle focal slowing from the left frontal region.
+Spike and wave activity which is typically generalized spike and wave, but has some irregularity to it, sometimes left frontal maximum, sometimes with an unusual field of spread and sometimes with a right frontal aspect.
+CLINICAL CORRELATION:  This is a complex EEG pattern.  The pattern may be seen in an inherited, generalized epilepsy, but given the focal slowing and some of the unusual morphologies of the spike and wave complexes, and a secondary generalized mechanism should be considered.
+
+
+

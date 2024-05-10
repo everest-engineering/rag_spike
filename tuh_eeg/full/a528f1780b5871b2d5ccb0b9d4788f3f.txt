@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 39-year-old woman who had an episode of sudden left arm weakness followed by slurred speech.  Lupus, mitral valve disease, multiple medical problems.
+MEDICATIONS:  Plaquenil, insulin, aspirin, others.  __________
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is an awake and asleep record.  Technical:  There is a fair amount of muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  The drowsy record is very low voltage with attenuation of the alpha rhythm posts and then lower voltage vertex waves.
+Photic stimulation is remarkable for significant muscle artifact, but there is a driving response.
+Heart rate 50 beats per minute.
+IMPRESSION:  This EEG is within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  If epilepsy is an important consideration, a repeat study capturing deeper stages of sleep is suggested.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is an 86-year-old gentleman found May 10 on the floor, not moving his left side with right MCA infarct.
+MEDICATIONS:  Vasotec, morphine, labetalol, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively drowsy.  Hyperventilation and photic stimulation were not possible.
+TECHNICAL:  There was a significant amount of muscle on the right.  The patient was able to follow commands.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a relatively low voltage pattern particularly on the left with scant, low voltage 8 Hz alpha activity. From the right there is significant muscle and less in the way of alpha frequency activity with some subtle underlying slowing on the right.  As the patient becomes drowsy, there is a clear dropout of faster frequency activity, a bit more so on the right than the left, with occasional isolated bursts of right frontal 3 Hz delta.  Other features of drowsiness include slow rolling eye movements. Generalized background slowing is noted from the left as the patient becomes sleepier.
+Heart rate slightly irregular, 78 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+Asymmetry between the 2 hemispheres with a slower pattern on the right.
+Disruption of faster frequency on the right, most prominent in the transition to sleep.
+Mild slowing on the left.
+CLINICAL CORRELATION:  Those findings described above are compatible with an acute stroke involving grey and white matter.  No epileptiform features were seen.
+
+
+

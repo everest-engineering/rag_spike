@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  96 year old male found hypothermic this morning with C1-C2 fracture, intubated, comatose, status post prolonged code.
+MEDICATIONS:  Atropine, EPI
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is stimulated vigorously during the EEG.
+DESCRIPTION OF THE RECORD:  This EEG is remarkable for essentially a suppressed pattern.  There is EKG and muscle artifact, but no definitive cerebral activity.
+HR:   Irregular 60 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Absence of definitive cerebral activity.
+CLINICAL CORRELATION:  This may well be a hyperacute study.  These findings should be placed in their appropriate clinical context.  Additional neurodiagnostic information may be of value in decision making process.
+
+
+

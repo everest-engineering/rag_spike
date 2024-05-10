@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 44-year-old woman admitted with chest pain and seizure.
+MEDICATIONS:  Medications for asthma.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake record with photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 10 Hz alpha rhythm with a small amount of low voltage frontocentral beta.  Brief drowsiness is characterized by increase in background slowing.  Photic stimulation elicits bilateral driving.  Heart rate 78 BPM.
+IMPRESSION:  Normal electroencephalogram.
+CLINICAL CORRELATION:  No epileptiform features were identified in the record.  A normal EEG does not exclude a diagnosis of epilepsy.  Because this was the patient's third normal EEG, long-term video EEG monitoring was initiated.
+
+
+

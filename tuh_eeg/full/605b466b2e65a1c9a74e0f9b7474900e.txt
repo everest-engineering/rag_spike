@@ -1,0 +1,21 @@
+History:	88 year old woman status post left craniotomy for a hemorrhagic stroke.
+Medications:	Keppra, started on Propofol drip and received vecuronium during the study.
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 17 hours from 08/13/2014 to 08/14/2014.   Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description: There is no PDR and no AP gradient.  There is right-to-left intrahemispheric asymmetry.  The background over the right hemisphere consists of attenuated polymorphic delta activity with some frontal theta activity.  The background over the left hemisphere consists of polymorphic moderate amplitude theta and delta activity anteriorly with attenuated delta activity posteriorly.  As the record continues the background becomes almost completely attenuated and suppressed.  No normal Almost continuous focal left anterior quadrant electrographic seizures.  They appear to start with broad rhythmic left anterior sharp waves and intermixed delta discharges that evolve into regular alpha activity.  Followed by a gradual evolution again into polymorphic sharply countoured irregular activity  maximal over F7, T3 and C3 electrodes. A single seizure may continue for hours without stopping. There is an amplitude asymmetry seen in the discharge region with a higher voltage consistent with a breach rhythm.  There is no clear clinical correlate noted on video.
+Hyperventilation and photic stimulation were not performed.  HR 78.  There is an intermittent severe EMG artifact at the beginning of the record (first 2 hours) that affects significantly all but left parasagittal leads and makes interpretation of the majority of the recording poorly interpretable.
+Summary of Findings:
+Status epilepticus
+Focal slowing, polymorphic
+Breach artifact
+Diffuse slowing, polymorphic
+Interpretation: This is an abnormal EEG because of  Left frontal focal slowing and status epilepticus indicate focal cerebral dysfunction, likely structural in etiology. Diffuse slowing indicates etiologically non-specific diffuse cerebral dysfunction.  Breach artifact indicates skull defect. These findings were conveyed sleep architecture is present.to the primary team.
+
+
+
+

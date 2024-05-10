@@ -1,0 +1,23 @@
+History:	21 year old woman with a history seizures, now presents with increase in seizure frequency.
+Medications:	TOPAMAX, KEPPRA
+Sedation: EEG Type: Technique:
+None
+Continuous (inpt, video), 24 hrs
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -17 hours from 3/17/2015 till 3/18/2015.  Nursing­ initiated event buttons were correlated with clinical behavior. All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates symmetrically with eye opening.  Fast alpha variant is seen. Intermittent symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  Bursts of diffuse moderate amplitude theta activity are captured. Normal sleep architecture is captured.
+No epileptiform discharges are present. Several events are captured.  None are associated with an abnormal ictal correlate. First event (at -9:12 PM) is characterized by bilateral flexing of the arms and soft brief shaking of the left and then the right arm, all while eyes are slightly opened and looking around (mostly at her mother).  Patient relaxes the arms eventually,  but remains unresponsive, with eyes opened, looking around.  Once the nurses come in the room, she lays still with eyes opened, looking straight, blinking occasionally, not following any commands. Left arms is extended, hand in the form of a fist with
+slow non-rhythmic low amplitude fluctuating arm shaking. This continues for minutes. Second event occurs at - 2:14 am and is characterized by patient who is laying with eyes opened, blinking occasionally and not responding. Third event occurs at - 11:33 AM on 3/18/2015. Patient remains on her back, eyes opened and not responding.
+Summary of Findings:
+Event, few, no ictal correlate Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL -17 hour continuous video EEG due to mild diffuse slowing.This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific. Three typical events are captured, none are associated with an ictal correlate. These findings were discussed with the patient and her mother.
+
+
+
+
+

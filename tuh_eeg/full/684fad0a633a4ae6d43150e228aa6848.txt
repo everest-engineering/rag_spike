@@ -1,0 +1,38 @@
+History:	62 year old woman who presents after an anoxic brain injury.
+Medications:	Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  24 hours from 11/3/2014 to 11/4/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  There is subtle right-to-left intrahemispheric asymmetry with
+slower waveforms over the left hemisphere.  There is gradual slowing of the the background as the
+recording progresses.  This corresponds to increase in doses in the CNS-active medications.  The
+background consists of a mixture of polymorphic low amplitude theta and delta activity.  There is
+relative paucity of theta activity over the left.  Additionally, diffuse, posteriorly predominant 0.75-1
+Hz sharp waves are captured.  Their frequency decreases significantly after ~ 2 PM.  Intermittent
+focal ~30 sec- 90 second right parietotemporal seizures are early in the recording.  Their frequency
+gradually decreases to several per hour as the recording progresses and their duration shortens.  No
+normal sleep architecture is present.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate, moderate-to-severe later in the recording
+Focal slowing, polymorphic, continuous, left hemispheric
+Seizure, intermittent, right, parietotemporal, 30- 90 sec in duration
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG due to moderate-to-severe diffuse slowing,
+focal left hemispheric slowing and intermittent right parietotemporal seizures. Diffuse slowing is
+indicative of moderate to- severe diffuse cerebral dysfunction, which is etiologically nonspecific, but
+in this patient is at least partially related to the medication effect.  There is an epileptogenic
+structural lesion over the right.  These findings were conveyed to the neurology consult team.
+
+
+
+
+

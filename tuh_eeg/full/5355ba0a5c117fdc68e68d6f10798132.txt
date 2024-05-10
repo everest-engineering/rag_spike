@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  71 year old woman with emphysema and osteoporosis admitted with sepsis. In isolation for possible TB or Microbacterium.  On July 25 the patient had sudden loss of bilateral vision, followed by right eye pain.  Vision is not improving.
+MEDICATIONS:  Vancomycin, Marinol, Pyrazinamide, Ethambutol, Isoniazid, Erythromycin, Metoprolol, Solu-Medrol, Heparin, Famotidine, Clotrimazole, Marinol, ASA, Pyrazinamide, Azithromycin, Lipitor
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is uncomfortable and anxious.  The technologist has difficulty with electrode artifact and patient cooperation.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates excess theta with a 6 Hz alpha rhythm.  There is occasional, shifting arrhythmic delta.  During the study becomes cold and starts to shiver.  Shiver artifact was observed.
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  The findings described above are nonspecific, but support a diffuse disturbance of cerebral function.  Contributing factors can include toxic or metabolic encephalopathy, as well as underlying cerebral pathology.  There were no epileptiform features.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 81-year-old woman with previous frontal lobe aneurysm repair, status post left CVA, transferred from rehabilitation after episode of weakness, right arm and body jerking for which the patient was amnestic.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record, without hyperventilation or photic stimulation.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a dynamic pattern.  There are some sections of the record with 9 Hz posterior dominant rhythm.  This is better defined on the right compared to the left, but at some point, it is quite vigorous on the left as well.  Arrhythmic slowing is noted particularly from the left hemisphere and particularly in the frontal central/frontotemporal regions.  There is also some shifting slowing noted in the bifrontal regions.  There are bursts of frontally predominant rhythmic delta were noted.  Features of drowsiness include slow rolling eye movements and decrease in the alpha rhythm.
+Heart rate 84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing, primarily to the left hemisphere with arrhythmic delta activity.
+Bursts of frontally predominant rhythmic delta.
+Shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The focal features may be correlated with history, neuroimaging, and clinical course.
+
+
+

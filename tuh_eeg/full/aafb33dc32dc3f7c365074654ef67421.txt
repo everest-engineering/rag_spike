@@ -1,0 +1,25 @@
+History:	20 year old woman with a progressive decline in mental status.
+Medications:	Vancomycin, Lamictal
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+This is a technically limited EEG due to nearly constant eye movement that results in large
+amplitude anterior artifact.  With eyes closed, the background consists of low-to-moderate
+amplitude fast activity, poor AP gradient and excess polymorphic low amplitude theta and delta
+activity.  With eyes opened, the background voltages are low and the background consists of a
+mixture of excess beta, theta and delta activity.  Diffuse, frontally predominant 5-10uV, 18-25Hz
+activity is also seen.  Patient remain awake throughout the recording.
+No appreciable focal features are captured.  No clear epileptiform discharges are seen.
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the ___
+region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+This finding is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.  No clinical or electrographic seizures are present.
+
+
+
+
+

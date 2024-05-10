@@ -1,0 +1,27 @@
+History:	52 YR OLD FEMALE PRESENTS WITH H/O CEREBRAL PALSY, TOTAL HIP
+REPLACEMENT 2009, SZ D/O.  LAST SZ X 4 MOS. AGO W/LOC AND NO RECALL
+OF EVENT. PMHX SIG FOR ASTHMA/SOB.
+Medications:	DILANTIN, TYLENOL 4, ALBUTEROL
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+appear diffusely, followed by symmetric vertex waves.  .
+Intermittent runs of rhythmic, monomorphic theta activity, lasting 3-8 seconds, were seen at Cz in
+wakefulness and drowsiness.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR 78
+Summary of Findings:
+No epileptiform discharges
+Other, Central Theta is most consistent with a Ciganek rhythm
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. The central theta activity described above is consistent with a Ciganek
+rhythm and is a normal variant.
+
+

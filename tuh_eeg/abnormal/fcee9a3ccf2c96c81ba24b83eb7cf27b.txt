@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 55 year old right handed male with a syncopal black out spell lasting 1-2 minutes in early December or late November.
+
+MEDICATIONS: None.
+
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+
+DESCRIPTION OF THE RECORD: In maximum wakefulness there is a 9.8 Hz alpha rhythm. Drowsiness is characterized by slow rolling eye movements. There is a small amount of theta noted as the patient becomes drowsy. There is also a scant amount of shifting, right or left temporal theta noted in hyperventilation, a bit more so from the left. Stage 1 includes symmetric vertex waves and POSTS. The patient is asleep during photic stimulation and does not activate the record. Hyperventilation produces some of the temporal changes, left more so than right, but unfortunately there is some eye artifact as well.
+
+HR: N/A
+
+IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+1. A pattern of irregular temporal slowing in hyperventilation.
+CLINICAL CORRELATION: A subject of this age should not have such prominent temporal features in hyperventilation. These are nonspecific finding and may be correlated with imaging and clinical history. This can be seen in the context of cerebrovascular ischemic disease. If epilepsy is an important consideration for this individual, consider a follow up sleep deprived EEG.
+

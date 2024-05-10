@@ -1,0 +1,14 @@
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases during drowsiness.  No sleep was captured.
+Intermittent polymorphic delta activity is present in the left frontal region during wakefulness, increasing during drowsiness.   Multiple frequent (-19) electrographic seizures were recorded beginning with rhythmic 1-2 Hz sharp waves in the F3 region and evolving into 5-7 Hz polyspike activity then slowing down. They remain mainly at F3 with some F7 spread. They last form 11sec to  1.5 minutes. There was no clinical correlate associated to this EEG activity documented on video.  Periodic lateralized epileptiform discharges (PLEDs) and polyspikes are also intermittently present in the F3 region at a rate of 1-2 Hz.
+Hyperventilation and photic stimulation are not performed. HR was 72
+Summary of Findings:
+Status epilepticus, electrographic, left frontal
+PLEDs (periodic lateralized epileptiform discharges),frequent, left frontal Focal slowing, polymorphic, frequent, left diffuse
+Diffuse slowing, polymorphic, continuous, mild diffuse
+Interpretation:
+This is an ABNORMAL awake EEG because of electrographic status epilepticus with multiple seizures arising from the left frontal region. In addition there is evidence of focal structural dysfunction and irritability in this region, which is consistent with the known lesion in the region. Lastly there is evidence of mild diffuse cerebral dysfunction, which is non-specific with regards to etiology.
+
+
+
+

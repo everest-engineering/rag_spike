@@ -1,0 +1,12 @@
+History:	82 YR MALE ADMITTED FOR ACUTE ONSET OF NEAR SYNCOPAL EPISODE OF SLUMPING TO THE LEFT AND SLURRED SPEECH.  HX: ADLS, DEMENTIA, HTN, CHF, DM.
+Medications:	HEPARIN, ASA, OXYBUTYNIN, STATIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Description: The predominant background is characterized by a 7-8 Hz, low voltage symmetric alpha rhythm. During maximal wakefulness, symmetric 5-15uV, 18-25Hz activity is present, predominately over bilateral frontal regions.  Excess diffuse admixed low voltage delta and theta activity is present throughout the recording and increases during drowsiness.  No normal sleep architecture was seen. No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 60.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation: This is an ABNORMAL EEG because of  diffuse background slowing and slow alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+

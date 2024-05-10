@@ -1,0 +1,50 @@
+AGE: 78 y.o.
+SEX: male
+START DATE OF STUDY: 11/14/2015 at 19:17 END DATE OF STUDY: 11/15/2015 at 17:46
+RECORDING ENVIRONMENT : ICU EEG TYPE : LTM
+EEG #: 15-323 .1-2
+HISTORY:
+78 y.o. male with a history of being "found down," presenting in PEA arrest, undergoing hypothermia Protocol, referred for EEG for hypothermia protocol and myoclonic movements .
+MEDICATIONS : Dopamine, Propofol; VPA 40 mg/kg load given 11/14/2015 22:40
+SEDATION : Propofol 5 mcg/kg/min TECHNIQUE :
+A 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation .
+DAY 1 (11/14/2015, 19:17 - 11/15/2015, 06:00)
+BACKGROUND, PAROXSYMAL ACTIVITY, EPILEPTIFORM ACTIVITY, EVENTS:
+The record opens to a grossly symmetric background obscured by diffuse muscle artifact.
+About every 100-120 seconds, there are diffuse bursts of high amplitude superimposed activity, consisting of waves <20 msec in duration admixed with theta and alpha frequencies, occurring every 2 seconds, lasting 0.5-2 seconds.	This correlates with diffuse body jerks.
+At 21:32, neuromuscular blockade is given.	The diffuse muscle artifact dissipates, revealing a suppressed background.
+The diffuse bursts of high amplitude superimposed activity remain, however.	They are sharply contoured bursts that appear to represent muscle artifact by visual appearance; however the onset of the EEG activity precedes onset of jerking captured on video .
+Clinically, each burst correlates with a diffuse, multifocal body jerk that begins in the shoulders, trunk, or the legs and involves
+the face.
+As the record progresses on this day, the periods of bursts become longer, with theta and alpha activity in between the sharply contoured spiky activity, with the entire burst lasting up to 7 seconds.
+There is no reactivity, variability, or state change. There is severe diffuse slowing.
+There is no focal slowing.
+HEART RATE: A single EKG strip captures a heart rate in the 50s-60s.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal video EEG due to:
+Severe diffuse slowing and lack of variability, state change, or reactivity, with burst-suppression pattern
+Diffuse myoclonic jerks
+These findings are indicative of severe diffuse cerebral dysfunction. Diffuse myoclonic jerks captured on video correlate with bursts of sharply contoured EEG activity. By visual appearance this activity represents movement artifact; however, seizure activity cannot be excluded as the bursts appear to precede the jerks captured on camera.
+These findings were discussed with the consulting neurology team and the treating primary team.
+DAY 2 (11/15/2015, 06:00 - 11/15/2015, 17:46)
+BACKGROUND: Burst-suppression pattern continues, with suppression up to 20-30 seconds and bursts lasting up to 1-7 seconds.
+GENERALIZED SLOWING: No change FOCAL SLOWING: None
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) , SPORADIC EPILEPTIFORM ACTIVITY, EVENTS:
+Similar to Day 1, with bursts lasting 1-7 seconds.	These correlate with diffuse and multifocal body jerking. By 12:00 on this day the jerking activity as seen on video has become less dramatic, and by 17:00 the jerking is undetectable although bursts persist.
+HEART RATE: A single EKG strip captures a heart rate in the 50s-70s.
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+This is an abnormal video EEG due to:
+Severe diffuse slowing and lack of variability, state change, or reactivity, with burst-suppression pattern
+Diffuse myoclonic jerks, becoming less prominent on video over the course of the day
+These findings are indicative of severe diffuse cerebral dysfunction. Diffuse myoclonic jerks captured on video correlate with bursts of sharply contoured EEG activity. By visual appearance the onset of the bursts represents movement artifact; however, seizure activity cannot be excluded as the bursts appear to precede the jerks captured on camera. These jerks become less prominent on video as this day progresses, despite the persistence of the bursts.
+These findings were discussed with the consulting neurology team and the treating primary team.
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+1. Severe diffuse slowing and lack of variability, state change, or reactivity, with burst-suppression pattern
+2. Diffuse myoclonic jerks, becoming less prominent on video by the end of the recording on Day 2
+FINAL CLINICAL CORRELATION:
+These findings are indicative of severe diffuse cerebral dysfunction. Diffuse myoclonic jerks captured on video correlate with bursts of sharply contoured EEG activity. By visual appearance the onset of the bursts represents movement artifact; however, seizure activity cannot be excluded as the bursts appear to precede the jerks captured on camera. These jerks become less prominent on video by the end of the recording on Day 2, despite the persistence of the bursts.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 42-year-old male with Rasmussen's encephalitis, status post left craniotomy with recent focal motor seizure followed by right-sided weakness and then epilepsy partialis continua.
+MEDICATIONS:  Decadron, phenobarbital, lacosamide, Zocor, others.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  The patient was not experiencing involuntary movements during the EEG.  So this is a technically satisfactory EEG with acceptable impedances, but the craniotomy defect was noted.
+DESCRIPTION OF THE RECORD:  The background EEG is abnormal and demonstrates an asymmetry.  The right hemisphere is moderately slow with primarily a theta frequency background noted in wakefulness.  The left hemisphere demonstrates more significant arrhythmic delta activity particularly in the left posterior quadrant.  A high amplitude epileptiform discharge, high amplitude spike and slow wave complex is noted.  This demonstrates variable maximum and includes T5, T3, P3 __________.  Some waveforms differ substantially than others in their distribution.  At some point, using an average reference, the reference appears to be the most active focus.  The left posterior temporal or parietal region is the most active area of epileptiform activity.
+Features of drowsiness include an increase in background slowing.
+Photic stimulation:  Did appear to accentuate the epileptiform activity.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Very prominent epileptiform discharge in the left posterior quadrant.
+Focal slowing with arrhythmic delta activity throughout the left hemisphere, most prominent in the left posterior temporal region.
+Marked __________ and slowing on the right.
+Questionable activation of the epileptiform activity on the left with photic stimulation.
+CLINICAL CORRELATION:  This EEG supports a highly epileptogenic focus in the left hemisphere.  The previous craniotomy may accentuate the amplitude of the activity described above.  For this individual, with complex epileptiform activity, today, the activity is on the left rather than bilateral.
+
+
+

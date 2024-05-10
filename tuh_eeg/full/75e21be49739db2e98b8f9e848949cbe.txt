@@ -1,0 +1,24 @@
+History:	22 YO FEMALE WITH SZ HX, SUFFERED A SZ WHILE CURRENTLY 10 WEEKS
+PREGNANT. PT ALSO COMPLAINS OF MIGRAINES.
+PMHX: SZ AND CONGESTIVE HEART FAILURE?
+Medications:	None
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the bilateral occipital regions during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 72
+Summary of Findings:
+Focal slowing, polymorphic, frequent, bilateral occipital
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the bilateral
+occipital region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-
+specific, but possibly structural in origin.
+
+

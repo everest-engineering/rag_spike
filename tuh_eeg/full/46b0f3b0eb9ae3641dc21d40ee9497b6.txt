@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  69 year old male status post pulmonary artery thrombectomy on August 17.  Poorly responsive for 1 week, now ventilated.  History of thrombectomy, C-spine cavernoma, atrial fibrillation.  The patient has been off sedative hypnotic medications for 1 week.
+MEDICATIONS:  Epinephrine, Norepinephrine, Heparin, Fluconazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was initially poorly responsive and a bit more responsive at the close of the record.
+DESCRIPTION OF THE RECORD:  The background EEG includes a pattern of rhythmic 4 Hz activity.  The overall background is relatively symmetric.  There are occasional bursts of FIRDA.  Stimulation of the patient is associated with an increase in muscle and faster frequency activity.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a rhythmic theta pattern.
+FIRDA.
+CLINICAL CORRELATION:  The findings as described above are nonspecific, but support a diffuse disturbance of cerebral function affecting gray and white matter.  No epileptiform features were identified.  No significant focal seizures were seen.
+
+
+

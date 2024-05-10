@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  40 year old male found without a pulse on May 17, required relatively vigorous and prolonged resuscitation, now with myoclonic jerks and possible concomitant drug overdose.
+MEDICATIONS:  Keppra, Lorazepam, Heparin, Famotidine, Vancomycin, Propofol, Midazolam
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated, in a hard collar, and poorly responsive.
+DESCRIPTION OF THE RECORD:  This is a low voltage EEG.  There is significant, low voltage 13 Hz beta.  There is a small amount of 9 Hz alpha frequency activity and then low voltage delta.  Photic stimulation did not significantly activate the record.
+HR:    130 bpm
+IMPRESSION:  Abnormal EEG due to:
+A relatively invariant pattern with low voltage beta and smaller amounts of alpha and delta frequency activity.
+CLINICAL CORRELATION:  To put this EEG in a proper clinical context, it is essential to know that the patient's medications and tox screen results, benzodiazepine overdose,
+as well as the use of benzodiazepines can also contribute to the pattern described above, or the use of sedative medications.
+
+
+

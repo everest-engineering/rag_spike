@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 24-year-old male, status post MVA, patient was a pedestrian with multiple cerebral injuries including intracerebral hemorrhage and skull fracture.  Patient is pharmacologically sedated with ICP monitoring and demonstrates intermittent posturing.  Patient was injured 1 day prior to the EEG.
+MEDICATIONS:  Propofol, fentanyl, Keppra and others.
+INTRODUCTION:  The patient was intubated with a hard collar.  Impedances were generally under 5 kilo-ohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  This bedside portable EEG demonstrates a low voltage, relatively featureless pattern.  Although electrode placement in the occipital regions may have been challenging, there is more prominent, frontal theta delta and the electrodes in the occipital scalp region demonstrated more low-voltage suppressed pattern.  Stimulation of the patient does not significantly activate the record.  There is little variability in the record, but some sections do demonstrate a little bit more rhythmic higher amplitude frontal delta.
+Heart rate 96 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Replacement of normal background with primarily a slow pattern with rhythmic frontal delta.
+Relatively suppressed pattern from the occipital regions.
+Paucity of reactivity or variability.
+CLINICAL CORRELATION:  This EEG suggest a bihemispheric disturbance of cerebral function.  No clinical events were recorded.  This patient's pharmacologic coma may contribute to the pattern described above.  Additionally, given the patient's injuries, electrode placement may also compromised the ability to obtain a good quality recording from the occipital regions.
+
+
+

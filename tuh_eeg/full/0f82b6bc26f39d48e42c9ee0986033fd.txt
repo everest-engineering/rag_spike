@@ -1,0 +1,33 @@
+AGE: 71 y.o.
+SEX: female
+DATE OF STUDY: 11/20/2015
+RECORDING ENVIRONMENT: ICU 247
+EEG TYPE: 20-40 min, drowsy and asleep EEG #: 15-1708
+HISTORY:
+71 y.o. female with a history of CARDIAC ARREST, 11/14 PT HAD CABG XS OFF SEDATION. referred for routine EEG for assessment of mental status change.
+MEDICATIONS:
+LASIX, ALBUTEROL, METOPROLOL, HEPARIN, NYSTATIN, INSULIN, FAMOTIDINE, ASA, SEROQUEL, PRAVASTATIN, LIDOCAINE, VERSED (11/20 4:20AM 2MG)
+TECHNIQUE:
+A bedside portable 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+This is a dynamic record . It includes a continuous pattern. When the patient is stimulated, there is a 6 Hz, theta pattern which is reactive.	When the patient is unstimulated, the EEG
+transitions to an irregular, slow delta pattern with intermittent attenuation. Attenuation is brief lasting 1-2 seconds.
+No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Tactile stimulation produces alerting response with increased and faster frequency activity.
+EVENTS:
+There are no clinical or electrographic events captured·during this study.
+HEART RATE:
+A heart rate of 120 bpm is captured on a single EKG lead.
+IMPRESSION: Abnormal bedside portable EEG
+generalized background slowing
+intermittent attenuation of the background
+CLINICAL CORRELATION:
+This EEG supports a bihemispheric disturbances or function.	This is a dynamic pattern.	The patient is clearly responsive to external stimuli.	These findings are nonspecific and can be seen in toxic or metabolic encephalopathy or encephalopathy due to other causes
+No epileptiform features were seen.	This EEG does not support or refute the diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,12 @@
+ROOM NUMBER:  Neurosurgical ICU.
+LONG-TERM MONITOR:  14-150-1.
+CLINICAL HISTORY:  Traumatic brain injury with bihemispheric hemorrhage, blood in the 4th ventricle, past history of childhood epilepsy.
+MEDICATIONS:  Keppra and fentanyl.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG and seizure and spike detection software.  This is a technically acceptable record.  No clinical or electrographic seizures were noted.
+DESCRIPTION OF THE RECORD:  The background EEG includes a low voltage, diffusely slow pattern with minimal amplitude asymmetries.  There is little in the way of reactivity or variability in the record and stimulation of the patient did not significantly changed the record.
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to marked background slowing.
+CLINICAL CORRELATION:  There were no epileptiform features identified in this record and asymmetries noted in this record, which reveal, congruent with craniotomy defects.  This EEG supports a severe, bihemispheric disturbance of cerebral function, congruent with neuroimaging.  __________ medications.
+
+
+

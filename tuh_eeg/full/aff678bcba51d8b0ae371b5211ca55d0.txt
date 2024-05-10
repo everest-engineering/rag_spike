@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 51-year-old woman with previous stroke and seizure.  The patient had an episode with shaking and loss of consciousness 2 weeks ago, and currently has spells 1-2 times per month with left-sided drooling, slurred speech, and thick tongue.  Symptoms worsened by treatments with Abilify and Cogentin.
+MEDICATIONS:  Tegretol, metoprolol, and others.
+INTRODUCTION:  Routine, 20-minute digital EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This was a technically acceptable routine 20-minute EEG with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is remarkable for a pattern rich in beta and generous theta.  A 10 Hz, 30 microvolt posterior dominant rhythm was identified.  The patient rapidly transitions in and out of sleep with an increase in background theta and a small amount of shifting theta.  As the patient transitions in and out of drowsiness, arrhythmic delta is noted with variable maximum, but at times a bit more prominent in the right posterior quadrant.  In addition, disruption of faster frequency activity with the bursts of arrhythmic delta activity sometimes more prominent in the right hemisphere.
+Photic stimulation elicited scant driving response.  The photic driving response was somewhat more vigorous on the left.
+Heart rate 84 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Mild background slowing and disorganization.
+Shifting arrhythmic delta.
+A subtle underlying focality with a bit more arrhythmic delta activity noted in the right posterior quadrant and a subtly focal photic driving response.
+Clinical Correlation:  No epileptiform features were noted.  The focal features described above may be correlated with this patient's imaging and history of right parietal hemorrhage.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An 83-year-old male with progressive decline in mental status, found to have left temporoparietal hemorrhage.
+MEDICATIONS:  Midazolam and Protonix.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  Patient was a bit somnolent and confused.  This is a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow and disorganized with a mixture of rhythmic theta and delta.  Superimposed upon this, there is movement artifact and some eye blink artifact, but there are also frontally predominant triphasic waves, some of which are synchronous, some of which are asymmetric.  In addition, there are occasional sharp waves noted.  Seen independently in the left frontal or right frontal region.  There is also bursts of sharply contoured slowing in the right mid temporal region.  Stimulation of the patient produces an increase in faster frequency.  Heart rate 116 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+Subtle underlying triphasic waves.
+Independent, right or left frontal sharp waves.
+Rare bursts of sharply contoured slowing in the right central temporal region.
+CLINICAL CORRELATION:  Overall, this EEG is more supportive of a bihemispheric disturbance of cerebral function.  The appearance of triphasic wave suggest a metabolic component.  There are rare sharp waves noted, ipsilateral to the hemorrhage, but there are also some noted in the contralateral hemisphere.  No seizures were recorded.
+__________________________
+
+
+

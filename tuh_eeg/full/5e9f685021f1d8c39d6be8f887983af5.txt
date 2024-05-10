@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  54 year old woman with visual distortions lasting 45 minutes, scintillations and visual obscurations with left-sided headache.
+MEDICATIONS:  Aspirin,  Synthroid
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG includes an
+11.5 Hz 30-50 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Features are drowsiness include an increase in theta as well as anterior spread of the alpha. Hyperventilation produces an increase in amplitude of the background.   Photic stimulation elicits bilateral driving.
+HR:	66 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed. Normal
+EEG does not exclude a diagnosis of epilepsy.
+
+
+

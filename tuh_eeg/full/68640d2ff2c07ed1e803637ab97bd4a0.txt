@@ -1,0 +1,42 @@
+AGE: 72 y.o.
+SEX: male
+DATE OF STUDY: 09/10/2015
+RECORDING ENVIRONMENT: Outpatient EEG TYPE: 95819
+EEG #: 15-1329
+HISTORY:
+72 y.o. male referred for routine EEG for:
+Recurrent CPS vs syncope Sept 4, 2015: Onset with the sudden
+onset of right sided weakness and difficulty speaking in 2009. He was discharged home where he was independent. Then in 2014 he experienced sudden onset of staring and difficulty speaking, was stiff and could not be moved. He was seen in the emergency room. It lasted for a few minutes. In the ambulance on his way to the hospital symptoms resolved.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+potassium bicarbonate (K-LYTE) 25 mEq disintegrating tablet, Take 25 mEq by mouth 2 times daily.
+atorvastatin (LIPITOR) 40 mg tablet, Take 40 mg by mouth daily. CHLORPROMAZINE (THORAZINE) 25 mg tablet, Take 25 mg by mouth 3 times daily.
+clopidogrel (PLAVIX) 75 mg tablet, Take 75 mg by mouth daily. pantoprazole (PROTONIX) 40 mg tablet, Take 40 mg by mouth daily. Aspirin 81 mg Tablet, Take	by mouth.
+No current facility-administered medications for this visit. SEDATION: none
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG,	HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 8.7 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+In limited drowsiness: slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm are seen.
+Deeper stages of sleep were not seen
+No generalized slowing is present.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: did not activation Photic Stimulation: scant driving
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-limited drowsy routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.	Given the frequency and stereotype of events, consider
+1 hour EEG or prolonged ambulatory or IP Video EEG
+
+
+
+

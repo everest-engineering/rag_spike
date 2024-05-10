@@ -1,0 +1,27 @@
+: History:	69 year old man who presents with status epilepticus Medications:	Phenobarbital
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -11 hours from 05/04/2014 till 05/05/2014.  Nursing? initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. There is superimposed excessive diffuse beta seen. No normal sleep architecture was present despite prolonged clinical sleep.
+Continuous polymorphic delta activity is present in the left parietal region during wakefulness.
+Continuous periodic lateralized epileptiform discharges (PLEDs) are present in the P3/T5 region at a rate of 0.75 Hz. Additionally, frequent -1 minute focal left posterior quadrant seizures occurring every 30 seconds are seen early in the recording. Last seizure is captured at -10:20 PM but it is unusually long at
+-3 min 30 seconds duration. There is no clear clinical correlate associated with these seizures.
+
+Summary of Findings:
+Status epilepticus, continuous, severe, left posterior, last seizure at -10:20 PM
+PLEDs (periodic lateralized epileptiform discharges}, continuous, left posterior, at -0.75 Hz Diffuse slowing, polymorphic, moderate
+Beta, excessive
+
+Interpretation:
+This is an ABNORMAL 11 hr continuous video EEG due to moderate diffuse slowing; focal left posterior quadrant status epilepticus that resolves early in the recording and continuous left posterior quadrant continuous periodic lateralized epileptiform discharges (PLEDs). These findings are indicative of a highly potentially epileptogenic acute focal destructive lesion in the left posterior quadrant. Diffuse slowing is etiologically nonspecific indicator of moderate diffuse cerebral dysfunction. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  91 year old woman with advanced dementia, sepsis, myoclonus and asterixis.
+MEDICATIONS:  Aricept, Keppra, Prednisone, Aricept, Heparin, Keppra, Tylenol, Guaifenesin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a reasonably well-organized pattern with an 8.7 Hz alpha rhythm.  There is a bit of slowing in the right posterior quadrant.  Occasional bursts of FIRDA are observed.  The patient is not examined during the EEG, but she is not experiencing spontaneous myoclonus.  Features of drowsiness include vertex waves.  She starts to snore early in sleep.
+HR:    60 bpm
+IMPRESSION:  This EEG is remarkable for:
+Occasional bursts of focal slowing a bit more remarkable from the right hemisphere.
+CLINICAL CORRELATION:  Despite the advanced dementia, the EEG is otherwise relatively remarkably preserved.  Of note, the patient has both lambda and a driving at 1
+Hz frequency.  The accentuation of these features may be part of her neurodegenerative syndrome.
+
+
+

@@ -1,0 +1,15 @@
+PROCEDURE:  This was an outpatient EEG.
+HISTORY:  This 58-year-old woman with childhood epilepsy, status post temporal lobectomy, one seizure 2 months ago.  The patient has had a left temporal lobectomy.
+MEDICATIONS:  Aricept, Vimpat, Keppra, Topamax, nabumetone, and oxybutynin.
+DESCRIPTION OF RECORD:  This is a very drowsy patient.  In maximal wakefulness, there is a 9 Hz, symmetric reactive posterior dominant rhythm.  As the patient becomes drowsy, there is accentuation of beta activity on the left with a little bit of lower voltage, left mid temporal maximum underlying theta delta.
+Hyperventilation seems to accentuate the same finding.
+The deeper stages of sleep include an increase in beta, posts and a suggestion of spindles, but then the patient alerts.
+Photic stimulation elicited bilateral driving.
+Heart rate 66 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Breach rhythm, an anticipated finding following craniotomy.
+Rhythmic slowing in the left temporal region seen primarily in drowsiness.
+CLINICAL CORRELATION:  No previous EEGs were available at this time for comparison.  This EEG supports a structural or functional process on the left with a history of previous temporal lobectomy.
+
+
+

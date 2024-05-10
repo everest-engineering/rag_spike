@@ -1,0 +1,27 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+
+
+57 YR OLD MALE PRESENTS ON 10/25 WITH ALTERED MENTAL STATUS/ STROKE ALERT, EPISODE OF SUDDEN DECREASE RESPONSIVENESS/ CONFUSION, INCONT. NOTED W/ LT SIDED WEAKNESS/ OLD CVA. NOTED W SHAKING UE LASTING 60 SEC/ 2 EPISODES, RIO SZ
+KEPPRA,  BACLOFEN
+
+
+Routine,awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes,awake
+
+
+
+
+Description:
+Waking background s characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates with eye opening and its best seen on the left side. Almost completely disrupted on the right. A 5-15uV, 18-25Hz activity is present, over left frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+
+Continuous polymorphic delta activity is present in the right hemisphere maximal in the frontotemporal region. There is associated loss of faster frequencies in the same region. No epileptiform discharges are present
+
+Hyperventilation and photic stimulation are not performed. HR was 96
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric, With loss of faster frequencies No epileptiform discharges
+
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the right hemisphere maximal in the frontotemporal region. This finding is indicative of a focal structural lesion in this region and consistent with the know stroke. No clinical or electrographic seizures are present.
+

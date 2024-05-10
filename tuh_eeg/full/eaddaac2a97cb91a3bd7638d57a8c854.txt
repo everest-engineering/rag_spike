@@ -1,0 +1,31 @@
+History:	FOLLOW UP EEG ON 28 YR MALE WITH H/O SZS X2 YRS.  LAST SZ 1 MONTH
+AGO. AURA (ECHO), LOC AND SOME SHAKING.  PMHX: HTN
+Medications:
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves. POSTS are seen.  Stage II sleep is
+characterized by vertex waves and sleep spindles.
+No focal slowing is present.  There are rare independent left and right anterior temporal sharp
+waves seen.  Additionally there are rhythmic 3-4Hz right anterior temporal complexes that may
+represent sharp and slow complexes lasting 2-4 seconds.  Alternatively these waves may represent
+temporal intermittent rhythmic delta activity (TIRDA).
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+intermediate flash rates.  There was no apparent clinical correlate to the runs of sharp-and-slow
+Summary of Findings:
+Sharp waves, rare, left frontotemporal
+Sharp-and-slow-wave complexes, intermittent, right frontotemporal
+Sharp waves, rare, right frontotemporal
+Interpretation:
+This is a ABNORMAL EEG, awake and drowsy due to independent temporal sharp waves and
+rhythmic sharp-and-slow waves over the right. These findings suggest epileptogenic zones in the
+left and right temporal lobes, possibly associated with a structural brain lesion.
+
+
+

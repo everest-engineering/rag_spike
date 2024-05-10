@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 71 year old male with right MCA/PCA infarct and involuntary jerking movements. Past history of alcohol abuse.
+MEDICATIONS: Protonix, Valproate, Midazolam, Labetalol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and becomes agitated with stimulation.
+DESCRIPTION OF THE RECORD: The background EEG includes abundant beta frequency activity with theta and delta. There are some shifting asymmetries in the temporal regions. The right hemisphere demonstrates a bit more slowing than the left.
+HR: 90 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. Excess beta.
+3. Superimposed focal slowing from the right.
+CLINICAL CORRELATION: There are no epileptiform features identified. No clear-cut involuntary movements were noted in this record. The excess beta may be due to medications.
+
+
+

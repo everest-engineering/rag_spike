@@ -1,0 +1,28 @@
+History:	59 year old man who remains comatose after smoke inhalation exposure.  CT head
+shows cerebral edema.
+Medications:
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background is severely attenuated and consists of diffuse slow
+delta activity versus burst-suppressed pattern with delta-like waveforms that are artifactual (possibly
+related to the IV drips).
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, marked
+No reactivity
+Interpretation:
+This is a very abnormal portable 23-minute coma-only EEG due to marked diffuse background
+slowing and lack of background reactivity. These findings are etiologically nonspecific indicators of
+severe diffuse cerebral dysfunction. In a post-anoxic patient this pattern indicates poor prognosis in
+terms of full neurological recovery.  This EEG was not performed according the the ACNS
+guidelines for the determination of electrocerebral inactivity.
+
+
+
+
+
+

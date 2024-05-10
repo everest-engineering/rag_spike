@@ -1,0 +1,27 @@
+History:	39 year old woman with a history of seizures since childhood.
+Medications:	Phenobarbital, Phenytoin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by 11.5-12 Hz alpha rhythm, which attenuates symmetrically
+with eye opening.  There is amplitude asymmetry of the PRD with higher voltage PDR over the
+right (>50% difference).  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral
+frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+Asymmetry, alpha, higher voltages of PRD on the R (>50% difference).
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute EEG due to greater that 50% voltage
+asymmetry of the posterior dominant rhythm with higher voltages over the right.  This finding is
+suggestive of structural differences over the posterior quadrants.  No epileptiform discharges are
+present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 48 year old left handed woman with epilepsy and recurrent vertigo when she turns her head to the right, previous normal EEG in 2009.  Now with paroxysmal dizziness lasting 15 minutes.
+MEDICATIONS:  Ketoconazole, Mylanta, Lidoderm, Zolpidem, Glipizide, Naprosyn, Actos, Docusate, Fibercon, Ascensia, Albuterol, Flovent, Ferrous, ASA, Diovan, Glucophage
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  The overall EEG is relatively low voltage, but there is an 11 Hz alpha rhythm.  Hyperventilation produces an increase in the amplitude of the alpha rhythm.  Drowsiness is characterized by prominent increase in beta.  Photic stimulation elicits a vigorous driving response.
+HR:    90 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If this patient's episodes of paroxysmal vertigo are severe, a follow-up study capturing one of her spells may be performed, either inpatient or outpatient.
+
+
+

@@ -1,0 +1,32 @@
+History:	81 yo p/w difficulty speaking. L CVA (embolic) MCA, R hemiplegia. PMHx: DM,
+HTN,  HLD
+Medications:	Coumadin, ASA, Synthroid, Norvasc, Imdur, Prilosec, Donepezil
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, best seen over the right.  5-
+15uV, 18-25Hz activity is present, maximal over right hemisphere.  Excess diffuse admixed 50-75
+uV, 5-8Hz activity is present throughout the recording and increases during drowsiness.  During
+drowsiness, the background slows to central theta activity, and the alpha rhythm attenuates and
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the
+midtemporal region during wakefulness, increasing during drowsiness.  Intermittent polymorphic
+delta activity is present in the right midtemporal region during wakefulness, increasing during
+drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric
+Focal slowing, polymorphic, intermittent, right temporal, mid
+Diffuse slowing, polymorphic, continuous
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the left
+hemisphere maximal in the midtemporal region.  This finding is indicative of a focal structural
+lesion in this region. In addition there is  diffuse background slowing and slow alpha rhythm.  These
+findings are indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+
+
+

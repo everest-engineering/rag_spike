@@ -1,0 +1,33 @@
+:
+History:	38 year old woman with a history of seizures.  Patient only experiences auras
+Medications:	Tegretol
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by low amplitude 11-12 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During brief drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Nearly continuous polymorphic delta activity is present in the right temporal region during
+wakefulness, increasing during drowsiness.  Right temporal intermittent rhythmic delta activity
+(TIRDA ) is frequently observed.  No clear epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+TIRDA (temporal intermittent rhythmic delta activity), frequent, right
+Focal slowing, polymorphic, nearly continuous, right temporal, mild
+No stage 2 sleep
+Beta, excessive
+Interpretation:
+This is an ABNORMAL 28-minute awake and drowsy EEG due to nearly continuous mild right
+temporal slowing that is intermittently rhythmic (TIRDA). These findings indicate focal structural
+right temporal abnormality with epileptogenic potential.  Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+
+

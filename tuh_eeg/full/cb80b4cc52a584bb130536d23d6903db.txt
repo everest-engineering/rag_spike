@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 46-year-old woman with childhood epilepsy, presents with two episodes of shaking and left-sided weakness.
+MEDICATIONS:  Baclofen, Benadryl, Buspar, Depakote, gabapentin, MS Contin, oxycodone, Plaquenil, Reglan, Coumadin, morphine, and Zofran.
+INTRODUCTION:  Digital video EEG is performed in the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This was an awake and asleep record in a very drowsy patient.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the posterior dominant rhythm reaches 10 hertz, but much of the time it is somewhat slower.  There is excess background theta noted in drowsiness.  The patient transitions in and out of stage two sleep with vertex waves and then brief spindles followed by arousals.
+Heart rate 66 bpm.
+IMPRESSION/  This EEG is remarkable for:
+Excess background theta.
+CLINICAL CORRELATION:
+No epileptiform features were noted.  The excess background theta may be due to this patient's medications.
+
+
+
+
+

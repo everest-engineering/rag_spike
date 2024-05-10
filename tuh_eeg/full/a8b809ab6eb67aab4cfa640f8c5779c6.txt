@@ -1,0 +1,13 @@
+.
+CLINICAL HISTORY:  A 67-year-old male with headaches and dizziness and frequent falling.
+MEDICATIONS:  Toprol, Pradaxa, Glucophage, Mevacor.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This is a very drowsy adult. This is a technically satisfactory EEG, although impedances were not assessed at the study initiation.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a relatively low-voltage pattern with an 8.7 Hz alpha rhythm and a small amount of low voltage, frontal central beta.  The patient transitions in and out of stage 1 and stage 2 sleep with vertex waves and spindles.  K complexes were noted.
+Photic stimulation was performed while the patient was drifting in and out of sleep and did not significantly activate the record.
+Heart rate 66 BPM.
+IMPRESSION:  This is a normal routine EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  This appears to be a very sleepy patient.  Sleep deprivation may produce this finding.
+__________________________
+
+
+

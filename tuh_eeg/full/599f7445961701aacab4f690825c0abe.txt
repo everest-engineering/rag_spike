@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 30-year-old woman who had an abrupt, generalized tonic-clonic seizure, falling forward with scalp laceration 4 days ago.  No prior history of epilepsy or epilepsy risk factors, but for the last 6 weeks has been having intermittent myoclonus throughout the day.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable 20-minute EEG.
+MEDICATIONS:  Tramadol.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 10 Hz alpha rhythm.  Hyperventilation was performed early in the record producing bursts of rhythmic theta.  There is a single, notched, frontal generalized burst noted in the 1st 2 minutes of hyperventilation, but there are no definitive spike and wave complexes noted in hyperventilation.  As the patient became drowsy following hyperventilation, there is an increase in frontal theta.  The patient waxes and wanes in and out of a drowsy state.
+Photic stimulation elicited bilateral driving.
+HEART RATE 72 BPM.
+There were some shifting asymmetries noted in the hyperventilation response as well.
+IMPRESSION:  This EEG is within the limits of normal.
+CLINICAL CORRELATION:  Although, there is a prominent hyperventilation response with some bursts of slowing, there is 1 suspicious burst, but no definitive spike and wave complexes.  Additional recording may be of value in search of definitive epileptiform activity.
+
+
+

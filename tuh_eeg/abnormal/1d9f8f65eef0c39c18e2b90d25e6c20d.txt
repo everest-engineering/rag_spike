@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  35 year old right handed woman transferred from Friends Hospital accompanied by a mental health care tech.  Laboratory studies and medications were provided, but patient's neurologic history is not described aside from change in mental status.
+MEDICATIONS:  Clozapine, Divalproex, Levothyroxine, Topiramate
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is excess beta and excess theta.  In addition, there is a small degree of disorganization. Following hyperventilation there are bursts of frontally predominantly delta. Photic stimulation elicits bilateral driving. In apparent wakefulness there is some paroxysmal bursts of slowing.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess theta.
+Excess beta.
+Somewhat poorly organized pattern for age.
+FIRDA.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This patient's medications for neuropsychiatric history may play a role in the disorganization and the slowing described above.
+__________________________
+
+
+

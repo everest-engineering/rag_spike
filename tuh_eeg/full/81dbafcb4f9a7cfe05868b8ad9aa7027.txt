@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 47-year-old woman with 5-year history of refractory epilepsy.  Multiple seizure types.  The patient reports occasional shaking spells, but no major seizures for the last 2 weeks.  Seizures may have a feeling of anxiety, shaking or staring, but some go on to become tonic-clonic.
+MEDICATIONS:  Trileptal, Keppra, and topiramate.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  Seizure and spike detection software was utilized.
+DESCRIPTION OF THE RECORD:  May 26 to May 27:  During the section of the record, the patient had one shaky feeling, but no definitive seizures.
+Background:  In wakefulness, there is 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Stage 2 sleep includes K complexes, spindles, __________.  Likely REM sleep was noted at approximately 3 a.m. on the 27th.
+Epileptiform Detections:  Abundant sharp waves and spikes are noted in the right temporal region with amplitudes greater than 100 microvolts and after going slow waves.  These are primarily seen in stage 1 and stage 2 sleep.  Brief runs of theta were noted intermittently in the drowsy record.  These may be accompanied by focal slowing in stage 2 sleep.  A paucity of awake sharp waves were noted.  Rare (less than 1 in 20) sharp waves were noted from the left.
+Electrographic seizures:  None.
+Push button events:  At approximately 9:17 on the night of the 26th, the patient reported feeling shaky.  EEG at this time does not identify any epileptiform discharges.  Heart rate is unchanged at approximately 72 bpm.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring for day 1 demonstrates interictal epileptiform activity, almost exclusively from the right temporal region, but no seizures.
+
+
+
+
+

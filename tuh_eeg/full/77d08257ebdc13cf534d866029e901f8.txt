@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 62-year-old woman with severe chronic static  encephalopathy, epilepsy, diabetes, ischemic white matter changes and ambulatory dysfunction, currently seizure-free.
+MEDICATIONS:  Tegretol, Glipizide, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible but photic stimulation was completed.  Impedances were under 5 K ohms with the exception of T1 and T2 which were 5.1 and 5.3 respectively.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 7 to 9 Hz alpha rhythm.  The EEG is a bit disorganized particularly in the bitemporal regions.  It is a bit better organized in the occipital and parietal regions.  Features of drowsiness include higher amplitude, paroxysmal frontal delta, some of which is notched.
+Photic stimulation was performed as the patient was drifting off to sleep.  There is scant driving.
+Heart rate:  72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+Slowing of the alpha rhythm.
+CLINICAL CORRELATION:  In comparison to previous EEGs, there were no right temporal sharp waves noted today.  There is significant artifact and other artifacts.  The overall background is essentially unchanged.  Of note, previous EEGs identified right or left temporal sharp waves and the areas of this EEG that are the slowest are in the temporal regions.
+
+
+

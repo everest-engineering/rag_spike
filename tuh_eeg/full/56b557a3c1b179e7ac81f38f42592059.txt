@@ -1,0 +1,26 @@
+History:	74 year old man who will undergo a right carotid artery stenting today.
+Medications:	N/A
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and
+subtemporal chain, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 11-12 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates
+intermittent premature QRS complexes.
+Summary of Findings:
+No epileptiform discharges
+Sleep, stage 2
+Beta, excessive
+Interpretation:
+This is a NORMAL 23- minute EEG, awake, drowsy, and asleep. Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+

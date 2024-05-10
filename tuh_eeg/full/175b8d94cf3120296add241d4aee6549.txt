@@ -1,0 +1,48 @@
+AGE: 75 y.o.
+SEX: male
+START DATE OF STUDY: 11/13/2015 at 14:51 END DATE OF STUDY: 11/14/2015 at 10:16
+RECORDING ENVIRONMENT: ICU EEG TYPE: LTM
+EEG #: 15-322.1-2
+HISTORY:
+75 y.o. male with a history of CAD s/p CABG, hypotension, and multiple ischemic infarcts referred for EEG for altered mental status, left gaze deviation, and intermittent twitching of trunk/diaphragm and face.
+Left gaze deviation was seen by examining consult team 2.5 hours prior to start of the study.
+Though no specific notation was made during the study, left gaze deviation was again seen by consulting team 1.5 hours after the end of the study.
+MEDICATIONS: VPA 250 mg TIO; s/p Keppra 1 g load, then 500 ql2h on 11/13
+SEDATION: s/p Ativan 2 mg IVP given 3 hours prior to start of recording
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (11/13, 14:51 - 11/14/2-015, 06:00) BACKGROUND:
+The background is continuous, symmetric, poorly organized, and consists of a mixture of theta and to a lesser extent, delta and alpha frequencies.
+Posterior dominant rhythm is not present.
+The background is reactive and variable. During relatively quieter periods, the background consists of delta with admixed theta. Sleep transients are absent.
+Spontaneous eye blinks are present.
+There were no persistent asymmetries in amplitude and frequency. PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS:
+Several episodes of diaphragmatic myoclonus are captured on
+video, correlating with ventilator artifact on EEG. Some examples occur on 11/14/15 at 00:29, 01:30, 05:25.
+CLINICAL: The patient receives a delivered breath on the ventilator and had several myoclonic movements of the diaphragm. EEG: Ventilator tubing artifact (delta wave seen in frontal leads with superimposed fast frequency activity) correlates on EEG. There is no underlying epileptiform activity.
+EKG: A single EKG strip captured a heart rate in the 80s-90s. DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal video EEG due to:
+Moderate diffuse slowing
+Background disorganization
+Diaphragmatic myoclonus correlating with ventilator tubing artifact on EEG, without underlying epileptiform activity.
+These findings are consistent with moderate diffuse cerebral dysfunction. Diaphragmatic myoclonus is captured and does not correlate with epileptiform activity.
+DAY 2 (11/14/2015, 06:00 - 11/14/2015, 10:16)
+BACKGROUND: No change GENERALIZED SLOWING: No change FOCAL SLOWING: None
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) : None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: no change from previous day
+EKG: A single EKG strip captured a heart rate in the 80s-90s. DAY 2 IMPRESSION & CLINICAL CORRELATION
+No change from Day 1.
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Moderate diffuse slowing
+Background disorganization
+Diaphragmatic myoclonus correlating with ventilator tubing artifact on EEG, without underlying epileptiform activity.
+FINAL CLINICAL CORRELATION:
+These findings are consistent with moderate diffuse cerebral dysfunction. Diaphragmatic myoclonus is captured and does not correlate with epileptiform activity.
+
+
+

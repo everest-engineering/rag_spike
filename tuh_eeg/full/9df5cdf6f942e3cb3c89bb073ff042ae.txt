@@ -1,0 +1,41 @@
+History:	53 year old woman status post prolonged cardiac arrest, now with myoclonic jerks
+and posturing events.  Patient will be placed on continuous EEG monitoring.
+Medications:	Propofol, Versed
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 20 hours from 02/14/2014 to 02/15/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  Voltages are diffusely attenuated.  The background consists
+of very low amplitude fast activity.  Rhythmic ventilator artifact is present early in the recording.  At
+onset there are generalized high amplitude fast activity that rapidly decreases in frequency to
+rhythmic diffuse theta activity that rapidly stops. None had a clinical correlate seen in the previous
+record.  The bursts appear to become more frequent during the first six hours. After 12 hours the
+bursts become less prominent in amplitude and frequency. They also do not seem to evolve
+anymore.  No normal sleep architecture is present.
+See above.
+There is continuous EKG artifact.  HR was 90
+Summary of Findings:
+Attenuation, nearly continuous, severe diffuse
+Other, Evolving burst generalized high amplitude fast activity
+Interpretation:
+This is an ABNORMAL 20 hours video-EEG due to severe diffuse slowing, attenuation, lack of
+background reactivity. These findings are etiologically nonspecific indicators of severe diffuse
+cerebral dysfunction. The  generalized discharges described above appear to be cortical in nature
+and in the ictal - interictal continuum.  The morphology may have changed due medication and/or
+evolution of cortical injury.  In the setting of anoxic brain injury all these findings indicate poor
+chance of full neurological recovery.  These findings were conveyed to the neurology consult team.
+
+
+
+
+

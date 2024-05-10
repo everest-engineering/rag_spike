@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  She has a history of right hip pain and then developed recurrent body jerking movements several weeks ago and there was a question whether or not she has seizures.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  Recording started at 9:53 a.m. and ended at 10:18 a.m.  This is a bedside routine EEG performed using the standard 10-20 system electrode placement capturing wakefulness through drowsiness.  There is one channel of EKG monitoring.  As the record opened, there is a symmetric 8.5 to 9 Hz posterior dominant rhythm that is reactive to eye opening.  There is a small amount of frontal central beta activity identified that is also symmetrically distributed.  Drowsiness is characterized by slowing of the posterior dominant rhythm, the appearance of slow rolling eye movements and decrease in eye blinks.  Activation procedures including hyperventilation and photic stimulation were performed, and these did not significantly activate the tracing.  There were no interictal discharges, no spikes or sharp waves detected.  There were no ictal discharges.  There were no electrographic seizures.  There were no clinical events identified by the patient.
+IMPRESSION:  This is a normal EEG capturing wakefulness through drowsiness.
+CLINICAL CORRELATION:  Normal EEG does not rule out the clinical diagnosis of epilepsy.  If clinically indicated, a repeat tracing capturing deeper stages of sleep may be helpful in this patient.
+
+
+

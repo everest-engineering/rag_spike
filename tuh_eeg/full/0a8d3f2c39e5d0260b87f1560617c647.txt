@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 90-year-old woman with a recent fall last week, patient then became unresponsive while she was talking to her family. History of hypertension, hyperlipidemia, atrial fibrillation, and CABG.
+MEDICATIONS:  Lovenox, Others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was relatively drowsy throughout.  This is a technically satisfactory EEG with impedances below 5 kOhms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The EEG is diffusely slow, poorly organized with primarily a theta frequency background.  There are a handful of poorly formed triphasic waves noted in the background.  There are also shifting asymmetries noted, particularly in the posterior temporal regions with a bit more theta noted occipitally on the right compared to the left.  Stimulation of the patient clearly produces a brief alerting response and with stimulation, a significantly faster frequency alpha rhythm, approaching 9 Hz is noted, again a bit better on the right compared to the left.  Shifting asymmetries were noted in the record as the patient becomes drowsy.
+Heart rate 96 bpm.
+IMPRESSION:  This is an abnormal EEG due to;
+Background slowing.
+Shifting asymmetries without strongly lateralizing features.
+Poorly-formed triphasic waves.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function.  This may be due to a toxic or metabolic encephalopathy as well as to another, diffuse brain disturbance.  The presence of triphasic waves suggest that there may be a toxic or metabolic component.
+
+
+

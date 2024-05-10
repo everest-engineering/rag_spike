@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  68 year old nonverbal adult with cough, back pain and agitation.
+MEDICATIONS:  Ceftriaxone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient appears to be quite confused.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, there is a 6-7 Hz alpha rhythm.  There are intermittent bursts of frontally predominant rhythmic delta activity.  Shifting slowing is noted in the background. Photic stimulation does not activate the record.
+HR:    150 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+Disorganization.
+Frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG.  The background slowing and FIRDA are nonspecific findings, but are more commonly seen in a metabolic encephalopathy.
+
+
+

@@ -1,0 +1,28 @@
+History:	77 year old woman admitted with change in mental status.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Description:
+During maximal arousal PDR reaches 9 Hz.  AP gradient is normal.  Excess diffuse admixed 50-75
+uV, 5-7Hz activity is present throughout the recording.  Frequent brief (2-5 second) bursts of 100-
+200uV, 2-4Hz rhythmic bifrontal slow waves occur throughout the recording, increasing in frequency
+during drowsiness.  Patient rapidly transitions between wakefulness and stage II sleep.  Sleep
+consists of symmetrical vertex waves, POSTS, sleep spindles and K-complexes.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+FIRDA (frontal intermittent rhythmic delta activity)
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute EEG due to mild diffuse background slowing.
+This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+FIRDA could be seen in encephalopathy, bilateral deep white matter disease, increased ICP.
+Patient rapidly transitions between wakefulness and stage II sleep.  This signifies excessively drowsy
+patient.  Please correlate clinically.  The lack of epileptiform discharges on a routine EEG does
+not rule out a clinical diagnosis of epilepsy.
+
+
+
+

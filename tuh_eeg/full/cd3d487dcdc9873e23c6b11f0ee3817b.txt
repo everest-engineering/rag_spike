@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  An 83-year-old woman with COPD status post aneurysm repair x2 with 2 days of shortness of breath, evaluate for seizures.
+MEDICATIONS:  Aspirin, Norvasc, vancomycin, prednisone, others.
+INTRODUCTION:  Digital EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively somnolent throughout the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG includes a diffusely slow pattern.  Sections of the record include stage II sleep with spindles and posts.  Stimulation of the patient produces a brief arousal with a 9-Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  This is followed by a somewhat slower pattern.
+Heart rate 114 bpm.
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified in this EEG.  When the patient is first stimulated, there is a normal awake pattern and then some background slowing, compatible with a drowsy patient.  Clinical correlation regarding the patient's hypersomnolence may be appropriate.
+
+
+

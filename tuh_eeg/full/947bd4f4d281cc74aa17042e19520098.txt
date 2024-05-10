@@ -1,0 +1,24 @@
+History:	45 YO FEMALE IN IR FOR CEREBRAL ANGIOGRAM W / COILING
+COIL DEPLOYED LEFT SIDE X2 11:29
+Medications:	REMFENT, PROPOFOL, VERSED, ISOFLURANE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  As patient is sedated the background becomes discontinuous with
+intermittent attenuation and later burst suppression.  The bursts consist of symmetric frontal maximal
+beta/ alpha discharges slowing in frequency.  They occur about every 1-3 seconds lasting for 1-3
+seconds. With less sedation the patient would arouse and move.  No normal sleep architecture was
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Study lasted 2hrs and 50minutes.
+Incision at 10:17AM. A coil was deployed at 11:27AM and a second coil was deployed at 11:32AM.
+No changes from sedated background were noted on EEG.
+Summary of Findings:
+Other, No changes
+Interpretation:
+This is a uneventful EEG during a cerebral angiogram and coiling. Any changes were conveyed to
+the primary team.
+

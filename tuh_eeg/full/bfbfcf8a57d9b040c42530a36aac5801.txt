@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 67-year-old male with a pacemaker, CABG, peripheral vascular disease, admitted with confusion, right facial droop and evidence of aphagia.
+MEDICATIONS:  Aspirin, Plavix, Thiamine.
+INTRODUCTION:  A digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was awake, but had difficulty communicating.  This EEG was remarkable for some technical challenges including artifact at F8.
+DESCRIPTION OF THE RECORD:  By the challenges described above, this EEG demonstrates an abnormal pattern. The activity from the right hemisphere is a bit slow and disorganized with an alpha rhythm of approximately 8 Hz and a small amount of theta.  The left hemisphere is remarkable for disruption of faster frequency activity, sharply contoured delta noted in the left hemisphere typically at left frontotemporal. The majority of focal features in the left hemisphere are  frontotemporal and centrotemporal, but there is clear disruption of the alpha on the left  and when the alpha is present it is slower than the right. The patient is awake and cooperative throughout the EEG. Sharply contoured slowing and rone T3 sharps with paroxysmal slowing was noted.
+Photic stimulation does produce a scant driving response on the right and so vigorously on the left at faster frequencies.
+By the end of record, the EEG is a bit better organized on the right compared to the left with an 8.3 Hz alpha rhythm.
+Heart rate is irregular at 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+An intra-hemispheric asymmetry with focal slowing from the left hemisphere.
+Sharply contoured delta and occasional sharp waves noted from the left, more prominent in the early section of the record sometimes in sustained bursts, but without actual frequency evolution.
+A dynamic pattern with improvement of the overall background on the right relative to the left overtime, but not so much relative to the left overtime.
+CLINICAL CORRELATION:  The sharply contoured slowing noted on the left had improved by the end of the EEG, but the slowing on the left persisted.  These findings can be seen in the context of an acute stroke, resolving stroke, but they may also be seen in the context of a postictal pattern.  Clinical correlation is essential.
+
+
+

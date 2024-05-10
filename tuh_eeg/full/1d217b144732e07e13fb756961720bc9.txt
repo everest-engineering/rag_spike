@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  A 58-year-old male with glioblastoma multiforme diagnosed July 2012, left temporal parietal resection.  The patient admitted to the hospital after he had increasing weakness, shakiness, somnolence following the Thanksgiving holiday.
+
+MEDICATIONS:  Decadron, Keppra, others.
+
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was somewhat confused.
+
+DESCRIPTION OF THE RECORD:  The EEG in wakefulness is abnormal, poorly organized with a mixture of arrhythmic delta and theta.  Superimposed upon this is an asymmetry with a bit more dysfunction of faster frequency activity in the left hemisphere with higher amplitude delta.  Some of this is sharply contoured at C3 P3 or T3. In addition, the activity also includes some sharply contoured delta on the right with rare sharp waves on the right posterior temporal or central parietal region.  Stimulation of the patient produces an increase in rhythmic theta.
+
+Drowsiness is characterized by an increase in hyper synchronicity.  Some of the sharp waves on the right mid temporal region are a bit more defined in drowsiness.
+
+Heart rate 84 BPM.
+
+IMPRESSION:
+1. This is a markedly abnormal EEG due to:
+2. Background slowing and disorganization.
+3. Arrhythmic delta activity identified independently from either hemisphere which is more prominent on the left compared to the right.
+4. Sharp waves identified from either hemisphere.  Given the history described above, those on the left are an anticipated finding but those on the right may be a new phenomenon.
+
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  The arrhythmic delta on the left is congruent with the previous surgical history.  There is more than one potentially epileptiform focus for this patient.  Correlation with imaging may be valuable.
+
+

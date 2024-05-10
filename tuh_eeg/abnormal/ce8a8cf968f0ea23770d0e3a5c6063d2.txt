@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 48 year old male with a 5-minute syncopal event 6 weeks ago. No other neurologic history is provided.
+MEDICATIONS: Vesicare, Carbamazepine, Nifedical, Ibuprofen
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz, 50 microvolt posterior dominant rhythm. In wakefulness there are also right anterior temporal sharp waves. During the hyperventilation part of the record there is an area of initially a low voltage, slightly irregular slowing out of the right central temporal region, followed by more rhythmic activity of initially 2-3 Hz, and then higher amplitude activity of increasing
+rhythmicity in hyperventilation, which is in the right central temporal region. This activity out of the right central region occurs in the context of generalized, frontally predominant rhythmic slowing. In the post hyperventilation record, there is prominent rhythmic 7 Hz activity out of the left central region and then more definitive Mu like activity which can be seen bilaterally. The activity that looks like Mu on the left Is a lower voltage from that on the right, although the frequency is identical. Features of drowsiness include an increase in beta frequency activity. Photic stimulation elicits supraharmonic driving.
+HR: 66 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Rare right temporal sharp waves.
+2. Subtle underlying focal slowing in the right central temporal region.
+3. An unusual Mu activity that is slower that it is typically expected in higher amplitude  on the right.
+
+CLINICAL CORRELATION: The sharp waves should be correlated in this patients history, but support a focal mechanism for epilepsy.
+

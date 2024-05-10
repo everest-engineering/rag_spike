@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 45 year old right handed woman with epilepsy, seizure 2 weeks ago characterized by tongue biting and confusion. History of diabetes, hypertension, and asthma.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage, particularly for an adult of this age. There is a 10 Hz alpha rhythm identified and central MU rhythm is observed, but testing it not performed to confirm this. Features of drowsiness include rhythmic background slowing. Photic stimulation elicits lambda. POSTS are observed in sleep.
+HR: 60 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform features are observed. Additional
+recording, either sleep deprived or using other techniques may be helpful to characterize epileptiform activity.
+
+
+

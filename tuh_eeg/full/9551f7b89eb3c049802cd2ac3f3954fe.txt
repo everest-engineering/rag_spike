@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 66 year old male status post PEA code on April 28 at 5:52 p.m. for 30 minutes. He has a history of alcohol abuse.
+MEDICATIONS: Aspirin, Metoprolol, Insulin, Unasyn, Reglan, Bumetanide
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is poorly responsive but resting on his left side. He remains ventilated.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very low voltage, slow pattern. There is a fair amount of muscle artifact. There is some eye movement noted. The low voltage cerebral pattern is easily obscured by muscle artifact, but there is some cerebral activity. Stimulation of the patient does not activate the record. There is a small amount of asymmetric eye movement artifact and then towards the close of the record spontaneous eye movements are observed.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Low voltage relatively suppressed pattern.
+CLINICAL CORRELATION: This EEG suggests significant cerebral injury. If additional prognostic information is needed, please consider somatosensory evoked potential.
+
+
+

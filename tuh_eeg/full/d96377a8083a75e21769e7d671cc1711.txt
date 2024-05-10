@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 48-year-old woman with grand mal epilepsy, seizures last only a minute, most recent seizure one month ago.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  There are no previous EEGs.
+Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation are performed.   This is a technically satisfactory EEG, although impedances were not ideal for T1, T2 and T3 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized with a 10 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness was characterized by an increase in theta.  Hyperventilation did not significantly activate the record.  Photic stimulation elicited scant driving.
+Heart rate:  66 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing with sleep deprivation or other techniques may be helpful to characterize epileptiform activity.
+
+
+

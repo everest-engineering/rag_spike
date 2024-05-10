@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 35 year old right handed male with alcohol withdraw, status epilepticus 10 days ago.
+
+MEDICATIONS: Keppra.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 hertz posterior dominant rhythm with a small amount of background beta and theta. Hyperventilation produces an increase in background theta. Photic stimulation elicits a scant driving response.
+
+HR: 66 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess theta.
+
+CLINICAL CORRELATION: Overall, the background is improved compared to the previous study. The excess beta and theta are nonspecific findings and can be due to this patient's medications.
+

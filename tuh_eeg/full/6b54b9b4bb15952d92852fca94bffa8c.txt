@@ -1,0 +1,16 @@
+History:	62 year old man with left frontal status epilepticus that has now resolved.  This is a follow-up EEG.
+Medications:	PHENOBARBITAL,  VIMPAT, DEPACON
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Description: There is no AP gradient and no PDR.  There is right-to-left intrahemispheric asymmetry with slower waveforms over the left hemisphere.  The background over the right hemisphere consists of polymorphic theta and delta activity with underriding excess beta activity.  The background over the left hemisphere consists of a mixture of theta<delta activity.  Some symmetrical sleep spindles and vertex waves (better visualized over the right) are captured.
+A single left prefrontal (Fp1) electrographic seizure lasting ~80 seconds is captured. It commences with rhythmic Fp1sharply contoured theta activity that increases in amplitude with limited spread/reflection over Fp2 electrode.  There was no clinical correlate associated to this EEG activity.
+Hyperventilation and photic stimulation were not performed.  HR was 84.
+Summary of Findings:
+Seizure, single, electrographic, left frontal
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Breach artifact, right hemispheric
+Interpretation: This is an ABNORMAL 21-minute awake and asleep EEG due to moderate diffuse slowing, continuous focal left hemispheric slowing and a single ~ 80 seconds very focal left frontal seizure that was confined to a single electrode. Diffuse slowing indicates diffuse cerebral dysfunction that is etiologically non-specific.  Continuous focal slowing is indicative of a focal structural lesion in this region.  There is an epileptogenic focus over the left frontal region.  Breach artifact is secondary to a skull defect.  These findings were conveyed to the primary team.
+
+

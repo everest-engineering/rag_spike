@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 37-year-old male with multiple seizures, alcohol abuse, and transaminitis.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a routine outpatient EEG with appropriate impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a low voltage, symmetric reactive 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Hyperventilation was performed early in the record, increasing amplitude of the background.  Drowsiness is characterized by an increase in theta.  Other features of drowsiness include an increase in beta.  Deeper stages of sleep are not sustained.
+Photic stimulation elicited bilateral driving.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the 3rd normal EEG (see outside studies).  The normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, a followup study capturing with more prolonged sleep is suggested.
+
+
+

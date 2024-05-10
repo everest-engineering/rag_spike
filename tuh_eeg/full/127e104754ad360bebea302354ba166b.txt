@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 53-year-old male with a single seizure 25 years ago, recent breakthrough seizure, treated with zonisamide; diabetes; and hypertension.
+MEDICATIONS:  Zonisamide, aspirin, and others.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  In relaxed wakefulness, brief bursts of frontally predominant 3 Hz spike and wave activity lasting less than 2 seconds were identified.  Hyperventilation was performed early in the record and also elicited a somewhat more prolonged bursts.  A 3rd burst was identified in relaxed wakefulness towards the end of the record.
+Tactile stimulation for these brief bursts was associated with an alerting and the bursts seem to occur as the patient was transitioning into sleep.  The sleep pattern included spindles with limited vertex activity.
+Photic stimulation did not accentuate the spike and wave activity.  The patient seemed to be falling asleep during photic stimulation.
+Heart rate is 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+frontally predominant 3-4 hertz spike and wave activity noted in relaxed wakefulness,  hyperventilation in the transition to sleep.  All bursts lasting less than 3 seconds.
+CLINICAL CORRELATION:  This EEG supports a generalized mechanism for epilepsy.  All bursts were quite brief and no impairment of awareness could be elicited with the bursts.
+
+
+

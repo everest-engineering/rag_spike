@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 69-year-old woman with hypertension, depression, asthma and Alzheimer disease admitted with transient left arm weakness found to have left parasagittal cavernous angioma.
+MEDICATIONS:  Protonix, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The background EEG is well organized with a 10 Hz alpha rhythm and a small amount of low voltage, frontocentral beta activity.  Vertex waves were observed in stage I sleep and the patient transitions readily in and out of sleep.
+Notable in this record was intermittent, focal slowing from the right hemisphere with initially isolated theta delta noted in hyperventilation and a little bit more intermittent, but sustained focal slowing noted as the patient transitions towards drowsiness.
+Photic stimulation was performed as the patient was drifting off to sleep and did not significantly activate the record.  Heart rate 84 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:  Intermittent focal slowing in the right centrotemporal region.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The intermittent focal slowing may be correlated with imaging.  In this individual with a history of Alzheimer disease, there was no generalized background slowing.  This EEG may be correlated with imaging, but consideration for either a structural process or a transient process such as TIA or postictal state may be considered.
+
+
+

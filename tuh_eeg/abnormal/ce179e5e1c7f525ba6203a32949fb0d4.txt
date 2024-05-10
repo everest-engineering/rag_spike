@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 41-year-old male who developed epilepsy about 1-1/2 years ago.  He always has his seizures during the day at workshop.  Last seizure was on March 20 when he slumped over and developed shaking.  Now developing some impairment in memory.
+MEDICATIONS:  Keppra and others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1-channel of EKG.  Photic stimulation was completed.  Hyperventilation was completed.  Impedances were acceptable although T1 and T2 were at 5.1 and 5.3 kohm.
+DESCRIPTION OF THE RECORD:  In wakefulness there was a 10 Hz alpha rhythm with a small amount of low voltage coming from frontocentral beta.  The patient transitions in and out of stage II sleep with vertex waves, K-complexes, spindles, and POSTS.  The patient is transitioned in and out of sleep during photic stimulation but there is a driving response identified.
+Hyperventilation produces a small amount of slowing and an increase in amplitude of the background.
+Heart rate:  60 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the second normal EEG for this adult with down syndrome and adult-onset epilepsy.  Despite the recent memory complaints, the background is unchanged.
+
+
+

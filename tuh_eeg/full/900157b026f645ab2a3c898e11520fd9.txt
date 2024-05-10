@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  A 37-year-old woman with new onset seizures last week.  The patient reported feeling dizzy, loss of consciousness, shaking with mouth twisting to the left, and tongue biting.  Seizure lasted 3 seconds with a 30-second seizure.  No identifiable epilepsy risk factors.
+
+MEDICATIONS:  None reported.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a routine, 22 minute EEG was impedances generally under 5 kilo ohms with the exception of the T1-T2 electrodes.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage with an 11 Hz alpha rhythm and a small amount of low voltage, frontal central beta.  Drowsiness is characterized by hypnagogic hyper secretory with an increase in amplitude of the background and an increase in theta.
+
+Hyperventilation produces an increase in amplitude and slowing.  Photic stimulation elicited bilateral driving.
+
+Deeper stages of sleep were not achieved.
+
+Heart rate 84 bpm.
+
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+
+CLINICAL CORRELATION:  No focal or epileptiform activity was noted in this record.  If epilepsy is an important consideration for this adult, a repeat tracing capturing deeper stages of sleep is suggested.
+

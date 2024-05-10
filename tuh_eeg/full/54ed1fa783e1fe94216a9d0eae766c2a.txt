@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 38 year old right handed woman with refractory epilepsy, last seizure 2
+weeks ago, with 3-4 seizures a month.
+
+MEDICATIONS: Topamax, Tegretol.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are
+performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonably well organized with a 9.5 Hz microvolt posterior dominant rhythm and a small amount of low voltage. frontocentral beta. Hyperventilation produces a small amount of rhythmic theta and delta from the left temporal region. In addition, suspicious T1 sharp waves emerge following hyperventilation as the patient becomes drowsy. Later on In the record, there is some beta   frequency artifact picked up In the frontal regions. There is also recurrent, sharply contoured periodic delta picked up at F8. This emerges gradually at 9:04. It does not exactly evolve but it does end abruptly at 9:04:52. Photic stimulation does not activate the record.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Sharply contoured periodic delta in the right anterior temporal region of approximately 52 seconds duration.
+2. Occasional left temporal rhythmic slowing.
+
+CLINICAL CORRELATION: These findings support a localization-related mechanism for epilepsy. These findings may be correlated with imaging for this individual with what appears to be temporal lobe epilepsy. The left temporal rhythmic slowing has been identified in a previous EEG October 27, 2009.
+
+
+

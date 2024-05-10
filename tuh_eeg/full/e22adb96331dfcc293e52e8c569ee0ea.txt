@@ -1,0 +1,32 @@
+:
+History:	70 YR FEMALE WITH PMHX OF CVA LEFT 10 YRS AGO. PT STATES SHE HAS
+AUDIBLE SZS  SHE HEARS NOISES HAPPENING ALMOST EVERY DAY.  SHE
+STATES SHE CAN STILL COMMUNICATE DURING THESE EVENTS.
+Medications:	Topiramate, Divalproex, Xanax
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left anterior and midtemporal region during
+wakefulness, increasing during drowsiness.  At times it became monomorphic consistent with
+TIRDA.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left anterior and midtemporal region.  Stepped photic stimulation from 1-21 flashes
+per second (fps) does not produce any effect.
+Summary of Findings:
+Focal slowing, polymorphic, frequent, left frontotemporal
+TIRDA (temporal intermittent rhythmic delta activity), intermittent
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left anterior and midtemporal region.  This finding is indicative of focal cerebral dysfunction, which
+is etiologically non-specific.  The left TIRDA has an high correlation with epileptiform activity
+arising from that region.  No seizures were seen.
+
+
+
+

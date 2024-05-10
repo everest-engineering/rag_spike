@@ -1,0 +1,23 @@
+History:	65 with events concerning for seizures.
+Medications:	Gabapentin, Heparin, Protonix, Asa, Nifedipine, Lisinopril, Metoprolol, Advair,
+Heparin, Levothyroxine, Atorvastatin, Calcium
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+During maximal arousal the PDR reaches 9 Hz alpha activity.  Throughout the majority of the
+recording PDR is 7 Hz.  The AP gradient is weak.  During drowsiness, the amount of theta activity
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 24-minute EEG because of mild diffuse slowing that is
+indicative of mild diffuse cerebral dysfunction.  No epileptiform discharges are present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.
+
+

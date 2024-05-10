@@ -1,0 +1,37 @@
+History:	58 YR MALE S/P GAMMA KNIFE FOR CEREBRAL METS.  PT HAD SZ WHEN
+THEY FOUND METS BRAIN.  NOW WITH ANOTHER SZ 3 WKS AGO.  PMHX:
+MALIGNANT NEOPLASM OF COLON, LUNG CA SURGERY, LIVER SURGERY.  PT
+GETS CHEMO.  JUST HAD CHEMO TODAY
+Medications:
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.   Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-30 uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  There is continuous and excessive 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontal regions.  During brief drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Noxious stimulation induces a facial
+Summary of Findings:
+Beta, excessive, bilateral diffuse
+Interpretation:
+This is a mildly ABNORMAL 24 hour video-EEG due to diffuse low voltage beta activity. No
+epileptiform discharges were present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.  No clinical or electrographic
+seizures are present.  Diffuse beta activity may be a medication effect seen with benzodiazepines
+or barbiturates.  These findings were conveyed to the primary team.
+
+
+
+
+

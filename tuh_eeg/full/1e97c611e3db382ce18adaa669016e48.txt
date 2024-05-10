@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  35 year old right handed with a family history of epilepsy.  The patient may have had seizures before with loss of attention.  He had either a tonic-clonic seizure which caused head trauma or a right-sided subdural hematoma and subsequent tonic-clonic seizure.  Past history of alcohol abuse.
+MEDICATIONS:  Keppra, Percocet
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 9-Hz alpha rhythm.  This is sometimes disrupted in the right hemisphere.  In addition, the right hemisphere demonstrates focal slowing with attenuation of faster frequency activity and the presence of 2 to 3-Hz delta.  The delta may be maximum at C4, or even right frontotemporal.  Features of drowsiness include background slowing.  The asymmetry with more attenuation of faster frequency activity on the right is noted early in drowsiness.  Brief vertex waves are noted with limited stage I sleep.  Scant bilateral driving response was observed.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the right hemisphere characterized by the presence of focal delta and theta.
+Intermittent disruption of the alpha rhythm on the right.
+CLINICAL CORRELATION:  No epileptiform features were observed.  The disruption of faster frequency activity on the right is a relatively characteristic finding for a patient with a subdural hematoma.  No epileptiform features were noted.  Given the concerns that this patient may have an underlying seizure disorder, a follow-up EEG should be obtained after the subdural hematoma resolves.
+
+
+

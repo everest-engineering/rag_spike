@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 58-year-old male with epilepsy, last seizure 3 weeks ago, no other history available.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  Impedances were at or under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a somewhat slow pattern which is reasonably well organized with a 7 hertz alpha rhythm.  There is an asymmetry noted between the 2 hemispheres with disruption of faster frequency activity on the right compared to the left.  There is also intermittent focal 1-2 hertz delta noted in the centrotemporal region.  Hyperventilation was attempted by not successful.  Drowsiness was characterized by slow rolling eye movements with an accentuation of the focal slowing in the right hemisphere and drop out of the alpha rhythm, sometimes a little earlier on the right compared to the left.  Other features of drowsiness included an increase in beta and a transition of the focal deltas to the right posterior quadrant.
+Photic Stimulation:  Scant driving was noted on the left, but driving was disrupted on the right.
+Heart Rate:  72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Focal slowing in the right hemisphere, centrotemporal and wakefulness, posterior temporal in sleep.
+Disruption of the alpha rhythm in drowsiness or earlier dropout of the alpha rhythm in drowsiness on the right.
+A focal hyperventilation response.
+CLINICAL CORRELATION:  This EEG supports the structural process on the right affecting gray and white matter.  No epileptiform features were identified.  These findings maybe correlated with imaging. To more completely characterize this patient's epilepsy, a followup study maybe of value.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 69-year-old gentleman who had a fall with loss of consciousness 2 years ago.  The patient reports multiple episodes with dizziness followed by syncope and is now experiencing forgetfulness and short term memory loss.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The technologist noted problematic impedance which she could not resolve.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is appropriately organized with a 9 Hz alpha rhythm.  The patient transitions rapidly from wakefulness into stage I and even brief epochs of stage II sleep.  He was falling asleep during hyperventilation.  Sleep was not particularly sustained and intermittent, spontaneous arousals were observed.
+Photic stimulation did not activate the record significantly.  Hyperventilation did not activate the record significantly.
+Heart rate 78 bpm.
+IMPRESSION:  This is a normal EEG in wakefulness through stage II sleep for an adult of this age.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The sleep pattern described above is a nonspecific pattern.  An individual with an underlying sleep disturbance may demonstrate micro sleeps.  In addition, an individual who is trying to
+get to sleep but is intermittently disrupted may also demonstrate the same pattern.  These findings may contribute to the memory complaint.
+
+
+

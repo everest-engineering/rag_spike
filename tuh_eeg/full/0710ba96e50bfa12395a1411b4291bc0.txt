@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is an 80-year-old woman who is admitted with shortness of breath in the setting of hypertensive emergency.  She was subsequently found to have heart failure and acute kidney injury.  Her mental status currently remains poor.
+MEDICATIONS:  Carvedilol, isosorbide, vancomycin, famotidine.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.   Hyperventilation and photic stimulation were not performed.  The recording was performed at the patient's bedside.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of a mixture of low to moderate amplitude with polymorphic delta, greater than theta activity with occasional periods of discontinuity and intermittent triphasic wave forms.  No normal sleep architecture is present.  With stimulation frequency of theta activity increases.  Hyperventilation and photic stimulation were not performed.  Occasional premature QRS complexes are captured in a single EKG lead.
+IMPRESSION:
+Moderate to severe diffuse slowing.
+Triphasic wave forms.
+No electrographic seizures.
+This is an abnormal 21 minute EEG due to moderate to severe diffuse slowing and triphasic wave forms.  These findings indicate an etiologically nonspecific moderate to severe diffuse cerebral dysfunction, possibly toxic metabolic in etiology.  Triphasic wave forms can be seen in various encephalopathies.  No electrographic seizures are captured.
+
+
+

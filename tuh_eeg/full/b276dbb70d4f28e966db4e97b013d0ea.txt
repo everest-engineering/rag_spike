@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   83 year old woman with dementia, aortic aneurysm and a syncopal spell, evaluate for syncope.
+MEDICATIONS:  Ceftriaxone.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is described by the technologist as distressed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm which ranges from 7.8-8.3 Hz.  Frequent eye blink artifact is noted.  There is a small degree of disorganization and a small amount of theta for age.
+HR:    96 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Slowing of the alpha rhythm.
+Mild background slowing.
+Mild disorganization.
+CLINICAL CORRELATION:  These features are nonspecific and can seen in the context of dementia, postictal state or other mild, diffuse disturbance.
+
+
+

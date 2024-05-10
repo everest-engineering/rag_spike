@@ -1,0 +1,29 @@
+History:	61 year old woman with a history of seizures, who presents with several typical
+Medications:	Topamax, Keppra, Ativan, Advair, Pravachol
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left hemisphere.
+The background over the right hemisphere consists of 9-10 Hz alpha activity with preserved AP
+gradient.  The normal anterior to posterior gradient of frequencies is not seen over the left.  The
+posterior dominant rhythm over the left is fragmented and reaches maximally 9 Hz.  The
+background over the left consists of a mixture of polymorphic continuous theta and delta activity,
+that is more pronounced over the frontotemporal region.  Occasionally, rhythmic delta activity is
+noted over the left.  Diffuse excess beta activity is noted.  During drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.  During
+stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric, most pronounced frontotemporally
+Focal slowing, rhythmic, occasional, left hemispheric
+No epileptiform discharges
+Beta, excessive
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG due to continuous moderate left
+hemispheric slowing that is most pronounced over the left frontotemporal region. This finding is
+indicative of a focal cerebral dysfunction, either structural or post-ictal in etiology.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+

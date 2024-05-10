@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 47 year old right handed male with posttraumatic epilepsy; last seizure was a year ago.
+MEDICATIONS: Carbamazepine, Patanol, Fluocinonide
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9-Hz posterior dominant rhythm. There are bursts of frontal slowing which are bilateral but clearly delineate a breach rhythm from the left frontal region with higher amplitude sharply contoured activity and a sharp wave which can be seen at FT1 or F7 and occasionally at T1. The sharp waves are in contrast to what is otherwise a medium amplitude EEG. Hyperventilation is performed early on in the record and accentuates focal slowing from the left midtemporal region, which is irregular in nature. A very prominent T1 sharp wave compatible with a breach rhythm is observed. Hyperventilation also seems to accentuate bursts of high amplitude slowing from the left midtemporal region. Features of drowsiness include an accentuation of the high amplitude slowing as well as generalized background slowing. Photic stimulation does not activate the record.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing which is irregular in nature from the left temporal region.
+2. Bursts of bilateral slowing.
+3. Left anterior temporal sharp waves as well as left frontal sharp waves.
+CLINICAL CORRELATION: Similar frontotemporal focal slowing and sharp waves were noted in the previous study. This EEG demonstrates a relatively broad area of focal slowing and epileptogenesis. Correlation with imaging may be of interest.
+
+
+

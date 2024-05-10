@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   61 year old gentleman admitted yesterday with a blood sugar in the 30s.  Persistent confusion.  History of sarcoidosis, sleep apnea, COPD.  Diverticulosis does not involve the EEG.
+MEDICATIONS:  Heparin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1  EKG..  The patient is intubated.
+DESCRIPTION OF THE RECORD:  The background EEG includes mixed frequency pattern.  At times, it is rich in theta, particularly on the frontal regions.  Other sections are richer in delta.  Stimulation of the patient or spontaneous arousal produces alpha and theta activities.  There are occasional bursts of slowing.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized slowing.
+CLINICAL CORRELATION:  There were no epileptiform discharges.  The background slowing is a nonspecific pattern and can be seen in a toxic or metabolic encephalopathy.
+
+
+

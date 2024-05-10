@@ -1,0 +1,32 @@
+History:	59 YR MALE WITH CC OF DIZZINESS, CP, SOB, SLIGHT CONFUSION AND
+TRANS GLOBAL AMNESIA,  PMHX: CVA 07, (RIGHT WEAKNESS EXPRESSIVE
+APHASIA, DM, HTN, DEGENERATIVE JOINT DS, HEP C.  PER DR. J ONE HR
+Medications:	FLEXERIL, TRAMADOL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles (at times
+lower amplitude on the right) and K complexes appear.
+Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Hr was 66
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep 1 HR EEG because of intermittent focal slowing in
+the left midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.  Excessive beta activity could be secondary to the medication effect,
+such as benzodiazepines or barbiturates.
+
+
+
+
+
+

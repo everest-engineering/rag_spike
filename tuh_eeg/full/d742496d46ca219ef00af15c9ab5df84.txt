@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  80-year-old woman with bilateral carotid stenosis, recent left MCA infarct but subacute right infarct as well for left carotid endarterectomy.
+MEDICATIONS:  Isoflurane, Phenylephrine, fentanyl, propofol, Vecuronium and nitroglycerin.
+INTRODUCTION:  Continuous EEG monitoring was performed in the OR using standard CEA montage.  This was a two-hour EEG with 30 minutes intraoperative physician attendance.
+DESCRIPTION OF RECORDING:  Before tracing began, the patient received sedative medications.  The background is rich in beta with smaller amounts of theta.  There is an asymmetry between the two hemispheres with intermittent slowing in the left hemisphere relevant to the right.  As the levels of anesthesia fluctuate, there is a bit more arrhythmic delta activity noted in the posterior regions bilaterally, but at times a bit more prominent on the left in comparison to the right.
+The waxing and waning pattern with  variability in the degree of focal slowing was reported to the surgical team prior to the placement of the clamp.  The first clamp was placed at 2:22:59 p.m. with an external and then an internal carotid clamp.  This produced changes in the left hemisphere, particularly in the posterior temporal regions.  These findings were reported to the surgeon, who prepared to place a shunt.  The second clamp was placed at 2:32:05 p.m.  The shunt was opened at 2:35:52 p.m.  The EEG demonstrated some waxing and waning, but quickly returned to the pre-shunt/pre-clamp baseline.  The third clamp was placed at 3:11:15 p.m. and the shunt was removed at 3:12:24 p.m.  No additional focal features were noted.  A change in anesthesia at 3:20 produced an intermittent discontinuous pattern.  Doppler was performed at 3:26, confirming patency, and the study concluded at 3:35 p.m.
+HEART RATE:  70 bpm
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this carotid endarterectomy was remarkable for transient focal features with placement of clamp, which resolved with shunt.
+
+
+

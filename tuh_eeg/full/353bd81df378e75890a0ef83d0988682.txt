@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  57 year old woman with pontine hemorrhage status post ventriculostomy.  History of breast cyst and renal failure.
+MEDICATIONS:  Gentamicin, Hydralazine, Ancef, Insulin, Clonidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous pattern rich in theta.  There are bursts of frontal delta, FIRDA, as well as some shifting frontal delta.  EKG artifact is a bit more prominent on the right.  There is an asymmetry with more disruption of faster frequency activity in the right hemisphere including frontal region, as well as a bit more right frontal delta.  There is variability in the record and the later seconds of the record are richer in faster alpha and theta frequency activity.
+HR:    126 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a mixture of theta and frontal delta.
+An asymmetry with more prominent delta from the right as well as more arrhythmic delta activity and disruption of faster frequency activity on the right.
+CLINICAL CORRELATION:  This EEG supports both a diffuse disturbance of cerebral function as may be seen in the context of an intracerebral hemorrhage.  In addition, the possibility of a structural functional process on the right affecting both gray and white matter should be considered.  No mention was made as to the location of the ventriculostomy, whether it is on the right or left, as a breach rhythm is a possibility.
+
+
+

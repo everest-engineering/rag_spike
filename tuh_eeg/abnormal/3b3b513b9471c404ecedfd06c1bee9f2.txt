@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  43 year old woman with HIV disease, hepatitis C, epilepsy, stroke.  The patient was observed to have jerking movements while awake associated with drooling.
+MEDICATIONS:  Keppra, Labetalol, Insulin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and asleep record performed in the lab. Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm of 9 Hz and an overall background with theta.  The waking background is intermittently disrupted by theta.  Features of drowsiness include transition to a pattern more of theta and delta.  FIRDA is noted in wakefulness. Much of the record includes a pattern with a slower alpha of approximately 5.3 Hz.  Rare vertex waves are observed.  Photic stimulation does not activate the record.
+HR:    102 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess 5 Hz theta in the maximal wakefulness.
+Intermittent rhythmic slowing in wakefulness.
+FIRDA.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The background data and FIRDA are nonspecific findings and can be seen in a diffuse disturbance of cerebral function due to many causes including a metabolic encephalopathy or retroviral infection.
+
+
+

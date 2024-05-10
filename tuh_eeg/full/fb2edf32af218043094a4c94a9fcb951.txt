@@ -1,0 +1,21 @@
+History:	56 year old who presents with new onset seizures and change in mental status.
+Medications:	KEPPRA, 2MG ATIVAN IV PUSH
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 08/14/2014 to 08/15/2014.   Nursing-initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description: There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The background over the left hemisphere consist of low-to-moderate amplitude well formed and regulated 10 Hz PDR with preserved AP gradient.  The background over the right hemisphere is attenuated, especially over the lateral leads; PDR is unstable and fragmented at 9-10 Hz with poor AP gradient.  Additional polymorphic delta activity is present over the right temporal and right occipital  regions.  During sleep symmetrical vertex waves and sleep spindles are noted. Continuous polymorphic delta activity is present in the right hemisphere maximal midtemporal region during wakefulness, increasing during drowsiness.  No seizures or  epileptiform discharges
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+Focal slowing, polymorphic
+Attenuation
+Alpha rhythm, absent, right hemispheric
+Interpretation: This is a very abnormal awake and asleep 24 hours EEG due to right hemisphere focal slow, absent PDR and attenuation.  This finding is indicative of  focal cerebral dysfunction in this region, likely structural in origin and involving gray and white matter.
+
+
+
+
+

@@ -1,0 +1,31 @@
+History:	29 year old woman who became progressively less responsive today during
+hemodialysis.
+Medications:	sedation used for intubation and propofol that is now stopped
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours from 11/9/2015 to 11/10/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  With stimulation, the background consists of  moderate amplitude
+slow delta activity.  During periods of quiescence, faster frequencies appear.  No normal sleep
+architecture is captured.
+No electrographic seizures are captured.
+A single EKG lead demonstrates heart rate of ~120-130 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL nearly 15 hour continuous video  EEG due to moderate-to-severe diffuse
+slowing. This finding is indicative of moderate to severe diffuse cerebral dysfunction, which is
+etiologically nonspecific.  A single EKG lead demonstrates heart rate of ~120-130 bpm.
+
+
+
+

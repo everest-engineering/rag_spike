@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 69-year-old woman with childhood seizures.  Seizures recurred in 2009.  Headaches recorded in 2009 and stroke in the interim.  Now with short term memory impairment.
+MEDICATIONS:  Tegretol, clonidine, Naprosyn, nitroglycerin, aspirin, and others.
+INTRODUCTION:  Digital EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This was an awake record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an overall relatively low voltage background.  A 10.5 Hz alpha rhythm was identified bilaterally.  There is rhythmic theta noted from either hemisphere somewhat asynchronously, and a bit more rhythmic delta from the right hemisphere compared to the left.  Prominent beta is noted as the patient becomes drowsy.  Vertex waves and brief spindles are noted in stage II sleep, followed immediately by an arousal.
+Photic stimulation was performed as the patient is drifting in and out of sleep and produces a driving response.
+IMPRESSION:  The rhythmic slowing noted primarily from the right hemisphere may be correlated with imaging.  No epileptiform features were identified in this EEG or in the previous EEG in 2009.  If this patient continues to have frequent seizures, additional EEG recording may be helpful to characterize the epilepsy syndrome.
+
+
+

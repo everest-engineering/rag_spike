@@ -1,0 +1,45 @@
+AGE: 20 y.o.
+SEX: male
+DATE OF STUDY: 12/17/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1829
+HISTORY:
+20 y.o. male with a history of sleep deprivation seizures referred for routine EEG for characterization of seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+ibuprofen (ADVIL) 200 mg tablet, Take 200 mg by mouth every 6
+.hours as needed for Pain.
+meloxicam (MOBIC) 7.5 mg tablet, Take 1 tablet by mouth daily. No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive,but somewhat disorganized and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal
+anterior-to-posterior gradient.	Wakefulness is characterized by
+·a symmetric and reactive 7-8.5 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.	There is excess theta in wakefulness
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured, although the study was extended slightly
+Mild generalized slowing is present in wakefulness.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation·: Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces scant symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 104 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a mildly abnormal	routine EEG.
+Mild disorganization
+Mild background slowing
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+The features described above are non-specific and can be seen in toxic or metabolic encephalopathy or post ictal state.
+This routine EEG does not support or refute the diagnosis of epilepsy. A follow up study, when the patient is more rested, may be considered
+
+
+

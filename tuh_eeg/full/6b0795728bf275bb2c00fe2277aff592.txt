@@ -1,0 +1,22 @@
+History:	58 year old man who presents with change in mental status and concern for seizures. Medications:	No AEDs
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ....15 hours from 03/11/2015 till 03/12/2015.   Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  With maximal stimulation, the background over the left consists of moderate amplitude theta activity admixed with low amplitude delta activity.  The background over the right is attenuated and consists of 6-7 Hz theta posteriorly and a mixture of attenuated theta and delta activity.  Symmetric sleep spindles are present.
+Two seizures are captured. They occur at - 2 am and 3:25 am and last - 150 seconds.  Both seizures are clinical: patient exhibits lip smacking, gaze deviation to the right, left arm shaking, tachycardia and generalization. Seizures are right occipital in onset: they start with low amplitude 2 Hz rhythmic 02 spikes that gradually increase in amplitude, frequency into rhythmic delta activity that becomes generalized. Following seizures, right midtemporal (maximal at T4 lead) sharp waves with aftergoing slow waves appear.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, moderate, right hemispheric Seizure, two, right occipital, with secondary generalization
+Sharp waves, intermittent, right temporal, mid, appear ONLY after seizures occur
+Interpretation:
+This is an ABNORMAL  15-hour continuous video EEG due to (1) moderate diffuse slowing: (2) continuous focal right hemispheric focal slowing and attenuation; (3) 2 focal right occipital seizures with secondary generalization and (4) right midtemporal epileptiform discharges that appear after seizures occur.  Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing indicative of a focal structural lesion over the right, but in this patient it could be a post-ictal phenomenon.  There is an epileptogenic structural abnormality over the
+right occipital region.
+
+
+
+

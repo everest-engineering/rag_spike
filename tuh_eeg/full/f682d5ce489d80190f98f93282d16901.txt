@@ -1,0 +1,17 @@
+CLINICAL HISTORY:
+41-year-old male with a history of seizures. Has been seizure free for of many years now.
+MEDICATIONS:
+None.
+INTRODUCTION:
+Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement and one-channel EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:
+This is an awake and drowsy record. In wakefulness, there is a 9-10Hz alpha bilaterally. Drowsiness is characterized by slow rolling eye movements and slowing of the record . Hyperventilation causes an increase in amplitude, some shifting slowing and hypersynchronous theta activity. Photic stimulation brought about some driving. At the end of the record, there was a burst of irregular delta that lasted for 7 seconds followed by 5 Hz theta, which also contained two sharp waves originating from the left temporal T3.
+IMPRESSION:
+Abnormal EEG due to
+1. Left temporal sharp waves at T 3.
+2. Burst of irregular delta followed by theta.
+CLINICAL CORRELATION:
+Above findings are not uncommon in complex partial epilepsy.
+
+
+

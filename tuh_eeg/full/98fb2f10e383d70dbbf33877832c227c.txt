@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Seizure.
+CLINICAL HISTORY:  A 47-year-old man with a history of witnessed seizures and a fall, found to have bilateral temporal fractures and intracerebral hemorrhages, with a past medical history of pancreatitis and IV drug use.
+MEDICATIONS:  Keppra, Percocet, lorazepam, and nicotine patch.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during lethargy.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  The background consists of diffuse delta frequency slowing with intermixed or superimposed beta also seen diffusely throughout the recording.  There was no normal sleep architecture.  Photic stimulation produced no abnormal discharges.  During stimulation of the patient, there appears to be increased muscle artifact, but no improvement of background frequencies.
+ABNORMAL DISCHARGES:
+Focal slowing seen continuously in the left central region, maximal at C3, and at times at C4, and at times some seen in the bilateral temporal region independently.  These occur at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts intermittently.
+In addition, there are rhythmic bursts of frontal intermittent rhythmic delta activity (FIRDA).
+HEART RATE:  96.
+IMPRESSION:  Abnormal EEG due to bilateral independent focal slowing seen in the central and temporal regions in addition to some FIRDA and generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral frontal, central, and temporal region, in addition to generalized dysfunction, all of which are nonspecific with regards to etiology, but are likely related to the known trauma.  No clear seizures or epileptiform discharges were seen.  Please note that sometimes in the left central region some of the focal slowing appeared to be sharply contoured but not clearly epileptiform.
+
+
+

@@ -1,0 +1,31 @@
+History:	63 YR MALE WITH SZS., COLON CA, DM, HTN, CABG.   WITH CC OF SZS PT
+WITH POST ICTAL CONFUSION.
+Medications:	OXCARBAZEPINE, ATIVAN, DEPAKOTE
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, lethargic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Intermittent polymorphic theta activity is present independently in the bilateral mid-temporal
+regions during wakefulness, increasing during drowsiness.  Occasional focal sharp waves are present
+with phase reversal and amplitude maximum at F7.  No clinical or electrographic seizures were
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR - 96
+Summary of Findings:
+Sharp waves, occasional, left frontotemporal
+Focal slowing, polymorphic, continuous, severe, bilateral temporal, mid
+Diffuse slowing, polymorphic, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  occasional epileptiform discharges in the left
+frontotemporal region.  These findings are indicative of a potentially epileptogenic focus in this
+region, and given the clinical history of partial seizures,  are consistent with a diagnosis of
+localization-related epilepsy. In addition, there is  continuous focal slowing seen independently in
+the bilateral mid-temporal regions.  This finding is indicative of a focal structural lesion in these
+regions. Lastly, there is  diffuse background slowing and absent alpha rhythm.  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+

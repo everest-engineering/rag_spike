@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 52 year old right handed woman with hypertension, headaches and difficulty waking up. The patient had an episode when her husband tried to wake her up from sleep where she was staring for 2-3 minutes.
+MEDICATIONS: Toradol, Insulin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 hertz alpha rhythm with a small amount of low voltage, frontocentral beta activity. Features of drowsiness include anterior spread of the alpha rhythm with slow rolling eye movements. Deeper stages of sleep are not sustained. Hyperventilation produces some rhythmic slowing and an increase in amplitude of the background. Photic stimulation does not elicit a driving response.
+HR: 90 bpm
+IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: There were no focal nor epileptiform features identified. A normal EEG does not exclude a diagnosis of epilepsy. If seizures are an important consideration, a follow-up study is suggested
+
+
+

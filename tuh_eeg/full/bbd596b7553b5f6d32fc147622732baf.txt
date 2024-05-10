@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 59 year old woman with sepsis, renal failure, bacteremia and white cells in the CSF.
+MEDICATIONS: Hydrocortisone, Acyclovir, Amiodarone, Anesep (?), Metoprolol, Ceftriaxone, Insulin, Nexium, Tylenol, Prednisone.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and relatively unresponsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates primarily a 5 Hz theta frequency background with some shifting arrhythmic delta activity. Stimulation of the patient does not produce much of a behavioral change, but there are frontally predominant triphasic waves which occur in bursts. Auditory and tactile stimulation both produce this phenomenon.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing.
+2. Stimulation induced bursts of triphasic waves.
+CLINICAL CORRELATION: These findings are more compatible with a metabolic encephalopathy than a herpes encephalitis. In particular, the response to tactile stimulation would suggest that these are metabolic in nature rather than typical features of herpes encephalitis. These findings were communicated to the clinical team on the 19th.
+
+
+

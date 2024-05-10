@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 42 year old right handed woman with epilepsy. Seizures occur every 2 weeks characterized by loss of awareness lasting 2-5 minutes. One to 3 seizures per month. Diabetes and hyperlipidemia.
+MEDICATIONS: Keppra.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. This is a catamenial EEG.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz posterior dominant rhythm. There is a small amount of .background theta. Hyperventilation is performed early on in the record. This accentuates focal slowing from the left temporal region. In addition, it also accentuates left anterior temporal spike and slow wave and sharp and slow wave complexes, maximum at T1 or F7. Following hyperventilation the patient becomes drowsy with an increase in beta, but there is an asymmetry with a bit more beta in the right hemisphere than in the left. In stage 1 sleep as vertex sharp waves emerge, there are a handful of left intertemporal discrete sharp waves and a single T3 sharp wave. Photic stimulation does elicit a brief driving response and intermediate flash frequency.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing in the left anterior temporal region.
+2. Left anterior temporal sharp wave accentuated by photic stimulation.
+
+CLINICAL CORRELATION: This EEG is similar to a previous study performed April 1, 2011 with left temporal focal slowing and left anterior temporal sharp waves. It is characteristic of a complex partial epilepsy.
+
+
+

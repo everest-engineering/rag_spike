@@ -1,0 +1,30 @@
+History:	21 year old male with childhood TBI and multiple seizure types.  Patient reports
+recent increase in frequency of black out spells.
+Medications:	Vimpat, Onfi
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left hemisphere.
+The background over the right, consists of 9 Hz moderate amplitude alpha activity with preserved
+AP gradient.  The background over the left hemisphere consists of unstable and very fragmented 7-
+7.5 Hz theta activity with no clear AP gradient, underriding monomorphic delta activity, excess beta
+over the anterior quadrant and intermittent left occipital  sharp waves, with maximal scalp
+negativity over the O1 electrode.  Patient appears awake throughout the recording.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left hemisphere.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, continuous hemispheric, mild-to-moderate
+Sharp waves, intermittent, left occipital, maximal over O1
+Breach artifact, left anterior
+Interpretation:
+This is an ABNORMAL awake-only 21-minute EEG due to continuous mild-to-moderate left
+hemispheric slowing and intermittent left occipital epileptiform discharges. These findings indicate
+left hemispheric focal cerebral dysfunction, likely structural in etiology, and a potential
+epileptogenic focus in the left occipital region.  Breach artifact is due to the skull defect.
+
+
+
+

@@ -1,0 +1,11 @@
+DIAGNOSES:  Tubular sclerosis and epilepsy.
+CLINICAL HISTORY:
+MEDICATIONS:  Topamax.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was a routine outpatient 24-minute EEG.  This  was an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is low voltage with a subtle, low voltage 9 Hz alpha rhythm.  The patient is drowsy throughout much of the EEG with diffuse theta and background beta.  Spindle activity was noted as the patient transitioned to deeper stages of sleep.  Photic stimulation elicited a vigorous driving with harmonic and super harmonic driving as well as some artifacts.  There was a single, posteriorly predominant sharp wave noted after the 11 Hz stimuli and then more discreet, bilateral posteriorly predominant sharp waves in addition to the photic driving response noted with the 13 Hz stimulation and more subtly at the 15 Hz.  These can be differentiated from the patient's EKG artifact.
+Heart rate 72 beats per minute.
+IMPRESSION:  This is a subtly abnormal EEG, primarily in wakefulness due to some posteriorly predominant bilateral sharp waves during and around the time of photic stimulation.
+CLINICAL CORRELATION:  A low voltage EEG is not otherwise considered pathological.  This is by in large a drowsy record but with maximal stimulation, the overall background is within normal limits.
+
+
+

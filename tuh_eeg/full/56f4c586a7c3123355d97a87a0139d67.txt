@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient has new onset seizures characterized by loss of consciousness, tongue biting.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with one channel EKG.  Wakefulness and sleep were captured.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is posterior dominant rhythm of 8 Hz frequency bilaterally which is symmetric and reactive to eye opening.  The record is well organized with good anterior posterior gradient.
+As she transitions into drowsiness, there is bilateral anterior temporal slowing more in the left hemisphere than the right and is slightly more than expected for age.
+Sleep was captured which was characterized by vertex waves and K complexes.
+No spikes or sharp waves were noted.
+Heart rate 66 beats per minute.
+IMPRESSION:  This EEG is mildly abnormal for age due to bilateral anterior temporal slowing which is slightly more than expected for age.
+CLINICAL CORRELATION:  These findings of bilateral anterior temporal slowing are nonspecific, may suggest underlying cardiovascular disease.  Clinical correlation is recommended.
+
+
+

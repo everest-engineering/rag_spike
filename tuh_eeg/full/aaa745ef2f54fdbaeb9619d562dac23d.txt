@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 18-year-old, who presented in cardiac arrest after heroin and Xanax overdose. Asystole, time unknown. Now intubated, comatose, without gag or cough.
+MEDICATIONS: Norepinephrine , Levophed.
+INTRODUCTION: A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG. The patient was intubated, comatosed, with body temperature of 98.2.
+DESCRIPTION OF THE RECORD: The EEG pattern is essentially a markedly suppressed pattern. There is some slow theta delta artifact noted. Although this EEG was not performed with standard ECS protocol, this electronic data can be reformatted into ECS montage.  In doing so, there is rare, very low voltage isolated delta or theta waves, which can be differentiated from the background. There is no reactivity and no variability .
+Heart rate: 131 bpm.
+IMPRESSION: This 20-minute routine EEG, recorded on the day of cardiac arrest demonstrates:
+1.  nearly suppressed cerebral pattern without definitive cerebral activity.
+CLINICAL CORRELATION:   These findings should be placed in the appropriate clinical context.   This is a hyperacute EEG.  The clinical examination and associated appropriate diagnostic testing should be utilized in assessment of this patient with severe anoxic insult.
+
+
+
+

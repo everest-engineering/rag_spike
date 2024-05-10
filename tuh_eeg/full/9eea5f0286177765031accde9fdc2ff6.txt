@@ -1,0 +1,19 @@
+History: 57 year old woman with seizures in sleep.
+Medications: Keppra and Zonegran
+Sedation: None
+EEG Type: Routine, awake & drowsy
+Technique: International 10-20 system; standard 21 electrodes with T1/T2 electrodes, awake,
+hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV. 9Hz alpha rhythm. Which attenuates symmetrically
+with eye opening. Excess diffuse admixed 50-75 uV. 5-7Hz activity is present throughout the recording and increases during drowsiness. At times in wakefulness there are short burst of less than 2 seconds of Frontal intermittent delta activity (FIRDA). During drowsiness, the background slows to central theta
+activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes
+Intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from1·21 flashes per second (fps) does not produce any effect. Hr 42
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of mild diffuse background slowing. This finding is indicative of mild to moderate diffuse dysfunction. which is etiologically nonspecific.
+
+
+

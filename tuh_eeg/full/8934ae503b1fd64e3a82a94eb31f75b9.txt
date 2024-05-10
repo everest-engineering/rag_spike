@@ -1,0 +1,15 @@
+
+CLINICAL HISTORY: 37 year old woman with 2 episodes of shaking following dialysis. History of blindness, epilepsy, and diabetes.
+MEDICATIONS: Oxycodone, Insulin, Heparin, Penicillin, ASA
+INTRODUCTION: Digital video EEG was performed lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient appears to be quite drowsy.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG includes excess theta. There is a 7.5 Hz posterior dominant rhythm identified before the patient transitions into stage II sleep. There is occasional shifting slowing with some sharply contoured slowing in the left central region. Photic stimulation does not activate the record.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Slow disorganized pattern.
+2. Slowing of the alpha rhythm.
+3. Sharply contoured slowing at C3.
+
+CLINICAL CORRELATION: These findings may be correlated with imaging. No definitive epileptiform activity was observed; however, the activity seen at C3 was sharply contoured.
+
+
+

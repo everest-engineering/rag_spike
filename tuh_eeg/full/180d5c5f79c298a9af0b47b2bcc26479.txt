@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 61-year-old male who presented to the emergency room with amnestic spell, confusion, erythema, edema,  rash, not feeling well since Jan 25
+MEDICATIONS:  NONE
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the emergency room using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically somewhat challenging EEG with a significant amount of muscle artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is continuous with rhythmic theta frequency activity in a slowed posterior dominant rhythm.
+Heart rate irregular 90 bpm.  Occasional PVCs.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Irregular heart rate with unusual QRS complex by single channel EKG.
+CLINICAL CORRELATION:  The EEG supports a diffuse disturbance of cerebral function affecting gray and white matter.  No epileptiform features were noted.  If seizures are an important consideration, a more prolonged study may be a value.
+
+
+
+
+

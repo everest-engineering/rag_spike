@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 49-year-old woman with bipolar disease, noncompliant, medications and ingestion unknown, with change in mental status.
+INTRODUCTION:  One-hour digital video EEG was performed at bedside in the emergency room using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was relatively somnolent.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous pattern with mixed rhythmic theta delta.  Superimposed upon this are frontally predominant triphasic waves, muscle twitching and a handful of isolated frontal sharp waves.  Stimulation of the patient produces an arousal and an attenuation of the frontally predominant triphasic waves.  Although, there is no note regarding medical intervention for this patient, as the recording continues, the EEG seems to be cleaning up with intermittent sections of the record, with rhythmic data and attenuation of the triphasic waves.
+Heart rate:  90 bpm, occasional PVCs.
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic background slowing.
+Triphasic waves.
+A handful of isolated primarily frontal sharp waves.
+CLINICAL CORRELATION:  This EEG pattern is characteristic of a metabolic encephalopathy.  No seizures were recorded.  Consideration for toxic or metabolic encephalopathy and/or an ingestion is appropriate.  No previous EEGs were available at this time for comparison.
+
+
+
+

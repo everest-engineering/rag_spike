@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is an 18-year-old with headache, evaluate for convulsions.
+MEDICATIONS:  Topamax, Benadryl.
+INTRODUCTION:  Routine 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically acceptable record with the exception of the T1-T2 electrodes, which did not have the appropriate impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by slowing of the alpha rhythm with rhythmic central theta.  Vertex waves, K complexes, spindles, and POSTS were noted in stage 2 sleep.
+Hyperventilation produces a small increase in amplitude of the background.  Photic stimulation is performed while the patient is drifting into stage 2 sleep, but scant driving response was noted.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a followup tracing capturing deeper stages of sleep is suggested.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 69-year-old woman with HPV, diabetes, TIA.  The patient presented with shortness of breath and then change in mental status.  It is an inpatient room number ICU.
+MEDICATIONS:  Seroquel, Ativan, Heparin, others
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is wearing a non-rebreather mask, is extremely uncomfortable, working to breathe and has occasional muscle jerks as well as continuous body movements.  She demonstrates purposeful movements.
+This is a technically challenging, 45 minute, bedside ICU record with standard 10-20 system of electrode placement.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It is diffusely slow with a theta frequency background.  There is a great deal of muscle and movement artifact.  Body jerking was not associated with an EEG signature.
+Heart rate 120 bpm.
+IMPRESSION:  This is a technically challenging, but abnormal EEG due to:
+moderate background slowing.
+CLINICAL CORRELATION:  This patient's involuntary movements do not appear to be seizures.  The background slowing may be correlated with the patient's clinical history and metabolic encephalopathy.
+
+
+

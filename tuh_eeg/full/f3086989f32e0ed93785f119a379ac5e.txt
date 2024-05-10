@@ -1,0 +1,37 @@
+AGE: 69 y.o.
+SEX: male
+DATE OF STUDY: 12/28/2015 RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1858
+HISTORY:
+69 y.o. male with a history of HTN, OM presenting with right sided weakness, found to have a. right MCA acute infarct, now with fluctuations in mental status, anemia, and AKI.
+MEDICATIONS: HCTZ, AMLODIPINE, COREG SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a
+fairly organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 7-8 Hertz posterior dominant rhythm (PDR).
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and further diffuse background slowing are seen.
+Sleep is not captured
+Mild generalized slowing is present.
+There is occasional subtle left temporal and independent occasional subtle right temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+An irregular heart rate in the 60's is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and drowsy	routine EEG due to:
+Mild generalized slowing and suboptimal organization
+Occasional subtle left temporal polymorphic slowing
+Independent occasional subtle right temporal polymorphic slowing
+Irregular heart rate
+CLINICAL CORRELATION:
+These findings indicate the presence of bitemporal cerebral dysfunction superimposed on mild diffuse cerebral dysfunction. An irregular heart rate is captured on a single EKG lead.
+
+
+
+

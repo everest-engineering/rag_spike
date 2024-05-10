@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 52 year old left handed woman with a past history of a motor vehicle accident and epilepsy since at least 1994. Seizures are characterized by oral automatisms and loss of train of thought, inability to talk although she is able to hear, postictal migraine and confusion.
+MEDICATIONS: Tegretol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an asymmetry. The alpha rhythm is 8.7 Hz on the left and a bit slower on the right. In addition, there is some arrhythmic slowing in the right posterotemporal region with rare discrete right posterotemporal sharp waves. Hyperventilation accentuates the focal slowing in the right posterotemporal region. Features of drowsiness include an increase in beta activity. In addition, the focal features in the right posterior quadrant are a bit more prominent as the patient transitions in and out of drowsiness. Photic stimulation elicits a subtle driving response. The driving response is better identified on the left than the right.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal features in the right posterior quadrant which include slowing of the alpha rhythm, disrupted alpha rhythm, and asymmetric driving response.
+2. Subtle right posterotemporal sharp waves.
+CLINICAL CORRELATION: These findings have been seen in the patient's previous EEGs and support a focal mechanism for epilepsy. Correlation with imaging is suggested.
+
+
+

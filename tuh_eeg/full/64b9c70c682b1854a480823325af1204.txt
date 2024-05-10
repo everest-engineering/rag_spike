@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  53 year old man who presented with the acute onset of right arm weakness, subsequently became unresponsive and was observed to have gaze deviation towards the left.  This EEG is being performed to rule out clinical seizures.
+MEDICATIONS:  Ativan, Keppra.
+LENGTH OF STUDY:  Greater than 12 hours.
+INTRODUCTION:  Digital video EEG was performed at bedside using 10-20 system with the addition of T1 and T2 electrodes, eye electrodes as well as EKG electrode.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  There is right-to-left interhemispheric symmetry and continuity.  Voltages are globally low.  The background consists of a mixture of primarily low amplitude polymorphic delta, occasional theta and under riding fast activity that frequently occurs in brief generalized bursts.  There is no significant change in the background with stimulation.  No normal sleep architecture is captured.  No electrographic seizures are observed.  A single EKG lead demonstrates a heart rate of about 120 beats a minute.
+FINDINGS:
+Moderate-to-severe diffuse slowing.
+Excess beta.
+Low voltages.
+No electrographic seizures.
+IMPRESSION/CLINICAL CORRELATION:  This is a very abnormal greater than 12-hour video continuous EEG due to moderate-to-severe generalized slowing.  This finding is a nonspecific indicator of diffuse cerebral dysfunction that in this case could partially be related to the medication effect.  Excess beta could be secondary to medication effect such as benzodiazepines or barbiturates.  No electrographic seizures are captured.  These findings were conveyed to the primary team.
+
+
+

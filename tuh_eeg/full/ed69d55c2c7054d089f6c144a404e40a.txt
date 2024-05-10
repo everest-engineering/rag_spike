@@ -1,0 +1,12 @@
+History:	70YR WOMAN RIGHT SIDED ANGIO WITH STENT AND COILING
+Medications:	Versed, Fentanyl, Decadron, Zofran, Propofol, vecuronium and phenylephrine gtt.
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, obtunded
+Description: Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  As the EEG continues the background becomes diffusely slower in the theta frequencies and intermittently more discontinuous.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm Intermittent polymorphic delta activity is present in the bilateral mditempora region during wakefulness, increasing during drowsiness.  At times the focal slowing is sharply countoured.  No epileptiform discharges are present. Hyperventilation and photic stimulation are not performed.  HR was 60  During this angiogram the balloon was inflated at 10:07AM. No changes were seen in the EEG.  There was a continuous 60Hz artifact through out the entire recording.
+Summary of Findings:
+Focal slowing, polymorphic
+Interpretation: This is an uneventful EEG during a cerebral angiogram. In addition at baseline there was intermittent focal slowing in the bitemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+

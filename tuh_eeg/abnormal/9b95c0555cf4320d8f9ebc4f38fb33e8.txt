@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 42 year old right handed gentleman with a 5 year history of nocturnal tonic-clonic seizures with incontinence. Last seizures was on Saturday.
+MEDICATIONS: Depakote, Tegretol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz symmetric and reactive alpha rhythm with a generous amount of low voltage frontocentral beta activity. Features of drowsiness include a prominent increase in beta. Occasional temporal wicket is noted in the transition to drowsiness as is electrocardiogram artifact particularly on the right. Deeper stages of sleep are not sustained although there are occasional vertex waves. Hyperventilation produces a small increase in amplitude of the background and a small amount of slowing. Photic stimulation elicits a driving response.
+HR: 66bpm
+IMPRESSION: EEG within normal limits in wakefulness through stage 1 sleep.
+CLINICAL CORRELATION: No epileptiform features were observed in this EEG. There were no frontal sharp waves identified in this 28 minute EEG. If further characterization of this patient's epilepsy is needed, a followup study with more extensive sleep is suggested particularly as a right frontal sharp wave was noted on a single previous EEG.
+
+
+

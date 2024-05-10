@@ -1,0 +1,35 @@
+History:	56 year old man with a history of a generalized convulsion ~ 25 years ago.  Patient
+also reports auras, characterized by a sensation of an abnormal smell.  These auras
+have recently increased in frequency.
+Medications:	Lamictal
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by low amplitude 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Fast alpha variant is captured.  Symmetric 5-15uV, 18-25Hz
+activity is present, maximal over bilateral frontal regions.  Excess diffuse beta activity is present.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles.
+Intermittent polymorphic theta and delta activity is present in the left anterior temporal region
+during wakefulness, increases during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left temporal region.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any clear effect.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, anterior, Mild-to-moderate
+Sleep, stage 2
+No epileptiform discharges
+Alpha variant, fast
+Beta, excessive
+Interpretation:
+This is a ABNORMAL awake and asleep 24 minutes EEG due to intermittent mild-to-moderate
+focal left anterior temporal focal slowing. This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific, but possibly structural in origin.  The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+

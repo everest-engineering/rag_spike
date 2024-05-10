@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 69 year old female with dementia with mental status changes.
+MEDICATIONS: Insulin, Lovenox, Plavix, Metoprolol, ASA, Rifaximin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow and disorganized pattern. The overall pattern is a mixture of delta and theta frequency activity. Stimulation of the patient produces an increase in muscle artifact.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Slow and disorganized background.
+CLINICAL CORRELATION: These findings are nonspecific and can be seen in a diffuse disturbance of cerebral function. The prominent rhythmicity of the background particularly at the end when the theta frequency activity increases more toward a 6 Hz pattern which is compatible with a chronic dementing illness, but, again, the findings are nonspecific.
+
+
+

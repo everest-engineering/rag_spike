@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 21-year-old woman with nocturnal epilepsy since age 14 with tongue biting. Migraine headaches.  Most recent seizure 4 months ago.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a greater than 20 minute routine EEG with hyperventilation and photic stimulation.  Impedances were under 5 kilohms with the exception of the T1-T2 electrodes.  There was significant muscle artifact noted in the background.  The EEG captured wakefulness and sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with frequent eye flutter.  Mu activity was noted in the central regions, although testing was not performed to confirm this.  There is a small amount of theta noted in the background in addition to the eye flutter.
+Hyperventilation was performed early in the record.  It did increase some of the theta noted bilaterally.  In addition, a single left temporal sharp wave was noted during hyperventilation.  Temporal wicket was noted as the patient became drowsy, but at least with 1 discharge, there was a suspicious, subtle underlying left temporal sharp wave observed.  The patient transitions in and out of stage 2 sleep.  Sleep was not sustained.
+Photic stimulation elicited bilateral driving. As the patient was awakened for photic stimulation at the end of the record, there is a bit of left mid to posterior temporal theta with a suggestion of an underlying mid to posterior temporal sharp wave.
+Heart rate 66 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Excess background theta while awake.
+A single well-defined left temporal sharp wave with 2 other suspicious left temporal sharp waves as well, one of which was posterior-temporal.
+CLINICAL CORRELATION:  This patient's medications may play a role in the background theta.  Although there were very few epileptiform discharges, there was a single well-defined left anterior temporal sharp wave supporting a focal mechanism for epilepsy in this individual.
+
+
+

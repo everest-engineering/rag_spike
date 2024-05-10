@@ -1,0 +1,29 @@
+History:	63 year old with a history of HIV and ESRD on HD, now presents with worsening
+confusion.
+Medications:	HAART, metoprolol, Insulin, atorvastatin, ASA, Plavix, Heparin, Raltegravir
+Sedation:	None
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Voltages are diffusely very low and background is continuous.  During arousals, 6-7 Hz unstable low
+amplitude PDR is noted with weak AP gradient.  Additional polymorphic theta activity and some
+delta activity are noted.  Sleep is characterized by diffuse attenuated delta activity and several K-
+complexes.  Additionally, fragments of slow wave sleep are captured.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation were not performed.  Occasional premature QRS
+complexes are captured on a single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute EEG due to mild diffuse slowing. This finding
+is etiologically nonspecific indicator of mild diffuse cerebral dysfunction that in this patient could
+be related to excessive drowsiness (given the fact that deeper stages of sleep were captured).
+Occasional premature QRS complexes are captured on a single EKG lead.
+
+
+
+
+
+

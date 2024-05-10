@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 48 year old right handed woman with epilepsy following stroke in 2004, last seizure 1 week ago with left arm jerking followed by confusion.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed early on in the recording producing an increase in beta.  Features of drowsiness include anterior spread of the alpha rhythm and the appearance of POSTs.  Vertex waves are observed in stage 1 sleep with a handful of spindles in stage 2 sleep.  Photic stimulation is performed as the patient is drifting in and out of sleep.  Minimal driving is noted.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No epileptiform features are observed.  A EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow-up study may be of use.
+
+
+

@@ -1,0 +1,13 @@
+MEDICATIONS:  Xanax, Elavil, and Trileptal.
+HISTORY:  A 51-year-old woman with grand mal seizure in December 2012, persistent shortness of breath, and uncontrolled seizures.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were under 5 kilohms with the exception of the T1-T2 electrodes.  Photic stimulation was completed.  Hyperventilation was deferred at the patient's request because of her respiratory function.
+DESCRIPTION OF THE RECORD:  In maximum wakefulness, the background EEG is well organized with 9.5 hertz alpha rhythm and a small amount of low voltage, frontal-central beta.  There is a fair amount of muscle artifact and the patient seems to be quite tense.  Generous beta activity was noted in the background.  Features of drowsiness include an increase in beta and slow rolling eye movements.
+Temporal wicket was noted.
+Photic stimulation elicited scant driving.
+Heart rate 78 bpm.
+IMPRESSION:  This routine 20-minute EEG was normal.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  The wicket described above is a normal finding and was seen in her previous EEG.  As was in the case with the previous EEG, the patient was very tense and there was a fair amount of muscle artifact.
+This EEG was ordered as a 1-hour EEG, but only 20 minutes were recorded.  A repeat study can be obtained to more completely characterize this patient's epilepsy.
+
+
+

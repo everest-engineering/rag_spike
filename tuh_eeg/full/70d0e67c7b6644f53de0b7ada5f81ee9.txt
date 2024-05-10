@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 19-year-old woman with gastroparesis, staring spells, and confusion.  History of seizures with aura of headache, lightheadedness, ringing in her ears, and loss of vision.
+MEDICATIONS:  Keppra, Depakote.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a somewhat unusual background.  There are sections of the record with some 5-6 Hz posteriorly predominant activity with a 9 Hz mu rhythm.  The posterior dominant activity is slow, notched, and somewhat regular, suggesting that there may be an underlying somewhat irregular alpha subharmonic.  Prominent lambda confounds this picture.  Features of drowsiness include slow rolling eye movements.  The somewhat notched posterior predominant pattern is seen when the patient is awake, as well as she starts to drift into drowsiness.
+Hyperventilation seems to accentuate underlying, posteriorly predominant slowing.
+Photic stimulation does elicit a driving response.
+Heart rate:  84 BPM.
+IMPRESSION:  This must be considered an abnormal EEG due to:  Somewhat slow irregular theta frequency activity in the posterior regions.
+CLINICAL CORRELATION:  Harmonic since subharmonics are normal findings, but there is clearly irregular posteriorly predominant theta that cannot be considered a normal variant.  This EEG differs from a previous EEG on January 4, 2013 which was a normal routine study.
+
+
+

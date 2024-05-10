@@ -1,0 +1,36 @@
+History:	22 year old man with a history of tuberous sclerosis and seizures.
+Medications:	Banzel, Onfi, Klonopin, Valium, Risperdal, versed, ativan
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~15 hours from 04/27/2015 till 04/28/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.  l representation of the EEG
+was available at the bedside and over the hospital network for continuous review by trained nurses
+and EEG technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team
+for detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient.  The waking background consists of a mixture of low
+amplitude fast activity admixed with bursts of rhythmic delta activity.
+There is abundant complex epileptiform activity.  Generalized fast spike and wave discharges,
+polyspikes, independent right and left temporal sharp waves with aftergoing slow waves, and
+generalized paroxysmal fast activity are noted.  Generalized epileptiform discharges frequently
+occur in brief runs.  Several episodes of head nodding/ dropping are captured.  They are associated
+with transitions from sleep to drowsiness without an abnormal ictal correlate.
+Summary of Findings:
+Spike-and-wave complexes, fast
+Sharp waves multifocal
+No electrographic seizures
+Interpretation:
+This is a very abnormal ~15 hour continuous video EEG due to diffuse background slowing and
+disorganization as well as abundant complex multifocal and generalized epileptiform discharges.
+This pattern indicates diffuse cerebral dysfunction and multifocal cortical and subcortical
+excitability.  Episodes of head nodding are associated with transitions from sleep to drowsiness
+rather than ictal runs.
+
+
+
+

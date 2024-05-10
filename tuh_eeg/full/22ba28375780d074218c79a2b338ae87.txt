@@ -1,0 +1,22 @@
+History:	69 year old woman undergoing right ICA stenting.
+Medications:	ROCURONIUM,SEVOFLURANE,HEPARIN,PROPOFOL,PHENYLEPHRINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes, awake, comatose
+Description:
+Patient is awake early in the recording.  The PDR consists of a moderate amplitude well formed
+and modulated 10 Hz alpha activity that attenuates with eyes opening.  Symmetric 5-15uV, 18-
+25Hz activity is present, maximal over bilateral frontal regions.  Burst suppression is achieved when
+patient is intubated.  The background recovers to a mixture of diffuse polymorphic theta, delta and
+underriding fast activity, at times occurring in bursts.  Periods of background discontinuity and brief
+frank burst-suppression are observed intermittently  throughout the recording.  These changes
+correspond to changes in the doses of anesthetic medications used.
+A right ICA stent and R ICA coil are deployed at ~11:40 am and ~12:10 pm, respectively.  There is
+no change in the background following these interventions.
+Summary of Findings:
+Other, no change with coil and stent insertion.
+Interpretation:
+This is an unremarkable 2 hour 30 minutes continuous EEG monitoring performed during IR-guided
+insertion of the R ICA coil and stent.
+
+

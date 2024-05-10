@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  87 year old male with a stroke, left parietal region, not able to speak, with acute change in mental status.  Past history of bilateral occipital strokes and a parietal hemorrhage, as well as a cerebellar infarct this summer.  Pacemaker.
+MEDICATIONS:  Levothyroxine, Lopressor, Omeprazole, HCTZ, Pravastatin, ASA
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has a great deal of muscle artifact noted in the background.
+DESCRIPTION OF THE RECORD:  In the relaxed wakefulness, the EEG is obscured by a great deal of muscle artifact.  Underneath this, there is more of a theta pattern.  There seems to be some slower waveforms of 3-4 Hz in the occipital regions noted intermittently.  This activity is picked up midline in the parietal region.  Features of drowsiness include an increase in background slowing.  In the transition to drowsiness, the record becomes slower on the left compared to the right. Photic stimulation does not activate the record.
+HR:    144 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+A slow and disorganized pattern.
+Intermittent occipital slowing.
+Focal slowing from the right hemisphere with a more significantly and a featureless pattern as the patient becomes drowsy.
+CLINICAL CORRELATION:  No epileptiform features were observed.  This EEG supports a bihemispheric disturbance.  There seems to be more of a focal disturbance from the left hemisphere in comparison to the right.
+
+
+

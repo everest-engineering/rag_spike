@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 56-year-old gentleman with intermittent lightheadedness and gait difficulty.  PTSD following head injury in the military 10 years ago.
+MEDICATIONS:  Norvasc, hydrochlorothiazide, and buspirone.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and briefly drowsy record.  It is technically satisfactory with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is low voltage, but with a well-defined 11 Hz alpha rhythm, which is symmetric and reactive to eye opening.  There is a generous amount of low voltage, frontal central beta.  Drowsiness was characterized by slow rolling eye movements.  Hyperventilation increase the amplitude of the background.  Photic stimulation elicited bilateral driving.
+Heart rate 60 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration, a repeat study capturing deeper stages of sleep is suggested.
+
+
+
+
+

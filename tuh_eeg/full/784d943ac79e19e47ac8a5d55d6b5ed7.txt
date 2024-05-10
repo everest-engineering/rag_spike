@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  refractory epilepsy since childhood	MEDICATIONS:  Tegretol.
+INTRODUCTION:  A 24-hour digital video EEG was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  Seizure and spike detection software was utilized.
+DESCRIPTION OF THE RECORD:
+Background:  The background includes generous wakefulness through stage 2 sleep.  The patient is noted to have disrupted sleep with frequent arousals in sleep.  Stage 2 sleep is well characterized by vertex waves, K complexes, spindles, and POSTS.  In wakefulness, there are lambda waves.  Intermittent background slowing was noted in wakefulness.
+Interictal epileptiform detections:  Primarily in stage 2 sleep and primarily on the night of the 28th, the EEG demonstrates independent, right or left temporal sharp waves or spikes.  The majority of the sharp waves are relatively blunted.  They occur independently and varies from frequent to infrequent.
+More prolonged rhythmic right temporal focal slowing was noted on the morning of the 29th with more sustained focal slowing noted at that time.
+Seizures:  Time:  9:23:  This is a 22-second discharge.  The patient was in the bed.  No clinical symptoms were noted during the 22-second discharge.  This discharge is characterized by a burst of well defined left temporal 6-7 Hz theta activity followed by background slowing.  In the background slowing, the record is diffusely slow with higher amplitude delta.  It is a chaotic, disorganized background with perhaps more delta on the right.
+Ictal behavior: The clinical event was noted by the nurses at 9:24:44 with a confused patient.  The EEG at that time is disorganized, chaotic, and it is difficult to identify clear epileptiform pattern, but using an average reference, there may be underlying right anterior temporal sharp waves noted.  During this period of confusion with a slow and disorganized background, the patient jumped out of the bed and is off camera, although the nurses present.
+The patient was noted to have tachycardia, which is initially not quite as prominent with a 22-second burst of left temporal theta at 9:23, but does increase during a period of confusion to 140 bpm.
+Heart rate:  78 bpm, increasing when the patient has seizures to 120-140 bpm.
+IMPRESSION:  This 24-hour section of EEG monitoring was remarkable for:
+Independent, right or left temporal sharp waves, primarily noted in the overnight recording in the section of the record.
+More sustained focal slowing noted on the morning of the 29th.
+An electrographic seizure or which began with tachycardia and left temporal focal theta.
+CLINICAL CORRELATION:  Ongoing EEG monitoring will continue.
+
+
+

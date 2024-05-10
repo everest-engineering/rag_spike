@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 34-year-old woman with epilepsy for the last 15 years.  Date of last seizure unknown.  Seizure is characterized as body shaking with incontinence and tongue biting.
+MEDICATIONS:  Zonisamide, Lamictal, Carbatrol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm.  The overall background is relatively low voltage and in maximum wakefulness there is a small amount of excess theta and beta.  The record is slightly disorganized.  There is some artifacts noted in the record, but no definitive epileptiform discharges.
+Drowsiness is characterized by an increase in beta.  Slow rolling eye movements were also noted in drowsiness.
+Hyperventilation produces a slight increase in amplitude and theta.
+Photic stimulation elicited a driving response.
+Review of this record in an average reference suggests that there may be a little bit more irregular slowing at the midline.
+Heart rate:  78 BPM.
+IMPRESSION:  This is a nonspecific, but abnormal EEG due to:
+Slowing and disorganization.
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  These findings may be correlated with seizures semiology, imaging, and clinical history.  Additional EEG recording may be of value to capture epileptiform activity.
+
+
+

@@ -1,0 +1,42 @@
+AGE: 53 y.o.
+SEX: female
+DATE OF STUDY: 10/12/2015
+RECORDING ENVIRONMENT: EMU
+EEG TYPE: 20-40 min, Awake and drowsy EEG #: 15-1498
+HISTORY:
+53 y.o. female referred for routine EEG for intractable localization-related epilepsy.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+levetiracetam (KEPPRA) 500 mg tablet, Take 3 tablets by mouth in the morning and evening
+topiramate (TOPAMAX) 50 mg tablet, Take l tablet by mouth 2 times daily.
+levetiracetam (KEPPRA) 500 mg tablet, Take 500 mg by mouth 2 times daily.
+citalopram (CELEXA) 20 mg tablet, Take 20 mg by mouth 2 times daily.
+topiramate (TOPAMAX) 50 mg tablet, One tablet in the AM and l tablet in the PM
+ramipril (ALTACE) 10 mg capsule, Take 10 mg by mouth daily. LORATADINE (CLARITIN PO), Take by mouth daily.
+Patient states she has been off all antiepileptics for 24 hours SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a posterior dominant rhythm (PDR) consisting of low voltage fast frequencies. The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, diffuse background slowing are seen. Sleep is not captured.
+No generalized slowing is present.
+There is continuous right temporal polymorphic slowing. EPILEPTIFORM ACTIVITY:
+There are frequent right fronto-temporal (F8/T2/T4>Fp2>F4 max) sharp-and-wave complexes
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background slowing.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and drowsy routine EEG due to:
+l. Continuous right temporal polymorphic slowing
+2. Frequent right fronto-temporal (F8/T2/T4>Fp2>F4 max) sharp-and-wave complexes
+CLINICAL CORRELATION:
+These findings indicate the presence of right temporal cerebral dysfunction and right fronto-tempo l epileptogenic potentials.
+
+
+

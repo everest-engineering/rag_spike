@@ -1,0 +1,34 @@
+AGE: 51 y.o.
+SEX: male
+DATE OF STUDY: 09/15/2015
+RECORDING ENVIRONMENT: Inpatient
+EEG TYPE : Routine , coma study EEG #: 15-1357
+HISTORY:
+51 y.o. male with a history of seizures presenting with multiple seizures.
+MEDICATIONS: propofol , ativan (10 mg total), rocuronium, Keppra , Dilantin
+SEDATION: As above TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The background is composed of a symmetric and continuous but disorganized mixture of alpha, beta, and theta, with admixed
+delta.	There is no definite reactivity to noxious stimuli. At times the frontal beta activity is sharply contoured.
+Moderate generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No definite epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Not performed Photic Stimulation : Not performed
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal routine EEG due to:
+Moderate generalized slowing
+Disorganized background
+No definite reactivity to- noxious stimuli
+CLINICAL CORRELATION:
+These findings indicate at least moderate cerebral dysfunction, which is likely at least in part due to sedating medication.
+
+
+

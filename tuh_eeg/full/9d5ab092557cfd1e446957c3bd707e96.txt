@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  The patient is a 26-year-old woman with a longstanding history of generalized tonic-clonic convulsions who now presents with increase in frequency of her events.  The patient is admitted for differential diagnosis of these events.
+MEDICATIONS:  Keppra, Celexa, and Tegretol.
+INTRODUCTION:
+The patient underwent continuous audio video EEG monitoring according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead. Spike detector and seizure detector alarms were activated.  The patient was provided with an event button. Nursing staff notes and medical staff notes were reviewed.
+DESCRIPTION OF THE RECORD:
+The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 9 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Excess beta is present.  Sleep architecture consisting of vertex waves, sleep spindles, K complexes, slow wave sleep and several episodes of REM sleep are captured.  No epileptiform discharges are captured. Frequent lambda is observed during wakefulness.
+FINDINGS:
+Normal posterior dominant rhythm.
+Normal sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal continuous audio video 20-hour EEG.  No epileptiform discharges are captured.  No typical events occurred.
+DESCRIPTION OF THE RECORD:
+The posterior dominant rhythm consists of a well formed and modulated moderate amplitude 10-Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Frequent lambda waves are captured.  During sleep, symmetrical vertex waves, sleep spindles, POSTS, K complexes, slow wave sleep, and several epochs of REM sleep were captured.  No clear electrographic seizures were captured, and there were no events.
+FINDINGS:
+Normal posterior dominant rhythm.
+No electrographic seizures.
+No events.
+IMPRESSION:  This is a normal 24-hour continuous video/audio EEG.  No electrographic seizures or events were captured.
+
+
+

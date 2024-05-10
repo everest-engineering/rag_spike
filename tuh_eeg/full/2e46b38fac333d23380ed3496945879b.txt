@@ -1,0 +1,44 @@
+CLINICAL  HISTORY: This is a 36-year-old male with head trauma treated with Pentobarbital coma.
+MEDICATIONS: Pentobarbital and Phenytoin.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the unit using standard  10-20 system of electrode placement with one channel of EKG. The patient receives ICU care throughout this section of the record. Clinical comments include disconnection of the patient at 3:20 AM to be taken for a CT scan. When the video resumes, however, the patient does not have any additional EEG after 3:20AM.
+DESCRIPTION OF  THE  RECORD: The background EEG, until 3:20 AM, demonstrates a suppressed pattern with some EKG artifact. At a sensitivity of 3 uV/mm, some background ICU artifacts are seen, as is scant beta activity. Heart rate is 72 BPM.  Over the course of the record, there seems to  be some head  rocking picked up in the left posteriotemporal  region  and  on occasion in the right central region.  There is no mention of a ventriculostomy or craniotomy in this record. There are portions of the record including 15:47 where there is some alpha and theta frequency activity on the left, but the record is slower on the right.
+Long-Term EEG Monitoring, April 3, 2006 to April 4,2006
+INTRODUCTION: Continuous video EEG monitoring is performed for barbiturate coma. Pentobarbital was stopped during this record at 4:40AM and restarted at 9:30AM.
+DESCRIPTION OF THE RECORD: The background EEG is markedly suppressed.  There is some very low voltage slow delta, which may be artifactual in nature.
+Long-Term EEG Monitoring, April4, 2006 to April 5, 2006
+INTRODUCTION: This section of the record has a history. The patient is receiving barbiturate coma and hypothermia treatment for closed head injury.
+DESCRIPTION OF THE  RECORD: The background EEG demonstrates an essentially suppressed pattern.  Stimulation of the patient does not activate the record.  The technologist uses a sensitivity of 2 to 5 uV/mm.  The heart rate is 70 BPM.  This EEG pattern is compatible with marked background suppression.  There is some variable voltage delta in the record.
+Long-Term EEG Monitoring, April 5, 2006 to April 6, 2006
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU
+using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD: As the tracing opens, there is a technologist and/or nurse at the bedside adjusting the IV drip. The EEG at that point demonstrates a discontinuous pattern, but there is some cerebral activity. Following this, there is mention made that the patient is stimulated, although on review of the video, there is no one there. A conversation can be heard in the background, so perhaps this was auditory stimulation. This becomes a markedly suppressed pattern with a burst of cerebral activity lasting less than a second.  The clinical team enters and does have contact with the patient at 13:26: 41.  The EEG at this time is markedly suppressed. The overall 24-hour pattern is one more of suppression than burst suppression, although there is some variability.   There is variability in the record, and at times there are bursts of cerebral activity typically lasting less than a second with periods of suppression that are as short as five seconds, although much of this record demonstrates a more significant pattern of burst suppression.
+Long-Term EEG Monitoring, April 6, 2006 to April 7, 2006
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is examined during this monitoring.
+DESCRIPTION OF  THE  RECORD: The  background EEG demonstrates an intermittently
+discontinuous pattern.   There  is a suggestion of a breach rhythm identified on the right with higher amplitude activity. There is variability in the discontinuous pattern.  At 11:46, the patient has rhythmic, repetitive 4 Hz movement, with movement of the head and neck.  This is quite prominent, producing a noise that can be heard on the video.  It produces single channel artifact. This movement occurs in a discontinuous pattern.  The house officer comes to the bedside and minimally interacts with the patient.  There is no mention of medications given.  The rhythmic movement end abruptly at 11:50:52 and the EEG returns to a discontinuous pattern.   The remainder of the record shows an intermittently discontinuous pattern.
+This  section  of the record  ends  at  10:00 AM on April 7.    At that time,  the EEG is  more continuous  than had previously been seen.   There is no mention made regarding changes in medication.
+HR.: 80 BPM.
+BRIEF IMPRESSION: This section of the record is technically unsatisfactory due to a lack of interval history, medications, and labeling of the study.
+IMPRESSION: This continuous video EEG monitoring was remarkable for:
+1.   A burst suppression pattern, at times with some asymmetries.
+2.   24-hour sections without definite cerebral activity.
+3.   A behavioral event with rhythmic motor activity without any cerebral component.
+4.   This patient underwent cardiac arrest during the EEG monitoring. Scant cerebral activity was seen prior to the cardiac arrest, but there was a brief epoch where it was possible to visualize
+the loss of cerebral activity during that terminal event.
+Long-Term EEG Monitoring, April 7, 2006
+MEDICATIONS: Unknown today.
+INTRODUCTION: Continuous video EEG monitoring is performed 4/7/06.  This section of the record is 30 minutes.
+DESCRIPTION OF THE RECORD: The background EEG  is low voltage.   It appears suppressed  at conventional voltages, but using  a sensitivity of 3 Hz,  there is some very low voltage activity identified.  The patient has considerable tactile stimulation throughout the EEG without a discernable change. After the patient is repositioned, the electrode integrity is lost.  The patient goes into cardiac arrest during the EEG  at 16:38 and is receiving CPR, again producing additional artifact.   Because of the nature of the patient's  acute medical illness, as would be appropriate, no additional attention is given to the EEG, and the EEG throughout the remainder of the record is entirely artifactual, although the video indicates that the team is attempting to resuscitate the patient.   The outcome of this patient's  condition is not known, but the EEG  is terminated.
+IMPRESSION/CLINICAL CORRELATION: The EEG on 4/7/06 is remarkable for:
+1.  Marked  paucity  of  electrocerebral  activity  identified  in  this  record  with  EEG   activity
+discernable only with very high sensitivity.
+2.   The loss of vital signs is associated with repositioning of the patient and electrode artifact, but by 16:35, precluding the code, it is clear that whatever the small amount of cerebral activity that is there, the small EEG signature that remained was lost.
+
+
+22
+2
+2
+
+
+
+

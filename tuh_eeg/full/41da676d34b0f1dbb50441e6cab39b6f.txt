@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  77 year old left handed male, admitted on Saturday with expressive aphasia, intermittent delirium.
+MEDICATIONS:  Metoprolol, Capoten, Haldol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is slow and disorganized.  The alpha rhythm is 6 Hz with some 8 Hz activity in the background.  There is a subtle asymmetry with disruption of faster frequency activity in the left frontotemporal region compared to the right. Occasional bursts of shifting slowing are noted. Photic stimulation does not significantly activate the record.
+HR:    102 bpm and regular.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing characterized by intermittent disruption of faster frequency activity in the left frontotemporal region.
+Generalized background slowing.
+Underlying disorganization.
+CLINICAL CORRELATION:  There are no epileptiform features.  While the pattern described above is nonspecific, the intermittent disruption of faster frequency activity is compatible with a structural process involving cortices might be seen following stroke.
+
+
+

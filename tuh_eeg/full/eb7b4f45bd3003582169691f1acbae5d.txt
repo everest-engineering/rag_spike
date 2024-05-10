@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 34-year-old woman with developmental delay and epilepsy since age 4, last seizure 1 week ago.  EEG to consider medication adjustment.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically acceptable 20 minute EEG with impedances below 5 kilo-ohms with the exception of the T1-T2 electrodes.  Photic stimulation was completed but hyperventilation was not possible.  There was a great deal of muscle and other movement artifacts.
+DESCRIPTION OF THE RECORD:  When the patient is resting comfortably, the background EEG is diffusely slow and poorly organized with a pattern of rhythmic theta and superimposed delta.  There is a suggestion of a rhythmic theta frequency posterior dominant rhythm on the left, but not so clear on the right.  Shifting slowing was noted.  As the patient became drowsy, the background EEG demonstrated a slower pattern with more of a rhythmic monomorphic theta-delta pattern.
+Abundant epileptiform discharges were identified in wakefulness and in sleep.  Some of these were simple, others complex.  The epileptiform activity included frontally predominant slow spike and wave, polyspike and wave activity, focal epileptiform activity.  Sharp waves and spikes may be high amplitude or lower voltage and discrete.  Areas of maximal activity or phase reversal include left frontal, left frontocentral, independent right frontal and right frontocentral.  Additional epileptiform discharges maximum in the right posterior quadrant and on rare occasions in the left posterior quadrant were also noted.  Higher amplitude P3 spikes were identified.  A handful of the epileptiform discharges were maximum at CZ/C3.
+Photic stimulation:  No photic driving response was identified.  The epileptiform activity did not seem to increase significantly during photic stimulation.
+Heart rate 66 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Markedly slow background.
+Epileptiform activity noted from either hemisphere with essentially a pattern of multi focal spikes.
+Slow spike and wave activity.
+GPFA, particularly left frontocentral.
+CLINICAL CORRELATION:  The findings described above are common in a chronic static encephalopathy.  This EEG supports a bihemispheric process.  The slow spike and wave discharges noted above are typical in Lennox-Gastaut and similar syndromes.
+S
+
+
+

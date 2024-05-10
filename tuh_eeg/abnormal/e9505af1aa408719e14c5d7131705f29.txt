@@ -1,0 +1,12 @@
+LENGTH OF RECORDING:  23 minutes.
+CLINICAL HISTORY:  The patient is a 71-year-old man who presents with a prolonged episode of confusion and decreased responsiveness with associated bowel incontinence and shaking that occurred about 2 weeks ago.
+MEDICATIONS:  None listed.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and was not performed.  Stepped photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consisted of well formed and modulated moderate amplitude 8.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During drowsiness the background voltages attenuate and central theta and delta activity are captured.  A regular heart rate is observed in a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation results in no change in the background.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal awake and drowsy 23-minute electroencephalogram.  No epileptiform discharges were captured.  Stage II sleep was not recorded.  If clinical indication for seizures persists a repeat study with stage II sleep may be of benefit.
+
+
+

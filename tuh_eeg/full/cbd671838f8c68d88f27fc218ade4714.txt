@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  55 year old male with epilepsy, alcohol abuse, sleep apnea, and amputations.
+MEDICATIONS:  Insulin, Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation is completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  The patient has difficulty sitting still in the chair, he quickly drifts off to sleep with an increase in background slowing and some shifting slowing.  Photic stimulation does not elicit a driving response.
+HR:    71 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+Disorganization.
+Shifting and slowing.
+CLINICAL CORRELATION:  There were no epileptiform features identified.  These findings are nonspecific and can be seen in the context of underlying cerebrovascular disease.
+
+
+

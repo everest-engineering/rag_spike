@@ -1,0 +1,45 @@
+AGE: 69 y.o.
+SEX: male
+DATE OF STUDY: 11/03/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 40-60 min, awake and drowsy EEG #: 15-1620
+HISTORY:
+69 y.o. male with a history of metastatic brain cancer (adenocarcinoma of unknown origin, s/p L craniotomy and radiation therapy) referred for routine EEG for	management of seizure exacerbation.
+MEDICATIONS:
+Home Regimen: Keppra 1500 mg q12h
+Received Ativan 8 mg prior to this study and additional Keppra 1500 mg
+SEDATION: Ativan as above TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The study opens to a background that is continuous, asymmetric, and poorly organized.
+The right hemisphere consists of a disorganized mixture of delta with admixed theta and beta.
+The left hemisphere consists of a disorganized mixture of delta,
+theta, alpha, and beta. There are waveforms of higher amplitude and admixed faster frequencies noted over the left hemisphere, maximum over the fronto-temporal region (Fpl, F7).
+The background is reactive.	As the study progresses, fragments of an irregular posterior dominant rhythm of 8 Hz, better seen over the right hemisphere, become apparent.
+Sleep transients are not captured.
+There is mild to moderate generalized slowing, improving to mild over the study.
+There is continuous left hemispheric (fronto-temporal max) polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+1. Continuous 1-1.5 Hz sharp-and-slow-wave discharges, left frontotemporal maximum (max F7, T3, F3, C3; also known as lateralized periodic discharges, LPDs) . Occasionally these fluctuate in frequency, occurring at up to 3 Hz for periods <2 seconds, without clear evolution. Examples occur at 08:40, 08:57, 08:58, the fluctuations persist up to 1 min and 25 sec. There is no clinical correlate.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and drowsy routine EEG due to:
+Mild to moderate generalized slowing, which improves to mild over the course of the recording, with suboptimal organization
+Continuous left hemispheric (fronto-temporal max) polymorphic slowing
+Waveforms of higher amplitude and admixed faster frequencies noted over the left hemisphere, maximum over the fronto-temporal region (Fpl, F7), likely representing breach rhythm
+Continuous left fronto-temporal lateralized periodic discharges that occasionally fluctuate
+CLINICAL CORRELATION:
+These findings indicate the presence of highly epileptogenic discharges over the left fronto-temporal region, superimposed on left hemisphere dysfunction that is likely structural in etiology. There is additionally mild to moderate diffuse cerebral dysfunction, which improves over the course of the recording to "mild." A left fronto-temporal breach rhythm is consistent with
+this patient' s known history of craniotomy .
+No definite electrographic seizures were - captured.
+
+
+
+

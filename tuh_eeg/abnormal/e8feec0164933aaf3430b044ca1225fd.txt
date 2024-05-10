@@ -1,0 +1,12 @@
+
+CLINICAL HISTORY: 25 year old right handed female with refractory primary generalized epilepsy, breakthrough tonoclonic seizures. Onset age 15.
+MEDICATIONS: Depakote, Lamictal.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz, 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by anterior spread of the alpha rhythm. Other features of drowsiness include an increase in background theta. Photic stimulation elicits bilateral driving.
+HR: 78 bpm
+
+IMPRESSION: Normal EEG.
+
+CLINICAL CORRELATION: No focal nor epileptiform features were observed. A normal EEG does not exclude a diagnosis of epilepsy.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 88-year-old woman with hypertension, hyperlipidemia, and breast disease now with 3 episodes of double vision and a large left frontal mass with mass effect.
+MEDICATIONS:  Decadron, Depakote, many others.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was a drowsy individual.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is slow and disorganized.  There is an asymmetry noted.  There is a bit more faster frequency activity noted in the left hemisphere, particularly in the left frontal region compared to the right.  With stimulation, there is an alerting response and an 8 Hz alpha rhythm is identified bilaterally.  As the patient drifted in and out of sleep, there was shifting in delta activity but the activity is a bit slower on the right compared to the left.
+Features of drowsiness included an increase in background slowing.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing with attenuation of some of the faster frequency activity on the right compared to the left.
+CLINICAL CORRELATION:  The mass effect of this tumor may account for the mismatch in terms of the field of slowing in comparison to the MRI findings.  No epileptiform features were noted.  The bilateral background slowing suggests a diffuse process as may be seen in the context of increased intracranial pressure or mass effect.
+
+
+

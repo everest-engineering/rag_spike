@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 75-year-old male with history of gastric carcinoma, HHNK, lactic acidosis, admitted with repetitive facial twitching and obtundation.
+MEDICATIONS:  Ativan and others.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ER using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had clinical seizures during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG includes a low voltage, slow featureless pattern.  The activity is somewhat slower and lower voltage in the left hemisphere in comparison to the right.  The right hemisphere has more theta.
+Three 30 seconds seizures were identified.  The first 2 are electrographically identical with rhythmic frontal delta.  Superimposed upon this, there is muscle and movement artifact.  Characteristics of both of the seizures include oral automatisms and a change in the patient's respiratory pattern with turning to the left.  The 3rd seizure at 3:15 a.m. is slightly different, beginning with 7 hertz theta, somewhat  more prominent R frontal.  It also has oral automatisms, the patient takes a deep breath, and has had turning to the left with facial grimacing.  Following the seizures, the EEG returns to the otherwise slow background.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Electrographic status epilepticus with multiple seizures in 20-minute period in the patient who is not awake or alert.
+Frontal lobe localization of the seizures with two ictal patterns but clinical features to suggest R frontal focus.
+Background slowing.
+Left focal slowing.
+CLINICAL CORRELATION:  This patient will transition to long-term video EEG monitoring for additional management of electrographic seizures.
+
+
+
+
+

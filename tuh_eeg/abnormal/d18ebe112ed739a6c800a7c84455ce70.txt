@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  A 28-year-old lady with a past history of localization related to epilepsy, admitted electively to the epilepsy monitoring unit to capture seizures for localization.
+MEDICATIONS:  Depakote and zonisamide.
+DESCRIPTION OF THE RECORD:  Wakefulness and Sleep:  In wakefulness, there is a symmetric posterior dominant rhythm of about 11 Hz in frequency and 20-40 microvolts in amplitude.  There is continuous left temporal focal slowing. There are frequent sharps in the left F7-T3 electrodes and occasional sharps on the right at T2. The sharps are of higher amplitude and more frequent in sleep.  There is TIRDA noted in the left anterior temporal region.
+EVENTS:
+8:7:12:  Was an accidental push button.
+9:33:00:  Patient felt an aura and was agitated and anxious.  A few minutes prior to the push button, there was rhythmic slowing in the left temporal region which clears up after the push button.
+12:23:28:  The event starts with patient being under the covers and appears drowsy.  The EEG starts as a burst of repetitive 2-3 Hz sharps and spike and waves of greater than 100 microvolt amplitude, maximal in the left anterior temporal region.  At this time, it is volume connected to the right side.  In about 3-4 seconds, it spreads to the right.  At this time, there is repetitive theta on the left and delta on the right.  It quickly builds up in the left hemisphere.  28 seconds into the seizure, there is a lot of muscle with underlying spikes on the left.  The seizure is clearly bilateral, but faster on the left than the right.  The seizure progresses into high amplitude spikes in the F7-T3 region and delta on the right.  At 12:26, the patient sits up, gets agitated and pulls of her leads.  Following this, the EEG is very compromised and, in the few leads in the right hemisphere, the EEG is noted to be very slow.
+IMPRESSION:  This EEG is abnormal due to:
+Continuous left temporal focal slowing.
+Frequent sharps in the left anterior temporal region.
+Occasional sharps in the right anterior temporal region.
+TIRDA on the left.
+Two seizures EEG correlate of rhythmic left temporal slowing during one event and nonconvulsive electrographic seizure during the second event with origin in the left anterior temporal region, lasting 3 minutes 27 seconds.
+CLINICAL CORRELATION:  The left focal slowing with sharps in the temporal region is suggestive of underlying structural abnormality with high epileptogenicity in the left temporal region which evolved into seizures during the recording.  There is also right temporal epileptogenic activity suggestive of epileptogenic focus in the right temporal region as well.  The recording is continued into day two.
+
+
+

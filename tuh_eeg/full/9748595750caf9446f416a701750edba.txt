@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 21-year-old male with right facial numbness and twitching for 2 hours.  Previous event 2 weeks ago.  No impairment of awareness.  History of concussion in February, patient not able to describe.
+MEDICATIONS:  none
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake through stage 2 sleep record in an individual who seems quite sleepy.  This patient had a fair amount of muscle artifact, even into sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Stage 2 sleep is characterized by vertex waves, K complexes, spindles, and POSTS.
+Hyperventilation produced rhythmic higher amplitude theta.  Photic stimulation produced bilateral driving.  Heart rate 60 BPM.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  For this young adult, there was a fair amount of muscle artifact noted even as the patient drifted off to sleep.  Clinical correlation is suggested.
+
+
+

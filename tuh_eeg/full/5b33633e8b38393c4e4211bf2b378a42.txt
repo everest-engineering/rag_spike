@@ -1,0 +1,29 @@
+History:	28 year old woman with a history of seizures.
+Medications:	Lamictal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 8-9 Hz activity that
+attenuates with eye opening.  The AP gradient is poor.  Additional diffuse polymorphic theta
+activity and intermittent brief bursts of diffuse theta-delta activity are captured.  Patient remains
+awake throughout the recording.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces additional
+diffuse symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second
+(fps) induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Disorganization, moderate
+No epileptiform discharges
+No stage 2 sleep
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake-only 22-minute EEG due to mild diffuse slowing and disorganization.
+These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.  No
+epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+
+
+
+

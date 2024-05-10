@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  60 year old right handed male with complex partial epilepsy described as a feeling of spinning, hot flashes with loss of consciousness, and bowel and bladder incontinence.  Past history of closed head injury.
+
+MEDICATIONS:  None.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage with generous beta and a 9 Hz alpha rhythm.  With testing the alpha improves to 10 Hz.  Drowsiness is characterized by slow rolling eye movements.  Wicket is noted in relaxed wakefulness. Hyperventilation is performed early on in the record.  The patient is falling asleep during hyperventilation with vertex waves and spindles.  There are some normal variants, including small sharp spikes of sleep, but there is also some left temporal focal slowing.  The patient transitions in and out of stage II sleep.  Again, subtle left temporal focal slowing is noted.  Simple sharp waves, as are common in normal variants, are also noted in the left temporal region. These are again noted with photic stimulation.  The patient is once again falling asleep during photic stimulation.
+
+HR:    60 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Subtle left temporal focal slowing.
+2. Left temporal sharp waves.
+
+CLINICAL CORRELATION:  The left temporal sharp waves have a simple morphology as can be seen in a normal variant.  However, they occur in the context of focal slowing and are more suggestive of a focal mechanism for epilepsy.  In comparison to a previous EEG, both EEGs demonstrate some of the same normal variants and some of the same unique challenges.
+
+DD:01/05/2012
+DT:01/05/2012
+
+
+

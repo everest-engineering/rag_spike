@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 64 year old right handed gentleman with memory loss. No known history of head trauma or seizures.
+MEDICATIONS: Glyburide, Simvastatin, Norvasc, Namenda
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record in a relatively drowsy individual.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz alpha rhythm. The patient rapidly transitions into a drowsy state with rhythmic background theta. The overall record is relatively low voltage. In this low voltage record, there is a slight asymmetry with a bit more rhythmic theta in the left compared to the right as the patient drifts in and out of drowsiness. Photic stimulation elicits scant driving.
+HR: 78 bpm
+IMPRESSION: Very mildly abnormal EEG due to:
+1. A subtle asymmetry in the frontocentral regions as the patient drifts off to sleep.
+CLINICAL CORRELATION: A low voltage pattern is not necessarily an abnormality. In this individual with memory problems and excessive drowsiness, a follow-up study with testing may be important to make sure that the back ground slowing is in fact a truly drowsy pattern. In addition, evaluation for excessive drowsiness may be appropriate
+since this was not a sleep-deprived EEG.
+
+
+
+

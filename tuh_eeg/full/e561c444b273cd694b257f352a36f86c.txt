@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  72 year old Hepatitis C male with strange behavior, hallucinations. Patient aware that he is not able to remember things. Past history of subdural or other brain surgery. Hepatic failure,
+MEDICATIONS:  Lactulose, Tenofovir, Haldol.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a rhythmic 6 Hz theta pattern. Features of sleep include a bit of arrhythmic delta activity and rare vertex waves.
+HR:    55 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic background slowing.
+CLINICAL CORRELATION: There were no epileptiform features identified. The rhythmic slowing is a nonspecific finding but is relatively characteristic of a metabolic encephalopathy.
+
+
+

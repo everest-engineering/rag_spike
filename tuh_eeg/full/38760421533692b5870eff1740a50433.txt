@@ -1,0 +1,19 @@
+
+CLINICAL HISTORY: 76 year old woman who has multiple myeloma, chronic pain and a 6 month history of dementia.
+
+MEDICATIONS: Clonazepam, Trazodone, Acyclovir, Metoprolol, Evista, isosorbide, ASA, Cetirizine, Cymbalta, Aetas, Niaspan, Lidoderm, Dexamethasone
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation was performed. This is an awake and a sleep record.
+
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. There are portions of the record with rhythmic high amplitude 5 hertz theta activity particularly in the posterior regions. This pattern is disrupted by arrhythmic delta activity and occipitally predominant sharp waves which may be on the left or the right. Features of drowsiness include an increase in background slowing. Photic stimulation does not activate the record.
+
+HR: 90 bpm with occasional PVCs.
+
+IMPRESSION: Abnormal EEG due to:
+1. Slow and disorganized.
+2. Occipital sharps and spikes 0-1 greater than 0-2.
+3. A theta pattern intermittently disrupted by delta.
+
+CLINICAL CORRELATION: This EEG supports a significant disturbance of cerebral function. Contributing factors can include a toxic or metabolic encephalopathy. Given the presence of epileptiform activity, recommend to evaluate clinically for the possibility of seizures.
+
+

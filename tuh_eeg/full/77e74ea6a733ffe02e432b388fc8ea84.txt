@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  An 86-year-old gentleman with a past history of pacemaker, diabetes, hypertension and stroke.  Admitted to the hospital after a 5 to 10 second episode of confusion on the 19th.
+MEDICATIONS:  Aspirin, Toprol, Glucotrol, glipizide, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  The patient is quite drowsy drifting in and out of Stage I sleep with vertex waves and spindles noted in Stage II sleep.  Rare, right or left temporal theta of the elderly was noted as the patient transitioned to sleep.  Photic stimulations elicited scant driving.  Heart rate 60 BPM occasionally irregular.
+IMPRESSION:  This EEG is within normal limits for age in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Minor age related changes were noted including a little bit of temporal theta of the elderly.  If additional information is needed, a more prolonged study may be obtained.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 20 year old left woman with past history of temporal lobe resection, refractory epilepsy, chronic daily headaches.
+MEDICATIONS:  Keppra, Topamax, Vimpat, Ambien, Ventolin, Advair
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm which at times at times reaches 9 Hz, but is more typically approximately 7 Hz.  There is a prominent breech rhythm with an increased amplitude in the left hemisphere, particularly in the central temporal region. Focal slowing is noted in the left temporal region, which is nearly continuous. Hyperventilation accentuates this slowing.  In addition, left temporal sharp waves are observed, some of which are T3, T5, others a bit more anterior temporal. Stage II sleep is characterized by vertex waves, K-complexes, and spindles.  In sleep the focal slowing and sharp waves are a bit more prominent in the left posterior temporal region. Photic stimulation is performed while the patient is in stage II sleep.  Scant driving is noted.
+HR:     72 bpm and slightly irregular
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the left mid to posterior temporal region.
+Left mid to posterior temporal sharp waves.
+CLINICAL CORRELATION:  This is one of many EEG's for this patient.  The majority of EEG demonstrate the same findings.  This EEG supports a focal mechanism for epilepsy.
+
+
+

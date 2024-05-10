@@ -1,0 +1,33 @@
+History:	56 Y.O C/C ISCHEMIC STROKE W/O THROMBOLYSIS, LEFT SIDED WEAKNESS
+AND NUMBNESS,SLURRED SPEECH.
+
+PMHX- PT HAD STROKE THAT AFFECTED R SIDE FOR 2 MONTHS ACCORDING
+TO CHART. HLD,SZ,CVA,BOWEL RESECTION. LAST SZ 1 YO AGO W/ LOC AND
+URINARY INCONTINENCE
+Medications:	Statin, Lisinopril, Prilosec
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  Frequent positive sharp waves occur bilaterally and
+independently in the occipital regions during drowsiness and light sleep.
+Intermittent polymorphic delta activity is present in the left midtemporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR is
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of intermittent focal slowing in the
+left midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.
+Í
+
+
+

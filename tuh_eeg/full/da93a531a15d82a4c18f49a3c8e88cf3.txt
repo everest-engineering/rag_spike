@@ -1,0 +1,12 @@
+MR: 25162710
+CLINICAL HISTORY: 50 year old right handed female with a history of 3 cerebral aneurysms with coiling 2 years ago, admitted for a left-sided headache and episodes of staring, under the Neurosurgical Service, and the question is clipping of left MCA. Also, craniotomy one year ago for left MCA.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: This bedside EEG is remarkable for a great deal of muscle and movement artifact. There is a 9.5 Hz posterior dominant rhythm identified. A breach rhythm is identified in the left temporal region which also produces some of the head-rocking artifact. There is prominent beta activity noted in the background. There is some increase in theta noted as the patient becomes drowsy. Other features of drowsiness include some hypersynchronous flowing and a bit of theta from the left temporal region. Occasional bilateral arrhythmic delta activity is noted as she transitions into sleep. There is some asymmetry with a bit more focal delta from the left compared to the right in the transition in and out of sleep.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Occasional arrhythmic delta activity on the left.
+CLINICAL CORRELATION: There were no sharp waves observed today. The delta described in the left is congruent with the past history of neurosurgical intervention. For this individual with occasional spells of aphasia, a repeat outpatient ambulatory study may be valuable.
+
+
+

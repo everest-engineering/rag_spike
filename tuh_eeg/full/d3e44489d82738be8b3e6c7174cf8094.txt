@@ -1,0 +1,29 @@
+History:	29 YO WOMAN WITH NO PREVIOUS HX OF SEIZURE, FELL AT WORK
+PREVIOUS DAY. PT CLAIMS TO HEAR EMT TALKING TO HER BUT SHE COULD
+NOT RESPOND. SPEECH RETURNED SLOWLY, BASELINE 15 MIN IN ED, CT
+NEGATIVE. PMHX: HYPOTHYROID. PSHX:: UNCLE AND COUSIN WITH
+Medications:	ORTHOTRICYCLINE, SYNTHROID
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 9Hz posterior dominant rhythm with admixed beta activity,
+which attenuates symmetrically with eye opening.  Excessive diffuse symmetric 5-25uV, 18-25Hz
+beta activity is present.  During drowsiness, the background slows to central theta activity, beta
+activity becomes more prominent, and symmetric vertex waves appear.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces a minimal symmetric photic
+driving response.  HR is 72.
+Summary of Findings:
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. Excess beta activity is a nonspecific finding
+and may be an effect of medications.  The lack of epileptiform discharges on a routine EEG does
+not rule out a clinical diagnosis of epilepsy.
+
+
+

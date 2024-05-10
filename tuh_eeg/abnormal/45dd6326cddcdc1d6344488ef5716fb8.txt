@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 50 year old patient who presented to the hospital after multiple episodes of vomiting and unresponsiveness. The patient has a history of diabetes and he presented with hyperglycemia. The EEG was obtained to rule out status epilepticus.
+MEDICATIONS: Ativan, Labetalol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement and 1 channel of EKG. There was no hyperventilation or photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG is markedly low voltage and is very slow. There are some technical issues with the record in addition to eye movement artifact. There are some frontal sharp waves which are of higher amplitude on the left. Unfortunately, eye movement artifacts also appear higher on the left. Drowsiness is characterized by an increase in beta. Stimulation of patient produces little but more of theta.
+IMPRESSION: Abnormal EEG due to:
+1. Diffusely depressed with possible sharp waves in the left frontal region.
+CLINICAL CORRELATION: The background slowing could be a post ictal phenomenon or due to the patient's metabolic abnormalities. His medications, the use of Ativan, could also contribute to this pattern. If the patient does not improve a followup study should be considered.
+
+
+

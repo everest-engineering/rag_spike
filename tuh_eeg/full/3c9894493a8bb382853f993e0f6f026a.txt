@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 55-year-old woman with schizophrenia, epilepsy with tonic-clonic seizures, and recurrent hospitalizations for status epilepticus.  Currently, seizure-free for nearly 2 months.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.  There is some electrode placement issues with this EEG, but it is technically acceptable.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is very low voltage with a 9 Hz posterior dominant rhythm.  Stage II sleep includes vertex waves and spindles.
+Photic stimulation elicited bilateral driving.
+There is significant muscle twitch artifact noted in the background.
+Heart rate 72 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief sleep.
+CLINICAL CORRELATION:  This is one of many EEGs for this adult with a history of refractory epilepsy.  No epileptiform features were noted today, but complex epileptiform activity has been noted with many different patterns over the past 4 years.
+
+
+

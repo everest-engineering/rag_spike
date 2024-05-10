@@ -1,0 +1,14 @@
+DATE OF STUDY:  September 23, 2013 to September 24, 2013.
+CLINICAL HISTORY:  This is a 24-year-old male status post severe brain injury with spine and brainstem injury as well, currently in halo.
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  Continuous EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient appears to be unresponsive with eye movement.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow pattern with smaller amounts of frontal beta.  Eye movement artifact is noted.  Due to the patient's hardware, the T6-O2 area appears to have been not utilized.
+Intermittent muscle artifact is noted in the background.
+There is a bit of variability in the record with a bit more theta frequency noted.  One particular example of this is at 4 a.m. on the morning of the 24th.
+Heart rate 93 bpm.
+IMPRESSION:  This is an abnormal EEG due to a markedly slow pattern.
+CLINICAL CORRELATION:  In this individual with a severe brain injury, some sections of the record, particularly those in the early morning on the 24th, demonstrated an increase in theta.  This finding should be considered in the overall clinical context for this individual.
+__________________________
+
+
+

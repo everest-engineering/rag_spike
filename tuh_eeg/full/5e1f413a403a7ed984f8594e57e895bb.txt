@@ -1,0 +1,10 @@
+MEDICATIONS:  Lamictal.
+CLINICAL HISTORY:  A 58-year-old woman with epilepsy since birth, previous vagal nerve stimulator implantation, refractory seizures with recent seizure-related fall and abrasion in the left frontal region.  The patient reports no warning prior to her seizures.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and drowsy record in a somewhat restless patient.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.3 Hz alpha rhythm.  The alpha rhythm rarely achieves 8.5 Hz.  As the patient starts to drift off to sleep, she has a great deal of eye artifact and muscle artifact as if she is grinding her teeth as she becomes drowsy.  Deeper stages of sleep are not sustained.  Photic stimulation elicited a driving response at intermediate flash frequencies which were slightly asymmetric.  Hyperventilation produced an increase in amplitude of the background.  Heart rate 72 beats per minute.
+IMPRESSION:  This is an abnormality EEG for an adult of this age due to:
+Mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:  The subtle asymmetry noted in the background in photic stimulation which is somewhat more vigorous.  Driving response on the left not outside of the range of normal.  The slightly slow alpha rhythm in an adult of this age is a nonspecific finding and can be seen in a diffuse disturbance of cerebral function due to many different causes.
+
+
+

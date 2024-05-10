@@ -1,0 +1,32 @@
+History:	52 year old man undergoing pulmonary thromboendarterectomy, requiring
+hypothermia and cardiopulmonary bypass.
+Medications:	INDUCTION MEDS: ETOMIDATE, FENTANYL, VERSED, ROCURONIUM
+ISOFLURANE DURING SURGERY
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+Patient is intubated and sedated by the onset of the recording.  As the recording opens the
+background demonstrates discontinuity and a mixture of frequencies.  As the recording progresses
+and the temperature decreases, the background voltages gradually decrease and fast frequencies
+disappear.  At ~10 AM, monomorphic artifact affecting all of the right hemispheric leads appears.
+It is related to the cooling device used.  It resolves by ~ 10:36 AM, after the cooling device is
+repositioned.  Additionally, there is F8 lead artifact.  The background gradually becomes
+suppressed with only rare bursts of brief slow attenuated delta activity captured.  EEG is not
+declared isoelectric at any time during the recording, since no inquires are made by either
+anesthesia or the surgeon.  Burst of activity reappear at ~11:44 AM.  By the end of the recording, the
+background is nearly continuous and symmetrical, consisting of a mixture of frequencies (primarily
+Summary of Findings:
+No electrographic seizures
+Other, symmetrical
+Interpretation:
+This is an unremarkable 3 hour 44 minute continuous intraoperative EEG monitoring with ~3 hours
+of direct remote supervision by the attending. EEG is not declared isoelectric at any time during the
+recording, since no inquires are made by either anesthesia or the surgeon.  The background is
+symmetrical when the recording ends.
+
+
+
+
+

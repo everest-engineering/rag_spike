@@ -1,0 +1,38 @@
+AGE: 43 y.o.
+SEX: male
+DATE OF STUDY: 10/12/2015 RECORDING ENVIRONMENT : Outpatient
+EEG TYPE: 40-60 min, Awake and asleep EEG #: 15-1505
+HISTORY:
+43 y.o. male with a history of hepatitis B and reported grand mal seizures referred for routine EEG for evaluation.
+MEDICATIONS:
+Current Outpatient Prescriptions :
+divalproex (DEPAKOTE) 500 mg EC tablet , Take 1 tablet by mouth 2 times daily.
+omeprazole (PRILOSEC) 20 mg capsule, Take 1 capsule by mouth daily.
+naproxen (NAPROSYN) 500 mg tablet , Take 1 tablet by mouth 2 times daily as needed (back pain) .
+divalproex (DEPAKOTE) 500 mg EC tablet, 1 tablet in am and 2 tablets in pm
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive low voltage fast frequency posterior dominant rhythm (PDR), which attenuates during drowsiness.
+During drowsiness diffuse background slowing is seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 48 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal Awake and asleep one-hour routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal Awake and asleep one-hour routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+

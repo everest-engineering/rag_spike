@@ -1,0 +1,32 @@
+History:	52 year old woman who presents with cerebritis and recurrent seizures.
+Medications:	Phenobarbital, dilantin, Versed
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  24 hours from 4/23/2014 till 4/24/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists of burst-suppression pattern with burst-to-
+suppression ratio of ~ 1:1 (mostly) up to 1:3 (seen by the end of the recording).  Bursts contain
+mixture of frequencies.  No normal sleep architecture is present.
+No seizures are noted.
+Summary of Findings:
+No electrographic seizures
+Burst-suppression pattern, mild
+Interpretation:
+This is an ABNORMAL 24 hour continuous video EEG because of mild degree of burst-suppression
+pattern.  This finding is indicative of severe diffuse cerebral dysfunction that in this case at least
+partially related to the medication effect (versed drip).  No electrographic seizures are present
+during this 24 hour recording epoch.  These findings were conveyed to the primary team.
+
+
+
+
+
+
+

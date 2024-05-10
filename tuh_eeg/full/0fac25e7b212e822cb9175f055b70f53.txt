@@ -1,0 +1,32 @@
+History:	64 year old woman with a history of seizures.
+Medications:	Phenobarbital, Keppra
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 10 Hz alpha activity that
+attenuates with eyes opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.
+Continuous polymorphic theta and delta activity is present over the left hemisphere, most notably
+over the temporal and occipital regions.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal left
+hemispheric slowing and produces mild diffuse symmetric background slowing.  Stepped photic
+stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash
+rates.  Occasional 50-75uV, 100 msec positive sharp transients occur bilaterally over the occipital
+regions of the head during saccadic eye movements with the eyes open.
+Summary of Findings:
+Beta, excessive
+Focal slowing, polymorphic, continuous, moderate, left hemispheric, especially over the temporal
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 41-minute EEG due to continuous moderate left
+hemispheric slowing that is especially pronounced over the temporal and occipital regions. This
+finding is indicative of a focal structural lesion in this region.  Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

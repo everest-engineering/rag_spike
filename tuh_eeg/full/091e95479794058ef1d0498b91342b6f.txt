@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 56-year-old woman who was originally admitted with abdominal distention and mental status change, subsequently found to have small bowel obstruction, requiring surgery.  Status post surgery the patient aspirated and was intubated on 10/05/2012.  The patient is currently comatose with frequent eye twitching.  Past medical history is significant for hypertension, dementia, schizophrenia, and seizure disorder.
+MEDICATIONS:  None listed.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of frequent isolated bursts of high amplitude generalized spike and wave discharges followed by 3 to 5 seconds of burst suppression.  The longest burst of activity lasts approximately 6.5 seconds.  During longer bursts, there is predominantly bifrontal EMG artifact and rhythmic 2 to 3 Hz diffuse sharply contoured activity.  Review of the video demonstrates that brief bursts of activity as well as longer bursts of activity accompanied by eye flutter as well as rapid low amplitude head shaking.  These bursts are not time locked with ventilator artifact.  Hyperventilation and photic stimulation are not performed.
+FINDINGS:
+Burst suppression with suppression lasting 3 to 5 seconds.
+Generalized frontally predominant spike and wave discharges that are intermittently accompanied by 3 to 6 second bursts of frontally predominant EMG artifact and diffuse 2 Hz bursts of activity.  No clear electrographic seizures are captured.
+IMPRESSION:  This is a very abnormal 22-minute EEG due to frequent bursts of generalized spike and wave discharges, periods of 2 to 5 seconds of background suppression, and intermittent up to 6-second bursts of rhythmic activity that on the video correlates with eye fluttering and head rocking.  These findings indicate severe diffuse cerebral dysfunction, significant cortical irritability, and increased risk of seizures.  No clear electrographic seizures are captured.  These findings were discussed with the Neurology consult team at the time of the recording.
+
+
+

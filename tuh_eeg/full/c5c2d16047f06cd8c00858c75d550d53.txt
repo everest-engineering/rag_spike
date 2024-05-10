@@ -1,0 +1,33 @@
+:
+History:	37 YEAR OLD MALE EVALUATED FOR SEIZURES WITH A HX OF MULTIPLE
+EMBOLIC STROKES, LEFT VENTRICULAR APICAL THROMBUS, CONGESTIVE
+HEART FAILURE, DIABETES, TYPE 2, HTN
+Medications:	ZOCOR, GLUCOPHAGE, LISINOPRIL, APRESOLINE, WARFARIN, COREG,IMDUR,
+LASIX
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by low voltage 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Occasional polymorphic theta and delta activity is noted over the left temporal region.  No
+epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left temporal region.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  Rare abnormal QRS complexes are noted.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, left temporal
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an abnormal awake and drowsy 23-minute EEG due to occasional mild left temporal
+slowing. This finding is indicative of focal cerebral dysfunction, possibly structural in etiology.  No
+epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.  Rare abnormal QRS
+
+
+
+

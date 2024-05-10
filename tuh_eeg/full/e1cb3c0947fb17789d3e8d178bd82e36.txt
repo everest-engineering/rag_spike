@@ -1,0 +1,26 @@
+History:	89 yo woman with new onset seizure 9/23/14. PMH: CVA, Rheumatoid arthritis.
+Medications:	Keppra, Tylenol #3
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Excess diffuse 5-15uV, 18-25Hz beta activity is present, maximal
+over bilateral fronto-central regions.  During brief drowsiness, the alpha rhythm attenuates, beta
+activity becomes more prominent, and symmetric vertex waves appear.
+In wakefulness and drowsiness there is very minimal rare left temporal focal slowing.  No
+epileptiform discharges are present.
+Hyperventilation was not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+produces a minimal photic driving response.  HR 72 and irregular.
+Summary of Findings:
+Focal slowing, rhythmic, occasional, left temporal
+Interpretation:
+This is a very mildly ABNORMAL awake and drowsy EEG for an adult of this age because of subtle
+rare left temporal focal slowing. Focal features are not uncommon in an adult of this age, and can
+be seen in cerebrovascular disease, consistent with history of prior stroke.  No epileptiform
+discharges are present. 
+
+
+
+

@@ -1,0 +1,38 @@
+History:	73 year old man with a known seizure disorder and right frontal tumor status post
+craniectomy, now presents after a generalized convulsion, found to have focal
+seizures on a routine EEG on 4/24/2015.
+Medications:	Phenobarbital, Tegretol, Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~17 hours from 4/24/2015 till 4/25/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+The awake background consists of moderate amplitude 9.5-10 Hz alpha activity that attenuates with
+eye opening.  The AP gradient is weak.  During sleep, EMG artifact disappears and is replaced by
+a mixture of polymorphic theta and delta activity.
+Continuous polymorphic delta activity is present in the bilateral anterior regions during wakefulness,
+increasing during drowsiness.  Additionally, continuous underriding fast activity is seen over the
+bilateral anterior regions.  Intermittent independent bilateral (left>right) prefrontal sharp waves are
+present.  Maximal scalp negativity occurs over the Fp1 and Fp2 leads
+Summary of Findings:
+Breach artifact, bilateral anterior
+No electrographic seizures
+Focal slowing, polymorphic, continuous, moderate, bilateral anterior
+Sharp waves, intermittent, bilateral (L>R) anterior
+Interpretation:
+This is an ABNORMAL 17-hour continuous video EEG due to continuous bilateral anterior
+moderate focal slowing, and intermittent independent bilateral, left>right, anterior pre-frontal
+epileptiform discharges.  These findings indicate potentially epileptogenic structural lesions over
+the bilateral anterior regions.  Breach artifact is secondary to the skull defect.
+
+
+
+
+

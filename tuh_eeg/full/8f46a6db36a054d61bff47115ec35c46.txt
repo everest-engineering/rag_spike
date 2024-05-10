@@ -1,0 +1,25 @@
+MEDICINES:  Keppra, Trileptal, phenobarbital.
+HISTORY:  A 62-year-old male, status post large right MCA infarct in the past, complex vascular history with LV thrombus, now with no change in motor exam, but inability to speak.
+INTRODUCTION:  24-hour continuous video EEG monitoring with seizure and spike detection was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  The section captures wakefulness through stage 2 sleep.  No clinical seizures were noted.
+DESCRIPTION OF THE RECORD:
+May 30-31: The background EEG in wakefulness is abnormal and includes in wakefulness, markedly slow and suppressed pattern on the right with occasional sharp waves, which may be maximum at T6 or O2.  The activity on the left is also slow, at best with a theta frequency pattern.  Sleep was characterized by dropout of muscle with more of a pattern of rhythmic background slowing and in the transition to sleep, there are occasional bursts of sharply contoured slowing or sharp waves noted at T3 in addition to those identified in the right occipital or posterior region.
+Epileptiform detections:  Right posterior temporal or occipital sharp waves, rare or infrequent T3 sharp waves noted primarily in sleep.
+Electrographic seizures:  None.
+Rhythmic patterns:  Occasional rhythmic theta was noted from left hemisphere without clinical correlate.  Stimulation of the patient seemed to eliminate this and in fact, more of a beta pattern was noted with stimulation.
+May 31-June 1, 2015
+Background EEG:
+Over the course of this period, the left hemisphere remains moderately slow, but the right hemisphere is not as suppressed as the initial sections. The patient was taken off the EEG monitor around 2:00 p.m. As the recording continues, the awake pattern is essentially unchanged with a theta pattern on the left and a markedly slow pattern on the right.  Later on, the patient is more consistently awake.  Sleep was characterized by dropout of muscle with more of a pattern of rhythmic background slowing
+Epileptiform detections:  Right posterior temporal or occipital sharp waves, rare or infrequent T3 sharp waves noted primarily in sleep.
+Electrographic seizures:  None.
+EKG lead:  N/A.
+IMPRESSION:  This is a challenging two day-continuous video EEG monitoring session.  It is remarkable for:
+Marked background slowing from the right, more prominent initially, better at the end of the recording when the patient is more interactive.
+A slow pattern from the left with excess theta.
+Sharp waves, including right occipital and left mid temporal.
+At times, an awake and communicating individual in the context of a markedly slow EEG.
+CLINICAL CORRELATION:  The focal slowing and sharp waves on the right are in the region of this patient's previous stroke.  The slowing from the left may represent a chronic CNS process, a toxic or metabolic process or a new disturbance in the left hemisphere.  Correlation with exam and imaging is suggested.
+
+
+
+
+

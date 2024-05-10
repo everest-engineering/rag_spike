@@ -1,0 +1,22 @@
+CLINICAL HISTORY: 42 year old left handed male with a history of cervical fracture in 2008, surgery in 2009 followed by multiple nocturnal seizures. Immobilized right arm.
+The patient describes the seizures as left-sided shaking and tongue biting.
+MEDICATIONS: Tegretol, Metoprolol, Vicodin, Xanax, Ambien
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel EKG. Hyperventilation and photic
+stimulation are performed. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz, 30 microvolt
+posterior dominant rhythm, a small amount of low voltage, frontocentral beta activity,
+and a small amount of frontal theta. The frontal theta is overall symmetric but with a
+slight asymmetry. Hyperventilation produces an increase in amplitude of the
+background. Photic stimulation elicits scant driving.
+IMPRESSION: Very mildly abnormal EEG due to:
+1. A small amount of excess theta in the frontal regions, left greater than right.
+HR: 96 bpm
+CLINICAL CORRELATION: The theta described is nonspecific in this context and
+could be due to this patient's medications in that it is slightly asymmetric. Correlation
+with imaging is suggested.
+
+
+

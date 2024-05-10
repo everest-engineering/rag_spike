@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  78 year old male with cirrhosis, left parotid mass, colon cancer, found with an episode of loss of consciousness and 15 minutes of shaking.
+MEDICATIONS:  Tramadol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In background includes an alpha rhythm which ranges from 7.8 to 9 Hz.  There is an amplitude asymmetry with higher amplitude activity in the left occipital region on the right.  In addition, there is occasional 4-5 Hz activity noted in the left occipital region. Features of drowsiness include anterior spread of the alpha rhythm.  Deeper stages of sleep are not sustained.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+A small degree of background disorganization.
+An asymmetry with higher amplitude alpha on the left.
+Some subtle focal slowing on the left posterior quadrant.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Correlation with imaging and clinical history may be important with the focal features described above.
+
+
+

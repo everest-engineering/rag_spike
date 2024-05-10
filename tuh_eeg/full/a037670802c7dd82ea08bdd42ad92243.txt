@@ -1,0 +1,14 @@
+CLINICAL HISTORY:
+MEDICATIONS:  Isoflurane.
+INTRODUCTION:  Digital EEG monitoring is performed in OR using standard 10-20 system of electrode placement with 1 channel EKG.  The recording begins at 8:30 and concludes at      .
+DESCRIPTION OF THE RECORD:  The EEG recording begins after the induction with anesthesia.  There is a pattern rich in beta frequency activity. A subtle asymmetry is noted through the EEG with slight attenuation of faster frequency activity from the right hemisphere and a small amount of underlying slowing in the right hemisphere, particularly posterior temporal region.
+The carotid is clamped at 11:06.  No additional changes are noted in the EEG.
+A graft is placed at 11:35.
+Patency is confirmed by Doppler at 12:05.  The patient's anesthesia appears to remain stable at that time.  The graft is placed at 12:01.
+The carotid was unclamped at 12:08.  A drain is placed at 12:22 and the surgeon begins to close.
+EEG during this time demonstrates a stable asymmetry, not significantly different with manipulation of the carotid or placement of the graft.  The EEG concludes at 1:14 as the patient is emerging from anesthesia and in fact an awake pattern is noted in the last seconds of the EEG with a slightly sedated alpha theta background which is symmetric.
+HR:    84 bpm
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this right carotid endarterectomy was remarkable for focal features following induction of anesthesia, which remains stable throughout the procedure.  This was EEG was from 8:30 to 1:14, approximately a 5 hour EEG.
+
+
+

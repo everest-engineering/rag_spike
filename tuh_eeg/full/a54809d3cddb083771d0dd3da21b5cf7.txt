@@ -1,0 +1,30 @@
+History:	39 year old man who a history of ICH and craniotomy, now has facial twitching.
+Medications:	Keppra, Oxycodone, morphine
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, drowsy, lethargic
+Description:
+Patient moves throughout nearly the entirety of the recording.  Voltages are diffusely very low.
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left consists of low amplitude 8-8.5 Hz activity posteriorly with the expected AP
+gradient and mild excess of polymorphic theta activity.  The posterior dominant rhythm over the
+right is not as well formed as over the left.  PDR on the right reaches 8 Hz theta activity.
+Additionally, there is no AP gradient over the right and continuous polymorphic slow delta activity
+is noted over the  right anterior quadrant.  Patient very briefly comes drowsy by the end of the
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, right anterior, moderate-to-severe
+Focal slowing, polymorphic, right hemispheric
+Artifact, movement, frequent
+Interpretation:
+This is an abnormal awake and drowsy portable 24 minute EEG due to (1) mild diffuse slowing and
+(2) continuous focal right hemispheric slowing that is most pronounced over the right anterior
+quadrant. This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  There is focal structural cerebral abnormality over the right hemisphere, most notably
+
+
+
+
+

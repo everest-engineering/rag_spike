@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 66 year old gentleman had an MVA and was confused afterwards. He had a day of encephalopathy. MRI demonstrates ischemic white matter changes but no acute stroke. Variable blood pressure.
+MEDICATIONS: Aspirin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. There is no hyperventilation.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is mildly disorganized and slow. In addition, there are bursts of FIRDA. There are also a handful of bursts of sharply contoured delta from the right temporal region. Photic stimulation elicits minimal driving response.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Mild background slowing and disorganization.
+2. Superimposed focal slowing from the right temporal region.
+CLINICAL CORRELATION: The background slowing and disorganization is a nonspecific finding. The sharply contoured stowing on the right raises the possibility of a localization-related mechanism for possible complex partial seizures. If this is thought to be a transient encephalopathy, a followup study can be obtained.
+
+
+

@@ -1,0 +1,17 @@
+History:	53 YR FEMALE WITH WITNESS SZ.  PT STOPPED DILANTIN 3-4 DYS AGO. TREATED FOR TB HEPATITIS, SZS, ESOPHAGEAL VARICES
+Medications:	Lorazepam, Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  No normal sleep architecture was present. Intermittent polymorphic delta activity is present in the left parieto central region.  Frequent sharp waves are present at P3/C3 at times they appeared to be periodic at 1Hz. At times they also appear in runs of alpha frequency discharges that do not clearly evolve.  No clinical or electrographic seizures.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.  HR is 72
+Summary of Findings:
+Sharp waves, frequent, left parietal
+Focal slowing, polymorphic, intermittent, left other
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  left parieto central sharps with some periodicity, these findings are indicative of an acute irritable epileptogenic focus in this region. In addition there is diffuse background slowing and absent alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  This patient will go on to 24 hr LTM EEG.
+
+
+

@@ -1,0 +1,37 @@
+History:	42 YR FEMALE WITH NEW ONSET SZ. LEFT SIDE TWITCHING FACIAL.
+SOMETIMES UE. PT STARES DURING SEIZURE. POST PT RESPONDS TO
+QUESTION.  PMHX:  DEPRESSION, ANXIETY,  CHIARI MALFORMATION
+DECOMPRESSION. 2003 SURGERY. MI.
+Medications:	DEPAKOTE,  VENLAFAXINE, LORATADINE, ASA, LOVENOX
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 01/08/2014 to 01/09/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+The waking background has improved and is mainly characterized by a 25-40 uV, 10 Hz posterior
+dominant rhythm, which attenuate symmetrically with eye opening.  During drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+Almost continuous F8/T4 focal slowing is present.  Frequent sharp waves are present in the F8/T4
+region.  No seizures were noted.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Sharp waves
+Interpretation:
+This is an ABNORMAL EEG because of  frequent right anterior temporal sharp waves which are
+indicative of a highly potentially epileptogenic acute focal destructive lesion in that region. Lastly
+there has been improvement in the background slowing.  These findings are etiologically
+nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+

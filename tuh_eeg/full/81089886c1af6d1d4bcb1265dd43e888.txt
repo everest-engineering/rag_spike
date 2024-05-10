@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 46-year-old right-handed woman with migraine headaches of increasing severity over the past 3 months.  Patient also experienced 2 memory lapses.
+MEDICATIONS:  None reported.
+INTRODUCTION:  A 20-minute digital EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and briefly drowsy record.  It is technically satisfactory.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 11.5 Hz alpha rhythm of 30 microvolts.  Drowsiness is characterized by rhythmic background theta with POSTS.  Sleep was not sustained.  Hyperventilation did not significantly activate the record.  Photic stimulation elicited a vigorous driving response.  A prominent driving response was noted at 3 hertz, but there were no pathological features noted.
+Heart rate 60 bpm.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were seen.  Normal EEG, does not exclude a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,36 @@
+History:	54 year old woman who presents status post cardiac arrest.
+Medications:	Versed- off, keppra, Dilantin, Phenobarbital
+Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 4/23/2015 till 4/24/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is is no PDR or AP gradient.  There are clear periods of arousals and quiescence.  During
+periods of arousals the background becomes continuous, increases in amplitude, prominent
+polymorphic theta activity and triphasic-like waveforms appear.  Periods of quiescence are
+characterized by background discontinuity and bursts consisting primarily of alpha/ beta activity.
+No electrographic seizures are captured.  Intermittent left P3/O1 sharp waves and bisynchronous
+parietooccipital sharp waves are captured during periods of arousals.
+Summary of Findings:
+Triphasic waves
+Sharp waves, parietooccipital
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL continuous video 24-hour EEG due to moderate diffuse background slowing
+and  parietooccipital epileptiform discharges.  Diffuse slowing indicates diffuse cerebral dysfunction
+that in this case at least partially related to the medication effect.  Degree of diffuse slowing
+continues to lessen.  There is focal epileptogenic focus over the bilateral parietocentral regions.
+There is clear robust background reactivity.  These findings were conveyed to the primary team.
+
+
+
+
+

@@ -1,0 +1,27 @@
+History:	55 YO FEMALE REPORTS HAVING SEVERE HEADACHES AND DIZZINESS
+STARTING TWO WEEKS AGO WITH NAUSEA, PT SAYS CURRENTLY "NOT AS
+BAD AS WHEN IT STARTED".
+Medications:	Oxycodone, Tylenol
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+54.  Please note that the right eye movement artifact amplitude is decreased when compared to
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. diffuse background slowing and absent alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.  There is an asymmetric eye movement artifact (less movement on the right), this is
+suggestive of structural eye abnormality.
+

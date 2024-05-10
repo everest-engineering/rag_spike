@@ -1,0 +1,19 @@
+HISTORY:
+A 25-year-old right-handed with epilepsy since age 15, seizure-free to the last seven months, one to two seizures per year Typical seizures began With loss of consciousness, no aura, and then confusion
+MEDICATIONS:
+Trileptal and zonisamide.
+INTRODUCTION:
+Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one-channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF RECORD:
+In wakefulness, there is an alpha rhythm of 8 3 Hz. There is a small amount of background theta. There were bursts of paroxysmal slowing with an underlying T2 sharp wave. This may be nearly isoelectric between T2-T4 and ranges from a subtle discharge to a more well-defined sharp and slow-wave complexes, typically identified 1n relaxed wakefulness. Hyperventilation produces small amounts of theta. Photic stimulation elicits synchronous bilateral driving. Heart rate 90
+BPM.
+IMPRESSION:
+Abnormal EEG due to:
+1. Right temporal sharp wave.
+2. Mild background slowing characterized by excess theta.
+3. Mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:
+The sharp wave suggests a focal mechanism for epilepsy. The background theta is a nonspecific finding, which could be due to this patient's medications or underlying CNS pathology.
+
+
+

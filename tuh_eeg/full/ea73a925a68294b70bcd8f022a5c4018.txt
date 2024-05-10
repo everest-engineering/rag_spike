@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 21-year-old woman with ADD, evaluate for seizure versus syncope, difficulty concentrating, and forgetfulness.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This EEG captures abundant wakefulness through stage II sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm with low voltage, frontocentral beta.  Abundant stage II sleep includes vertex waves, K complexes, spindles, and POSTs.  The patient seems to be a bit drowsy and transitions in and out of sleep easily.  Hyperventilation produces a small increase in amplitude.  Photic stimulation elicited vigorous driving.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were seen.  A normal EEG does not exclude a diagnosis of epilepsy and is a typical pattern of attention deficit disorder.  This patient rapidly transitions into sleep, which may be related to the clinical questions or simply to sleep deprivation.
+
+
+

@@ -1,0 +1,31 @@
+History:	78 year old man who presents with recurrent staring episodes, wondering episodes,
+unexplained cuts and bruises.
+
+Of note, patient is currently ill and generally weak.
+Medications:	Depakote, Celexa
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, photic
+Description:
+Unstable 7-8 Hz theta activity is captured posteriorly.  AP gradient is weak.  The background consists
+primarily of polymorphic theta activity.  During brief drowsiness,  degree of theta activity increases
+and EMG artifact vanishes.
+No focal slowing is present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  A single EKG lead demonstrates frequent premature QRS complexes
+that are followed by up to 1.5 second pauses.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Other, premature QRS complexes and resultant up to 1.5 sec pauses
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy 25 minute EEG due to mild-to-moderate diffuse
+slowing and disorganization. These findings are etiologically nonspecific indicators of mild-to-
+moderate diffuse cerebral dysfunction.  A single EKG lead demonstrates frequent premature QRS
+complexes that are followed by up to 1.5 second pauses.
+
+
+
+
+
+
+

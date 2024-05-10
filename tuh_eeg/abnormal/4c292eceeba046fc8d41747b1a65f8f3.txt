@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  50 year old woman admitted on the 15th after cardiac arrest, coded for 45 minutes at home and then 30 minutes in the emergency room.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The integrity of the system is reviewed and the EEG can be reviewed in the ECS montage.
+DESCRIPTION OF THE RECORD:  No electrocerebral activity was identified.  Stimulation of the patient did not produce a change in the EEG.  There was no reactivity or variability.
+HR:    120 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Absence of cerebral activity.
+CLINICAL CORRELATION:  This EEG does not meet criteria for declaration of brain death, as the duration of the study does not meet the requirement for 30 minutes.  Despite this, there was no brain activity identified.
+
+
+

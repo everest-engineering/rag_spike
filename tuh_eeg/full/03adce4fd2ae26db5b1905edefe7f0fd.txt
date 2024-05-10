@@ -1,0 +1,37 @@
+History:	58 year old man who has a history of seizures, now with fluctuating mental status/
+neurological exam.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~22 hours from 4/26/2015 till 4/27/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+Early in the recording, there is no clear PDR or AP gradient and the  background activity is
+characterized by a mixture of polymorphic diffuse theta and delta activity.  As the recording
+progresses, weak 7-8 Hz polymorphic theta activity appears posteriorly and degree of polymorphic
+delta activity lessens.  Sleep is characterized by diffuse polymorphic theta activity, brief periods of
+discontinuity and occasional left sided sleep-spindle-like waveforms.
+There is paucity of faster frequencies over the right, especially right temporal region.  No clinical or
+electrographic seizures were present.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+No electrographic seizures
+Focal slowing, polymorphic, continuous, right hemispheric, especially over the temporal region
+Interpretation:
+This is an ABNORMAL ~22-hour continuous video  EEG due to mild-to-moderate diffuse slowing
+and continuous focal right hemispheric slowing that is most pronounced over the temporal region.
+Diffuse slowing is etiologically nonspecific indicator of mild-to-moderate diffuse cerebral
+dysfunction.  Degree of slowing lessens as the recording progresses.  Continuous focal slowing is
+indicative of a focal structural lesion in this region.  No clinical or electrographic seizures were
+present
+
+
+
+

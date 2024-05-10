@@ -1,0 +1,24 @@
+CLINICAL HISTORY:  This is a 53-year-old male with new onset seizures in March, 2015 found to have a glioblastoma multiforme, status post craniotomy Wednesday, April 15th with a postoperative aphasia: repetitive words.
+MEDICATIONS:  Keppra, Decadron, and oxycodone.
+INTRODUCTION:  48 hour Continuous video EEG monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  In the initial days of the EEG monitoring, the patient is a bit more lethargic with more word finding difficulty and as recording continues, he is a bit more active moving about. Seizure and spike detection software was used
+DESCRIPTION OF THE RECORD:
+April 17th to April 18th:  As the recording begins, the patient is quite drowsy.  The overall background is slow with prominent arrhythmic delta activity noted from the left hemisphere, and prominent disruption of faster frequency activity on the left.  Intermittent paroxysmal theta and delta is noted from the left hemisphere, maximum at T1 with sharp waves mixed in.  Although, there are no well-defined classic ictal discharges characteristic of seizures, between 2 and 4 p.m., there are more prominent bursts of epileptiform activity.  Lacosamide was initiated.  Additional rhythmic bursts were noted at 5:53 with some triangular-shaped waves in the frontal regions.  By 10:00 p.m., the patient is more consistently intermittently awake, alert, moving about.  He is briefly unplugged from the EEG machine and then re-plugged with some problematic artifacts including artifact at Fp1-F7, which may account for the earlier triangular-shaped waves.
+Epileptiform detections: Sharp waves: T1/T3 in the context of a breech rhythm.
+Clinical seizures:  None.
+Paroxysmal discharges:  Sharply contoured rhythmic theta delta from the left temporal region, abating by the end of the 1st day of recording.
+April 18th to April 19:  Background:  The background remains abnormal with prominent arrhythmic delta activity from the left hemisphere.  Intermittently when the patient is awake, there is eye movement, eye closure, and a more of a theta frequency background noted more prominently from the right.  Intermittent bursts of generalized background slowing were noted.  By the morning of the April 19th, a posterior dominant rhythm is starting to emerge right more so than left with a typical frequency of 6 Hz.
+Epileptiform Detections:  T1/T3 sharp waves noted in the context of a breech rhythm.
+Electrographic seizures:  No clinical seizures.
+The previously described paroxysmal bursts of rhythmic slowing from the left hemisphere are abating.
+Heart Rate:  72 beats per minute.
+IMPRESSION:  Abnormal EEG due:
+Generalized background slowing.
+Superimposed continuous focal slowing from the left hemisphere.
+Intermittent paroxysmal rhythmic delta from the left.
+Left mid temporal sharp waves in the context of a breach rhythm.
+CLINICAL CORRELATION:  No seizures were identified. The overall background improved, congruent with the patient’s clinical improvement
+_
+
+
+
+

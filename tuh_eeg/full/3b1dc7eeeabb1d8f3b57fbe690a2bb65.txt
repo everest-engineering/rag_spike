@@ -1,0 +1,45 @@
+History:	24 year old man with a history of seizures.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  The
+background over the left consists of 10.5-11 Hz moderate amplitude well formed and modulated
+alpha activity, weak AP gradient and continuous anterior polymorphic theta and delta activity.  The
+background over the right consists of polymorphic unstable 9-10 Hz alpha posteriorly, no AP
+gradient, theta and delta activity and somewhat rhythmic/ monomorphic sharply contoured 4 Hz
+prominent moderate amplitude delta activity.  This delta activity does not clearly evolve.  During
+drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.  Poorly formed
+Frequent moderate -to-high amplitude broad irregular frontally predominant generalized spikes
+with aftergoing slow waves are captured.  They tend to be higher in amplitude over right.  Their
+frequency increases during sleep.  Additionally, during sleep, spike and wave discharge
+occasionally appear in 1-3 seconds bursts at a repletion rate of 2-3 Hz.  Independent, right anterior -
+frontocentral moderate amplitude sharp waves with aftergoing slow waves are seen (Fp2, F4, C4
+maximally).  They too increase in frequency during sleep.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, left anterior
+Focal slowing, polymorphic, continuous, moderate, right hemispheric, especially anteriorly
+Sharp waves, frequent, right anterior, (Fp2, F4, C4 maximally)
+Spike-and-wave complexes, frequent generalized, 2-3 Hz, increase during sleep
+No electrographic seizures
+Interpretation:
+This is a very abnormal awake and briefly asleep 23-minute EEG due to (1) mild diffuse slowing; (2)
+continuous left anterior moderate focal slowing; (3) continuous right hemispheric focal slowing that
+is most pronounced anteriorly; (4) independent right anterior-frontocentral epileptiform discharges
+and (5) generalized, up to 2-3 Hz, epileptiform discharges that are higher in the amplitude over the
+right.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Continuous focal slowing is indicative of a focal cerebral dysfunction, in this case
+bifrontal (right >>>left) and right hemispheric dysfunction, that is likely structural in etiology.  There
+is an epileptogenic focus over the right anterior quadrant.  Generalized epileptiform discharges are
+suggestive of a diagnosis of primary generalized epilepsy but given clearly focal bilateral anterior
+slowing, secondary bisynchrony cannot be excluded.
+sleep spindles are seen over the left.
+
+
+
+
+

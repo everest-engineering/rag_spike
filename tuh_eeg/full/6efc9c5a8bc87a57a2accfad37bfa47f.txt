@@ -1,0 +1,37 @@
+AGE: 23 y.o.
+SEX: male
+DATE OF STUDY: 12/31/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and asleep EEG #: 15-1892
+HISTORY:
+23 y.o. male with a history of teenage onset epilepsy with tonic-clonic, absent and myoclonic seizures referred for routine EEG for characterization of seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+carbamazepine (TEGRETOL) 200 mg tablet,Divalproex	(DEPAKOTE ER) 500 mg 24 hr tablet, Take 1 tablet by mouth every 12 hours. KETOCONAZOLE (NIZORAL) 2 % shampoo, Apply to scalp, leave 5 mins rinse 2x/week
+mometasone (ELOCON) 0.1 % lotion, Apply to scalp daily
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta · activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 8.7 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+Noted only during - hyperventilation, see below
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Elicits a 2 second bursts of frontally predominant 3-6 Hz spike and wave activity.	The overall bursts is symmetric but the very first spike is more prominent in the left frontal electrodes.	It was not possible to demonstrate alteration in awareness during this brief burst
+Photic Stimulation: Elicited scant driving EVENTS:
+There are no clinical or electrographic events captured during
+this study.
+HEART RATE:
+A heart rate of 72bpm is captured on a single EKG lead.
+IMPRESSION: Abnormal due to
+#1 brief burst of generalized, frontally predominant spike and wave activity
+CLINICAL CORRELATION:
+This record demonstrates findings to previously described studies with frontally predominant spike and wave activity.	This EEG supports the diagnosis of epilepsy.	Given the history and EEG findings an inherited mechanism for epilepsy may be considered
+
+
+
+

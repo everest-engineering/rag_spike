@@ -1,0 +1,34 @@
+AGE: 65 y.o.
+SEX: male
+DATE OF STUDY: 11/17/2015 RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1683
+HISTORY:
+65 ·y.o. male with a recent admission to neurology for right hemiplegia and expressive aphasia referred for routine EEG for evaluation of focal symptoms.
+MEDICATIONS: Keppra
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 10.5-11 Hertz posterior dominant rhythm (PDR) . The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen. Sleep is not captured
+No generalized slowing is present.
+There is frequent left fronto-temporal polymorphic slowing, at times sharply contoured.
+There is independent occasional right fronto-temporal polymorphic slowing, at times sharply contoured.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+An irregular heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and drowsy routine EEG due to:
+Frequent left fronto-temporal polymorphic slowing, at times sharply contoured .
+Independent occasional right fronto-temporal polymorphic slowing, at times sharply contoured
+CLINICAL CORRELATION:
+These findings indicate the presence of left > right fronto-temporal cerebral dysfunction.
+
+
+

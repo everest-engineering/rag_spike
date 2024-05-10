@@ -1,0 +1,27 @@
+History:	45 year old woman with a history of seizures.
+Medications:	DILANTIN, KEPPRA
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+The background consists of polymorphic low amplitude 8-9 Hz activity posteriorly, poor AP gradient
+and excess polymorphic theta activity.  The background improves during sleep: symmetrical sleep
+spindles and vertex waves are captured.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  A single
+EKG lead demonstrates heart rate of ~ 49 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Disorganization, mild
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 28-minute EEG due to mild diffuse slowing and
+disorganization. These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  A single EKG lead demonstrates heart rate of ~ 49 bpm.
+
+
+
+
+

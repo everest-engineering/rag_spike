@@ -1,0 +1,31 @@
+History:	63 year old female with a history of right ICH and left MCA stroke.
+Medications:	Keppra, Ativan PRN, Trazodone, Furosemide, Metoprolol, Prilosec, Lisinopril,
+Remeron, Simvastatin, Zoloft, ASA
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+There is right to left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 9 Hz moderate amplitude PDR with weak anterior-to-posterior
+frequency-amplitude gradient and nearly continuous polymorphic theta and delta activity over the
+anterior quadrant.  There is no anterior-to-posterior frequency-amplitude gradient or PDR over the
+left.  The background over the left consists of a mixture of polymorphic theta and delta activity.
+Patient remains awake throughout the study.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  Heart rate of 56 bpm is noted on a single
+Summary of Findings:
+No stage 2 sleep
+No epileptiform discharges
+Focal slowing, polymorphic, nearly continuous, right anterior, mild-to-moderate
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Interpretation:
+This is an ABNORMAL awake-only 23-minute EEG due to continuous moderate left hemispheric
+slowing and focal right anterior slowing. These findings indicate focal cerebral dysfunction over the
+left hemisphere and right anterior region, respectively, likely structural in etiology, and are
+consistent with patient's history of prior strokes.  No epileptiform discharges are present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+
+
+
+

@@ -1,0 +1,17 @@
+History:		54 YO man with new onset seizures, first was 2 weeks ago, total of 4. Eyes roll up, generalized shaking, no tongue biting or incontinence,last a few minutes. There is postictal confusion. No aura. In 2004 a hatch fell on his head. Negative family history.
+Medications: Sedation: EEG Type: Technique:
+Gabapentin, Mirtazapine, Escitalopram, Lorazepam, Keppra None
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV,9Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness,the background slows to central theta activity,frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving. Hyperventilation is not performed. Heart rate of 60 bpm is captured.
+Summary of Findings:
+No focal slowing or epileptiform discharges
+interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep routine EEG. A normal routine EEG does not support or refute a diagnosis of epilepsy.
+
+
+
+

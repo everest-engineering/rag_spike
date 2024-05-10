@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This 39-year-old woman with seizures.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel.  X-ray was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This was an awake EEG without hyperventilation or photic stimulation.  Impedances were not checked.
+DESCRIPTION OF THE RECORD:  The background EEG includes 9 Hz alpha rhythm.  The overall background is relatively low voltage with generous frontocentral beta.  Rhythmic central theta and POSTS were noted in sleep.
+Heart rate 66 bpm.
+IMPRESSION:  This EEG in wakefulness and drowsiness is within normal limits.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in this record.  From a technical standpoint, impedances were not checked.  The technologist did note that CZ and FC impedances were high as the patient had difficulty tolerating electrode placement.  It is not clear that stimulation of the patient including eye opening, eye closure, and standard testing were performed.
+
+
+

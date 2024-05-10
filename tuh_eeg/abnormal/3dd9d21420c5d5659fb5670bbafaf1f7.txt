@@ -1,0 +1,10 @@
+CLINICAL HISTORY: A 68-year-old woman with syncope and a fall. The patient recalls having chest pain. Flushing and palpitations and then became amnestic.
+MEDICATIONS: Losartan.
+INTRODUCTION: Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake an asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz alpha rhythm with a small amount of low voltage, frontocentral beta. There 1s intermittent, temporal theta noted in relaxed wakefulness. Hyperventilation produced scant bilateral theta. This is followed by a drowsy pattern with attenuation of the alpha rhythm. Photic stimulation elicited brief bilateral driving.
+Heart rate 72 bpm.
+IMPRESSION: EEG within normal limits for an adult of this age.
+CLINICAL CORRELATION: No focal or epileptiform features were noted in this record. An adult of this age is permitted a small amount of temporal theta as described above.
+
+
+

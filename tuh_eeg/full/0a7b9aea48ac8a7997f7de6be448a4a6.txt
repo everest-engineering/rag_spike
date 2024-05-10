@@ -1,0 +1,19 @@
+HISTORY:
+This is a 79-year-old male with a remote history of alcohol use, started on seizure medicine in December of 2010 following a complex partial seizure, currently seizure-free.
+MEDICATIONS:
+Lisinopril, Keppra, Simvastatin, Avodart, and aspirin.
+INTRODUCTION:
+Digital video EEG is performed in the lab using a standard 10-20 system of electrode placement with one-channel EKG. Photic stimulation was completed.
+DESCRIPTION OF RECORD:
+In wakefulness, there is a 9 Hz alpha rhythm, which was symmetric and reactive to eye opening. There is a small amount of low voltage, frontocentral beta. Drowsiness is characterized by slowing of the alpha rhythm. In the lack of wakefulness and in the transition to drowsiness, there are intermittent, focal slowing in the left temporal region with isolated bursts of temporal theta and delta. Most bursts are 1 to 2 seconds in duration, but if is the patient becomes drowsy, some of them are 3 seconds in duration. Rare, medium amplitude sharp waves with after-going slow waves are observed.
+Photic stimulation elicits scant driving. During photic stimulation, there are occasional, better-defined sharp waves and during the 17 Hz stimulus, a spike and slow wave complex of 72 microvolts.
+Heart rate 60 bpm.
+IMPRESSION:
+Abnormal EEG due to:
+1. Intermittent, left temporal focal slowing.
+2. Variable left temporal sharp waves.
+CLINICAL CORRELATION:
+These findings are similar to previous studies and support a focal mechanism for epilepsy.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 67 year old right handed female with episodes of syncope with unresponsiveness followed by a brief amnestic period, past history of hypertension.
+
+MEDICATIONS: Norvasc, Diovan, ASA
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.3 Hz alpha rhythm with a small amount of low voltage frontocentral beta activity. There is a slight asymmetry with slightly lower amplitude activity on the right compared to the left. There is also scant excess theta for age. Hyperventilation produces a small increase in background slowing. Photic stimulation does not significantly activate the record; actually photic stimulation elicits trace driving.
+
+HR: 72 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Mild slowing of the alpha rhythm.
+CLINICAL CORRELATION: No epileptiform features were observed. If epilepsy is an important consideration, a repeat tracing capturing sleep may be obtained. Additional evaluation for the patient's background slowing may include a more comprehensive geriatric evaluation.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 62-year-old woman with left MCA stroke, epilepsy, multiple medical problems, including seizures in April.  Seizures characterized by shaking, tongue biting, incontinence of urine  with breakthrough seizures on the 10th characterized by eye flutter.  The patient has tonic-clonic seizures or complex partial seizures every 2 months and is typically agitated afterward.
+MEDICATIONS:  Keppra, metoprolol, warfarin.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is a routine, bedside record.  Hyperventilation and photic stimulation are not possible.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage, but there is a 9 Hz posterior dominant rhythm discernable.   Overall it is a low voltage pattern with diffuse background theta.  Drowsiness is characterized by slow rolling eye movements, and in drowsiness, there is a bit more slowing in the left hemisphere.
+Heart rate 54 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing in a low voltage pattern.
+Left focal slowing in drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  No previous EEGs were available today.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep may be considered.
+
+
+

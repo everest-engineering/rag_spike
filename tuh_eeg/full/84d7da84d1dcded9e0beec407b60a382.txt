@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  s/p code, for hypothermic protocol
+MEDICATIONS:  Norepinephrine, propofol, vancomycin, piperacillin, and others.
+INTRODUCTION:  Continuous video EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1-channel EKG.  The patient received hypothermia treatment during this section of the record.
+DESCRIPTION OF THE RECORD:  This is a technically somewhat challenging record initially with a lower voltage, slow pattern with generous muscle.  Over the course of the record, by 10 p.m., the EEG is low voltage and suppressed and then transitioned over time to a burst suppression pattern with brief bursts of theta frequency activity.  The bursts are 3-5 seconds in duration and periods of suppression, may be 20 seconds or longer.
+By 4 a.m., the hypothermia treatment had been discontinued and the patient was rewarmed.  The EEG continues to demonstrate a burst suppression pattern with asynchrony, at times more activity in one hemisphere than the other.  In addition, sharply contoured delta is emerging with maximum at T2 or independently at 71.
+The overall pattern remained markedly low voltage relatively suppressed and not reactive to tactile stimuli.
+Over the course of the 26, the patient's propofol drip was adjusted.  The patient continued to demonstrate a burst suppression pattern, although by 11 a.m., there are more sharp waves emerging from either hemisphere.  The epileptiform activity that emerges is quite blunted, but does occur in brief bursts.
+Heart rate 80 bpm.
+IMPRESSION:  This 24-hour video EEG monitoring session was remarkable for:
+Initially very suppressed pattern.
+A later pattern, which was a burst suppression pattern.
+With re-warming and reduction of medications, the pattern with more significant sharp waves, which was emerging.
+CLINICAL CORRELATION:  These findings are compatible with a severe anoxic encephalopathy, congruent with the clinical examination and imaging findings.
+
+
+

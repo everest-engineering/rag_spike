@@ -1,0 +1,30 @@
+History:	62 yr male with cc of dizziness lightheaded fall with localized seizures.  per team pt
+not waking up.  for eeg pt agitated uncooperative.  pt with heart issues, kidney,
+peripheral vas, ds
+Medications:	Dilantin, Lorazepam
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 12.5 hours from 01/09/2014 to 01/10/2014.
+Nursing-initiated event buttons were correlated with clinical behavior.  Graphical representation of
+the EEG was available at the bedside and over the hospital network for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 24-year-old male with new onset seizures one year ago after toxic ingestion.  The patient subsequently had 4 seizures after alcohol consumption on May 11 and a seizure May 12, a 15-20 minute tonic clonic seizure with postictal confusion.
+MEDICATIONS:  Depakote, buspirone, trazodone, Cymbalta, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+TECHNICAL:  There is some muscle artifact at T4, otherwise satisfactory.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz 40 mV alpha rhythm with a small amount of low voltage, frontal central beta.
+Hyperventilation was performed early in the record producing an increase in amplitude.  Drowsiness is characterized by slowing of the alpha rhythm with rhythmic central theta, multiple arousals in and out of wakefulness and drowsiness were noted.  Deeper stages of sleep were not achieved.
+Photic stimulation did not significantly activate the record.
+Heart rate:  90 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration a follow up study capturing deeper stages of sleep is suggested.
+
+
+

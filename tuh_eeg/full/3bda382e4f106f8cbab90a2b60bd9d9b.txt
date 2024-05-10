@@ -1,0 +1,25 @@
+History:	55 YR MALE WITH CC OF RIGHT SIDE WEAKNESS FOUND TO HAVE CVA.
+PMHX:  ETOH ABUSE AND SZS.  PRIOR EEG.  NEEDED TO USE LTM MACHINE
+Medications:	PROTONIX, ASA, HEPARIN,  LISINOPRIL, HYDRALAZINE PRN,
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR is
+Summary of Findings:
+No stage 2 sleep, Normal EEG
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.
+
+
+
+

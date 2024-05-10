@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  The patient is a 39-year-old woman with a history of episodes of dizziness without loss of consciousness or awareness during these episodes.
+MEDICATIONS:  Include insulin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consisted of a well-formed and modulated low to moderate amplitude 10 Hz alpha activity that attenuates with eyes opened.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.
+During sleep, symmetrical vertex waves, sleep spindles, and K complexes are captured.  Hyperventilation produces no changes in the background.  Photic stimulation results in symmetrical occipital driving at high frequency slash frequencies.  EKG demonstrates a regular heart rate.
+IMPRESSION:  No epileptiform discharges.
+IMPRESSION:  This is a normal awake and asleep 24-hour EEG.  The lack of epileptiform discharges on the routine EEG does not preclude clinical diagnosis of epilepsy.
+
+
+

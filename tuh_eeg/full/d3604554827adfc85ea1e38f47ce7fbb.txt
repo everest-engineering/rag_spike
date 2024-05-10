@@ -1,0 +1,23 @@
+History:	71 yr old male s/p CABG, now with right MCA stroke and change in mental status.
+Medications:	Heparin, Zosyn, Insulin, Folic Acid, Aspirin
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+During maximal arousal, the background consists of 10 Hz PDR, weak AP gradient and diffuse low
+amplitude theta activity.  PDR is unstable over the Right.  Patient is asleep throughout the majority
+of the recording. Sleep spindles are noted.  They are better visualized over the left.
+Attenuation of faster frequencies is observed over the right.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, right hemispheric
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an abnormal 22 minutes awake and mostly asleep EEG due to mild diffuse slowing that is
+more pronounced over the right. Diffuse slowing is etiologically nonspecific indicator of mild diffuse
+cerebral dysfunction.  Focal slowing is indicative of a focal structural lesion in the right hemisphere
+and is consistent with patient's history of right MCA territory stroke.  The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

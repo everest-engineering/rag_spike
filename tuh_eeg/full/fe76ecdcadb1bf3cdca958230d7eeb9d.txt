@@ -1,0 +1,16 @@
+This is an outpatient EEG.
+CLINICAL HISTORY:  A 43-year-old male with a history of glomerular nephritis and mesial temporal sclerosis.  Recent breakthrough seizures when patient had insurance issues.
+MEDICATIONS:  Tegretol and Keppra.
+INTRODUCTION:  One-hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This record captures wakefulness and brief sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the overall EEG is low voltage with an 11 hertz alpha rhythm and generous, low voltage, frontal-central beta.  Frequent eye movement artifacts are noted in sleep.  Drowsiness is characterized by rhythmic background slowing with a handful of bursts of shifting, slowing noted in sleep.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits minimal driving.  Heart rate 50 bpm.
+IMPRESSION:  This EEG is remarkable for.
+No epileptiform activity.
+Bradycardia.
+CLINICAL CORRELATION:  This is one of many EEGs for this adult.  Left temporal rhythmic theta has not been noted since 2008.
+__________________________
+
+
+
+
+

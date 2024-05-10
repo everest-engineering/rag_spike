@@ -1,0 +1,53 @@
+AGE: 72 y.o.
+SEX: male
+DATE OF STUDY: 12/10/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, drowsy and asleep EEG #: 15-1794
+HISTORY:
+72 y.o. male with a history of recent right parietal infarct, transient L leg weakness, cerebral atrophy and ventriculomegaly	referred for routine EEG for evaluation of paroxysmal events.	This is a follow up EEG.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+aspirin EC 325 mg EC tablet, Take 325 mg by mouth every 6 hours as needed for Pain. Indications: Cerebral Thromboembolism Prevention
+atorvastatin (LIPITOR) 40 mg tablet, Take 40 mg by mouth daily. divalproex (DEPAKOTE) 500 mg 24 hr tablet, Take 500 mg by mouth 2 times daily.
+carbidopa-levodopa (SINEMET CR) 50-200 mg per tablet, TAKE 1 TABLET BY MOUTH TWICE DAILY
+ferrous sulfate 325 mg (65 mg iron) tablet, Take 325 mg by mouth
+daily (with breakfast) .
+brinzolamide (AZOPT) 1 % ophthalmic suspension, 1 drop 3 times daily.
+Brimonidine-Timolol	(COMBIGAN) 0.2-0.5 % ophthalmic solution, Place 1 drop into the right eye every 12 hours.
+VITAMIN B COMPLEX PO, Take	by mouth daily.
+meloxicam (MOBIC) 15 mg tablet, Take 15 mg by mouth daily. omeprazole (PRILOSEC) 40 mg capsule, Take 40 mg by mouth daily.
+folic acid (FOLVITE) 1 mg tablet, Take 1 mg by mouth daily. metformin (GLUCOPHAGE) 1,000 mg- tablet, Take 1,000 mg by mouth 2 times daily (with meals) .
+dorzolamide-timolol	(COSOPT) 2-0.5 % ophthalmic solution, 1 drop 2 times daily.
+bimatoprost (LUMIGAN) 0.03 % ophthalmic drops, 1 drop nightly. losartan (COZAAR) 100 mg tablet, Take 100 mg by mouth daily. potassium chloride (K-DUR) 10 mEq tablet, Take 10 mEq by mouth 2 times daily.
+multivitamin (MULTIVITAMIN) per tablet, Take 1 tablet by mouth daily.
+indapamide (LOZOL) 1.25 mg tablet, Take 1.25 mg by mouth every morning.
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 7.8 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. The maximally waking background demonstrates mild excess theta and mild disorganization for age. During drowsiness, slow rolling eye movements, attenuation and
+!fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by spindles and vertex waves
+Mild generalized slowing is present.	No focal slowing is
+present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG.
+Mildly slow background.
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a mildly abnormal awake and asleep routine EEG due to mild slowing for a subject of this age.	This was not as
+prominent in the prior study, but the patient was sleepier.	EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  The patient is a 22-year-old man with a history of seizures for approximately 1 year.  His events are described as feeling strange followed by loss of consciousness.  Bystanders described his events as stiffness followed by jerking with urinary incontinence and tongue biting.  Postictally the patient is confused for approximately 10 to 15 minutes.  His last such event was on 12/24/2012.
+MEDICATIONS:  Trileptal.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated moderate amplitude 10-1/2 to 11 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, POSTS (positive occipital sharp transients of sleep), symmetrical vertex waves, sleep spindles, and K-complexes are captured.  Hyperventilation produces mild symmetrical diffuse background slowing.  Step photic stimulation results in symmetrical occipital driving at high frequency flash frequencies.  A regular heart rate is captured on the single EKG lead.
+FINDINGS:  No epileptiform discharges.
+IMPRESSION:  This is a normal awake and asleep 30-minute EEG.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

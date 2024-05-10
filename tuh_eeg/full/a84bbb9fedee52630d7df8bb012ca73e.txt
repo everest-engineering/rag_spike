@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 62 year old right handed woman with episodes of loss of consciousness.
+MEDICATIONS: Prochlorperazine.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Brief drowsiness is characterized by an increase in theta. Hyperventilation produces and increase in amplitude of the background. Photic stimulation elicits scant driving.
+HR: 56 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are identified.
+Evaluation for the bradycardia may be appropriate.
+
+
+

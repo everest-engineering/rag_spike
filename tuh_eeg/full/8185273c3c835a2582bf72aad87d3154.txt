@@ -1,0 +1,21 @@
+
+History:	EPILEPSY, AUTISM  W/ MR  SPANISH SPEAKING, INTERPRETER PRESENT
+Medications:	TEGRETOL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  No sleep was captured.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 90.  Technical difficulties: The
+EEG was limited by an almost continuous movement artifact.
+Summary of Findings:
+Interpretation:
+This is a limited NORMAL EEG, awake only.
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 64-year-old male with COPD and seizure.
+MEDICATIONS:  Risperdal, albuterol, phenytoin, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is a technically acceptable 20-minute EEG with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an alpha rhythm which measures consistently just below 8.5 Hz, ranging from 8.0 to 8.2 Hz.  Features of drowsiness include some arrhythmic delta activity, a bit more so on the left compared to the right.  Photic stimulation elicited subtle driving.
+Heart rate 72 bpm.
+IMPRESSION:  This EEG is remarkable for:
+A mildly slow alpha rhythm.
+Focal lowing noted from the left hemisphere.  It is noted only in drowsiness, at times somewhat sharply contoured.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified in this record.  The focal features described above may be correlated with imaging.  If additional information is needed regarding this patient's epilepsy, a follow up study may be considered.  The mild slowing of the alpha rhythm may be correlated with clinical factors.
+__________________________
+
+
+

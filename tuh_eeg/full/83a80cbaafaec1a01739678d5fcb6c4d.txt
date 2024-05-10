@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 33-year-old gentleman with a long history of refractory epilepsy since age 17, history of suicide attempts and depression. Admitted with exacerbation of complex partial seizures.
+MEDICATIONS: Carbamazepine, Keppra, others.
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient had a seizure during his hook-up but not afterwards.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake and has just had a seizure.  The seizure isn’t described.  The background EEG in the initial portion of the record shows a high amplitude spike and slow wave complex with an amplitude measuring greater than 200 V.  It is seen throughout the left hemisphere, maximum in the mid-temporal region with high amplitude delta.  The background from the left is slow with delta and theta.  From the right there is some faster frequency activity including some 7 to 8 Hz activity.   This can be seen from the central regions as would be expected with a MU rhythm and there is a definite posterior dominant rhythm on the right of 7.5 Hz, 50 V.  In the initial portions of the record, the spike and slow wave activity is seen as often with as many as six discharges in a ten second period.  As the recording continues, the epileptiform activity decreases in amplitude and there are some sections of the record where there are fewer discharges in a ten second period.  Towards the close of the record, the epileptiform activity is decreasing in its frequency, although there are some lower voltage sharp waves.  There is also some poly spike and slow wave activity.
+HR:  95 BPM.
+IMPRESSION: Abnormal EEG due to:
+Frequent high amplitude left temporal spike and slow wave activity.
+Left hemisphere slowing maximum in the temporal regions.
+Mild to moderate background slowing.
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy.  An additional recording will be performed to further characterize this individual’s seizures.
+
+
+
+

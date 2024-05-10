@@ -1,0 +1,28 @@
+History:	50 year old woman with a history of seizures, now with increase in seizure
+Medications:	ACETAMINOPHEN,ALBUTEROL NICOTINE NAPROXEN,TRILEPTAL
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Very brief waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.
+Occasional polymorphic theta and delta activity is present over the left anterior temporal region.
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with poor cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+several flash rates.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, left temporal, anterior
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and mostly asleep 23-minute EEG due to occasional mild left
+anterior temporal focal slowing. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  The lack of epileptiform discharges on a
+routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

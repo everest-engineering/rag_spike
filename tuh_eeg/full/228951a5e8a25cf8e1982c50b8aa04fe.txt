@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 72 year old right handed woman with stroke, encephalomalacia, pacemaker.  The patient now has episodes where she stares into space, cannot interact, and does not recall what happened.  Evaluate for complex partial epilepsy.
+MEDICATIONS:  Neurontin, Klonopin, Coumadin, Antivert, Celebrex.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is low voltage.  There is a 9 Hz posterior dominant rhythm identified.  The patient seems to be drowsy during much of the EEG and in that transition to drowsiness, focal slowing was noted in the right hemisphere with a subtle disruption of faster frequency activity in the right hemisphere, particularly the temporal region.  Other features of drowsiness include an increase in beta followed by vertex waves.  Stage II sleep is overall symmetric. Photic stimulation elicited scant bilateral driving.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Subtle focal slowing characterized by transition focal features on the right with drop out of the alpha rhythm on the right before the left.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No epileptiform features were identified.  If additional information is needed, a more prolonged study capturing her spells may be of use.
+
+
+

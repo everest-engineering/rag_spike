@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 25-year-old male with a history of epilepsy since childhood.  The most recent seizure was 1 month ago characterized by eyes rolling backwards, breathing heavily, shaking and loss of consciousness lasting for about 1 to 2 minutes.
+past medical history:  Autism, cardiac arrhythmia.
+MEDICATIONS:  Divalproate, diltiazem.
+INTRODUCTION:  A digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.  There was a impedance problem at T3-T4 which could not be fixed.  The patient was tense and was unable to relax during the recording.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a background rhythm of 9 Hz frequency with an amplitude of 40-70 microvolts which was reactive to eye opening.  The amplitude on the left was slightly higher than the right.  The background was occasionally disrupted because of chewing and muscle artifact.
+Sleep was not achieved during the recording.
+Photic stimulation elicited driving at intermediate/frequencies.
+IMPRESSION:  This is a normal awake EEG.
+CLINICAL CORRELATION:  There were no focal or generalized epileptiform features noted.  The asymmetry in alpha rhythm is not clinically significant.  We do not have previous EEGs for comparison.  A repeat EEG capturing sleep may be performed to increase the probability of finding epileptogenic activity.
+
+
+

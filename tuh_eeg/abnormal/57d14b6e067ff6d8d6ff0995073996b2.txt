@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  60 year old right handed woman with a single episode of loss of consciousness with shaking and 10 minutes of confusion.  No additional events since August 2010.
+MEDICATIONS:  Amlodipine, Besylate, Simvastatin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and briefly drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity. Hyperventilation produces a small amount of theta. Brief drowsiness is characterized by an increase in beta. Photic stimulation elicits bilateral driving.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There are no epileptiform features observed.  This is the second normal EEG for this adult.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

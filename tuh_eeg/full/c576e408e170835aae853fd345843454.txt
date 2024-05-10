@@ -1,0 +1,17 @@
+﻿CLINICAL HISTORY:  This is a 21-year-old male with multiple episodes with loss of consciousness, unresponsiveness, and a single episode of biting the tongue.  Tachycardia, anxiety
+
+MEDICATIONS:
+
+INTRODUCTION:  This section of EEG includes 10 hours of data.
+
+Background:  In wakefulness, the background EEG includes symmetric reactive 10 Hz alpha rhythm with a heart rate of typically 120 bpm.
+
+Event:  9:55 of 52 seconds duration.  The patient is awake, he is observed to stiffen, arch his back, clench his fist, and rock forwards and backwards at the waist.  He demonstrates very subtle alternating movements of his legs.  The EEG pattern during this event demonstrates a normal awake pattern.  The EKG pattern is partially obscured, but the team reports that heart rate increases from 120 bpm to 150 bpm.  Afterwards, the patient remains awake.  He seems poorly interactive with the nurses and has additional jerking at 09:59:17, he grimaces and then has a small amount of rocking.  Although, he is not verbally responsive with the nurses during and/or after the event, EEG continues to demonstrate normal awake pattern.
+
+Events:  02:29:54.  The patient is awake.  There seems to be many individuals at the bedside including the family.  The patient has an episode that seems stiffening, rocking, and vocalization as if he is crying.  He continues to have stiffening and at one point he is flexing and extending the left leg while holding the right straight.  The total duration of the symptoms is 3 minutes 28 seconds.  Afterwards, he is verbally unresponsive, but the EEG demonstrates an awake pattern.  The EKG lead was difficult to interpret, but report from The Telemetry unit indicates that the heart rate had been 120 bpm, increasing to 150 bpm.
+
+IMPRESSION:  This continuous video EEG monitoring session was remarkable for:
+
+1. Normal background.
+2. Behavioral events with increase in heart rate, but no epileptiform activity or other changes to suggest a cerebral process as the cause for this pathology.
+

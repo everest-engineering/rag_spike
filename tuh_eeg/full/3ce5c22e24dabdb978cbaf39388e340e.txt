@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  58 year old left handed male with epilepsy since November 17, 2011, several tonic-clonic seizures, stroke a year ago with slurred speech and psychiatric illness.
+MEDICATIONS:  Valproic, Zoloft, Lisinopril, Seroquel, Trazodone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm at 30 to 50 microvolts.  Hypersynchronous rhythmic slowing is noted in drowsiness.  Photic stimulation is remarkable for photoelectric artifact.  Photic driving was also observed.
+HR:    72 bpm
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  There are no epileptiform features noted.  To more completely define focal features in this adult with a stroke and epilepsy, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

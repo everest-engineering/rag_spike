@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  27 year old right handed male with memory lapses, past history of subdural hematoma, skull fracture, anxiety, and right frontal temporal encephalomalacia.
+MEDICATIONS:  Celexa
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz posterior dominant rhythm.  There is rare, left temporal theta noted. Hyperventilation is performed early on the record produces bursts of higher amplitude more sharply contoured theta on the left.  There is a single left temporal sharp wave, but this coincides with EKG. Features of drowsiness include anterior spread of alpha rhythm. Hyperventilation elicits bilateral driving.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left temporal theta.
+Asymmetric or focal slowing in hyperventilation.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  There is a suggestion of an amplitude asymmetry noted in hyperventilation, raising the possibility of a breech rhythm.
+
+
+

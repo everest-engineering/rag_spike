@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 76-year-old woman with previous C-spine disease, dementia, now with visual hallucinations which were characterized in the office as seeing people who are not there.  The patient can speak to the objects and is aware that they are not real.  In addition, the family now reports episodes where the patient wakes up and screams.
+MEDICATIONS:  Gabapentin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is a somewhat technically challenging EEG with somewhat asymmetric artifacts.
+DESCRIPTION OF THE RECORD:  Despite the artifacts described above, this is an abnormal EEG with an alpha rhythm of 8 Hz.  In addition to the eye artifact described above, there is a bit of irregular slowing in the frontal regions left greater than right, with some left frontal focal slowing.
+Drowsiness is characterized by an increase in slowing of the background.  Photic stimulation elicits scan driving.  Hyperventilation accentuates the left frontal focal slowing.
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Slowing of the alpha rhythm.
+Despite the technical problems described above, left frontal focal slowing in an individual with bifrontal slowing.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No definitive epileptiform features were noted.  If seizures are an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

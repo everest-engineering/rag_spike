@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  Adult female found in the street nonverbal, now in hard collar.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm which is symmetric and reactive to eye opening.  Hyperventilation and photic stimulation were not possible.  Stage II sleep includes vertex phase K complexes, spindles and posts.
+HR:    108 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal nor epileptiform features are identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

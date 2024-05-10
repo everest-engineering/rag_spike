@@ -1,0 +1,88 @@
+﻿History:
+The patient is a 54 year old RH man with a long-standing history of medically refractory epilepsy. Patient is admitted to continuous audio-video EEG monitoring for localization, lateralization of patient's seizures as a part of presurgical evaluation for a potential epilepsy surgery.
+Seizure onset in 2004.
+Epilepsy Risk Factors: No complications during birth. Denies a family history of seizures, history of head trauma, previous CNS infection, febrile seizures or developmental delay. When he was 2 year old he had a high fever with a convulsion he was told he had meningitis.
+Seizure type: No aura. 100% during sleep. He has a tonic clonic shaking. After the event tired for hours and headaches. Has had tongue biting and urinary incontinence.
+Seizure type 2: Has episodes of right leg shaking for seconds almost daily at night while asleep.
+Seizure type 3: He has been having episodes of mouth movement and lip smacking with closed eyes for 1-2 minutes some with right arm up in the air with the hand in a fist.
+Afterward he is tired and sleeps for hours. Last seizure in 1/2015.
+Current AEDs:
+Depakote ER 250mg-500mg Lamictal 150mg -150mg
+Previous AEDs: CBZ 250mg
+Lamictal
+Dilantin caused gingival issues.
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician. A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+Samples of EEG were recorded periodically. Detections were reviewed in detail by the attending neurologist. All events and detections, as well as selected samples, were stored.
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 1O Hz.
+Description of daily interictal EEGs:
+3/17-	lnterictal background: 3/18
+Epileptiform activity:
+Sleep:
+Seizures/events: AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha activity that attenuates with eye opening.
+Occasional low amplitude left anterior sharp waves are captured during sleep. Maximal scalp negativity occurs over Fp1 and F7 electrodes. These discharges not infrequently are simultaneously seen over the right anterior leads.
+Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.
+None
+VPA ER 250 mg in am and 250 mg in pm; LTG 150 mg BID
+3/19-	lnterictal background: 3/20
+Epileptiform activity:
+Sleep:
+Seizures/events: AEDs:
+3/21-	lnterictal background: 3/22
+Epileptiform activity:
+Sleep: Seizures/events: AEDs:
+3/22-	lnterictal background: 3/23
+Epileptiform activity:
+Sleep: Seizures/events: AEDs:
+3/23-	lnterictal background: 3/24
+Epileptiform activity: Sleep: Seizures/events: AEDs:
+3/24-	lnterictal background: 3/25
+Epileptiform activity: Sleep: Seizures/events: AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha activity that attenuates with eye opening.
+Occasional low amplitude left anterior sharp waves are captured during sleep. Maximal scalp negativity occurs over Fp1 and F7 electrodes.  These discharges not infrequently are simultaneously seen over the right anterior leads.
+Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.
+1 events of arousal and odd behaviors and odd complaint - normal awake EEG 1 VPA ER OFF; LTG 50 mg qam only
+The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha activity that attenuates with eye opening. There is significant progressive electrode artifact in the last -10 hours of the recording epoch.
+Occasional low amplitude left anterior sharp waves are captured during sleep. Maximal scalp negativity occurs over Fp1 and F7 electrodes.  These discharges not infrequently are simultaneously seen over the right anterior leads.
+Nonnal sleep architecture.
+No clear events are observed.  Sleep deprived. VPA ER OFF; LTG OFF
+The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha activity that attenuates with eye opening.
+Frontal leads are faulty until - 11 AM (they are fixed at that time) and after -6 PM. No epileptiform discharges are captured, but leads where they are typically seen are faulty during large portion of the recording.
+Normal sleep architecture.
+1 complex partial sz with secondary generalization in am on 3/23/2015. VPA ER OFF; LTG OFF
+The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha activity that attenuates with eye opening.
+No epileptiform discharges are captured. Normal sleep architecture.
+No events observed. VPA ER OFF; LTG OFF
+The posterior dominant rhythm is a symmetric moderate voltage 9.5 Hz alpha activity that attenuates with eye opening.
+No epileptiform discharges are captured. Normal sleep architecture.
+None. Sleep deprived. VPA ER OFF; LTG OFF
+Clinical and EEG Characteristics During Seizures and Events:
+Event #2: odd behavior and odd complaints, out of sleep Date: 3/21/2015	Time:  -3:46 AM
+Baseline: asleep -+ awake
+Clinical features:
+Patient wakes and continues to lay under the covers. About 30 seconds later he reaches across with his left arm and touches a sleep of his shirt on the right (? Scratches his arm).  His right arm is flexed and suspended. He then stretches and gets up. He is sits on his bed (only his back is clearly visible}.
+When the nurse enters the room and speaks to the patient, he says (in English),"I don't know what happened, here is very strong (pointing towards a certain spot on the bed).
+Patient is subsequently off the camera. He eventually returns and goes back to sleep.
+EEG features:
+EEG changes from stage II sleep to an awake background. There is no associated ictal correlate.
+Page 5 of 5
+INDUCTION PROCEDURES:
+1. Sleep deprivation
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+Rare low amplitude left anterior sharp waves are captured during sleep.  Maximal scalp negativity occurs over Fp1 and F7 electrodes.
+lctal Findings:
+2 events that do not appear to be epileptic.
+One secondary generalized tonic clonic seizure that appears to lateralize to the left hemisphere and localize to the temporal lobe.
+SEIZURE DIAGNOSIS:
+1.	Complex partial with secondary generalization
+EPILEPSY DIAGNOSIS:
+1.	Localization related epilepsy with seizure arising from left temporal lobe.
+CONCLUSION:
+This was a diagnostic EMU monitoring session because of capturing single left temporal seizure. Medication changes: none (the patient was discharged on his home dose).
+
+

@@ -1,0 +1,12 @@
+TYPE OF STUDY:  Routine EEG during wakefulness.
+DIAGNOSIS:  Rule out seizures.
+CLINICAL HISTORY:  The patient is a 19-year-old woman with a family history of epilepsy who presents with episodes described as foot shaking, stomach jumping, feeling of dizziness, and hot.
+MEDICATIONS:
+INTRODUCTION:  A digital EEG was performed in the lab  using the standard International 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9 to 10 Hz in frequency, 30 to 40 microvolt in amplitude seen the occipital region which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity which is distributed symmetrically.  Hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple/frequencies and resulted in a symmetric driving response.  Heart rate is 60 to 70 beats per minute and regular.
+CLINICAL EVENTS:  A 10:00:43 the patient reported that she has an attack described as her stomach is jumping with her arm on top of it.  She added that this is part of her attack.  At 10:06:01 she reported that she is feeling hot.  At 10:11:54 she stated that she is seeing blinking red stuff that hurts.  EEG showed a normal awake pattern with a posterior dominant rhythm of 9 to 10 Hz.  Eye blink artifact, lateral eye movement artifacts and muscle artifact with no epileptiform activity during this event.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness only.  No epileptiform abnormalities were identified in this record.  The episodes were characterized by clinical events of jumping stomach, feeling hot, and seeing blinking red stuff without any significant EEG correlation.
+CLINICAL CORRELATION:  This study does not support the diagnosis of epilepsy.  The episodes are diagnostic for psychogenic nonepileptiform events.  Although this study does not exclude the possibility of epilepsy and intermittent seizures, if seizures are a clinical concern a prolonged ambulatory EEG may be helpful to capture other types of events.
+
+
+

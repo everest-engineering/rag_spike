@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 60 year old woman with pontine hemorrhage and locked-in syndrome.
+
+MEDICATIONS: Ciprofloxacin, Hydralazine, Zosyn, Pantoprazole, Metoprolol
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is resting in bed. The background EEG is somewhat disorganized and is comprised primarily of rhythmic theta frequency activity with smaller amounts of underlying delta. Much of the theta frequency activity is 7 Hz with smaller quantities of5.5 Hz activity. Intermittent coughing is observed. It is not specifically associated with a change in-the background. There ate occasional bursts of arrhythmic delta activity identified from either hemisphere. Stimulation of the patient does not particularly impact the record. The record is not long enough to record definitive sleep cycles.
+
+HR: 60 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background primarily with a theta frequency pattern.
+2. Underlying arrhythmic delta activity.
+
+CLINICAL CORRELATION: No epileptiform features were observed. If appropriate, a longer study to identify sleep/wake cycles may be of value. An alternative would be to consider SSEPs.
+
+
+

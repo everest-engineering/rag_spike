@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 56 year old right handed gentleman with refractory epilepsy, status post significant neurologic disability. The patient was admitted with an episode of right arm shaking, followed by confusion, now obtunded.
+MEDICATIONS: Keppra, Baclofen, Lamictal, Ativan, Colchicine, Lovenox
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG this is a relatively drowsy individual.
+DESCRIPTION OF THE RECORD: Much of the EEG includes a lower voltage mixed delta theta pattern. It is low voltage, relatively rhythmic. Brief arousals are associated with some frontal 10 Hz activity. Stimulation of the patient produces muscle artifact.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Paucity of some of the normal wave forms in wakefulness.
+2. Replacement of normal background with more of a low voltage delta theta pattern.
+3. Absence of an alpha rhythm.
+CLINICAL CORRELATION: No occipital epileptiform features were identified. In comparison to previous EEGs, this is a reasonably well organized EEG for this individual.
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 61-year-old woman with a fall preceded by shaking.  The patient was amnestic for the loss of consciousness.  Fever and left frontal mass.
+MEDICATIONS:  Zosyn and Lovenox.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 hertz alpha rhythm.  With stimulation the EEG demonstrates an alerting response, but in relaxed wakefulness, there is modest amount of background theta.  There is also a very subtle, shifting underlying arrhythmic delta, left greater than right.  Features of drowsiness include an increase in beta and a slight accentuation of focal features in the left hemisphere.
+Photic stimulation is remarkable for driving response, as well as photic blink and muscle artifact.
+Heart rate 120 bpm.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to mild background slowing and disorganization.
+
+
+

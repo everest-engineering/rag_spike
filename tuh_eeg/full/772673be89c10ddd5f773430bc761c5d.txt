@@ -1,0 +1,24 @@
+History: 24 year old woman with a history of seizures since 15 yo, now seizure-free for several years. Seizures are described as shakiness without loss of consciousness.
+Medications: Zonegram
+Sedation:
+EEG Type: Routine, awake & drowsy
+Technique: international 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-4 0uV, 1OHz alpha rhythm, which attenuates symmetrically
+with eye opening. Symmetric 5-15uV, 18-25Hz activity is present. maximal over bilateral frontal regions.
+Diffuse low-to-moderate amplitude polymorphic theta and delta activity is noted. During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+No focal slowing is present. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.
+Summary of Findings
+Diffuse slowing, polymorphic, mild
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL 21-minute awake and drowsy EEG due to mild diffuse slowing. This finding is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but could be related to
+excessive drowsiness. No epileptiform discharges are present. but stage 2 sleep was not recorded. If
+clinically indicated. repeat EEG with sleep recording may provide additional information. The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy
+
+
+

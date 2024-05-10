@@ -1,0 +1,16 @@
+
+
+
+CLINICAL HISTORY:  This is a 58-year-old woman presented on June 6th with change in mental status, bilateral numbness, and worsening weakness.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  Hyperventilation was not possible.  This was an awake and somewhat drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, a 10 Hz alpha rhythm, which is symmetric and reactive to eye opening was noted.  This alpha rhythm reaches amplitude in some portions of a 70 microvolts as the patient becomes drowsy.  There is an amplitude asymmetry and the alpha rhythm is higher amplitude on the left in comparison to the right.  There are handful of bursts of shifting slowing with a little bit of underlying irregular mixed theta delta noted infrequently from the left hemisphere.
+Photic stimulation was performed, which elicited a driving response.  During the photic stimulation section, the patient's focal slowing from the left hemisphere was somewhat more prominent.
+Deeper stages of sleep were not achieved.
+Heart rate 104 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to:
+Shifting slowing somewhat more prominent on the left, a bit more prominent during photic stimulation.
+CLINICAL CORRELATION:  The amplitude asymmetry described on the left is not necessarily pathological, but the underlying arrhythmic delta/theta is outside of the range of normal for a subject of this age.  No epileptiform features were noted.
+
+
+

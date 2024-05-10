@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 52-year-old woman with a remote history of a single seizure, B12 deficiency, MRSA, recurrent ulcers and abdominal pain, who had a prolonged episode yesterday was unresponsiveness, eyes rolling up in head and prolonged postictal amnesia.  Patient vomited after an altercation with a family member.
+MEDICATIONS:  Effexor, others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This was at the bedside recording in a very tense patient.  Hyperventilation and photic stimulation were not possible.  Total duration 20 minutes.  Impedances under 5 kilohms with the exception of T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage with a fair amount of muscle, but in an 11 Hz alpha rhythm.  Drowsiness was characterized by a small amount of theta in the temporal regions.  Slow rolling eye movements were noted.
+Heart rate 84 to 90 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, a more prolonged record in the lab capturing deeper stages of sleep may be of value.
+
+
+

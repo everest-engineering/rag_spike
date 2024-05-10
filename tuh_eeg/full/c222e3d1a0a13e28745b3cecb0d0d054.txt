@@ -1,0 +1,49 @@
+AGE: 54 y.o.
+SEX: female
+DATE OF STUDY : 09/29/2015
+RECORDING ENVIRONMENT: Inpatient
+EEG TYPE: 20-40 min, Awake and drowsy EEG # : 15-1428
+HISTORY:
+54 y.o. Female with a history of medically intractable epilepsy with prior documented right temporal seizures, s/p R temporal lobectomy, referred for routine EEG for pre-surgical evaluation.
+MEDICATIONS :
+Current Outpatient Prescriptions:
+VIMPAT 200 mg Tablet, Take 200 mg by mouth 2 times daily. metoprolol (LOPRESSOR) 50 mg tablet, take 1 tablet by mouth twice a day
+ergocalciferol, Vitamin D2, (VITAMIN D) 50,000 unit Capsule, Take 50,000 Units by mouth once a week.
+Calcium Carbonate-Vitamin D3 (CALCIUM 500 WITH D) 500 mg(l,250mg)
+-400 unit Tablet, Take 1 tablet by mouth daily.
+atorvastatin (LIPITOR) 10 mg tablet, Take 1 tablet by mouth daily.
+Lorazepam (ATIVAN) 0.5 mg tablet, Take 0.5 mg by mouth every 6 hours as needed for Anxiety.
+escitalopram oxalate (LEXAPRO) 10 mg tablet, Take 10 mg by mouth daily.
+diclofenac (VOLTAREN) 75 mg EC tablet, Take 1 tablet by mouth 3 times daily (with meals) .
+levetiracetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily.
+omeprazole (PRILOSEC) 20 mg capsule, take 1 capsule by mouth twice a day
+Arm Brace (FUTURO RIGHT HAND WRIST BRACE) Misc, by
+Misc. (Non-Drug; Combo Route) route. nightly SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.
+There is abundant right temporal (T4 max) polymorphic slowing. There is a right temporal (T4 max) breach rhythm.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and drowsy	routine EEG due to:
+Abundant right temporal polymorphic slowing
+Right temporal breach rhythm
+CLINICAL CORRELATION:
+These findings are indicative of right temporal cerebral dysfunction. A right temporal breach rhythm is consistent with this patient' s known prior history of craniotomy.
+
+
+

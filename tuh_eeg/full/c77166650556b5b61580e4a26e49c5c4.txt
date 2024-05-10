@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 79-year-old male with dementia, altered mental status, incoherent speech. Prior R PCA CVA
+MEDICATIONS:  ASA, Lipitor, Ceftriaxone.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  Hyperventilation was not possible.  The patient was poorly cooperative during the EEG.
+DESCRIPTION OF RECORD:  In wakefulness, there is an 8 Hz alpha rhythm, identified on the right more so than the left.  There are intermittent bursts of shifting arrhythmic delta activity noted from either hemisphere.  The left hemisphere demonstrates more arrhythmic delta activity and more disruption of faster frequency activity on the left.
+Heart rate:  60 bpm, broad QRS.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+Superimposed focal slowing with disruption of faster frequency activity on the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG is most supportive of a bihemispheric disturbance with superimposed functional or structural process in the left hemisphere.
+
+
+
+

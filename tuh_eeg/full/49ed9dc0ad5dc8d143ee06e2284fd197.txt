@@ -1,0 +1,25 @@
+:
+History:	59 year old woman admitted with a change in mental status.
+Medications:	No AEDs listed
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+The posterior dominant rhythm consists of moderate amplitude 7.5-8 Hz theta activity that
+attenuates with eye opening.  There is expected AP gradient with faster frequencies at lower
+amplitudes anteriorly.  Diffuse excess beta activity is captured.  Patient remains awake throughout
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Beta, excessive
+Interpretation:
+This is a minimally abnormal  awake-only 21-minute portable EEG due to slow posterior dominant
+rhythm. This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+
+
+

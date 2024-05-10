@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  46 year old right handed man with a seizure at work characterized by tonic-clonic seizure with postictal confusion.  Previous seizure 1 week prior to the first event, history of diabetes and hypertension.
+MEDICATIONS:  Lisinopril, Metformin, Amaryl
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm.  There is a small amount of background theta. In hyperventilation, there is some eye movement, but there is also some focal slowing in the left mid to anterior temporal region.  Features of drowsiness include an increase in beta and anterior spread of the alpha rhythm. Photic stimulation elicits scant bilateral driving.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess theta.
+Left temporal focal slowing in hyperventilation only.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A metabolic disturbance or postictal state can account for the excess theta activity described above.  The left temporal focal slowing noted in hyperventilation is a nonspecific finding and
+may be correlated with imaging.  If there are any additional concerns, a follow-up study capturing more sustained sleep is suggested.
+
+
+

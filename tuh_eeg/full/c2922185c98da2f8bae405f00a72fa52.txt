@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  A 74-year-old male, status post NSTEMI, CABG, patient with prior right carotid endarterectomy, renal artery stenosis, gout, and impaired responsiveness.
+MEDICATIONS:  Depakote, morphine, aspirin, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and poorly responsive.  This was a technically challenging EEG with most impedances under 5 kilos Ohms.
+DESCRIPTION OF RECORD:  The background EEG demonstrates irregular, diffusely slow pattern with arrhythmic delta and theta.  There is an asymmetry between the 2 hemispheres with prominent shifting slowing.  This is a dynamic pattern that waxes and wanes.
+During the record, on 2 occasions in this chaotic and disorganized record, there is a burst of frontal delta noted from the left frontal region.  This is relatively sustained and does demonstrate some waxing and waning.  The technologist notes that the patient can squeeze the left hand, but not the right hand during the record.  In this sharply contoured record, there are handful of sharp waves noted including left anterior temporal and left frontal central.
+Heart rate: 76 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Disorganization.
+Shifting slowing.
+Sustained frontal delta, left greater than right.
+CLINICAL CORRELATION:  This EEG was terminated during 1 of the left frontal discharges.  The paroxysmal left frontal delta may represent part of this patient's structural or functional brain pathology, but may also represent an electrographic seizure.  The consulting team was notified.
+__________________________
+
+
+
+
+

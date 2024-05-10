@@ -1,0 +1,31 @@
+
+
+History:	81 year old woman transferred from an outside hospital with continuous confusion/ concern for subclinical seizures.
+Medications:	Dilantin.
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, asleep, lethargic
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~20 hours from 05/03/2014 till 05/04/2014.  Nursing- initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is no PDR or AP gradient. The background consists of diffuse polymorphic theta and delta activity with delta activity more pronounced anteriorly. Intermittent brief bursts of diffuse, frontally-maximal polymorphic 1 to 2 Hz, 80-100 uV slow waves are observed. No normal sleep architecture is present but periods of quiescence are noted.
+
+No electrographic seizures are captured.
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate No electrographic seizures
+FIRDA (frontal intermittent rhythmic delta activity), intermittent
+
+Interpretation:
+This is an ABNORMAL 20 hour continuous video EEG due to moderate diffuse slowing. This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific. FIRDA could be seen in encephalopathy, increased ICP, bilateral deep white matter lesions. No electrographic seizures are captured.
+
+
+
+
+
+

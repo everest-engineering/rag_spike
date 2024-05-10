@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 76-year-old with aortic disease and triple vessel disease for aortic aneurysm repair.  It is an outpatient EEG.
+MEDICATIONS:  Lisinopril, glucosamine, chondroitin.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed but hyperventilation was deferred.
+DESCRIPTION OF THE RECORD:  In wakefulness, the backgrounds EEG is appropriately organized with an 8.5 Hz alpha rhythm and central mu activity.  This patient is very sleepy, dropping in and out of stage 1 sleep with vertex waves.  Nine Hz mu was identified but testing was not performed to confirm this.
+The patient was falling sleep, drifting in and out from wakefulness to early stage 2 sleep during photic stimulation but there was no significant driving response.
+Heart rate:  60 BPM.
+IMPRESSION:  This is a normal EEG for an adult of this age.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  This EEG will be used as a baseline for this patient's aortic repair.
+
+
+

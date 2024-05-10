@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  55 year old woman found unresponsive in the field, multiple resuscitations in the early morning of February 4th, found to have a clinical examination compatible with brain death on Monday.  Massive MI, on balloon pump.  Temp 100.6.
+MEDICATIONS:  Atorvastatin, Plavix, ASA, Vasopressin, Levophed, Lispro, Heparin, Epinephrine, Dopamine, Insulin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a 20-minute EEG.  The appropriate electrodes were utilized to enable the data to be reconverted to the ECS montage.
+HR:    150 bpm
+IMPRESSION:  No cerebral activity was identified. There was no reactivity, there was no variability.
+CLINICAL CORRELATION:  No cerebral activity was identified in this routine, 20-minute critical care EEG.  These findings may be placed in the appropriate clinical context.
+
+
+

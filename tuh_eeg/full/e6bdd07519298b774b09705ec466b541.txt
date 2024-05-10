@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 71-year-old woman presented on the 18th with stroke and vasogenic edema of the brain.
+MEDICATIONS:  Labetalol, Keppra, and Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially obtunded, but was in fact restless if not interactive during the EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates an asymmetry.  The right hemisphere is moderately so with a mixture of 6-8 Hz activity and underlying delta.  The left hemisphere demonstrates more significant disruption of the posterior dominant rhythm with more of a pattern of continuous arrhythmic delta activity with smaller amounts of beta and theta.  With a brief arousal, there is a glimpse of a 6 Hz posterior dominant rhythm, identified better on the right than the left.  As the recording continues, there is sharply contoured delta with a phase reversal noted at T5.
+Heart rate: 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing from the left hemisphere with disruption of faster frequency activity.
+Moderate slowing from the right.
+Although there is some head rocking artifact, there is sharply contoured delta noted in the left occipital region.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the left affecting both gray and white matter.  No clinical seizures were noted.  If additional information is needed, long-term monitoring may be considered.
+
+
+
+
+

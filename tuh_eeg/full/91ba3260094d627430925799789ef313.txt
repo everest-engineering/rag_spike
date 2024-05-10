@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 70 year old right handed female with history of complex partial seizures. Last seizure was 10/2010. This is a follow-up EEG.
+MEDICATIONS: Tegretol, Phenobarbital, Diltiazem, Atenolol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient reports that she is currently seizure free. She has a hair weave which requires changes in the electrode placement.
+DESCRIPTION OF THE RECORD: The activity from the left hemisphere includes a well defined alpha rhythm of 8.5 hertz with a small amount of low voltage, frontocentral beta activity. There is some head rocking artifact picked up on the left more so than the right. The activity from the right is globally lower voltage and it is difficult to identify an alpha rhythm on the right.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Attenuation of alpha rhythm on the right.
+2. Disruption of rhythmic activity on the right.
+
+CLINICAL CORRELATION: These findings may be correlated with this patient's occipital and parietal ischemic pathology. No epileptiform features were identified today and this EEG is vastly improved compared to previous studies.
+
+
+

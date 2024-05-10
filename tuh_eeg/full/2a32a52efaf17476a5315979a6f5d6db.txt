@@ -1,0 +1,35 @@
+
+History:	28 year old man who presents after a drug overdose.  Seizure-like activity was
+Medications:	Propofol that was stopped several minutes into the recording
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  Early in the recording the background is attenuated, unreactive,
+discontinuous with slow polymorphic delta activity captured.  Once propofol is turned off, faster
+frequencies appear and the background becomes continuous and reactive.  At best, the background
+consists of polymorphic and rhythmic delta activity with underriding theta activity, most
+pronounced anteriorly.  There is paucity of faster frequencies over the right.  Occasional, triphasic-
+like waveforms are captured early and in the middle of the recording.  They are sharply contoured
+with frontal predominance.  No normal sleep architecture is captured.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+Focal slowing, polymorphic, continuous, right hemispheric
+Other, occasional, triphasics vs sharp waves
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL comatose 24-minute EEG due to (1) moderate to severe diffuse slowing that
+improves in the course of the recording; (2) continuous focal right hemispheric focal slowing and
+(3) occasional triphasic waveforms vs frontally predominant epileptiform discharges.  Diffuse slowing
+is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific.
+Continuous focal slowing is indicative of a focal structural lesion in this region but could also
+represent post-ictal focal slowing.  Presence of triphasics waveforms vs epileptiform discharges is of
+unclear clinical significance since it is not a constant finding and may represent a transient pattern
+secondary to propofol discontinuation.
+
+
+
+
+

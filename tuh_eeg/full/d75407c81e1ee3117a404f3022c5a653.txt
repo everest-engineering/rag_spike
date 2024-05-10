@@ -1,0 +1,14 @@
+ROOM NUMBER:  OR-15
+CLINICAL HISTORY:  A 66-year-old woman presents with an acute aortic dissection for acute surgery on the 27th.  Abdominal pain, nausea vomiting, past history of cancer.
+MEDICATIONS:  Norvasc, lisinopril, others.
+INTRODUCTION:  Digital EEG is performed in the OR using standard 10-20 system of electrode placement with 1 channel EKG.  This was a stat test for a patient who was already in the OR.  Electrode impedances in the electrode placement are more challenging and the technologist was aware of problems with contact at the T6 electrode.
+This was a 4-hour operative EEG was 2 hours of physician remote review, during the EEG.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient has already received anesthesia.  The EEG is low voltage and slow by 14:15.  The EEG is discontinuous.
+As the recording continues, the EEG becomes lower voltage and slow and the EEG attenuates early in the cooling process.  By 4:43, the EEG is essentially attenuated.  There is some ICU artifacts noted.
+The EEG is attenuated by 5:14.  At this time, the body temperature is 22.7.  The surgeon performed the aortic dissection repair.  At 5:36, the temperature is 19.7, but the EEG was suppressed well before this.  Rewarming was initiated at 6:09 when the ice was removed.  The EEG remains suppressed for sometime, but a burst suppression pattern emerges at 6:33.  Over time, the EEG is gradually more continuous, but the burst suppression pattern is noted even with intermittent attenuations noted from 7:15.
+The patient's body temperature reaches 29.8 at 7:44.  The technologist confirm this with the surgeon that the EEG is continuous and the technologist signs out of the OR at 8:18.  Of note, as the EEG returns, initially there is an asymmetry and it does appear to be a bit more attenuated in the right central region.  Given the urgency of electrode placement, this finding is of unclear clinical significance.  In addition, the electrode set C3, P3 also seemed to be tenuous; therefore, the asymmetry described above is of unclear validity.
+Heart rate 60 BPM.
+IMPRESSION:  EEG monitoring during this aortic  repair with hypothermic protocol was remarkable for the early emergence of a suppressed pattern.  The asymmetry described above is of unclear clinical significance given the urgency of the recording and the limitations in electrode placement.
+
+
+

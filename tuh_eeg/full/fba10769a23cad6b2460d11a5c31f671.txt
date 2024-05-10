@@ -1,0 +1,36 @@
+AGE: 59 y.o.
+SEX: female
+DATE OF STUDY: 09/01/2015
+RECORDING ENVIRONMENT: Inpatient
+EEG TYPE: routine awake and drowsy
+HISTORY:
+59 YR OLD FEMALE LEFT HANDED. PT SAYS SHE FELL IN HER APARTMENT AND WHEN SHE WOKE UP SHE WAS IN ED. PMHX., NO H/0 SZ. DM TYPE 2
+MEDICATIONS:
+Insulin Aspirin Lovenox Tylenol
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the
+International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Not performed Photic Stimulation: Not performed
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-drowsy routine EEG . There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-drowsy routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+If clinically warranted, a recording with sleep may be helpful.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A23 year old woman with post traumatic complex pressure epilepsy, previous seizure free now with recurrence of simple partial seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are preformed. This is an awake through stage II sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 hertz alpha rhythm with a 9 hertz wicket activity. Prominent central mew activity was noted. The new activity is 9.3 hertz. Hyperventilation produces some head rocking artifact, but no definitive sharp waves. Photic stimulation does not activate the record. Stage I sleep included spindles, vertex waves and POSTS .
+HR:	84 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified. Wicket and mu are normal variants. An additional sleep deprived record may be helpful in identifying
+epileptiform activity.
+
+
+

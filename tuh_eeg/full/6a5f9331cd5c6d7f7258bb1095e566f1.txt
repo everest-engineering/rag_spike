@@ -1,0 +1,30 @@
+History:	77 YO FEMALE ON ASA, PLAVIX FOR LOWER EXTREMITY PERIPHERAL
+STENTS, PRESENTED AFTER FALL W/O LOC. DAUGHTER FOUND PT FACE
+DOWN AFTER HEARING HER CRY OUT.
+PMHX: CATARACTS, HTN, DVT, SYNCOPE.  BLEED FROM GASTRAL ULCER
+Medications:	KEPPRA, MAGNESIUM SULFATE AND OXIDE
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes
+Description:
+Waking background is characterized by a 15-25uV posterior dominant rhythm, that at best reaches
+7-8Hz, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontal regions.  During brief drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Continuous polymorphic delta activity, with associated attenuation of faster frequencies is present
+in the left hemisphere, maximal in the midtemporal region.  Intermittent polymorphic delta activity
+is present in the right midtemporal region.  No epileptiform discharges are present.  No clinical or
+electrographic seizures were present.
+Hyperventilation and photic stimulation are not performed.  HR 78, irregular
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, left hemispheric, Maximal in midtemporal
+Focal slowing, polymorphic, intermittent, moderate, right temporal, mid
+Diffuse slowing, polymorphic, continuous, moderate
+Interpretation:
+This is an ABNORMAL EEG, awake and drowsy and asleep due to continuous focal slowing and
+attenuation of faster frequencies in the left hemisphere, which is consistent with the patient's history
+of a structural cortical lesion in the region. In addition,  there is intermittent focal slowing in the
+right midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific. Lastly,  there is diffuse background slowing.  This finding is an
+etiologically nonspecific indicator of mild diffuse cerebral dysfunction.
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 72 year old male with encephalopathy, history of stroke, depression, heart failure and prostate cancer.
+MEDICATIONS: Morphine, Midazolam, Fentanyl, Amiodarone, Heparin, Darbepoetin, Pantoprazole
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is a great deal of muscle and movement artifact noted in this bedside, portable, intubated EEG performed for an intubated patient Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG includes a great deal of muscle artifact. Underneath this, there is some low voltage theta. Stimulation of the patient produces eye artifact.
+HR: 108 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with beta and muscle artifact.
+2. Underlying low voltage slowing.
+CLINICAL CORRELATION: Since epilepsy is an important consideration, a repeat study when the patient is out of the ICU may be appropriate.
+
+
+

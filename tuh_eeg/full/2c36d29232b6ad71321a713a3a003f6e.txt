@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  30 year old woman, 5-months pregnant, with fainting spells during this pregnancy.  She gets lightheadedness, dizziness, and then black outs.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz, 70 mV posterior dominant rhythm and a small amount of low voltage, frontal central beta activity. Hyperventilation produces an increase in amplitude of the background. Drowsiness is characterized by an increase in synchronicity of the pattern. Photic stimulation does not significantly activate the record.
+HR:    72 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow up study with more sleep is suggested.
+
+
+

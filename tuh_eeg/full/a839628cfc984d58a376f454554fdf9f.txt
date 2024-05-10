@@ -1,0 +1,11 @@
+ROOM NUMBER:  539.
+CLINICAL HISTORY:  This is a 66-year-old woman with dementia, chronic back pain, recurrent syncope, evaluate for seizure versus syncope.
+MEDICATIONS:  Singulair, Depakote.
+INTRODUCTION:  A 20-minute digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not possible.  The patient was very uncomfortable during the EEG.  She has continuous chewing movements.  The patient was not able to fall asleep.
+DESCRIPTION OF THE RECORD:  The background EEG is technically challenging given the muscle artifact, but demonstrates a relatively symmetric, diffusely slow pattern with medium amplitude theta and some underlying delta.  A well-defined posterior dominant rhythm was not identified.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG in wakefulness due to background slowing.
+CLINICAL CORRELATION:  This patient's previous EEGs were not available at this time.  No epileptiform features were seen.  If additional information is needed, a more prolonged study in an attempt to capture sleep may be a value.  These findings should be interpreted in the context of this patient's previous imaging, again not available at this time.
+
+
+

@@ -1,0 +1,29 @@
+History:	59 year old woman with a history of heart failure, on coumadin, with a therapeutic
+inr, now presents with episodes of confusion.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+The posterior dominant rhythm consists of moderate amplitude 6.5-7 Hz theta activity.  The
+expected AP gradient is present.  Diffuse polymorphic excess theta and delta activity are captured.
+Frequent brief (2-5 second) bursts of 100-200uV, 2-4Hz rhythmic bifrontal slow waves occur
+throughout the recording, increasing in frequency during drowsiness.  Symmetrical sleep spindles
+are captured.  Patient rapidly transitions to sleep.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+FIRDA (frontal intermittent rhythmic delta activity), frequent
+Diffuse slowing, polymorphic, mild-to-moderate
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute potable EEG due to mild-to-moderate diffuse
+slowing and presence of FIRDA. Diffuse slowing is indicative of mild to moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  FIRDA (frontal intermittent rhythmic delta activity) is
+seen in encephalopathy (most commonly), bilateral deep white matter lesions and increased ICP.
+Patient rapidly transitions to sleep, so some degree of the background slowing could be related to
+an excessively drowsy/ sleep deprived patient.
+
+
+
+

@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is an 80-year-old woman with hypertension, diabetes, and brain surgery many years ago, currently seizure free.  Difficulty using the left hand.  Repeat EEG.
+MEDICATIONS:  Phenytoin, Metformin, others
+INTRODUCTION:  One hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was very drowsy throughout and appeared quite fragile to the technologist.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a transition between wakefulness and drowsiness.  In both states, there is a prominent interhemispheric asymmetry.  The right hemisphere at times demonstrates a 9 Hz posterior dominant rhythm with intermittent, arrhythmic delta activity.  The left hemisphere demonstrates a higher amplitude pattern on the left, compatible with breach rhythm, and some sharply contoured slowing.  As the patient becomes drowsy, the activity on the left slows before the right.  In addition to the asymmetry described above, occasional shifting slowing was noted.  As the patient reaches deeper stages of sleep, prominent beta activity is noted at the vertex and vertex waves with shifting asymmetries are noted.
+Cognitive testing was performed during the EEG.  The patient has difficulty answering simple questions, does not know the year, does know the city.
+Photic stimulation did not significantly activate the record.
+HEART RATE 80-120 bpm at times irregular.
+IMPRESSION:  This 1 hour digital video EEG was remarkable for:
+An abnormal background with a prominent interhemispheric asymmetry.
+Pattern compatible with breach rhythm on the left with higher amplitude on the left and a bit more arrhythmic delta activity on the left.  In drowsiness, the breach seems to spread to the central region with accentuation of faster frequency activity at that time.
+Shifting slowing, sometimes seen in the right hemisphere as well as the left.
+CLINICAL CORRELATION:  Although there were sharply contoured bursts of slowing noted in this record, in the context of what is likely a breach rhythm on the left, no definitive epileptiform features were noted.
+
+IMPRESSION:  This is a complex, but abnormal EEG, and reports a structural functional process on the left, producing a breach rhythm.  No definitive epileptiform features were noted.  This patient's primary care physician will be contacted regarding the appearance of an irregular heart rate during the EEG.
+
+
+

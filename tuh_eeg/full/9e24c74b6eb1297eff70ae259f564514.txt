@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 70-year-old male with known CNS lesion presented at 9:45 this morning with an episode of his eye rolling back, then left hand shaking, then entire body with postictal confusion and left-sided weakness.  Past history of prostate cancer, currently receiving chemotherapy.
+MEDICATIONS:  None reported.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite confused and had difficulty cooperating with the test.  Photic stimulation was completed.
+TECHNICAL:  Impedances were acceptable.  There was a fair amount of muscle artifact.  This increases as the recording continues and the patient is agitated.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates asymmetry between the 2 hemispheres.  There is a 7 Hz alpha rhythm on the left.  The left hemisphere is somewhat disorganized.  The right  hemisphere is more significantly disorganized, lacks  well-defined posterior dominant rhythm.  Although there is a fair of movement, there is some right mid temporal sharp-waves maximum at T4.  There is no mention of a breach rhythm, but there is a beta asymmetry as well noted intermittently.  The beta is much more prominent in the left frontocentral region and at CZC4.
+Agitation is characterized by an increase in muscle in an alert patient.  Drowsiness is characterized by a bit of slowing.
+Photic stimulation was unsuccessful in this agitated adult.
+Heart rate 84 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the right hemisphere with disruption of faster frequency activity in the presence of slowing.
+Rare right temporal sharp-waves.
+CLINICAL CORRELATION:  This EEG supports a structural process on the right involving both gray and white matter.  The simple sharp-waves described above may be correlated with this patient's clinical history and imaging.
+__________________________
+
+
+

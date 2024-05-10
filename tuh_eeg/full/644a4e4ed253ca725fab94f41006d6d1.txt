@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  41 year old right handed male with a history of recurrent seizures associated with hypoglycemia, now with trigeminal neuralgia.
+MEDICATIONS:  Tegretol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm which is symmetric and reactive to eye opening.  This patient is quite drowsy, rapidly transitioning from wakefulness to stage II sleep with vertex waves, K-complexes, spindles, and posts.  Hyperventilation produces a few bursts of paroxysmal slowing and then more of a drowsy pattern. Photic stimulation did not elicit a driving response.
+HR:    84 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  The rapid transitions to and from sleep can be seen in the context of sleep deprivation.
+
+
+

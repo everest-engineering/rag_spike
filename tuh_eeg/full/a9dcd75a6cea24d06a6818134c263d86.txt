@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+MEDICATIONS:  Prinzide and Zestoretic.
+HISTORY:  This is a 59-year-old woman who has been depressed since her daughter passed away 4 years ago, has not been taking her blood pressure medications or antidepressant, and she has been walking slowly and shuffling with a resting tremor.  She also has a past medical history of hypertension and ventral hernia repair.
+DESCRIPTION OF THE RECORD:  Technical difficulties:  Some continuous muscle artifact seen throughout the recording.
+The record opens to a posterior dominant rhythm that at best reaches 8 Hz.  It appears to be reactive to eye opening.  There is some decrease in the normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  Although hyperventilation does appear to accent to focal slowing which I will discuss in abnormal discharges.  The patient was recorded in wakefulness and drowsiness only.
+ABNORMAL DISCHARGES:
+Focal slow waves seen independently at T3 and T4 at a frequency of 2-4 Hz and an amplitude of 20-50 microvolts.  At times some of the focal slowing, specifically on the left, at T3 appears very sharply contoured, but no clearly epileptic.
+Mild excessive theta in wakefulness at 5-7 Hz and an amplitude of 20-40 microvolts.
+Heart rate: 66
+IMPRESSION:  Abnormal EEG due to bilateral mid temporal focal slowing and excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral midtemporal region, which is nonspecific in regard to etiology.  In addition, there is also evidence of mild diffuse cerebral dysfunction, which is also nonspecific in regard to etiology.  Please note that the patient remained mainly awake with limited drowsiness.  Repeat EEG capturing deeper stages of sleep may be helpful in confirming the diagnosis.
+
+
+

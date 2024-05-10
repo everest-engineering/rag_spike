@@ -1,0 +1,34 @@
+History:	69 YR OLD MALE PRESENTS WITH H/O STATUS EPILEPTICUS, NOTED WITH 5
+WIT SZ AND 3 IN UNIT
+Medications:	PHENOBARBITAL, KEPPRA, DILANTIN
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 28 hours from 05/05/2014 to 05/06/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  There is superimposed excessive diffuse beta seen.  No normal sleep architecture
+was present despite prolonged clinical sleep.
+Continuous polymorphic delta activity is present in the left parietal region during wakefulness.
+Periodic lateralized epileptiform discharges (PLEDs) are present in the P3/T5 region at a rate of 0.5
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+PLEDs (periodic lateralized epileptiform discharges), continuous, left posterior quadrant
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  continuous periodic lateralized epileptiform discharges
+(PLEDs) in the left parietal region.  These findings are indicative of a highly potentially
+epileptogenic acute focal destructive lesion in the region.  No electrographic seizures are present.
+In addition there is diffuse background slowing and absent alpha rhythm.  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+

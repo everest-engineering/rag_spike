@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 65-year-old woman status post traumatic brain injury, admitted January 2, intracerebral hemorrhage, subarachnoid hemorrhage, and left subdural hemorrhage involving cerebellum, left parieto-occipital region, 7 mm in thickness.
+MEDICATIONS:  Topiramate, trazodone, hydrochlorothiazide, Keppra, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow pattern, with mixed frequency activity including theta and beta.  In addition, there is higher amplitude more chaotic appearing delta noted from the frontal regions, left more so than the right, mixed in with this.  There is a sharp wave noted in the left frontal region maximum at 3.  The EEG waxes and wanes, some sections with more rhythmic theta, others with more high amplitude frontal delta and intermittent attenuations.
+The technologist notes that electrode position was modified due to the patient's trauma and ventriculostomy.
+There is clear variability in the record and later sections of the record demonstrate __________ with lower voltage more organized pattern and then intermittently higher amplitude delta noted when the patient's heart rate increases.
+Heart rate 88 to 104 bpm.
+IMPRESSION:  Abnormal EEG due to,
+__________ theta pattern.
+Intermittent bursts of more rhythmic delta.
+In addition to the frontal delta described above, there is an underlying left frontal sharp waves.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function as would be seen in severe traumatic brain injury.  The bursts of frontal delta may be correlated with the patient's intracerebral hemorrhage and left frontal hemorrhage.  The left frontal sharp waves suggest a focal mechanism for seizures, although none were seen in this study.  If indicated, more prolonged EEG monitoring can be obtained to monitor for subclinical seizures.
+
+
+
+

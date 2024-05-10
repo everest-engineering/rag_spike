@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  24 year old right handed male with onset of epilepsy at age approximately 14 after a head trauma, now seizure free for 1.5 years.
+MEDICATIONS:  Keppra, Vimpat, Celexa
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is a small amount of background theta. Right frontal sharp waves are noted.  The sharp waves and some right frontal rhythmic slowing is accentuated by hyperventilation.
+As the patient transitions to drowsiness, right frontal sharp waves are noted with a rhythmic delta activity in the right temporal region. As the patient transitions in and out of sleep, the right frontal sharp waves identified are typically maximum at F4 with variable spread to FP2 or F8.  The amplitude of the spike can exceed 70 mV.  Some of the spikes have significant spread towards the midline at FZ.  The epileptiform activity is accentuated in sleep.  The patient transitions into sleep during photic stimulation.  Despite this, a driving response is elicited.
+HR:    N/A
+IMPRESSION:  Abnormal EEG due to:
+Right frontal sharp waves typically maximum at F4, but with variable spread.
+Focal slowing in the right frontal region.  This is maximum in the frontal regions in wakefulness, but spread to the temporal regions in sleep.
+CLINICAL CORRELATION:  These findings are similar to previous EEGs.  They may have been accentuated somewhat by the sleep deprivation required to obtain this EEG for a patient who lives a long distance away.  The overall characteristics of this patient's epileptiform activity is essentially unchanged.  An EKG may be warranted to assess the patient's bradycardia.
+
+
+

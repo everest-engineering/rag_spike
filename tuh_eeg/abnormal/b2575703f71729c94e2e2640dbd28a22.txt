@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 60-year-old male with a history of polysubstance abuse who was admitted for narcotic withdrawal and encephalopathy.
+MEDICATIONS:
+RECORDING TIMES:  The record starts at 10:29 a.m. It ends at 10:53 a.m.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  This is a bedside EEG recording.  As the record opens, there is a low voltage 10 to 11 Hz posterior dominant rhythm that is symmetric and reactive to eye opening.  There is a small to moderate amount of central theta activity that persists throughout the recording and is suggestive of background slowing.  Throughout the recording, there is a repetitive rhythmic eye blink eye movement abnormality noted in __________ that obscures much of the recording in that region.
+At 10:43 a.m., the patient was noticed clinically to become agitated but there was no associated change in the background cerebral activity.
+Hyperventilation was not performed.  Photic stimulation was performed at multiple flash frequencies and did not induce a significant photic driving response.  There were no spikes or sharp waves identified.  There were no electrographic seizures.
+IMPRESSION:  This is an abnormal EEG due to the presence of diffuse bihemispheric mild slowing.
+CLINICAL CORRELATION:  Bihemispheric slowing may be seen in toxic metabolic encephalopathies or in diffuse underlying structural brain injury.  A single episode of agitation was not associated with any change in the background cerebellar EEG.
+
+
+

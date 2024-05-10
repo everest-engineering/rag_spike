@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  55 year old male with headache and syncope.
+MEDICATIONS:  N/A
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed. This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10.5 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta activity. Drowsiness is characterized by increase in beta and decrease in alpha. Hyperventilation does not activate the record. Photic stimulation elicits brief driving.
+HR:	80 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION:   No focal nor epileptiform features are observed in this study.
+
+
+

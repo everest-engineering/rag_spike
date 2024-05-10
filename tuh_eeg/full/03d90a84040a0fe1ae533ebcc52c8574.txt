@@ -1,0 +1,15 @@
+LENGTH OF THE RECORDING:  Nearly 25 minutes.
+CLINICAL HISTORY:  The patient is a 30-year-old man who underwent right craniotomy for a subdural hematoma in March 2012, now presents with 2 seizures in November 2012.
+MEDICATIONS:  Keppra and Effexor.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed secondary to the patient's history of head trauma status post subdural hematoma evacuation as well as suspected history of alcohol use.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated 10 to 11 Hz alpha activity that attenuates with eyes opening.  There is a preserved anterior to posterior frequency amplitude gradient observed over the left hemisphere.  The AP gradient is less well formed over the right hemisphere.  Continuous polymorphic theta and delta is noted over the right frontotemporal region.  Under-riding fast activity is observed over the right frontocentral region.  During sleep, vertex waves and sleep spindles are captured.  Sleep architecture is more prominent over the right hemispheric leads.  Hyperventilation is not performed.  Stepped photic stimulation does not result in additional abnormalities.  A single EKG lead demonstrates a heart rate up to 120 beats a minute.
+FINDINGS:
+Continuous moderate right frontotemporal slowing.
+Breach artifact over the right frontocentral region.
+Asymmetry of sleep architecture with more prominent sleep architecture over the right hemisphere.
+No clear epileptiform discharges.
+Sinus tachycardia with heart rate up to 120 beats a minute.
+IMPRESSION:  This is an abnormal nearly 25-minute awake and asleep EEG due to continuous moderate right frontotemporal slowing.  This finding indicates likely underlying cerebral dysfunction that is nonspecific in etiology, but in this case likely related to prior head trauma and subdural hematoma.  Breach artifact can be seen in the skull defect.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.  Sinus tachycardia with heart rate up to 120 beats a minute was noted on the single EKG lead.
+
+
+

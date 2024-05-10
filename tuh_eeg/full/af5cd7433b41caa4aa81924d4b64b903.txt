@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 41-year-old, right-handed female, who may have developed recent onset epilepsy.  Family notes that in her sleep she shakes in bed for several minutes, becomes incontinent and claims to be dizzy, and have a sore tongue afterwards.  Past history of sleep apnea.  These events tend to occur early in sleep.
+INTRODUCTION:  A 22-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was a technically reasonably acceptable EEG with most impedances under 5 kilohms with the exception of the T1-T2 electrodes.  There was a significant amount of muscle activity, compatible with a tense patient throughout the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is generous muscle, but underneath this, there is an 11 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Brief drowsiness is characterized by a decrease in muscle artifact.  There is generous beta when the patient starts to relax.
+Hyperventilation did not activate the record.  Photic stimulation was also essentially obliterated by muscle artifact, but there is a clear underlying harmonic and supra-harmonic driving response.
+Heart rate:  72 bpm.
+IMPRESSION:  This is a limited 22-minute outpatient primarily awake EEG, but is without epileptiform activity.
+CLINICAL CORRELATION:  Because of the degree of muscle artifact, we do not have 20 minutes of good quality data.  A followup study capturing sleep is advised.
+
+
+
+
+

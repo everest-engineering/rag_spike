@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 25-year-old right-handed man, who presents with seizure.  He claims to have loss of consciousness at least once a day for the last week.  The episode started as drowsiness.  He has a history of TBI.
+MEDICATIONS:  Keppra 750 mg twice a day.
+INTRODUCTION:  A digital video EEG was performed using the standard international 10-20 system of electrode placement in addition to T1 and T2 electrodes and 1 channel of EKG monitoring.  Hyperventilation was attempted.  This tracing captures the brief period of wakefulness through stage 1 sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 10-10.5 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity, which is distributed symmetrically.  Stage 1 sleep is characterized by disappearance of posterior dominant rhythm, slowing of the background, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  Hyperventilation results in no abnormal activity.
+Heart rate is 60 beats per minutes and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 1 sleep.  No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, a repeat EEG capturing deeper stages of sleep or long-term EEG monitoring at bedside maybe helpful.
+
+
+

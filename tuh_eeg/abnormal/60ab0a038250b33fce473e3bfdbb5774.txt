@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 62 year old woman with a stroke and intermittent episodes of left facial spasms and twitching. Past history of atherosclerosis.
+MEDICATIONS: Aricept, Plavix, Metoprolol, Pravachol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz posterior dominant rhythm of 30 mcv with a generous amount of tow voltage, frontocentral beta activity. Frequent eye blink artifact is observed. Photic stimulation elicits bilateral driving.
+HR: 90 bpm
+
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No significant focal features nor epileptiform features are observed. There is a single burst of slowing in the transition to drowsiness which is considered a normal finding in an adult of this age. Additional EEG recording capturing one of her spells may be of use, given the frequency of her events.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 76-year-old male with declining memory, now talking to himself.
+MEDICATIONS:  Celexa.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed but hyperventilation was not possible.
+The patient's name and identity were confirmed by the tech in the study.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm of 9.5 Hz.  There is a small amount of theta noted in the background as well as a small degree of shifting, slowing and disorganization.  Features of drowsiness include slowing of the alpha rhythm and a small increase in the intermittent isolated right or left temporal theta or delta.  Other features of drowsiness include hypersynchronous rhythmic slowing following by vertex waves.
+Photic stimulation produces a subtle driving response at intermittent flash frequencies.
+Heart rate 96 b.p.m.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to mild background slowing and disorganization.
+CLINICAL CORRELATION:  These EEG findings are nonspecific and support a diffuse disturbance of cerebral function which could be due to a chronic encephalopathy such as dementia.  There were no epileptiform features noted.  If epilepsy is an important consideration, a followup study capturing sleep is suggested.
+
+
+

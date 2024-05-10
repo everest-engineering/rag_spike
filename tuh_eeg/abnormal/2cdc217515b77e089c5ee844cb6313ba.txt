@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  34 year old right handed woman with VON Willebrand disease, hemophilia B, joint hyperlaxity, and recreational drug abuse.  The patient has episodes of tremors and convulsions which were diagnosed as panic attacks.
+MEDICATIONS:  Klonopin, DDAVP, others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is well organized with a 10.5 Hz, 70 to 100 microvolt amplitude alpha rhythm.  Features of drowsiness include an increase in beta followed by posts and then spontaneous arousals.  There are a handful of vertex waves.  Hyperventilation produces a small amount of theta.  Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  If this individual is thought to have frequent seizures, an additional EEG recording session could be of use.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  29 year old right handed male with family history of epilepsy, with 2 tonic-clonic seizure in association with generous alcohol ingestion.
+MEDICATIONS:  Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  In relaxed wakefulness, there are brief bursts of 3-5 Hz spike and wave activity.  Hyperventilation is performed early in the record producing bursts of frontally predominant spike and slow wave activity, some of which are isolated, some of which are associated with frontal delta.  These are present bilaterally, but with a somewhat more generous field of spread posteriorly on the left.  Hyperventilation produces the bursts of spike and wave activity, but which seemed to be associated with a little jerking of the leg, but which were all less than 1 second in duration and were not associated with impairment of awareness.  As he drifts off to sleep, there is an increase in beta and some faster spike and wave complexes occurring as couplets.  Photic stimulation elicits a driving response.  Photic driving is noted at low frequency stimuli and immediately after photic is completed, spike and wave activity is observed.  There is some head rocking or single-channel electrode at P3 at the end of the EEG.
+IMPRESSION:  Abnormal EEG due to:
+Frontally predominant 3-5.5 Hz spike and wave activity noted in relaxed wakefulness and accentuated by hyperventilation, but no photic stimulation.
+CLINICAL CORRELATION:  This EEG is most compatible with inherited or familial mechanism for seizures.
+
+
+

@@ -1,0 +1,29 @@
+History:	77 year old found down with multiple fractures.  He also had asystole, requiring 3
+rounds of CPR.  He currently has intermittent twitching.
+Medications:	PROPOFOL, FENTANYL
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+Due to fractures and bleeding, impedances are high in some of the leads, some leads are
+displaced and there is continuous artifact in O1 and O2 leads.  There is no PDR and no AP
+gradient.  The background consists of a mixture of polymorphic theta and delta activity admixed
+with periods of discontinuous.  More pronounced, at times sharply contoured, delta activity is seen
+over the left frontal region.  No normal sleep architecture is present.
+No electrographic seizures are noted.
+Hyperventilation and photic stimulation are not performed.  EEG is reactive.  A single EKG lead
+demonstrates an irregular heart rate up to 120 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, left frontal, moderate-to-severe
+No electrographic seizures
+Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL 23 minute EEG due to moderate diffuse slowing and continuous moderate-
+to-severe left frontal focal slowing. These findings are indicative of a moderate-to- severe diffuse
+encephalopathy.  Continuous focal slowing is indicative of a focal structural lesion in the left frontal
+region.  A single EKG lead demonstrates an irregular heart rate up to 120 bpm.  No electrographic
+seizures are present.  EEG is limited because of electrode artifact due to high impedances,
+electrode placement and blood.  If clinically indicated, suggest a repeat EEG.
+

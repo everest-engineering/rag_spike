@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   80 year old right handed male with dementia and hallucinations.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a relatively rhythmic slow pattern with a posterior dominant rhythm of 6 to 7 Hz.  Testing is performed to make sure that the patient is maximally awake, at which point the EEG is well organized but rhythmically slow.  Features of drowsiness include an increase in background slowing. Photic stimulation does not activate the record.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic background slowing.
+CLINICAL CORRELATION:  These findings are similar to previous EEGs.  Of note, this is the third EEG for this patient.  The patient is currently seizure free and the last 2 EEGs have not identified epileptiform activity.
+
+
+

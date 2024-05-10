@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  55 year old right handed female, syncope, bradycardia, diabetes, osteoarthritis.
+MEDICATIONS:  Flexeril, Percocet, Paxil, Xanax, Vicodin, and B12.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is somewhat low voltage with a 10 Hz alpha rhythm and generous background beta.
+Hyperventilation is performed with good effort producing an increase in amplitude of the background. Features of drowsiness include an increase in beta, followed by vertex waves.  Spindles are noted.  POSTs are noted. Photic stimulation elicits bilateral driving.
+HR:    55 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The generous beta may be associated with the patient's medications.
+
+
+

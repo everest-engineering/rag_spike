@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  21 year old right handed female with night terrors. Night terrors began in childhood.  She has already been described as a very active, moving sleeper.  The patient had an episode during sleep with a dream of severe pain then thrashing and behavior which looked like a seizure.
+MEDICATIONS:  Celexa
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and briefly asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by hypersynchronous rhythmic slowing.  In the transition towards sleep, there are minor shifting asymmetries in the central regions but no definitive focal slowing.  Hyperventilation produces hypersynchronous slowing.  Photic stimulation elicits vigorous driving.
+HR:    84 bpm
+IMPRESSION:  This EEG is within normal limits for an adult of this age.
+CLINICAL CORRELATION:  No epileptiform features were identified.  To more completely evaluate this individual's sleep, a follow-up study catching more extensive sleep is suggested.
+
+
+

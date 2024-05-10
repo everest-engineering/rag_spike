@@ -1,0 +1,13 @@
+HISTORY:  A 57-year-old woman, transferred from a New Jersey hospital after multiple seizures.
+MEDICINES:  Vimpat, Keppra, baclofen, valsartan.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was relatively somnolent.
+DESCRIPTION OF THE RECORD:  The EEG is diffusely slow with a mixture of theta and delta.  As the recording continues, despite EKG artifact, there is a more well-defined area of focal slowing in the right hemisphere including the central temporal region.  Stimulation of the patient clearly produces an alerting with more of a beta pattern.
+Heart rate:  66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+A challenging EEG, but with rhythmic slowing in the right hemisphere, particularly the right temporal region.  With an average reference, this is a bit more anterior temporal.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG supports a diffuse, bihemispheric disturbance of cerebral function.  There is likely an area of focal slowing in the right hemisphere, which is sharply contoured and a follow up EEG may be helpful to more clearly define an underlying epileptiform focus.
+
+
+
+

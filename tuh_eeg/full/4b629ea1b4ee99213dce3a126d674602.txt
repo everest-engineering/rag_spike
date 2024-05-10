@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 22-year-old with gunshot injury to the left side of the head at age 10, epilepsy began at age 18 with 2 seizures every 9 months. The patient was involved in a motor vehicle accident in 2010, now having frequent seizures characterized by incontinence and postictal confusion. Seizures occur out of sleep.
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm which is identified bilaterally.  There is a prominent breach rhythm identified with accentuation of amplitude of activity in the left central region as well as underlying arrhythmic delta activity in that same region.  Despite some head rocking artifact and the breach, as the patient becomes drowsy a left central sharp wave emerges from that region, again with accentuation of the breach.  Drowsiness is also characterized by an increase in beta followed by vertex waves.  The patient transitions in and out of sleep.
+Hyperventilation produces an increase in both generalized slowing as well as accentuating the focal slowing from the left and to some extent the sharp wave in the left central region.
+Photic stimulation was performed as the patient is transitioning in and out of sleep.  A driving response was identified.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal electroencephalography due to:
+Continue with focal slowing in the left central region.
+Despite a breach rhythm, a defined left central sharp wave.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the left involving grey and white matter.  The sharp waves identified were also in the same region as the skull defect.
+
+
+

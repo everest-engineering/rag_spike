@@ -1,0 +1,13 @@
+ROOM NO:  MRICU.
+CLINICAL HISTORY:  This is a 72-year-old male, who was admitted this morning with change in mental status, hepatitis C cirrhosis, atrial fibrillation, and GI bleed.  Left arm drift with acute and chronic subdural hematoma and confusion.
+MEDICATIONS:  Morphine others
+INTRODUCTION:  1 20 minute digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  This is a technically acceptable record.  The patient was initially quite somnolent, but was able to answer a few questions by the end.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow pattern with rhythmic mixed theta delta activity.  When the patient is responsive, eye movement artifacts and muscle are noted, but the EEG remains quite slow.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No significant focal or epileptiform features were noted in the record.  This EEG is supportive of a diffuse disturbance of cerebral function of many potential causes including toxic or metabolic encephalopathy.
+
+
+
+
+

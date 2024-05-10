@@ -1,0 +1,40 @@
+AGE: 69 y.o.
+SEX: male
+START DATE OF STUDY: 12/03/2015
+RECORDING ENVIRONMENT: outpatient EEG TYPE: routine
+EEG #: 15-1761
+HISTORY :
+69 y.o. male with a history of TBI, SAH referred for EEG for recurrent orthostatic hypotension, fall earlier this year with right parietal scalp hematoma .
+MEDICATIONS:
+Current Outpatient Prescriptions :
+FLUDROCORTISONE ACETATE (FLORINEF ORAL), Take	by mouth.
+Duloxetine {CYMBALTA) 30 mg capsule , Take 30 mg by mouth daily . Olanzapine {ZYPREXA) 5 mg tablet, Take 5 mg by mouth nightly. midodrine (PROAMATINE) 5 mg tablet, Take 5 mg by mouth 2 times daily.
+divalproex {DEPAKOTE) 500 mg EC tablet, Take 1 tablet by mouth nightly.
+levetiracetam (KEPPRA) 500 mg tablet , Take 500 mg by mouth nightly .
+divalproex {DEPAKOTE) 250 mg EC tablet, Take 250 mg by mouth nightly .
+oxycodone-acetaminophen (ENDOCET) 10-325 mg per tablet, Take 1 tablet by mouth every 6 hours as needed for Pain.
+SEDATION : None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation . Right occipital head rocking artifact was noted
+BACKGROUND:
+The waking background is continuous, symmetric, well-organized. There is a well-defined anterior to posterior gradient of frontocentral beta and excess background theta
+Posterior dominant rhythm was of 7-8 Hz is present The background is reactive, and variable.
+Sleep: Drowsiness was characterized by an increase in background slowing with paroxysmal rhythmic slowing.	Of note, shifting arrhythmic delta, more prominent in the right posterior quadrant is noted in drowsiness.	Brief vertex waves were noted in stage I sleep
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+None
+Photic Stimulation :
+Scant driving was identified, more remarkable in the right posterior quadrant
+EVENTS: None
+HR:	72 beats per minute
+IMPRESSION & CLINICAL CORRELATION:
+Abnormal EEG due to
+Slowing of the posterior dominant rhythm
+In the context of head rocking artifact, underlying focal slowing in the right posterior quadrant
+No epileptiform features were noted, but stage II sleep was not achieved.
+This EEG supports a mild, bihemispheric disturbance of cerebral function. The focal features may be correlated with imaging
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  73 year old right handed male with narcolepsy, stroke, cardiomyopathy and an episode of abrupt onset loss of consciousness difficult to arouse.  The patient has a past history of sleep attacks, but is usually easily arousable afterwards.
+MEDICATIONS:  Simvastatin, Coreg, Paxil, Glipizide, Provigil, Viagra, Furosemide, Celexa, Atorvastatin, ASA, Lisinopril
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This was a somewhat technically challenging EEG for an older adult with hypersomnolence.
+DESCRIPTION OF THE RECORD:  There are sections of the record when the patient is maximally awake with an 8.7 Hz alpha rhythm.  The patient drops in and out of sleep with rhythmic background slowing.  On rare occasions, there is intermittent asymmetry with slowing of the alpha rhythm on the right compared to the left as the patient drifts off to sleep.  Photic elicited bilateral driving.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Subtle focal slowing with drop out of faster frequency activity on the right relative to the left.
+CLINICAL CORRELATION:  The irregular heart rate may be evaluated by the patient's internist or cardiologist. The subtle, focal asymmetry described above may be correlated with the past history of stroke.  No epileptiform features were identified.  The hypersomnolence noted in the record.
+
+
+

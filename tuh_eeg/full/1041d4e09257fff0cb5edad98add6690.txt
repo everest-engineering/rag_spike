@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  95 year old woman found unconscious with a right cortical density on June 24.  The patient is now intermittently responsive.
+MEDICATIONS:  Keppra, Vancomycin, Zosyn, Famotidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, in a hard collar, but is intermittently awake.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the EEG is relatively symmetric with a 7.5 Hz alpha rhythm and a small amount of background theta and beta.  In the transition to drowsiness, there is an asymmetry.  There is a simple sharp wave, almost as if there is a breach rhythm in the right frontocentral region.  On some occasions, there is an asymmetry and the activity is slightly more attenuated on the left.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Modest background slowing.
+Amplitude asymmetry
+CLINICAL CORRELATION:  The asymmetry and drowsiness for an adult of this age should be interpreted with caution.  This patient has left scalp edema and a small
+cortical hyperdensity.  The asymmetry with attenuation on the left may be due to the scalp edema which will attenuate the EEG activity.
+
+
+

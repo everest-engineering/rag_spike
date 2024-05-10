@@ -1,0 +1,11 @@
+TYPE OF STUDY:  Routine EEG during wakefulness.
+DIAGNOSIS:  Tremor rule out seizures.
+MEDICATIONS:  The patient's medications include multivitamins.
+CLINICAL HISTORY:  This is a 55-year-old left-handed gentleman with history of headaches and bilateral hand tremors, most pronounced on the right side while holding things.
+PAST MEDICAL HISTORY:  Significant for back gunshot wound and diabetes.
+INTRODUCTION:  Digital video EEG is performed in the lab using the standard international 10-20 system of electrode placement in additional to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed, these tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm was 10-11 Hertz and 30-45 microvolt in amplitude seen in the occipital region which attenuates with eye opening.  There is a small amount of low amplitudes throughout to central beta activity, which is distributed symmetrically.  Photic stimulation was performed at multiple flash frequencies and resolved in driving response symmetrically.  Hyperventilation was performed resulting in a symmetrical slowing of background activity, heart rate was 60-70 beats per minute and regular.  No epileptiform activities or seizures were noted during this recording.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness only.  No epileptiform abnormalities or seizures were identified in this record.  Clinical correlation and normal EEG does not rule out the diagnosis of epilepsy. If seizures are in clinical concern a repeated EEG capturing deeper stages of sleep or a 24-hour ambulatory EEG maybe helpful.
+
+
+

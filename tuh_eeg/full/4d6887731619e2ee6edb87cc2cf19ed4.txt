@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 20 year old female, s/p viral post meningitis with white matter syndrome with delirium and abnormal MRI one year ago.
+MEDICATIONS: Topamax.
+INTRODUCTION: Digital video EEG was performed in Jab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz, 5'0-60 microvolt posterior dominant rhythm. There is a small amount of disorganization for an adult of this age and a small amount of theta. Hyperventilation produces an increase in amplitude. Following hyperventilation, the patient drifts into stage 1 sleep with POSTS and vertex waves. Photic stimulation is performed while the patient is transitioning in and out of sleep. There are some unusual artifacts and a bit of shifting slowing, particularly in the left central parietal region.
+HR: 70bpm
+IMPRESSION: Abnormal EEG due to:
+1. A small degree of disorganization for an adult of this age.
+CLINICAL CORRELATION: There are no definitive epileptiform sharp waves noted in this record. There is some focal slowing in the left central parietal region. Because of some of the artifacts, the possibility of artifact is important, and a follow-up, outpatient study may be needed at some point to more completely evaluate the central parietal region.
+
+
+

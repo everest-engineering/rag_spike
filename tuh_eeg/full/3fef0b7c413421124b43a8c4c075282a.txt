@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 31 year old right handed gentleman with past history of absence epilepsy, tonic clonic seizure, and rare myoclonus. Seizure-free for 13 or 14 years.
+MEDICATIONS: Depakote
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and briefly asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized with 9.5 Hz 50 microvolt posterior dominant rhythm and a small amount of low voltage frontal central beta activity. Drowsiness is captured primarily at the end of the record and the patient is starting to transition into stage 1 and stage 2 sleep during photic stimulation at the end of the EEG with vertex waves and spindles. Hyperventilation produces isolated bursts of rhythmic, high amplitude, 3-4 Hz frontally predominant paroxysmal delta. A handful of these are preceded by a sharp wave . In photic stimulation there is also an isolated paroxysm 4 Hz burst, but without as well defined sharp wave.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Isolated, paroxysmal bursts of 3-4Hz activity with rare sharp waves. This activity is sometimes slightly asymmetric, but is typically maximum at the midline.
+CLINICAL CORRELATION: Given the patient's history of generalized epilepsy in the past, this EEG is congruent. There was a question of subtle, focal sharp waves in the right central temporal region, but these findings were not identified today.
+
+
+
+

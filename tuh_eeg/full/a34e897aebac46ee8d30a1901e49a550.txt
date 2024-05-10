@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 75-year-old right-handed woman, found at home with slurred speech, evaluate for TIA.
+MEDICATIONS:  Aspirin, insulin, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1-channel EKG.  This is a technically acceptable record aside from T1-T2 impedances.  the technologist had difficulties with artifacts in this bedside recording.
+Hyperventilation and photic stimulation were deferred.  The patient was awake
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat slow with an alpha rhythm, which is typically 8 Hz.  In maximal wakefulness, there is a small amount of theta.  Slow rolling eye movements were noted in drowsiness.
+There is significant head rocking artifact and other artifacts noted.
+Heart rate 78 bpm.
+IMPRESSION:  Technically challenging, but mildly abnormal EEG due to slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The subtle focal features may be under recognized because of the qualities of this bedside recording, if epilepsy is an important consideration, a followup study may be done in the outpatient lab.  If there are concerns regarding focal features, alternative clinical assessments may be utilized.
+
+
+

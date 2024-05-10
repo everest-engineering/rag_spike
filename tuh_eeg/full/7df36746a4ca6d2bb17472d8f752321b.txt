@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 31-year-old woman with episodes of depersonalization and a pulsatile feeling in her left ear.
+MEDICATIONS:  Wellbutrin, Klonopin.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The bio-cal was performed to the digital EEG.  It was observed by the technologist.  This is an awake and asleep record, capturing wakefulness to sleep.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The background EEG includes a 10 Hz alpha rhythm.  There is generous 17 Hz beta activity noted in the occipital regions.  This has a slightly asymmetric field with a higher voltage and more generous field on the right compared to the left.  Features of drowsiness include an increase in background slowing with attenuation of the alpha rhythm and theta.  Vertex waves were noted, but the patient transitions in and out of sleep.
+Hypertension produces an increase in beta.  Photic stimulation elicited bilateral driving.
+Heart rate 108 BPM.
+IMPRESSION:  This is an unusual and interesting EEG.  It is remarkable for:
+An asymmetry in the field of the posterior dominant rhythm.
+Prominent posterior beta activity which is not an alpha harmonic in that the alpha seems to be 10 Hz and this activity is more 16-17 Hz.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The asymmetries described above may be correlated with imaging and electrode placement.
+
+
+

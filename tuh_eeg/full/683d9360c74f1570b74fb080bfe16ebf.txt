@@ -1,0 +1,24 @@
+CLINICAL HISTORY: 23 year old male with new onset seizures.
+MEDICATIONS: None
+INTRODUCTION: Continuous digital video EEG was preformed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient keeps a log. He is able to push the button for all of the events that he experiences. He has multiple episodes of dizziness or disorienting feeling.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 hertz posterior dominant rhythm which is symmetrically reactive. Drowsiness is characterized by rhythmic background theta with vertex waves, spindles and stage II sleep. There is an epoch in which REM sleep is seen.
+In the interictal EEG, there is a single left temporal sharp wave.
+Events: The patient has multiple dizzy spells including 129, 125, 312, 336, 536, 546 and then there are no additional push buttons noted.
+Although not all of the seizures have a clear clinical correlate and some have only either subtle theta or subtle disruption of faster frequency activity in left temporal region, some have clear, rhythmic 4 hertz theta from the left temporal region with some spread to the frontocentral region bilaterally, typically lasting 20-40 seconds. The patient receives Depakote at 2:20p.m., the discharges are briefer, more evanescent more allusive.
+Event time 12930: the patient has a dizzy spell characterized by decreased alpha frequency activity from the left temporal region and a brief burst of left temporal theta.
+Event time: 2:32 p.m.: There is a brief burst of left temporal theta which differs from the background.
+Event time: 3:12p.m.: Aura of dizziness, left temporal theta.
+Event #3: Aura characterized by dizziness time 335 to 33729, rhythmic temporal theta as described above.
+Event #4: Subtle left temporal theta at 3:53:52.
+Event #5: 536, very subtle left temporal theta.
+Event #6: Aura 5:46:13, brief burst of left temporal theta.
+HR: 100 bpm
+IMPRESSION: Abnormal EEG monitoring due to:
+1. Subtle, intermittent attenuation of alpha frequency activity in the left temporal region.
+2. A handful of well defined auras characterized by rhythmic 4 hertz theta with clear frequency evolution. The characteristic seizure pattern for this patient includes attenuation of alpha in the region, then the theta and then some bilateral frontocentral spread.
+3. Rare interictal findings including sharp waves in the left temporal region and sharply contoured theta. An example of this is at 4:35:37 a.m. on the morning of the second.
+CLINICAL CORRELATION: This EEG is diagnostic of a localization related
+mechanism for epilepsy. These findings were reviewed with the patient during the hospitalization.
+
+
+

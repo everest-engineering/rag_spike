@@ -1,0 +1,30 @@
+History:	51 YR OLD MALE PRESENTS WITH H/O ONSET SZ X 5 YRS AGO WITH LAST SZ
+X 5 YRS AGO. NOW WITH C/C OF FRONTAL HA LASTING ALL DAY. DENIES
+BLURRY VISION, NAUSEA ETC.
+Medications:	TEGRETOL
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Intermittent left temporal theta was noted in wakefulness, increasing with hyperventilation.  No
+epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces left temporal
+slow theta.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any
+Summary of Findings:
+Focal slowing, rhythmic, intermittent, left temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent left temporal focal slowing
+No epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  45 year old right handed woman with stroke, now developing epilepsy with excessive sleepiness.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is very sleepy.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates primarily stage I and stage II sleep.  As the patient transitions in and out of stage I and II sleep, there is some arrhythmic delta.  Although there is somewhat insignificant EKG artifact, there are some sharp waves in the left mid-temporal region. Vertex waves, K-complexes, and spindles characterize stage II sleep. In the transition in and out of sleep, the focal slowing from the left temporal region is a bit more prominent.  Some of the sharp waves have a significant posterotemporal distribution and are seen with the emergence from sleep.  Photic stimulation does not significantly produce a driving response, but also seems to accentuate the focal slowing and sharp waves in the left temporal region.  Photic stimulation was, however, an alerting response.
+HR:    50 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left temporal sharp waves and intermittent left temporal focal slowing.
+CLINICAL CORRELATION:  This EEG supports a structural or functional abnormality on the left as well as a localization related mechanism for seizure.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 62-year-old male on the highway with lower extremity weakness, episode of V-tach followed by right upper extremity jerking and eyes rolling to the right, now with electrographic clinical seizures. Trauma patient on an Ativan drip.
+MEDICATIONS: See tech sheet
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, sedated, and in a hard collar.
+DESCRIPTION OF THE RECORD: As the EEG opens, there is a high amplitude, periodic complex identified throughout the record.  It is seen diffusely, but the highest amplitude is from the left hemisphere. The periodicity of this is approximately one per second, varying from 0.75 to 1.5 seconds.  The high amplitude periodic epileptiform discharge is accompanied by an otherwise featureless background in comparison to the high amplitude, although there is a smaller amount of theta frequency activity.  There is some variability and there is some theta frequency activity.  The technologist recognizes the pattern early on and notifies the house officers caring for the patient. No clinical signs are noted in association with this PLED-like pattern.  The patient is stimulated during this time.  This produces an increase in theta.  The patient is suctioned.  This doesn’t significantly change the EEG pattern, however, 40 seconds after the suction ends, there is a change in the EEG pattern. This is characterized initially by a subtle increase in theta, particularly from the left hemisphere in association with a periodic activity. Coincident with this, at 12:34:54 and the right arm starts to shake when the theta frequency is identified.  The shaking of the right arm produces some muscle or movement artifact, which partly obscures the EEG but underneath it the initial onset of this seizure seems to have been in the right hemisphere with rhythmic 3.5 to 4 Hz activity from the left hemisphere.  The seizure ends at 9:13:54 for a 60-second duration.  The minute the more rhythmic, faster repetitive activity stops, the right arm stops shaking and the EEG returns to the PLEDs.
+HR:  112 BPM.
+IMPRESSION: Abnormal EEG due to:
+Clinical seizure characterized by a repetitive 3 to 4 Hz activity from the left hemisphere and clinically characterized by right arm shaking.
+High amplitude, periodic complexes identified from this record, maximum in the left hemisphere, but sometimes with a field of spread to both hemispheres.
+CLINICAL CORRELATION: This tracing supports a partial or focal mechanism for this patient’s seizures.  The PLED may be a manifestation of severe, recurrent seizures or a late ictal pattern. Additional therapy and recording is recommended.
+
+
+
+

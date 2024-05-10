@@ -1,0 +1,38 @@
+History:	50 year old woman with repeated episodes of unresponsiveness.
+Medications:	no AEDs; Clozaril
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~17 hours from 11/6/2014 till 11/7/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.   The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events	0
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess polymorphic theta activity is present.  Degree of theta
+activity decreases as the recording progresses.  During brief drowsiness, the background slows to
+central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+No clear focal slowing is present.
+Patient moves nearly continuously throughout the recording epoch.  Many of the electrodes are
+lost starting at ~12 AM.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild, improves by the end of the recording
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL 17 hours continuous video EEG due to mild diffuse slowing that improves as
+the recording progresses. This finding is indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Very little drowsiness and sleep are captured during the recording.
+Patient also moves nearly continuously throughout the recording epoch - this limits EEG
+interpretation.  These findings were conveyed to the primary team.
+
+
+
+
+

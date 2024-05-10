@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 26-year-old gentleman with history of TBI in 2010, status post craniotomy, VP shunt, ICH, and seizures.  The patient has left craniotomy.  On head CT, there is left frontal gliosis, right ventricular shunt placement, and bifrontal subdural hygroma.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the background rhythm was slow in theta and delta frequencies.  There was an asymmetry of activity in parasagittal and temporal region with activity being of faster frequency with higher voltage on the left cerebral hemisphere most pronounced in T5/T3 with polymorphic theta and delta sharply contoured discharges.  There was breach rhythm seen at the left mid and posterior temporal and left central region.  There were occasional sharp wave discharges in frontotemporal region with no evolution.  Drowsiness was characterized by further slowing of the background and absence of muscle and eye blink artifact.  Photic stimulation was performed at multiple flash frequencies with no abnormal responses.  Heart rate was 90 to 100 beats per minute with occasional PVCs.
+IMPRESSION:  This is an abnormal EEG recording due to:
+No posterior dominant rhythm.
+Generalized slowing of the background activity in theta and delta range.
+Polymorphic theta and delta activity at the left frontotemporal and central region.
+Occasional sharp waves seen arising from the left frontotemporal region.
+Left breach rhythm.
+CLINICAL CORRELATION:  Diffuse slowing of the background activity during wakefulness could be due to toxic, metabolic, or infectious encephalopathy, effect of sedating medication or bilateral cerebral dysfunction.  Breach rhythm is consistent with the patient's history of craniotomy.  Almost continuous polymorphic theta and delta activity seen at the left temporal region suggesting of an underlying structural abnormality in the subcortical white matter of the left hemisphere.  The sharp waves seen arising from the left frontotemporal region are suggestive of epileptogenicity in the left cerebral cortex. There were no electrographic or clinical seizures seen during this recording.  Note that the patient was tachycardic with occasional PVC.
+
+
+

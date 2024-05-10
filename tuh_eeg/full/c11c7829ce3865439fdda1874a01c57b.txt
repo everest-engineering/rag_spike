@@ -1,0 +1,33 @@
+History:	75 year old man with a history of seizures, TBI, stroke, left sided craniotomy, now
+presents with confusion and falls.
+Medications:	Phenobarbital
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Voltages are diffusely slow.  The background consists of unstable 9 Hz polymorphic alpha
+posteriorly, weak AP gradient and excess theta activity.  Drowsiness is characterized by increase in
+diffuse theta activity.
+Continuous polymorphic theta activity at higher amplitudes is present in the right anterior temporal
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates an
+irregular heart rate at >100 bpm.
+Summary of Findings:
+Cardiac arrhythmia
+No epileptiform discharges
+Diffuse slowing, polymorphic, mild
+Low voltage
+Focal slowing, polymorphic, continuous, moderate, right temporal, anterior
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 22-minute EEG due to mild diffuse slowing and
+disorganization and continuous moderate right temporal slowing. Diffuse slowing is indicative of
+mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing is
+indicative of a focal structural lesion in this region.  A single EKG lead demonstrates an irregular
+heart rate at >100 bpm.  The lack of epileptiform discharges on a routine EEG does not rule out a
+clinical diagnosis of epilepsy.
+
+
+
+
+
+

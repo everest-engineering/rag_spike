@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 70-year-old woman with hyponatremia, headache, change in mental status.
+MEDICATIONS:  Seroquel, Risperdal, others
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a bedside record for a somnolent patient.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It is a dynamic pattern with some sections of the record with theta frequency activity.  Other sections include a bit more arrhythmic delta activity.  Intermittent shifting slowing was noted.  Intermittent attenuation of the background was also noted typically of 3 seconds' duration.  Stimulation of the patient did produce an increase in activity.  Much of  the record demonstrates an abnormal pattern with theta and intermittent attenuations.  Shifting asymmetries were noted.  In the sections of the record with discontinuity, there is very slow periodic activity in the posterior quadrants, right more so than left.  Spontaneous arousals with beta frequency activity were observed.
+Heart rate 84 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+An intermittently discontinuous pattern.
+Marked background slowing.
+Shifting slowing with at times more suppressed activity on the right
+periodic complexes, which are posteriorly predominant, but a bit more prominent on the right.
+CLINICAL CORRELATION:  No seizures were recorded.  This is a markedly abnormal EEG, which be correlated with clinical history, MSE,  medications, and imaging.  These findings were reported to the on call team.
+
+
+

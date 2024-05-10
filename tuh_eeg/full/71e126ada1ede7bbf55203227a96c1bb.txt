@@ -1,0 +1,38 @@
+History:	75 year old woman with progressive worsening of mental status.  Facial twitching
+(unspecified side) was noted earlier today.
+Medications:	Ativan (given several hours earlier)
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  There is no
+PDR or AP gradient.  The background over the left consists of a mixture of moderate amplitude
+theta and delta activity with underriding fast activity.  Delta activity is most pronounced anteriorly.
+The background over the right consists of a mixture of moderate amplitude theta and delta activity,
+paucity of faster frequencies and attenuation over the temporal region and continuous high
+amplitude temporoparietal sharp waves with aftergoing  slow waves (maximal scalp negativity over
+T4 and P4 leads).  Three electrographic seizures are captured, OCCURRING at 10:22:36 am, 10:24:02
+am and 10:25:15 am and lasting ~39 sec, 26 sec and 33 seconds, respectively.  Seizure do not
+have a clear clinical correlate.  Electrographically, they start with increase in frequency and
+rhythmicity of right temporoparietal sharp waves.  They rapidly evolve in rhythmic 4-5 Hz activity
+that spreads throughout the right hemisphere.  Seizure #3 ends with high amplitude rhythmic ~ 2.5
+Hz T4/C4/P4 spike and wave complexes.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right temporal
+Sharp waves, continuous, right temporoparietal
+Seizure, few, right temporal, anterior, 3 seizures, ~ 30 sec each, no clinical correlate
+Interpretation:
+This is an ABNORMAL portable 23-minute EEG due to (1) moderate diffuse slowing; (2) focal right
+temporal slowing: (3) continuous right temporoparietal epileptiform discharges and (4) three focal
+right midtemporoparietal brief (~ 30 sec) seizures without a clear clinical correlate.  Diffuse slowing
+finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+There is an epileptogenic focal structural lesion in the right temporoparietal region.  Patient was
+placed on continuous EEG monitoring.
+
+
+
+
+

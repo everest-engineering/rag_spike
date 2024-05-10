@@ -1,0 +1,28 @@
+History:	69 YO FEMALE PRESENTS WITH SZ
+
+PMHX: SZ, RIGHT FRONTAL INFARCT, TBI, DM, OT, HTN,
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the right posterior quadrant region during
+wakefulness, increasing during drowsiness.  Periodic lateralized epileptiform discharges (PLEDs) are
+present at P4/T6 region at a rate of 0.5-1 Hz.  No clinical or electrographic seizures were present.
+HR was 90
+Summary of Findings:
+Diffuse slowing, rhythmic, continuous diffuse
+PLEDs (periodic lateralized epileptiform discharges), right posterior quadrant
+Interpretation:
+This is an ABNORMAL EEG because of  continuous periodic lateralized epileptiform discharges
+(PLEDs) in the right posterior quadrant region.   These findings are indicative of a highly potentially
+epileptogenic acute focal destructive lesion in the right posterior quadrant region.  No
+electrographic seizures are present. In addition, there is  diffuse background slowing and absence of
+the alpha rhythm.  These findings are etiologically nonspecific indicators of severe diffuse cerebral
+
+
+

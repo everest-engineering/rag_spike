@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 60-year-old woman, status post hepatic lacerations, past history of stroke and two cerebral coils, and now intubated and unresponsive.
+MEDICATIONS:  Dilantin, Dilaudid, metoprolol, morphine, Lovenox, , Percocet, Neurontin, propofol, and fentanyl.
+INTRODUCTION:  A 20 minute digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated, poorly responsive, but with some movement and some response to tactile stimulation.
+This is a technically acceptable record.
+DESCRIPTION OF RECORD:  EEG demonstrates a continuous pattern with a mixture of theta and smaller amounts of delta.  It is overall, a slow medium amplitude pattern.  There is an asymmetry with disruption of faster frequency activity noted in the left frontocentral and frontotemporal regions.  Spontaneous arousals and tactile stimulation were associated with a bit more theta.
+Heart rate:  90 BPM.
+IMPRESSION:  Abnormal EEG due:
+Generalized background slowing.
+Superimposed focal slowing with disruption of faster frequency in the left frontal region.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a diffuse disturbance of cerebral function.  It can be seen in the context of traumatic brain injury or with the use of sedative hypnotic medications.  The focal features identified above may be correlated with imaging.
+
+
+
+
+

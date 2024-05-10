@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 51 year old right handed male with recurrent syncope.  Events occur 2 times per week.  His last episode was November 2nd.  Past history of heart attack.
+MEDICATIONS:  Keppra, Tylenol, Naproxen
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a vigorous, 11 Hz 60 microvolt alpha rhythm.  Hyperventilation is performed early on in the record, and increases the amplitude of the background.  Minimal drowsiness is identified.  Stimulation does not activate the record.
+HR:    72 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the second normal EEG for this adult.  If additional information is needed, please contact the lab for a long-term video EEG monitoring session which could be an inpatient or outpatient test.
+
+
+

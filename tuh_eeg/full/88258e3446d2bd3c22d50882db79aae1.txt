@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 55 year old right handed male with syncope versus complex partial seizures with left arm movements, pacemaker, and heart failure, inpatient.
+MEDICATIONS: Marcaine, Imdur, ASA, Zocor
+INTRODUCTION: Digital video EEG was performed the lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation is not possible. Photic stimulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hz, 40 microvolt posterior dominant rhythm. In wakefulness there is intermittent bilateral background slowing. In addition, there is 5Hz temporal theta observed in wakefulness. Photic stimulation elicits scant bilateral driving.
+HR: 84 bpm with occasional PVCs.
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent background slowing.
+CLINICAL CORRELATION: No epileptiform features are observed. The intermittent background slowing is a nonspecific finding but is seen more commonly in toxic or metabolic encephalopathy. No epileptiform features were seen.
+
+
+

@@ -1,0 +1,23 @@
+History:
+Medications: Sedation:
+EEG Type: Technique:
+.
+66 YO MALE WITH A HX OF TREMORS. HE WAS ON MEDICATIONS WHICH HELP STOP THE TREMORS. HE WAS THEN TAKEN OFF THE MEDICATION 2 WEEKS AGO AND THE TREMORS CAME BACK. PT IS ALSO AWAITING A KIDNEY TRANSPLANT. HE ALSO HAS TROUBLE WITH BALANCE. HX OF STROKE 2002
+OXYCODONE, ALPRAZOLAM, ASA, SYSTOLIC, FAMOTIDINE, LAMOTRIGINE, SIMVASTATIN
+None
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, drowsy, asleep
+Description:
+The waking background is symmetric, reactive, and well organized with a posterior dominant rhythm of 7-
+7.5 Hz, which attenuates symmetrically with eye opening. There is mild diffuse background slowing. Drowsiness is characterized by further background slowing and attenuation of the posterior dominant rhythm. Sleep transients, including spindles and K complexes, are symmetric and normal.
+There is occasional left temporal polymorphic slowing. No epileptiform discharges are present. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Hyperventilation is not performed. CLINICAL: An isolated body jerk is reported by the tech. On video, the
+patient has a right arm jerk during sleep, followed by an arousal.  ELECTROGRAPHIC: There is no ictal EEG correlate, other than movement artifact.  A heart rate of 60 bpm is captured on a single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild diffuse Focal slowing, polymorphic, occasional, mild, left temporal Other, single, isolated right arm jerk without EEG correlate
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of occasional mild left temporal polymorphic slowing superimposed on mild diffuse slowing. An isolated right arm jerk was captured on video without any underlying EEG correlate, other than movement artifact. These findings are etiologically nonspecific indicators of left temporal cerebral dysfunction superimposed on mild diffuse cerebral dysfunction.
+
+
+
+

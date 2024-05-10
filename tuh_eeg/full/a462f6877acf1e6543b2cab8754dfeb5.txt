@@ -1,0 +1,19 @@
+History:	56 YR MALE WITH DEMENTIA. NOTICE 10/12 HAVING DIFFICULTY DOING JOB. NEUROLOGIST TOLD THEM HE HAD CD DISEASE.  NO FAMILY HISTORY OF
+Medications:	None
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  Intermittent bursts of generalized slowing, lasting less than 2 seconds are seen during wakefulness.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving.
+Summary of Findings:
+Diffuse slowing, rhythmic, intermittent, mild
+Other, No periodic discharges
+Interpretation:
+This is an Abnormal awake and drowsy EEG due to intermittent bursts of generalized slowing, which is a nonspecific finding. No features that are pathognomonic of any specific form of epilepsy
+
+
+
+

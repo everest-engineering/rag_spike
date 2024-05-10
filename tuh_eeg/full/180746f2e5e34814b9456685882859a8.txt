@@ -1,0 +1,31 @@
+History:	72 year old woman status post resection and gamma knife of left cavernous sinus
+schwannoma.  Patient now has hallucinations and odd behaviors that occur daily.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+drowsy, asleep, photic
+Description:
+The posterior dominant rhythm consists of a low amplitude poorly modulated 7.5-8 Hz theta
+activity.  There is expected AP gradient with faster frequencies at lower amplitudes.  Continuous
+polymorphic theta and delta activity is noted over the left temporal region.  Intermittent left
+midtemporal moderate amplitude sharp waves with aftergoing slowing waves are noted, maximal
+over T3 lead.  Sleep spindles are captured, they are more prominent over the left.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Sharp waves, intermittent, left temporal, mid, maximal over T3
+Focal slowing, polymorphic, continuous, moderate, left temporal
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and asleep 1 hour EEG due to (1) mild diffuse slowing; (2)
+continuous moderate focal left temporal focal slowing and (3) intermittent left midtemporal
+epileptiform discharges. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Continuous focal slowing and epileptiform discharges in the left temporal
+region are indicative of a potentially epileptogenic focal structural lesion in that region.
+
+
+
+
+
+

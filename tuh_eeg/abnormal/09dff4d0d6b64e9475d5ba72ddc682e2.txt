@@ -1,0 +1,11 @@
+TYPE OF STUDY:  Repeat EEG.
+DIAGNOSIS:  Rule out seizures.
+MEDICATIONS:  The patient's medications include lisinopril, metoprolol, Lasix, and digoxin.
+CLINICAL HISTORY:  A 62-year-old right-handed man with history of CHF, hypertension, subarachnoid hemorrhage, posttraumatic with bifrontal gliosis presents for followup.
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard International 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation was not performed.  Photic stimulation was performed.  These tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hertz in frequency, 30-40 microvolts in amplitude, seen in the occipital region which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity which is distributed symmetrically.  Muscle artifact is noted in the frontal leads throughout the recording.  Photic stimulation was performed at multiple flash frequencies and results in no remarkable driving response.  Heart rate is 60-70 beats per minute with wide QRS complexes.
+IMPRESSION:  This is a normal, but technically limited EEG recording capturing wakefulness only.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are clinical concern, a repeat EEG capturing deeper stages of sleep or a 24-hour ambulatory EEG may be helpful.
+
+
+

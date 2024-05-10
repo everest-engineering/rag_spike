@@ -1,0 +1,38 @@
+:
+History:	42 YO MALE W / HX OF ETOH AND SI  FOUND ON RAILROAD TRACKS IN
+PULSELESS ARREST. PMHX: HEP C, DEPRESSION, ETOH ABUSE, MULTIPLE
+CRC ADMISSION FOR SI, PREVIOUS CRANIECTOMY RIGHT POSTERIOR?
+Medications:	FAMOTIDINE, VECURONIUM, MIDAZOLAM, ASA, UNASYN,  MAGNESIUM
+Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 21 hours from 03/17/2014 to 03/18/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by marked
+diffuse low voltage delta and theta activity with absence of the expected anterior to posterior
+gradient of frequencies.  During the last hours of the record there is more diffuse attenuation and
+lastly burst suppression pattern. The bursts last 1-5 seconds and consist of bilateral delta with the
+focal finding described below.  As the record continues the amplitude has continued to markedly
+decrease.  No normal sleep architecture was present.
+In the burst there is polymorphic theta/delta activity present in the right hemisphere maximal in the
+mid and posterior temporal region.  There is an asymmetry of amplitude, higher on the right
+consistent with a breach.  No seizures.
+Hyperventilation and photic stimulation were not performed.  HR was 90
+Summary of Findings:
+Burst-suppression pattern, continuous, severe
+Focal slowing, polymorphic, continuous, marked, right temporal, posterior
+Interpretation:
+This is an ABNORMAL 21hour video-EEG because of focal slowing in the right posterior temporal
+and midtemporal region.  This finding is indicative of a focal structural lesion in this region. In
+addition there is  diffuse background attenuation and a burst suppression pattern.  These findings
+are etiologically nonspecific indicators of severe diffuse cerebral dysfunction, which may at least be
+in part due to medication effects.  These findings were conveyed to the primary team.
+
+
+

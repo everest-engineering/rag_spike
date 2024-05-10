@@ -1,0 +1,10 @@
+HISTORY:  A 42-year-old woman with progressive encephalopathy, worsening psychiatric symptoms, recurrent fever and involuntary eye movements.  The patient with persistent impaired mental status.  Medications: antibiotics, Psychiatric medications on hold.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was poorly responsive during the EEG with dysconjugate, repetitive eye movements.  This is a technically satisfactory routine EEG with some head-rocking artifact and acceptable impedances aside from the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal. It includes a low-voltage, diffusely slow pattern with lower-voltage delta and smaller amounts of theta. There is some head-rocking artifact, but in this context there are two bursts of slowing from the right.
+The patient repetitive eye movements were not associated with a change in the EEG.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to marked background slowing.
+CLINICAL CORRELATION:  The marked background slowing supports a diffuse disturbance of cerebral function.  There is  minimal focal slowing noted in the context of head-rocking artifact of unclear clinical significance.  The background slowing may be seen in the context of a chronic or acute encephalopathy.  Comparison with prior EEGs, if any, prior to the development of this patient's current illness may be of value.  The eye blinking spells do not appear to be seizures.
+
+
+

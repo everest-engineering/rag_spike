@@ -1,0 +1,45 @@
+AGE: 73 y.o.
+SEX: female
+DATE OF STUDY: 10/16/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and drowsy EEG #: 15-1531
+HISTORY:
+73 y.o. female with a history of head trauma, craniotomy, right frontal brain injury in 2012 referred for routine EEG for epilepsy evaluation.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+fluticasone (FLONASE) 50 mcg/actuation nasal spray, INHALE 1 SPRAY INTO THE NOSE DAILY.
+loratadine (CLARITIN) 10 mg tablet, Take 1 tablet by mouth daily.
+Cholecalciferol, Vitamin D3, 2,000 unit Capsule, Take 1 capsule by mouth 2 times daily.
+PROAIR HFA 90 mcg/actuation inhaler, INHALE 2 PUFFS INTO THE LUNGS EVERY 6 HOURS AS NEEDED FOR WHEEZING.
+losartan (COZAAR)·50 mg tablet, TAKE 1 TABLET BY MOUTH DAILY. lamotrigine (LAMICTAL) 100 mg tablet, Take 1 tablet by mouth every 12 hours.
+omeprazole (PRILOSEC) 20 mg capsule, TAKE 1 CAPSULE BY MOUTH DAILY.
+gemfibrozil (LOPID) 600 mg tablet, TAKE 1 TABLET BY MOUTH 2 TIMES DAILY (BEFORE MEALS) .
+aspirin 81 mg EC tablet, TAKE 1 TABLET BY MOUTH DAILY. SPIRIVA WITH HANDIHALER 18 mcg inhalation capsule, INHALE 1 CAPSULE INTO THE LUNGS DAILY.
+No current facility-administered medications for this visit.
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is a low voltage, symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.	Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.	There is a slight accentuation of amplitude in the right hemisphere.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There was no Stage II sleep. Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces scant symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 104 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal Awake and drowsy	routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal Awake and drowsy	routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.	The amplitude asymmetry is a normal finding after craniotomy.
+
+
+
+

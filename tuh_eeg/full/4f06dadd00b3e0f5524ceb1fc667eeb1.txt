@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  56 year old right handed woman admitted on the 25th prior MVA on June 12.  Multiple rib and wrist fractures.  Subsequently she had an episode while sitting on the couch, saw a white light, was briefly confused and had a loss of consciousness.
+MEDICATIONS:  Percocet, Zofran, Tylenol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of low-voltage frontocentral beta.  UMU activity is observed, but testing is not performed to confirm this.  Features of drowsiness include hypersynchronous rhythmic slowing with anterior spread of the alpha rhythm.   Photic stimulation elicits scant driving.
+HR:     50 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features are identified.  If appropriate, evaluation for this patient's bradycardia may be considered.
+
+
+

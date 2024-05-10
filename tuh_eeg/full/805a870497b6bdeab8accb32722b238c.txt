@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 71-year-old woman with left carotid stenosis as well as 9-mm left ophthalmic artery aneurysm, 3.3 mm left MCA aneurysm, and 2.3 mm left internal carotid artery saccular dilatation.
+MEDICATIONS:  Succinylcholine, remifentanil, vecuronium, propofol, Lipitor, Lopressor, diclofenac.
+INTRODUCTION:  Intraoperative EEG monitoring was performed using standard CA montage with 1-channel EKG.  This was a 3-hour and 20-minute EEG with physician remote review for 3 hours and 15 minutes.  The recording began with the patient awake in the operating suite.
+DESCRIPTION OF RECORD:  As the tracing begins, the patient is awake.  Anesthetic medications were given, which produced a lower voltage, discontinuous pattern.  The EEG was intermittently paused for Bovie and to avoid other artifacts.  Of note, construction was performed one floor above the EEG suite, which produced intermittent extraneous artifacts.
+The pre-clamp recording demonstrates a low voltage, symmetric pattern with intermittent attenuation.
+The carotid artery was clamped at 10:20:44 with total clamp time 38 minutes 2 seconds.  No focal features were noted with placement of the clamp over the external, internal, and common carotid arteries.  Intermittent generalized features were noted.  At 10:32, there is an increase in fast activity.  Anesthetic medications were adjusted and this produced intermittently more suppressed and attenuated pattern.  These findings were communicated to the operative team.  The carotid was unclamped at 10:58:44 and patency was confirmed by Doppler.  Recording concluded at 11:47 with a continuous pattern at that time.
+Heart rate 76 bpm.
+IMPRESSION:  EEG monitoring during this left carotid endarterectomy did not identify significant focal features with placement of the clamp.
+
+
+

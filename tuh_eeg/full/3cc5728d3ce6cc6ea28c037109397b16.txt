@@ -1,0 +1,33 @@
+History:	64 year old woman with a history of a renal transplant and seizures.
+Medications:	Keppra, vancomycin, meropenem, fentanyl
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  There is right-to-left interhemispheric asymmetry with slower
+waveforms and attenuation over the left.  The background over the right consists of a mixture of
+polymorphic theta and delta activity with attenuation of the background posteriorly.  The
+background over the left consists of a mixture of polymorphic theta and delta anteriorly with
+attenuation of the background in the middle and posterior quadrants.  Frequent periods of diffuse
+Hyperventilation and photic stimulation are not performed.  With stimulation, there is subtle
+increase in the degree of theta activity and decrease in the background discontinuity.
+Summary of Findings:
+No electrographic seizures
+Attenuation, right posterior and left middle and posterior quadrants
+Diffuse slowing, polymorphic, moderate-to-severe
+Focal slowing, polymorphic, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL portable 22 minute EEG due to moderate-to-severe diffuse slowing, voltage
+attenuation over the right posterior quadrant and left middle and posterior quadrants as well as
+focal left hemispheric slowing. Diffuse slowing is indicative of moderate to severe diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing and attenuation is
+indicative of a focal structural lesion over the left.  Voltage attenuation could indicate a fluid
+collection between a skull and the brain (such as SDH).  When compared to the EEG from
+2/11/2015, there is new focal left hemispheric slowing - please correlate clinically.
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+History:	52 year old woman who presents with cerebritis and recurrent seizures.
+Medications:	LOVENOX, INSULIN, ACYCLOVIR
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-30uV, 11-12Hz activity diffusely.  Excessive symmetric
+5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  There is no clinical or
+electrographic sleep seen.
+No focal slowing is present.  No inter-ictal epileptiform discharges are present.  Between 2:46PM
+and 6:08PM there are several clinical seizures observed and detected by bedside video EEG.
+These consist clinically of motor arrest, tachycardia, and eye deviation to the right.  These are
+accompanied by a buildup of rhythmic, sharply contoured theta activity over the left fronto-
+temporal region. The theta evolves in 3Hz delta activity and then stops spontaneously.  Each of
+these seizures lasts 1.5-2 minutes and then there is return to background baseline activity.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Beta, excessive, bilateral diffuse
+Seizure, intermittent, left frontotemporal
+Interpretation:
+This is an ABNORMAL 24 hour video EEG due to diffuse beta activity and at least 6 left fronto-
+temporal seizures. Diffuse beta activity may reflect a medication side effect. In the absence of a
+return to intact mental status, recurrent seizures may represent status epilepticus.  These findings
+were conveyed to the primary team.
+
+
+

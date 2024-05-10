@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 68-year-old woman with a staring spell March 8, previous staring spell is 2012.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  Previous EEGs were not available for comparison.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 8.5 Hz alpha rhythm.  The overall background is relatively high amplitude sharply contoured with some arrhythmic delta activity identified in either temporal region, right or left.  In wakefulness, in this sharply contoured record, despite the artifact and other artifacts, there are some right mid to anterior temporal sharp waves.  As the patient becomes drowsy, focal slowing becomes a bit more prominent with disruption of faster frequency activity in the right anterior temporal region.  The patient transitions in and out of a drowsy state with at times a more symmetric pattern with beta and bursts of a bit more arrhythmic delta activity on the right.
+Hyperventilation produces an increase in amplitude of the background and does seem to accentuate the focal slowing from the right temporal region.
+Photic stimulation elicited a vigorous driving response.
+The patient was transitioning in and out of sleep during photic stimulation and additional right anterior temporal spike and wave complexes were noted.  These were reaching 80 microvolts.
+Heart rate:  66 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+Right anterior temporal spike and slow wave complexes and more subtle underlying sharp waves.
+Shifting arrhythmic delta activity, right greater than left.
+Right focal slowing.
+CLINICAL CORRELATION:  Despite the sharply contoured background and the multiple sharply contoured normal variants, there is clearly an underlying focal epileptiform discharge.  This supports a focal mechanism for epilepsy.  Comparison with previous EEGs, if available, may be of value.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 47-year-old woman admitted 3 days ago with GI bleed.  The patient has not returned to baseline mental status.  History of renal failure on dialysis, depression, asthma.
+MEDICATIONS:  Albuterol, Lipitor, Prilosec, Ambien, Seroquel, Trileptal.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  The patient was awake, anxious and had difficulty cooperating.  This is a primarily awake EEG with photic stimulation.  Impedances were acceptable aside from T1-T2 electrodes.  There was a fair amount of artifact noted in the record as well.
+DESCRIPTION OF RECORD:  The background EEG is diffusely slow, poorly organized with a mixture of rhythmic theta and delta.  In addition, there are some triphasic waves noted in the background.  Despite the presence of significant eye movement artifacts, there are rare sharp waves noted, left anterior temporal or left frontal, which can be differentiated from the eye movements and triphasic waves.
+Photic stimulation did not activate the record.
+Heart rate 140 BPM.
+IMPRESSION:  This is a technically challenging, but abnormal, EEG due to:
+Marked background slowing.
+Occasional triphasic waves.
+Rare sharp waves noted from the left hemisphere.
+CLINICAL CORRELATION:  The background slowing and triphasic waves support a diffuse disturbance of cerebral function such as a metabolic encephalopathy.  There are rare sharp waves noted on the left which may support a localization related mechanism for seizures.  In this awake and interactive individual, some of the features described above may be part of a chronic encephalopathy.
+
+
+

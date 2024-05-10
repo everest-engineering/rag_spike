@@ -1,0 +1,28 @@
+History:	48 YR FEMALE WITH HIV WITH EPISODE OF ?? SZS. GEN SHAKING EYES
+ROLLED BACK, TONGUE BITE X1 MIN., POST CONFUSED AND AGITATED.,
+ANXIOUS AND PARANOID GIVEN 4 MG ATIVAN IN ER.
+Medications:	HALDOL, DEPACON, ATIVAN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  Occasional focal spike-and-wave discharges and sharp waves are
+present with phase reversal and amplitude maximum at F7/T3.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR is
+Summary of Findings:
+Sharp waves, frequent, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the left anterior temporal region.  These findings are indicative of a potentially epileptogenic
+focus in this region, and given the clinical history of partial seizures, are consistent with a diagnosis
+of localization-related epilepsy.
+
+
+

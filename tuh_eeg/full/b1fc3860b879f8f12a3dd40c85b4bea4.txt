@@ -1,0 +1,13 @@
+
+CLINICAL HISTORY: A 20-year-old right handed woman with long history of refractory epilepsy with absence seizures., tonic colonic, myoclonic and multiple daily drop attacks
+MEDICATIONS: Zarontin, Depakote, Vimpat, clorazepate, others.
+INTRODUCTION: A 30-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically challenging EEG. The patient was awake.  Sleep was not achieved.  Hyperventilation and photic stimulation completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.7 Hz alpha rhythm reaching amplitudes up to 94 microvolts.  Central Mu activity was noted, but testing was not performed to confirm this.
+Features of drowsiness include an increase in beta. Photic stimulation elicited scant driving.
+Hyperventilation was performed with a significant amount of artifact in the background and there was a suggestion of an asymmetry and hyperventilation of unclear significance.
+Heart rate 78 bpm.
+IMPRESSION: Technically challenging, but unremarkable EEG in wakefulness through drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  These underlying focal features identified in hyperventilation should be interpreted with caution given the artifacts noted at that time.
+
+
+

@@ -1,0 +1,18 @@
+History:	71 year old female found down "jerking"
+PMH: htn, dm, cva, vp shunt right frontal, dementia
+Medications:	Keppra, Lasix, Atropine, Protonix, Hydralazine, Chlorhexidine
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, lethargic
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse very low voltage delta with absence of the expected anterior to posterior gradient of frequencies.  No normal sleep architecture was present, but periods of quiescence are captured and characterized by in further slowing of delta activity and periods of discontinuity. Continuous polymorphic delta activity at higher amplitudes is present in the right frontal region. Under riding fast activity is noted over the right frontal region.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was subtle reactivity characterized by appearance of diffuse brief theta activity.  A single EKG lead demonstrates persistent bradycardia with heart rate of ~ 42 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, severe
+Attenuation
+Focal slowing, polymorphic, continuous, right frontal
+Breach artifact, right frontal
+No electrographic seizures
+Other, A single EKG lead demonstrates persistent bradycardia with heart rate of ~ 42 bpm.
+Interpretation: This is an ABNORMAL 21-minute EEG because of severe diffuse background slowing and attenuation and continuous focal right frontal slowing.  Diffuse slowing is indicative of severe diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a focal structural lesion in the right frontal region.  Breach artifact is secondary to a skull defect.  A single EKG lead demonstrates persistent bradycardia with heart rate of ~ 42 bpm.
+
+

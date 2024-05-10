@@ -1,0 +1,130 @@
+History:
+The patient is a 28 year old man with a long-standing history of medically refractory epilepsy. Patient is admitted to continuous audio-video EEG monitoring for event characterization and potential seizure localization and  lateralization as a part of presurgical evaluation for potential epilepsy surgery.
+Seizure semiology:
+Type 1: No Aura. Head shaking side-to-side.  Stares blankly, loss of awareness, does not respond to stimuli during the event. Lasts about 10 min, occasionally eyes roll backwards.
+Type 2: Type 1with shaking of the arms and legs associated with the staring for about 2 min. Post event confusion for 30min.
+Admission  Medications: Lamictal 200 mg BID Zonisamide 300 mg qHS
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Additionally, T1, F9, T9, P9, T2, F10,T10, and P1O electrodes were placed in this patient. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician.  A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance .
+The Getman spike and seizure detection computer program (trademark named "Stellate") was used to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically. Detections were reviewed in detail by attending neurologist.  All events and detections, as well as selected samples, were stored to external hard drive media.
+DESCRIPTION OF EMU EVALUATION:
+Description of daily interictal EEGs:
+8/24-
+lnterictal background:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+8/25
+Epileptiform activity:
+activity that attenuates with eye opening. None
+Sleep:
+Sleep elements including symmetrical vertex waves, sleep spindles,SWS and
+Seizures/events:
+REM sleep. None
+AEDs:
+LTG 200 mg BID, ZNS 300 mg qHS
+8/25-
+lnterictal background:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+8/26
+Epileptiform activity:
+activity that attenuates with eye opening none
+Sleep:
+Normal sleep architecture
+Seizures/events :
+None. Sleep deprived
+AEDs:
+LTG 100 mg BID, ZNS 300 mg qHS
+8/26-
+lnterictal background:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+8127
+activity that attenuates with eye opening .
+Epileptiform activity:
+none
+Sleep:
+Normal sleep architecture
+Seizures/events :
+none
+AEDs:
+LTG 50 mg BID, ZNS 100 mg qHS
+8127-
+lnterictal background:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+8/28
+Epileptiform activity:
+activity that attenuates with eye opening . none
+Sleep:
+Normal sleep architecture
+Seizures/events:
+none
+AEDs:
+LTG 50 mg qam, ZNS OFF
+8/28-
+lnterictal background:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+8/29
+Epileptiform activity:
+activity that attenuates with eye opening . none
+Sleep:
+Normal sleep architecture
+Seizures/events:
+None, sleep deprived
+AEDs:
+LTG OFF,ZNS OFF
+8/29-
+lnterictal background:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+8/30
+activity that attenuates with eye opening .
+Epileptiform activity:
+none
+Sleep:
+Normal sleep architecture
+Seizures/events:
+none
+AEDs:
+LTG OFF, ZNS OFF
+8/30-
+lnterictal background:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+8/31
+activity that attenuates with eye opening .
+Epileptiform activity:
+none
+Sleep:
+Normal sleep architecture
+Seizures/events :
+none
+AEDs:
+LTG OFF, ZNS OFF
+8/31-	lnterictal background:9/01Epileptiform activity: Sleep: Seizures/events :AEDs:The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha activity that attenuates with eye opening . none Normal sleep architecture none LTG restarted, ZNS restarted
+8/31-	lnterictal background:
+9/01
+Epileptiform activity: Sleep: Seizures/events :
+AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha
+activity that attenuates with eye opening . none
+Normal sleep architecture none
+LTG restarted, ZNS restarted
+Clinical and EEG Characteristics During Seizures and Events:
+No events
+INDUCTION PROCEDURES:
+Sleep deprivation
+Exercise
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+The posterior dominant rhythm is a symmetric moderate voltage 10 Hz alpha activity that attenuates with eye opening.
+No epileptiform discharges observed.
+lctal Findings:
+No events captured
+SEIZURE DIAGNOSIS:
+1.	suspected complex partial seizures
+EPILEPSY DIAGNOSIS:
+1.	suspected focal onset seizures
+CONCLUSION:
+This was an inconclusive 8-day EMU monitoring session because no events were captured and EEG remained normal.  Even though longer EEG monitored was recommended to the patient and his mother, became emotional (tearful) and requested to be discharged.
+Patient's outpatient's AEDs were restarted and patient was discharged to home in stable condition.
+Medication changes: none (the patient was discharged on his home dose of Lamictal 200 mg BID and Zonisamide 300 mg qHS)
+
+
+

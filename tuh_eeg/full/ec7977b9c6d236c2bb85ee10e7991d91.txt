@@ -1,0 +1,31 @@
+:
+History:	67 YR OLD MALE PRESENTS WITH H/O RT SIDED WEAKNESS AND DIFFICULTY
+WITH SPEECH CT SHOWED LT THALAMIC IPH. EEG DUE TO CHANGE IN
+MENTAL STATUS.
+Medications:	No AED
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+A posterior dominant rhythm was seen to reach at best 6hz intermittently.  Background activity was
+characterized by diffuse high voltage delta and theta activity with absence of the expected anterior
+to posterior gradient of frequencies.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the right anterior and midtemporal region.
+Intermittent polymorphic delta activity is present in the left midtemporal region.  No epileptiform
+discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 90
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right temporal, mid
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of continuous focal slowing in the right mid and anterior
+temporal region.  This finding is indicative of a focal structural lesion in this region. In addition
+there is  intermittent focal slowing in the left midtemporal region and  diffuse background slowing .
+These findings are etiologically nonspecific indicators of focal and diffuse cerebral dysfunction.
+No clinical or electrographic seizures are present.
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient a 58-year-old man who presented with a fall, admitted for concussion injury status post fall.  The patient continues to feel confused and this is an outpatient EEG.
+MEDICATIONS: aspirin 81 and baclofen.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake EEG.  It is technically acceptable
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is well organized with 11 Hz alpha rhythm which was symmetrical and reactive to eye blink.  Frequent eye blink artifact was detected during this EEG.
+Hyperventilation did not activate the record.  Photic stimulation elicited vigorous driving with supraharmonic driving.
+Heart rate 60 bpm, occasionally irregular.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were seen in this patient with intermittent confusion.  Evaluation for bradycardia may be of use.
+
+
+

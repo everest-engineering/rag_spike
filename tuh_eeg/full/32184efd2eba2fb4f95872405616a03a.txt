@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 52-year-old male status post code on the night of Friday the 25th, for hypothermic treatment, multisystem insult.
+MEDICATIONS:  Milrinone, vancomycin, multiple pressors, neuromuscular blockade agents, fentanyl, Versed, azithromycin, aztreonam, Imipenem, Lasix, phenylephrine, epinephrine, dopamine.
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  During the course of the long-term EEG monitoring, the patient had a PEA code and was found to have a large LV thrombus.  The patient was hemodynamically extremely unstable and multiple medications were adjusted during the course of the EEG monitoring to stabilize blood pressure.
+DESCRIPTION OF THE RECORD:  The initial recording demonstrates a challenging pattern with significant muscle but by 1:44, medications have been adjusted and the EEG demonstrates a very low voltage, featureless and markedly suppressed pattern.  The hypothermia protocol was completed at an unknown time and was not noted to have change in the patient's clinical status.
+The EEG gradually transitions from a lower voltage suppressed pattern to a discontinuous pattern.  In addition, there are bursts of higher amplitude, sharply contoured theta frequency activity.  This finding can be noted at 3 p.m.  As the recording continues, however, the EEG is more suppressed with periods of suppression lasting more than 20 seconds and then brief bursts of theta frequency activity with a mixture of sharp activity, lasting approximately 1 to 1-1/2 seconds.
+Chest compressions were performed at 5:48.  The EEG prior to this time is markedly suppressed and is not substantially different afterwards.
+Additional EEG recording on the morning of the 27th continues to demonstrate a burst suppression pattern with infrequent bursts of lower voltage isolated activity which does include sharp activity but which does not evolve. Tactile stimulation of the patient did not produce a change in the background and by the close of the record, the patient was on multiple pressors with neuromuscular blockade.
+Heart rate 90 bpm.
+IMPRESSION:  This 24-hour video EEG monitoring was remarkable for:
+A low voltage relatively suppressed pattern with the use of hypothermia.
+A burst suppression pattern with some sharp waves mixed in.
+CLINICAL CORRELATION:  These findings are characteristic of a severe, anoxic encephalopathy.  The role of multiple sedative hypnotic medications may play a role in the pattern described above.  EEG
+monitoring was discontinued at this time, given the overall clinical state of the patient with plans for additional recording as needed in the future.  The findings and plan were discussed with the clinical team.
+
+
+

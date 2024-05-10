@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 34-year-old male, status post bifrontal craniotomy and cranioplasty in August 2014 after severe traumatic brain injury following motorcycle accident.
+MEDICATIONS:  Tramadol, Provigil, amantadine, many others, no seizure medications known.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging EEG for a patient with multiple craniotomy scars, right more so than left.  The patient is awake, but not very interactive.  Photic stimulation was performed, but hyperventilation was deferred.  The patient has a tracheostomy and does not follow commands.
+DESCRIPTION OF THE RECORD:  The EEG is markedly abnormal, it demonstrates a continuous pattern with a prominent breach rhythm and high amplitude, irregular delta in the frontal regions, maximum in the frontotemporal regions bilaterally.  There is no posterior dominant rhythm and the overall organization is poor.  In the frontocentral regions and at the midline, there is a bit more rhythmic theta activity noted.  Breach artifact and EKG artifact was seen.  The patient is relatively awake throughout the record, but does not follow commands or interact.
+Heart rate 84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Poor organization.
+Arrhythmic delta, most prominent in the frontotemporal regions.
+CLINICAL CORRELATION:  The breach rhythm described above is an anticipated finding following traumatic brain injury.  No epileptiform features were noted in this markedly abnormal record.  If epilepsy is an important consideration, a followup study may be of value.  Of note, this patient is receiving multiple medications for hypersomnolence, but was awake, although not interactive during the EEG.
+
+
+
+

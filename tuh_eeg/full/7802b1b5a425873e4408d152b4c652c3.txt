@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  57 year old right handed woman with new onset tonic clonic seizures in November 2011.
+MEDICATIONS:  Tylenol No. 3, Motrin, Advair, Flexeril, Flovent, Albuterol, Ciprodex
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  This is a low voltage EEG with a 10 Hz alpha rhythm and a small amount of low voltage, frontal central beta activity. Hyperventilation produces an increase in amplitude of the background. Drowsiness produces a small amount of theta. Photic stimulation elicits bilateral driving.  In relaxed wakefulness there is scant background theta.
+HR:    60 bpm
+IMPRESSION:  Very mildly abnormal EEG due to:
+Minimal excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG or in the previous EEG.  This patient's medications may play a role in the excess theta identified.
+
+
+

@@ -1,0 +1,37 @@
+AGE: 35 y.o.
+SEX: female
+DATE OF STUDY : 12/11/2015
+RECORDING ENVIRONMENT : inpatient 508 BED B
+EEG TYPE: 20-40 min , awake and drowsy and stage II sleep EEG #: 15-1797
+HISTORY:
+35 y.o. female with a history of xanax withdrawal , borderline personality disorder referred for routine EEG for characterization of seizures.
+MEDICATIONS:
+No current outpatient prescriptions on file.
+No current facility-administered medications listed for this visit.
+SEDATION : none reported TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	Bedside portable technically satisfactory record and included a single channel of EKG but no HV nor	photic stimulation.		The patient was sometimes confused.
+EEG BACKGROUND :
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity , organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 10.2 Hertz posterior dominant rhythm (PDR), which attenuates
+symmetrically with eye opening.	The wake background includes excess beta and mild excess theta.	The patient is remarkably drowsy and testing was performed to ensure maximal wakefulness
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and
+K-complexes.	Abundant stage II sleep with generous beta was noted
+Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 108 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a mildly	abnormal drowsy and asleep	routine EEG.	There are no clinical or electrographic events reported or detected.
+excess beta
+excess theta CLINICAL CORRELATION:
+Medications can play a role in the excess beta and theta described above.	This EEG supports a mild disturbance of cerebral function, nonspecific in terms of etiology.
+This routine EEG does not support or refute the diagnosis of epilepsy.	If epilepsy is an important consideration, a follow up study in the lab maybe considered.
+
+
+

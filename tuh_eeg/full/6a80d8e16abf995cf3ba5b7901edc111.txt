@@ -1,0 +1,37 @@
+
+
+History:		66 year old woman with metastatic squamous cell carcinoma with metastases to the brain.  Patient presents with nearly global aphasia.  A spot EEG from 5/30/2014 showed focal status epilepticus.
+Medications:	ATIVAN, KEPPRA, PHENOBARBITAL,  PHENYTOIN, GENERAL ANESTHESIA
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, lethargic
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 13 hours from 05/30/2014 till 5/31/2014.    Nursing? initiated event buttons were correlated with clinical behavior.  apically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.   No normal sleep architecture was present.
+
+Periodic lateralized epileptiform discharges (PLEDs) are present in the 01 region at a rate of 1 Hz. Frequent brief focal electrographic seizures are captured (focal status epilepticus) over the left occipito? temporal region. Seizures are characterized by rhythmic delta-theta activity over the left posterior quadrant.
+
+
+Summary of Findings:
+Status epilepticus, left posterior, frequent brief seizures occurring multiple times per hour Diffuse slowing, polymorphic, moderate
+
+Interpretation:
+This is an ABNORMAL  13-hour continuous EEG due to moderate diffuse slowing and focal status epilepticus arising from the left occipital region.  Diffuse slowing finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  There is epileptogenic structural focus in the left posterior quadrant.
+
+
+
+
+
+
+
+
+
+
+
+

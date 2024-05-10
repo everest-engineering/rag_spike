@@ -1,0 +1,33 @@
+
+
+History: Medications: Sedation: EEG Type: Technique:
+
+
+67 year old woman who presents with change in mental status. no AEDs
+
+Routine, awake & drowsy, portable
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+
+
+
+Description:
+There is no PDR or AP gradient.  The background is characterized by a mixture of polymorphic theta and delta activity.  Diffuse, frontally maximal sharp waves with triphasic morphology are present throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag.  No normal sleep architecture is present but periods of quiescence are noted.
+
+Continuous polymorphic delta activity is present in the right frontotemporal region.  Occasional right frontal sharp waves are present.
+
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right frontotemporal,  moderate-to-severe Triphasic waves,  intermittent
+Sharp waves, occasional, right frontal No electrographic seizures
+
+Interpretation:
+This is an ABNORMAL portable EEG due to (1) moderate diffuse slowing; (2) continuous focal moderate? to-severe right frontotemporal slowing:(3) triphasic waveforms and (4) occasional right frontotemporal epileptiform discharges. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing and epileptiform discharges are indicative of a focal potentially epileptogenic structural lesion in the right frontotemporal region.  Triphasic waves are a nonspecific EEG finding that can be seen in hepatic encephalopathy,  uremia and anoxia.  No clinical or electrographic seizures are present.
+
+
+
+
+
+
+

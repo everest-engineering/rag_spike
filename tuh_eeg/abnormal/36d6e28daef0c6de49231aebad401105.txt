@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 60-year-old right-handed gentleman who presents with several episodes of passing out with no urinary incontinence or tongue biting.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 8.5 Hz to 9 Hz seen in the occipital region, which attenuated with eye opening.  There is a small amount of low amplitude frontal central beta activity, which is distributed symmetrically.  Stage 1 sleep is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and POSTS.  The stage 2 sleep is characterized by the presence of K complexes and sleep spindles.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate was 60 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 2 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are of clinical concern, a repeat EEG or a 24-hour ambulatory EEG may be helpful.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  41 year old right handed gentleman with Down's with 2 tonic-clonic seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness background, the EEG is well organized with a 10 Hz mV posterior dominant rhythm.  In stage 2 sleep, there are K complexes, vertex waves, spindles, and POSTs.  Hyperventilation produces a small amount of theta.  Photic stimulation elicits scant driving.
+HR:    60 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  There are no epileptiform features identified.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

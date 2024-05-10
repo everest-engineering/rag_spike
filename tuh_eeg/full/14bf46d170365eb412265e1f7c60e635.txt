@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 68-year-old man with 2 generalized tonic-clonic seizures, followed by postictal confusion.  He has a right temporal contusion and traumatic subarachnoid hemorrhage status post bike accident.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  A digital video EEG is performed at the bedside using the standard international 10-20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation was not performed.  Photic stimulation was not performed.  This tracing captures wakefulness through drowsiness.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm is 7-7.5 Hz in frequencies seen in the occipital region which attenuates with eye opening.  The background activity is characterized by diffuse slowing  consisting of 2-3 Hz delta activity intermixed with 5-7 Hz theta activity.  There is presence of low amplitude frontocentral beta activity which is distributed symmetrically.  Drowsiness is characterized by disappearance of the posterior dominant rhythm and further slowing of the background and absence of muscle and eye blink artifact.  There are occasional frontal intermittent rhythmic delta activity (FIRDA) bursts 1.5 Hz in frequency lasting 2-3 seconds in wakefulness and drowsiness.  There are frequent bursts of right anterior and mid temporal slowing maximal at F8 and T6 in wakefulness and drowsiness consisting of 2-3 Hz delta frequency mixed with sharp waves lasting from 1-2 seconds.  There were also occasional sharp waves seen arising from the same distribution during drowsiness.  Heart rate is 90 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG due to:
+Diffuse slowing of background activity in delta and theta range.
+Slowing of the posterior dominant rhythm.
+Bursts of FIRDA (frontal intermittent rhythmic delta activity).
+Right focal temporal slowing.
+Right temporal sharp waves without evolution.
+CLINICAL CORRELATION:  Slowing of the posterior dominant rhythm and background activity could be due to toxic, metabolic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medication or bilateral cerebral dysfunction or degenerative brain disease.  FIRDA bursts are also suggestive of deep midline lesions of the brain or raised intracranial pressure.  Clinical correlation is recommended.  Right focal slowing is suggestive of a structural abnormality in the right hemisphere or right temporal dysfunction.  The sharp waves are suggestive of underlying epileptogenicity of the right temporal region.  Clinical correlation is recommended.
+
+
+

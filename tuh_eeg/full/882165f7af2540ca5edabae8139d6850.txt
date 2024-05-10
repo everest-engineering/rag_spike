@@ -1,0 +1,36 @@
+AGE: 42 y.o.
+SEX: male
+M.D.
+DATE OF STUDY : 12/11/2015 RECORDING ENVIRONMENT: ICU 374
+EEG TYPE: 20-40 min, asleep only EEG #: 15-1798
+HISTORY:
+42 y.o. male with a history of HIV, arachnoiditis, substance abuse, medication noncompliance referred for routine EEG for screening for subclinical seizures.	The patient presented with subacute headache, was intubated in an outside hospital for seizure, required ventriculostomy for increased ICP
+MEDICATIONS:
+Current Outpatient Prescriptions:
+efavirenz-emtricitabine-tenofovir (ATRIPLA) 600-200-300 mg per tablet, Take 1 tablet by mouth daily.
+Multivitamins-Iron-Folic Acid (CEROVITE ADVANCED FORMULA) 18-400 mg-mcg Tablet, Take 1 tablet by mouth daily.
+ketoconazole (NIZORAL) 2 % cream, Apply topically 2 times daily. [DISCONTINUED] multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+sulfamethoxazole-trimethoprim (BACTRIM OS) 800-160 mg per tablet, Take 2 tablets by mouth 2 times daily. Given in ER for arm folliculitis
+current facility-administered medications for this visit: Keppra
+SEDATION: None TECHNIQUE:
+A bedside portable ICU 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG but no photic stimulation .
+EEG BACKGROUND :
+The waking background is symmetric, reactive, and consists of a mixture of medium amplitude rhythmic 1-2 Hz delta activity and smaller amounts of 5 Hz theta activity	Wakefulness is NOT characterized by a symmetric and reactive posterior dominant rhythm (PDR) ..
+During drowsiness, slow rolling eye movements, attenuation and an increase in background delta was noted.	There were occasional bursts of rhythmic, high amplitude frontal delta.
+Generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): FIRDA
+ACTIVATION PROCEDURES:	tactile and auditory stimulation only­ reduce eye opening and an increase in theta
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION: Abnormal bedside portable ICU record
+marked background slowing
+FIRDA
+#.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This EEG supports a diffuse, bihemispheric disturbance of cerebral function.	The presence of rhythmic, high amplitude frontal delta can be seen in the context of hydrocephalus or other diffuse metabolic cerebral process. There were no epileptiform features noted. EEG does not support or refute the diagnosis of epilepsy.
+
+
+

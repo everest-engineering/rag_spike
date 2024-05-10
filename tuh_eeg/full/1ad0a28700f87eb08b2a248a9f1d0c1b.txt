@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 61-year-old male with epilepsy, seizure free for 7 to 9 years.  The patient was a challenging historian.
+MEDICATIONS:  Trileptal, Procardia, lisinopril, others.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable record with impedances below 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes an 8 Hz alpha rhythm with a small amount of low voltage, frontocentral beta and a modest amount of background theta.  The overall organization is acceptable.  Drowsiness is characterized by an increase in synchronicity of the background and a small amount of slowing.  Hyperventilation did not significantly activate the record.  Photic stimulation did not significantly activate the record.
+Heart rate:  60 BPM, slightly irregular.
+IMPRESSION:  This is an mildly abnormal electroencephalogram for an adult of this age due to mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Previous EEGs were not available for comparison today.  There is a previous EEG July 30, 2008.  That EEG did not identify epileptiform activity but did identify some degree of background disorganization.  At that time the patient was able to state that he had epilepsy since childhood but had been seizure free since 2003.
+
+
+

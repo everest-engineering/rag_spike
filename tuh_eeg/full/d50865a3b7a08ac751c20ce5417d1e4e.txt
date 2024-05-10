@@ -1,0 +1,17 @@
+History: 35 year old man with history of HIV, drug use and stroke. now status post MV repair who has altered mental status.
+Medications: Coumadin, ASA, Vancomycin, Zosyn, Hydrocortisone
+Sedation:
+EEG Type: Awake & asleep, portable
+Technique: international 10-20 System: standard 21 electrodes with T1fT2 electrodes, awake
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 9 Hz alpha activity that attenuates with eyes opening. There Is anterior-to-posterior frequency-amplitude gradient but it is weak. Additional diffuse polymorphic theta and delta activity is noted. No normal sloop architecture is present
+Hyperventilation and photic stimulation are not performed. Nearly continuous blink artifact.
+
+Summary of Findings:
+Diffuse stowing, polymorphic, mild
+Disorganization. Mild Artifact, eye movement. blink
+Interpretation:
+This is an ABNORMAL awake-only 21-minutes EEG due to mild diffuse slowing and disorganization. These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction. Nearly continuous eye blinking artifact could obscure bifrontal slowing. No epileptiform discharges are present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

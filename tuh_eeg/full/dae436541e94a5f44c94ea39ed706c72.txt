@@ -1,0 +1,45 @@
+AGE: 24 y.o.
+SEX: male
+DATE OF STUDY: 09/15/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: Routine, awake and asleep EEG #: 15-1359
+HISTORY:
+24 y.o. male s/p gunshot wound to the head in 2014 and subsequent right hemiparesis, now presenting with 2 nocturnal GTC seizures (body stiff, LUE shaking).
+MEDICATIONS:
+Current Outpatient Prescriptions:
+gabapentin (NEURONTIN) 300 mg capsule, Take 1 capsule by mouth 4 times daily .
+topiramate (TOPAMAX) 25 mg tablet, Take 25 mg in the AM and 50 mg in the evening.
+acetaminophen (TYLENOL) 325 mg tablet, Take 650 mg by mouth every 6 hours as needed for Pain.
+fluticasone (FLOVENT DISKUS) 50 mcg/actuation diskus inhaler, Inhale 2 puffs into the lungs daily.
+trazodone (DESYREL) 50 mg tablet, Take 100 mg by mouth nightly.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric and reactive . There is a 8.5 Hz posterior dominant rhythm, better seen on the right.	The right side is well organized; the left side has fair organization.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep transients, including vertex waves and spindles, are better formed on the right. Slow wave sleep is not captured.
+No generalized slowing is present.
+There is abundant left fronto-temporal polymorphic slowing. At times this slowing distributes diffusely. Other times it is more focal, seen over the left posterior temporal region (T5>T3 max) or left fronto-temporal region (F7/T3/F3).
+EPILEPTIFORM ACTIVITY :
+1. Occasional left anterior temporal (Tl/F7 > T3) spike-wave discharges
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+Occasionally higher amplitude alpha activity is seen broadly over the left temporal region.
+ACTIVATION PROCEDURES:
+Hyperventilation : Not performed
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes .
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG due to:
+Left hemispheric suboptimal organization, with suboptimally formed posterior dominant rhythm and sleep transients
+Abundant left frontal and temporal polymorphic slowing, at times more broadly distributed; other times more focal over left posterior temporal or left fronto-temporal region
+Occasional left anterior temporal (Tl/F7 > T3) spike-wave discharges
+Occasionally higher amplitude alpha activity seen broadly over the left temporal region
+CLINICAL CORRELATION:
+These findings indicate the presence of multiple areas of left
+hemispheric dysfunction, and left anterior temporal epileptogenic potentials . Higher amplitude alpha activity seen broadly over the left temporal region is likely a breach artifact and consistent with this patient' s known skull defects .
+
+
+

@@ -1,0 +1,12 @@
+MEDICATIONS:  Keppra.
+HISTORY:  A 24-year-old woman with epilepsy since high school, premenstrual seizures, 1 per year, seizure-free for the past 11 months.
+INTRODUCTION:  A 1-hour digital video EEG was performed in the lab, using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were performed.  This EEG is technically limited by T6 electrode artifact.
+DESCRIPTION OF RECORD:  In maximal wakefulness, there is a 10 Hz, 50 mV posterior dominant rhythm, which is symmetric and reactive to eye opening.  Generous frontocentral beta activity was identified.  Drowsiness is characterized by an increase in background theta with vertex waves and spindles in stage 2 sleep.
+Artifact:  There is significant T6 artifact noted throughout the record, with double-phase reversal.
+Hyperventilation produces a small amount of background theta.  Photic stimulation elicits vigorous driving.
+Heart rate: 66-84 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and sleep, but limited by electrode artifact.
+CLINICAL CORRELATION:  This is a second EEG for this patient.  The  previous study 14-1083 demonstrated frontally-predominant spike and wave activity which was not as identified today.
+
+
+

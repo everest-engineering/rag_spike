@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 44-year-old male, pedestrian hit by a car July 13th.  Multiple bifrontal contusions, subdural and subarachnoid hemorrhages, interhemispheric fissure hemorrhage, basilar skull fracture, the patient is slow to wean from sedation.
+MEDICATIONS:  Valproate. Fentanyl was discontinued 3 hours prior to the EEG.
+INTRODUCTION:  A 22-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not possible for this intubated patient nor was photic stimulation.  This was a drowsy, but arousable individual.
+DESCRIPTION OF THE RECORD:  As the tracing opens, when the patient is unstimulated, the background EEG demonstrates a pattern rich in alpha and theta frequency activity in the posterior and central regions.  There is frontal delta of 2-3 Hz.  There is a slight asymmetry in the delta and there seems to be more disruption of faster frequency activity in the right frontal region compared to the left.  Stimulation of the patient clearly produces an alerting response with a 10.5 Hz posterior dominant rhythm and some eye movement.  The patient does not seem to be so behaviorally interactive despite the clear alerting in the EEG and frontal delta persist during the alerting.
+Heart rate:  Regular 97 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Frontal delta, right greater than left.
+CLINICAL CORRELATION:  For this adult with recent traumatic brain injury, although the patient seems to be unresponsive, there is a rich background noted with a clear presence of a posterior dominant rhythm with alerting.  The frontal delta is in the region of this patient's contusion.  No epileptiform features were seen.  The features described above carry a favorable prognosis.
+
+
+

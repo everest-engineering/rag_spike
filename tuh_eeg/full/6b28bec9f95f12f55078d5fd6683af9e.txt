@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 57-year-old male with history of complex partial epilepsy for the last 21 years, last seizure 1 month ago.  Seizures characterized by an aura of dizziness, loss of consciousness, shaking.  Patient may be unconscious for 15-30 minutes.
+MEDICATIONS:  Depakote, Neurontin, oxycodone.
+INTRODUCTION:  Routine outpatient digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.  This is a technically acceptable record with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat low voltage, but well organized with symmetric reactive 11 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Features of drowsiness include an increase in frontocentral theta as well as slow rolling eye movements.
+Hyperventilation produces a subtle increase in amplitude of the background.  Photic stimulation elicited a low voltage driving response.
+Heart rate 60 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

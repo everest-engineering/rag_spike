@@ -1,0 +1,45 @@
+AGE: 58 y.o.
+SEX: female
+DATE OF STUDY: 12/10/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1791
+HISTORY:
+58 y.o. female with a history of upper GI bleeding and esophageal varices, hepatic encephalopathy referred for routine EEG for encephalopathy
+MEDICATIONS:
+Current Outpatient Prescriptions: enoxaparin 40 mg/0.4 mL Syringe,
+insulin detemir (LEVEMIR FLEXTOUCH) 100 unit/mL (3 mL) Insulin Pen, Inject 20 Units into the skin 2 times daily. With meals ursodiol (ACTIGALL) 300 mg capsule, Take 1 capsule by mouth 2 times daily.
+spironolactone (ALDACTONE) 50 mg tablet, 50 mg daily. XIFAXAN 550 mg Tablet, Take 550 mg by mouth.
+metformin (GLUCOPHAGE) 850 mg tablet, Take 850 mg by mouth 2 times daily (with meals). On hold
+midodrine (PROAMATINE) 5 mg tablet, Take 5 mg by mouth 3 times daily.
+furosemide (LASIX) 40 mg tablet, Take 40 mg by mouth daily. ciprofloxacin Hcl (CIPRO) 750 mg tablet, Take 750 mg by mouth once a week.
+lactulose (CEPHALIC) 20 gram packet, Take 20 g by mouth 3 times daily.
+No other medications reported by the technologist
+TECHNIQUE:
+A 21 channel	electroencephalogram (EEG) bedside portable was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically somewhat satisfactory record and included a single channel of EKG but no HV nor photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and diffusely slow with a mixture of theta, alpha and delta frequencies.	There is a glimpse of a 7 Hz alpha rhythm.	The patient is very inattentive and is moving about during the EEG
+During drowsiness, slow rolling eye movements, and dropout of muscle artifact was noted
+Moderate generalized slowing is present.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal bedside portable EEG
+generalized background slowing
+excess muscle artifact
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+a
+This EEG supports	diffuse disturbance of cerebral function, it is a nonspecific pattern which can be seen in a toxic or metabolic encephalopathy.	No epileptiform features were seen.
+This EEG does not support or refute the diagnosis of epilepsy. If additional information is needed, a repeat study in the laboratory to suggested
+
+
+

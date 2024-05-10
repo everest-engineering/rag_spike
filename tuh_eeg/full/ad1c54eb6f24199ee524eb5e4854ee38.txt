@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 64-year-old male with right cerebellar infarct, old left-sided infarct, generalized weakness, and left hand tremor.
+MEDICATIONS:  Heparin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  The patient was described as alert and following commands.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow and includes primarily a rhythmic theta background.  Superimposed upon this, there is some subtle underlying slowing in the right posterior quadrant.  There is a glimpse of the theta frequency posterior dominant rhythm.  As the patient became drowsy, there is a bit earlier drop out of faster frequency activity in the right posterior quadrant.  Eye movement and other artifacts are noted prior to the transition to stage 1 sleep with vertex waves and spindles in stage 2 sleep.  There is a slight asymmetry in the spindles noted in sleep, at times a bit more spindle on the right.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic background slowing.
+Subtle underlying focal slowing in the right posterior quadrant.
+CLINICAL CORRELATION:  There are no definitive epileptiform features noted in this record.  There are some shifting asymmetries noted and some focal slowing, which may be correlated with imaging.  If epilepsy is an important consideration, a repeat study capturing 1 of the patient's clinical symptoms may be considered.
+
+
+

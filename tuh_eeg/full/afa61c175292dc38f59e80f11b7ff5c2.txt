@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 72 year old male with hypertension, diabetes, stroke, possible seizures, renal failure on hemodialysis. Evaluate for seizures. Previous EEGs unavailable.
+MEDICATIONS: Heparin, Darbepoetin, ASA, Insulin, Imipenem, Acyclovir, Fluconazole, Pantoprazole, Norepinephrine, Vasopressin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient appears to be quite ill. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: This bedside portable EEG is remarkable for essentially continuous muscle artifact. The technologist resorts to the 15 Hz filter and at that point underneath this, the background includes beta, delta and theta.
+HR: 70 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excessively slow pattern.
+CLINICAL CORRELATION: The degree of muscle artifact described above renders this EEG of limited value. Solutions can include repeat the study in the lab when the patient is more cooperative.
+
+

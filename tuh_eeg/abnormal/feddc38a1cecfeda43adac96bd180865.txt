@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 55-year-old female presents on 01/18/2013 with history of PEA code for 25 minutes.  Past medical history is significant for fall 2 weeks ago, hypertension, and nonischemic cardiomyopathy, ethanol abuse.  Patient was recorded with concern for status epilepticus versus a nonconvulsive status epilepticus.  She was recorded in an unresponsive, unarousable state.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed at the bedside using a standard 10/20 system of electrode placement with 1-channel EKG.  The patient was recorded in an unresponsive, unarousable state.
+DESCRIPTION OF THE RECORD:  There was no cerebral brain activity noted throughout this recording.  This recording was not arranged for brain death protocol. In different montages including average differential and with a sensitivity of 2 microvolt, there was no cerebral activity noted.  There was no spontaneous variability or stimulation reactivity were noted.  Heart rate was 120 to 130.
+IMPRESSION:  This is an abnormal EEG due to absence of cerebral activity.
+CLINICAL CORRELATION:  The above findings are consistent with electrocerebral inactivity. Clinical correlation is recommended.
+
+
+

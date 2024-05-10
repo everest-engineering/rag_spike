@@ -1,0 +1,35 @@
+History:	47 YR OLD  MALE WITH PMHX OF GSW HEAD X2 25 YRS AGO. WITH
+SUBSEQUENT SZS.  LAST SZ APPROX 2 DAYS AGO WITH LOC AND
+POSTICTAL CONFUSION. PT REPORTS INCREA IN SZ ACTIVITY 7 IN 1 MONTH.
+Medications:	DILANTIN, PT CAN'T RECALL NAME OF 2ND SZ MED
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Frontally predominant 5-15uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent. Vertex waves appear.
+Continuous polymorphic delta activity in the setting of left breach rhythm is present in the left
+anterior temporal region during wakefulness, increasing during drowsiness.  Background activity
+shows higher amplitude and accentuation of faster frequencies over the left hemisphere, consistent
+with breach activity, and is frequently sharply contoured in the left frontal region.  Occasional left
+anterior temporal sharp waves with phase reversal at F7-T3 are present..
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) induces a
+minimal symmetric photic driving response.  HR is 84.
+Summary of Findings:
+Sharp waves, few, left temporal, anterior, F7-T3
+Focal slowing, polymorphic, continuous, left temporal
+Breach artifact, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of occasional epileptiform discharges in
+the left anterior temporal region.  These findings are indicative of an epileptogenic focus in this
+region, and given the clinical history, are consistent with a diagnosis of localization-related
+epilepsy.In addition  there is continuous focal slowing in the left hemisphere maximal in the
+temporal region with an associated breach.  This finding is consistent with the known GSW and
+surgery in that region.  No clinical or electrographic seizures are present.
+
+
+

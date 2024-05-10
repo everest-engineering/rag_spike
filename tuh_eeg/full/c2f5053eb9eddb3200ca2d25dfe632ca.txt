@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 69-year-old woman with complex partial epilepsy.  She presents for a “follow-up” EEG.  Seizures are characterized by dizzy spells, most recent seizure 1 week ago.
+MEDICATIONS:  Phenytoin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is a technically satisfactory EEG, although impedances in the T1-T2 electrodes were not ideal.  There was a fair amount of muscle and chew artifact noted in the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a small amount of disorganization with a low voltage, 10 Hz alpha rhythm and generous beta.  There is also some background theta noted.  Prominent theta frequency activity is noted in the temporal regions as the patient transitions in and out of sleep.  This is irregular, sharply contoured, and resembled wicket aside from its irregularity.  No definitive sharp waves are noted in these discharges, however.  Other features of drowsiness include an increase in beta and overall background slowing as well as attenuation of the alpha rhythm.
+Hyperventilation did not significantly activate the record.  Photic stimulation was performed as the patient was drifting in and out of sleep and scant driving was noted.
+Heart rate 90 bpm.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+A mild degree of background disorganization for an adult of this age in wakefulness.
+Sharply contoured theta noted in drowsiness, which resembles wicket but is somewhat irregular and somewhat more prominent on the left.
+CLINICAL CORRELATION:  No definitive sharp waves or spikes were noted.  The paroxysmal discharges described above are outside of the range of normal for a benign variant but do not have the characteristic shape of an epileptiform discharge.  Despite this, they still may represent an inter-ictal discharge for this individual.  Additional EEG recording capturing deeper stages of sleep may be of use.  Alternatively, comparison with previous studies may be of value.
+
+
+

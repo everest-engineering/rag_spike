@@ -1,0 +1,20 @@
+History:	26 year old woman undergoing L ICA aneurysm coiling.
+Medications:	INDUCTION MEDS: PROPOFOL, FENTANYL, VERSED, ROCURONIUM
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+The recording opens while the patient is still awake.  The background at that time consists of diffuse
+symmetric low amplitude fast activity.  Once patient is intubated and sedated, the recording
+consists of diffuse spindle-like waveforms admixed with fragmented polymorphic theta and delta
+activity.  During periods of deeper sedation, there is voltages decrease diffusely and periods of
+discontinuity appear.  Stent #1 is deployed at ~1:03 PM and stent #2 is deployed at ~2 PM.  There
+is no change in the background with either of the stents.
+Summary of Findings:
+Other, unremarkable study
+Interpretation:
+This is an unremarkable ~ 2 hour continuous EEG.  Stent deployment does not produce notable
+change in the background.
+
+

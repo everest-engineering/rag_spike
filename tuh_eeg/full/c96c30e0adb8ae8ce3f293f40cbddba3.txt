@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 82 year old woman with stroke and then some weeks ago a large right inferior stroke, atrial fibrillation, bilateral infarct.
+MEDICATIONS: Keppra, Lopressor, ASA
+INTRODUCTION: Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is looking to the right and is poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly abnormal pattern. The activity from the right hemisphere is very slow, featureless and lacking in faster frequency activity. On the left hemisphere, there is more of a theta frequency pattern with arrhythmic delta activity in the left posterior region. Frequent eye blink artifact is noted. There are a handful of frontal triphasic waves which can be seen bilaterally. On rare occasions, stimulation of the patient did produce scant 9 Hz alpha rhythm. Despite the abnormal and complex background and the triphasic waves, there is a suggestion of a left frontocentral sharp wave.
+HR: 78 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing.
+2. Triphasic waves
+3. A suggestion of a left frontocentral sharp wave.
+CLINICAL CORRELATION: The EEG demonstrates disruption of the frequencies from the right hemisphere compatible with a large middle cerebral artery infarct. Triphasic waves support an underlying, metabolic encephalopathy. There is a suggestion of left frontocentral sharp waves which can be obscured with triphasic waves.
+
+
+
+

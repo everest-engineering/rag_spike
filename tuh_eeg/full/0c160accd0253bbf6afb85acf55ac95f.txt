@@ -1,0 +1,25 @@
+
+CLINICAL HISTORY: 47 year old right handed woman with epilepsy after head trauma and
+alcohol abuse, seizure free since December.
+
+MEDICATIONS: Keppra, Levetiracetam
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10á20 system of
+electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are
+performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the overall EEG is relatively low voltage, but there is a 10 Hz alpha rhythm identified. It is slightly higher amplitude on the left than the right. The patient quickly transitions into stage 2 sleep. She wakes up for hyperventilation and when she does so, the alpha emerges initially earlier on the left than the right. She seems to be falling asleep in hyperventilation. An isolated, T6 high amplitude spike and slow wave complex is noted during hyperventilation and the overall pattern is one of actually more of a sleep pattern. In addition, there is some sharp wave contour or higher amplitude broadly contoured sharp waves in the anterior temporal region. After hyperventilation, the patient is more consistently awake. Unstimulated, she drifts off into stage 2 sleep and occipital sharp wave emerges. The sharp wave is 02 maximum but the spikes are T6 maximum, although there is some spread to the left occipital region. Photic stimulation is performed while the patient is in stage 2 sleep with scant driving.
+
+HR: 48 bpm and irregular
+
+Abnormal EEG due to:
+
+1. Right occipital focal slowing.
+2. Right occipital and posterior temporal sharp waves.
+3. Rare sharp waves from the left midtemporal region.
+CLINICAL CORRELATION: This EEG supports a focal mechanism for seizures. The focal
+features may be correlated with imaging. Additional evaluation for her slow and Irregular heart rate is suggested.
+
+
+
+

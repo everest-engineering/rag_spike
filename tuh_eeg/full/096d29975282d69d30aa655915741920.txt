@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  77 year old woman admitted on the 31st status post prolonged, repetitive code.  Myoclonus on admission.  No intubated, comatose with skew deviation.
+MEDICATIONS:  Depakote, Vancomycin, Albuterol, Piperacillin, Hydralazine, Zosyn, Valproate
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG..  Depakote is given in the initial section of the long-term monitoring.
+DESCRIPTION OF THE RECORD:  The initial sections demonstrated a low-voltage, suppressed pattern with left temporal sharp waves.  The activity is a bit more suppressed in the right hemisphere than the left, and the left temporal region, particularly after the Depakote, has some theta activity and some sharp waves.
+Over the course of the overnight record, the background EEG becomes lower voltage and more suppressed.  The sharp waves are seen less frequently and seem to have abated by 1:00 a.m. There are sections in the early morning record where there are no epileptiform features but there is a very low voltage featureless pattern.  This is seen also at 3:58 a.m.
+HR:    120 bpm.
+IMPRESSION:  Abnormal  EEG monitoring due to:
+Left anterior temporal sharp waves which abate over time.
+A low voltage record which is increasingly suppressed over the course of this LTM record.  It starts out on the right and by the end of the LTM record the patient's left-sided theta appears to be disappearing.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  In this individual with an anoxic insult more than 1 day prior to the start of LTM, the sharp wave resolved with treatment with Depakote, but the overall background demonstrated an increase in the slow and suppressed pattern. All the features described above carry a very ominous prognosis.
+
+
+

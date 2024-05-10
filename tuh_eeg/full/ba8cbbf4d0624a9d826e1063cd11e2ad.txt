@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 20 year old right handed male with concussion on 7/10, now presenting with dizziness 4-6 weeks duration.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is 11 Hz alpha rhythm, which is symmetric and reactive to eye opening. Hyperventilation is performed early in the record and is associated with an alpha asymmetry with disrupted alpha on the left compared to the right. There is an electrode artifact at T3 but there is also a suggestion of a breech rhythm. Brief drowsiness is characterized by rhythmic theta with occasional POSTS and rare vertex waves. Photic stimulation elicits a driving response which is better visualized on the left.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Alpha asymmetry seen in hyperventilation and an asymmetric photic response
+
+CLINICAL CORRELATION: These findings should be correlated with imaging. A structural process should be excluded.
+
+
+

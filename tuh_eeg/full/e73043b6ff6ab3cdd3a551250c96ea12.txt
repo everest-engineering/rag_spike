@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  44 year old woman with a history of drug abuse, panic disorder, and cancer.  Epilepsy, last seizure May 22.
+MEDICATIONS:  Topamax
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is a high amplitude record, with an alpha rhythm reaching 90 microvolts, 11 Hz.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation produces a driving response.  During photic stimulation there is some hypnagogic hypersynchrony as the patient starts to become drowsy.  Other features of drowsiness include slow-rolling eye movements and an increase in beta. There is a single burst of slowing from the left hemisphere.
+HR:    50 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  Hypnagogic hypersynchrony is a normal finding.  The single burst of rhythmic slowing from the left is a nonspecific finding.  To more
+completely characterize this patient's epilepsy, a more prolonged study capturing deeper stages of sleep is suggested.
+
+
+

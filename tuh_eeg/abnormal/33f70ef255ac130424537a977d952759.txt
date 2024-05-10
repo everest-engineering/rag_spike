@@ -1,0 +1,13 @@
+LENGTH OF THE RECORDING:  29 minutes.
+CLINICAL HISTORY:  The patient is a 37-year-old woman with a history of 2 generalized tonic-clonic convulsions as well as an episode of staring, mumbling, speaking gibberish, not responding during the event.  The last event occurred approximately 3 weeks ago.
+MEDICATIONS:  Keppra and Zyrtec.
+CONDITIONS OF THE RECORDING:  The recording is performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 11-11.5 Hz activity that attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitude anteriorly.  During sleep, POSTS (positive occipital sharp transients of sleep), and symmetrical sleep spindles are captured.  During hyperventilation, mild diffuse slowing of the posterior dominant rhythm was observed.  Photic stimulation results in symmetrical occipital driving at multiple flash frequencies.  There is a continuous EKG artifact.  There is diffuse excess beta activity.
+FINDINGS:
+No epileptiform discharges.
+Stage II sleep.
+Excess beta.
+IMPRESSION:  This is a normal awake and asleep 29-minute EEG.  The lack of epileptiform discharges noted on the EEG does not preclude the clinical diagnosis of epilepsy.  Excess beta could be secondary to the medication effect such as benzodiazepines or barbiturates.
+
+
+

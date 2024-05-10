@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  The patient is an 18-year-old, left handed male, with a history of head trauma at age 6 without loss of consciousness.  At the age of 10 to 11 he began to develop episodes of visual and auditory hallucinations.  These currently occur approximately every day and last between 10-15 minutes.
+RECORDING TIMES:  Recording start time was 8:43 a.m. and recording end time was 9:06 a.m.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG is performed  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  As the record opens there is a well formed medium to high amplitude 11 Hz posterior dominant rhythm that is briskly reactive to eye opening.  There is a small amount of frontal central beta activity identified which is symmetrically distributed.
+During stage 1 sleep there is attenuation of the existing posterior dominant rhythm and the appearance of 5-6 Hz theta activity.  There is also a decrease in eye blinks and the appearance of slow rolling eye movements.  Stage 2 sleep is heralded by vertex waves and 14 Hz central sleep spindles.
+Hyperventilation was performed for 3 minutes with good effort and failed to activate the tracing.
+Photic stimulation is performed at intermediate and high flash frequency ranges and induces a symmetric photic driving response at intermediate flash frequency ranges.
+There were no spikes or sharp waves detected.  There were no electrographic seizures detected.  Of note, the clinically described episodes of visual or auditory hallucinations were not captured during this recording EPOC.
+IMPRESSION:  This is a normal EEG capturing wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  A normal EEG does not rule out the clinical diagnosis of epilepsy.  If clinically indicated long term monitoring, either inpatient or outpatient, may be indicated in this patient.
+
+
+

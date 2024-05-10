@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 66 year old male found down with acute change in mental status, gout, prior stroke, CHF, abdominal ulcers and gout.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and unresponsive.
+MEDICATIONS: Unknown [none listed in chart]
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a variable pattern. At times the patient has spontaneous eye movements and there is more of a theta frequency pattern. The overall EEG is relatively low voltage. There is intermittent generalized attenuation of the background, occasional bursts of FIRDA and occasional asymmetries with more disruption of faster frequency activity from the right compared to the left.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Intermittent, generalized attenuation.
+3. FIRDA.
+4. Occasional disruption of faster frequency activity on the right.
+CLINICAL CORRELATION: There are no epileptiform features observed. These findings may be correlated with a clinical history and medication history.
+
+
+

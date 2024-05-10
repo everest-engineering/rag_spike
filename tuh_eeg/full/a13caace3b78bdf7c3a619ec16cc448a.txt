@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  Adult male with viral meningitis several months ago but no reported history of seizures.
+MEDICATIONS:  Lisinopril, Flomax, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG includes a 9 Hz alpha rhythm.  The overall pattern is rich in theta activity.  There is a subtle asymmetry with a bit more beta in the left frontocentral region.  There is also some paroxysmal theta, some of which may represent a normal variant such as wicket but also with very subtle focal slowing.
+Hyperventilation produces a slight accentuation of the subtle focal features on the left.
+Photic stimulation elicited bilateral driving.
+Heart rate:  90 BPM.
+IMPRESSION:  This is a subtly abnormal EEG due to:
+Subtle focal slowing on the left.
+A beta accentuation in the same region.
+CLINICAL CORRELATION:  There are no definitive epileptiform features noted in this record although there is some paroxysmal activity.  The focal features described above may be correlated with imaging.  If there is any concern about an underlying seizure disorder, a follow-up study may be performed.
+
+
+

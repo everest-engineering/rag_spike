@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 70-year-old woman with a change in mental status six days after aortic surgery, right cerebellar encephalomalacia.
+MEDICATIONS:  Protonix, Captopril, morphine, others.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is a awake and drowsy record in a confused individual.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG is somewhat disorganized with a posterior dominant rhythm of 7.5 hertz, excess background theta and some shifting arrhythmic delta.  Features of drowsiness include an increase in theta.  As the patient transitions in and out of stage I sleep, more sleep, irregular delta is noted and the vertex waves that were recorded are somewhat broader than usual.  As the patient transitions to deeper Stage I sleep, more conventional-appearing symmetric vertex waves were noted.
+Heart rate 66 BPM with frequent PVCs.
+IMPRESSION:
+Abnormal electroencephalogram due to #1, background slowing and disorganization.
+Slowing the alpha rhythm in apparent wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record. The background slowing and disorganization is a nonspecific finding in a subject of this age and can be due to toxic or metabolic encephalopathy or other, modest diffuse bihemispheric brain process. There were no specific hallmarks of a metabolic encephalopathy.
+
+
+

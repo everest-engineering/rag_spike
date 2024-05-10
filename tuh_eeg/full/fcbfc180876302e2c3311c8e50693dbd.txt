@@ -1,0 +1,32 @@
+History:	51 year old man with a history of seizures.  Patient has 2 episodes per month.
+Medications:	Keppra, lamictal, neurontin
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by low voltage diffuse fast activity.  Symmetric 5-15uV, 18-
+25Hz activity is present, maximal over bilateral frontal regions.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Subtle occasional polymorphic theta and delta activity is noted over the left anterior temporal
+region.  A single sharply contoured waveform is captured over the left anterior temporal region.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, left temporal, anterior, subtle
+Sharp transients, one, left temporal, anterior
+Sleep, stage 2
+Beta, excessive
+Interpretation:
+This is an ABNORMAL awake and asleep 1 hour EEG because of subtle occasional mild left
+anterior temporal slowing.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  The single sharply contoured waveform
+emanating from the left anterior temporal region is of unclear clinical significance.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+

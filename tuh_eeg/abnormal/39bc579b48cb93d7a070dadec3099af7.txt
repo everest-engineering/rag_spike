@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  23 year old right handed male with right-sided weakness and numbness on New Year's Day with previous similar episodes and past history of TPA.
+MEDICATIONS:  Benadryl.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9.7 Hz, 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  The patient transitions quickly between wakefulness into stage 1 and stage 2 sleep with vertex waves, K complexes, spindles and POSTS.  The stage 1 sleep record is relatively low voltage. The patient is falling asleep during photic stimulation and there is no driving identified.  Hyperventilation produces an increase in amplitude of the background.  There is also a small degree of slowing.
+HR:     66 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,15 @@
+History:	79 YR OLD FEMALE PRESENTS FOR PTE/MVR.   SOB, SEVERE MR POST RHC SHOWED SEVERE PHTN DEVELOPED LT SIDED HEMIPLEGIA. CT NEG FOR HEMORRHAGE. HAD CTA CHEST-MULTI B/L PE DEVELOPED ACUTE HYPOCAPNIA- RESP DISTRESS. PMHX SIG FOR PAF, HTN, ANEMIA, GERD, OSTEOPORSIS
+Medications:	INDUCTION MEDS: ISOFLURANE, VERSED, FENTANYL, KETAMINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  As the surgery sedation starts at 8:05 AM the EEG revealed a background which consists of a continuous mixture of diffuse delta with interposed beta. This background slowly became slower some periodic sharp waves are seen over the right anterior temporal region and then become generalized. The background continued  to become more diffusely attenuated as the patient is cooled until the it became symmetrically completely isoelectric.  The EEG remains Isoelectric for hours and then as the patient is warmed the background slowly becomes bursts with a mixture of delta frequencies with some frontal beta. The bursts at times are asymmetric and have some sharply countoured discharges.  The asymmetry was seen over either hemispheres at times.
+This findings are communicated to the primary team. The EEG ends with this background.
+COOLING: 9:45:29 AM 1050 SUPPRESSION: 10:15:34 AM  RE-WARM: 12:31:32 PM
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Interpretation:
+This is an uneventful 5 hour EEG during cooling for a pulmonary thromboendarterectomy. The background had intermittent slight asymmetry seen independently bilaterally at the end of the record. This is a non-specific finding.
+LocalWords:  RHC PAF

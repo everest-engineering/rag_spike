@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 65-year-old woman, found down with transient left hemiparesis, transient hypoglycemia and transient hypotension, now more awake and alert. Still intubated. CT scan negative for stroke.
+MEDICATIONS:  Aspirin, many others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and somewhat agitated.
+DESCRIPTION OF THE RECORD:  This is a technically challenging EEG.  There was significant muscle and motion artifact in an otherwise low-voltage pattern.  On rare occasion, there was a glimpse of an alpha rhythm and when the muscle artifact drops out, there is significant beta.  Toward the close of the record, there is a decrease in muscle artifact, and there is a suggestion of asymmetry with perhaps a bit more delta in the right central region than the left.
+Heart rate is 110 bpm.
+IMPRESSION:  This is a technically challenging but abnormal EEG due to:
+Replacement of normal background with a low-voltage primarily beta pattern.
+A question of a subtle asymmetry in the right hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were identified; however, there is a challenging EEG because of the degree of muscle artifact.  A followup study in the lab, after the patient has been extubated and is cooperative, is suggested if there is concern regarding seizures.  There is questionable slowing on the right which may be correlated with additional imaging.
+
+
+

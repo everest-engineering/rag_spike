@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  41-year-old right handed woman with large left MCA stroke, apathy, hemiparesis.  Evaluate for seizures.  Large stroke with hemorrhagic transformation.
+MEDICATIONS:  Keppra, Insulin, Labetalol, Lisinopril, Metformin, Cyancobalamin, Protonix, Hydralazine, Heparin, Lipitor, Fluoxetine
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG demonstrates a relatively bilaterally low slow pattern.  There is a glimpse of an 8.7 Hz alpha rhythm.  Although there is a great deal of EKG artifact there is an asymmetry with, at times, with disruption of faster frequency in the left hemisphere in comparison to the right.   As the patient transitions into sleep, there is more significant EKG artifact.
+HR: 114 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the left hemisphere.
+Intermittent, generalized slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The focal slowing described above is congruent with the imaging.  Clinical correlation may be helpful in regard to the generalized slowing.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 23-year-old male with epilepsy.  Seizures are characterized by shaking of the legs and whole body, and headache.  Last seizure was a month ago.  He takes his medications on and off.
+MEDICATIONS:  Depakote, Cogentin, Geodon.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel  EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record in a very drowsy individual.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Drowsiness is characterized by slow rolling eye movements.  Vertex waves, K complexes and spindles were noted in stage 2 sleep.  The patient was asleep during photic stimulation with the appropriate morphologies of stage 2 sleep.  He was awake during hyperventilation which did not significantly activate the record, although lambda waves were noted.
+Heart rate:  54 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in the EEG.  A normal EEG does not exclude a diagnosis of epilepsy.  Previous EEGs were not available for comparison.  If needed, a more prolonged tracing or a sleep deprived EEG may be of value.
+
+
+

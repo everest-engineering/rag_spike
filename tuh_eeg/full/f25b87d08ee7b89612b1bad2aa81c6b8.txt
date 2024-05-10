@@ -1,0 +1,35 @@
+AGE: 38 y.o.
+SEX :male
+DATE OF STUDY: 11/30/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and asleep EEG # : 15-1740
+HISTORY :
+38 y.o. male with a history of reported seizures since age 14, cerebral aneurysm, schizophrenia , anxiety,
+and OM referred for routine EEG after presenting with seizure (shaking + tongue bitten) followed by left sided weakness and slurred speech .
+MEDICATIONS: Lovenox , insulin SEDATION: None
+TECHNIQUE :
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND :
+The study consists of mostly drowsiness and stage II sleep.
+During brief periods of wakefulness, the background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal
+anterior-to-posterior gradient.	Wakefulness is characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric POSTs, sleep spindles and K-complexes. Slow wave sleep was not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake and asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake and asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+

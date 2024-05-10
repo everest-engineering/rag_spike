@@ -1,0 +1,28 @@
+
+History:	44YR WOMAN ADMITTED FOR ALTERED MENTAL STATUS, RIGHT FACIAL
+DROOP, SLURRED SPEECH. HX SUBDURAL HEMATOMA, LEFT OCCIPITAL
+CRANIOTOMY IN 2013. HEART FAILURE, LVAD. NORMAL HEAD CT.
+Medications:	ASA, WARFARIN, GABAPENTIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm.  Symmetric 5-15uV, 18-25Hz
+activity is present, maximal over bilateral frontal regions.
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Technical difficulties: There is a
+continuous artifact at about 1Hz throughout the recording, which limits detection of focal slowing in
+this EEG. This artifact seems to follow the EKG rhythm, and therefore is most likely a result of the
+patient's LVAD.  HR was 60.
+Summary of Findings:
+Artifact, other, continuous diffuse, centrally predominant
+Interpretation:
+This is a NORMAL EEG, awake and drowsy. Interpretation is limited by continuous artifact. No
+epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+
+
+
+

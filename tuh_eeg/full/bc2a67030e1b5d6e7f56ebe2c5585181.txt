@@ -1,0 +1,28 @@
+CLINICAL HISTORY:  This 57-year-old woman with pulmonary disease, status post cardiac arrest, patient was receiving propofol and when propofol was discontinued, she had focal seizures.
+MEDICATIONS:  Phenytoin, propofol, others.
+INTRODUCTION:  Continuous video EEG monitoring is performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was intubated, comatose without clinical seizures.  Tactile stimulation was performed.
+10/21/2014 to  10/22/2014
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is on a Versed drip of 8.  The overall EEG is low voltage and suppressed.  There is a great deal of EKG artifact, but there is a continuous EEG pattern with lower voltage theta and smaller amounts of beta as well as intermittent attenuations.  Intermittently, particularly in the 1st 12 hours of the recording, there is subtle, periodic activity noted in the right frontocentral region with some component on the left as well.  This does not evolve.  No clinical seizures are associated with this.  Tactile stimulation of the patient does not significantly activate the record.
+Around 6 p.m, the periodic activity recurs and the midazolam drip is increased to 10.  At 4 a.m., the patient's blood pressure declines and the midazolam is decreased back to 8.  The EEG remains relatively unchanged and in the later hours of the EEG recording, with reduction of antiepileptic medications, the background EEG is low voltage and more suppressed.
+Heart rate irregular 100-120 BPM.
+IMPRESSION:  Somewhat challenging EEG in regard to the significant amounts of EKG artifact, but is remarkable for,
+A low voltage suppressed and unreactive pattern, a dynamic pattern which demonstrates a declining cerebral activity over this 24-hour section.
+Periodic activity which is very challenging and difficult to differentiate from the EKG artifact.  In the initial hours of the record and intermittently in the 1st 12 hours of the record, there is periodic activity which is a bit more sustained at 6:40 a.m. and then seen intermittently again at 11 a.m. and close to the 6 p.m., but appears to have abated with an increase in midazolam.
+A decline in cerebral activity over the overall recording even with reduction of medications with a lower voltage more featureless pattern.
+CLINICAL CORRELATION:  This EEG supports a severe anoxic insult.  The periodic activity seems to be declining and the subtle seizures have abated.  Of note, this patient's EEG pattern over 2 days demonstrates many different ictal patterns, as can be seen in the context of anoxic encephalopathy.
+See page 2 for the final day of EEG recording
+10/22/2014 to  10/23/2014
+MEDICATIONS:  Phenytoin, midazolam drip reduction and cessation.
+INTRODUCTION:  Continuous video EEG monitoring performed at the bedside in ICU using standard 10-20 system of electrode placement, 1 channel of EKG.  The patient was intubated, unresponsive with occasional eye movements.
+DESCRIPTION OF THE RECORD:  The initial hours of the EEG demonstrated a very low voltage, overall suppressed EEG with EKG artifact.  As the recording continues on the 22nd, there is more eye movement artifact.  It is overall, a low voltage, relatively featureless record.
+The video camera does not work well during the final hours of the EEG and there is no video.  The patient is noted to have oral automatisms, which produced some artifact in the background.
+Heart rate 112 bpm.
+IMPRESSION:  This is the final day of continuous video EEG monitoring for the patient, who experienced repetitive seizures on the 19th.
+The long-term monitoring session is abnormal due to:
+Repetitive seizures, as described in EEG reports on October 19th.
+The appearance of periodic activity, which abated on the 20th.
+The ultimate development of a low voltage, relatively featureless and not particularly reactive pattern.
+CLINICAL CORRELATION:  This EEG supports a severe underlying disturbance of cerebral function, but the patient's seizures have abated.
+
+
+

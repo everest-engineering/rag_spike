@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 69-year-old male with generalized weakness, falling, episode of loss of consciousness for 5 minutes, with no postictal phenomenon.  The patient recovered when he was placed supine in bed.
+MEDICATIONS:  Insulin, aspirin, labetalol, B12, Zocor.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was drowsy throughout the record.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow pattern.  Brief arousal produces eye opening and then the patient drifts back into a relatively drowsy state with a rhythmic, 6 to 7 hertz pattern.  Deeper stages of sleep were not achieved, but occasional bursts of rhythmic frontal delta were noted.
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to generalized background slowing
+CLINICAL CORRELATION:  No epileptiform features were noted in the record.  The generalized background slowing is a nonspecific finding, which can be seen in the context of toxic or metabolic encephalopathy, B12 deficiency, as well as postictal state.
+
+
+
+

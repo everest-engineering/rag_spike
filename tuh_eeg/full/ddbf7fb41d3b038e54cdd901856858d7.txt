@@ -1,0 +1,28 @@
+History:	77 year old male with intracranial hemorrhage, change in mental status and a
+history of complex partial seizures.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right hemisphere.
+The background over the left consists of 8- 8.5 Hz PDR, excess polymorphic theta activity and
+preserved AP gradient.  The background over the right hemisphere consists of polymorphic 8 Hz
+PDR with poor AP gradient, excess theta and delta activity.  During wakefulness over the right there
+is overriding prominent semi-rhythmic delta activity that  resolves during drowsiness and sleep.
+Sleep is characterized by diffuse theta and delta activity and occasional sleep spindles.  Sleep
+No electrographic seizures are captured.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, right hemispheric, more prominent anteriorly
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and asleep portable 22-seconds EEG due to continuous moderate
+right hemispheric slowing that is more pronounced during wakefulness. This finding is indicative of
+a focal structural lesion in this region.  No electrographic seizures are present.
+
+
+
+

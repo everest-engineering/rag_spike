@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 78-year-old woman with a history of seizures who was found down at home.  The patient does not recall the event.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was performed.  Stepped photic stimulation was not performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low to moderate amplitude 9.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at the lower amplitudes anteriorly.  No normal sleep architecture is captured.  Intermittent bitemporal theta and delta activity is observed.  Hyperventilation was performed and resolve in symmetrical diffuse slowing.  Stepped photic stimulation was not performed.  A single EKG lead demonstrates a regular heart rate.
+FINDINGS:
+Intermittent moderate bitemporal slowing.
+No epileptiform discharges.
+No stage 2 sleep.
+IMPRESSION:  This is an abnormal awake only 21-minute EEG due to intermittent bitemporal moderate slowing.  This finding indicates focal cerebral dysfunction, possibly structural in etiology, and could be explained by the patient's history of Alzheimer disease.  The lack of epileptiform discharges on routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

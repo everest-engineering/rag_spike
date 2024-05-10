@@ -1,0 +1,10 @@
+CLINICAL HISTORY: A 42-year-old woman with a single episode of shaking in bed during sleep but without postictal confusion.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG. The patient seems to be very drowsy during the EEG.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage with a 9 Hz posterior dominant rhythm and a small amount of low-voltage frontocentral beta activity. The patient readily drifts into stage II sleep with brief arousals from sleep. There is a suggestion of snore artifact.
+Hyperventilation produces a small amount of background slowing. Photic stimulation is performed while the individual is drifting in and out of stage II sleep with K complexes. There is scant driving. Heart rate 84 bpm.
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform features are observed; however, the snore arousals may be correlated clinically and may be relevant to this patient's complaints.
+
+
+

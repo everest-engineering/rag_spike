@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is an 88-year-old woman with change in mental status, no history of seizures, and no history of stroke reported to technologist.
+MEDICATIONS:  Lovenox, Coumadin, and Haldol.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  This study was performed in the lab.  It was technically acceptable and photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat disorganized.  There is a 9 Hz posterior dominant rhythm identified bilaterally, but in relaxed wakefulness, disrupted on the left relevant to the right.  Notable in this record, in wakefulness and drowsiness is higher amplitude, focal slowing from the left, frontotemporal region.  This is sharply contoured with an underlying left frontal sharp waves.  Cognitive testing was performed with the patient where lambda wave was noted and the patient was awake, alert, but confused.
+Heart rate irregular, 100 bpm.
+IMPRESSION:  Abnormal EEG in wakefulness and drowsiness due to:
+Focal slowing from the left hemisphere with higher amplitude, rhythmic focal slowing primarily in the left frontal region.
+Underlying sharp waves at Fp1-F3 maximum.
+Modest degree of background bilateral disorganization in early drowsiness.
+CLINICAL CORRELATION:  The focal features may be correlated with imaging.  Sharp waves suggest a focal mechanism for seizures.  If this patient is thought to have paroxysmal spells, additional EEG monitoring is suggested.
+
+
+

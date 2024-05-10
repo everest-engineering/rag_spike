@@ -1,0 +1,29 @@
+:
+History:	51 YO FEMALE WITH HX OF EPILEPSY. NEW BREAKTHROUGH EVENTS W/ LOC
+12/23/2013.
+PT HUSBAND HAS VIDEO OF EVENT.
+STARTED EMU 2/10/14.
+Medications:	KEPPRA, RAMIPRIL
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+There is continuous focal delta slowing present over the right hemisphere maxima in the fronto-
+temporal region.  There are very frequent right fronto-temporal sharp waves seen maximal at F8-
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Sharp waves, frequent, right temporal, anterior
+Focal slowing, polymorphic, continuous, right temporal, anterior
+Interpretation:
+This is an ABNORMAL EEG, awake, drowsy, and asleep due to focal slowing and spikes in the right
+fronto-temporal region. These findings are indicative of a structural brain lesion and potentially
+epileptogenic focus in this region, and given the clinical history of partial seizures, are consistent
+with a diagnosis of localization-related epilepsy.
+
+

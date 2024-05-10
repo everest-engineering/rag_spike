@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 21-year-old right-handed woman, who has developed twitching in the left eye, followed by migraine headaches, 10/10 pain.
+MEDICATIONS:  None.
+INTRODUCTION:  A 30-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake through stage II sleep record.  The patient was initially very anxious with a lot of muscle and the technologist ran the study longer to capture stage II sleep.
+DESCRIPTION OF THE RECORD:  The overall EEG is well organized with a 9.5 Hz alpha rhythm.  This is suggestion of a 9 hertz Mu rhythm, but testing was not performed to confirm this.  Stage II sleep includes vertex waves, K-complexes, spindles, and POSTS.
+Hyperventilation did not activate the record.  Photic stimulation elicited bilateral driving.  Heart rate:  72 bpm.
+IMPRESSION:  Normal EEG in wakefulness and stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features are identified in this record.  Normal EEG does not exclude a diagnosis of epilepsy.  Tension and migraine headaches do not classically have an EEG signature.
+
+
+
+
+

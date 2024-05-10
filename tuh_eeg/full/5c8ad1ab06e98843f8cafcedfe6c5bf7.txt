@@ -1,0 +1,19 @@
+
+CLINICAL HISTORY: 	56 year old male with respiratory arrest, COPD, cellulitis, homeless male, now found with left eye deviations, large and poorly reactive pupils, posturing on the left, but interactive.
+
+MEDICATIONS:  Metoprolol, Diltiazem, Warfarin, Ativan, Protonix, Lispro, Vancomycin, Azithromycin, Zosyn, Thiamine, Folic acid
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has significant muscle activity.  He remains with his head deviated to the right.
+
+DESCRIPTION OF THE RECORD:  This EEG does appear to have some 10 Hz activity in the background.  As the patient becomes a bit drowsier, the muscle activity
+decreases and there is áa lower voltage mixed beta and delta pattern.  On some
+occasions, in quiet wakefulness there is a posterior dominant rhythm, best identified on the left with 5.5 Hz.  This is not easily discerned on the right.
+
+HR: 	150 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. 	A pattern of generalized background slowing.
+2. 	An asymmetric posterior dominant rhythm which is 5 Hz on the left, but not well defined on the right.
+
+CLINICAL CORRELATION: This EEG is more supportive of a bihemispheric, diffuse disturbance of cerebral function.  There is no epileptiform activity. There is concern about an underlying process in the right hemisphere,  although this is also a bilateral pattern.  Additional EEG recording or other imaging is suggested.
+

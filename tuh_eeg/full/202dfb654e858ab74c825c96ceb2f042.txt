@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 69-year-old with refractory epilepsy, s/p cluster of sleep cures on 12/2/2012
+MEDICATIONS:  Depakote, Topamax, Bactrim.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient had been agitated prior to the EEG.
+DESCRIPTION OF THE RECORD:  Much of the EEG includes drowsiness, given the patient's behavior. The EEG is diffusely slow.  Superimposed upon this is some slow, periodic delta or periodic sharp waves maximum at F3.  Rare sharp waves are noted at FP1 or F3, which are discrete in nature.  In addition, there is also some very subtle, underlying posteriorly predominant delta which has bilateral representation.  It seems to be a bit more remarkable in the left posterior temporal region.
+Stimulation of the patient produces an arousal with an increase in muscle artifact.  In addition, on some occasion stimulation of the patient accentuates a bit of beta asymmetry, at times with a bit more beta in the right frontal region compared to the left.  It may accentuated the sharp waves in the left central region.  On rare occasions there is a glimpse of the posterior dominant rhythm on the right, but in wakefulness the patient tends to be a bit agitated and it is more difficult to define the maximal waking record.
+Heart rate:  60 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing from the left hemisphere with features most prominent in the left central region.
+Left frontal sharp waves.
+Some periodic delta in the left central region.
+Some additional vague, slow, periodic activity which appears in the posterior region.
+CLINICAL CORRELATION:  Overall this EEG is significantly improved compared to a previous study in that the patient is more awake and there is less background slowing.
+As the patient is more awake, focal features are more prominent in the left frontal region.
+
+
+

@@ -1,0 +1,10 @@
+HISTORY: 33-year-old right-handed woman with fugue states, evaluate for complex absence epilepsy. Depression, Medications, unknown.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.
+Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF RECORD: In maximal wakefulness, there is a 9 Hz alpha rhythm. Drowsiness is characterized by background slowing. Hyperventilation was performed early in the record and functions to alert the patient and then elicits some theta. In the drowsy record, high amplitude bursts of hypersynchronous rhythmic slowing are noted with vertex and then arousals. There is asymmetric muscle artifact noted in the EEG. Bursts of stage I sleep with vertex waves are noted prominently as the patient transitioned in an out of stage I sleep. Photic stimulation is completed as the patient is drifting in and out of sleep. Despite this, harmonic and supra-harmonic driving was observed.
+HR: 72 bpm
+IMPRESSION:Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features were noted. Multiple, drowsy patterns were noted but these are all normal findings.
+
+
+

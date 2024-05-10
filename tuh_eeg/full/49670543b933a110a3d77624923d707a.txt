@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 49 year old right handed male with 10 seconds of left sided weakness and word finding difficulties. The patient is preoperative for right carotid endarterectomy.
+MEDICATIONS: Aspirin, Hydralazine, Propofol, Fentanyl, Versed
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD: The awake and drowsy record are obscured by significant muscle and movement artifact. The patient drifts in and out of stage 1 sleep with vertex waves. By the close of the record an 11 Hz alpha rhythm can be identified, despite the great deal of artifact.
+HR: 60 bpm
+IMPRESSION: This EEG does not identify focal or epileptiform activity.
+
+CLINICAL CORRELATION: Some of the technical challenges with muscle artifact should not be such an issue during the patient's intraoperative study, which would be a sedative study.
+
+
+
+

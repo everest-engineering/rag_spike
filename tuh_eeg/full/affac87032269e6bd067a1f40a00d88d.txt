@@ -1,0 +1,26 @@
+History:	An unknown male found down with left head trauma.
+Medications:	Protonix, Keppra, Heparin, Lorazepam, Fentanyl, Zosyn, Vancomycin,
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR and no AP gradient.  There is right-to-left interhemispheric asymmetry with
+voltage attenuation and slower waveforms over the right.  The background on the right is primarily
+attenuated with occasional delta activity present.  The background over the left consists of
+intermittent 4-5 Hz activity, most prominent frontocentrally.  No normal sleep architecture is present.
+No clear epileptiform discharges are noted.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate -to- severe
+Focal slowing, polymorphic, continuous, severe, right hemispheric
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL 21-minute EEG due to moderate-to-severe diffuse background slowing and
+focal right hemispheric slowing. Diffuse slowing is indicative of moderate to-severe diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing in the right hemisphere
+indicates focal cerebral dysfunction, likely structural in etiology.  Right hemispheric background
+attenuation could be related to a fluid collection between the skull and the brain, such as
+empyema, SDH, etc.  No electrographic seizures are present.
+
+

@@ -1,0 +1,42 @@
+History:	73YR OLD MALE PRESENTS WITH H/O 3 DAYS OF ALTERED MENTAL STATUS,
+FOUND TO HAVE INTRACRANIAL HEMORRHAGE LEFT FRONTAL.
+Medications:	KEPPRA, VIMPAT
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 12/16/2015 to 12/17/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the attending neurologist for detection of seizures and changes in EEG
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Periodic lateralized epileptiform discharges (PLEDs) or LPD lateralized
+periodic discharges are present in the F7/T3 with a large field at times at C3 region at a rate of 1
+Hz.  The LPDs have polyspikes and  superimposed fast (+F) and superimposed semi-rhythmic
+activity (+R).  Seizures:sudden left central maximal low amplitude rhythmic beta discharge that
+evolves in frequency last for 30 seconds up to a ~1 minute with a sudden end.  The video show that
+the patient has sudden tonic right gaze deviation during this seizures. They became more frequent
+and by the end of the record he was having about 4 per hour.
+They occurred about 5 per hour for the first 6 hours of the record then they stopped.
+Hyperventilation and photic stimulation were not performed.  HR was 60 an IRR at first but later
+Summary of Findings:
+Seizure, frequent, left frontal
+PLEDs-plus, continuous, left frontotemporal
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  frequent left central seizures with right tonic gaze
+deviation. These seizures stopped after 6 hours of record.  In addition there are large field PLEDs in
+the left fronto temporal and central region, these findings are both indicative of an epileptogenic
+and irritable region over the left central and temporal region consistent with the known
+hemorrhage.  Lastly there is severe diffuse background slowing and slow alpha rhythm.These
+findings are indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.improved.
+
+
+
+

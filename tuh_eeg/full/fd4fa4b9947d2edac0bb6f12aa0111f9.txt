@@ -1,0 +1,25 @@
+History:	72 YO MALE WITH PACE MAKER AND DX WITH CARDIAC AMYLOID, PRESENTED
+TO ED WITH SOB AND CHANGE IN MENTAL STATUS.
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 8-8.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Diffuse beta activity is present, maximal over bilateral frontal
+regions.  There is diffuse muscle artifact almost throughout the recording.  There is excess diffuse 7
+Hz theta activity during wakefulness.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz
+slow waves appear diffusely.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 100 bpm.
+Summary of Findings:
+Beta diffuse
+Diffuse slowing, rhythmic
+Artifact, EMG diffuse
+Interpretation:
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates. This is an abnormal and technically limited EEG due to  diffuse background slowing
+and slow alpha rhythm.  These findings are etiologically nonspecific indicators of diffuse cerebral
+dysfunction.  EEG is limited because of abundant EMG artifact.  If clinically indicated, suggest
+repeat EEG.  No clinical or electrographic seizures are present. Note the patient is tachycardic.
+

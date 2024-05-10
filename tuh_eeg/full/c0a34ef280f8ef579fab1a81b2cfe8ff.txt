@@ -1,0 +1,25 @@
+History:	55 year old man who was found down.
+Medications:	Ativan
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+The background consists of polymorphic 10 Hz alpha posteriorly, expected but weak AP gradient,
+excess polymorphic theta activity, underriding fast activity and frequent eye blinks/ lateral eye
+movement bifrontal artifact.  Patient remains awake throughout the recording.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart
+rate of ~110 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Beta, excessive
+Interpretation:
+This is an ABNORMAL awake-only 24 minute EEG due to mild diffuse slowing and disorganization.
+These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction, that, in
+this case, is at least partially medication induced.  Excessive beta activity could be secondary to the
+medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+

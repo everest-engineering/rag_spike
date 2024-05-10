@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 79 year old right handed woman with rheumatoid arthritis who became agitated at MRI earlier today.
+MEDICATIONS: Metoprolol, Galantamine, Lipitor, Fosamax, Omeprazole, Febuxostat
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient between being agitated and snoring.
+DESCRIPTION OF THE RECORD: The background EEG is lower voltage particularly in the initial sections. There is a great deal of artifact. As the recording more of a beta pattern is followed by additional alpha theta frequency activity. Stimulation of the patient produces a brief alerting.
+HR: 60bpm
+IMPRESSION: Technically challenging EEG due to:
+1. Low voltage.
+2. Primarily beta frequency pattern.
+CLINICAL CORRELATION: Given the clinical history, although there no medications listed, this patient is likely to have been sedated with Additional EEG monitoring as the patient's mental status improves may be of value.
+
+
+

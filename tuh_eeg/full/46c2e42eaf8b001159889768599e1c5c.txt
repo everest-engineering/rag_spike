@@ -1,0 +1,20 @@
+CLINICAL HISTORY: 30 year old male with refractory epilepsy with recent cluster of 2 seizures. Life-long history of epilepsy.
+
+MEDICATIONS: Clonazepam, Lamictal, Felbamate, Depakote, Celexa.
+
+INTRODUCTION: Digital video EEG was performed In lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy study with hyperventilation and photic stimulation.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low-voltage frontocentral beta. Intermittent focal slowing is identified from the right mid temporal region. Hyperventilation seems to accentuate both focal slowing from the right temporal region as well as right mid to anterior temporal sharp waves. There are also some bursts of right rhythmic temporal theta. When the patient Is anxious, the EEG Is obscured by muscle and then when he relaxes, the right temporal focal slowing returns. Photic stimulation elicits minimal driving. Hyperventilation seems to have accentuated these findings.
+
+HR: 66 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Right temporal focal slowing.
+2. Right temporal sharp waves.
+3. Right temporal TIRDA.
+
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.
+
+
+
+

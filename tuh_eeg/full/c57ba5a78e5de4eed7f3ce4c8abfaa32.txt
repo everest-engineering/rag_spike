@@ -1,0 +1,29 @@
+History:	53 year old man with a history of seizures that occur about once per month, mostly
+during sleep.  Patient has a VNS and the battery is scheduled to be replaced in
+August, 2014.
+Medications:	Keppra, Neurontin, Lamictal
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by low-voltage 9.5-10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is observed.  During brief drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Repetitive low amplitude fast frequency artifact lasting ~ 30 seconds is noted throughout the
+recording, including EKG lead.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Artifact, other, VNS
+Interpretation:
+This is a NORMAL 21-minute EEG, awake and drowsy.  No epileptiform discharges were present,
+but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information. Intermittent VNS artifact is seen throughout the recording.
+
+
+

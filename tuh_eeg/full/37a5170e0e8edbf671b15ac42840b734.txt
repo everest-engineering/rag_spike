@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  49 year old left handed male, admitted with left posterior frontal likely tumor, Xanax and alcohol dependence.
+MEDICATIONS:  Keppra, Lovenox, Protonix
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage, but there is an 11 Hz alpha rhythm identified bilaterally.  This is a little higher amplitude on the right compared to the left.  Features of drowsiness include an increase in beta in this overall relatively low voltage EEG.  Features of drowsiness include a decrease in eye movements.
+HR:    60-102 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The excessive beta may be due to this patient's medications or anxiety.
+
+
+

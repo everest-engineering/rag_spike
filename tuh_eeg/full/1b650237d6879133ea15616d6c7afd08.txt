@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 69-year-old woman, admitted November 17th, with pyelonephritis, SIRS, and now with intermittent inability to recognize faces.  The patient is aware that she cannot recognize the faces of her family, but could recognize the picture of Barack Obama.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Actually, it was at the bedside, and hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm.  Drowsiness was characterized by an increase in faster frequency activity.
+In wakefulness, despite some asymmetric eye movement artifact and some EKG artifact, there is subtle underlying slowing in the left frontocentral and frontotemporal region.  This may include isolated beta or occasional delta activity.
+Heart rate: irregular, 55-65 bpm.
+IMPRESSION:  Abnormal EEG due to
+left temporal focal slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The left temporal focal findings are in contrast to this patient's imaging with right occipital focal features.
+
+
+
+
+
+

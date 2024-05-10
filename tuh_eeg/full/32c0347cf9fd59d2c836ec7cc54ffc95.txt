@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  21 year old woman found unresponsive on August 4, last seen normal several hours beforehand, found unresponsive following ingestion of cocaine, PCP, and marijuana.
+MEDICATIONS:  Vancomycin, Heparin, Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous pattern with high amplitude slow delta.  There is variability in the record.  Some sections demonstrate more beta or alpha frequency activity.  Others demonstrate more FIRDA.  Significant ICU artifact with slow sweat artifact was observed.
+HR:    150 bpm
+IMPRESSION:  Abnormal EEG due to:
+A slow and disorganized pattern.
+Frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  The previous EEG for this patient was performed under the name MED1082, Female.  This EEG continues to demonstrate a slow pattern with
+prominent frontal delta.  It is perhaps not quite as slow as it was earlier this week.  There are no epileptiform features noted and no strongly lateralizing features observed.
+
+
+

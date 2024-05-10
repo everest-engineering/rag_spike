@@ -1,0 +1,13 @@
+CLINICAL HISTORY: A 22-year-old male, transferred from prison to an outside hospital with multiple recurrent seizures. History of childhood epilepsy, asthma, schizophrenia, no known structural abnormalities on MRI.
+MEDICATIONS:   Depakote, Keppra, Ativan, Celexa.
+INTRODUCTION: A 20-minute digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG. The patient was relatively somnolent. Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD: The EEG demonstrates a diffusely slow pattern with rhythmic theta and delta.  Spontaneous eye opening and movements are noted, as is some chewing artifact.  In this diffusely slow record, there is some bursts of shifting slowing and subtle asymmetry characterized by somewhat lower voltage pattern on the right with a bit more arrhythmic delta activity and a bit more theta on the left. Stimulation of the patient produces a bit more theta as well as eye opening.
+Heart rate 80 bpm.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified. Overall background described above is typical of a toxic or metabolic encephalopathy, notable for this individual elevated serum ammonia. If additional information is needed, either a repeat study or a long-term EEG monitoring may be of value.
+
+
+
+

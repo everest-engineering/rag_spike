@@ -1,0 +1,31 @@
+History:	81 yo F brought in by family for R sided weakness and slurred speech,  PMHX- HTN
+HPL
+MRI SHOWS PONTINE STROKE AND OCCLUSION OF BILATERAL AND
+Medications:	Metoprolol, Zosyn
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, awake, drowsy, lethargic
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric beta activity is present, maximal over bilateral frontal
+regions.  There is excess diffuse theta activity during brief periods of wakefulness.  Intermittent brief
+bursts of diffuse frontally predominant delta activity is noted lasting 2-3 seconds.  During drowsiness,
+the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+Intermittent polymorphic delta activity is present in the right temporal region (F8/T4) during brief
+periods of wakefulness, increasing during drowsiness.  There is also occasional independent
+polymorphic right temporal slowing.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation is not performed.  HR is 100.
+Summary of Findings:
+Diffuse slowing, polymorphic
+FIRDA (frontal intermittent rhythmic delta activity) diffuse
+Focal slowing, polymorphic, bilateral (R>L) temporal, Independent
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing and
+frequent bursts of frontal intermittent rhythmic delta activity (FIRDA).  These findings are indicative
+of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Intermittent
+independent focal slowing in the bitemporal regions (right more than left) is indicative of focal
+cerebral dysfunction.  Please note the patient is tachycardic.
+
+
+

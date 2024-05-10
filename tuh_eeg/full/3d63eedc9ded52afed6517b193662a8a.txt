@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 54-year-old man with previous stroke and new onset seizure over the past 2 months with loss of consciousness, urinary incontinence, and postictal confusion.
+MEDICATIONS: KEPPRA
+INTRODUCTION:  A routine 21-channel EEG was performed utilizing the standard 10-20 system of electrode placement along with hyperventilation, photic stimulation, EKG, and EOG monitoring.
+DESCRIPTION OF THE RECORD:  The awake resting background reveals a moderate amount of 15-20 microvolt, 9-10 Hz rhythmic activity posteriorly.  A large amount of muscle artifact and generalized low voltage 20-30 Hz beta-activity was seen.  Prominent eye blink artifact was also noted.  With drowsiness, there was initial slowing followed by attenuation of posterior rhythmic activity and increasing frontocentral low to medium amplitude makes frequent theta activity.  Brief stage 2 sleep was seen with further attenuation of muscle artifact and beta and vertex waves along with very brief central sleep spindle activity.  Hyperventilation produced no significant activation of record.  Photic stimulation added no additional information.  EKG monitor showed normal sinus rhythm at 69 per minute with ST-T wave abnormalities.
+IMPRESSION:  Normal awake, drowsy, and sleep EEG.
+
+
+
+
+
+

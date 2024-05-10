@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 47 year old right handed male with chronic static encephalopathy epilepsy, underlying sleep disturbance
+MEDICATIONS: Phenobarbital, Keppra, Citracal
+INTRODUCTION: Digital video EEG was performed in lab using standard10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz rhythm and a generous amount of low voltage frontocentral beta activity.  There is a small amount of shifting arrhythmic theta noted in the background. Hyperventilation produces prominent rhythmic theta as well as some paroxysmal slowing and some shifting slowing. In hyperventilation, there are a handful of sharp waves identified at T2, FP2, and F8.  The hyperventilation response is quite high amplitude, and this higher amplitude activity is seen in the minutes that follow hyperventilation.  There is suggestion of a generalized 3-5 Hz frontal discharge volume hyperventilation.  During hyperventilation, there are a few more right temporal sharp waves, but following hyperventilation more discreet anterior temple sharp waves are observed.  Photic stimulation does elicit a driving response.
+HR 50-60 bpm
+IMPRESSION: Abnormal EEG due to
+1. excess beta
+2. a small amount of excess theta
+3. independent right temporal sharp waves
+4 a suggestion of frontally predominant generalized spike and slow wave complex identified in hyperventilation
+CLINICAL CORRELATION These findings are similar to previous EEG's.  This patient has previously had temporal sharp waves and frontal generalized activity.
+
+
+

@@ -1,0 +1,27 @@
+History:	43 year old woman with a history of seizures and strokes.
+Medications:	Dilantin, paxil, plavix
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm consists of moderate amplitude 9 Hz alpha activity that attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+There is subtle paucity of faster frequencies and voltage attenuation over the right, especially
+temporal/ frontocentral region.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Focal slowing, polymorphic, continuous, mild, right, especially over the temporal and
+Interpretation:
+This is an ABNORMAL awake and drowsy 22 minute EEG due to subtle continuous mild right
+hemispheric slowing and mild voltage attenuation that are most pronounced over the temporal and
+frontocentral regions. This finding is indicative of a focal structural lesion in this region.  No
+epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+

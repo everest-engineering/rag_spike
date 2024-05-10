@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 90-year-old woman with recurrent stroke on the 20th.   Increasing left-sided weakness, treated briefly with Keppra.
+MEDICATIONS:  Lipitor, Aricept, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were deferred.  This is a technically acceptable EEG, although there were some electrodes with impedance greater than 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG demonstrates an asymmetry.  While both hemispheres are slow, the left hemisphere includes a diffusely slow pattern with 6 hertz theta.  The right hemisphere demonstrates more significant arrhythmic delta activity with disruption of faster frequency activity.  The patient is somewhat inattentive and frequent chew artifact was noted.
+Occasional sharp waves were noted in the right frontal/frontotemporal region.  These seem to attenuate with stimulation.  Arrhythmic delta activity with both notable in the right frontal central/frontotemporal region.
+Heart rate 90 bpm.
+IMPRESSION:  This is a technically somewhat challenging, but abnormal EEG due to:
+Generalized background slowing.
+An asymmetry with more significant arrhythmic delta activity and more slowing on the right.
+Occasional right frontal sharp waves are sharply contoured transients in the context of right frontal central focal slowing.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG supports a structural process on the right with a cortical stroke, the sharp waves are in the region of the ischemic deficit.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 48-year-old woman with Down's syndrome and thyroid disease.  The patient developed seizures two weeks ago and now has episodes five times per day.  The patient describes seeing strange things, then has a tonic-clonic seizure with loss of consciousness for three minutes.  Recently evaluated in an outside hospital for these symptoms which did not require seizure medications.
+MEDICATIONS: Levothyroxine
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed. This was an awake and asleep record.
+Technical: There is a fair amount of muscle artifact and the patient has some difficulty cooperating.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is disorganized with excess theta.  An alpha rhythm is identified which is approximately 7.5 Hz.  There is prominent beta.
+Hyperventilation produced an increase in beta as well as an increase in amplitude of the background.  As the recording continued, the patient was quite restless.  Features of drowsiness include hypersynchronous rhythmic theta and frontal beta.  Deeper stages of sleep were not sustained.
+Photic stimulation elicited a driving response at intermediate flash frequencies.
+Following photic stimulation, lambda waves were noted as the patient looked about the lab.
+Heart rate 66 bpm, slightly irregular.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to
+Slowing of the alpha rhythm.
+Background disorganization.
+Clinical correlation: No epileptiform features were identified.  Deeper stages of sleep were not obtained in this patient who had great difficulty cooperating.  If additional information is needed, a more prolonged EEG may be of value.
+
+
+

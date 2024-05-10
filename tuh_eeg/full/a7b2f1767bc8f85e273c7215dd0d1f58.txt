@@ -1,0 +1,24 @@
+﻿History:	65 yo woman presenting from an OSH after a cardiac arrest.
+Medications: Depakote Sedation:
+EEG Type:	Continuous (inpt, video),24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes. lethargic, comatose
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  -13 hours from 10/08/2014 till 10/09/2014.  Nursing­ initiated event buttons were correlated with clinical behavior   Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There 1s no PDR or AP gradient.  Early in the recording the background consists of moderate-to-high amplitude 1.5-2 Hz b1frontal sharply contoured delta activity without clear reactivity As the recording progresses, there 1s diffuse background attenuation  No change in medical therapy  is noted on the recording. No normal sleep architecture is present.
+
+There 1s no reactivity to visual, auditory, tactile, or noxious stimuli.
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+
+Interpretation:
+This is an ABNORMAL -13 hour continuous video EEG due to severe diffuse slowing and lack of clear background reactivity These findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction. As the recording progresses. the background attenuates and slows further - this could be related to increased ICPs, change in anesthesia, gradual progression to the ECI  These findings were conveyed to the neurology consult team.
+
+
+

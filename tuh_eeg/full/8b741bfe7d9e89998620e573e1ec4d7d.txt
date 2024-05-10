@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 67-year-old male of unknown handedness, found down, infested with bugs, admitted for delirium.
+MEDICATIONS:  Benadryl, morphine, cough syrup, and Ativan p.r.n.
+INTRODUCTION:  A 20-minute digital video EEG was performed using standard 10-20 system of electrode placement with 1-channel EKG.  This was a technically difficult EEG for an uncomfortable patient with Dobhoff.  There was a great deal of muscle and movement artifact noted.  The patient had difficulty cooperating with the test and had frequent oral movements, mouth breathing and yawning.
+DESCRIPTION OF THE RECORD:  Although much of the EEG is obscured by muscle and movement artifact, the interpretable portions of the record demonstrate a lower voltage, diffusely slow pattern with a mixture of theta and delta.  Stimulation of the patient seems to produce muscle artifact.
+Heart rate:  120 bpm.
+IMPRESSION:  Abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The features described above are nonspecific, but support a diffuse disturbance of cerebral function.  If epilepsy is an important consideration, a repeat study when the patient is able to cooperate is suggested.  A more prolonged study may be considered.
+__________________________
+
+
+
+
+

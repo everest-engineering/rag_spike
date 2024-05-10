@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  19 year old female, college student, status post ingestion of thirty 90 mg Cymbalta tablets as well as 1-month supply of Wellbutrin XL.  Multiple seizures following midnight, now intubated, hypotensive with poorly responsive pupils.
+MEDICATIONS:  Keppra, Lopressor, Levophed,
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is comatose and intubated.  She is examined during the EEG.
+DESCRIPTION OF THE RECORD:  This EEG starts out as a markedly slow delta pattern.  There are bursts of higher amplitude delta which are relatively symmetric.  Some of these bursts, which are typically less than a second and include a mixture of faster and slow delta activity, are followed by 1 second in duration suppressions.  Most of the time, there are 2 bursts in a 10-second epoch.  Some sections demonstrate less in the way of the bursts of activity.  There is an occasional sharp wave noted in the right frontotemporal region in some of the bursts. Stimulation of the patient seems to produce an attenuation of the cerebral activity.
+HR:    113 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+A burst suppression pattern with by the end of the record bursts of slow periodic complexes.
+Attenuation with tactile stimulation.
+CLINICAL CORRELATION:  This EEG, recorded more than 12 hours after the patient's last seizure with quite worrisome.  This EEG supports a severe, disturbance of cerebral function.  The electrodecremental response to tactile stimulation is worrisome.  While these findings can be seen in the context of a severe metabolic or toxic encephalopathy, the pattern in conjunction with the clinical findings also raises concerns about an underlying anoxic encephalopathy.
+
+
+

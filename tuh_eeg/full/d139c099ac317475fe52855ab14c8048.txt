@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 19-year-old male with epilepsy since age 13, loss of consciousness with generalized shaking.  Tongue biting.  History of head trauma in infancy.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  The patient was tested during the EEG and confirmed that he had not had any clinical seizures in several months.  This is a technically acceptable record capturing wakefulness and drowsiness with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is useful, demonstrates symmetric, reactive, 10 Hz alpha reaching 80 microvolts with posterior slow waves of youth and a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by attenuation of the alpha rhythm with POSTS.  Sleep was not sustained.
+Notable in this records were brief bursts of spike and wave activity of 3-5 hertz in duration.  Maximum duration of the bursts was 2 seconds.  The bursts seem to be slightly accentuated by photic stimulation, but occurred in relaxed wakefulness later in the record.  The technologist repeated photic stimulation in an attempt to determine whether or not there were any more prolonged bursts, but maximum burst duration was 2.5 seconds.  The 1st photic stimulation, the bursts were a little bit more prominent outside of photic.
+Heart rate 75 bpm.
+IMPRESSION:  Abnormal EEG due to:
+brief bursts of 3-5 Hz frontally predominant spike and wave activity of less than 3 seconds duration.
+CLINICAL CORRELATION:  Due to the brevity of the discharges, it was not possible to determine if these discharges were clinically symptomatic, but they did not appear to be so.
+
+
+

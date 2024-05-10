@@ -1,0 +1,45 @@
+History:	55 year old woman with a history of Hashimoto's encephalitis and seizures, now
+presents with change in mental status.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Description:
+Patient is asleep throughout majority of the recording.  During 2 brief episodes of arousals, the
+background consists of a mixture of polymorphic theta and delta activity.  Please note, however,
+that patient is seizing during both episodes of arousals.  During the majority of the recording the
+background consists of attenuated excess beta activity, admixed with polymorphic theta and delta
+activity and continuous quasi-periodic focal right anterior temporal/ central  spikes and polyspikes
+(maximal scalp negativity over T2/T4, C4/P4)that occur with a repetition rate of 0.75-1 Hz (quasi-
+PLEDs).  Frequent right hemispheric seizures (primarily tempo-central-parietal onset) are captured.
+They last 11 sec up to 90 seconds.  These seizures start with disappears of right quasi-PLEDs and a
+mixture of rhythmic polymorphic theta and delta activity.  Longer seizures progress to rhythmic right
+hemispheric slow delta activity.  Two focal left hemispheric seizures are captured (~9:51 am and
+10:05 am).  First seizure lasts ~ 80 seconds and second seizure lasts >2 minutes (the offset of last
+seizure is not seen because the recording stops).  They start with rhythmic low amplitude theta
+activity seen over P3 and O1 electrodes.  They rapidly spread throughout the left hemisphere with
+maximal dipole concentrating on O1 lead.  Notably, right hemisphere continues to generate
+independent seizures event during left hemispheric seizures (example 9:51:31 AM).  Patient is not
+tested formally during any of the seizures.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Status epilepticus, right, tempo-central-parietal, 11-90 sec
+Seizure, two, left posterior
+Pseudoperiodic discharges, continuous, right, tempo-central-parietal
+Diffuse slowing, polymorphic, mild-to-moderate
+Beta, excessive
+Interpretation:
+This is a very abnormal 22 minute portable EEG due to (1) mild -to-moderate diffuse slowing; (2) frequent
+right tempo-central-parietal brief seizures (status epilepticus) and two independent left hemispheric
+seizures with onset over the left posterior/ occipital region.  Of note, right hemisphere continues to
+generate independent seizures event during left hemispheric seizures.  Diffuse slowing is indicative of
+mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  There are two
+independent focal bihemispheric structural epileptogenic foci, in the right tempo-central-parietal
+region and left posterior/ occipital region.  These findings were conveyed to the primary team.
+Patient will be placed on continuous EEG monitoring.  Excessive beta activity could be secondary
+to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+

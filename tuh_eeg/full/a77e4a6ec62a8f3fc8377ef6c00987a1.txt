@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  28 year old left handed gentleman who on 08/18/2012 had an episode of loss of consciousness associated with tonic stiffening and postictal confusion.
+MEDICATIONS:  Antiepileptic
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of moderate amplitude, well formed and regulated 10-11 Hz alpha activity that attenuates with eye opening.  There is an anterior-to-posterior frequency amplitude gradient.  There is nearly continuous eye flutter artifact.  Brief drowsiness is captured.  Hyperventilation is performed and produces no change in the background.  Photic stimulation produces symmetric occipital driving.
+FINDINGS:
+No stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is a normal awake and drowsy 23-minute EEG.  No epileptiform discharges were captured, but stage 2 sleep was not recorded.  If a clinical suspicion for epilepsy persists, a repeat study with sleep may be of benefit.
+
+
+

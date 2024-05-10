@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  31 year old woman with pulmonary fibrosis, shortness of breath, and encephalopathy.
+MEDICATIONS:  Linezolid, Ativan, Fentanyl.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow with frontal 1-2 Hz delta activity.  The overall picture is one of delta with smaller amounts of theta.  There is a bit more prominent theta in the posterior regions on the left.  There is a subtle asymmetry with higher amplitude activity noted at T6. Stimulation of the patient produces an increase in theta.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+CLINICAL CORRELATION:   This is a non-specific finding supporting diffuse cerebral disturbance.
+
+
+

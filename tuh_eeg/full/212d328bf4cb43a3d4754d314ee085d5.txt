@@ -1,0 +1,20 @@
+History: 70 YR MALE WITH CHANGE IN MENTAL STATUS AND POSSIBLE SEIZURES.
+Medications: UNKNOWN
+Sedation: None
+EEG Type: Continuous (inpt. video). 24 hrs, portable
+Technique: international 10-20 System: standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 10 hours. Nursing-initiated event buttons were correlated with clinical behavior. Graphical representation of the EEG was available at the bedside and over the hospital network for continuous review by trained nurses and EEG technologists. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns. AU automatically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+#Push button Events
+Description of push button events
+Description:
+There is a fragmentary posterior dominant rhythm that varied from 7-9Hz and was minimally reactive to eye opening. The background was also characterized by diffuse intermittent delta and theta activity with absence or the expected anterior to posterior gradient of frequencies. On rare occasions, there was prominent frontal intermittent delta activity {FIRDA}. There is rare normal stage sleep II architecture was present There is amplitude attenuation over the right hemisphere There are rare left frontal sharp waves maximal at F7 seen. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, intermittent, bilateral diffuse.
+Sharp waves, rare, left frontotemporal
+Interpretation:
+This is an ABNORMAL 10 hour bedside video EEG because of diffuse background slowing, fragmentary alpha rhythm. right hemisphere attenuation, and rare left frontal sharp waves. These findings suggest diffuse underlying structural brain injury superimposed on right hemispheric injury. Sharp waves have epileptiform potential. These findings were communicated to the primary team.
+
+
+

@@ -1,0 +1,12 @@
+This is an outpatient EEG.
+CLINICAL HISTORY:  A 60-year-old gentleman with episodic loss of balance, which may be associated with the confusion.  Spells last 1-2 hours.
+INTRODUCTION:  A 22-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  Hyperventilation was deferred.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm.  Alpha squeak was noted.  In drowsiness, there is prominent slowing of the alpha rhythm.  Other features of drowsiness include hypersynchronous rhythmic slowing and occasional left or right underlying bursts of isolated slightly regular mixed delta theta.
+Photic stimulation elicited a bilateral driving response.
+Heart rate:  72 bpm.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to:
+Greater than anticipated intermittent right or left temporal focal slowing.
+CLINICAL CORRELATION:  No sharp waves or spikes were noted.  The findings described above are nonspecific and are more commonly seen in individuals with underlying cerebrovascular disease.
+
+
+

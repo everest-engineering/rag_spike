@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  65 year old right handed woman with hypertrophic cardiomyopathy and an AICD with recurrent unexplained syncope.
+MEDICATIONS:  Toprol, Black Cohosh, Vitamin D, Mevacor, Accupril, Theragran, ASA,
+INTRODUCTION:  Digital video EEG was performed in lab  using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  This is awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a10 Hz alpha rhythm and a small amount of low voltage, frontocentral beta. In transition to drowsiness, hypersynchronous rhythmic theta was noted in the temporal regions. Additional features of drowsiness included attenuation of the alpha rhythm and an increase in beta.  Deeper stages of sleep were non sustained.  Photic stimulation elicited bilateral driving.
+HR:    60 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  Rhythmic mid temporal state of drowsiness is a normal variant.  No epileptiform features were identified.  If epilepsy is an important consideration a follow up study capturing deeper stages of sleep is suggested.
+
+
+

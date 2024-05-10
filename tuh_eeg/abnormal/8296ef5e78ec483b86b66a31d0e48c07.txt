@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 64-year-old male status post MVA many years ago with prolonged coma.  The patient had epilepsy in recent years.  Recently hospitalized for multiple repetitive seizures.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Continuous EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  No clinical or electrographic seizures were noted in this section of the record, which includes wakefulness and sleep.  The patient was noted to have intermittent twitching of the right shoulder.
+DESCRIPTION OF RECORD:  Wakefulness and sleep:  In wakefulness and sleep, the background EEG includes a well-organized background with a 9 Hz posterior dominant rhythm.  As the patient becomes drowsy, subtle focal slowing was noted in the right hemisphere.  This is characterized by an initial drop out of faster frequency activity on the right with a bit more slow and slightly more irregular delta.  Other features of sleep include bursts of background slowing.  There is some muscle twitch artifact noted as the patient drifts off into sleep.  Although clinically the patient has unilateral shoulder jerking, the twitch artifact is bilateral on some occasions, and on other occasions very low voltage in sleep in the right scalp electrodes.
+Heart rate 66 BPM.
+IMPRESSION:  Very subtly abnormal EEG in wakefulness and sleep due to:  Subtle focal slowing in the right hemisphere noted primarily in sleep.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted.  Some muscle twitch artifact was picked up.  Additional EEG recording will be obtained in an attempt to characterize this patient's seizures.
+
+
+

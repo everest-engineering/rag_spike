@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 48-year-old woman with a past medical history of heart failure status post LVAD and AICD, left ventricular thrombus, atrial fibrillation, left MCA stroke, declining mental status, and DNR-1 as of today.
+MEDICATIONS:  Keppra, Topamax, __________, Lexapro, Coreg, and ceftriaxone.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  This EEG is markedly disorganized.  It is also sharply contoured.  The overall background includes rhythmic beta and triphasic waves.  Shifting slowing was identified.  In this sharply contoured background, focal sharp waves are identified in T4, C3, T1, and right posterior temporal.  Intermittent attenuations were noted in the background.  Stimulation of the patient did not activate the record.
+Heart rate 102 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to the following abnormalities:
+Background slowing and disorganization.
+Intermittent attenuation.
+Triphasic waves.
+Occasional isolated sharp waves seen from either hemisphere.
+This EEG is similar to the prior EEG.  Toxic metabolic disturbances may accentuate the underlying pattern described above.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 49 year old right handed male with left carotid stenosis.
+MEDICATIONS: Isoflurane, Fentanyl, Epinephrine, Midazolam, Rocuronium, Lidocaine, Phenylephrine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The CEA montage was unitized. Recording begins at 8:05, concludes at 11 :04. This is a 3-hour EEG
+DESCRIPTION OF THE RECORD: As the recording begins the patient has already received anesthesia. The background EEG is rich mixed frequency pattern with theta and delta activity. There is a slight asymmetry following the utilization of anesthesia with a bit more delta on the left. Occasional shifting slowing is noted, as is occasional generalized attenuation compatible with an anesthetic effect.
+The carotid is clamped at 9:34. In the minutes prior to this the EEG is suddenly discontinuous. No significant changes are noted following placement of the damp, although the baseline asymmetry and discontinuity persists.
+Recording continues throughout the unclamping of the carotid and confirmation of the patency of the carotid by Doppler. Unclamping of the external carotid at 10:32. The EEG is intermittently discontinuous, but there are no changes. The internal and common carotid are reclamped at 10:32 and 10:33 respectively. The EEG is discontinuous and in fact there is a note that the patient's propofol is increased due to a need to manage blood pressure immediately at that time.
+
+HR: 72 bpm
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this carotid endarterectomy was remarkable for intermittent discontinuity, which increased with adjustment of the propofol dose, as well as a somewhat asymmetric background.
+
+
+
+
+

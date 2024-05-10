@@ -1,0 +1,19 @@
+
+CLINICAL HISTORY: 45 year old female with refractory epilepsy, now seizure free. CHF, hypertension, hyperlipidemia.
+
+MEDICATIONS: Trileptal, Keppra, Levetiracetam, ASA, Oxcarbazepine, Metoprolol, Warfarin, Furosemide, Paroxetine, Lisinopril, Simvastatin
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation is performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 hertz posterior dominant rhythm. There are a handful of left anterior temporal sharp waves noted in the background. In addition, these may be associated with left temporal focal slowing. There is a single similar discharge observed on the right. In drowsiness, there is additional left temporal focal slowing. A single more generalized burst is also noted, but without definitive spike and wave activity. Photic stimulation elicits a driving response.
+
+HR: 78 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Left temporal focal slowing.
+2. Left temporal sharp waves.
+3. Single right temporal sharp wave.
+
+CLINICAL CORRELATION: This EEG is most supportive of a localization related mechanism for epilepsy. There is one generalized burst and epilepsy remains refractory, additional recording looking a general mechanism is recommended. Previous EEGs were no available for comparison.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Epilepsy.  A 25-year-old right handed male with epilepsy.  Tonic clonic seizures with loss of consciousness, break through seizures first in 1 year.
+MEDICATIONS:  Trileptal and zonisamide.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient had presented on the 30th with a seizure on that day.
+Technical: Impedances were acceptable. Technical quality was acceptable.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is acutely postictal and is receiving seizure medications, name unknown.  The patient is awake, but the background EEG is a bit slow with a mixture of theta, beta and smaller amounts of delta.  Hyperventilation is performed producing an increase in beta.  As the patient becomes drowsy, there is again an increase in beta with slow rolling eye movements and occasional vertex waves or bursts of delta followed by arousals with eye movement.
+Photic stimulation was performed while the patient was drifting in and out of stage II sleep.
+Following photic stimulation, as the recording concluded, there was a low voltage, bifrontal sharp wave noted in the bursts of delta.  There were also some bursts of delta with some faster frequency activity, but only one with a clearly defined low voltage sharp wave.
+Heart rate occasionally irregular, 84 BPM.
+IMPRESSION:  This is a postictal, but abnormal EEG due to background slowing while asleep.
+CLINICAL CORRELATION:  There was only one epileptiform discharge noted in this record.  Consequently, this must be considered artifact, however, given the morphologies described above, a generalized mechanism for epilepsy should be considered.
+
+
+

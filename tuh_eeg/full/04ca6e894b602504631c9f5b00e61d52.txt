@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 49-year-old woman who had an episode of syncope on 07/05/2013, while she was having a tilt-table test.
+MEDICATIONS:  Albuterol.
+INTRODUCTION:  This is 1-hour digital video EEG performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The EEG opens to posterior dominant rhythm at 10 Hz with mid temporal delta activity at times and 7 Hz theta activity in the background.  Of note, there is left temporal sharp waves during a sleep that is out of criteria for normal variant.  In a stage I and a stage II of a sleep, the temporal sharp waves are more prominent especially on the left side.  These sharp waves can potentially be epileptogenic.  There is also prominent hypersynchronous theta activity and thorough sharp waves in transition from stage I and stage II of sleep, which again are out of proportion for normal variant.  At times, there is hypnagogic hypersynchronous activity seen.
+Heart rate was 78 b.p.m.
+IMPRESSION:  This EEG is mildly abnormal due to:
+Rare left temporal sharp waves.
+Subtle focal slowing on the left side.
+CLINICAL CORRELATION:  This EEG has multiple normal variants and due to mild left rare temporal slowing that is more pronounced during the sleep.  This could be also potentially epileptogenic.
+
+
+

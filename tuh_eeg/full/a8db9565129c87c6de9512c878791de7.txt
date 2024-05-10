@@ -1,0 +1,28 @@
+History:	ENDO VASCULAR AORTA REPAIR
+INCISION 10:54 A.M
+HEPARIN 5000 U. 10 : 08 A /2000-10:19   +3000 11:25A
+DEPLOY 10;39a, 11;14A,
+GRAFT 11;27A COMPLETED
+BALLOON 12;02P
+Medications:	MIDAZOLAM, FENTANYL,LIDOCAINE,ISOFLURANE,PROPOFOL,VECURONIUM,HEPARIN, NEO PHENYLEPHRINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  After induction the background is noted be  a mixture of moderate voltage
+theta and delta activity with overriding beta.  No normal sleep architecture was present despite
+Intermittent polymorphic delta activity is present in the left midtemporal region.  No epileptiform
+discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 60  Induction occurred at
+8:57AM. Stent Deployed at 10:39AM and 11:14AM. Graft at 11:27AM. Balloon deployed at
+12:02PM.  No asymmetric changes seen during the procedure.
+Summary of Findings:
+Focal slowing, polymorphic, left temporal, mid
+Interpretation:
+This is a uneventful 3.5 hour EEG during endovascular aortic aneurysm repair surgery. The was
+also intermittent focal slowing in the left mid temporal region.  This finding is indicative of focal
+cerebral dysfunction, which is etiologically non-specific.
+

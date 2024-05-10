@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 66-year-old woman with ascending aortic root pathology, awaiting surgery.
+MEDICATIONS:  TriCor, Pravachol, metoprolol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This was a routine 22 minutes EEG with acceptable impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by an increase in theta.  Other features of drowsiness include slow rolling eye movements.  Photic stimulation elicited bilateral driving.
+Heart rate 60 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal features were identified.  This EEG will be used for this patient's surgical baseline.
+
+
+

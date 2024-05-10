@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 50-year-old woman with adult onset epilepsy.  Family says she has not been taking her medicines, admitted with recurrent seizures characterized by head turning to the left and posturing.
+MEDICATIONS:  Ativan and Trileptal.
+INTRODUCTION:  Digital video EEG was performed in the emergency room using standard 10-20 system of electrode placement with one channel of EKG.  Patient was postictal, wearing a face mask and poorly cooperative.
+DESCRIPTION OF THE RECORD:  Background EEG is abnormal and at times, partially obscured by muscle and movement artifact.  The overall background is slow.  Superimposed upon this, there is an asymmetry with more arrhythmic delta activity and disruption of faster frequency activity on the right relative to the left.  There are bursts of irregular theta delta with underlying sharp waves noted from the right hemisphere.  The irregular epileptiform activity demonstrates variable maximum, but is typically maximum in the right posterior quadrant or T4, P4T6.  In addition, there is handful of bursts of more right frontotemporal rhythmic slowing and a handful of lower voltage discrete F8 sharp waves.
+Stimulation of the patient produces an increase in muscle and movement.
+Heart rate 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Superimposed focal slowing from the right hemisphere, particularly right temporal region.
+Irregular epileptiform activity in the right hemisphere particularly posterior quadrant, but at some points more anteriorly, anterior frontotemporal pathology.
+CLINICAL CORRELATION:  This patient's previous baseline EEG on long-term monitoring are not available at this time for comparison.  This EEG supports a localization related mechanism for epilepsy.  EEG monitoring will continue.
+
+
+
+
+
+

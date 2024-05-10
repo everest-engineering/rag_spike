@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 53-year-old man who presents with progressive memory decline for the past year.
+MEDICATIONS:  The patient is unsure what medications he takes.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.    Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 9-9.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep vertex waves, sleep spindles and K complexes are captured.  Hyperventilation produces mild symmetrical background slowing.  Stepped photic stimulation produces occipital driving at multiple flash frequencies.
+FINDINGS:
+No epileptiform discharges.
+Stage II sleep.
+IMPRESSION:  This is a normal awake and asleep EEG.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

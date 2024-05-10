@@ -1,0 +1,31 @@
+AGE: 72 y.o.
+SEX: male
+DATE OF STUDY: 11/20/2015
+RECORDING ENVIRONMENT: inpatient room 933 surgical ICU EEG TYPE: 20-40 min, confused adult patient
+EEG #: 15-1706
+HISTORY:
+72 y.o. male with a history of cerebellar atrophy referred for routine EEG for screening for subclinical seizures.	HAD A QUESTIONABLE EPISODE. PT ? ASPIRATION,	WAS HYPOXIC AND HYPOTENSIVE LASTING 10-15 MINS. HR IN 30'S.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+cyanocobalamin (VITAMIN B-12) 1,000 mcg tablet, Take 1 tablet by mouth daily.
+HEPARIN, PROTONIX, PIPERACILLIN, MYCAMINE MICAFUNGIN, ASA, INSULIN, ATIVAN (11/19 3 PM 5 MG)
+TECHNIQUE:
+A	Bedside portable 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically challenging	record and included a single channel of EKG
+EEG BACKGROUND :
+The	background is obscured by diffuse muscle artifact.
+During drowsiness, there is a diffuse beta pattern with muscle artifact
+No generalized slowing is present.	No focal slowing is present.
+However, these findings can be of secured by the muscle artifact EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 96 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a very limited bedside portable EEG, identifying a beta pattern with excess muscle
+CLINICAL CORRELATION:
+If epilepsy is an important consideration for this patient, a followup study when the patient is able to cooperate is suggested.	This EEG is so limited that it cannot
+support or refute the diagnosis of epilepsy.
+
+
+

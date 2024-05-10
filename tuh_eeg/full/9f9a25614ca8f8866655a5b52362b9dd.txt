@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  The patient is a 62-year-old male with history of pericarditis, hepatitis C, alcohol abuse, cirrhosis, and right arm and leg weakness and numbness.
+MEDICATIONS:  Percocet, Norvasc.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation is performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior-dominant rhythm.  The activity from the right hemisphere is reasonably well organized, although there are occasional bursts of slowing in wakefulness.  The left hemisphere demonstrates intermittent bursts of higher amplitude, frontally predominant, paroxysmal slowing.  There are a handful of subtle sharp waves noted in those bursts, including in the right central and mid-temporal regions.  Disruption at faster frequency is noted, with a burst of rhythmic delta from the left hemisphere.  Superimposed upon this pattern are some additional bursts of more generalized frontal delta.
+Photic stimulation elicits a driving response, which is bilateral despite the focal slowing on the right.
+At the end of photic stimulation, and at the very end of the record, there is some sharply contoured theta, with an underlying sharp wave at T1, occurring with a burst of left temporal theta.
+Heart rate 84 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Intermittent paroxysmal slowing from the left hemisphere, with admixed frontocentral sharp waves.
+A separate pattern of rhythmic temporal theta, sharply contoured, with some sharp waves.
+Intermittent bursts of generalized slowing.
+CLINICAL CORRELATION:  This EEG suggests the possibility of more than one interictal pattern, although there was no history provided to suggest that the patient has had seizures.  Correlation with imaging and clinical history is suggested.
+
+
+

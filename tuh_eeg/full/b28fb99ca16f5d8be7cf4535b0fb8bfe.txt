@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is an 80-year-old woman, status post recent cardiac surgery, found to have unilateral weakness and impaired mental status.  Imaging demonstrated bilateral PCA infarcts and a right frontal infarct with left hemiparesis.
+MEDICATIONS:  Vasopressin, epinephrine, phenytoin, norepinephrine, phenylephrine, albuterol, others.
+INTRODUCTION:  Digital video EEG with continuous seizure and spike detection.  Monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  No clinical or electrographic seizures were noted.
+DESCRIPTION OF THE RECORD:
+The background EEG demonstrates a diffusely slow pattern with primarily a theta frequency pattern.  Intermittent triphasic waves were noted in the frontal regions, at times symmetric or asymmetric.  In addition, intermittent sharp waves were noted, which can be differentiated from the triphasic waves and include left parieto-occipital or right frontal.  There is some variability in the record with waxing and waning of the underlying mixed theta delta.  Some sections of the record, particularly those on the morning of the 18th, demonstrate more in the way of triphasic waves.
+Little bedside testing was performed to assess the issue of reactivity.
+SEIZURES:  None.
+Interictal Epileptiform Detections:  Right frontal, left parieto-occipital (P3 O1). Intermittent
+HEART RATE 84 to 96 bpm.
+IMPRESSION:  This is an abnormal, 24-hour video EEG monitoring due to:
+Marked background slowing.
+Triphasic waves.
+Sharp waves noted from 2 foci, right frontal and left occipital both of which correlate with the acute infarcts, but neither of which evolve into electrographic seizures.
+
+
+

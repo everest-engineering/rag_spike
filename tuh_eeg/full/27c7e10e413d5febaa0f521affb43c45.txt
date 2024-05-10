@@ -1,0 +1,20 @@
+History:	60 YR FEMALE childhood epilepsy, L arm tingles then bilateral shaking without LOC . PRE OP EEG FOR PACEMAKER PLACEMENT.
+PMHX: Proteinuria, BRADYCARDIA, RENAL DS, CHRONIC HEP C, LUPUS, CHILDHOOD TBI, CEREBELLAR INFS 2011 cirrhosis
+Medications:	TEGRETOL, NEURONTIN, NORVASC, ALDACTONE,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+Description:
+A posterior dominant rhythm at best reached 8Hz.  Background activity was characterized by disorganized diffuse theta activity with absence of the expected anterior to posterior gradient of frequencies.  Intermittently normal fronto-central beta can be seen.  At times frontally maximal sharp waves with triphasic morphology are present throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag.  Frequent brief (2-5 second) bursts of 100-200uV, 2- 4Hz rhythmic bifrontal slow waves occur throughout the recording, increasing in frequency during drowsiness.  No normal sleep architecture was present. No epileptiform discharges are present.  No clinical or electrographic seizures were present. Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.  HR was 48 and irregular.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild diffuse
+FIRDA (frontal intermittent rhythmic delta activity), frequent
+Triphasic waves, occasional
+Interpretation:
+This is an ABNORMAL EEG because of occasional frontally-maximal triphasic waves, FIRDA and mild diffuse background slowing.  These findings are indicative of a mild to moderate diffuse encephalopathy, which is etiologically nonspecific, but at least due in part to a metabolic etiology.
+
+
+
+
+
+

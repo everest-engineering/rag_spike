@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  23 year old right handed male with mental retardation, ADHD, bipolar disease, cleft palate repair.  Epilepsy with tonic-clonic seizure with incontinence, last seizure 2 days ago.
+MEDICATIONS:  Depakote, Klonopin, Risperdal.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is abnormal and is characterized by prominent, rhythmic 4 Hz theta activity.  There is also a small amount of arrhythmic slowing in the frontal regions and a relative paucity of alpha frequency activity.  On occasion, with stimulation, a 9 Hz alpha rhythm can be identified and a background that is somewhat disorganized.  The patient was cooperative initially for hyperventilation when the alpha rhythm was seen and then not later on.  Features of drowsiness included increase in beta followed by vertex waves.  Photic stimulation elicited bilateral driving.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Prominent, arrhythmic frontal theta.
+Background slowing and disorganization.
+CLINICAL CORRELATION:  This EEG is similar to a previous EEG 1 year ago.  Neither EEG has identified epileptiform activity, but the rhythmic frontal theta was previously noted.
+
+
+

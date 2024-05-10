@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 39-year-old woman with episodes of bilateral stiffening of the arms, head, and gazing to the right, lasting 20 minutes.  She has had 4 to 5 of these spells in the last month.  She may move her arms and feet but not her legs and scream during these events.  Profound MR and neurological and general medical disability with Lennox-Gastaut syndrome.
+MEDICATIONS:  Depakene and Topamax and zonisamide, Lovenox
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1-channel of EKG.  The patient is poorly responsive in the ICU with a temperature of 106.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  None of the wave forms for an adult of this age are identified.  The overall background is a mixture of delta and theta.  Superimposed upon this is an essentially generalized spike discharge maximum in the posterior regions.  This may be a complex epileptiform discharge, sometimes maximum left posterior or with a spike and wave complex in the posterior regions or a poly spike component.  There is some paroxysmal higher amplitude theta.  Grimacing was noted for this intubated patient but no clinical seizures were noted.  The vast majority of epileptiform discharges are isolated discharges but they are frequent to nearly continuous with intermittent attenuations after the epileptiform complexes.  Poly spike complexes were noted in the left occipital or bioccipital regions.  Tactile stimulation of the patient produces an increase in fast activity as well as in arousal.  This also seems to accentuate epileptiform activity.
+Intermittent responsiveness was noted with movement of the patient's left arm.  This was associated with an increase in faster frequency activity.
+Heart rate:  66 beats per minute.
+IMPRESSIONS:  This is a profoundly abnormal EEG due to:
+Replacement of normal background with a slow pattern.
+Prominent, nearly continuous, epileptiform activity which was quite variable but typically maximum in the occipital scalp regions with spike and wave activity, primarily occipital, but occasionally frontal or more generalized.
+CLINICAL CORRELATION:  This pattern is congruent with a history of Lennox-Gastaut syndrome with frequent epileptiform activity but without clinical seizures in this bedside recording.  Previous EEGs were not available at this time for comparison.  If this patient is felt to have frequent seizures, additional EEG recording could be of value.
+
+
+

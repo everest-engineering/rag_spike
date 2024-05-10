@@ -1,0 +1,40 @@
+Encounter Date: 08/28/2015
+a 21 y.o. male referred for routine EEG for seizures- with aura of bad taste followed by confusion.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+levetiracetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily. No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20
+system with T1/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and HV.
+EEG BACKGROUND :
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior
+Encounter bate:08/28/2015
+gradient. Wakefulness is characterized by a symmetric and reactive 9.5 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. In wakefulness there is occasional shifting temporal slowing, at times sharply contoured
+on the right.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous POSTS. Slow wave sleep is not captured.
+PAROXYSMAL ACTIVITY: Paroxysmal higher amplitude temporal theta, L>R EPILEPTIFORM ACTIVITY:
+No definitive  epileptiform activity is present. Rare R sharply contoured slow T2 maximum
+ACTIVATION PROCEDURES:
+Hyperventilation: minimal increase in theta Photic Stimulation: not done
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a mildly abnormal awake-and-asleep 1 hour EEG due to:
+1. shifting asynchronous temporal bursts.
+CLINICAL  CORRELATION:
+No epileptiform features were defined,though there is some sharply contoured slowing on the right. The bilateral features above are nonspecific and may be correlated with imaging and history.
+Attending Epileptologist: MD
+I have personally reviewed this study, and this report represents my findings and conclusions.
+Orders
+Unaligned Orders
+None
+Routing History
+None
+Encounter Date: 08/28/2015
+
+
+
+

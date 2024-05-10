@@ -1,0 +1,17 @@
+History:		74 YO FEMALE BROUGHT IN FOR CHANGE IN MENTAL STATUS. PT WAS HAVING TROUBLE VERBALIZING. PMHX: STROKE + LEFT CEA 8 YRS AGO. Bl- PASS 4 YRS AGO, OM, HTN.
+Medications:	None Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. At times the background appears to be slightly disorganized.  Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases during drowsiness. No normal sleep architecture was present.
+Frequent polymorphic delta activity is present in the bilateral midtemporal region (right more than left) during wakefulness, increasing during drowsiness. No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed. HR was 102 Technical difficulties: There is a continuous muscle artifact over the left temporal region which interferes with the evaluation of this region.
+Summary of Findings:
+Focal slowing, polymorphic, frequent, bilateral (R>L) temporal, mid Diffuse slowing, polymorphic, excessive, mild diffuse
+Interpretation:
+This is an limited ABNORMAL awake EEG because of frequent focal slowing in the bilateral midtemporal region (right more than left) region. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific. In addition there is mild diffuse background slowing. This finding is indicative of mild diffuse cerebral dysfunction, which is etiological nonspecific.
+.
+
+
+
+

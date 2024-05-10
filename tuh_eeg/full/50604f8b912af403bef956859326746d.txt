@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 41-year-old woman with epilepsy since age 13 or 14.  Seizures typically last 20 or 30 seconds with loss of consciousness.  Currently, seizure-free for 2 months.
+MEDICATIONS:  Ranitidine, Motrin, lamotrigine, Zocor, Lidex, Depakote, Prilosec, Benadryl, and others.
+INTRODUCTION:  20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable record with impedances under 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.5 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Hyperventilation was performed early on in the record and produces slowing of the alpha rhythm to 7.5.  Features of drowsiness include slow rolling eye movements.  Early stage 1 sleep was identified, but deeper stages of sleep were not sustained.
+Photic stimulation elicited bilateral driving.  In maximal wakefulness, the background demonstrates a small amount of excess theta.
+HR: 60 BPM
+IMPRESSION:  This EEG is remarkable for a small amount of excess theta.
+CLINICAL CORRELATION:  The background theta may be attributed to this patient's medications.  The alpha rhythm is at the lower limit of normal.  These findings may be due to the patient's medications or other diffuse process.  This is the 2nd EEG for this patient without epileptiform activity.
+
+
+
+

@@ -1,0 +1,8 @@
+History:	CEA
+Medications:
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes
+
+
+

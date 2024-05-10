@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  new onset seizures, perhaps withdrawal seizures
+MEDICATIONS:  None reported
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Impedances were under 5 kilohms with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a fair amount of muscle in this low voltage EEG, but there is a symmetric reactive 11 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Hyperventilation produces an increase in amplitude of the background.
+Drowsiness was characterized by a decrease in muscle artifact.
+Photic stimulation did not significantly alter the EEG.
+Heart rate:  96 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Excess muscle.
+No epileptiform features.
+CLINICAL CORRELATION:  Normal EEG, does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat study may be of value.
+
+
+

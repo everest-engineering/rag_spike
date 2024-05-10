@@ -1,0 +1,34 @@
+History:	55 yr old  male presents with h/o drowsiness/combative onset x 5 days ago and got
+worse x 2 days ago, pt seen in cardiology clinic and noted with drowsiness wit o2 sat
+of 80% - in ed pt noted with myoclonic jerking/ stopped with versed
+Medications:	Versed/ Turned off at 8:30AM
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  23 hours from 05/07/2014 to 05/08/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+At onset the background is characterized by low amplitude diffuse delta slow. This improves rapidly
+over the next 6 hours.  After 6 hours the waking background is markedly improved to characterized
+by a 25-40uV, 8.5 - 9Hz alpha rhythm, which attenuates symmetrically with eye opening.
+Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 96
+Summary of Findings:
+Diffuse slowing, polymorphic, Improved after the first hours.
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing and slow
+alpha rhythm.  These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  This findings improved over time to a normal EEG suggesting that the findings were
+likely due to medication effect.
+
+

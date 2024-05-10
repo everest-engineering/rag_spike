@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 33-year-old male with single seizure 10 years ago, patient now requires evaluation for driver's license.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  This is a routine 26-minute EEG.  It was technically acceptable with impedances under 5 kilo-ohms with the exception of a T1-T2 electrode.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-hertz, 30-microvolt posterior dominant rhythm.  Drowsiness is characterized by attenuation of alpha rhythm and an increase in beta.  Other features of drowsiness include rhythmic central theta with spindles noted in stage 2 sleep.
+Hyperventilation did not significantly activate the record.  Photic stimulation elicited bilateral driving.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  EEG does not exclude a diagnosis of epilepsy.  These findings may be used for this patient's DMV evaluation.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Stroke, status post thrombolysis, right MCA infarct with declining mental status.  An 82-year-old right handed woman with decline in mental status, massive right hemispheric stroke.
+MEDICATIONS: Warfarin, Digoxin
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient is responsive and has intermittent titubation of the head.
+DESCRIPTION OF THE RECORD:  Despite the muscle movement and other artifacts in this ICU record, there is a clear asymmetry.  The right hemisphere demonstrates suppressed activity with a lower voltage, featureless pattern.  The left hemisphere includes a glimpse of faster frequency activity.  In addition, there is sharply contoured delta with a phase reversal in the left temporal region.  In this technically challenging record, as the patient becomes a bit drowsy, there is rhythmic delta from the left hemisphere, again with a frontotemporal maximum.
+Heart rate: irregular, 102 BPM.
+IMPRESSION:  Technically challenging bedside EEG, but abnormal due to:
+Suppression of cerebral activity on the right with a lower voltage, featureless pattern.
+A slow pattern on the left.
+Sharply contoured slowing, rhythmic delta activity in the left hemisphere with mid-to-anterior temporal phase reversed.
+CLINICAL CORRELATION:  The suppressed pattern on the right is congruent with a large, acute stroke.  The findings on the left may be correlated with this patient's clinical constellation.
+
+
+

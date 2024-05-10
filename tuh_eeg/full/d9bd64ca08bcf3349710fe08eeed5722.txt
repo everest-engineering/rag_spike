@@ -1,0 +1,30 @@
+History:	32 YR OLD FEMALE R HANDED WITH H/O OF SEIZURES SINCE AGE 9. LAST
+SEIZURE SEPT OF THIS YR. LOC YES EYES ROLLING SHAKING INCONTINENCE
+SOMETIMES,FAMILY H/O SEIZURE NO AURA LIGHTS POSTICTAL DIZZY TIERED
+PMHX. N/A HEAD CM
+Medications:	Lamictal, Lorazepam
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the bilateral anterior temporal (left more than
+right) regions during wakefulness, increasing during drowsiness.  A single fragment of a generalized
+frontally-maximal spikes and wave is seen.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Spike-and-wave complexes, single, Fragment
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of a fragment of a bifrontal
+synchronous spike-and-wave.  These findings can be consistent with a diagnosis of primary
+generalized epilepsy. Lastly there is  intermittent focal slowing in the bilateral anterior temporal
+region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 35-year-old male with new onset tonic-clonic seizures.
+MEDICATIONS:  phenytoin.
+INTRODUCTION:  A 41-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the alpha rhythm is 9.5 Hz, 30 microvolts with a small amount of low voltage, frontal central beta activity.  There is a small amount of eye flutter artifact noted in the frontal regions.  Drowsiness is characterized by attenuation of the alpha rhythm with vertex waves noted in stage 1 sleep.  As the patient transitions in and out of sleep, a subtle, rare, left frontal temporal sharp wave was identified.  In addition, discrete left mid temporal sharp waves and spikes were also noted as the patient transitions in and out of sleep and can be differentiated from the sleep morphologies. Abundant stage 2 sleep was captured.
+Photic stimulation elicited bilateral driving.
+Hyperventilation produced an increase in theta.  Head rocking artifact was noted.
+Heart rate 66 bpm.
+IMPRESSION:  This is a very subtly abnormal EEG due to.
+At times subtle left frontal sharp waves.
+More well defined left frontal temporal spikes or sharps noted particularly in the transition to sleep.
+CLINICAL CORRELATION:  This EEG supports a localization related mechanism for epilepsy.  The morphologies described above are outside of the range of a normal variant, and suggest a localization related mechanism for epilepsy.
+
+
+

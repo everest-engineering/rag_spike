@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 30 year old right handed woman with epilepsy, seizure free for the last 3 years.
+MEDICATIONS:  Carbatrol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm reaching 50-60 mV.  There is a small amount of low voltage, frontal central beta. In relaxed wakefulness, as well as in the transition into early drowsiness, and more remarkably in hyperventilation, there are bursts of frontally predominant 3-5 Hz spike and wave activity.  In relaxed wakefulness, bursts are less than 2.5 seconds in duration, but they are bit more prominent in hyperventilation.  Hyperventilation also produces bursts of rhythmic frontal delta.  During photic stimulation, there are some bursts of more posteriorly predominant delta, some of which are sharply contoured, but without a definitive posterior spike and wave complex.  Head rocking artifact is also noted in photic stimulation.  Deeper stages of sleep are not achieved, but there are brief sections, just very brief epochs, but the patient seems to start to fall asleep with some vertex activity, but sleep is not sustained.
+HR:    60 bpm
+IMPRESSION: Abnormal EEG due to:
+Generalized spike and wave activity for much of which is frontally predominant and relatively symmetric.
+Posterior spike and wave activity was also noted.
+CLINICAL CORRELATION:  These findings have been identified in previous EEGs, but this patient's period of hyperventilation seems to be an activating feature for this individual, but it did not precipitate any clinical features.  The above pattern can be seen in a primary or secondary generalized process.
+
+
+

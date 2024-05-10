@@ -1,0 +1,43 @@
+History:	56 year old woman who presents with focal status epilepticus.  Patient has a history
+of stroke, focal seizures and HIV.
+Medications:	Vimpat, Dilantin, Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 1/21/2015 till 1/22/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 7 Hz polymorphic theta activity posteriorly, polymorphic theta
+activity and weak AP gradient.  The background over the left does not have clear PDR or AP
+gradient.  It consists of a mixture of polymorphic theta and delta activity, with more prominent delta
+activity anteriorly.  Sleep cycles are clearly present.  Sleep spindles and vertex waves are noted.
+Frequent left anterior sharp waves are present.  These discharges have a broad field with some
+reflection over the right anterior leads.  Maximal scalp negativity occurs over Fp1 electrode.  As the
+recording progresses, frequency of epileptiform discharges decreases.
+Summary of Findings:
+Sharp waves, intermittent, left anterior, decrease in frequency as the recording progresses
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous 24 hour video EEG due to (1) mild diffuse slowing; (2)
+continuous moderate focal left hemispheric slowing, especially over the left frontotemporal region;
+(3) intermittent left anterior epileptiform discharges.  Diffuse slowing is indicative of mild cerebral
+dysfunction, which is etiologically nonspecific.  Continuous left hemispheric focal slowing and
+intermittent left anterior epileptiform discharges indicate focal structural epileptogenic lesion over
+the left.  When compared to the prior recording epoch, no seizures are captured and frequency of epileptiform discharges is less.
+
+
+
+
+
+

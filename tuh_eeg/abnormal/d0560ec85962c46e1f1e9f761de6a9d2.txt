@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 59 year old right handed male with neuromuscular problems. The patient has difficulty describing seizures or an epilepsy history.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10.7 Hz alpha rhythm. Drowsiness is characterized by anterior spread of the alpha rhythm and an increase in beta. Deeper stages of sleep are not achieved. Hyperventilation is characterized by head rocking artifact. The head-rocking artifact is picked up throughout the record and, unfortunately, is more consistently on the left. Photic stimulation elicits scant driving
+response at faster flash frequencies.
+HR: 72 bpm
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: No epileptiform features were observed. Unfortunately,
+there was some left-sided head-rocking artifact. If epilepsy is an important
+consideration, a follow-up' study capturing deeper stages of sleep is suggested.
+
+
+

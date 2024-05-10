@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An 82-year-old woman who has developed shaking spells with jerking of the entire body.  This is associated with tinnitus and vertigo.  Worsening in the last 2 weeks.  Family history of parkinsonism.  Prior TIA.
+MEDICATIONS:  Lopressor, Celexa, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is an awake and drowsy record.  It is  technically satisfactory aside from impedances in the T1-T2 electrodes greater than 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized.  There is excess theta.  The posterior dominant rhythm is 7.5 Hz in frequency.  There is some shifting arrhythmic delta activity noted in the background, left greater than right.  Features of drowsiness include attenuation of the alpha rhythm and some bursts of more rhythmic delta which may be frontal or posterior.
+Photic stimulation was remarkable for photoelectric artifact with minimal driving.
+Heart rate 75 BPM.
+IMPRESSION:  Abnormal EEG for an adult of this age due to:
+Background slowing and disorganization.
+Shifting slowing, more so on the left than the right which was at times sharply contoured.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified.  The sharply contoured slowing in this individual with a history of a TIA may be correlated with imaging.
+__________________________
+
+
+

@@ -1,0 +1,24 @@
+History:	51 year old woman with chronic PEs, now undergoing pulmonary endarterectomy.
+Medications:	Versed, Fentanyl, Lidocaine, rocuronium,
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, comatose
+Description:
+Patient is awake at the beginning of the recording with normal background (~12 Hz PDR and
+normal AP gradient) observed.  Diffuse excess beta is present early in the recording.  Once general
+anesthesia is administered, the background becomes a mixture of polymorphic frequencies.  Bypass
+is initiated and cooling starts at ~ 9:53 AM.  No heart rate is captured on a single EKG lead at ~ 10
+AM.  There is gradual progression to burst-suppression as hypothermia continues.  Total burst-
+suppression is achieved by ~11:32 AM at 17.5 degrees Fahrenheit and the surgeon is notified.
+Rewarming starts at ~ 1:03 PM.  QRS complexes are captured on the EKG lead at ~1:10 PM.
+Repetitive symmetrical bursts of activity are captured by ~ 1:15 PM.  The background is continuous
+Summary of Findings:
+Interpretation:
+This is an unremarkable nearly 7 hour continuous intraoperative EEG recording with ~ 4 hours of
+direct remote EEG Attending supervision.
+
+
+
+
+

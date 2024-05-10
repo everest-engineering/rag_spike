@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 56-year-old male transferred from an outside hospital on Monday with unresponsiveness and seizure like activity followed by severe agitation.  History of hypothyroidism, developmental delay or autism, psychosis, migraines, and anxiety.
+MEDICATIONS:  Phenytoin, no others
+INTRODUCTION:  Digital video EEG was performed at bedside using in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was described as very confused.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous pattern rich in beta and theta frequency activity.  There are shifting asymmetries noted in the background.  There is a bit more theta noted on the left.  At the end of the record, the patient drifts off to sleep with more of a beta pattern.
+Heart rate:  Maximum 120 bpm.
+IMPRESSION:  Abnormal EEG due to,
+Excess beta.
+Excess theta.
+Shifting asymmetries.
+CLINICAL CORRELATION:  This EEG is similar to previous studies, although it does not have some of the same quantities of rhythmic theta noted previously.  No definitive epileptiform features were seen.  Overall, this EEG supports a diffuse disturbance of cerebral function, which may include an intoxication or toxic metabolic encephalopathy.
+__________________________
+
+
+
+

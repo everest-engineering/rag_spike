@@ -1,0 +1,25 @@
+History:	69 yo female who presents with focal status epilepticus.
+Medications:	Keppra, Dilantin Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes,  lethargic
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 04/27/2014 till 04/28/2014.    Nursing? initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is no PDR or AP gradient.  There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The background over the left consists of a mixture of polymorphic theta and delta activity.  The background over the right consists primarily of polymorphic delta activity.  Periods of the background discontinuity are present.  By the end of the recording, the degree of diffuse and focal slowing lessens.  No normal sleep architecture was present.
+
+Continuous sharp waves with aftergoing slow waves, polyspikes and periodic lateralized epileptiform discharges (PLEDs) are present in the T6 region at a repetition rate of 0.75 Hz.  These discharges frequently organize and occur in brief runs (<10 seconds).  But there is no clear spatial or temporal evolution.  No clear electrographic seizures are present.
+
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, severe, right hemispheric
+PLEDs (periodic lateralized epileptiform discharges),  right temporal, posterior Spikes and sharp waves, continuous, right temporal, posterior
+
+Interpretation:
+This is an ABNORMAL -24 hour continuous video EEG due to (1) moderate diffuse slowing; (2) severe right hemispheric slowing and (3) continuous epileptiform discharges emanating from the right posterior temporal region that are often rhythmic (0.75 Hz PLEDs).  These findings are indicative of a highly epileptogenic focal structural lesion in the right posterior temporal region.  Etiologically nonspecific moderate diffuse cerebral dysfunction is also present.  By the end of the recording, the degree of diffuse and focal slowing lessens.  No clinical or electrographic seizures are observed.
+

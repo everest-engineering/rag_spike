@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  22 year old right handed male with a brain tumor, worsening headache and nausea, currently awaiting neurosurgery.
+MEDICATIONS:  Dexamethasone, Percocet, Lovenox, Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm noted.  This is significantly higher amplitude on the right compared to the left.  In addition, there is some slowing in the right posterior quadrant.  Posterior delta are also observed.  On the right the alpha rhythm may reach 80 microvolts, on the left typically under 40 microvolts and then there is the delta in the right posterior quadrant with disruption of the alpha rhythm.  Features of drowsiness included increase in synchronicity in the background.  At times the slowing is presently nearly bilaterally.  A vertex sharp wave appears prior to well defined stage 1 sleep and then again in more typical appearing stage 1 sleep. Photic stimulation does not activate the record.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Posteriorly predominant focal delta seen primarily in the right posterior quadrant.
+CLINICAL CORRELATION:  In this individual with right frontal mass, the focal slowing in the EEG did not correlate precisely with the location of the mass.  The focal slowing was more posterotemporal or occipital.  The disruption of the alpha rhythm can be seen in any process that impacts the thalamus occipital pathway that generates the alpha rhythm.  There were no epileptiform features.
+
+
+

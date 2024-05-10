@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  29 year old right handed male who had a gunshot wound to the head, and brain injury 1 year ago, now with memory difficulties and epilepsy, seizure 2 weeks ago with potential confusion, residual metallic projectile.
+MEDICATIONS:  Topamax and Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is noted to have had a recent cranioplasty.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Subtle, focal slowing is noted in the right hemisphere in the central and temporal regions.  Breach rhythm is identified on the right which includes accentuation of faster frequency activity.  There are a handful of simple sharp waves out of the breach rhythm, but done with after going slow waves. Photic stimulation elicits vigorous driving response, but it is a little bit better represented on the left, though it is a bit higher amplitude on the right.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent, subtle focal slowing from the right hemisphere.
+A handful of sharp waves on the right, one or two of which are slow enough to
+represent true sharp waves rather than wicket activity in the region of a breach.
+CLINICAL CORRELATION:  This EEG is consistent with focal lesion on the right with epileptiform potential.
+
+
+

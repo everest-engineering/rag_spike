@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 68-year-old man with GI bleed, status post V-fib arrest with hypotension.  Multiple cardiovascular pathologies.
+MEDICATIONS:  Levophed, epinephrine, amiodarone, antibiotics, others.
+INTRODUCTION:  A 22 minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement.  Patient was intubated and poorly responsive.  This is a technically satisfactory record with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, slow, and featureless.  It is significantly slower in the posterior regions with a small amount of rhythmic theta in the frontal central regions.  Slow eye movements were noted.
+Tactile stimulation and auditory stimulation of the patient did not significantly activate the record.  Subsequent sections of the record demonstrate a more slow, rhythmic frontal delta.
+HEART RATE irregular, 78 bpm.
+IMPRESSION:  Abnormal electroencephalogram due to:
+Marked background slowing.
+Rare bursts of slow frontal delta.
+Limited reactivity.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, a follow-up study may be of value.  There was limited reactivity in this EEG, but exposure to sedative medications may play a role.
+
+
+

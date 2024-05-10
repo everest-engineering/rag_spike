@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  57 year old right handed male with epilepsy, hepatic cirrhosis, history of head trauma with a seizure at Frankford hospital December 2011.  Past history of head trauma requiring coma, tracheostomy.  There is a history of hepatitis.
+MEDICATIONS:  Lamictal, Prozac, Synthroid.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm present bilaterally.  Hyperventilation produces an increase in amplitude.  As the patient becomes drowsy following hyperventilation, there are some bursts of focal slowing in the left frontotemporal and central temporal region.  The patient remains quite anxious with a lot of muscle and movement artifact. Photic stimulation is performed as the patient is getting a little bit more relaxed.  There are brief epochs of stage 1 sleep with vertex waves and then arousals.  There was a slight driving response.  Shifting temporal slowing is noted in the transition in and out of sleep.
+HR:    60 bpm with occasional PVCs.
+IMPRESSION:  Mildly abnormal EEG due to:
+Occasional left temporal focal slowing noted after hyperventilation.
+CLINICAL CORRELATION:  Because of this patient's nervousness, subtle features may be under recognized.  No sharp waves were noted.  A follow-up EEG may be helpful should seizures recur.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 60 year old right handed woman with epilepsy, occasional auras.
+MEDICATIONS: Neurontin, Depakote, Crestor, Zyrtec, Gabitril, Nexium
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are completed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there Is an 8.3 Hertz alpha rhythm with a small amount of low voltage, frontal central beta activity. There Is a small amount of shifting, right or left temporal delta activity but there is a relatively well defined medium amplitude right temporal sharp wave identified in wakefulness and drowsiness. Hyperventilation produces an increase in the temporal slowing described above as well as some rhythmic frontal delta. Photic stimulation elicits bilateral driving.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Slowing of the alpha rhythm.
+2. Shifting temporal slowing.
+3. Right temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for epilepsy. The shifting temporal slowing was previously described. We will try to pull the prior studies to determine if the slowing of the alpha rhythm is a new or chronic finding.
+
+
+

@@ -1,0 +1,28 @@
+History:	63 year old woman with a reported seizure in 7/2014.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+The waking background is characterized by a 25-40 uV, 10 Hz posterior dominant rhythm.
+Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.
+Monomorphic nearly continuous diffuse frontally predominant 3-4 Hz delta activity is captured.
+Diffuse excess beta activity is present.  Patient remains awake throughout the recording.
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  HR was 72.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Beta, excessive
+Interpretation:
+This is likely a normal awake-only 41-minute EEG.  Underriding monomorphic diffuse frontally
+predominant delta activity is of unclear clinical significance. Similar activity was captured on the
+7/2014 EEG.  No epileptiform discharges are present, but stage 2 sleep was not recorded.  If
+clinically indicated, repeat EEG with sleep recording may provide additional information.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+
+
+

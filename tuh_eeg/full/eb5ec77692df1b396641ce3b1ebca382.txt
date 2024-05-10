@@ -1,0 +1,26 @@
+History:	42 year old man with a history of seizures and status epilepticus, who presented with
+right sided shaking and received tPA.
+Medications:	Keppra, phenobarbital
+Sedation:	None
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+The waking background consists of low amplitude 9.5 Hz alpha activity that attenuates with eye
+opening.  The AP gradient is weak.  Low amplitude underriding excess beta activity is noted.
+Vertex waves, sleep spindles and K-complexes are captured.
+Voltages are attenuated over the left hemisphere.  Occasional polymorphic delta activity is
+observed over the left hemisphere.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Attenuation, mild, left hemispheric
+Focal slowing, polymorphic, occasional, moderate, left hemispheric
+No epileptiform discharges
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute EEG due to occasional moderate left
+hemispheric slowing and left hemispheric voltage attenuation. These findings indicate focal
+cerebral dysfunction, possibly structural in etiology.  No clear epileptiform discharges are present.
+
+
+

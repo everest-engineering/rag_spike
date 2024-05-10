@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 63-year-old woman presented to the emergency room on the 16th with a change in mental status, possible metabolic disturbance, evaluate for seizures.  Long-standing multiple sclerosis with cerebral atrophy and extensive white matter pathology.
+MEDICATIONS:  Baclofen and oxybutynin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one-channel EKG.  Hyperventilation and photic stimulation were not possible.  The patient was relatively somnolent.  This was a technically challenging record with a fair amount of artifact.  Most impedances were below 5 kilohms.
+DESCRIPTION OF THE RECORD:  The background EEG includes a markedly disorganized, mixed frequency pattern with generous muscle artifact, delta and smaller amounts of beta and theta.  There was more muscle noted in the right hemisphere than the left.  The record was variable and shifting, arrhythmic delta activity was noted.  Stage 2 sleep was identified with vertex waves, K complexes, and spindles.
+Heart rate:  66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Prominent shifting arrhythmic delta activity.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The stage 2 sleep record was much better organized than awake or drowsy record and is technically satisfactory.  The arrhythmic delta activity is an anticipated finding in a patient with an underlying disorder involving white matter.  If seizures are an important consideration, a followup study may be of value.
+
+
+

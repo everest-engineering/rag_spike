@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  54 year old right handed with Marchiafava-Bignami disease, seizures, visual disturbance, mental retardation, and past history of occipital and right temporal pathology.
+MEDICATIONS:  Phenytoin, Thiamine, Tolterodine, HCTZ, Alendronate, Guaifenesin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The background EEG is somewhat unusual.  There are some sections of the awake background with a rhythmic 7 Hz theta pattern.  In some sections of the record, the overall pattern is rhythmic 5-7 Hz activity.  In other sections, a 10 Hz alpha rhythm may be seen on the left or the right. Hyperventilation produces an increase in theta.  Features of drowsiness include overall slowing and a decrease in synchronicity of the background.  Photic stimulation is performed as the patient is drifting off into stage I sleep and vertex waves are starting to emerge.  There is no significant driving response noted, but there are fragments of stage II sleep with vertex waves and spindles.  An asynchronous vertex wave with what seems to be a sharp wave in the right hemisphere was noted at the end of hyperventilation as the patient was drifting off into sleep.  There were 2 more discreet right temporal sharp waves observed.
+HR:    102 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic 5-7 Hz theta noted in the waking background.
+An asynchronous alpha rhythm.
+A handful of sharp waves noted in stage II sleep in the right hemisphere, which seem to be right mid temporal maximum.
+CLINICAL CORRELATION:  The synchronicity of the alpha rhythm has been previously described in individuals with posterior colossal pathology.  The sharp waves would suggest a localization related mechanism for epilepsy.
+
+
+

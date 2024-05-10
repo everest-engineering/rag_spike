@@ -1,0 +1,29 @@
+History:	66 YO FEMALE ADMITTED FOR LUNG TRANSPLANT. EEG TO EVALUATE
+UNRESPONSIVENESS X 2 DAYS.
+PMH: COPD / HTN
+Medications:	LABETALOL, INSULIN, CARDIZEM, LACTULOSE, LIDOCAINE, DILTIAZEM,
+PANTOPRAZOLE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+disorganized theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Intermittent prolonged diffuse bursts of frontally maximal sharp waves with triphasic
+morphology are present throughout the recording.  These waveforms demonstrate an anterior to
+posterior phase lag.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was irregular and 121
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Triphasic waves, frequent diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  frequent frontally-maximal triphasic waves and moderate
+diffuse background slowing.  These findings are indicative of a severe diffuse encephalopathy,
+which is etiologically nonspecific, but suggestive of a metabolic origin.
+
+
+
+

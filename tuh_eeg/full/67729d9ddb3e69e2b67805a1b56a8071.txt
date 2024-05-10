@@ -1,0 +1,12 @@
+MEDICATIONS:  Gabapentin, Depakote, Vimpat.
+HISTORY:  A 19-year-old right-handed individual with epilepsy since age 8.  Most seizures occur at night, right arm stiffens and the patient reaches for his left hand, is unable to speak, no definitive loss of consciousness.  Total seizure duration 1 minute.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by an increase of rhythmic theta.  In stage I sleep, there are vertex waves.  Vertex waves seem to be slightly asymmetric with a field that is maximum on the right on some occasions.  There is also a subtle shifting asymmetry noted in the right and left central regions in sleep.
+Hyperventilation produces a small amount of theta.
+In photic stimulation, the patient is drifting in and out of sleep but there seems to be a vertex wave, again somewhat asynchronous and in this case at CZC3 during photic stimulation.
+Heart rate 78 beats per minute.
+IMPRESSION:  This is a somewhat unusual, unlikely abnormal electroencephalogram for an adult of this age due to:  Vertex activity with shifting asymmetry but often with a localization to the right of the midline.
+Clinical correlation:  In this young adult with a question of extra temporal epilepsy, the asymmetry described above may reflect either an asymmetry in the appearance of vertex activity or an underlying midline sharp which is under-recognized.  There is a suggestion on only 1 occasion of a sharp wave just to the left of midline.  A follow-up study with additional electrodes would be of value.
+
+
+

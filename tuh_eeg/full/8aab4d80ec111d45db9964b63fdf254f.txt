@@ -1,0 +1,39 @@
+AGE: 68 y.o.
+SEX: male
+DATE OF STUDY: 12/29/2015
+RECORDING ENVIRONMENT: inpatient
+EEG . TYPE: 40-60 min, awake and drowsy EEG #: 15-1869
+HISTORY:
+68 y.o. male with a history of multiple chronic infarcts and HTN referred for routine EEG for assessment of tremors and diffuse muscle twitching.
+MEDICATIONS: INSULIN, LOVENOX, ASA, THIAMINE, LISINOPRIL, AMLODIPINE, HYDROCHLOROTHIAZIDE
+SEDATION: Ativan 1 mg administered during study, at 11:12 TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is continuous, symmetric, and consists of fairly organized alpha, theta, and excess delta frequencies.
+Fragments of an irregular posterior dominant rhythm of 9 Hz are present.
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm and further background slowing are seen.
+Sleep is not captured.
+Administration of 1 mg Ativan does not produce significant change in the background or in noted twitching movements (see below) .
+Moderate generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+There is no clear epileptiform activity
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+Technologist notes that the patient is "constantly twitching. "
+CLINICAL: On video review, the camera is pointed at the patient's right side. There are very frequent irregular medial and lateral twitches of the right wrist.	The patient is able to respond appropriately and has purposeful movements during the twitches.
+Throughout the study, multifocal, irregular twitches are noted in the right forearm and left forearm. Tech also notes right face is twitching, but this is difficult to see due to poor video resolution.	At 10:46, tech zooms camera to focus on face: at
+this time, brief head turning jerks towards the left and concurrent continuous but irregular right cheek twitching are seen.	By 10:57 the right hand comes into view and low amplitude irregular twitches of the right pinky are visible.	By 10:59 tech notes mouth/face twitching.	This is not well appreciated on
+video review due to low resolution, but there is a suggestion of irregular right jaw upward twitching.
+EEG: There are no clear underlying epileptiform discharges; there is diffuse muscle twitch artifact seen in all leads, most prominently the frontal leads.	There is additionally near continuous muscle artifact over the right temporal chain.
+HEART RATE: Single EKG lead is obscured by twitch artifact
+IMPRESSION:
+This is an abnormal awake and drowsy	routine EEG due to:
+Moderate generalized slowing and suboptimal organization
+Nearly continuous irregular multifocal body twitches as described above, without clear EEG cerebral correlate
+CLINICAL CORRELATION:
+These findings indicate the presence of moderate diffuse cerebral dysfunction. Nearly continuous irregular multifocal body twitches are associated with twitch and muscle artifact; there is no definite EEG cerebral correlate . However , surface negative events cannot entirely be excluded.
+
+
+

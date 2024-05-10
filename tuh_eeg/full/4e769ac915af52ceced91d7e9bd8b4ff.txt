@@ -1,0 +1,42 @@
+CLINICAL HISTORY:  A young woman with recurrent seizure like episodes, typically occurring under stress.
+MEDICATIONS:  Topiramate, Aldactone, Neurontin, Cymbalta, and melatonin.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  The patient’s seizure medicines were withdrawn
+DESCRIPTION OF THE RECORD:
+November 17th through November 18th:  Background:  In wakefulness, there is symmetric reactive alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements.  Stage 2 sleep includes vertex waves, K complexes, and spindles.  Of note, the patient had difficulty sleeping and sleep was somewhat fragmented.  Lambda was seen in wakefulness and POSTS were noted in sleep.
+Epileptiform Detections:  None.
+Electrographic Seizures:  None.
+Pushbuttons:  Practice pushbuttons only.
+IMPRESSION:  Impression/Clinical Correlation:  This 1st 24 hours of EEG monitoring demonstrated no epileptiform pathology.
+November 18th through November 19th:  During this section of the record, the patient experienced a dizzy spell at 4:16 and a feeling of warmth at 8:06 p.m.
+Background:  In wakefulness, there is symmetric reactive 9 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by attenuation of alpha rhythm with vertex waves, K complexes, POSTS, and spindles noted in stage 2 sleep.
+Epileptiform Detections:  None.
+Electrographic Seizures:  None.
+Pushbuttons:
+At 4:16, patient is awake.  There is some movement artifact noted, but the background EEG demonstrates normal alpha rhythm with no epileptiform features.  The patient seems to be drifting off to sleep after this.
+At 8 p.m.  This appears to be a practice pushbutton with the nurse.  Normal awake EEG was noted.
+Heart rate: 72 bpm.
+IMPRESSION:  Normal 24-hour video EEG monitoring.  Patient's some symptoms of dizziness were not associated with an electrographic signature.
+November 19th through 20th:
+Background: Topiramate was held.  This section of the record captures more consistent stage 2 sleep in the early morning hours, although the patient notes that she has been having difficulty sleeping.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTS.
+Electrographic Seizures:  None.
+Epileptiform Detections:  None.
+Pushbuttons:  7:36 a.m. and 8 p.m.  These are practice pushbuttons with the nurses.  No epileptiform features were noted.
+Heart rate: 60-90 bpm.
+IMPRESSION/CLINICAL CORRELATION:  This 3rd day of continuous video EEG monitoring did not identify epileptiform abnormalities.  .
+November 20 through 21st:
+Background:  The patient was sleep deprived and medicines were held.  This section of the record captures more consistent stage 2 sleep in the early morning hours, although the patient notes that she has been having difficulty sleeping.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTS.
+Electrographic Seizures:  None.
+Epileptiform Detections:  None.
+Pushbuttons: No clinical events were noted
+Heart rate: 60-90 bpm.
+IMPRESSION
+This 4th day of continuous video EEG monitoring did not identify epileptiform abnormalities.
+No epileptiform features or behaviors were recorded during this 4 day EEG monitor.
+CLINICAL CORRELATION:
+No epileptiform features were seen.  It was not possible to record an event. Given the nature of provocative stimuli for this patient, provocation strategies were deferred. These findings were discussed with the patient.
+
+
+
+
+
+

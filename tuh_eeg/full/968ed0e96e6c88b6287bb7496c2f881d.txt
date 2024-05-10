@@ -1,0 +1,25 @@
+CLINICAL HISTORY:  A 32-year-old woman with epilepsy, last seizure 5 days ago.  The patient describes her body feeling jumpy, then loss of consciousness, followed by tonic-clonic activity.
+
+MEDICATIONS:  None.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were satisfactory.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm reaching amplitudes of 50 microvolts.  There is a small amount of low voltage, frontal central beta.  In drowsiness and in  hyperventilation there are bursts of hypersynchronous rhythmic higher amplitude theta.  In a handful of these bursts, however, there is asynchronous activity.  The activity can be reviewed in multiple different montages.  Although there is no definitive spike and slow wave complex, it appears that with some of the bursts there is a right or left frontal poorly defined sharp wave associated with this activity.  In addition, on occasion the activity is asynchronous, a bit more prominent on the right or left.
+
+Hyperventilation produces bursts of hypersynchronous rhythmic theta. With the use of an average reference, there is a bifrontal, 4 Hz spike and wave complex, or pair of complexes with this stimulation.
+
+Photic stimulation was remarkable for the patient who is falling asleep.  Some of the same hypersynchronous bursts noted in drowsiness were seen in photic stimulation, but no definitive spike and wave activity.
+
+Heart rate 54 BP.
+
+IMPRESSION:  This is an abnormal EEG due to:
+1. Irregular, hypersynchronous bursts as the patient becomes drowsy.
+2. A single, subtle bursts of 4 Hz spike and wave activity noted in hyperventilation which was slightly asynchronous.
+
+
+
+CLINICAL CORRELATION:  The epileptiform features described above are subtle.  They are also slightly irregular.  A consideration for a secondary generalized or primary generalized mechanism for this patient's seizures may be of value.
+
+
+
+

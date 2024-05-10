@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  49 year old right handed male recently admitted for central nervous system infection, PCP pneumonia, hypertension, and anxiety.  The patient was now with a seizure characterized by right leg shaking and then shaking of the upper extremities, eyes rolling up, with 1 minute loss of consciousness.  The patient was amnestic for the event and had a second in the emergency room.
+MEDICATIONS:  Klonopin, Keppra, Zofran, Celexa, Promethazine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Previous EEGs were not available for comparison.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, the alpha rhythm is somewhat slow at 7.5 Hz, but with stimulation reaches 8.5 Hz.  The patient transitions in and out of drowsiness with mild shifting slowing in drowsiness.  Other features of sleep include an increase in beta and vertex waves. The initial sections of the record were remarkable for significant muscle artifact.  Photic stimulation elicits scant driving.
+HR:    72 bpm
+IMPRESSION:  Very mildly abnormal EEG due to:
+Minimal shifting slowing in the transition to wake and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Comparison with previous EEGs may be of use.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 77-year-old male, status post resection of right temporal mass now with change in mental status.
+MEDICATIONS:  Keppra, Zofran, oxycodone, morphine, Decadron, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were deferred.  This was a technically acceptable bedside record in a somnolent adult.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates an asymmetry between the 2 hemispheres.  The patient is primarily drowsy with brief arousals and a glimpse of a 7-8 Hz alpha rhythm on the left.  With stimulation, the patient produces a few words.  Continuous focal slowing is noted from the right temporal region with relatively rhythmic delta activity from the right temporal region, sometimes with a phase reversal at T4.  As the patient becomes drowsy, there is prominent fast activity in the central regions.  Spindle activity is prominent out of the breach at CZ.  In the transition to drowsiness, the focal delta from the right hemisphere becomes somewhat more rhythmic.  In the context of a breach rhythm, there is a single right temporal sharp waves.
+Heart rate:  irregular at 84 bpm.
+IMPRESSION:  Abnormal EEG due:
+Essentially continuous focal slowing from the right hemisphere with disruption of faster frequency activity.
+Modest slowing from the left in maximal wakefulness.
+CLINICAL CORRELATION:  Only a single sharp wave was noted and is therefore not considered epileptiform.  The morphology of the sleep spindles out of the breach gives a prominence in the central regions, which is related to the craniotomy defect.  If seizures are an important consideration, a more prolonged study capturing more extended sleep may be of value.
+
+
+
+
+

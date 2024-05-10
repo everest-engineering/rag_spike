@@ -1,0 +1,12 @@
+EEG MONITOR:  Long-term monitor 14-228-2.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  During this section of the record, the patient was intubated.  By the morning of the 11th, the patient was extubated and awake.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow initially with slow delta and frontal beta.  With induction of anesthesia, there is an increase in frontal delta.  As the patient becomes more active, the EEG is somewhat more challenged.
+By 8 a.m., as anesthetic medications are reduced and the patient is increasingly awake, there is a medium amplitude beta and theta pattern with a glimpse of a posterior dominant rhythm.
+Heart rate 110 max.
+IMPRESSION:  This last section of 24 hours video EEG monitoring was remarkable for:
+Appearance of increasingly awake pattern.
+No seizures were noted.
+Epileptiform activity.  As noted in the initial baseline EEG on the 8th appears to have abated.
+
+
+

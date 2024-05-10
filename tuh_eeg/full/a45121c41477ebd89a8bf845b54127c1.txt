@@ -1,0 +1,35 @@
+History:	84 year old who presents with right sided weakness and expressive aphasia.  Patient
+has a history of a prior stroke.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+There is right-to-left asymmetry with slower waveforms over the left.  There is no clear PDR or AP
+gradient.  Additionally, patient is agitated and moves nearly continuously throughout the recording.
+The background over the right consists of polymorphic moderate amplitude theta activity with
+attenuation of voltages over posteriorly.  The background over the left consists of a mixture of
+attenuated slow theta and delta activity.  Patient remains awake throughout the recording.
+No clear electrographic seizures are present.
+Hyperventilation and photic stimulation are not performed.  An irregular heart rate is noted over a
+single EKG lead.
+Summary of Findings:
+No electrographic seizures
+Artifact, movement, abundant
+Attenuation, continuous, left hemispheric
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Diffuse slowing, polymorphic, mild-to-moderate
+Technically limited
+Interpretation:
+This is a TECHNICALLY LIMITED EEG because of abundant EMG and electrode artifacts. This
+portable 22-minute awake-only EEG is notable for mild-to-moderate diffuse slowing and continuous
+left hemispheric attenuation and moderate focal slowing.  Diffuse slowing is indicative of mild to
+moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing
+is indicative of a focal structural lesion over the left but it also could be post-ictal phenomenon.  No
+clinical or electrographic seizures are present.
+
+
+
+
+

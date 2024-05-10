@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 66-year-old woman who was admitted with acute change in mental status, shouting, and anxiety with right hemiparesis, found to have left posterior temporoparietal infarct, evaluate for seizures.
+MEDICATIONS:  Keppra, insulin, metoprolol, aspirin, atorvastatin.
+INTRODUCTION:  A 28-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This record captures wakefulness through sleep.  This is a technically acceptable EEG with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an asymmetry between the 2 hemispheres.  The right hemisphere includes generous low voltage beta and a glimpse of a 10 Hz alpha rhythm with a small amount of theta.  The left hemisphere demonstrates nearly continuous focal slowing with disruption of the alpha rhythm and 4-5.8 hertz theta activity in the left posterior quadrant.  Drowsiness is characterized by an increase in beta with vertex waves and spindles noted in sleep.  The focal slowing persists into sleep and in the sleep record, there are low voltage, discreet T5 sharp waves noted.
+Heart rate 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Nearly continuous focal slowing from the left hemisphere with disruption of faster frequency activity.
+Low voltage T5 sharp waves, left posterior temporal.
+CLINICAL CORRELATION:  This EEG supports a structural process on the left, congruent with a stroke history.  The small discrete sharp waves may be correlated with imaging and clinical history and do support a localization-related mechanism for seizures.
+
+
+

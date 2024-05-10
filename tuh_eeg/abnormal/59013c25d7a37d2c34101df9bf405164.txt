@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  71 year old right handed male past medical history for hypertension, diabetes, gout, BPH, anxiety, depression here for a left carotid endarterectomy.
+MEDICATIONS:  Propofol, Isoflurane, Versed, Fentanyl, Vecuronium.
+REASON FOR STUDY:  Left CEA.
+INTRODUCTION:  Digital video EEG was performed at bedside using 10-20 electrode placement system during our left carotid endarterectomy using original EKG electrodes.
+TECHNICAL PROBLEMS:  None.
+DESCRIPTION OF THE RECORD:  The EEG opens to a normal background with a posterior dominant rhythm of 9-10 Hz seen bilaterally and normal frontal central beta activity.  During the recording of the left carotid artery is clamped there is no significant change in the background.  This is communicated to the team.  After the left carotid artery is unclamped again there is no change in the background.  The internal, common and external carotid are clamped at 1 hour and 0.8 minutes and 70 seconds after the start of the procedure and they are unclamped at 1 hour and 059 minutes and 22 seconds after the procedure.
+IMPRESSION:  Normal EEG with consistency measured background dominant rhythm of 9 Hz with no change after carotid artery clamping.
+CLINICAL CORRELATION:  This is an uneventful left carotid endarterectomy with no change in the background.
+
+
+

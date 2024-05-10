@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 38-year-old male with a tonic-clonic seizure 10 years ago, 10 year history of epilepsy after a MVA with head trauma.  The patient never sought medical attention for epilepsy until recently.  Asthma, hypertension, anxiety, insomnia.
+MEDICATIONS:  Topamax, Sudafed, promethazine, Tramadol, Flexeril, Buspar, Celexa, albuterol.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was a very drowsy individual.
+DESCRIPTION OF THE RECORD:  The overall EEG is low voltage.  There is a glimpse of an 8.5 Hz alpha rhythm.  Hyperventilation served to alert the patient.  Following this, the background is relatively of lower voltage and includes diffuse background theta with a glimpse of a 9 Hz alpha rhythm, 4 Hz theta.
+Photic stimulation did elicit a driving response at 15 Hz.
+Heart rate 108 BPM.
+IMPRESSION:  This appears to be an abnormal EEG due to excess background slowing.
+CLINICAL CORRELATION:  This is an extremely drowsy individual with limited wakefulness.  The background slowing may represent excessive sleepiness, but it may also represent medication effect.  No epileptiform features were identified.  There were no previous EEGs available for comparison.
+
+
+

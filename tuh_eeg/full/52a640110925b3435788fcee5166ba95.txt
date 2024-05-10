@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 34-year-old woman of unknown handedness, status post multiple cardiac arrest with prolonged QT, multisystem dysfunction including renal failure, atherosclerosis.  Now intubated, comatose with repetitive vertical eye movements.
+MEDICATIONS:  Ativan, Dilaudid, Zosyn, vancomycin, others.
+INTRODUCTION:  A 40-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was examined during the EEG, and a neuromuscular blocking agent was utilized to make sure that all activity was of cerebral origin.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a burst suppression pattern.  The bursts of cerebral activity that are present are associated with higher amplitude generalized frontal spike followed by fast activity and the more sustained bursts and with repetitive theta activity.  The patient was observed to have vertical eye movements, which began with the activity and concludes slowly at the end of the bursts.  Vecuronium did not impact the record (there was no muscle artifact contributing to the study)
+Typical burst duration is 3-5 seconds in duration, but some bursts are as long as 17 seconds and others less than a second.
+Heart rate: 110 beats per minute.
+IMPRESSION:  Abnormal 40-minute digital video EEG at the bedside due to,
+Burst suppression pattern.
+An unusual epileptic pattern with generalized paroxysmal activity and associated rhythmic vertical eye movements.
+CLINICAL CORRELATION:  This EEG, recorded hours after this patient's most recent cardiac arrest supports a severe anoxic injury.  It is considered a status epilepticus pattern with a myoclonic or anoxic type pattern.  Continuous video EEG monitoring will follow for this individual.  The use of Ativan did not ameliorate the pattern described above.
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+HISTORY:
+42 y .o. male referred for routine EEG after he was found unresponsive on the street . He has a history of drug abuse.
+MEDICATIONS: Ativan, Fentanyl, Haldol, Versed, Lovenox
+SEDATION: As above TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND :
+The record consists predominantly of sleep.
+During very brief periods of wakefulness, the background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with an excess of delta frequencies. The normal anterior-to-posterior gradient of frequency and amplitude is present. A definite posterior dominant rhythm is not captured.
+During drowsiness, slow rolling eye movements and diffuse During drowsiness, slow rolling eye movements and diffuse background slowing are seen.
+During drowsiness, slow rolling eye movements and diffuse
+During drowsiness, slow rolling eye movements and diffuse
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+There is mild generalized slowing. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Not performed. Photic Stimulation : Not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG due to:
+1. Excess of delta frequencies in wakefulness
+CLINICAL CORRELATION:
+These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.
+
+
+
+

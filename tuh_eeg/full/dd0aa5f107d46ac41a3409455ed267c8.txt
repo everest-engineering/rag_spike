@@ -1,0 +1,48 @@
+History:	44 year old woman status post cardiac arrest, now with myoclonic jerks.
+Medications:	Depakote, Dilantin, Ativan, propofol.
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for24 hours from 12/26/2013 till 12/27/2013.  Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.    The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by severely
+attenuated background and slow polymorphic delta activity with absence of the expected anterior
+to posterior gradient of frequencies.  By the end of the recording the background consists of burst-
+suppression with burst-to-suppression ratio of ~ 1:5, with bursts occurring ~ every 10 seconds, lasting
+~2 seconds and consisting of diffuse semirhythmic theta and delta activity  (similar to the activity
+seen during the ictal runs).  No normal sleep architecture is present.
+Frequent brief (12-15 seconds) recurrent seizures are captured early in the recording.  Their
+frequency gradually decreases from ~ 50-60 seizures/ hour to none by ~2 PM.  Seizure cessation
+corresponds to initiation of phenytoin and propofol.  Clinically, during these events, patient briefly
+opens her eyes.  Electrographically, seizures start with sudden high amplitude generalized sharp
+waves that rapidly evolve into rhythmic generalized theta and then delta activity.  Even though
+seizures stop, patient continues to have brief (~2-3 seconds) diffuse bursts of polymorphic theta and
+delta activity, similar to the activity observed during the ictal runs.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, marked
+Attenuation, severe
+Status epilepticus, recurrent brief generalized seizures that stop by ~ 2 pm
+Burst-suppression pattern, ~1:5 by the end of the recording
+Interpretation:
+
+This is a VERY ABNORMAL 24-hour continuous video EEG due to severe diffuse slowing,
+attenuation, ~1:5 burst-suppression and brief recurrent generalized seizures that decrease in
+frequency and stop by the middle of the recording (after initiation of propofol and phenytoin).
+These findings are etiologically nonspecific indicators of marked diffuse cerebral dysfunction with
+profound cortical irritability and in the setting of severe anoxic brain injury indicate low likelihood
+of full neurological recovery.  Even though ictal runs have resolved by the end of the recording,
+bursts of activity occurred ~ every 10 seconds and contained waveforms similar to the waveforms
+seen during the ictal runs.  This suggests that there is a high likelihood of status  epilepticus
+recurrence if anesthesia is weaned off.  These findings were conveyed to the neurology consult
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  54 year old right handed woman with a long history of epilepsy, now with a prolonged seizure on Monday requiring Emergency Room care and Ativan.  Chronic pain.
+MEDICATIONS:  Levetiracetam, Lamotrigine, Asam Bumex, Elavil, Albuterol, Advair, Hydrocortisone, Loperamide, Loratadine, Metformin, Simvastatin, Januvia,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is awake.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz 30-microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  As the patient drifts off to sleep, there is an increase in theta.  Wicket activity is noted.  Other features of drowsiness include an increase in theta.
+HR:    100 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were noted.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

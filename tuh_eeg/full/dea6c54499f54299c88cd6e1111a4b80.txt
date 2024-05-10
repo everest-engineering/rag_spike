@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  52 year old right handed male with a history of multiple head traumas.  Tonic-clonic seizures with confusion afterwards.  Epilepsy not otherwise described.
+MEDICATIONS:  Lisinopril, HCTZ, Phenytoin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Drowsiness is characterized by slow rolling eye movements with rhythmic frontal delta and then POSTS.  Deeper stages of sleep are not achieved.  Hyperventilation produces a small increase in amplitude of the background.
+HR:    72 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If indicated, a follow-up study with special electrodes and/or additional sleep may be of value.
+
+
+

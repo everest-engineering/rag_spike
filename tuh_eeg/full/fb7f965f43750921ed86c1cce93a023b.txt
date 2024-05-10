@@ -1,0 +1,43 @@
+AGE: 68 y.o.
+SEX: male
+START DATE OF STUDY : 09/28/2015 at 00:51 END DATE OF STUDY: 9/29/2015 at 12:51
+RECORDING ENVIRONMENT : ICU EEG TYPE : LTM
+EEG #: 15-267
+HISTORY:
+68 y .o. male with a history of seizures, in the setting of status epilepticus.
+MEDICATIONS:
+Dilantin, Keppra , Valproic acid SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system . This was a technically satisfactory record and included a single channel of EKG .
+DAY 1 (9/28/2015, 00:51 - 9/28/2015, 08:00) BACKGROUND:
+The waking background is continuous, symmetric, poorly-organized, and consists predominantly of delta and theta with admixed alpha , and beta.
+Sleep is characterized by further background slowing to delta activity; sleep transients are absent. In sleep there are frequent <l second periods of diffuse attenuation.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None.
+EPILEPTIFORM ACTIVITY: None present
+EVENTS: No clinical or electrographic events were reported or detected.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal video EEG due to:
+1. Moderate to severe background slowing and disorganization
+These findings are consistent with moderate to severe diffuse cerebral dysfunction.
+DAY 2 (9/28/2015, 08:00 - 9/29/2015, 08:00)
+BACKGROUND: none. Note that background can be obscured by diffuse muscle artifact for periods up to 15 min.
+GENERALIZED SLOWING: no change
+FOCAL SLOWING: no change
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): none SPORADIC EPILEPTIFORM ACTIVITY: none
+EVENTS: No clinical or electrographic events reported or detected DAY 2 IMPRESSION & CLINICAL CORRELATION
+No change from Day 1, evaluation somewhat limited by periods of muscle artifact.
+DAY 3 (9/29/2015, 08:00 - 9/29/2015, 12:51)
+BACKGROUND: Improvement in organization from poor to fair; less delta in wakefulness
+GENERALIZED SLOWING: Mild generalized slowing FOCAL SLOWING: none
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): none SPORADIC EPILEPTIFORM ACTIVITY: none
+EVENTS: No clinical or electrographic events reported or detected DAY 3 IMPRESSION & CLINICAL CORRELATION
+Improved waking background organization. Mild diffuse slowing.
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Background slowing, which improves by Day 3 from "moderate-to-severe " to "mild"
+Background disorganization, which improves by Day 3 from "poor" to "fair"
+FINAL CLINICAL CORRELATION:
+These findings demonstrate diffuse cerebral dysfunction which improves over the course of the study as described above.
+
+
+

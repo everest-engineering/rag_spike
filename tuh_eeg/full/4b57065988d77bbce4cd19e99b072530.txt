@@ -1,0 +1,28 @@
+History:	38 year old woman undergoing right cerebral aneurysm coiling.  Total 8 coils were
+deployed during the procedure
+Medications:	Propofol, fentanyl, isoflurane, mannitol
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, comatose
+Description:
+Patient is awake at the beginning of the recording.  The background consists of diffuse fast activity.
+Induction starts ~ 9 minutes into the recording.  There is diffuse burst suppression ~ 13 minutes into
+the recording induced by the medications.  The background gradually recovers and for the rest of
+the recording consists of a mixture of polymorphic alpha, theta and delta activity.  Periods of
+discontinuity appear intermittently throughout the recording.  This is related to changes in
+anesthetic medications used.  Total 8 coils are deployed but EEG technologist is notified only of 3
+of them.  There is no change in the background related to coil deployment.
+Sudden onset of very transient (~16 seconds) diffuse delta activity is observed ~ 1 hr 49 minutes
+into the recording.  Etiology of this change is not clear.
+Summary of Findings:
+Interpretation:
+This is 2 hour 27 minute continuous EEG recording performed during aneurysmal coiling.  EEG
+remained symmetrical throughout, with no changes noted during the coil deployment (EEG
+technologist was notified of 3 out of 8 coils). Brief (~ 16 second) increase in diffuse delta activity
+occurred ~ 1 hr 49 minutes into the recording.  Significance of this change is not certain given its
+brief duration: it could be related to changes in anesthetic medications used or it  could be related
+to transient increase in ICP.  This change was noted during the procedure but the Attending
+physician was notified of the change after the procedure given rapid recovery of EEG to its
+
+

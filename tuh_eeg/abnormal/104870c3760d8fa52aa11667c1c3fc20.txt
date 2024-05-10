@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 65 year old right-handed woman with 3 episodes of 10 to 15 seconds of aphasia over the past 5 years.
+MEDICATIONS: Zoloft, Simvastatin, Aspirin, Hyzaar
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. There is also a small amount of 7 to 8 Hz theta frequency activity. Rare, left temporal mixed theta delta is identified as the patient transitions into drowsiness with a small amount of rhythmic mid temporal theta with drowsiness. Other features of drowsiness include an increase in background slowing and attenuation of the alpha rhythm. Neither hyperventilation nor photic stimulation significantly activate the record.
+HR: 88 bpm
+IMPRESSION: This EEG is within the normal limits for an adult of this age.
+CLINICAL CORRELATION: There are no epileptiform features identified. Because of the scant amount of theta in the background, a follow-up study may be helpful if this individual continues to have cognitive difficulty.
+
+

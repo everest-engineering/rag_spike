@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  83 year old male with high grade left carotid stenosis and multiple intracranial stenosis with recurrent right hemiparesis.
+MEDICATIONS:  Propofol, Fentanyl, Sevoflurane, Vecuronium, Lidocaine, Phenylephrine.
+INTRODUCTION: Digital video EEG monitoring was performed at bedside using standard CEA montage with 1 channel EKG.  Recording began at 8:20 and concluded at 11:40.
+DESCRIPTION OF THE RECORD:  As the recording began, the patient had already received some sedative hypnotic medications.  The background was slow with generous beta and faster frequency activity.  There was also some delta. Prior to the placement of the clamp, the patient's anesthetic medications were adjusted.  With higher doses of fentanyl and propofol, a burst suppression pattern was identified.  Shifting asymmetries were noted with at times more suppression on right or left.  In addition, left temporal sharp waves and rare right temporal sharp waves were noted.
+The clamp was placed 9:59, burst suppression pattern was noted intermittently at 9:58.  The left internal carotid artery was clamped at 10:01 and the common carotid clamped at 10:01:20.  Following placement of the clamp, the EEG was more discontinuous.  The overall record was very low voltage.  The surgeon was informed and the clamp was removed.  Anesthetic medications were adjusted and the clamp was placed on the internal carotid at 10:07.  With this change in anesthetic technique, the record remained relatively continuous. The carotid was unclamped at 11:17.  Shifting asymmetries were noted including asymmetries in the intermittently discontinuous pattern.
+HR:    78 bpm
+IMPRESSION/CLINICAL CORRELATION:  Three hour 20 minute EEG monitoring during this left carotid endarterectomy was remarkable for an intermittently discontinuous pattern with shifting asymmetries, but no sustained focal features after the second clamp and adjustment of anesthetic medications.  The patient's abnormal baseline EEG may contribute to the challenges of intraoperative monitoring for this individual.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 85 -year-old woman with 2 days of left-sided weakness and episodes where her eyes rolled back with loss of speech, lasting 1 minutes.  No past seizures.
+MEDICATIONS:  Zocor, aspirin, methimazole, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This was an awake and drowsy record and the patient was a little breathless.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is poorly organized.  Some sections are a bit organized with a 7.5 algorithm but there were bursts of underlying arrhythmic delta, shifting delta left or right but left a bit more so than the right.  Features of drowsiness included an increase in background slowing, photic stimulation elicited, scant driving.
+Heart rate 66 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Slowing of the alpha rhythm.
+Background slowing and disorganization.
+Shifting arrhythmic delta.
+CLINICAL CORRELATION:  Overall, this EEG is most supportive of a bihemispheric disturbance of cerebral function affecting gray and white matter.  The rhythmic slowing of the alpha rhythm is a nonspecific finding.  The shifting arrhythmic delta activity may be correlated with underlying cerebrovascular disease.  No epileptiform features were noted.
+
+
+

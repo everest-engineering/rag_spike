@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 53 year old right handed male with a past medical history of a subdural hematoma drain in December, now with an episode of stuttering, right leg weakness, and jerking.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This study compromises the patient during wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD: In wakefulness there is well organized 10.5 alpha activity. There is low voltage background, but the posterior region is alpha and 7.5. In addition, there is recurrent artifacts, especially eye movement and slowing artifacts in this record. Photic stimulation generates a harmonic driving response.
+HR: 60 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform activity or focal features were observed. This EEG is within normal limits for age. The absence of epileptiform activity does not exclude the diagnosis of epilepsy. If epilepsy is a concern, this patient may require a more prolonged study.
+
+
+

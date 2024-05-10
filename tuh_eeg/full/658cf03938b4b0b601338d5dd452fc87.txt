@@ -1,0 +1,39 @@
+SEX: male
+DATE OF STUDY: 12/10/2015 RECORDING ENVIRONMENT: inpatient EEG TYPE: 20-40 min, asleep only EEG #: 15-1796
+HISTORY:
+57 y.o. male with a history of renal transplant referred for routine EEG for S/P RENAL TRANSPLANT. POST OP DAY 1 PT CODED, December 6, 2015 UNKNOWN TIME PT HAD CONTINUOUS VIDEO EEG MONITORING FOR MOUTH TWITCHING AND LEG TWITCHING.	PT Was	LOADED WITH DEPAKENE.
+PMH: DM, HTN, ESRD ON HD MWF, HCV. MEDICATIONS:
+Current Outpatient Prescriptions:
+ibuprofen (ADVIL,MOTRIN) 800 mg tablet, Take 800 mg by mouth every 12 hours as needed for Pain.
+aspirin 81 mg chewable tablet, Take 81 mg by mouth daily. sevelamer (RENAGEL) 800 mg tablet, Take 800 mg by mouth 3 times daily (with meals) .
+fluticasone-salmeterol (ADVAIR) 250-50 mcg/dose diskus inhaler, Inhale 1 puff into the lungs every 12 hours.
+ALBUTEROL IN, Inhale	into the lungs.
+omeprazole (PRILOSEC) 20 mg capsule, Take 1 capsule by mouth daily.
+oxycodone-acetaminophen	(PERCOCET) 5-325 mg tablet by mouth 2 times daily as needed for oxycodone-acetaminophen (PERCOCET) 5-325 mg tablet by mouth daily as needed for Pain. oxycodone-acetaminophen	(PERCOCET) 5-325 mg tablet by mouth every 4 hours as needed for per tablet, Take 1 Pain. per tablet, Take 1 per tablet, Take 1 Pain.
+oxycodone-acetaminophen	(PERCOCET) 5-325 mg per tablet, Take 1 tablet by mouth every 4 hours as needed for Pain.
+oxycodone-acetaminophen (PERCOCET) 5-325 mg per tablet, Take 1 tablet by mouth every 4 hours as needed for Pain.
+isosorbide dinitrate (ISORDIL) 20 mg tablet, Take 20 mg by mouth 3 times daily.
+lovastatin (MEVACOR) 40 mg tablet, Take 40 mg by mouth nightly. insulin NPH-insulin regular (NOVOLIN 70/30) 100 unit/mL (70-30) injection, Inject 30 Units into the skin daily (with dinner) . hydroxyzine (ATARAX) 25 mg tablet, Take 25 mg by mouth 3 times daily as needed.
+amlodipine (NORVASC) 10 mg tablet, Take 10 mg by mouth daily. enalapril (VASOTEC) 2.5 mg tablet, Take 2.5 mg by mouth daily. fluoxetine (PROZAC) 10 mg .tablet, Take 10 mg by mouth daily. doxepin (SINEQUAN) 25 mg capsule, Take 25 mg by mouth nightly.
+current facility-administered medications for this visit. VANCOMYCIN, ZOSYN
+SEDATION: None TECHNIQUE:
+A bedside portable 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG- this is an intubated, comatose patient.	There was no hyperventilation or photic stimulation.
+EEG BACKGROUND:
+The background is symmetric, low-voltage, featureless with scant low-voltage beta.	Slow, sweat or slow delta activity is noted, compatible with artifact.	There is no reactivity or variability.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 84bpm is captured on a single EKG lead.
+IMPRESSION:
+Arc of the abnormal bedside portable EEG due to:
+1. marked paucity of any cerebral activity CLINICAL CORRELATION:
+This is study supports a severe disturbance of cerebral function.
+He demonstrates a pattern of ongoing attenuation in comparison to previous studies 3 days ago
+
+
+

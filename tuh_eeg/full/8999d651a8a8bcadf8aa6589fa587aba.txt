@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  51 year old right handed male with recurrent complex partial seizures and previous brain tumor requiring radiation therapy.  Parkinsonian features.  Wife reports 2 episodes with tremulousness in sleep.
+
+MEDICATIONS:  Keppra.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake through stage I sleep record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low voltage frontocentral beta activity.  Drowsiness is characterized by anterior spread of the alpha rhythm, followed by disappearance of the alpha rhythm and occasional posts.  Hyperventilation does not activate the record.  Photic stimulation elicits brief bilateral driving.  Heart rate is 66 BPM and occasionally slightly irregular.
+
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+
+CLINICAL CORRELATION:  No epileptiform features were observed in this EEG.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration a repeat tracing capture in sleep is suggested.  Alternatively, an overnight sleep EEG may be helpful to characterize some nocturnal tremulousness.

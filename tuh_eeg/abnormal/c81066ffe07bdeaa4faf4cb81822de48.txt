@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 21-year-old right-handed woman with a syncopal spell with twitching with loss of consciousness lasting 2 minutes.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm of 60 to 70 microvolts.  Drowsiness is characterized by an increase in synchronicity of the alpha rhythm with some slow-rolling eye movements.  Hyperventilation produces a small amount of slowing.  Photic stimulation elicits minimal driving.  The patient was falling asleep during photic stimulation.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG.  A normal EEG does not exclude a diagnosis of epilepsy. If seizures are an important consideration, a sleep-deprived 1-hour EEG may be considered.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this EEG.
+
+
+

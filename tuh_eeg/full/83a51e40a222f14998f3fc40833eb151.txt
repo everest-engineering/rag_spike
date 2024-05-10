@@ -1,0 +1,10 @@
+CLINICAL HISTORY: Hepatitis C, status post cirrhosis and liver transplant, admitted for confusion and possible seizure.
+MEDICATIONS: Flagyl, vancomycin.
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic simulation are performed. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very low voltage, beta relatively featureless record with smaller amounts of delta. Stimulation of the patient produces muscle artifact.
+Heart rate 120 BPM.
+IMPRESSION: Abnormal EEG due to replacement of normal background with primarily a beta frequency pattern with smaller amounts of delta.
+CLINICAL CORRELATION: No epileptiform features are noted. These features are nonspecific and support a diffuse disturbance of cerebral function, which may be due to many different causes. Careful review of the clinical history is important to make sure that the patient has not received benzodiazepine medication, which could produce the pattern described above.
+
+
+

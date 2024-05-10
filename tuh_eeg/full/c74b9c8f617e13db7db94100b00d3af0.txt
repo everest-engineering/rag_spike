@@ -1,0 +1,20 @@
+CLINICAL HISTORY:  A 27-year-old male with congenital stroke, chronic right hemiparesis, but able to ride his bicycle. Since March, he has had an increase in the number of seizures with typical nocturnal tonic-clonic seizures, one every 2-3 days. After his seizures, he cannot communicate and has postictal hemiparesis.
+
+MEDICATIONS:  Tegretol, Keppra, and phenobarbital.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This was an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a low-voltage pattern with a glimpse of an alpha rhythm of 10 Hz.  There is a subtle asymmetry with a bit more rhythmic theta and even some delta in the left hemisphere, particularly the left central temporal region.  Hyperventilation is performed early in the record and accentuates this subtle focal slowing in the left hemisphere.  As the patient transitions to stage II sleep, the vertex waves are slightly asymmetric with a somewhat greater field on the left than the right.  There is also an asymmetry of beta activity.
+
+Photic stimulation elicits bilateral driving.
+
+Heart rate 66 BPM.
+
+IMPRESSION:  Abnormal EEG due to:
+1. Subtle focal slowing in wakefulness to stage II sleep.
+2. Asymmetric vertex waves.
+
+CLINICAL CORRELATION:  No epileptiform features were seen.  This focal slowing described above is ipsilateral to the patient's congenital stroke.
+
+
+

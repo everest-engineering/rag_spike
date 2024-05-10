@@ -1,0 +1,18 @@
+History:	 56 yr old male with history of seizures.
+Medications:	Phenytoin
+Sedation:
+EEG Type:
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  The background over the left hemisphere consists of polymorphic low-to-moderate amplitude 1O Hz alpha activity posteriorly with preserved AP gradient.  The background over the right hemisphere consists of unstable PDR that reaches 8.5 Hz, very weak AP gradient and primarily low amplitude theta and delta activity.
+During drowsiness and sleep symmetrical vertex waves and sleep spindles are captured.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) induces photic driving only over the left hemisphere.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric, mild-to-moderate
+No epileptiform discharges
+Other, no photic driving over the right Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 24 minute EEG due to continuous mild-to-moderate focal right hemispheric slowing and lack of photic driving over the right. These findings are indicative of a focal structural lesion in this region.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

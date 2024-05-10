@@ -1,0 +1,37 @@
+History:	56 year old who presents with new onset seizures and change in mental status.
+Medications:	KEPPRA, 2MG ATIVAN IV PUSH
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 9 hours from 08/12/0214 to 08/13/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left hemisphere consist of low-to-moderate amplitude well formed and
+regulated 10 Hz PDR with preserved AP gradient.  The background over the right hemisphere is
+attenuated, especially over the lateral leads; PDR is unstable and fragmented at 9-10 Hz with poor
+AP gradient.  Additional polymorphic delta activity is present over the right temporal and right
+occipital  regions.  During sleep symmetrical vertex waves and sleep spindles are noted.
+14 focal ~ 30 seconds - 5 minute long seizures are captured during the first two hours of the record
+and then stop.  Four seizures have a clinical correlate with left gaze deviaton, rigth hand nose
+wiping and head turning and the rest are subclinical.  During one he is able to talk with his family.
+All the seizures appear to be right temporal in onset. Some have a more posterior temporal onset
+and some more midtemporal. The posterior ones appears to start with a clear beta pattern and the
+more anterior ones have a mid temporal theta onset.
+Hyperventilation and photic stimulation are not performed.  HR was 66
+Summary of Findings:
+Status epilepticus
+Seizure, right temporal
+Interpretation:
+This is a very abnormal awake and asleep 9 hours EEG due to partial status epilepticus arising from
+the right mid and posterior temporal and occipital lobe which resolved after 2 hours. There is focal
+epileptogenic structural abnormality in the right temporooccipital region, likely cortical.
+
+
+

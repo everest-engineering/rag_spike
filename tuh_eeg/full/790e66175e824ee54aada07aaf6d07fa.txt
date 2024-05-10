@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 60 year old right handed woman with a posterior cerebral artery infarct 5/10/2010, now with hemorrhagic conversion of the infarct and slurred speech.
+MEDICATIONS: Keppra, Atenolol, Verapamil, Lisinopril, Protonix, Labetalol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is somewhat drowsy. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern with generous frontal beta more so on the left frontal region than the right and slowing particularly in the right posterior region with low to medium amplitude slow delta. With stimulation there is a theta frequency posterior dominant rhythm and a suggestion of lambda on the left not seen on the right. As the patient transitions into sleep, asymmetric vertex waves are noted, maximum on the left. Beta activity in sleep is also maximum on the left.
+HR: 90 bpm and slightly irregular
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Focal features in the right hemisphere with arrhythmic delta activity and disruption of faster frequency activity.
+CLINICAL CORRELATION: These findings are relatively classic descriptions of a focal process involving gray and white matter. No epileptiform features were seen. The generalized background slowing supports the diffuse disturbance of cerebral function that this intracerebral hemorrhage has caused.
+
+
+

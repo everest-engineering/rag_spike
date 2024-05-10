@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  72-year-old woman, presented on 08/11/2015 with cardiac arrest, evaluate for anoxic encephalopathy.  The patient has a history of kinked carotid artery and hemorrhage.
+MEDICATIONS:  Heparin, nitroglycerine, meropenem, and dexmedetomidine.
+INTRODUCTION:  20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient was examined during the EEG.
+DESCRIPTION OF THE RECORD:  This is a technically challenging bedside portable EEG with a great deal of muscle and ICU artifact.  The overall pattern is a low voltage, relatively featureless pattern with occasional isolated bursts of frontal delta.  There is also a small amount of left hemispheric delta noted intermittently.  Tactile stimulation of the patient including a neurological and cranial nerve examination did not significantly activate the record.
+Heart rate:  72 bpm.
+IMPRESSION:  Challenging, but abnormal EEG due to:
+Replacement of normal background with a low voltage, relatively featureless pattern.
+Occasional bursts of delta.
+CLINICAL CORRELATION:  To more completely evaluate this patient's electrocerebral pattern, consideration for a repeat testing with a neuromuscular blockade can be considered.
+
+
+

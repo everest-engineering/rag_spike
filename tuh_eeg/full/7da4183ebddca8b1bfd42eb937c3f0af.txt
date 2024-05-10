@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 61-year-old woman, status post code, approximately noon on 05/18, the patient has advanced cancer of unknown etiology with failure to thrive, was resuscitated for 11 minutes, did not awake and went on to demonstrate multisystem injury with lactic acidosis, shock liver, thrombocytopenia, and subsequent development of a right fixed dilated and externally deviated pupil.
+MEDICATIONS:  Norepinephrine.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient was being cooled to 32 degrees at the time of the EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage, markedly suppressed pattern.  The record can be reviewed at higher sensitivities and scant, low voltage cerebral activity is identified.  Tactile stimulation and auditory stimulation of the patient produced artifact.
+Heart rate:  Irregular, 44-80 bpm.
+IMPRESSION:  This EEG is remarkable for:
+markedly suppressed background with very slow delta.
+CLINICAL CORRELATION:  There is scant cerebral activity noted in this record at ICU and thermal artifacts may contribute to the pattern described above.  This EEG in this clinical setting carries a worrisome prognosis.  The critical care team was advised of these results and the patient went on to long-term monitoring as part of the hypothermia protocol.
+
+
+
+
+

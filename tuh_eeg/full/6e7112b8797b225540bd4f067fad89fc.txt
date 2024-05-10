@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 68-year-old woman admitted to the hospital several days ago with aphasia and a 1 week history of language difficulties, resolving and right-sided weakness.
+MEDICATIONS:  Aspirin, lisinopril, others.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow and poorly organized.  Both hemispheres are somewhat slow and disorganized with a posterior dominant rhythm of 6-7 Hz.  There is disruption of faster frequency activity noted from the left hemisphere.  There are bursts of frontally prominent regular or irregular delta noted.  Rhythmic delta activity is also observed in the occipital regions, right or left with an occipital sharp wave which is almost at the midline.  In addition, there are rare left central sharp waves maximum at C3 in wakefulness, there is an increase in more rhythmic theta frequency activity and the alpha rhonchi is a bit better defined on the right.  Photic stimulation did not significantly activate the record.  Heart rate sometimes irregular, 72 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing and disorganization.
+Superimposed focal features with disruption of faster frequency activity on the left compared to the right.
+Sharp waves noted including left central as well as others that are occipital in nature.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric process involving gray and white matter.  In addition, focal features, congruent with the stroke history include disruption of faster frequency activity and the sharp waves described above.
+

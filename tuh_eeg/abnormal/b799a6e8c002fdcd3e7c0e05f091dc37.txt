@@ -1,0 +1,27 @@
+CLINICAL HISTORY: 22 year old right handed female with complaint of generalized
+headaches 4-5 times per week with cerebral palsy, cerebellar damage, ataxia, scoliosis,
+and asthma.
+
+MEDICATIONS: Depakote, Albuterol
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+simulation were performed. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10.5 Hz alpha rhythm,
+which is symmetric and reactive to eye opening. It is approximately 40 microvolts in
+amplitude. It is similar in both right and left. Drowsiness is characterized by
+background slowing and POSTS. Hyperventilation produces an increase in amplitude of
+the background. Photic stimulation elicits scant driving. Eye artifact is identified in the temporal region in the transition to sleep, but there is no focal slowing or sharp waves.
+
+IMPRESSION: Normal EEG.
+
+CLINICAL CORRELATION: No epileptiform features were identified in this record.
+The amplitude asymmetry seen in the previous study was not identified today, but this
+was technically a better study. If epilepsy is an important consideration, a prolonged
+monitoring study can be considered.
+
+
+
+
+

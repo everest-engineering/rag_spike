@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 43 year old right handed woman with recurrent tonic clonic seizures at home and in the emergency room, but no postictal confusion. History of epilepsy and depression.
+MEDICATIONS: Topamax, Glipizide, Oxycodone, Zoloft, Pamelor.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG is a bit slow and disorganized with an alpha rhythm of7.8 hertz. In the transition in and out of sleep, there is a subtle asymmetry with drop out of the alpha on the right before the left. There are occasional bursts of paroxysmal slowing in the frontal regions and some shifting slowing. Photic stimulation does not significantly activate the record. Hyperventilation produces an increase in slowing.
+HR: 96 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Mild background slowing and disorganization.
+2. A subtle asymmetry with dropout of the alpha rhythm on the right before the left.
+CLINICAL CORRELATION: There are no definitive epileptiform features. The background slowing is nonspecific and can be seen in toxic or metabolic encephalopathy, post ictal state or other mild diffuse disturbance of cerebral function. The alpha asymmetry is a subtle finding, but the alpha rhythm is lower amplitude on the right compared to the left. These findings may be correlated with imaging.
+
+
+
+

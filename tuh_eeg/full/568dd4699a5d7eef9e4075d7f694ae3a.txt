@@ -1,0 +1,42 @@
+AGE: 72 y.o.
+SEX: male
+DATE OF STUDY: 10/06/2015
+RECORDING ENVIRONMENT: Inpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG #: 15-1467
+HISTORY:
+72 y.o. male with a past history of HTN, HLD, and atrial fibrillation referred for routine EEG for TIA.
+MEDICATIONS: LOSARTAN, DILTIAZEM, XARELTO, ASA SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a suboptimally organized symmetric mixture of alpha, theta, and beta frequencies with excess admixed delta. There are fragments of a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and further diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric sleep spindles and K-complexes present during Stage II sleep.
+Slow wave sleep is not captured. There is mild generalized slowing.
+There is abundant left hemispheric polymorphic slowing. There is frequent right parasagittal polymorphic slowing. There is frequent bifrontal polymorphic, at times rhythmic slowing at 1 Hz for runs <5 seconds.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Hyperventilation is not performed.
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and asleep routine EEG due to:
+Mild generalized slowing with excess of delta frequencies
+Suboptimal organization of the background
+Abundant left hemispheric polymorphic slowing
+Frequent right parasagittal polymorphic slowing
+Frequent bifrontal polymorphic, at times rhythmic slowing at 1 Hz for runs <5 seconds
+CLINICAL CORRELATION:
+These findings are indicative of multifocal cerebral dysfunction.
+There is evidence of left hemispheric dysfunction, which is more prominent than right parasagittal dysfunction and bifrontal cerebral dysfunction . These findings are superimposed on mild diffuse cerebral dysfunction . At times the bifrontal slowing is rhythmic, which is a nonspecific but pathologic finding that can be seen, most commonly, in the setting of a toxic-metabolic encephalopathy, but also with deep structural lesions or
+increased intracranial pressure.
+
+
+
+

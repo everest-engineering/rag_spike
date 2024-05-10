@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 31-year-old blind/deaf male, status post medulloblastoma resection 9 years ago with subdural hematoma mass effect shift.  Now, with posturing, rule out seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has multiple craniotomy defects, particularly on the left with a ventriculostomy.  The individual is somnolent, but arousable.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The left hemisphere demonstrates an attenuated, slow delta pattern.  The left hemisphere is relatively invariant.  The right hemisphere demonstrates a more dynamic pattern.  With arousal, a 5 Hz posterior dominant rhythm can be identified.  Arrhythmic delta activity, some of which is sharply contoured was noted with occasional phase reversal at T6 in the context of a breach rhythm.
+Heart rate 103 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous, invariant focal slowing from the left hemisphere.
+Arrhythmic delta activity from the right
+Occasional sharply contoured slowing in the right posterior temporal region.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No seizures were noted.  With tactile stimulation, the patient has eye opening and what seems to be a 5 Hz posterior dominant rhythm.
+
+
+
+
+

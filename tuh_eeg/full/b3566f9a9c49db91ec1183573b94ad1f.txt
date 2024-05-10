@@ -1,0 +1,40 @@
+History:	25 YO FEMALE WITH H/O CHILDHOOD SEIZURES.  DEVELOPED DELAYED,
+LAST SZ OVER 1 YR AGO.
+
+PRESENTS FOR LTM.
+Medications:	DILANTIN, VIMPAT
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 18.5 hours from 06/29/2015 to 06/30/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.    Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+none
+Description:
+Waking background is characterized by an absence of the alpha rhythm.  Background activity is
+predominantly irregular 50-75uV, 6-7Hz activity, with absence of the normal anterior to posterior
+gradient of frequencies.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and sleep
+spindles and K complexes appear.  There is asynchrony of sleep spindles and vertex waves.
+Patient rapidly transitions between wakefulness and sleep.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 72
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild diffuse
+Interpretation:
+This is an ABNORMAL 18.5 hour awake and asleep EEG due to mild diffuse slowing and
+asynchrony of sleep architecture. Diffuse slowing is indicative of mild to moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Asynchrony of sleep architecture suggests
+abnormalities in the thalamocortical connections.
+
+
+
+
+
+

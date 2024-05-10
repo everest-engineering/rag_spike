@@ -1,0 +1,21 @@
+History:	37 YR OLD FEMALE PRESENTS S/P GSW HEAD EEG TO MONITOR BURST SUPPRESSION., POD 3 RIGHT CRANIOTOMY, DY 3 LEFT FRONTAL EVD
+Medications:	FENTANYL DRIP, PROPOFOL DRIP, VECURONIUM DRIP, HEPARIN DRIP, NOREPINEPHRINE  DRIP
+Sedation: EEG Type: Technique:
+Continuous (inpt, video}, 24 hrs
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 35 hours from 12/17/2015 to 12/19/2015.  Nursing­ initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the attending neurologist for detection of seizures and changes in EEG patterns.
+#.Push button  events	O
+Description of pushbutton events
+I
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta activity with absence of the expected anterior to posterior gradient of frequencies. There is intermittent diffuse attenuation seen. No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli.  Hr was 60
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, severe diffuse
+Interpretation:
+This is an ABNORMAL EEG because of severe diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+

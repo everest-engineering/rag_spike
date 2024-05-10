@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  80 year old woman with Alzheimer's, syncopal associated with gasping for air, not feeling well.  Her eyes rolled up and then she became rigid, was incontinent for 30 seconds followed by confusion.  This EEG was performed on the day of the syncopal event.
+MEDICATIONS:  Protonix.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has difficulty cooperating with the test and is moving about.  This is an awake EEG.  Sleep was not possible.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrated a diffusely slow pattern with a slow alpha rhythm.  The overall background is approximately 5-7 Hz.  There is very brief sleep in the initial sections of the record which is characterized by a bit more slowing and a decrease in eye movement.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+CLINICAL CORRELATION:  The generalized background slowing described above was a primarily theta background, is a nonspecific finding, but is characteristic of Alzheimer-type dementia.
+
+
+

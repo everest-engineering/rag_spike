@@ -1,0 +1,32 @@
+History:	25 year old woman with a history of Lupus, now presents with several convulsions in
+the setting of increased blood pressure.
+Medications:	Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~8 hours from 08/29/2015 till 08/30/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists of low amplitude diffuse slow delta
+activity with frequent diffuse sleep-spindle-like waveforms.  With stimulation, diffuse attenuated
+slow delta activity is seen.
+No electrographic seizures are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous 8-hour video EEG due to severe diffuse slowing. This finding is
+indicative of severe diffuse cerebral dysfunction, which is etiologically nonspecific, but in this
+patient it is partially medication induced.  No electrographic seizures are present.  These findings
+were conveyed to the primary team.
+
+
+
+
+

@@ -1,0 +1,13 @@
+History:	62 YO FEMALE S/P ASCENDING HEMIARCH REPLACEMENT, TEE, EEG
+Medications:	ISOFLURANE, MIDAZOLAM, ETOMIDATE, ROCURONIUM, EPHEDRINE, FENTANYL, HEPARIN, EPINEPHRINE,PROTAMINE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+Description: Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  As the record went along, there was intermittent burst suppression seen. The primary team was informed.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes Intermittent polymorphic delta activity is present in the left anterior temporal region during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Hr was 72  At 10:50am, the patient went on bypass.  Off bypass at 10:55am.  No focal changes were seen.
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL 3.5 hour EEG because of hemi-arch replacement. There was intermittent focal slowing in the left anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.  In addition, there were no focal changes noted
+
+
+

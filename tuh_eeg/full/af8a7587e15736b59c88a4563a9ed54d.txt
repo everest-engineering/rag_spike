@@ -1,0 +1,29 @@
+History:	82 YR FEMALE WITH CC OF DECREASED RESP.  PT HAD SIMILAR EPISODES
+BEFORE.  R/O SZ
+Medications:	lovenox, ceftriaxone, insulin, levothyroxine, lipitor
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Hr was 54
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, anterior
+Excessive fast
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the the left
+anterior temporal region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.  Excessive beta activity could be secondary to the medication effect,
+such as benzodiazepines or barbiturates.
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 63-year-old woman with nonischemic cardiomyopathy, hospitalized with multiple episodes of mental status change, left arm drift, evaluate for complex partial seizure and/or brainstem stroke.
+MEDICATIONS:  Inpatient medicines, fentanyl, propofol, vecuronium, others.
+INTRODUCTION:  One-hour digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated.  The initial sections of the record included exclusively muscle and motion artifact.  The patient received 25 mcg fentanyl, which did eliminate the muscle artifact.
+DESCRIPTION OF THE RECORD:  In this one-hour EEG, there are greater than 20 minutes of interpretable record.  This record is a low voltage, diffusely slow continuous mixed frequency pattern with generous theta, scant amounts of beta and delta as well as intermittent generalized attenuation.
+Heart rate:  96 bpm.
+IMPRESSION:  Abnormal one-hour EEG due to low voltage, generalized slow pattern.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function involving gray and white matter.  Contributing factors may include toxic or metabolic encephalopathy as well as medication effect.  No epileptiform features were seen.  No focal features were noted in the sedated study.
+
+
+

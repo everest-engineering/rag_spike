@@ -1,0 +1,27 @@
+History:
+Medications:	ZONISAMIDE,KLONOPIN,RENAGEL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse high
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies. There are intermixed periods of bifrontal low amplitude beta. At times the frontal  high
+voltage delta appears to become semirhythmic and more prominent. This is also seen with
+stimulation.  No normal sleep architecture was present despite prolonged clinical sleep.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 84
+Summary of Findings:
+Beta, intermittent, bilateral frontal
+Disorganization, continuous
+Diffuse slowing, polymorphic, continuous, moderate generalized
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing, disorganization and absent
+alpha rhythm.  These findings are etiologically nonspecific indicators of moderate to severe diffuse
+cerebral dysfunction.  The bifrontal beta may be related to irritable cortex or even medication
+
+
+
+
+

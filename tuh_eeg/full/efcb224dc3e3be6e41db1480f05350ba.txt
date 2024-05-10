@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 30-year-old with headaches and bilateral eye twitching lasting 1 minute.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a well-developed, 10 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta.  The patient transitions in and out stage II sleep.  Vertex waves and spindles were seen in stage II sleep. In relaxed wakefulness, occasional eye flutter was observed.
+Photic stimulation was not possible.  The patient was observed to have some eye blinking during the EEG.
+Heart rate 72 BPM.
+IMPRESSION:  This is a normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  Careful review of the patient may be helpful to determine if the symptoms that she experienced were typical of her eye blinking.
+
+
+

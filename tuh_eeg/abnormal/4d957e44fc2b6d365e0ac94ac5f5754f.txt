@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 45 year old right handed woman with a recent stroke treated with Coumadin. The patient had a 20 minute episode of tremulousness followed by unresponsiveness.
+MEDICATIONS: Benadryl, Zoloft, Zocor, Ativan, Coumadin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz alpha rhythm which is present bilaterally, higher amplitude on the left compared to the right although no more than 50% higher on the left compared to the right. There are rare, subtle underlying delta in the right posterior temporal region. Photic stimulation is performed as the patient is drifting off to sleep and there is a slightly more vigorous photic driving response on the left compared to the right.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Very subtle focal delta from the right posterior quadrant.
+2. Somewhat asymmetric driving response disrupted on the right.
+CLINICAL CORRELATION: These findings are quite subtle. No epileptiform features were identified. If epilepsy is an important consideration, a followup study looking for epileptiform activity post discharge is suggested.
+
+
+

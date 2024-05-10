@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 51-year-old male admitted with new-onset seizures versus atrial fibrillation characterized by lightheadedness, stiffening, and convulsive activity for 3-5 minutes.  Postictal fecal urgency, confusion, and tongue biting.
+MEDICATIONS:  Aspirin, Plavix, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible, but photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-organized background with 10 Hz alpha rhythm and a small amount of low voltage frontocentral beta.  The patient transitions in and out of stage 1 sleep with vertex waves, subtle POSTS.  Beta activity is noted as the patient transitions in and out of sleep.
+Stage 2 sleep includes vertex waves, K-complexes, and spindles.
+Photic stimulation elicited a vigorous driving response.
+Heart rate 78 beats per minute.
+IMPRESSION:
+Normal EEG and wakefulness.
+Stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  Normal EEG does not exclude a diagnosis of epilepsy and if seizures are important consideration a followup outpatient EEG may be of value.
+
+
+

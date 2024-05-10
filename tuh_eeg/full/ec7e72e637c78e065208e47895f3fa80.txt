@@ -1,0 +1,37 @@
+AGE: 81 y.o.
+SEX: female
+DATE OF STUDY: 11/20/2015
+RECORDING ENVIRONMENT: ICU Rm 244
+EEG TYPE: 20-40 min, asleep only EEG # : 15-1711
+HISTORY:
+81 y.o. female with a history of valvular disease referred for routine EEG for assessment of mental status change.	On ECMO.	Persistent obtundation.	No clinical seizures
+MEDICATIONS:
+Current Outpatient Prescriptions:
+metolazone (ZAROXOLYN) 2.5 mg tablet, Take 2.5 mg by mouth daily. Metolazone 2.5 mg twice a week.
+CALCIUM PHOSPHATE TRIB/VIT D3 (CITRACAL + D3, CALCIUM PHOS, PO),
+Take	by mouth 2 times daily.
+WARFARIN SODIUM (COUMADIN PO), Take 5 mg by mouth daily. AS DIRECTED
+folic acid (FOLVITE) 1 mg tablet, Take 1 mg by mouth daily. FERROUS SULFATE PO, Take 325 mg by mouth daily. DOSE UNKNOWN levothyroxine (SYNTHROID, LEVOTHROID) 125 mcg tablet, Take 125 mcg by mouth daily.
+potassium chloride (K-DUR,KLOR-CON) 20 mEq tablet, Take 40 mEq by mouth daily.
+torsemide (DEMADEX) 20 mg tablet, Take 20 mg by mouth daily. Takes Torsemide 40 mg in am and 40 mg in pm
+Cholecalciferol, Vitamin D3, (VITAMIN D) 1,000 unit Capsule, Take by mouth daily.
+VANCOMYCIN, FENTANYL, LIDOCAINE, PROPOFOL
+TECHNIQUE:
+A	bedside portable	21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.	The patient is described as comatose but does have some motor withdrawal.
+EEG BACKGROUND:
+The background is symmetric and consists of a low-voltage, featureless pattern . The activity is most attenuated in the posterior regions. In the frontal regions, there are GPEDS . These demonstrate a periodicity of 1.2 to 2.5 Hz. Occasional triphasic waves are noted .
+Generalized slowing is present.	No focal slowing is present .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Tactile stimulation the patient does not significantly activate the record
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 112 bpm is captured on a single EKG lead.
+IMPRESSION :
+Abnormally marked background slowing i2 GPEDS without evolution
+i3 triphasic waves CLINICAL CORRELATION :
+This EEG supports a severe, bihemispheric disturbance of cerebral function.	Contributing factors can include medications and/or other diffuse, bihemispheric disturbances .
+
+
+

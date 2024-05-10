@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 61 year old right handed woman with a stroke, right-sided weakness with 1-week history of headaches and aphasia. Evaluate for TIA versus stroke versus seizure.
+MEDICATIONS: Lovenox, Nifedipine, ASA, Lasix, Labetalol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is somewhat drowsy.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized on the right but there is intermittent, rhythmic slowing in the left temporal region. This can be identified in wakefulness and drowsiness. There was also a small degree of bilateral slowing left greater than right.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing in the left central temporal region.
+CLINICAL CORRELATION: These findings are congruent with the MRI demonstrating a subcortical MCA infarct.
+
+
+

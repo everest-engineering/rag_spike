@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 55-year-old male with epilepsy, currently seizure free for 1 year.  Seizures characterized by lightheadedness and change in behavior. Porencephalic cyst dilatation of right lateral ventricle and compensatory hypertrophy of right calvarium; Dyke-Davidoff-Masson syndrome
+MEDICATIONS:  Keppra.
+INTRODUCTION:  20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  It was technically acceptable; impedances were under 5 KOhms with exception of T1, T2 electrodes. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF RECORD:  In wakefulness, there is a subtle asymmetry.  The activity from the left hemisphere is well organized with an 8.5 Hz posterior dominant rhythm.  Alpha frequency activity is disrupted in the right hemisphere relevant to the left, and there is an underlying, subtle, right mid temporal sharp wave maximum at T4 with a field at T4 and C4 noted throughout.  When the patient is alerted such as hyperventilation, the spike in the right mid temporal region becomes a little bit more prominent with generous field of spread
+When hyperventilation was initiated, the epileptiform activity increased not in periodicity, but in amplitude and in its field of spread and the patient complains that he cannot continue hyperventilation.  No seizures were elicited.  The patient's discrete epileptiform activity is at times subtle, but is seen almost continuously through the EEG with every 10-second epoch demonstrating at least some sharp waves.  With an increase in sensitivity, the focal slowing in the right hemisphere becomes much more prominent as is the disruption of faster frequency activity and the right temporal sharp waves.
+Photic stimulation elicited minimal driving response at intermediate flash frequencies.  There was no significant accentuation of epileptiform activity noted during photic stimulation.
+Heart rate 66 to 78 beats per minute.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Prominent right centrotemporal sharp waves,  accentuated a bit by hyperventilation.
+Right temporal focal slowing.
+CLINICAL CORRELATION:  No clear clinical seizures were recorded.  The majority of the epileptiform discharges are maximum at the right mid temporal region, but some have a bit more posterior temporal spread than others.  These findings may be correlated with imaging, but are suggestive of a localization related  mechanism for epilepsy.  In addition, a structural or functional abnormality in the right temporal region or right hemisphere should be considered.
+
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  An 80-year-old woman, who reports past stroke and brain surgery, although tech cannot find cranial scar. Residual L hand dysfunction
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This was technically acceptable, routine 20-minute EEG.  The technologist works with the impedances to assure good quality record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG demonstrates an alpha rhythm of 8 hertz.  The alpha rhythm in both alpha and theta frequency activity have a broader field of spread in the left hemisphere than the right.  The activity is more attenuated on the right compared to the left.  With stimulation, the alpha rhythm increases to 10 hertz on the right, but remains a bit lower on the left.  As the patient becomes drowsy, arrhythmic delta activity was noted, a bit more prominent from the left hemisphere in comparison to the right.  With stimulation of the patient, the alpha rhythm drops out on the right, but the mixed alpha theta frequency activity on the left persists.
+As the patient becomes drowsy, arrhythmic delta is a little bit more prominent on the left, but deeper stages of sleep were not achieved.
+HEART RATE 72 bpm.
+IMPRESSION:  This complex, but abnormal EEG and is remarkable for:
+An amplitude asymmetry with higher voltage activity on the left.
+Bursts of shifting arrhythmic delta activity, a little bit more prominent in the left compared to the right.
+At times, a slower alpha on the left.
+CLINICAL CORRELATION:  Although, this patient's clinical features include weakness in the left hand, the EEG pattern is more suggestive of a previous problem in the left brain with a slower alpha rhythm and
+some shifting arrhythmic delta.  Although, no cranial scar was noted, the amplitude asymmetry would also suggest that the previous craniotomy was on the left.
+
+
+

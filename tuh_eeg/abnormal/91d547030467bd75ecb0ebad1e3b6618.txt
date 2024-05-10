@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 51-year-old male with bronchitis, esophageal varices and new onset seizures on October 25 with incontinence and tongue biting.
+MEDICATIONS:  Norvasc, Aldactone, Protonix.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background is appropriately organized with a 10 Hz alpha rhythm of 30 microvolts and a small amount of low voltage, frontocentral beta.  As the patient becomes drowsy, there is an increase in beta.  The alpha rhythm is higher amplitude on the right in comparison to the left, but not outside of the range of normal.  Drowsiness is characterized by an increase in beta, as well as increase in theta with posts.  Photic stimulation elicited a driving response.
+Heart rate:  104 beats per minute.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The generous beta described above may be due to this patient's medications.
+IMPRESSION:  EEG within normal limits in wakefulness and sleep.
+
+
+

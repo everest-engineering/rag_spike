@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 42-year-old male with history of traumatic brain injury, psychomotor slowing, homeless, recurrent emergency room visits for seizures.
+MEDICATIONS:  Phenobarbital, Dilantin, and others.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was performed.  This is a technically acceptable record for patient with multiple cranial and facial scars.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is slow with primarily a theta frequency pattern and a low voltage 5-6 hertz posterior dominant rhythm.  Shifting asymmetries were noted with arrhythmic delta activity prominent in the frontal regions.  Despite the cranial defect, there appears to be a frontal sharp wave maximum at F3/F7, at times with some bilateral representation.  Features of drowsiness include an increase in arrhythmic delta activity in the background.  As the patient becomes drowsy, there are more sharply contoured transient with an anterior to posterior leg seen more so in the left than the right.  Some of these have a triphasic like appearance.  Other features of drowsiness include an increase in beta noted in the frontal regions, left greater than right.
+Photic stimulation did not significantly activate the record, but did serves to stimulate the patient.
+There is a fair amount of muscle artifact in the background when the patient is awake.
+IMPRESSION:  Abnormal EEG due to,
+Generalized background slowing and disorganization.
+Frontally predominant arrhythmic delta.
+Frontal sharp waves, with a bit more of a field to the left.
+A handful of other transients, which have morphology compatible with triphasic waves.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  With arrhythmic delta in the frontal regions, in the region of this patient's gliosis, the frontal sharp waves support a localization related mechanism for epilepsy.  In addition, the triphasic waves may be part of this patient's epileptiform pattern reflecting metabolic encephalopathy. Prior 2009 EEG n/a for comparison today.
+
+
+

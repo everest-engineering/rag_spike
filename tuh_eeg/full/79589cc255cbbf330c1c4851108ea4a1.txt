@@ -1,0 +1,34 @@
+History:	62 year old man with a history of right middle cranial fossa meningioma resection,
+now presents with right sided numbness
+Medications:	Dilantin, Temazepam
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and sleep
+spindles and K complexes appear.  Sleep architecture is more pronounced over the right.
+Continuous polymorphic sharply contoured delta activity is present in the right midtemporal/
+centroparietal region during wakefulness, increasing during drowsiness.  Continuous underriding fast
+activity is seen in the right midtemporal/ centroparietal region (breach rhythm).  Several sharply
+contoured waveforms are captured over the right centroparietal region during drowsiness/ sleep.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right, midtemporal/ centroparietal
+Breach artifact, right, midtemporal/ centroparietal
+Asymmetry, sleep architecture, more pronounced over the right
+Sharp transients, few, right centroparietal region
+Interpretation:
+This is an ABNORMAL awake and asleep portable EEG due to continuous moderate focal slowing
+in the right midtemporal/ centroparietal region. Continuous focal slowing is indicative of a focal
+structural lesion and is consistent with patient's history of craniotomy in that region.  Breach artifact
+indicates skull defect.  Several sharply contoured waveform in the right centroparietal are of unclear
+clinical significance and are not clearly epileptiform.  These waveforms occur in the setting of
+focal slowing and breach rhythm -  breach rhythm makes background appear sharply contoured.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  69 year old right handed gentleman admitted 2 days ago with mutism lasting 40 minutes, currently evaluated for stroke or seizure.
+MEDICATIONS:  Aspirin, Lipitor, Nifedipine, Hydralazine, Lovenox
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized with a 10.5 Hz alpha rhythm and a modest amount of low voltage, frontocentral beta activity. In wakefulness and drowsiness, there is an extremely subtle asymmetry with a bit more theta in the left hemisphere relevant to the right. Deeper stages of sleep were not achieved. Photic stimulation elicited bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+A subtle asymmetry with a bit more theta on the left.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.
+
+
+

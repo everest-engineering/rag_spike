@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 	66 year old right handed woman with a right cortical stroke and hemianopsia, severe rheumatoid arthritis, but also left arm tingling and occasional bilateral hand tingling.
+MEDICATIONS:  ASA, Folic Acid, Percocet,  Tylenol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 1 0-20 system of electrode placement with 1  channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF  THE  RECORD: In wakefulness, the background EEG is low voltage.  There is a scant alpha rhythm, and at drowsiness there is rhythmic bilateral slowing. Stage II sleep includes vertex waves and spindles.  Heart rate 72 BPM.
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  This EEG has limited wakefulness but the drowsy and sleep record is within normal limits. No epileptiform features are seen.  If needed, a more complete study capturing wakefulness may be helpful in terms of evaluating the cortical stroke and potential epileptiform activity.
+
+
+

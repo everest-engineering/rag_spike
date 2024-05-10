@@ -1,0 +1,22 @@
+History: 22 yea r old woman with a history of seizures, presents with breakthrough seizures with subsequent psychosis and suicidal ideations.
+Medications: Keppra, Lorazepam
+Sedation:
+EEG Type: Awake & asleep
+Technique: International 10-20 System; standard 2 1 electrodes with T1/T2 electrodes and EKG electrodes. Awake, hyperventilation
+Of note, patient pulled off the leads after-8 minutes of the recording. The technologist unable to decrease some or the impedances below 5 secondary to poor patient cooperation.
+# Push button events
+Description of pushbutton events
+Description:
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.
+Diffuse excess beta activity is noted During brief drowsiness. the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+Continuous polymorphic theta activity is present in the right anterior temporal region during wakefulness. No epileptiform discharges are present.
+Hyperventilation is aborted early secondary to patient's agitation. Photic stimulation are not performed. A single EKG lead demonstrates sinus tachycardia of-100 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, mild, right temporal, anterior, mild-to-moderate
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy 8 minute EEG due to continuous mild-to-moderate right anterior temporal slowing. This finding is indicative of focal cerebral dysfunction possibly structural in etiology. No epileptiform discharges are present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. Study was terminated early since patient pulled off the leads. These findings were conveyed to the primary team.
+.
+
+
+

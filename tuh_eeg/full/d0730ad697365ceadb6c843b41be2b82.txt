@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  54 year old woman with history of post traumatic epilepsy, seizure free for 10 years, hypertension, diabetes, depression, and blepharospasm.
+MEDICATIONS:  Orap, Diovan, Trileptal
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is an 8.5 Hz alpha rhythm.  There is a scant amount of 6 Hz theta noted in the background. Hyperventilation produces a small amount of shifting slowing. Features of drowsiness include an increase in hypersynchronous in the background. Photic stimulation is performed as the patient is transitioning in and out of sleep with some hypersynchronous rhythmic slowing.  Scant driving response is observed.
+HR:  72 bpm
+IMPRESSION:  Very mildly abnormal EEG for an adult of this age due to:
+Excess theta.
+Very mild shifting asymmetries.
+CLINICAL CORRELATION:  The background alpha rhythm is at the borderline at 8.5 Hz.  The shifting asymmetries are nonspecific findings.  The excess theta may be due to the patient's medications.
+
+
+

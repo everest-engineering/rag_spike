@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  An 85-year-old male with a history of alcohol abuse, dementia, hearing loss, renal failure, and dialysis.  The family reports that he has seizures after drinking all day, described as shaking with a blank stare.
+MEDICATIONS:  Celexa, warfarin, Renagel, others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system with one channel of EKG.  Photic stimulation was performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes an alpha rhythm of 8 to 8.3 Hz.  Drowsiness is characterized by rhythmic background slowing with vertex waves and spindles noted in stage II sleep.
+Photic stimulation did not activate the record.
+Heart rate 90 bpm.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to mild slowing of the background rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The low voltage pattern described above is a normal finding in an adult of this age.  If epilepsy is an important consideration, a followup study may be considered around the time of one of his seizures.
+_________________________
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 50-year-old male, comatose.
+MEDICATIONS:  Ativan, pressure support.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging record with impedances below 5 kilohms for a patient with a temp of 103, hypotensive with BP 86/55, and heart rate 135.
+DESCRIPTION OF THE RECORD:  Despite significant artifacts including sweat and other artifacts, the EEG demonstrates a very low voltage, but continuous pattern.  Respirator artifact is noted and produces artifacts in the right hemisphere.  The overall EEG is very low voltage and slow with slow delta and scant amounts of theta.
+Tactile stimulation of the patient.  The did not activate the record.  Heart rate greater than 135 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Marked background slowing.
+Paucity of reactivity or variability.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record and there were no specific hallmarks of any specific underlying encephalopathy.  Of note, there was a fair amount of ICU artifact, as might be expected in these clinical conditions.
+
+
+

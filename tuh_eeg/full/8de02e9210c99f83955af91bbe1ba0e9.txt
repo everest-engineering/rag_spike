@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 67-year-old man with multiple breakthrough seizures, followed by prolonged postictal confusion.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Activating procedures including hyperventilation and photic stimulation are not performed.  This EEG captures wakefulness through drowsiness.
+DESCRIPTION OF THE RECORD:  In the most alert state the posterior dominant rhythm was 7-8 Hz in frequency, well formed on the left side and is disrupted at times on the right side.  It is seen in the occipital region which attenuates with eye opening.  There is diffuse excess theta activity during wakefulness in 6-7 Hz.  There is breach rhythm seen at the left mid and posterior temporal with raised sharp waves with no evolution.  There are bursts of right temporal slowing with a frequency of 5-6 Hz.  Drowsiness is characterized by disappearance of the posterior dominant rhythm and further slowing of the background, and absence of muscle and eye blink artifact.  Heart rate is 70 beats per minutes and regular.
+IMPRESSION:  This is an abnormal EEG recording due to:
+Slowing of the posterior dominant rhythm.
+Excess diffuse theta during wakefulness.
+Right temporal slowing during wakefulness.
+Rare sharp waves seen arising from the left temporal region.
+CLINICAL CORRELATION:  Breach rhythm is consistent with patient's history of right craniotomy.  Left temporal slowing seen at the right hemisphere is suggestive of an underlying structural abnormality in the subcortical white matter of the right hemisphere.  The sharp waves seen arising from the left temporal region is suggestive of epileptogenicity of the right temporal region.  Diffuse slowing is consistent with mild to moderate encephalopathy due to toxic, metabolic, degenerative, or postictal state.  Clinical correlation is recommended.
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 29-year-old woman with epilepsy, now having more frequent seizures, 12 seizures in the past year, wakes up in the morning feeling disoriented.
+MEDICATIONS:  Lamictal 50 mg per day.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  The overall EEG is relatively high amplitude with the alpha rhythm reaching 90 microvolts.  There, background includes intermittent bursts of paroxysmal rhythmic theta.  In addition, there are bursts of 3-4 hertz spike-and-wave activity, typically under 2 seconds in duration.  These can be seen in relaxed wakefulness.  They were elicited by hyperventilation and photic stimulation and seen in the transition to brief sleep.
+Hyperventilation elicited paroxysmal rhythmic theta and is somewhat asynchronous hyperventilation response as well as a generalized spike-and-wave activity.  Photic stimulation elicited this spike-and-wave activity and driving response.
+Brief stage 1 and stage 2 sleep included a bit of spindle.
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+1-2 second bursts of 3-4 hertz spike-and-wave activity.
+Mild background disorganization.
+CLINICAL CORRELATION:  Given the abundance of epileptiform activity, the background disorganization may be related to this patient's epilepsy.  Alternatively, a secondary generalized mechanism for epilepsy may be considered.
+
+
+

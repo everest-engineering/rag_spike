@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 62 year old right handed woman with a recent evaluation for a complex partial status epilepticus, readmitted with TIA-like symptoms.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a relatively slow pattern from both hemispheres with primarily a theta frequency background. Persistent periodic complexes are identified from the left hemisphere with a complex field of spread. The activity seems to be negative in the left frontal region with a positive phase reversal in the left parietal region. On some occasions it seems like the positivity in the parietal region precedes the negativity in the left frontal area. There is a little bit of variability in this, and there is also what seems to be a discrete area of fast activity in the left central parietal region. This activity does not evolve. Arousal produces an increase in faster frequency activity. Photic stimulation does not significantly activate the record.
+HR: 80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Persistent periodic activity in the left hemisphere with an unusual field of spread.
+CLINICAL CORRELATION: These findings were identified previously. This is likely an ictal pattern for this individual. Clinical correlation may be helpful to determine if this is a complex partial versus epilepsy partialis continua.
+
+
+

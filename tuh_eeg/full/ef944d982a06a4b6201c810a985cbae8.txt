@@ -1,0 +1,68 @@
+AGE: 48 y.o.
+SEX: male
+DATE OF STUDY: 12/11/2015
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, asleep only EEG #: 15-1799
+HISTORY:
+48 y.o. male with a history of multi-compartmental hemorrhage, prior
+history of endocarditis and aortic valve replacement. Now referred for routine EEG for screening for subclinical seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+omeprazole (PRILOSEC) 40 mg capsule, Take 1 capsule by mouth daily.
+fluticasone (FLONASE ALLERGY RELIEF) 50 mcg/actuation nasal spray, Inhale 2 sprays into the nose daily.
+ANDROGEL 20.25 mg/1.25 gram (1.62 %) Gel in Metered-dose Pump, tadalafil (CIALIS)
+WARFARIN SODIUM (WARFARIN PO), Take 5 mg by mouth. TAKES AS DIRECTED PER PCP (on hold)
+pravastatin (PRAVACHOL) 80 mg tablet, Take 80 mg by mouth daily.
+valsartan (DIOVAN) 320 mg tablet, Take 320 mg by mouth daily. fenofibrate (TRICOR) 48 mg tablet, Take 48 mg by mouth daily. carvedilol (COREG) 25 mg tablet, Take 25 mg by mouth 2 times daily (with meals) .
+sevelamer (RENVELA) 800 mg tablet, Take 800 mg by mouth 3 times daily (with meals) .
+INSULIN ASPART (NOVOLOG FLEXPEN SC), Inject 5 Units into the skin.
+insulin glargine (LANTUS) 100 unit/mL injection, Inject 10 Units into the skin nightly.
+Current facility-administered medications for this visit: Keppra
+SEDATION: None TECHNIQUE:
+A bedside portable ICU 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG though no HV nor photic stimulation .
+EEG BACKGROUND : This is a somnolent patient with a low-voltage, diffusely slow mixed frequency background.	There is continuous, low voltage delta and smaller amounts of delta and theta.
+Stimulation of the patient produces an increase in theta and a glimpse of a posterior dominant rhythm approximately 10 Hz
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+Generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal bedside portable ICU routine EEG.
+generalized background slowing
+There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This EEG supports a diffuse, bihemispheric disturbance of cerebral function as can be seen with an acute intracerebral
+hemorrhage with edema.	There were no epileptiform features. The presence of reactivity, variability in the presence of normal features of stage II sleep are positive prognostic features
+This EEG does not support or refute the diagnosis of epilepsy.
+MEDICATIONS: propofol, ativan (10 mg total), rocuronium, Keppra, Dilantin
+SEDATION: As above TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The background is composed of a symmetric and continuous but disorganized mixture of alpha, beta, and theta, with admixed delta.	There is no definite reactivity to noxious stimuli. At times the frontal beta activity is sharply contoured.
+Moderate generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No definite epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Not performed Photic Stimulation: Not performed
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal routine EEG due to:
+Moderate generalized slowing
+Disorganized background
+No definite reactivity to noxious stimuli
+CLINICAL CORRELATION:
+These findings indicate at least moderate cerebral dysfunction, which is likely at least in part due to sedating medication.
+
+
+

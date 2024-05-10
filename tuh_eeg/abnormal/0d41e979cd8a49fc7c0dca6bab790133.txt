@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  This is a 37-year-old right-handed man with history of a seizure disorder that started in 2010 characterized by loss of consciousness and tongue biting followed by postictal confusion.  His last seizure was in 2011.
+MEDICATIONS:  The patient's medications include Keppra.
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard international 10/20 system of electrode placement in addition to T1 and T2 electrodes and 1-channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hz in frequency, 30-40 microvolt in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity, which is distributed symmetrically.  Hyperventilation results in symmetric slowing of the background activity.  Photic stimulation was performed at multiple flash frequencies and results in symmetric driving response.  Heart rate is 70-80 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness only.  No epileptiform abnormalities or seizures were identified in this record.  Normal EEG does not rule out the diagnosis of epilepsy if seizures are a clinical concern.  A repeat EEG capturing deeper stages of sleep or a 24-hour ambulatory EEG may be helpful.
+
+
+

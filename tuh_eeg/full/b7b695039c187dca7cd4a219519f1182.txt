@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 19 year old male with an episode of loss of awareness of unclear duration. Complex partial epilepsy.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD: As the record begins, the EEG is at the limits of organization for a young adult of this age. There is initially a slower alpha rhythm of 8 to 8.3 Hertz. As the recording continues, as the patient becomes a little bit more comfortable, there is alpha squeak and the alpha rhythm reaches 9.8 Hertz. Following
+hyperventilation and on one occasion in between photic stimulation there is a paroxysmal burst of higher amplitude activity but no definitive spike in wave activity. Deeper stages of sleep are not achieved. Photic stimulation elicits bilateral driving.
+HR: 60 bpm
+IMPRESSION: Very mildly abnormal EEG for a young adult of this age due to:
+1. This organization is just outside the limits of normal.
+2. There are bursts of paroxysmal slowing which are potentially epileptiform.
+
+CLINICAL CORRELATION: A follow up study with extensive sleep deprived study is suggested to make sure that there is no other underlying generalized epileptiform activity. Alpha squeak is a normal variant.
+
+
+

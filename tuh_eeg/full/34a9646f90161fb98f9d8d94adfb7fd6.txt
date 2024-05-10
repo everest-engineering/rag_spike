@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  	40 year old male with recurrent episodes more recently described as seizures.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a well-defined alpha rhythm of 10.5 Hz, a small amount of low voltage frontocentral beta activity. Hyperventilation does not activate the record. Drowsiness produces an increase in theta. Photic stimulation elicits bilateral driving. POSTS are seen at the end of the record.
+HR: 	96 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION:   No epileptiform features are identified in the record today. In  addition, in contrast to previous studies in wakefulness there is no increase in background theta. A normal EEG does not exclude a diagnosis of epilepsy, and the abnormalities seen in previous EEGs should be considered as an important part of the whole record.
+
+
+

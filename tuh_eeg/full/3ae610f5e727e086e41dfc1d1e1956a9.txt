@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 22-year-old right-handed male with a history of head trauma, seizures in 2009.
+MEDICATIONS:  Carbamazepine and Prozac.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10/20 system of electrode placement with 1-channel EKG.  Patient was recorded during wakefulness.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm was 9-10 Hz in frequency, 30-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There was presence of low amplitude diffuse beta activity, which was distributed symmetrically.  There were intermittent bursts of focal slowing in the left frontal and mid temporal regions lasting 1-2 seconds and seen during wakefulness.  No epileptiform activity or seizures was captured in this study.  Photic stimulation was performed at multiple flash frequencies and resulted in a symmetric driving response.  Hyperventilation was performed causing diffuse slowing of the background activity.  Heart rate was 60-80 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording, capturing wakefulness due to occasional bursts of focal slowing in the left frontal and temporal regions during wakefulness.  No epileptiform abnormalities are identified in this recording.
+CLINICAL CORRELATION:  Focal slowing in the left hemisphere is suggestive of a structural abnormality in the left hemisphere or left frontotemporal dysfunction.  The generalized beta activity could be due to medication effect including benzodiazepine, barbiturates, or could be due to anxiety or hyperthyroidism.  Clinical correlation is recommended.  No epileptiform abnormalities or seizures were seen in this recording.  This does not rule out the diagnosis of epilepsy.
+
+
+

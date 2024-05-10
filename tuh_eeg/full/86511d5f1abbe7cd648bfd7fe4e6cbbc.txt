@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Left aneurysm clip in 2002, evaluate for left focal facial seizures.  Evaluate for left hemiparesis.
+MEDICATIONS:  HCTZ, Zocor, Naprosyn.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically challenging awake and drowsy record in an adult with a great deal of muscle artifact.  In addition, T1 and T2 electrode impedances were not ideal This is a 22 minute recording.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz, 40 to 50 microvolt alpha rhythm, slightly higher amplitude on the left than the right.  There is a fair amount of muscle artifact noted on the left.  As the patient becomes drowsy, a breach rhythm is apparent with an increase in amplitude of the activity in the left temporal region.  There is also some sharply contoured focal slowing noted as the patient becomes drowsy.  There is some bursts of paroxysmal bilateral mixed theta delta from the temporal regions, but again more higher amplitude and more sharply contoured on the left.  As the patient becomes drowsy, there are some bursts of bilateral temporal paroxysmal higher amplitude theta with a bilateral slow pattern, but again higher amplitude and more sharply contoured on the left.
+Hyperventilation accentuates the focal slowing and the breach rhythm on the left.
+Photic stimulation did not significantly activate the record.  Heart rate 54 BPM.
+IMPRESSION:  This is an abnormal EEG for a subject of this age due to:  Intermittent, left temporal focal slowing.
+CLINICAL CORRELATION:  There were no definitive sharp waves noted in the background.  The focal slowing and the breach rhythm are anticipated findings following a craniotomy.  If epilepsy is an important consideration a more prolonged study capturing sleep is suggested.
+
+
+

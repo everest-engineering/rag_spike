@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  62 year old male with prolonged seizure.  February 28 the patient had tremulousness of the left hand.  Past history of stroke, right hemiparesis, DVT, and epilepsy.
+MEDICATIONS:  Insulin, Pravachol, Coumadin, Metformin, Lopressor
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was  performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow.  Much of the time there is a rhythmic theta pattern with a 6 Hz background and a 6-7 Hz posterior dominant rhythm.  There is a slight asymmetry with a bit more arrhythmic slowing in the right hemisphere in comparison to the left, but at times the left does have some occasional bursts of slowing.  The patient quickly transitions in and out of stage I and stage II sleep with vertex waves and spindles.  Sleep is relatively low voltage. Photic stimulation is performed as the patient is drifting to sleep and does not activate the record.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized, rhythmic background slowing.
+Superimposed focal slowing on the right.
+CLINICAL CORRELATION:  In comparison to previous studies, 1 year ago, this EEG demonstrates an overall improvement of the background.  There were no epileptiform features.  The focal slowing on the right is congruent with a history of previous stroke.
+
+
+

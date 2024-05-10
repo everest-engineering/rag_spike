@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 78 year old woman with Alzheimer disease, found hypotensive, hypothermic, septic with persistent encephalopathy afterward.
+MEDICATIONS: Ativan, Fentanyl Zithromax, Lorazepam, Pantoprazole, Cipro, ASA, Zosyn, Insulin, Vanco
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is intubated.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern, some sections low voltage relatively suppressed, others with more significant rhythmic mixed alpha, theta and delta frequency activity and others with more of a beta frequency pattern. Stimulation of the patient produces an increase in chewing.
+HR: 56 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing.
+CLINICAL CORRELATION: This is a markedly slow record, however, this patient's fentanyl may play a role in the background slowing described above. If epilepsy is an important consideration, a repeat study when she is out of the ICU may be useful.
+
+
+

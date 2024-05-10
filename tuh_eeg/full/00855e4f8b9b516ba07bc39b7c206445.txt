@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Acute stroke characterized by left-sided weakness now with episodes of shivering versus seizure. CT scan demonstrates right MCA infarct.
+MEDICATIONS:  Nicardipine, Protonix.
+INTRODUCTION:  A digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  Technically, this EEG was remarkable for a great deal of motion and shiver artifact.  Impedances were largely acceptable.
+DESCRIPTION OF THE RECORD:  Despite the muscle and movement artifact, there is a clear asymmetry between the 2 hemispheres.  The right hemisphere demonstrates a bit more underlying rhythmic slowing as well as shiver artifact which obscures some of the EEG.  The left side demonstrates a bit left shiver artifact and more of a theta frequency pattern.  The patient is awake or drowsy throughout the EEG.  The left hemisphere demonstrates a somewhat slow alpha rhythm of 7 Hz.  This is disrupted on the right.  As the EEG continues, the patient's shivering decreases.  The left continues to demonstrate generous beta, a slow alpha, some theta and lambda waves.  The right hemisphere demonstrates a bit of a slower pattern more of a delta theta pattern and generally lacks the posterior dominant rhythm.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing from the right hemisphere.
+Disruption of faster frequency activity on the right.
+Mild slowing on the left.
+CLINICAL CORRELATION:  The continuous focal slowing with disruption of faster frequency activity on the right supports a process involving gray and white matter, congruent with a stroke.  No sharp waves, spikes, or seizures were recorded.
+
+
+

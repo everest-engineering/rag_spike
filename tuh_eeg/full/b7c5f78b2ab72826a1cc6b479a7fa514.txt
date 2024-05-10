@@ -1,0 +1,24 @@
+History:		25 year old man with a known seizure disorder and mitochondrial disorder, now presents with increase in his seizure frequency .
+Medications:	Keppra, Vimpat, Phenobarbital, Vimpat
+Sedation: EEG Type: Technique:
+Lorazepam
+Continuous (inpt, video), 24 hrs
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -19 hours from 3/14/2015 till 3/15/2015.  Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient. The background consists of a mixture of diffuse moderate to high amplitude polymorphic sharply contoured theta and delta activity with underriding low amplitude beta activity. There are occasional brief bursts of diffuse high amplitude delta activity. Diffuse excess beta activity is present.  Normal sleep architecture, including vertex waves, sleep spindles and epochs of REM sleep are captured.
+No clinical or electrographic seizures are captured.
+Summary of Findings:
+Event, not recorded
+Diffuse slowing, polymorphic, mild-to-moderate Beta, excessive
+Interpretation:
+This is an ABNORMAL continuous -19 hour video EEG due to mild-to-moderate diffuse slowing and disorganization. Diffuse slowing is indicative of mild-to-moderate diffuse cerebral dysfunction, which is etiologically nonspecific. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates. Overall, there has not been significant change in terms of the degree of slowing and sharply contoured appearance of waveforms when compared to the recording from prior
+year. No clinical or clear electrographic seizures are captured.
+
+
+
+
+

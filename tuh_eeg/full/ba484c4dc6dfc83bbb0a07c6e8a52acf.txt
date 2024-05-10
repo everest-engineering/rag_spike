@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  62 year old left handed male with aortic stenosis, baseline for aortic surgery.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a well-organized 10 Hz alpha rhythm with a slow amount of low voltage frontocentral beta.  Drowsiness is characterized by attenuation of the alpha rhythm, slow-rolling eye  movements, and the appearance of POSTS.  Vertex waves are identified in stage I sleep. Photic stimulation elicits bilateral driving.  The patient is drifting off to sleep in photic stimulation.
+HR:    60 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:  There were no focal nor epileptiform features. This study will be used as a baseline for this patient's operative study on the 7th.
+
+
+

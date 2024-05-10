@@ -1,0 +1,21 @@
+
+History:
+Medications: Sedation: EEG Type: Technique:
+
+44 YR OLD MALE PRESENTS WITH H/O AUTO VS PED, HIT BY CAR FLOWN 10 FEET, UNKNOWN LOC. CT REVEALED Multi-COMPARTMENTAL  HEMORRHAGE­ BIFRONTAL CONTUSIONS, B/L SUBARACHNOID HEM, B/L SUBDURAL  HEM, INTERHEMISPHERIC FISSURE HEM, BASILAR SKULL FX. B/L TEMPORAL
+ATIVAN, PROPRANOLOL, MEROPENEM, VANCOMYCIN.
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta activity with absence of the expected anterior to posterior gradient of frequencies. Diffuse, superimposed 5-10uV, 12Hz activity is also seen. No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli. Technical difficulties: almost continuous movement artifact throughout the entire study.
+Heart rate was 102.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction, the diffuse beta suggests that this might be at least in part due to medication effect.
+
+
+
+

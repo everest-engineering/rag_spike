@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  21 year old right handed woman with an episode of dizziness, tinnitus, visual loss, and falls follow by head trauma and tonic-clonic seizure.  The patient had previous episodes of paroxysmal dizziness with falling but never had tonic-clonic seizure before.  She had an outpatient EEG on April 5.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 40 microvolt posterior dominant rhythm.  Hyperventilation is performed early in the record producing bursts of focal slowing with some shifting slowing as well.  Features of drowsiness include a hypersynchronous pattern with anterior spread of the alpha rhythm.  Photic stimulation elicits bilateral driving.
+HR:    73 bpm
+IMPRESSION:  This EEG is at the limits of normal.
+CLINICAL CORRELATION:  Slightly asynchronous hyperventilation response is at the limits of normal.  No epileptiform features were identified. To more completely characterize this patient's EEG, a consideration for sleep-deprived study or a more prolonged study capturing sleep is suggested.
+
+
+

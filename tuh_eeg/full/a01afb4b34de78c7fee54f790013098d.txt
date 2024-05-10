@@ -1,0 +1,17 @@
+
+INTRODUCTION:
+Digital 'video EEG is performed in the lab using standard 10-20 system of electrode placement with one-channel EKG. This
+is an awake adult who has great difficulty cooperating.
+DESCRIPTION OF RECORD:
+In wakefulness, there is a very low voltage EEG. There is a scant, 10Hz alpha rhythm. When the patient is cooperative and muscle artifact drops out, there is a pattern of low voltage 2 Hz delta, 7 Hz theta, and scant 10 Hz alpha. In comparison to a previous study a month ago, the patient is significantly more cooperative and in addition to a 5 Hz background, there is scant 10Hz alpha frequency noted. Cooperation continues as the recording goes on and the alpha rhythm is much better defined. Even drowsiness is noted with slowing of the alpha rhythm, and a handful of posts. Photic stimulation produced a driving response.
+Heart rate 60 bpm.
+IMPRESSION:
+Abnormal EEG due to,
+1. Very low voltage pattern for an adult of this age.  2. Excess 5 Hz theta.
+3. Excess 7 Hz theta.
+4. Rare 2 Hz delta.
+CLINICAL CORRELATION:
+No epileptiform features were seen in either of these records. The background slowing can commonly be seen in the early developmental brain disorders.
+
+
+

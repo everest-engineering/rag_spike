@@ -1,0 +1,24 @@
+CLINICAL HISTORY: 42 year old right handed male with diabetes, psoriasis, acute
+and chronic subdural hematoma following alcohol ingestion.
+MEDICATIONS: Metformin.
+INTRODUCTION: Digital EEG was performed in lab using standard 10-20 system of
+electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are
+performed. This an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a pattern rich
+with beta frequency activity and a smaller amount of theta frequency activity. There is a
+bit of rhythmic theta delta, more so on the left than the right, and accentuated by
+hyperventilation. Features of drowsiness include an increase in beta. Photic stimulation
+elicits a driving response. Towards the close of the record, the patient drifts into stage
+2 sleep and a little bit of left posterior slowing is noted.
+HR: 80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Prominent excess beta.
+2. Small amount of excess theta.
+3. Shifting slowing a bit more so in the left posterior quadrant.
+
+CLINICAL CORRELATION: No epileptiform features are observed. If epilepsy is an
+important consideration, a follow up study may be useful.
+.
+
+
+

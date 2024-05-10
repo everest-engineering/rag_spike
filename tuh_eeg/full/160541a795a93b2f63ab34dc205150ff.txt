@@ -1,0 +1,28 @@
+:
+History:	80 year old woman with a possible seizure.
+Medications:	Norvasc
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 9.5-10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Occasional independent polymorphic theta and delta activity bursts are seen over the temporal
+regions.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  A single EKG lead demonstrates regular
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is a NORMAL 22-minute EEG, awake and drowsy.  No epileptiform discharges were present,
+but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information. Occasional mild independent bitemporal slowing is not considered
+abnormal in the patients above 65 years of age.
+
+
+
+

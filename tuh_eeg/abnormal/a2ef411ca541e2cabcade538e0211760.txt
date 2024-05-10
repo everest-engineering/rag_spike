@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 44-year-old woman with epilepsy since age 9, last seizure was 1 week ago.  The patient reports seizures during sleep with tongue biting, increasingly frequent, 6 to 8 within the last 6 months.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The patient seems to be drowsy throughout much of the EEG, but in wakefulness there is excess beta and excess theta in a somewhat poorly organized record.  In the sharply contoured background, there is prominent frontal beta and as the patient becomes drowsy there is some paroxysmal high amplitude bursts, but no definitive frontal sharp waves or spikes.
+Hyperventilation seems to accentuate the background slowing and there is a very subtle focality with perhaps a bit more left-sided focal slowing in hyperventilation compared to the right.
+Photic stimulation is remarkable for generous beta, but a driving response.  Heart rate is 60 BPM.
+IMPRESSION:  This is an abnormal EEG in wakefulness and sleep due to:
+Somewhat disorganized pattern for age.
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  The excess beta could be due to medication effect or anxiety.  The excess theta suggests a bihemispheric disturbance of cerebral function.  It is important to have a complete list of this patient's medications.  No definitive sharp waves or spikes were seen.  A more prolonged study capturing sleep may be of value.
+
+
+

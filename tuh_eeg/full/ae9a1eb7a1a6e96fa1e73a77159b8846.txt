@@ -1,0 +1,27 @@
+History:	68 year old woman who presents with episodes concerning for seizures.
+Medications:	Ativan
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm consists of 7 Hz polymorphic theta activity.  AP gradient is weak.
+Diffuse polymorphic theta activity is present.  Diffuse excess beta activity is captured.  During brief
+drowsiness, the degree of EMG artifact decreases and amount of diffuse theta activity increases.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+No epileptiform discharges
+No stage 2 sleep
+Beta, excessive
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy 21-minute EEG due to mild-to-moderate diffuse
+slowing. This finding is indicative of mild to moderate diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Excessive beta activity could be secondary to the medication effect, such
+as benzodiazepines or barbiturates.
+
+
+
+
+

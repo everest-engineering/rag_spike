@@ -1,0 +1,13 @@
+CLINICAL 19 year old male with Noonan's syndrome, refractory epilepsy admitted on Sunday morning after recurrent seizures over the weekend.
+MEDICATIONS: Keppra, Phenobarbital, Keppra, and Diastat.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: Much of the record includes stage 2 sleep with vertex waves and spindles. There are other portions of the record that demonstrate more of a beta frequency pattern. There is some focal delta, more so on the right posterior region than the left. Arousals are associated with an increase in faster frequency activity, as well as some artifact.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Posterior delta on the right and greater on the left.
+3. Somnolence with slow background.
+
+CLINICAL CORRELATION: Epileptiform activity was not prominent in this study.
+
+

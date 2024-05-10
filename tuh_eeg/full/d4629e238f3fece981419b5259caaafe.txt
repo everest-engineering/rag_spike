@@ -1,0 +1,31 @@
+History:	47 year old man with a questionable seizure.  Patient presented with left arm
+shaking with subsequent secondary generalization.  PMH is notable for CHF,
+pacemaker, atrial fibrillation, ESRD.
+Medications:	Keppra, Xanax
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+During maximal arousals the background consists of 9-10 Hz alpha posteriorly with preserved AP
+gradient.  Diffuse excess polymorphic theta activity is present.  During drowsiness, there is increase
+in the amount of diffuse theta and delta.
+Rare polymorphic delta activity is captured over the right anterior temporal region.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates an irregular heart rate
+and QRS complexes of various morphologies.
+Summary of Findings:
+Cardiac arrhythmia
+Focal slowing, polymorphic, rare, moderate, right temporal, anterior
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 26 minute EEG due to mild diffuse slowing and
+rare moderate right anterior temporal focal slowing. Diffuse slowing is indicative of mild diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Rare focal slowing is indicative of focal
+cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  A single
+EKG lead demonstrates an irregular heart rate and QRS complexes of various morphologies.
+
+
+
+
+

@@ -1,0 +1,23 @@
+History:	74 YR MALE WITH PMHX OF SZS. PT HAS BEEN SZ FREE FOR A WHILE. MD
+NOW DECREASING MEDS. DILANTIN STOPPED EVAL. 4-1-14: pt does not
+understand what is meant by seizure. Through interpreter i have learned he has
+Medications:	ECONAZOLE, ATORVASTATIN, NOVOLOG, METFORMIN, NEURONTIN,
+CARBAMAZEPINE, DILANTIN, LEVEMIR, LOPRESSOR
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 8 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is excess 7 Hz theta during wakefulness.  During brief drowsiness,
+the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Stepped photic stimulation from 1-21
+flashes per second (fps) does not produce additional abnormalities.  HR is 60.
+Summary of Findings:
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing and slow
+alpha rhythm.  These findings are etiologically nonspecific indicators of mild diffuse cerebral
+

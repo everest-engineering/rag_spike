@@ -1,0 +1,26 @@
+
+CLINICAL HISTORY: 80 year old right handed female in status post cardiac arrest on February 5, 2010. Past history of seizures.
+
+MEDICATIONS: Zocor, Vancomycin, Acyclovir, Keppra, ASA, Aricept, Bactrim, Moxifloxacin, Insulin, Lovenox, Dexamethasone, Ceftriaxone, Levothyroxine, dopamine, Norepinephrine
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient had a seizure just prior to the EEG.
+
+DESCRIPTION OF THE RECORD: This EEG demonstrates some low voltage, subtlety discontinuous background. Some attenuation of about 3 seconds are interspersed with periods of low voltage, mixed theta delta. As the recording continues, the EEG is more continuous. There is some shifting asymmetries with more attenuation on the left compared to the right.
+
+Seizure: The patient is in the ICU at the bedside. She starts to have rhythmic mixed theta delta out of the left hemisphere, particularly the temporal region at 10:36:43. This gradually builds up, but at 10:36:55 she starts to have a burst of fast activity out of the right hemisphere. The bursts of fast activity builds up exquisitely, while the left hemisphere as a different frequency of activity with rhythmic delta. This is followed by more of a generalized pattern characteristic of more of a tonic clonic pattern, although behaviorally the patient is only observed to be having facial and head twitching. The activity starts to slow at 10:37:41. As it stops, it shuts off at 10:38 on the right, but continues on the left before terminating abruptly at 10:38:20. Postictally there is prominent background suppression as was noted in the early portions of the record.
+
+HR: 162 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. A markedly abnormal background starting out with burst suppression pattern and actually ending with a burst suppression pattern.
+2. A very complex seizure, which likely began on the left, generated to the right, with different frequencies of activity from the different hemispheres and a differential termination of the procedure.
+3. Following the seizure there are handful of sharp waves on the left.
+
+CLINICAL CORRELATION: This EEG supports a severe underlying encephalopathy, as well as very unusual mechanism for epilepsy. This seizure pattern is more typical of a chronic epilepsy than acute reactive seizure.
+
+
+
+
+
+
+

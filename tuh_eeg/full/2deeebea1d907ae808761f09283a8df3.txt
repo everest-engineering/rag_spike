@@ -1,0 +1,33 @@
+HISTORY:
+43 y.o. male referred for routine EEG for sudden dizzy spells. He describes that whenever he makes a quick movement he feels as though his body is shutting down and not able to do anything; he feels as though he is stuck in slow motion . There are no warning signs and no confusion afterwards .
+He says this started after a head trauma from a fall 4 years ago, from a ladder. He was apparently told to have a craniotomy but refused; he subsequently developed seizures lasting 20 min; but has been seizure-free for 2 yrs. PMH: HTN.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+lisinopril-hydrochlorothiazide	(PRINZIDE,ZESTORETIC) 20-25 mg per tablet, Take 1 tablet by mouth daily.
+levetiracetam (KEPPRA) 500 mg tablet, TAKE 1 TABLET BY MOUTH 2 TIMES A DAY
+ibuprofen (ADVIL,MOTRIN) 600 mg tablet, Take 1 tablet by mouth every 8 hours as needed for Pain.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory
+record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9.5-10 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+There are frequent runs of notched 5-Hz monomorphic activity over the left mid-temporal area, sometimes with reflection over the left parasagittal area.
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background slowing.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION / CLINICAL CORRELATION:
+This is a most likely normal awake-and-drowsy routine EEG.	There are no clinical or electrographic events reported or detected.
+The frequent runs of 5-Hz activity over the left mid-temporal area are most consistent with a normal variant, rhythmic midtemporal discharges (RMTD), also known as rhythmic temporal theta bursts of drowsiness.
+
+
+
+

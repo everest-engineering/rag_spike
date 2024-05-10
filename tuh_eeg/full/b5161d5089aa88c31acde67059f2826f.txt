@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 48-year-old male with change in mental status, multiple sclerosis and shingles.
+MEDICATIONS:  Ativan, Wellbutrin, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel EKG.  The patient was relatively uncooperative and there was a fair amount of muscle artifact noted in the background.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage, relatively featureless pattern with muscle artifact and generous beta.
+Heart rate 108 BPM.
+IMPRESSION: This is an abnormal EEG to due replacement of normal background with a low voltage, relatively pattern.
+CLINICAL CORRELATION: No focal of epileptiform features were seen.  There were no specific hallmarks of a metabolic encephalopathy.  If additional information is needed, a repeat study when the patient is able to cooperate may be of value.
+
+
+

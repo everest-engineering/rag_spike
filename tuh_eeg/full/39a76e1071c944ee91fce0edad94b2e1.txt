@@ -1,0 +1,22 @@
+History:	53 year old woman with a history of seizures.
+Medications:	Lorazepam, Dilantin
+Sedation:
+EEG Type: Continuous (inpt, video}, 24 hrs, portable
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 8/28/2014 till 8/29/2014.  Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left. The background over the right consists of polymorphic 8 Hz theta posteriorly, weak AP gradient and excess polymorphic theta activity.  There is no PDR or AP gradient over the left. The background over the left consists of a mixture of polymorphic theta and delta activity with most pronounced delta over the left posterior quadrant.  Excess beta activity appears in the second half of the recording. Sleep spindles are captured. They are better formed over the right.
+Continuous variable amplitude complex sharp waves are captured over left parietal region. These discharges frequently occur in brief 1-5 seconds (up to 10 sec} non-evolving runs. No clear electrographic seizures are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate: more so by the end of the recording Beta, excessive, in 2nd half of the recording
+Sharp waves, continuous, left parietal, variable amplitude; frequently occurring in 1-5 sec runs No electrographic seizures
+Focal slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL 24 hour continuous video EEG due to (1) mild-to-moderate diffuse slowing; (2) focal moderate left hemispheric slowing (especially over the left parietal region} and continuous left parietal epileptiform discharges. There is a highly irritative epileptogenic likely structural focus in the left parietal region. Diffuse slowing is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific, but in this case is at least partially related to the effect of CNS-active medications due to increase in the degree of slowing as the recording progresses.  No clear clinical or electrographic
+seizures are present. These findings were conveyed to the consult team.
+
+
+

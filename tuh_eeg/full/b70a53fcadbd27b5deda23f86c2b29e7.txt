@@ -1,0 +1,35 @@
+History:	47 YEAR OLD FEMALE S/P RUPTURED LEFT MCA ANEURYSM
+Medications:	Propofol, Nicardipine, Keppra
+Sedation:	None
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.   Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+There is the appearance of a posterior dominant 7-8Hz rhythm over the right occiput that is more
+stable than on previous days.  Background activity was characterized by diffuse low voltage delta
+and theta activity with absence of the expected anterior to posterior gradient of frequencies.  There
+is an obvious amplitude asymmetry between the left and right hemisphere with attenuation and
+suppression seen over the left hemisphere.  No normal sleep architecture was present.
+No focal slowing is present but the left hemisphere amplitudes are markedly attenuated compared
+to the right.  No epileptiform discharges are present.  No clinical or electrographic seizures were
+Hyperventilation and photic stimulation were not performed.  At several points there is bed rocking
+artifact resulting from automated pulmonary toilet.
+Summary of Findings:
+Attenuation, continuous, left hemispheric
+Diffuse slowing, polymorphic, intermittent, bilateral diffuse
+Interpretation:
+This is an ABNORMAL 24 hour video EEG because of diffuse background slowing, absent alpha
+rhythm, and focal left hemisphere attenuation.  These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.  The brief epochs of improved background
+activity may represent improved perfusion or blood flow. Clinical correlation is suggested.  No
+clinical or electrographic seizures are present.  These findings were conveyed to the primary team.
+
+

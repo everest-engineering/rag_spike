@@ -1,0 +1,23 @@
+History:	53 year old female with recent history of syncope.
+Medications:
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  No epileptiform discharges are present.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces minimal photic driving.
+Summary of Findings:
+Alpha rhythm, normal
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep.
+
+
+
+
+

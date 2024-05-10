@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 50 year old gentleman with migraine headaches, memory loss, and difficulty concentrating.
+MEDICATIONS: Lasix, Insulin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness there is a scant 10 Hz alpha rhythm but there is excess, low voltage 4 Hz beta activity identified. Drowsiness is characterized by an increase in background slowing with vertex waves in stage I sleep. Photic stimulation elicits scant driving. Hyperventilation produces an increase in amplitude of the background and an increase in some faster frequency activity.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess 4 Hz activity.
+CLINICAL CORRELATION: The findings described above are nonspecific and can be seen in memory impairment. Comparison with this patient's history and imaging is important. There was no report of exposure to sedative hypnotic medications which could contribute to the pattern described above.
+
+
+
+

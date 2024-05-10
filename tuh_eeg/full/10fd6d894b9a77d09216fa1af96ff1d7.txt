@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  The patient is an 18-year-old man with a history of seizures since 16 years of age.  Last seizure was approximately in 01/2012.
+MEDICATIONS:  Lamictal.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of  well-formed and modulated 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Frequent lambda is observed.  Sleep is not captured.  There are frequent 1 to 2 second bursts of generalized frontally predominant spike and wave discharges and polyspike and wave discharges.  These discharges occur at approximately 3 to 3.5 Hz.  These generalized discharges become more frequent with hyperventilation and persistent throughout the recording.  The patient is able to tap and count correctly throughout these bursts.  Hyperventilation increases frequency of generalized spike and wave bursts.  Stepped photic stimulation results in symmetrical occipital driving.
+FINDINGS:  Frequent 1 to 2 second bursts of generalized frontally predominant spike and wave discharges and polyspike and wave discharges occurring at 3 to 3.5 Hz.  No electrographic seizures.  No stage II sleep.
+IMPRESSION:  This is a very abnormal 24 minute awake only EEG due to frequent brief bursts of generalized frontally predominant spike and wave and polyspike and wave discharges.  In a proper clinical setting this EEG is consistent with a diagnosis of idiopathic generalized epilepsy.  No electrographic seizures are captured.
+
+
+

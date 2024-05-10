@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 49-year-old woman with diabetes and asthma, admitted to the hospital with a syncopal episodes on October 9, 2012.
+MEDICATIONS:  Combivent, lisinopril, hydralazine, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is well organized with a 11 Hz, symmetric reactive alpha rhythm and a small amount of low voltage, frontal central beta.
+Drowsiness is characterized by slowing of the alpha rhythm.  Rhythmic central theta was noted.
+Hyperventilation produces a small amount of slowing.
+Photic stimulation elicits scant driving.
+Heart rate:  96 BPM with occasional premature ventricular contractions.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep is recommended.  Evaluation for the patient's PVCs may be helpful.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  45 year old left male with acute stroke, initially evaluated for left-sided weakness with lower abdominal pain, back pain management, and a subsequent change in mental status on October 9 with staring, weakness, and headache.  Metastatic pancreatic cancer.
+MEDICATIONS:  Morphine, Vancomycin, Pipercillin, Protonix, Heparin, Zocor, Zosyn
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has been sedated with morphine just prior to the EEG.  Due to system issues, the EEG is recorded in 2 separate files.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is relatively somnolent, drifting in and out of stage I and stage II sleep with vertex waves and spindles.  As he drifts out of stage II sleep, there is a drowsy pattern with mixed frequency delta, some theta, and some posts.  Stimulation of the patient produces an arousable theta and a glimpse of an alpha rhythm.  The patient is a bit more awake at the end of the EEG as the opioid wears off.
+HR:   108 bpm
+IMPRESSION:  This EEG is remarkable for:
+A sedated pattern with primarily stage II sleep.
+A slow pattern when awake.
+CLINICAL CORRELATION:  The slow pattern identified may be due to this patient's medications or a diffuse disturbance of cerebral function.  No focal nor epileptiform features were identified.  If additional information is needed, a followup study when the patient is awake may be performed to look at the background cerebral activity as well as search for epileptiform activity.
+
+
+

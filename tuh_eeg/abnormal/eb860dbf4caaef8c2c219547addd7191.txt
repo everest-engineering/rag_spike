@@ -1,0 +1,12 @@
+LENGTH OF RECORDING:  22 minutes
+CLINICAL HISTORY:  The patient is an 80 -year-old woman with multiorgan failure who has change in mental status.
+MEDICATIONS:  Current medications include insulin and Flagyl.
+CONDITION OF THE RECORDING:  The recording was performed according to standard 10-20 system with additional T1-T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed
+DESCRIPTION OF THE RECORD:  There is significant EMG artifact that obscures the majority of the recording.  During periods that are relatively free of the artifact, the background consists of polymorphic lower amplitude theta activity without an anterior-to-posterior frequency amplitude gradient.  No normal sleep architecture is captured.  Hyperventilation and photic stimulation are not performed.
+FINDINGS:
+Moderate diffuse slowing and disorganization.
+Large amounts of EMG artifact.
+IMPRESSION:  This is an abnormal 22 minute EEG due to moderate diffuse slowing.  This finding indicates etiologically nonspecific diffuse cerebral dysfunction.  Large portions of the EEG were obscured by EMG artifact.  Thus, focal  features and epileptiform seizures features might have been missed.
+
+
+

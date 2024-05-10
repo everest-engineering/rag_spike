@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 57 year old right handed woman with new onset seizure witnessed by her daughter. The patient's past medical history includes alcohol abuse.
+MEDICATIONS: Serax, Hydrochlorothiazide, Metoprolol, Citalopram, Trazodone, ASA, Lisinopril.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is disorganized and slow with no well-defined alpha. There is a theta background. In drowsiness, there is more of a background beta activity. With photic stimulation, there is no driving response. There is focal slowing of the left side but also head rocking.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Disorganized
+2. Background slowing
+CLINICAL CORRELATION: No epileptiform features are observed in this record. This is an abnormal EEG due to slow with no well-defined alpha and focal slowing of the left side. Clinical correlation needed.
+
+
+

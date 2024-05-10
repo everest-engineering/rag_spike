@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 76-year-old man with a past history of dementia, seizures, and cardiomegaly.  Seizures are of multiple types.
+MEDICATIONS:  Keppra, Namenda, nifedipine, aspirin, and others.
+INTRODUCTION:  The recording is performed according to standard 10/20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low amplitude 9 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, symmetrical sleep spindles and vertex waves are captured.  Intermittent bifrontal, bifrontal central runs of low to moderate amplitude fast activity are noted.  These runs last from approximately 3 seconds up to 12 seconds.  There is no clear evolution and these do not appear to be stenose induced.  Hyperventilation is not performed.  Stepped photic stimulation does not result in additional abnormalities.  Polymorphic theta and delta activity is noted over the left temporal region.  This activity is at times sharply contoured.  A single EKG lead demonstrates a heart rate of fewer than 60 beats per minute.
+FINDINGS:
+Stage 2 sleep.
+No epileptiform discharges.
+Intermittent mild-to-moderate left temporal slowing
+Three-12 second rounds of bifrontal, bifrontal central fast activity.
+Sinus bradycardia.
+IMPRESSIONS:  This is an abnormal awake and asleep 31-minute EEG due to mild to moderate left temporal slowing.  This finding indicates focal cerebral dysfunction, possibly structural in etiology, and may be consistent with the patient's history of dementia.  Bilateral symmetrical frontal/frontal central rounds of fast activity of uncertain clinical etiology but they do not evolve or are stenose induced.  The lack of epileptiform discharges in the routine EEG does not preclude a clinical diagnosis of  epilepsy.
+
+
+

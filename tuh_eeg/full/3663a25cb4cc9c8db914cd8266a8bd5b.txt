@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 49-year-old woman, admitted on the 16th status post cardiac arrest at an outside physician.  Prior left PCA infarct.  EEG monitoring for patient with involuntary jerking, undergoing hypothermia protocol.
+MEDICATIONS:  Versed, dopamine, others.
+INTRODUCTION:  Digital video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially hypothermic with a temperature of 31 degrees.  The patient remained cooled during this initial section of the EEG recording, and body temperature remained cooled at the end of this first section of EEG
+DESCRIPTION OF THE RECORD:  In the initial hours of recording, the overall EEG appears to be in relatively low voltage and suppressed.  Intermittently, as the muscle attenuates, the EEG activity seems to attenuate as well.
+The patient remains cooled at midday on the 17th.  The muscle artifact is abating and the EEG demonstrates a burst suppression pattern with brief bursts of activity, typically lasting only a second.  This suppressed intervals are typically approximately five seconds in duration.  The cerebral activity is relatively symmetric with minor shifting asymmetries.
+Limited tactile or other stimulation of the patient was performed, but the EEG does not appear to be reactive.
+Heart rate 60 BPM.
+IMPRESSION:  This first 24 hours of electroencephalogram monitoring was remarkable for:
+Initial pattern which was entirely obscured by muscle.
+As the muscle artifact decreased, a pattern of burst suppression with a relatively suppressed pattern.
+CLINICAL CORRELATION:  These are worrisome findings and should be integrated with the quantity of midazolam administered, as well as the patient's body temperature at 11 a.m. when the burst suppression pattern was recognized.
+
+
+

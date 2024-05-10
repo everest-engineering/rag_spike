@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 51-year-old woman with posttraumatic headaches, left frontal stabbing pain, feeling unwell.
+MEDICATIONS:  Ibuprofen, meclizine, Naprosyn, others.
+INTRODUCTION:  Digital video EEG was performed.  This was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging EEG with impedances under 10 kilo ohms.  The patient had difficulty cooperating with the test.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, but symmetric pattern with a low-voltage, 10 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness was characterized by an increase in beta.  Hyperventilation produced a small amount of slowing.  Photic stimulation did not significantly activate the record.  Heart rate 72 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted.  This patient's headache may have precluded a good quality of record.
+
+
+

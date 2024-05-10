@@ -1,0 +1,27 @@
+History:	63 YR OLD MALE PRESENTS WITH H/O TEMPORAL LOBE EPILEPSY SINCE
+1966. SEIZURES BEGIN WITH AN AURA OF A ADRENALINE RUSH FEELING.
+LAST SZ ON 3/10/14. PT REPORTS 3-4 SZ IN THE LAST YEAR.
+Medications:	LAMICTAL, VIMPAT, KLONOPIN, IBUPROFEN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing was seen.  One high voltage, left anterior temporal spike was seen during photic
+stimulation.  Four low voltage right temporal sharp waves were seen.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces rhythmic,
+shifting slowing in the temporal regions.  Stepped photic stimulation from 1-21 flashes per second
+(fps) induces symmetric photic driving. One high voltage, left anterior temporal spike was seen, as
+Summary of Findings:
+Spikes, one, left temporal, anterior
+Sharp waves, rare, right temporal
+Interpretation:
+This is a ABNORMAL EEG, awake, drowsy, and asleep. The independent, bilateral temporal
+epileptiform discharges support the patient's diagnosis of localization-related epilepsy.
+
+

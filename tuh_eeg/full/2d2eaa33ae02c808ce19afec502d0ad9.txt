@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  81-year-old male with unilateral shaking of left arm and leg without significant impairment of awareness.  Previous cerebrovascular disease and cardiac disease as well as restless leg syndrome.
+MEDICATIONS:  Gabapentin, Keppra, Coumadin, B12 and  pramipexole (on hold).
+INTRODUCTION:  Digital video EEG was performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred because of the patient's atrial fibrillation.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is reasonably well organized but with an 8 Hz alpha rhythm  and a small amount of low voltage, frontocentral beta activity with a small amount of head rocking in the posterior regions, right more so than left.  There is also a fair amount of muscle artifact.  As the recording continues, the patient is a bit less cooperative.  Drowsiness is characterized by attenuation of an alpha rhythm with an increase in background swelling.
+Photic stimulation did not significantly activate the record.
+HEART RATE:  90 bpm
+IMPRESSION:  Technically challenging but only mildly abnormal EEG due to mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:  Despite this patient's history of cerebrovascular disease, the overall record is well organized.  No focal or epileptiform features were identified.  The mildly slow alpha is a nonspecific finding and can be seen in cognitive disorders in this age group as well as with medication effect, although this patient's specific medications would not be expected to cause a somewhat slow alpha rhythm.
+
+
+

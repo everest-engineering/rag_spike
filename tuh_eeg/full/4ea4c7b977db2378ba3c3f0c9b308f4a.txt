@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 41-year-old woman admitted on the 24th with new onset slurred speech, right facial twitching for 3 days.  HIV disease, hypertension, and gastric bypass.
+MEDICATIONS:  Aspirin, Ativan, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with one channel EKG.  The patient had involuntary twitching of the face and leg.  A muscle monitor was placed on chin.
+DESCRIPTION OF THE RECORD:  The background EEG is abnormal.  It is a pattern of background slowing with at times an 8 Hz alpha rhythm.  This background is disrupted by both generalized, frontally predominant paroxysmal slowing as well as some shifting arrhythmic delta, some of which is maximum on the left.
+Hyperventilation seems to accentuate the bursts of frontally predominant paroxysmal higher amplitude delta.  Quiet relaxation results in a better organized pattern.
+Photic stimulation elicits a driving response.
+The patient's video and the twitch monitor demonstrates a twitch artifact, but no scalp EEG correlate.
+Heart rate 70 beats per minute.
+IMPRESSION:  This is abnormal EEG due to:
+Generalized background slowing with slowing of the alpha rhythm.
+Frontal intermittent rhythmic delta activity.
+Shifting arrhythmic delta activity, left greater than right.
+CLINICAL CORRELATION:  The findings described above are nonspecific, but are more characteristic of a metabolic encephalopathy.  No definitive epileptiform features were observed.  If seizures are thought to be an important consideration, a more prolonged tracing can be considered, but the overall pattern described above is more compatible with a metabolic process.
+
+
+

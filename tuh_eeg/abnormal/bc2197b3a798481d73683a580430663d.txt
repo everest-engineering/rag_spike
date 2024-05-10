@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 48-year-old man admitted for concern for anoxic brain injury.  EEG was performed to rule out status epilepticus.
+MEDICATIONS:  Ativan, rocuronium, etomidate, and vecuronium.
+INTRODUCTION:  Digital video EEG was performed at the bedside using the standard 10-20 system of electrode placement and one channel of EKG.  No activating procedures were performed.
+DESCRIPTION OF THE RECORD:  The background is diffusely slow in the 2 to 4 Hz range of frequency.  There are overlying beta frequency waves on the background delta activity.
+Tactile stimulation results in tachycardia and increase in faster frequency activity, significantly.
+Heart rate 96 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to background slowing in the delta range with overlying beta activity.
+CLINICAL CORRELATION:  This EEG is suggestive of diffuse cerebral dysfunction which is nonspecific in etiology.  This pattern may be seen in toxic metabolic or anoxic encephalopathy.  The use of sedative medications may also play a role.  For further information, the patient may be followed clinically or a repeat EEG may be performed when the patient is off sedation.
+
+
+

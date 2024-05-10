@@ -1,0 +1,17 @@
+History: WOMAN WITH A HISTORY OF SEIZURE AFTER LEFT MCA STROKE.
+Medications: KEPPRA, DIAZEPAM. PLAVIX
+Sedation: None
+EEG Typo: Routine, awake & drowsy
+Technique: international 10-20 System; standard 21 electrodes. awake, drowsy, photic
+
+Description:
+Waking background is characterized by a 25-40uV, 9 Hz alpha rhythm, which attenuates with eye opening. Symmetric 5-15uV, 18-25Hz activity is present. maximal over bilateral frontal regions. During brief drowsiness. the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+
+Nearly continuous polymorphic theta activity with loss of faster frequencies is present in the left temporal region during wakefulness. Increasing during drowsiness. No epileptiform discharges are present.
+
+Hyperventilation and photic stimulation are not performed. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities. HR Is 60 bpm.
+
+Interpretation:
+Excessive beta activity is likely a medication effect. This is an abnormal EEG due to continuous focal slowing in the left hemispheric region with loss of faster frequencies. This finding is indicative of severe focal cerebral dysfunction in this region, likely structural in origin involving cortex. No epileptiform discharges are present.
+
+

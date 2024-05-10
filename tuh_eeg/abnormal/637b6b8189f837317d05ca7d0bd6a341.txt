@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  56 year old male transferred from Episcopal with a stroke characterized by right-sided weakness with repetitive speech.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not possible but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm.  Wicket activity is noted.  There is subtle, underlying arrhythmic delta activity in the right mid temporal region.  Features of drowsiness include an increase in background slowing with POSTS.  Vertex waves and spindles are noted.  In sleep, the focal features are less prominent. Photic stimulation elicits a bilateral driving response but it is a bit more vigorous on the right.  The patient is falling asleep during photic stimulation.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the left hemisphere particularly left central temporal region.
+CLINICAL CORRELATION:  There are no epileptiform features noted.  The focal slowing and asymmetric driving response may be correlated with  structural abnormalities in this individual with a stroke.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  57 year old woman found unresponsive, persistently unresponsive.  Initially she was foaming at the mouth, tonic clonic activity in the emergency room, now stiff, spastic, and not waking up.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is wearing a face mask and is poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous slow to medium voltage pattern with mixed frequency activity.  There is a fair amount of muscle artifact, but there is some theta and beta noted in the background.  Eye movements are noted and there is variability in the record with transitions between a theta pattern and a delta beta pattern.  As the recording continues, the patient is a bit more interactive.
+HR:    110 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+Intermittent generalized attenuation.
+CLINICAL CORRELATION:  This EEG is more supportive of a severe, diffuse disturbance of cerebral function.  The findings described above are nonspecific, but support a bihemispheric disturbance of many different etiologies.  There are no focal features.  There are no epileptiform features.
+
+
+

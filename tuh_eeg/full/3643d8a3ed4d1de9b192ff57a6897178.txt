@@ -1,0 +1,29 @@
+History:	63 year old male with with history of seizures.
+Medications:	Depakene, Dilantin, Phenobarbital
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The waking background consists of 6.5-7 Hz diffuse monomorphic theta activity with anterior beta
+activity.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely,
+followed by symmetric vertex waves.
+Continuous polymorphic theta and delta activity is present in the right frontal region during
+wakefulness, increasing during drowsiness.  Underriding fast activity is present over the right frontal
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+Focal slowing, polymorphic, continuous, mild, right frontal
+Breach artifact, right frontal
+No stage 2 sleep
+No epileptiform discharges
+Diffuse slowing, polymorphic
+Interpretation:
+This is an abnormal 22-minute awake and drowsy EEG due to continuous mild right frontal slowing
+and mild diffuse slowing. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Continuous focal slowing is indicative of a focal cerebral dysfunction,
+possibly structural in etiology.  Breach effect is secondary to the skull defect.  No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.
+
+

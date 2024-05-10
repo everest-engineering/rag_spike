@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 25-year-old woman with epilepsy since childhood. Seizures characterized by shaking, then loss of consciousness, then hypersomnolence for 48 hours.  Seizure-free for 11 months.
+MEDICATIONS:  Keppra and Tegretol.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrated an 11 Hz alpha rhythm, reaching amplitudes up to 90 microvolts with posterior slow waves of youth.  Generous frontocentral beta was noted.  Hyperventilation produced an increase in amplitude at the background.  Photic stimulation elicited driving response at faster flash frequencies.
+Heart rate 78 bpm.
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.  If epilepsy is an important consideration, a followup study may be of value.
+
+
+

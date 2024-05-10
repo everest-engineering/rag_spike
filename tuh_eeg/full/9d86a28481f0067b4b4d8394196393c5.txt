@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  76 year old right handed with dementia, diabetes, lymphoma, and past stroke, admitted with acute weakness, confusion, and aphasia.
+MEDICATIONS:  Keppra, ASA, Insulin, heparin, Lopressor
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow, although there are points where the alpha rhythm achieves 8.7 Hz.  It is typically just below 8.5.  In relaxed wakefulness, the EEG slows with a theta pattern.  Shifting asymmetries are noted with at times more of a disruption of faster frequency activity on the left compared to the right.  Vertex waves and spindles are noted in stage II sleep.
+Photic stimulation does elicit a driving response.  Occasional lambda waves are also noted.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Slow background.
+Slowing of the alpha rhythm.
+A slight asymmetry in the context of shifting slowing with disruption of the faster frequency activity on the left.
+CLINICAL CORRELATION:  No epileptiform features were noted.  If epilepsy is an important consideration, a followup study can be considered.
+
+
+

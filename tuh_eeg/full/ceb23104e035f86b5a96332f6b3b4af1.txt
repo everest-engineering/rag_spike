@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 54-year-old woman who was at her doctor's office when she developed sudden numbness on the right face and leg, elevated blood pressure, and hypersomnolence.  History of 5 previous strokes, diabetes, hypertension, and epilepsy.
+MEDICATIONS:  Aspirin, Keppra, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a routine 20-minute EEG with photic stimulation.  The patient was too drowsy to complete hyperventilation and she fell asleep during photic stimulation.
+DESCRIPTION OF THE RECORD:  The majority of the record includes stage 2 sleep with vertex waves, K complexes, spindles, and posts.  With stimulation, the patient is briefly awake and oriented with a theta and beta pattern.  She had difficulty staying awake long enough to test for alpha rhythm and is falling asleep during photic stimulation.  In that transition in and out of sleep, there are rare bursts of sharply contoured slowing from the left hemisphere.  These are somewhat confounded by eye movement artifact as well and may have a field within the left frontal central temporal region.
+Heart rate 90 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Hypersomnolent patient.
+Rare bursts of sharply contoured delta in the left hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The focal slowing may be correlated with imaging given the patient's history.  If seizures are an important consideration, a more prolonged study as the patient recovers from her current neurological problems may be of value.
+
+
+

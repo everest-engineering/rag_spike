@@ -1,0 +1,17 @@
+History:	44 year old woman with history of seizures and headaches. Medications:	Flexeril, Inhaler. Patient unable to provide medication list. Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 11 Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+Lower voltages are noted over the right temporooccipital leads. No epileptiform discharges are present.
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates. Significant nearly continuous EMG artifact is noted over the frontotemporal leads. This limits interpretation of the recording over those cerebral regions.
+Summary of Findings:
+No electrographic seizures
+Artifact, EMG, frontotemporal leads No stage 2 sleep
+Other, attenuation over right temporooccipital region
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy 23-minute EEG due to lower voltages noted over the right temporooccipital leads. This finding could indicate focal cerebral dysfunction or a fluid collection over the right temporooccipital region. Please correlate clinically. No epileptiform discharges are present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. Significant nearly continuous EMG artifact is noted over the frontotemporal leads. This limits interpretation of the recording over those cerebral regions.
+.
+
+
+

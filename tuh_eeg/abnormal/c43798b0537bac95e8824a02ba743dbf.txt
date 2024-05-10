@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 63 year old right handed woman with episodes of dizziness, lightheadedness lasting 30 seconds to a minute. Migraine headaches.
+MEDICATIONS: Imitrex. Motrin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a low voltage, 11 hertz alpha rhythm. Mu activity is noted in the central regions, but testing is not performed to confirm this. The transition to drowsiness is characterized by rhythmic temporal theta frequency activity. Vertex waves are noted in stage I sleep with brief epochs of stage II sleep with spindle or K complexes. There is a slight asymmetry on electrode placement. In the transition in and out of stage I sleep, there is prominent rhythm and temporal theta of drowsiness. This is also noted in hyperventilation. Photic stimulation elicits brief bilateral driving.
+HR: 66 bpm
+IMPRESSION: Normal EEG
+CLINICAL CORRELATION: This EEG demonstrates a normal variant, rhythmic mid temporal theta of drowsiness, but there are no epileptiform pathologies noted.
+
+
+

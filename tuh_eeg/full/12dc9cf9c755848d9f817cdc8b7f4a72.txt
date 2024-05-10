@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 86-year-old with cognitive impairment and an episode of dizziness, vomiting and confusion.
+MEDICATIONS:  ASA, Aricept, others
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible but photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is a bit slow and disorganized with a 7.5 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by slowing of the background with slow rolling eye movements.  Occasional, isolated shifting slowing was noted.
+Photic stimulation elicited scant driving.  Heart rate 78 bpm, occasional PVCs.
+IMPRESSION:  Mildly abnormal EEG for adult of this age due to:
+Slowing of the background rhythm.
+Mild background disorganization.
+Shifting slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The features described above are nonspecific and can be seen in the context of  dementia.
+
+
+

@@ -1,0 +1,17 @@
+INTRODUCTION:
+This EEG was performed using a 10/20 electrode placement system and EKG electrodes capturing wakefulness and
+stage I sleep and photic activation.
+DESCRIPTION OF RECORD:
+The EEG opens to a well formed 9 Hz background with amplitude of 20 to 70 microvolts that is symmetric and reactive to
+eye opening and eye closing. Frontocentral beta rhythm of 15 to 25 Hz and less than 10 microvolts amplitude is seen.
+Stage I sleep is noted. Photic stimulation is normal.
+ABNORMAL DISCHARGES:
+None.
+IMPRESSION:
+Normal EEG.
+CLINICAL CORRELATION:
+This EEG is normal. No focal or paroxysmal epileptiform abnormalities were seen. Please note that this EEG report is
+different from the previous one. The transient abnormalities may represent changes seen after a recent seizure.
+
+
+

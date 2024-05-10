@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 47-year-old woman with 3-year history of epilepsy, last seizure 10 days ago with incontinence, postictal confusion.  Patient not able to take medications regular.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Routine 20-minute digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+In wakefulness, the background EEG is well organized with generous, 10 Hz alpha rhythm and generous low voltage, frontocentral beta.  Drowsiness is characterized by slow rolling eye movements and an increase in beta.  Background theta is noted as the patient transitioned from stage 1 to stage 2 sleep with vertex waves, spindles, and POSTS.
+Hyperventilation did not significantly activate the record.  Photic stimulation elicited bilateral driving.  Of note, the patient was falling asleep, transitioning in and out of stage 2 sleep during photic stimulation.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in this record.  This appears to be a very drowsy record.  Previous EEGs were not available at this time for comparison, but if further characterization of this patient's epileptiform activity is needed, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

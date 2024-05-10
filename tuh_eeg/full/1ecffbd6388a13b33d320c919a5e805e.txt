@@ -1,0 +1,27 @@
+:
+History:	60 year old man with an episode concerning for seizure.
+Medications:	Keppra, Lopressor, lisinopril
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 9.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous polymorphic theta and delta activity is present in the right posterior quadrant.  No
+epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right posterior, mild-to-moderate
+Interpretation:
+This is an ABNORMAL awake and asleep EEG because of continuous mild-to-moderate focal
+slowing in the right posterior quadrant  This finding is indicative of a focal structural lesion in this
+region.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis
+
+
+
+

@@ -1,0 +1,19 @@
+History:	74 YR MALE S/P CARDIAC ARREST 1/31 EMS FOUND PT PULSELESS. . ARRIVED
+TUH 20:45 STILL PULSELESS UNTIL 20:54 DOWN > 15MIN.  EVAL FOR ECS.
+PT TEMP 100.8.
+Medications:	INSULIN, VASOPRESSIN, NOREPINEPHRINE, PIPERCILLIN
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no electrocerebral activity over 2uV during the recording.  No normal sleep architecture
+was present despite prolonged clinical sleep.
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Electrocerebral inactivity
+Interpretation:
+This is an isoelectric EEG performed according the the ACNS guidelines for the determination of
+electrocerebral inactivity.  This EEG is consistent with, but not diagnostic of, cerebral death.
+

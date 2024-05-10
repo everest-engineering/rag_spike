@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 61-year-old gentleman discharged from the hospital on November 5 and readmitted a day later after he missed seizure medications.  He presented with recurrent facial twitching x3, difficulty swallowing and MRI suggesting ongoing seizures.
+MEDICATIONS:  Phenobarbital, Keppra, pyridoxine, others.
+INTRODUCTION:  A digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a markedly abnormal pattern.  The overall background is diffusely slow, more significantly slow and suppressed on the left.  A periodic complex was noted from the left hemisphere, maximal in the temporal regions and the occipital regions.  It is at times polyphasic with a periodicity of about 1 per second.  On rare occasions there is a little bit of frequency evolution, but no definitive seizures were identified.  Stimulation of the patient is associated with an increase in faster frequency activity.
+Heart rate:  72 beats per minute.
+IMPRESSION:  Markedly abnormal EEG due to:
+A left hemispheric periodic complex with some variability, typically maximum left posterior temporal, occipital or even centrotemporal.
+Marked attenuation of faster frequency activity and arrhythmic delta activity in the left hemisphere.
+Significant slowing on the right.
+CLINICAL CORRELATION:  These findings are similar to a study performed the previous day.  No clinical seizures were recorded.  These EEG supports an ongoing, highly epileptiform pattern.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 28-year-old man who presents with an episode of loss of consciousness with associated fall, shaking and postictal confusion.  The patient states that it might have been his third episode of such nature.
+CURRENT MEDICATIONS:  None.
+CONDITION OF THE RECORDING:  The record was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 12 Hz alpha activity that attenuates with eyes opening.  Frequent slow and fast alpha variants are present.  There is anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Throughout the recording there are frequent polymorphic intrusions of diffuse theta and delta.  Drowsiness is present, but stage II sleep is not recorded.  Hyperventilation results in mild diffuse symmetric background slowing.  Stepped photic stimulation results in symmetrical occipital driving at multiple flash frequencies.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal awake and briefly drowsy 23 minute EEG.  Diffuse intrusions of theta and delta activity likely represent a normal variant.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical indication for seizures persist, a repeat study with sleep may be of benefit.
+
+
+

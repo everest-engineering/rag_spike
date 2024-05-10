@@ -1,0 +1,10 @@
+CLINICAL HISTORY:    32 year old right handed female with depression, anxiety, recent frost-bite injury, hepatitis C with a seizure January 4, with incontinence.  Evaluate for seizures.
+MEDICATIONS:  Percocet, Topamax.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm reaching 50 mV.  In maximal wakefulness, the EEG is well organized.  Drowsiness is characterized by rhythmic background slowing.  Hyperventilation produces posteriorly predominant slowing.  Photic stimulation elicits bilateral driving.
+HR:     60 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The posteriorly predominant hyperventilation response is an unusual finding in an adult, but is not pathological.
+
+
+

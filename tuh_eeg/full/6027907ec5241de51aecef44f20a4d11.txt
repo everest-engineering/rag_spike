@@ -1,0 +1,29 @@
+History:	76 YR FEMALE FOLLOW UP EEG..  PT HAD SZ 11/2011.  JUST CHECK UP
+Medications:	Keppra, Donepezil
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+Intermittent polymorphic delta activity is present independently in the bilateral anterior temporal
+regions (left >> right).  Rare focal spike-and-wave discharges and sharp waves are present with
+phase reversal and amplitude maximum at F7 and T3.  There are some suspicious sharply
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 48.
+Summary of Findings:
+Sharp waves, occasional, left temporal, anterior, also mid-temporal discharges
+Focal slowing, polymorphic, frequent, bilateral (L>R) temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the left anterior and mid-temporal region.   These findings are indicative of a potentially
+epileptogenic focus in this region, and given the clinical history of partial seizures, are consistent
+with a diagnosis of localization-related epilepsy. In addition, there is  intermittent focal slowing in
+the bilateral anterior temporal (left >> right) regions.  This finding is indicative of focal cerebral
+dysfunction, which is etiologically non-specific.
+

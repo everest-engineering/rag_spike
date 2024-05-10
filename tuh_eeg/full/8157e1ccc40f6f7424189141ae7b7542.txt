@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 31-year-old male with longstanding epilepsy followed by traumatic brain injury in 2009, bipolar disease with mania, vertigo.
+MEDICATIONS:  Depakote, phenytoin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized with a 10 Hz alpha rhythm.  In wakefulness, there is an isolated, high-amplitude frontal approximately 4 Hz spike and wave complex.  Hyperventilation produced hypersynchronous rhythmic theta and a 3 second burst of frontally predominant 4-5 Hz high-amplitude spike and wave activity.
+Although there were no additional bursts of spike and wave activity, there were a handful of paroxysmal bursts without a definitive spike underlying the rhythmic theta.  Similar patterns were also noted as the patient transitioned to sleep.  Features of stage I sleep included vertex waves.  K-complexes were seen in stage II sleep.
+Photic stimulation elicited a bilateral driving response.  The patient seemed to be transitioning into drowsiness during photic stimulation and there were some hypersynchronous higher amplitude bursts of rhythmic 4 Hz activity but no definitive spike and slow wave activity.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+A 3 second burst of spike and wave activity elicited by hyperventilation with a pause in the patient's breathing.
+A single additional interictal frontal spike and wave complex.
+CLINICAL CORRELATION:  The 3 second event is compatible with an absence seizure in that there did seem to be motion arrest of the patient during the event.  As is typical in absence seizure, there was no postictal impairment of awareness and exhaustive testing was performed by the tech afterwards.
+In this individual with a history of head trauma, there are no focal features noted in this EEG.
+
+
+

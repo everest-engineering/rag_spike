@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 58-year-old nursing home resident with previous right posterior fossa tumor, multiple medical problems including renal failure, hypertension, lung mass, metastatic brain tumor, possible interval stroke, declining mental status.
+MEDICATIONS:  Keppra, metoprolol, aspirin, Megace, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient had difficulty understanding the task.  This was a technically acceptable EEG with impedances generally under 5 kilo ohms.  Photic stimulation was performed, but hyperventilation was not possible.  The patient was able to follow commands during the EEG.
+DESCRIPTION OF THE RECORD:  The overall background EEG is markedly disorganized.  There is excess theta, and there is no well-defined posterior dominant rhythm.  The central regions have more beta than other areas.  Arrhythmic delta is noted from either posterior region.
+Broadly contoured periodic complexes are noted intermittently from the right occipital or posterior temporal region with variable field and variable spread.  These do not evolve.
+Photic stimulation did not significantly activate the record.
+Stimulation of the patient seems to ameliorate some of the periodic complexes in the right posterior quadrant and on rare occasions, with stimulation, there is a glimpse of a 6 Hz posterior dominant rhythm with some shifting asymmetries right or left.
+Heart rate 78 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Markedly abnormal background with bilateral slowing and disruption of faster frequency activity.
+Poorly formed periodic complexes in the right posterior quadrant.
+CLINICAL CORRELATION:  This EEG supports a bilateral disturbance of cerebral function.  The epileptiform activity is in the region of the patient's previous tumor resection.  No seizures were recorded, but ongoing vigilance for recurrent seizures is suggested.
+__________________________
+
+
+

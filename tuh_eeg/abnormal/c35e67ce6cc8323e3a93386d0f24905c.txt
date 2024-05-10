@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 18 year old right handed male with epilepsy with last seizure October 10, 2010. Past history of childhood seizures.
+MEDICATIONS: The patient could not provide.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9.5 Hz alpha rhythm. Head rocking artifact is noted in the posterior regions, a bit more prominent in the right than the left. Hyperventilation is performed early on in the record producing an increase in amplitude of the background and some double phase reversing artifact in the right posterior temporal region. Other features of drowsiness include anterior spread of the alpha rhythm. Photic stimulation elicits no driving response.
+HR: 50 bpm
+IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: There are no focal nor epileptiform features noted in this record. This patient's previous EEG at age 12 was also normal. To more completely capture epileptiform activity, a follow up study capturing sleep is suggested.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 47-year-old male admitted on the 27th with polysubstance overdose and right frontal mass, evaluate for seizures.
+MEDICATIONS:  Depakote and Seroquel.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one-channel of EKG.  This is an uncomfortable patient with pneumonia and frequent coughing.
+DESCRIPTION OF THE RECORD:  The patient is quite lethargic at the beginning with mixed beta and delta frequency pattern.  Spindles were noted.  As the patient becomes drowsy, there is an increase in delta and there is a bit more delta in the right hemisphere relevant to the left, but much of this has a posterior phase reversal.  As the patient transitions in and out of a drowsy pattern, there is prominent beta activity, but the beta activity is richer in the left hemisphere than the right and in fact is more disrupted in the right posterior region.  As the recording continues, the quality of the electrodes declines as the patient is febrile.  The overall EEG pattern is a stable pattern with generous beta and underlying delta in the focality described above.
+Heart rate 102 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Prominent beta.
+Focal slowing from the right hemisphere, more prominent posteriorly than anteriorly.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted in this technically challenging EEG.  If seizures are an important consideration, a follow up study when the patient is more comfortable is suggested.  The focal slowing is ipsilateral to the patient's known lesion.
+
+
+

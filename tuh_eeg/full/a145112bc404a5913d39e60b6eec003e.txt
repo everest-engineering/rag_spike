@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 59-year-old male with past history of stroke and epilepsy, admitted in status epilepticus.
+MEDICINES:  Ativan, propofol drip, and phenytoin.
+INTRODUCTION:  Digital video EEG was performed at bedside in ER using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and poorly responsive.  This is a 26-minute bedside ICU record.
+DESCRIPTION OF THE RECORD:  As the recording begins, the overall background is very low voltage.  There is an asymmetry between the 2 hemispheres.  The right hemisphere demonstrates a low voltage pattern with intermittent fast activity and almost a burst suppression like pattern.  The left hemisphere is a bit more suppressed, a bit lower voltage with very slow periodic sharply contoured delta noted in the left hemisphere with a generous field of spread in the mid and central temporal region.  As the recording continues, the overall background is a bit more continuous.  The patient is observed to have right leg tremor, which produces some 4-5 Hz artifact.  The tremor is significantly faster in frequency, than the very slow periodic delta noted out of the left hemisphere.  As the recording continues, the periodic delta on the left seems to demonstrate a slight degree of waxing and waning and is associated with fast activity.  Spontaneous arousals by the patient and tactile stimulation of the patient both produce an increase in muscle.
+Heart rate 84 bpm.
+IMPRESSION:  Markedly abnormal EEG due.
+Replacement of normal background with a very low voltage relatively suppressed pattern.
+An asynchronous pattern with more of a low voltage slow pattern on the right, which was initially somewhat discontinuous transitioning to more of a lower voltage mixed frequency with fast activity pattern.
+Periodic complexes from the left hemisphere initially very low voltage and relatively subtle, building up over time with a more clear cut T1 phase reversal and some periodicity.
+A 4-Hz right leg tremor, which does not match the periodicity of the epileptiform activity on the left.
+CLINICAL CORRELATION:  No clear clinical seizures were recorded.  This is a postictal pattern in a critically ill patient.  Because of the degree of background slowing, recent seizures, comatose state and periodic EEG activity, ongoing EEG monitoring was initiated.
+
+
+

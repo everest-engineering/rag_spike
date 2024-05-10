@@ -1,0 +1,36 @@
+History:	75 year old man undergoing a complex cardiac surgery: CABG, AVR and
+aneurysmal repair.  No hypothermia protocol initiated.
+
+INCISION: 8:55AM
+HEPARIN: 9:20AM 3200 UNITS
+CIRC.ARREST: NOT PERFORMING
+BYPASS  10:08AM.
+CARDIAC ARREST: 10:18A
+COOL:  10:11AM
+SUPPRESSION:   N/A
+WARM:  11:45A
+Medications:	SEVOFLURANE-> ISOFLURANE
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, comatose
+Description:
+Patient is intubated and sedated by the time the recording starts.  Early in the recording the
+background consists of a diffuse monomorphic ~10 Hz moderate amplitude alpha activity admixed
+with bursts of theta and delta activity and occasional periods of discontinuity.  As the recording
+progresses, alpha activity evolves into moderate amplitude theta activity admixed with periods of
+discontinuity.  Mild degree of burst-suppression is seen by ~ 10:14 am.  Cardiac arrest is achieved
+by ~ 10:18 am.    Background changes to discontinuous by ~ 10:52 am.  Heart rate reappears on a
+single EKG lead by ~ 12:50 am.  By the end of the recording the background is continuous and
+consists of a mixture of polymorphic theta and alpha activity.
+Summary of Findings:
+No electrographic seizures
+Interpretation:
+This is an unremarkable nearly 5 hour continuous intraoperative EEG.  Progress was intermittently
+monitored remotely by the attending physician. Hypothermia was never therapeutic and complete
+suppression was never achieved.
+
+
+
+
+
+

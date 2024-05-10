@@ -1,0 +1,20 @@
+History:	61 year old woman who is unresponsive, was observed to have episodes of eye deviation.
+Medications:	Ativan Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 13 hours from 3/19/2015 till 3/201/2015.  Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events	·
+Description:
+During maximal arousal, the background consists of polymorphic 8-9 Hz activity posteriorly, weak AP gradient and excess diffuse polymorphic theta activity. Sleep is characterized by bursts of polymorphic diffuse theta and delta activity embedded in low amplitude diffuse sleep-spindle-like waveforms.  Periods of diffuse background discontinuity are also seen.
+No events of gaze deviation are marked/ annotated.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild Event, not recorded
+Interpretation:
+This is an ABNORMAL -13-hour continuous video EEG due to mild diffuse slowing and disorganization. These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction. No events of gaze deviation are marked/ annotated. These findings were conveyed to the neurology consult team.
+
+
+
+
+

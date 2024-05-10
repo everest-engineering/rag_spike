@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 75-year-old man with an episode of loss of consciousness with associated urinary incontinence in the setting of a PCO2 of 154.  The patient has a past medical history of HIV, lung cancer, colon cancer and 2 brain lesions in the bifrontal and parietal regions.
+CURRENT MEDICATIONS:  He received Ativan 2 mg, Versed 2 mg, HIV medications, aspirin, Zosyn, Pravachol and vancomycin.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single electrocardiogram lead. Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  There is significant diffuse voltage attenuation. The background consists of polymorphic very low amplitude delta activity with bursts of diffuse spindle-like waveforms.  There is slight paucity of faster frequencies over the right lateral leads.  Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Severe diffuse slowing.
+Severe diffuse attenuation
+Paucity of faster frequencies over the right lateral leads.
+No epileptiform discharges.
+IMPRESSION:  This is a very abnormal 22 minute EEG due to severe diffuse slowing, voltage attenuation, and paucity of faster frequencies over the right temporal region. Diffuse voltage attenuation and slowing indicates severe cerebral dysfunction, that is etiologically nonspecific, but in this case could partially be related to the medication effect.  Paucity of faster frequencies over the right temporal region could be secondary to an underlying structural lesion over that region as well as a fluid collection between the skull and EEG leads.  There were no clear epileptiform discharges.
+
+
+

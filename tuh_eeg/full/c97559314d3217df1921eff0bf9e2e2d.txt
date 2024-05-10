@@ -1,0 +1,16 @@
+
+CLINICAL HISTORY:  This is a 48-year-old male with history of anxiety, chronic pain with episodes of recurrent loss of consciousness, syncope, and childhood epilepsy.   Symptoms can occur with lightheadedness followed by confusion.
+
+MEDICATIONS:  Xanax, Seroquel, Zestril,  Lipitor, Norvasc, and tramadol.
+
+INTRODUCTION:  A 40-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable EEG with impedances under 5 kilohms with the exception of the T1 and T2 electrode.
+
+DESCRIPTION OF THE RECORD:  In wakefulness,  there is an 11 Hz alpha rhythm.  Drowsiness is characterized by an increase in background theta with vertex waves, K complexes, spindles, and POSTS noted in stage 2 sleep.   Photic stimulation elicited bilateral driving.  Hyperventilation produced some bursts of shifting slowing in the right or left temporal region.
+
+Heart rate 72 bpm.
+
+IMPRESSION:  This is a very mildly abnormal EEG for an adult of this age due to shifting slowing noted during  hyperventilation.
+
+CLINICAL CORRELATION:  No epileptiform features were noted and focal features were not noted at any other time.  These findings may be correlated with this individual with history of childhood epilepsy.   If this individual is thought to have frequency seizures or spells, a more prolonged recording capturing 1 of his events may be a value.  Alternatively, outpatient ambulatory EEG monitoring may be helpful in search of epileptiform activity.
+
+

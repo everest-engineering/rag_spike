@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 52 year old right handed male with lung cancer, past temporal lobe epilepsy surgery 15 years ago, currently was seizure-free until 2 months ago now with recurrent seizures.  MEDICATIONS: Trazodone, Advair, Lasix. Omeprazole, Nadolol, Spironolactone, Furosemide, Spiriva
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation is performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG Includes a 10 Hz, 40 microvolt posterior dominant rhythm with a small amount of low voltage frontocentral beta activity. Subtle, occasional, right temporal focal slowing characterized by isolated delta or theta activity is noted in the transition to drowsiness. In addition, there is a subtle breech rhythm noted in the right temporal region. Features of drowsiness include an increase in theta. Photic stimulation does not activate the record.
+
+HR: 78 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Subtle.
+2. Intermittent focal slowing.
+
+CLINICAL CORRELATION: These findings support a structural or functional abnormality on the left but no epileptiform features were observed. Previous EEGs were not available for comparison.
+
+

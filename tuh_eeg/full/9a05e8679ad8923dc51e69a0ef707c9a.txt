@@ -1,0 +1,35 @@
+AGE: 74 y.o.
+SEX:male
+DATE OF STUDY: 09/22/2015 RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, coma study EEG #: 15-1392
+HISTORY:
+74 y.o. male with a pontine infarct, weakness, unresponsiveness, and worsening shortness of breath referred for routine EEG.
+MEDICATIONS: Phenytoin SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The background is continuous, symmetric, and consists of a poorly organized mixture of alpha, theta, and delta.	Although spontaneous movements are noted on video, there is no definite reactivity to noxious stimulation. Sleep transients are not captured.
+There is moderate to severe generalized slowing.
+No definite focal slowing is present, though there is low amplitude muscle artifact over the right fronto-temporal leads
+for the majority of the study. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES : There is no reactivity to visual , auditory, tactile, or noxious stimuli.
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 95 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal routine EEG due to:
+Moderate to severe generalized slowing
+Suboptimal organization
+Lack of definite EEG reactivity despite noxious stimuli and patient-initiated movements
+CLINICAL CORRELATION :
+These findings are nonspecific indicators of moderate to severe diffuse cerebral dysfunction.
+If clinically indicated, a longer study can be obtained to re-assess for reactivity and variability.
+
+
+

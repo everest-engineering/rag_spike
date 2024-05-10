@@ -1,0 +1,32 @@
+History:	26 year old woman with a history of events concerning for seizures.
+Medications:	ABILIFY, DEPAKOTE, AMBIEN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Patient remains awake throughout the study.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation is attempted but aborted at 1 Hz flash
+rate since patient developed an event.  The event lasts <1 minute.  It is characterized by patient
+starting to moan and tear up soon after the photic stimulation is started.  Patient is able to follow
+simple commands, respond to questions appropriately and recall the code word.  There is  no
+associated ictal correlate.  There is frequent eye flutter artifact.
+Summary of Findings:
+Event, one, non-epileptic
+No epileptiform discharges
+No stage 2 sleep
+Artifact, eye movement
+Interpretation:
+This is a NORMAL 26-minute EEG, awake-only.  No epileptiform discharges were present, but stage
+2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. A single event of moaning and crying that starts at the onset of photic
+stimulation has no abnormal ictal correlate.
+
+
+
+
+

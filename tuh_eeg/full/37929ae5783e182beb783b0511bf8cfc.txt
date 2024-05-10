@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  68 year old right handed male for aortic root replacement.
+MEDICATIONS:  Versed, Fentanyl, Isoflurane, Vecuronium, Solu-Medrol, Lidocaine.
+INTRODUCTION:  Intraoperative digital video EEG monitoring was performed at bedside using the intraoperative monitoring montage.  This was a 4-hour EEG.
+DESCRIPTION OF THE RECORD:  The recording begins with the patient in the OR.  The EEG demonstrates a relatively symmetric mixed frequency pattern with alpha frequency activity.
+The anesthesia medication is adjusted and with isoflurane at 9:27, the EEG is intermittently discontinuous.  At 9:49, the EEG has started to attenuate, but shifting asymmetry is noted.  Cooling begins at 10:26.  Even prior to the cooling, the EEG intermittently attenuates with the anesthesia and the epochs of attenuation are about 10 seconds in duration or less.
+Bypass of the cranium is recorded at 10:12.  The EEG is essentially suppressed at 10:24.  The cranial temperature is at 21.5, at 10:42.  The EEG is essentially flat at 10:37-10:40 with some electrode artifacts.  At 11:11, there is a burst of theta noted and circulatory arrest is obtained at 10:46.  The EEG is flat at that time.
+At 11:11 notes the first cerebral activity and rewarming begins at 11:11:51 at that time.  Anesthesia is adjusted.  The patient is off the pump at 11:16.  The EEG had started to return at that time.  The surgical team "empties the heart" and EEG demonstrates a discontinuous pattern at 11:40 with gradual appearance of a more continuous pattern with brief attenuations and a delta pattern. The remainder of the record includes the surgical procedure.  The EEG is more or less continuous with a lower voltage mixed delta-theta pattern.
+HR:    96 bpm
+IMPRESSION/CLINICAL CORRELATION:   EEG monitoring during this aortic bypass surgery was remarkable for a burst suppression pattern noted prior to the cooling of the patient and then a suppressed EEG pattern with cooling of the head and total suppression at 10:34.  The total bypass is noted around 10:19 with loss of the EKG and then loss of the EEG which follows.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 52-year-old male with developmental brain anomaly, right ventriculomegaly, gait ataxia, status post fall with scalp edema, abnormal LFTs and CPK.
+Medications: Unknown
+INTRODUCTION:  A digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging EEG with a lot of eye movement and muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is poorly organized.  There is a glimpse of a 10 Hz posterior dominant rhythm on the left, which seems to be disrupted on the right.  The right hemisphere is somewhat lower voltage, but the right electrodes are over the right scalp edema as well.  Shifting slowing was noted.  Prominent eye movement artifact was seen.  As the patient transitions from drowsiness to wakefulness, there is a clear asymmetry with clear disruption of faster frequency activity in the right hemisphere relevant to the left.  The patient is described by the tech is twitchy with occasional muscle twitch artifact and frequent eye movement artifact.
+Heart rate:  96 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Overall, somewhat disorganized pattern.
+An asymmetry in the right hemisphere with a lower voltage pattern and more clear disruption of faster frequency activity.
+CLINICAL CORRELATION:  There were no epileptiform features noted.  This EEG supports a bihemispheric process, which may be due to a more diffuse CNS process or metabolic features.  In addition, this EEG is also supportive of a focal process on the right involving both gray and white matter.  Previous EEGs were not available at this time for comparison.
+
+
+

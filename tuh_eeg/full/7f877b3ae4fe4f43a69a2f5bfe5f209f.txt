@@ -1,0 +1,10 @@
+MEDICATIONS:  Phenobarbital
+HISTORY:  34-year-old woman with cerebral palsy, seizure free for 12 years, but patient unable to sleep for two days.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  This is a technically satisfactory record aside from muscle and chew artifact.
+DESCRIPTION OF RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  The patient has difficulty cooperating, and is looking about frequently.  Despite this, photic stimulation did elicit a driving response.
+Heart Rate:  96 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  If epilepsy is an important consideration, a prolonged EEG or a sedated study may be of value.
+
+
+

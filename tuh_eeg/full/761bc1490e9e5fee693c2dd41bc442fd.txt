@@ -1,0 +1,11 @@
+HISTORY:  A 35-year-old male with 4-year history of epilepsy.  Seizures occur weekly.  Patient becomes unaware and then he falls with tonic-clonic activity.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11.5 hertz, 40 microvolt posterior dominant rhythm, which is symmetric and reactive to eye opening.  There is a small amount of low voltage, frontal central beta.  Hyperventilation did not activate the record.  Photic stimulation did not activate the record.
+Heart rate:  60 bpm.
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy and to further characterize this patient's epileptiform pattern, a repeat study capturing sleep is suggested.
+
+
+
+

@@ -1,0 +1,29 @@
+History:	76 YR FEMALE PRESENTED TO TUH W/ DIFFICULT SPEECH, AT DECREASED
+PO. PMHX: NSCLC (DX 2013), STAGE 4 WITH METS BRAIN. BONE CA, S/P CTX,
+STEREOTACTIC RADIATION 12/13,  HTN, TIA. PT IS FLAT. CT 2 R
+CEREBELLAR HYPODEN, LEFT FRONTAL HYPOD, AND SYLVIAN FISSURE
+Medications:	ATIVAN
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 7-8Hz posterior dominant rhythm, which
+attenuates with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  There is nearly continuous theta, and occasionally delta, activity noted
+over the left and right hemispheres independently.  The slowing disrupts the background posterior
+dominant rhythm.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+There is focal left hemisphere slowing noted intermittently throughout the recording.  No
+epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, nearly continuous, bilateral diffuse
+Focal slowing, polymorphic, intermittent, left frontotemporal
+Interpretation:
+This is an ABNORMAL EEG due to focal left hemisphere slowing superimposed on diffuse
+bihemispheric slowing. These findings suggest a structural brain lesion in the left hemisphere and
+diffuse brain injury or a toxic-metabolic effect.  No clinical or electrographic seizures are present.
+
+

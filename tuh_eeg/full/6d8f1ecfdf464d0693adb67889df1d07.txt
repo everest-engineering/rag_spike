@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  63 year old woman with severe, systemic illnesses, end-stage renal disease, prolonged hospitalization with clinical seizures on the 22nd.
+MEDICATIONS:  Darbepoetin, Daptomycin, Hydrocortisone, Keppra, Valproic Acid
+INTRODUCTION:  Digital video EEG was performed at bedside while the patient is undergoing dialysis, using standard 10-20 system of electrode placement with 1 channel of EKG.  She has tactile stimulation throughout the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a slow, mixed frequency pattern with theta and delta.  Stimulation of the patient produces muscle.  There is some spontaneous grimacing.
+HR:    114 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow pattern.
+Small amount of shifting slowing.
+Paucity of variability and reactivity.
+CLINICAL CORRELATION:  No epileptiform features are identified in this record.  This EEG supports a severe disturbance of cerebral function.  These findings may be placed in the appropriate clinical context.
+
+
+

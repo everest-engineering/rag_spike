@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 21-year-old female with multiple concussions, most recently October 6, with headaches and intermittent difficulty with concentration.
+MEDICATIONS:  Elavil, albuterol, Naprosyn.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.  It is technically satisfactory with impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm which is symmetric and reactive to eye opening.  Alpha squeak was noted.  Brief drowsiness is characterized by an increase in beta, but sleep was not sustained.
+Hyperventilation produced a small increase in amplitude of the background.  Photic stimulation elicited scant driving.
+Heart rate: 55 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  In this individual with a history of head trauma there was no background slowing noted.
+
+
+

@@ -1,0 +1,13 @@
+History:	31 YR MALE WITH CEREBRAL PALSY, SZS, GERD, DEVEL DELAYED WITH VP SHUNTS 2 REVISIONS.  PER MOM JUST CHECK HAS BEEN YRS SINCE SZ.S. PT HAD CHANGE IN MS 12/13. WAS IN HOSP.
+Medications:	PHENOBARBITAL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, photic
+Description: Waking background is characterized reaching at best a 7Hz posterior dominant rhythm, which is poorly reactive to eye opening.  Otherwise it is composed of a low voltage diffuse delta with intermittent diffuse theta burst. There appears to be some variability and reactivity in this background.  Excessive diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.  Some normal sleep architecture can be seen at times for seconds but no prolonged sleep is captured. No focal slowing.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 78.  Technical difficulties: There is a nearly continuous left eye movement artifact through the entire record impeding a clear evaluation of the frontal and temporal regions.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation: This is an ABNORMAL limited awake and drowsy EEG because of diffuse background slowing and slow alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. There are  no epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional information
+
+
+

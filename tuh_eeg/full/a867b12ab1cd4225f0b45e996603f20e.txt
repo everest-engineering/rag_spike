@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  44 year old male with palpitations and acute loss of consciousness, second syncopal event with confusion and abnormal EKG.
+MEDICATIONS:  Lovenox, Percocet, Advair
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10-Hz alpha rhythm.  This patient transitions in and out of stage I and stage II sleep with vertex wave, K-complexes, spindles and posts, and frequent transitions between wakefulness and stage II sleep.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were observed.  The disrupted sleep may be due to underlying sleep deficit, effect of medications, or other causes.
+
+
+

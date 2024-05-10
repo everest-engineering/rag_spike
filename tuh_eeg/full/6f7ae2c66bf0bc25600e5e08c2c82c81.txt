@@ -1,0 +1,25 @@
+History:	46 YR MALE WITH SZS SECONDARY HEAD TRAUMA S/P EVAC BLOOD LEFT.  9
+YRS AGO 0SH.  PT HAS ABOUT 1 SZ YR. FEELS  UNCOMFORTABLE/STUTTER/LOC/ GTC/
+TONGUE BITE/URINE INCONTINENCE/ POST CONF.  PMHX: HIV, BIPOLAR.
+Medications:	DEPAKOTE (DOESNÕT KNOW OTHERS)
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic delta activity is present in the left central region during wakefulness,
+increasing during drowsiness.  There is an asymmetry of beta activity with an increased amplitude
+over the left consistent with a breach.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left central, with associated breach
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+left central region.  This finding is indicative of a focal structural lesion in this region, which is
+consistent with the known surgery.
+

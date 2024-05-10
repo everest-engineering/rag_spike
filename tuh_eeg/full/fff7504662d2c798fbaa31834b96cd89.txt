@@ -1,0 +1,22 @@
+CLINICAL HISTORY:  This is a 40-year-old male with long history of epilepsy, poor historian but recent increase in seizures.
+
+MEDICATIONS:  Topamax. Others?
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  The patient appeared to be quite drowsy.
+
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is asleep with stage II sleep with vertex waves, K complexes, spindles, POSTs.  Electrode artifacts were noted in the early part of the record.
+
+In the transition and out of sleep, brief, bursts of rhythmic 7 Hz activity are noted from the left temporal region lasting typically 1 second in duration but on one occasion 4 seconds in duration.  These are seen exclusively on the left.
+
+Hyperventilation serves to awaken the patient, which is symmetric, reactive, 10 Hz alpha rhythm.
+
+Photic stimulation did not specifically activate the record but following hyperventilation, the patient had a brief burst of 3-5 Hz spike-and-wave activity of 1.8 seconds in duration.  This is noted just after the 7 Hz stimuli.
+
+Heart rate is 50-78 bpm.
+
+IMPRESSION:  This is an abnormal EEG due to
+1. brief burst of generalized spike-and-wave with polyspike-and-wave activity lasting less than 2 seconds.
+
+CLINICAL CORRELATION:  The rhythmic 7 Hz activity describes the left temporal region to likely represent a normal variant such as rhythmic mid-temporal theta of drowsiness.  Sleep deprivation or other cause may explain the patient's hypersomnolence.  The generalized spike-and-wave activity suggest a generalized mechanism for epilepsy and has been seen in previous studies.
+
+

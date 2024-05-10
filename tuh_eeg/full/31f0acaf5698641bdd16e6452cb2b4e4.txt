@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  63 year old woman with a past medical history of stroke x3, now presents to the hospital with chief complaint of right-sided facial numbness and trouble finding words.
+MEDICATIONS:  Morphine, Plavix, Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are not performed.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness, the posterior dominant rhythm reaches 9 Hz alpha activity.  There is additional diffuse polymorphic theta activity.   Anterior-to-posterior frequency amplitude gradient is weak.  During drowsiness, posterior dominant rhythm attenuates and increase in the amount of theta and delta activity diffusely is observed.  Hyperventilation and photic stimulation are not performed.  No epileptiform discharges are captured.
+FINDINGS:
+Mild diffuse slowing.
+No stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is an abnormal awake and drowsy 21-minute EEG due to mild diffuse slowing.  This finding indicates nonspecific cerebral dysfunction.  No epileptiform  discharges are captured.  However, stage 2 sleep is not recorded.  If clinical suspicion for seizures persists, a repeat study with stage 2 sleep may be of benefit.
+
+
+

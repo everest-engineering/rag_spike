@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 22 year old woman with epilepsy since birth, but diagnosed at age 12. Last seizure in 2007, now with staring spells and headaches as well as memory loss.
+MEDICATIONS: Topiramate
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 hertz alpha rhythm with a generous amount of beta. The patient seems quite drowsy, dropping into stage I and then stage II sleep. There are vertex waves, K-complexes, Spindles and POSTS. The patient is asleep during photic stimulation which does not activate the record. Hyperventilation produces an increase in amplitude of the background.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: There are no epileptiform features. The generous beta may be due to medications or anxiety or representing normal variant. Of note, the 2006 EEG was also normal.
+
+
+

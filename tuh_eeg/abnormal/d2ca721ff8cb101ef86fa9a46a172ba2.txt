@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 64-year-old, with a history of right hemispherectomy in 1977 and cerebral palsy as well as encephalitis, renal cell cancer, diabetes, hyperthyroidism, and schizoaffective disorders. He has a history of seizure disorders. His last seizure was about a month ago.
+MEDICATIONS:  Trileptal, Keppra, Synthroid, Glucophage, aspirin and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominance rhythm was 8.5 to 9 Hz in frequency, seen over the left hemisphere and appears to be reactive to eye opening. Over the right hemisphere, there is an attenuated posterior dominant rhythm and at times cannot be clearly seen. Drowsiness was characterized by disappearance of posterior dominant rhythm and slowing of the background and absence of eye blink artifacts.  Generalized spike and wave with highest amplitude over the left hemisphere (anterior temporal and frontal areas) at the frequency of 2-3 Hz and an amplitude of 40-80 microvolts were noted.  The burst of epileptiform activities last up to 8 seconds with no evolution or no clear clinical correlate.  There was marked attenuation over the right hemisphere with lack of normal frequencies.
+IMPRESSION:  This is an abnormal EEG due to bursts of generalized spike and slow wave discharges with a left hemispheric predominance and marked attenuation of the right hemisphere with lack of normal frequencies.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of generalized epilepsy.  A marked asymmetric in the right hemisphere is consistent with a history of right hemispherectomy.  No clinical seizures were seen during this recording.
+
+
+

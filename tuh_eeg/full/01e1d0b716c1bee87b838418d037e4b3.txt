@@ -1,0 +1,30 @@
+History:	33 YO MALE PRESENTED AFTER CODE, SHAKING, FOLLOWED BY PARALYSIS.
+R/O SUB CLINICAL SZ.
+Medications:	KEPPRA, PROPOFOL, AMPICILLIN, DEPACON
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside EEG monitoring
+Continuous EEG monitoring was performed for 55 hours from 02:07 AM on 03/14/2014 to
+03/17/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation of any activity with absence of the expected anterior to posterior gradient of
+frequencies.  The later hours of the record the EEG becomes completely attenuated.  No normal
+sleep architecture was present.
+No focal slowing is present.  During the first hours some intermittent frontal predominant spike and
+polyspike and wave. That later become more attenuated and almost disappear. The appear to
+become intermittent focal central slow waves and later disappear.
+Hyperventilation and photic stimulation were not performed.  HR was 76
+Summary of Findings:
+Attenuation
+Interpretation:
+This is an ABNORMAL 55 hours video-EEG because of diffuse background attenuation and absent
+alpha rhythm.  These findings are etiologically nonspecific indicators of severe diffuse cerebral
+dysfunction.  No clinical or electrographic seizures are present.
+

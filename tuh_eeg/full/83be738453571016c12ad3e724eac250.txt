@@ -1,0 +1,16 @@
+MEDICATIONS:  Keppra.
+HISTORY:  A 21-year-old woman with childhood epilepsy, 3 seizures in 2014, all clustering around an illness with fever.  Patient describes loss of consciousness and postictal confusion.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 hertz, 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta.  As the patient transitions into stage 1 sleep, the EEG is somewhat disorganized, but POSTS and a handful vertex waves were noted.  In addition, in the transition to sleep, there are some subtle sharply contoured transients noted in the left mid temporal region.
+Hyperventilation was performed early in the record, which produced some artifact, an increase in amplitude of the background and a well defined left anterior temporal spike with a generous field of spread.
+Photic stimulation elicited vigorous driving with harmonic and supra-harmonic driving at essentially all flash frequencies.
+Heart rate 70 bpm.
+IMPRESSION:  Abnormal EEG due to:
+A left anterior temporal spike with rare subtle underlying sharp waves noted in drowsiness.
+CLINICAL CORRELATION:  This patient demonstrates multiple normal variants including a vigorous supra harmonic driving and rhythmic midtemporal theta of drowsiness.  The left temporal spike with the others subtle sharp waves however suggest a
+localization related mechanism for epilepsy.  Comparison with previous studies may be of value.
+
+
+
+
+

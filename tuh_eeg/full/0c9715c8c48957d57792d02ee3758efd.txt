@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 52-year-old woman with adult onset complex partial epilepsy and orthostatic hypotension.  Previous EEG monitoring demonstrated seizures for which, the patient has no aura, but she continues to have positional lightheadedness and 1 episode where her leg gave out at an outpatient study.
+MEDICATIONS: Oxtellar, Vimpat, Xanax
+INTRODUCTION:  Digital video EEG was performed in the cardiology suite using standard 10-20 system of electrode placement with one channel of EKG.  This EEG included a 15-minute baseline followed by 32 minutes of a tilt-table test.  During the tilt-table test, the patient was not symptomatic, did not identify any lightheadedness.  Of note, however, abruptly with a tilt, she did have a brief drop in blood pressure and increase in heart rate.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake, resting comfortably with a 9 Hz posterior dominant rhythm.  There is intermittent, shifting theta noted from either temporal regions.  At 3:02 p.m., the patient stands upright.  The heart rate increases from 60 bpm to greater than 100 bpm with a drop in BP from 90/50 or 80/40 to 70.  The patient was not symptomatic.  She remained standing throughout the test for 32 minutes and then was gently laid flat.  No clinical symptoms occurred.
+Heart rate 60-100 bpm.
+IMPRESSION:  This is a mildly abnormal study due to some baseline shifting and temporal slowing.
+CLINICAL CORRELATION:  No significant hemodynamic changes were noted, and there were no relevant changes noted in the EEG.  The background changes described above have been previously noted in this patient with a known diagnosis of complex partial epilepsy.
+
+
+

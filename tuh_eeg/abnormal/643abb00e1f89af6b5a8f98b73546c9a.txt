@@ -1,0 +1,33 @@
+CLINICAL HISTORY:  27 year old right handed woman with seizures versus nonepileptic seizures.
+MEDICATIONS:  Zonisamide, Topamax.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   Hyperventilation and photic stimulation are performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz 50 mV alpha rhythm and a small amount of low voltage frontal central beta. Brief fragments of stage I sleep include vertex waves, followed by arousal.
+Photic stimulation is performed as the patient is starting to transition in and out of sleep and does not significantly activate the record. Hyperventilation produces a small increase in amplitude of the background.
+HR:    66 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were observed.  Sleep deprivation might produce the changes described above.
+LONG TERM MONITORING - # 12-72 – 06/19/2012 to 06/20/2012
+INTRODUCTION:  Continuous video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  The patient recalls 3 episodes.  The first is on the 19th at noon where she felt a little startled.  The second was at 10 p.m. where she felt a mini aura characterized by tingling sensation on her face.  She did not recall an episode at 5:25, although she did push the button for a tingling sensation.
+DESCRIPTION OF THE RECORD:  Random wakefulness and sleep includes a well-organized 10 Hz alpha rhythm with a small amount of low-voltage frontocentral beta activity.
+Event time 11:22:  There is a burst of rhythmic left temporal theta delta with frequency evolution.  This is 5 seconds in duration.  There is no push button at that time.
+Event time 5:25:20 p.m.:   A burst of rhythmic theta, frequency was subtle, frequency evolution lasting only 3 seconds.  Thirty seconds later the patient reports the mini-aura which she no longer recalled.
+Event time 9:58 p.m.  No abnormalities on the EEG were identified at that time.
+Event time10:25 a.m.:  There was another burst lasting 4 seconds in duration in the morning on the 20th which is similar to the 2 prior bursts.   No clinical features were recalled.
+HR:    60 bpm
+INTERVAL IMPRESSION:  There are 3 bursts of rhythmic theta from the left temporal region with frequency evolution.  These are concerning as a potential interictal epileptiform discharge.  They may also be clinically significant with the mini-auras that the patient experienced.
+LONG TERM MONITORING - # 12- 72 – 06/20/2012 TO 06/21/2012
+DESCRIPTION OF THE RECORD:  In wakefulness there is a well defined 10 Hz alpha rhythm.  This is a sleep deprived record.  Around 10:00 p.m. the patient seems to be trying to stay up.  The EEG demonstrates small EPOCHS where the patient seems to be drowsy.   Stage II sleep includes vertex waves, K-complexes, and spindles. The data is reviewed for the clinical symptoms that the patient experienced, but no epileptiform features are identified.
+HR:    66 bpm
+LONG TERM MONITORING - # 12-72 – 06/21/2012 TO 06/22/2012
+INTRODUCTION:  Continuous video EEG monitoring was performed using standard 10-20 system of electrode placement with one channel EKG.  The patient reported an aura at 8 p.m. on the 21st.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Around 8 p.m., the patient is noted to transition in and out of stage 2 sleep, waking up and falling back asleep.  Fragments of deeper stages of sleep are noted overnight.
+No electrographic seizures were identified.  The seizure and spike detector did not identify any other epileptiform abnormalities.
+Event time 11:55:  The patient pushes the button at 11:56:12 stating that she feels as if she is about to have an aura.  She puts her hand to her chest and later appears to be tearful.  The EEG is awake at this time.  No epileptiform features were noted.   For her 8:00 p.m. the patient reported symptoms that her throat was closing with the seizure.
+
+HR:    60 bpm
+IMPRESSION:  Continuous digital video EEG monitoring session was remarkable for:
+3 bursts of rhythmic, paroxysmal theta, all less than 4 seconds in duration, but with frequency evolution.
+CLINICAL CORRELATION:  This patient's clinical symptoms did not appear to be associated with well-defined epileptiform abnormalities.  On one day, however, there were discharges which appear epileptiform in nature.  While this patient did not have any of her larger spells with head turning, a feeling as if her throat was closing or impairment of awareness, this record does not exclude a diagnosis and clinically, diagnosis may be considered.
+
+
+

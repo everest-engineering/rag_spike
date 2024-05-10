@@ -1,0 +1,27 @@
+History:	59 year old male who presents with a TBI.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Description:
+During maximal arousal/ with stimulation patient's background improves and consists of 8 Hz
+polymorphic theta activity posteriorly with no discernable AP gradient and polymorphic delta
+activity anteriorly.  There is more prominent EMG artifact over the left hemisphere.  Patient very
+rapidly transitions into sleep.  Sleep consists of attenuated background with frequent diffuse sleep
+spindle-like waveforms that are most prominent over bilareral frontocentral regions, left>right.
+There appears to be paucity of faster frequencies over the right hemisphere.
+A single EKG lead demonstrates heart rate up to 120 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, continuous, right hemispheric
+Interpretation:
+This is a 20-minute abnormal EEG due to mild-to-moderate diffuse slowing that appears to be
+more pronounced over the right hemisphere. Diffuse slowing is indicative of mild to moderate
+diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing is
+suggestive of a focal structural lesion in the right hemisphere.  However, the degree of focal right
+hemispheric slowing could be overestimated since there is more EMG artifact over the left
+hemisphere.  No electrographic seizures are present.
+
+
+

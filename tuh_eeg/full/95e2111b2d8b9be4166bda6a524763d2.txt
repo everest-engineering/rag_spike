@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 59-year-old, right-handed gentleman, status post OHT, 03/21/2015 with complications.  Patient started dialysis, April 1, now with encephalopathy and jittery movements.
+MEDICATIONS:  Prednisone, heparin, CellCept, Mepron, Prograf, cefepime, phenylephrine, many others.
+INTRODUCTION:  A 20-minute digital video EEG without EKG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were typically under 5 kilohms.  The patient was able to open his eyes and look at the technologist, but was not able to respond.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow pattern with rhythmic theta mixed with delta, and occasional triphasic waves.  Eye movement artifacts were noted.
+Heart rate: N/A.
+IMPRESSION:  Abnormal EEG due to,
+Generalized background slowing.
+Triphasic waves.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The generalized slowing and the triphasic waves are both characteristics of atoxic or metabolic encephalopathy.  No epileptiform features were noted.  A routine bedside portable EEG showed __________ EKG lead.
+
+
+
+
+

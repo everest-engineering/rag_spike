@@ -1,0 +1,30 @@
+: History:	69 year old female who presents with focal status epilepticus.
+Medications:	Keppra, Dilantin Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes,  lethargic
+
+Continuous bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for -7 hours on 04/27/2014.    Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.
+Periods of the background discontinuity are present.  No normal sleep architecture was present.
+
+Intermittent polymorphic delta activity is present in the right posterior temporal region.  Continuous sharp waves with after going slow waves, polyspikes and periodic lateralized epileptiform discharges (PLEDs) are present in the T6 region at a repetition rate of 1 Hz.  No clear electrographic seizures are present.
+
+
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, intermittent, severe, right temporal, posterior No electrographic seizures
+PLEDs (periodic lateralized epileptiform discharges), continuous, right temporal, posterior Spikes and sharp waves, continuous, right temporal, posterior
+
+Interpretation:
+This is an ABNORMAL -7 hour continuous video EEG due to (1) moderate diffuse slowing; (2) intermittent focal severe right posterior temporal slowing and (3) continuous epileptiform discharges emanating from the right posterior temporal region that are often rhythmic (1 Hz PLEDs). These findings are indicative of a highly epileptogenic focal structural lesion in the right posterior temporal region.
+Etiologically nonspecific moderate diffuse cerebral dysfunction is also present.  No clinical or electrographic seizures are observed.
+
+
+
+

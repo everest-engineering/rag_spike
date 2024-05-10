@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  56 year old right handed male admitted on 6th after witnessed tonic-clonic seizure with persistent postictal state.
+MEDICATIONS:  Norvasc, Ativan.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake.  Initially, the background EEG is well organized with a 7.5 Hz alpha rhythm.  In addition, there are intermittent bursts of irregular, shifting, and relatively generalized mixed theta-delta.  Mixed in those bursts are a handful of sharp waves in the right hemisphere, which are somewhat poorly defined, but subsequently will demonstrate a T2 and T4 phase reversal.  As the recording continues, the patient's alpha rhythm sometimes exceeds 8.5. Hyperventilation produces a small amount of slowing. Photic stimulation did not significantly activate the record.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to
+Slowing of the alpha rhythm, which improved somewhat over time.
+Intermittent bursts of irregular, bilateral slowing.
+Rare, subtle, and underlying sharp waves in the right hemisphere particularly midtemporal.
+CLINICAL CORRELATION:  The dynamic features described above may be a part of an acute, postictal process.  Additional EEG recording may be helpful to more definitively outline epileptiform activity for this individual.
+
+
+

@@ -1,0 +1,36 @@
+History:	58 year old man with a history of lymphoma and increase in seizure frequency.
+Medications:	KEPPRA, ATIVAN, DEPAKOTE
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~13 hours from ~7 pm on 12/16/2013 to ~8 am on
+12/17/2013.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the attending
+neurologist.   The Gotman spike and seizure detection algorithm (Stellate) was used to screen the
+EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+The posterior dominant at best consists of polymorphic moderate amplitude 6-7 Hz activity  There
+is no clear AP gradient.  Additional, polymorphic diffuse theta and delta activity is noted.  During
+sleep, symmetrical sleep spindles are noted.
+Multiple electrographic seizures are captured. They last on average ~ 100-120 seconds and tend
+to occur in clusters, with seizures occurring every 5-10 minutes during the seizure cluster.  Seizures
+start with low amplitude sharply contoured fast activity in Fp1 electrode that gradually increases in
+frequency and decreases in amplitude and evolves into rhythmic 8-9 Hz sharp activity.  Seizure
+remains primarily within Fp1 electrode with some  minimal spread vs reflection into Fp2 electrode.
+Video review does not provide adequate assessment of the patient during the events.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Seizure, frequent, left frontal
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL continuous 13-hour video EEG due to moderate diffuse background slowing
+and frequent left focal frontopolar seizures that often occur in clusters. Diffuse slowing is indicative
+of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  There is epileptogenic
+focus in the left frontopolar region.  The results were conveyed to the primary team.
+
+

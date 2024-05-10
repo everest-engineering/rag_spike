@@ -1,0 +1,36 @@
+AGE: 114 y.o.
+SEX: male
+DATE OF STUDY: 12/03/2015
+RECORDING ENVIRONMENT: inpatient EEG TYPE: 20-40 min,
+EEG #: 151763
+HISTORY:
+114 y.o. male with a history of HIV, hepatitis C and end stage renal disease referred for routine EEG for assessment of mental status change.	Patient found down.
+Demonstrated white cells in CSF
+MEDICATIONS:
+Keppra is the only medication listed SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically challenging bedside portable record and included a single channel of EKG and generous muscle artifact.
+EEG BACKGROUND:
+The waking background is obscured by muscle and artifact. Underneath this, there is a slow background with 1-2 Hz diffuse delta and some frontally predominant delta
+Sleep is not achieved
+No generalized slowing is present.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+Hyperventilation : Hyperventilation is not performed.
+Photic Stimulation : Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 90 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal bedside portable routine EEG.
+1. technically limited but generalized slowing is identified
+CLINICAL CORRELATION:
+This EEG is most supportive of a diffuse, bihemispheric disturbance of cerebral function. This may include a toxic or metabolic encephalopathy or other diffuse CNS process
+This EEG does not support or refute the diagnosis of epilepsy.
+
+
+

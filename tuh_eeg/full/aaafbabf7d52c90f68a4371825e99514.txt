@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  The patient is a young woman with previous cranial resection, transferred from an outside hospital with recurrent seizures and CT scan abnormality, now awake.  The patient was reported to have had two simple partial seizures the night before.
+MEDICATIONS:  Phenytoin (stopped), Keppra, Depakote, Baclofen, famotidine and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake and drowsy record in a relatively drowsy adult.
+DESCRIPTION OF THE RECORD:  In brief wakefulness, the activity from the left hemisphere is reasonably well organized with a glimpse of a 9 to 10 Hz alpha rhythm with a small amount of background data on the left.  The record is relatively low voltage on the left.  The right hemisphere demonstrates continuous arrhythmic delta activity, a breech rhythm with higher amplitude sharply contra delta.  There are occasional sharp waves noted in this background, including T6, T4, P4.
+With stimulation, the patient clearly produces a response.
+Heart rate is 66 bpm.
+IMPRESSION:
+This is an abnormal EEG due to:
+1.	Continuous focal slowing from the right hemisphere.
+2.	High amplitude irregular delta of the right hemisphere.
+3.	Occasional rhythmic slowing from the right hemisphere.
+4.	Sharp waves noted in the right mid to posterior temporal region, as well as parietal region.
+CLINICAL CORRELATION:
+This record is similar to previous studies.  The activity from the left is not as slow as previous occasions.  No clinical seizures were noted.
+
+
+

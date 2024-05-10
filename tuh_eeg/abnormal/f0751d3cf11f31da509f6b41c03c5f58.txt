@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   54 year old left handed woman with history of several episodes of vertigo and nausea and loss of consciousness with confusion.
+MEDICATIONS:  Antivert, Meloxicam, Lorazepam, Naproxen, Venlafaxine, Duloxetine, Prilosec, Lipitor, ASA
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+LENGTH OF RECORDING:  25 minutes.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of well-formed and regulated 9 Hz alpha that attenuates with eyes open.  There is an anterior-to-posterior frequency amplitude gradient.  Voltages are diffusely low.  Excess beta is present throughout the recording.  During sleep, vertex waves, sleep spindles and K complexes are present.  Hyperventilation produces symmetric bursts of theta and delta and photic stimulation induces symmetric occipital driving at medium-to-high range flash frequencies.  Regular heart rate is noted on the single EKG lead.
+FINDINGS:
+No epileptiform discharges.
+Stage 2 sleep.
+Excess beta.
+IMPRESSION:  This is a normal awake and asleep 25-minute EEG.  Excess beta could be secondary to medication effect such as benzodiazepines or barbiturates.  The lack of epileptiform discharges on a routine EEG does not exclude a clinical diagnosis of epilepsy.
+
+
+

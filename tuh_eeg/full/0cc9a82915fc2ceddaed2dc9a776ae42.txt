@@ -1,0 +1,44 @@
+History:	56 year old who presents with new onset seizures and change in mental status.
+Medications:	KEPPRA, 2MG ATIVAN IV PUSH
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left hemisphere consist of low-to-moderate amplitude well formed and
+regulated 10 Hz PDR with preserved AP gradient.  The background over the right hemisphere is
+attenuated, especially over the lateral leads; PDR is unstable and fragmented at 9-10 Hz with poor
+AP gradient.  Additional polymorphic delta activity is present over the right temporal and right
+occipital  regions.  During sleep symmetrical vertex waves and sleep spindles are noted.
+Intermittent moderate amplitude left temporooccipital sharp waves with after going slow waves are
+captured.  Maximal scalp negativity occurs over the T5/O1 electrodes.  Independent, very low
+amplitude fast activity that occurs in 0.75-1 second bursts is seen intermittently over the left
+occipital region (over O1 electrode).  Three focal ~ 3 minute long seizures are captured.  First two
+seizures are clinical and the third seizure, that occurs ~ 10 minutes after Ativan IVP, is subclinical.
+Clinically, seizures are characterized by an awake patient with gaze deviation to the  left, head
+turning to the left with some bod rotation to the left as well as noticeable left arm drift.  Patient
+answers "yes" and "okay" during the seizure as well as closes his eyes upon command.  He tries to
+easily redirectable.  Seizure #1 and #3 are similar electrographically in onset, starting with irregular
+polymorphic moderate amplitude theta activity over the right midtemporal/posterior quadrant that
+gradually evolves into rhythmic ~8 Hz theta activity.  Seizure #2 starts with very focal low amplitude
+fast activity over the right occipital region (O2 lead).  Seizures #1 and #2 ultimately evolve in a
+similar fashion, at first into high amplitude rhythmic 13-14 Hz activity that gradually decreases  in
+frequency (into delta range) and spreads diffusely.  Seizures #3 remains confined to the right
+posterior temporal/ posterior quadrant with rhythmic activity evolving only into theta- alpha range.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Seizure, few, right, temporal/ occipital
+Focal slowing, polymorphic, continuous, moderate, right, temporal-occipital
+Sharp waves, intermittent, left, temporal-occipital
+Polyspikes, intermittent, right occipital, bursts of very low amplitude fast activity
+Interpretation:
+This is a very abnormal awake and asleep 41 minute EEG due to moderate right temporooccipital
+focal slowing, independent intermittent left temporooccipital epileptiform discharges, bursts of right
+occipital fast activity and three ~ 3-minute focal right temporooccipital seizures, two of which are
+clinical and characterized by forced gaze and head deviation to the left, left arm drift and seemingly preserved awareness and ability to follow simple commands.  There is focal get up during the first seizure but is
+epileptogenic structural abnormality in the right temporooccipital region, likely cortical.  There is
+an additional independent focal cerebral abnormality, likely structural in etiology and potentially
+epileptogenic.  These findings were conveyed to the primary team at the time of the recording and
+patient will be placed on continuous long-term EEG monitoring.
+

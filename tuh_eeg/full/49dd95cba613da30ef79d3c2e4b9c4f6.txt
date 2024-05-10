@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 75-year-old gentleman, who was admitted to hospital on 04/07/2013, with shortness of breath, status post PEA code for about 50 minutes.
+PAST MEDICAL HISTORY:  Coronary artery disease, hypertension, diabetes, hyperlipidemia, and cardiomyopathy.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In the comatose state, there is a very low voltage EEG due to lack of invisible cerebrally generated activity.  There is no definite cerebral activity even when recorded at high sensitivity.  EKG artifact is present.  There are unknown artifacts that might be due to ventilator.  Heart rate was 60 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording due to absence of cerebral activity even when recorded at a high sensitivity.
+CLINICAL CORRELATION:  Although this EEG was not obtained on the brain death EEG protocol, a low-voltage EEG due to lack of visible cerebrally generated activity is suggestive of severe anoxic encephalopathy.  Clinical correlation is recommended.  There are unknown artifact that might be due to ventilator.  The way to eliminate such artifacts and prove that activity is not present, if clinically required, would be to use a paralytic.
+
+
+

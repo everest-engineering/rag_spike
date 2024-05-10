@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  73 year old right handed woman with a right MCA stroke, left hemiparesis, progression of a right MCA infarction and then seizure.  The patient had recurrent seizures on the 26th and received Ativan at 11:30 a.m.
+MEDICATIONS:  Ativan, Keppra, Cipro, Lovenox
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent.  This EEG was performed at 4:36, several hours after the patient's clinical seizure. The patient is sedated.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a markedly abnormal pattern.  There is a periodic complex with some bilateral representation but primarily a periodic complex in the right hemisphere.  It is polyphasic in nature.  It may be maximum at T4 or C4.  There are also some sharp waves noted in the left frontal region.  Review of the epileptiform activity in an average referencing demonstrates a discharge maximum in the right hemisphere with variability, typically starting in the right centroparietal region but transitioning to the frontal region.  This is a PLEDS + pattern with some frequency evolution.  No clinical features are noted with the more prolonged bursts.  Of note, stimulation of the patient seems to produce a brief electrode detrimental response and then afterward the patient demonstrates lip smacking in association with these spells.
+HR:    123 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+A PLEDS + like pattern.
+A question of a clinically significant seizure with lip smacking noted following tactile stimulation.
+CLINICAL CORRELATION:  Ongoing assessment is essential for this individual as the clinical behaviors with tactile stimulation may represent an echo behavior.
+
+
+

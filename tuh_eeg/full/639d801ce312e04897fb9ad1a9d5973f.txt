@@ -1,0 +1,26 @@
+History:	33YO MALE PMH: ESRD ON DIALYSIS , HTN, LAST SEIZURE WAS IN 12/11.
+BROUGHT TO ED FOR CARDIAC ARREST.PT STOPPED BREATHING AND
+HEART STOPPED LASTING 20 MINUTES.
+Medications:	NITROPRUSSIDE, FENOLDOPAM, SODIUM CHLORIDE
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose, hyperventilation, photic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by an almost
+completely suppressed electrocerebral activity with absence of the expected anterior to posterior
+gradient of frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  Intermittent irregular high amplitude frontal predominant generalized
+poly-spike and wave discharges lasting 1-2 seconds with associated blinking eye movement most
+consistent with myoclonus.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  An almost continuous ventilator
+artifact was present.  HR was 114.
+Summary of Findings:
+Polyspike-and-wave complexes, intermittent generalized
+Attenuation, severe diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  frequent generalized frontal predominant polyspike-and-
+wave discharges with associated eye myoclonus and  diffuse severe background attenuation. This
+findings are indicative of severe diffuse cortical dysfunction and irritability. In the setting of hypoxic
+injury these findings forebode a poor prognosis.
+

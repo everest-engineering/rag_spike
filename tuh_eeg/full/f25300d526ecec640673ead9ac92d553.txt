@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 60-year-old woman with COPD, transferred from the medicine service to the neuro ICU after left occipital hemorrhage.  Imaging demonstrates PRES.
+MEDICATIONS:  Fentanyl, Depakote, and diltiazem.
+INTRODUCTION:  Digital video EEG is performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a technically satisfactory, 20minute record for obtunded, intubated patient.
+DESCRIPTION OF THE RECORD:  The initial sections of the record are markedly abnormal with a chaotic, disorganized background.  Superimposed upon this are high amplitude occipital sharp waves and spikes, maximum at O2.  With utilization of a circle montage, this activity is clearly maximum on the right.  In addition, there is some right frontal sharp waves and occasionally some left temporal sharp waves with phase reversal at T5.
+In the initial sections of the record, although the sharp waves and spikes do not clearly evolve, there is subtle underlying rhythmic theta noted from the right occipital region.  During the EEG, 2 mg of Versed was administered.  The Versed rapidly ameliorates the epileptiform activity, and the EEG transforms to a lower voltage slow, featureless delta pattern with smaller amounts of beta and theta.  In addition, there are intermittent attenuations.  Even after the administration of the Versed, there is some underlying sharp waves are periodic slowing noted in the right parietooccipital region.
+Heart rate 72 bpm.
+IMPRESSION:  This is a markedly abnormal bedside portable EEG due to:
+Markedly abnormal background, which is quite disorganized.
+Complex epileptiform activity with more than 1 phase reversal in the right hemisphere including right occipital, but also right anterior temporal.
+Left posterior temporal sharp waves.
+Superimposed focal slowing, which at some point is more remarkable in the right occipital region than the left.
+Clinical Correlation:  Based on these findings, long-term EEG monitoring was initiated to exclude subclinical status epilepticus.
+
+
+

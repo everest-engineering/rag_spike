@@ -1,0 +1,25 @@
+History:	35 year old man who found having seizures.  PMH is notable for dialysis, HTN,
+Medications:	Depakote, Ativan, propofol
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of polymorphic low
+amplitude theta and delta activity with diffuse overriding alpha activity that is seen predominantly
+in the anterior leads.  Occasional periods of discontinuity are seen.  There is intermittent movement
+artifact and there is nearly continuous right hemispheric low amplitude EMG artifact.
+No electrographic seizures are seen.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL portable 22-minute EEG due to moderate diffuse slowing. This finding is
+indicative of  moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  However,
+based on the waveforms seen, at least some degree of slowing is medication induced (propofol
+specifically).  These findings were conveyed to the neurology resident on-call.
+
+
+
+

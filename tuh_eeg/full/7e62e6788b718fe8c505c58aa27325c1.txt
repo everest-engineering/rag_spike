@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 47-year-old male with essential tremor, now with episodes when he becomes rigid, tremulous and dysarthric.  The events last several minutes.
+MEDICATIONS:  Keppra, simvastatin, many others, Norvasc.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.  Impedances were acceptable.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes the symmetric reactive alpha rhythm of 11 Hz.  Generous beta activity was noted.  Central mu activity was identified, but testing was not performed to confirm this.  Drowsiness was characterized by an increase in beta and theta.  Drowsiness was not sustained.  Hyperventilation produced an increase in amplitude of the background.  Photic stimulation did produce a vigorous driving response at 15 Hz.
+Heart rate 60 BPM.
+IMPRESSION:  This EEG is remarkable for generous beta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The generous beta can be seen in the context of medication administration as well as the use of benzodiazepines.  No epileptiform features were identified.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 84 year old woman with epilepsy partialis continua, past history of cerebellar hemorrhage and thalamic stroke. Intubated and poorly responsive.
+MEDICATIONS: Valproic Acid, Keppra, Gentamicin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is moving about.
+DESCRIPTION OF THE RECORD: This is a very low-voltage, relatively featureless pattern. It is intermittently obscured by muscle artifact. There is some very low voltage, slow delta, and muscle artifact noted. Stimulation of the patient produces an increase in muscle.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. A challenging but low voltage, suppressed EEG.
+CLINICAL CORRELATION: No epileptiform features have been identified in these EEGs. In this markedly suppressed individual, this patient's movements, or epilepsy partialis continua may not carry an electrographic signature.
+
+
+

@@ -1,0 +1,30 @@
+History:	PRIOR EEG/// FOLLOW UP ON PT WITH H/O EPISODES OF LOSS OF
+AWARENESS LASTING SEC, LAST EPISODE X 1 MONTH AGO LASTING ONLY
+SEC. 2/11/14 FOLLOW UP EEG, PT CLAIMS "MEDS ARE HELPING"
+Medications:	KEPPRA, DILANTIN, ASA 81, VIT B-12, CALC 600 WITH VIT D-3
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by an 8.5 Hz alpha rhythm, which attenuates symmetrically
+with eye opening.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.  There is
+excess 7 Hz theta activity during wakefulness.  As drowsiness progresses, symmetric vertex waves
+Intermittent polymorphic delta activity is present in the left anterior and mid temporal region during
+wakefulness, increasing during drowsiness.  Rare focal spike-and-wave discharges are present in the
+left temporal region.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR is
+Summary of Findings:
+Spike-and-wave complexes, few, left temporal
+Focal slowing, polymorphic, intermittent, left temporal
+Diffuse slowing, rhythmic
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of diffuse background slowing.  These
+findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.  intermittent
+focal slowing in the left temporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.  frequent epileptiform discharges in the left temporal region.
+These findings are indicative of a potentially epileptogenic focus in this region, and given the
+clinical history of partial seizures, are consistent with a diagnosis of localization-related epilepsy.
+
+

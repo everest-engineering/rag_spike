@@ -1,0 +1,34 @@
+History:	61 year old woman with change in mental status.
+Medications:	Phenytoin, vancomycin, versed, Trileptal, baclofen
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 12/25/2013 till 12/26/2013.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+The Gotman spike and seizure detection algorithm (Stellate) was used to screen the EEG in real
+time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta >theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  There are frequent periods of discontinuity.  No normal sleep architecture is present.
+There is subtle paucity of faster frequencies over the right hemisphere.  No electrographic seizures
+are captured.
+Summary of Findings:
+Focal slowing, polymorphic
+No electrographic seizures
+Diffuse slowing, polymorphic
+Discontinuous background, frequent
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG because of moderate-to-severe diffuse
+background slowing with subtle slowing over the right.  Diffuse slowing is indicative of moderate to-
+severe- diffuse cerebral dysfunction, which is etiologically nonspecific.  Focal slowing indicates
+focal cerebral dysfunction, possibly structural in etiology.  No clear electrographic seizures are
+captured.  These findings were conveyed to the neurology consult team and the primary  team.
+
+
+

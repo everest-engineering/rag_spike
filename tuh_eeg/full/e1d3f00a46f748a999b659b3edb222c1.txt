@@ -1,0 +1,26 @@
+History:	63 year old woman with a brainstem stroke.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of polymorphic theta> delta
+activity.  There is continuous excess EMG artifact over the right midtemporal leads.  No normal
+sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+No reactivity
+Artifact, EMG, continuous, right temporal
+Interpretation:
+This is an abnormal comatose portable 21-minute EEG due to moderate diffuse slowing and lack of
+clear background reactivity. These findings are etiologically nonspecific indicators of moderate
+diffuse cerebral dysfunction.  Presence of continuous excessive EMG artifact over the right temporal
+leads makes interpretation of the right temporal activity unreliable.
+
+
+
+
+

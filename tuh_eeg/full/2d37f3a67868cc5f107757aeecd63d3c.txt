@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 58-year-old male with hepatitis C, obstructive sleep apnea, schizoaffective disorder, epilepsy, and intermittent confusional spells.
+MEDICATIONS:  Flexeril, Keppra, Neurontin, Flomax, Lyrica, Cogentin, oxycodone, Xanax, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel of EKG.  The patient was noted to be extremely sleepy, falling asleep in both hyperventilation and photic stimulation with snore artifact.  This was a technically acceptable EEG with appropriate impedances.
+DESCRIPTION:  In very brief wakefulness, there is a 9 Hz posterior dominant rhythm.  Drowsiness is characterized by slowing of the posterior dominant rhythm.  Hyperventilation serves to alert the patient.  Photic stimulation elicits a vigorous driving response despite the fact that the patient is transitioning in and out of stage 2 sleep with vertex waves, spindles, and POSTS.
+Heart rate:  48 bpm.
+IMPRESSION:  This EEG is remarkable for hypersomnolence.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal morphologies for wakefulness through stage 2 sleep were noted.  If epilepsy is an important consideration then a followup study may be of value.
+
+
+

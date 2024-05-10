@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 56 year old male with multiple seizures, secondary to noncompliance with medicine, complicated by polysubstance abuse.
+MEDICATIONS: Lorazepam, Fosphenytoin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake, but he is humming.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a marked interhemispheric asymmetry. At times, the activity on the right is nearly normal, with posterior dominate rhythm of 9 Hz. The left hemisphere demonstrates continuous focal slowing in the left anterior temporal region with essentially continuous left anterior temporal sharp waves and spikes. Maximum at T1 and F7. These do not evolve. An episode of humming is not associated with an ictal pattern. Features of drowsiness included increase in background slowing.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Continuous focal slowing from the left anterior temporal region.
+2. Left anterior temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a highly epileptiform focus. If the patient continues to have behaviors which may represent seizures, additional EEG recording may be appropriate.
+'
+
+
+

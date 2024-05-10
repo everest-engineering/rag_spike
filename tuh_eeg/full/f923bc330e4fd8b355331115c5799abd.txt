@@ -1,0 +1,32 @@
+History:	35 year old woman who was found to have left transverse sinus thrombosis.
+Medications:	TOPIRAMATE, LAMICTAL,  CELEXA,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left.  The posterior
+dominant rhythm consists of 10-11 Hz alpha activity with expected AP gradient.  Subtle underriding
+diffuse theta activity is captured.  Continuous polymorphic sharply contoured theta and delta
+activity is noted over the left, especially over the left frontotemporal central region.  No clear
+epileptiform discharges are captured but occasional left TIRDA (temporal intermittent rhythmic
+delta activity) is captured.  Patient is able to perform tasks throughout the activity.  During
+drowsiness, the alpha rhythm attenuates, and degree of theta activity increases.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+TIRDA (temporal intermittent rhythmic delta activity), occasional, left
+Focal slowing, polymorphic, continuous, moderate, left, primarily frontocentral temporal
+No electrographic seizures
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG due to (1) mild diffuse slowing and (2) continuous
+left frontocentral temporal that is at times rhythmic over the temporal region (TIRDA (temporal
+intermittent rhythmic delta activity)). Diffuse slowing is indicative of mild diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a focal
+structural lesion in the left.  TIRDA (temporal intermittent rhythmic delta activity) indicates an
+increased epileptogenic potential emanating from the left temporal region.  No clinical or
+
+
+
+

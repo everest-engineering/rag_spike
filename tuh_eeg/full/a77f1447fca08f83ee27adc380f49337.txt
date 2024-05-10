@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  49 year old right-handed woman with chronic back pain for several months now with syncopal spells characterized by staring and shaking.
+MEDICATIONS: None listed in chart
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with one channel of EKG.  Photic simulation was performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is an 8.5 alpha rhythm, but there is excess background theta.  In drowsiness there was some isolated left temporal focal mixed theta-delta. Photic stimulation elicits bilateral driving.
+HR:	72 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Excess theta.
+2.  Rare Left temporal irregular slowing
+CLINICAL CORRELATION:   It is important to know whether or not this patient is receiving medications which might produce the pattern described above.  The rare left temporal focal slowing may be correlated with imaging.
+
+
+

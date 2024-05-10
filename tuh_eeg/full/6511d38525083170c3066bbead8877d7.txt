@@ -1,0 +1,45 @@
+AGE: 34 y.o.
+SEX: male
+DATE OF STUDY: 09/15/2015 RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: routine, awake and asleep EEG #:   15-1355
+HISTORY:
+34 y.o. male referred for routine EEG as a follow up study. He has a history of 3 GTC seizures; last of which was in 2007.
+MEDICATIONS:
+Current Outpatient Prescriptions :
+gabapentin (NEURONTIN) 600 mg tablet, Take 600 mg by mouth 3 times daily.
+oxcarbazepine (TRILEPTAL) 600 mg tablet, 600mg in am and 600mg in pm
+METHADONE HCL (METHADONE PO), Take 100 mg by mouth .
+ibuprofen (ADVIL,MOTRIN) 800 mg tablet, TAKE 1 TABLET BY MOUTH EVERY 8 HOURS WITH FOOD AS NEEDED
+Quetiapine (SEROQUEL) 100 mg tablet, Take 100 mg by mouth nightly
+as needed.
+paroxetine (PAXIL) 30 mg tablet, Take 30 mg by mouth every morning.
+hydroxyzine (VISTARIL) 50 mg capsule, Take 50 mg by mouth 3 times daily as needed.
+loratadine (CLARITIN) 10 mg tablet, Take 10 mg by mouth daily. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+During brief periods of wakefulness, the waking background is characterized by the presence of a suboptimally organized symmetric mixture of alpha, beta, and theta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR)•
+Much of the study captures drowsiness.During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and further diffuse background slowing, with higher amplitude theta and delta frequencies, are seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+There is mild generalized slowing. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation :Hyperventilation is performed for 180 seconds with good cooperation and produces background slowing with occasional bilaterally synchronous, sharply-contoured slow waves. There are no definite sharp waves seen.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 48 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG due to:
+Excess theta activity in wakefulness
+Suboptimal organization
+CLINICAL CORRELATION:
+These findings indicate mild diffuse cerebral dysfunction
+
+
+
+

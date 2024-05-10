@@ -1,0 +1,26 @@
+CLINICAL HISTORY: 47 year old right handed male with numbness in 2 fingers of the
+right hand following biopsy of a left-sided brain tumor in recent weeks.
+
+MEDICATIONS: Keppra
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+stimulation are performed. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a
+well-organized background with an 8.5 Hz alpha rhythm. Hyperventilation is performed
+early on in the record producing bursts of rhythmic frontal delta some of which are a
+little more generous on the right than the left. Features of drowsiness include an
+increase in background slowing. Following hyperventilation, the patient remains
+relatively awake but with frequent eye blink artifact. Brief drowsiness includes bursts of
+rhythmic frontal delta, again somewhat confounded by the artifact. Photic stimulation
+elicits scant driving.
+
+HR: 72bpm
+
+IMPRESSION: EEG is within normal limits.
+
+CLINICAL CORRELATION: There are no significant epileptiform or focal features noted. A slightly asynchronous hyperventilation response is of unclear clinical significance. If epilepsy Is an important consideration, a followup study may be helpful.
+
+
+

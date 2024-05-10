@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An 87-year-old male with a history of subdural hematoma, bilateral subdural burr holes including left frontal right central floor, evaluate for change in mental status.
+MEDICATIONS:  Famotidine, Zocor, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This is an awake record.
+This is a technically somewhat challenging EEG in a patient who is not completely cooperative. There is a significant amount of muscle artifact. There were minor challenges with impedances leading to the appearance of a somewhat attenuated record in the right posterior region.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage, diffusely slow with a breach rhythm noted at C4.  There is a suggestion of a slow alpha rhythm with approximately 7-8 Hz.  Photic stimulation elicits a driving response.  Heart rate is 72 bpm.
+IMPRESSION:  Abnormal EEG for an adult of this age due to:
+Mild background slowing.
+Clinical correlation.  Breach rhythm is an anticipated finding for a subject this age.  The slowing of the alpha rhythm and the excess data are nonspecific findings.  Previous EEGs were not available for comparison.
+
+
+

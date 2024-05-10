@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 33-year-old male with cerebral palsy, microcephaly, profound mental retardation and ocular disorder.
+MEDICATIONS:  Phenobarbital, Depakote, lactulose, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake record in a challenging patient.  Hyperventilation was not possible.  The patient was entertained during the EEG to obtain cooperation
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage with a mixture of theta and beta.  On rare occasions a 9 Hz alpha rhythm was identified.  Asymmetric eye movements and eye flutter were noted in the record.  In addition, there is a suggestion of intermittent, right or left frontotemporal mixed theta delta.
+Photic stimulation did not activate the record.
+Heart rate 60 bpm.
+IMPRESSION:  Challenging but abnormal EEG due to:
+A background with excess beta.
+Underlying theta noted in the background in wakefulness.
+In some sections of the record when the patient is not moving about, there is intermittent focal slowing in the right or left frontal region.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted.  To more completely identify this patient's epileptiform activity a more prolonged study capturing sleep would be necessary.
+__________________________
+
+
+

@@ -1,0 +1,35 @@
+History:	53 year old woman with a history of headaches now presents with gradual loss of
+peripheral vision.
+Medications:	Neurontin, Topamax
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of moderate amplitude 8 Hz theta activity that is attenuated
+by eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal
+regions.  Diffuse excess beta activity is noted.  Additional, overriding ~8 Hz diffuse monomorphic
+theta activity is observed.  During brief drowsiness, diffuse beta activity becomes more prominent
+with several vertex waves observed.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.
+Summary of Findings:
+Beta, excessive
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is a mildly abnormal awake and drowsy 22-minute EEG due to mildly slow posterior dominant
+rhythm (PDR). This is an non-specific finding that could indicate mild diffuse cerebral dysfunction.
+However, given the fact that patient's PDR is well reactive, this PDR may just represent low variant
+of PDR - which is a normal finding.  The lack of epileptiform discharges on a routine EEG does not
+rule out a clinical diagnosis of epilepsy.  No epileptiform discharges are present, but stage 2 sleep
+was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional
+information.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+
+
+
+

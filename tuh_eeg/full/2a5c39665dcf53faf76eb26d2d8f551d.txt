@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 45-year-old woman, admitted to the ICU after multiple repetitive convulsions, followed by agitation.
+MEDICATIONS:  Versed 6 mg, Neurontin, Keppra, Topamax, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and obtunded.
+DESCRIPTION OF RECORD:  The background EEG demonstrates a continuous pattern, which ranges from a more sedated sleep pattern, with some features of stage II sleep including spindle and vertex waves.  Intermittent arousal is associated with a 7 Hz background.  In this bedside, ICU record, there are minor artifacts in the posterior regions and some shifting slowing.
+Heart rate 120 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with a slow pattern.
+Minor shifting slowing.
+CLINICAL CORRELATION:  Previous EEGs were not available for comparison.  No epileptiform features were identified.  Some of the shifting slowing described above may include head rocking artifact for this bedside portable record.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 53-year-old woman with metastatic breast cancer, past history of status epilepticus with recurrent seizure early 2014. Currently, seizure-free.
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  One-hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is reasonably well organized on the left with a 9.5 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  With relaxation, the left hemisphere becomes somewhat disorganized.  The right hemisphere demonstrates continuous focal slowing and a breach rhythm most prominent in the T6 region.  The activity from the right mid to posterior temporal region is sharply contoured.  Features of drowsiness include an increase in background slowing with slow rolling eye movements, but deeper stages of sleep were not sustained.
+Hyperventilation does not significantly activate the record.  Photic stimulation elicits a driving response, better identified on the left.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing in the right posterior quadrant.
+Sharply contoured slowing in the same region in the context of a breach rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG today.  A breach rhythm is an anticipated finding following craniotomy and can make the underlying activity more sharply contoured.  In comparison to the patient's previous EEG in May 2014, no sharp waves were noted.
+
+
+

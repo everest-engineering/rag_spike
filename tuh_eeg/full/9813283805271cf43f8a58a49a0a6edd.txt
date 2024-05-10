@@ -1,0 +1,32 @@
+History:	78 YO MALE P/W ABDOMINAL PAIN, HYPERTENSIVE, TACHYCARDIA, ? SZ
+PMHX: ETOH ABUSE
+Medications:	ATIVAN DRIP (YESTERDAY 6/7),  LASIX, CIPRO, HEPARIN, FLOMAX
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, lethargic
+Description:
+A posterior dominant rhythm was present at times and at best reached 6Hz.  Background activity
+was characterized by diffuse delta and theta activity with absence of the expected anterior to
+posterior gradient of frequencies.  Diffuse, frontally maximal sharp waves with triphasic morphology
+are present throughout the recording.  These waveforms demonstrate an anterior to posterior phase
+lag and  at times can be seen with a periodicity of 1-2 Hz.  At times there are some sharply
+countoured waveforms that do not appear to be epileptic.  No normal sleep architecture was
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was some reactivity to auditory
+stimuli.  HR was 84  Technical difficulties: There was continuous movement artifact during the
+entire study.
+Summary of Findings:
+Triphasic waves, nearly continuous
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Disorganization
+Interpretation:
+This is an ABNORMAL limited EEG because of frequent frontally-maximal triphasic waves and
+severe diffuse background slowing.  These findings are indicative of a moderate diffuse
+encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin.
+
+
+
+
+

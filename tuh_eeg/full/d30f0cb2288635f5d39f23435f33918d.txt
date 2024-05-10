@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  38 year old left handed male admitted with alcohol withdrawal seizures characterized by bilateral upper extremity shaking without loss of consciousness.  Pancreatitis.
+MEDICATIONS:  Thiamine, Folate Acid, Serax.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized.  It is a relatively low-voltage pattern with generous beta, but there is a 10 Hz alpha rhythm.  The patient quickly transitions in and out of sleep with generous beta and spindles.   Photic stimulation does not significantly activate the record.
+HR:    84 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were observed in this EEG.  The generous beta may be due to this patient's medications.
+
+
+

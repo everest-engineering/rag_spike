@@ -1,0 +1,17 @@
+History:	48 year old woman with a history of seizures.
+Medications: Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 8.5-9 Hz alpha activity which attenuates symmetrically with eye opening. The AP gradient is weak. Diffuse excess polymorphic sharply contoured theta and delta activity is captured during wakefulness.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear. Sharply contoured appearance of the waveforms disappears during sleep.
+No focal slowing is present. No clear epileptiform discharges are present.
+Hyperventilation is performed for aborted early due to patient's swallowing difficulties. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Diffuse slowing, rhythmic, mild-to-moderate Disorganization, mild
+No epileptiform discharges Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 1 hour EEG due to mild-to-moderate diffuse slowing and disorganization. These findings are etiologically nonspecific indicators of mild-to-moderate diffuse cerebral dysfunction. When compared to the EEG from 6/2014, there has not been significant change in the background in terms of degree of disorganization and sharp appearance of waveforms during wakefulness.
+
+
+
+

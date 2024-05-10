@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 64 year old male status post massive intracerebral hemorrhage on the 10th, now with fixed and dilated pupils for 24 hours.
+MEDICATIONS: Midazolam, Folate, Pantoprazole, Labetalol, Nicardipine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates EKG and other extracerebral artifacts. There is twitch artifact. Stimulation of the patient does not impact the record. No reactivity or variability is identified. This EEG is also recorded in the ECS montage. There are some technical issues in the initial portion of the record which produce artifact, but once these are resolved, the overall recording is of good quality.
+HR: 130 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Absence of cerebral activity.
+CLINICAL CORRELATION: In the appropriate clinical context, this EEG is compatible with electrocerebral inactivity. After the electrode issues were resolved, there is more than 47 minutes of good quality recording which does not demonstrate cerebral activity.
+
+
+

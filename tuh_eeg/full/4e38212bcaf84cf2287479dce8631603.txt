@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  69 year old woman with significant pulmonary disease, now in the ICU with myoclonus.
+MEDICATIONS: Ativan drip, Prednisone,  Lisinopril, Synthroid,  Albuterol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient and intubated and is poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage, intermittently discontinuous background.  The patient is examined during the EEG. Stimulation of the patient produces myoclonus, which is not associated with an EEG scalp correlate and in  fact, although there is jerking of the arms and legs, does not even produce the typical  myoclonus that we often see.  The background ranges from a relatively discontinuous pattern to an almost continuous pattern with beta and theta frequency activity.
+HR:	120 bpm
+IMPRESSION: Abnormal EEG due to:
+1.	Markedly abnormal background.
+2.	Burst suppression or discontinuous pattern.
+3.	Marked beta, particularly in the later portions of the record.
+CLINICAL CORRELATION: This EEG is supportive of a severe underlying encephalopathy as may be seen in the context of anoxia. Benzodiazepines can produce a discontinuous pattern as described above, but the clinical finding of myoclonus elicited by tactile stimulation suggests a severe underlying encephalopathy.
+
+
+
+

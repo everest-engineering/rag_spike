@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  61 year old male with atrial fibrillation, COPD, bacterial pneumonia, hepatitis C, presented with sepsis with an episode of 7 minute shaking of the legs requiring Ativan.
+MEDICATIONS:  Fentanyl, Propofol, Haldol, Lasix, Insulin, Gabapentin, Sertraline, Venlafaxine, Famotidine, Lorazepam, Diltiazem
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is very agitated. He is on a fentanyl drip as the EEG starts and propofol is initiated and titrated upward to alleviate the agitation.
+DESCRIPTION OF THE RECORD:  As the EEG opens, the background EEG includes a mixture of delta and theta. As medications are increased, beta appears in the central regions. As the recording continues, there is more slow arrhythmic delta activity. Stimulation of the patient produces an increase in muscle artifact with tensing of the patient.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+A pattern of relatively severe generalized background slowing.
+CLINICAL CORRELATION:  There are no epileptiform features noted. The features described above are nonspecific findings and support a severe disturbance of cerebral function.
+
+
+

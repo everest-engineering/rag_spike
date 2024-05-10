@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is 28-year-old male with history of alcohol abuse, in the process of detox.  The patient had a seizure when he stopped drinking and another when he discontinued or missed doses of Serax.  Seizure was characterized by foaming of the mouth, vocalization, loss of consciousness, and shaking.
+MEDICATIONS:  Serax, Neurontin, Thiamine, folate
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were under 5 kilohms with the exception of T1-T2 electrodes.  Hyperventilation and photic stimulation were completed.  This EEG captures wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz posterior dominant rhythm with a small amount of low voltage frontal central beta.  Brief drowsiness is characterized by attenuation of the alpha rhythm, but deeper stages of sleep were not sustained.  Photic stimulation elicited bilateral driving.  Hyperventilation produced a small increase in amplitude of the background.
+Prominent lateral rectus eye movement artifacts were noted.
+Heart rate:  78 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy and if there are other considerations, a repeat tracing, capturing deeper stages of sleep is suggested.
+
+
+
+
+

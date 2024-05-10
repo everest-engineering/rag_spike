@@ -1,0 +1,19 @@
+DATE OF STUDY:  December 7, 2014 to December 8, 2014.
+CLINICAL HISTORY:  This is a 55-year-old woman with epilepsy, presenting with cirrhosis, discontinuation of seizure medication, and status epilepticus.
+MEDICATIONS:  Keppra, lacosamide, and Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially somewhat agitated and then somnolent.  No clinical seizures were noted. This first section of EEG recording concludes at 01:12:54.
+DESCRIPTION OF THE RECORD:  In the initial hours of the recording, the patient is somewhat agitated.  Medications are adjusted and the patient was relatively somnolent.  The overall pattern in the initial hours of recording is a lower voltage mixed frequency background with features compatible with some stage II sleep.  By 9 a.m., the next morning, the patient is considerably more awake with eye movement.  Subtle underlying focal slowing was noted in the right posterior quadrant.
+By the afternoon of the 8th, the patient transitioned from wakefulness to drowsiness.  Underlying slowing is noted in the posterior quadrants, right greater than left.
+Epileptiform Detections:  None.
+Electrographic seizures:  None.
+Heart rate:  96 bpm.
+IMPRESSION:  This first 24 hours of continuous EEG monitoring was remarkable for:
+Initially very slow background with a fair amount of muscle and movement artifact.
+Subtle slowing in the right posterior quadrant.
+Generalized background slowing.
+CLINICAL CORRELATION:  No additional electrographic seizures were identified.  The background slowing and disorganization may be part of this patient's acute hepatic encephalopathy or postictal state.
+
+
+
+
+

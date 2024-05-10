@@ -1,0 +1,37 @@
+AGE: 71 y.o.
+SEX : female
+09/08/2015 RECORDING ENVIRONMENT: Inpatient
+EEG TYPE : routine, awake and asleep EEG #: 15-1307
+HISTORY :
+a 71 y.o. female who presents as a stroke alert , with new-onset right sided weakness and aphasia. She has a past history of a CVA with residual left hemiparesis (11 yrs ago), and bilateral subdural hematomas are seen on cranial imaging, s/p bilateral craniotomies.
+MEDICATIONS: Keppra ; synthroid, insulin, metformin, lantus
+SEDATION: None TECHNIQUE :
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG .
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 8.5-9 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric sleep spindles and K-complexes present during Stage
+II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.
+There is abundant left hemispheric (fronto-temporal-predominant) polymorphic slowing, and occasional synchronous right hemispheric (fronto-temporal-predominant) polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Not performed Photic Stimulation : Not performed
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG due to:
+Abundant left hemispheric (fronto-temporal-predominant) polymorphic slowing
+Occasional synchronous right hemispheric
+(fronto-temporal-predominant) polymorphic slowing.
+CLINICAL CORRELATION:
+These findings are etiologically nonspecific indicators of left hemispheric (fronto-temporal-predominant) > right hemispheric (fronto-temporal-predominant) cerebral dysfunction.
+
+
+
+

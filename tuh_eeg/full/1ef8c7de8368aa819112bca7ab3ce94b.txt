@@ -1,0 +1,12 @@
+CLINICAL HISTORY:	90 year old right handed woman with an episode of lightheadedness, generalized weakness and a past history of stroke. Syncope versus seizures.
+MEDICATIONS:  Lopressor.
+INTRODUCTION: Digital video EEG was performed in lab using standard  10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed.  This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness,  the background EEG is low to medium amplitude. There is a background rich in beta frequency activity and smaller amounts of theta. There is a small amount of rhythmic 3-5 hertz theta observed in the left temporal  region was well as a handful of bursts of left temporal sharply contoured slowing. Photic stimulation elicits an extraordinarily vigorous photic driving response.
+HR:	66 bpm
+IMPRESSION: Abnormal EEG due to:
+1.	Occasional left temporal rhythmic theta.
+2.	Rare sharply contoured slowing or single sharp wave in the left temporal region.
+CLINICAL CORRELATION:  The absence of an alpha rhythm is considered a normal variant. The vigorous driving response described above is a normal variant. It  is somewhat unusual to see such a vigorous driving response, but it does not indicate pathology. The left temporal focal features described above should be interpreted with caution.
+
+
+

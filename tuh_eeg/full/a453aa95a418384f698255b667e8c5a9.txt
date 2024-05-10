@@ -1,0 +1,35 @@
+History:	47 year old woman with a history of SAH with subsequent seizures.
+Medications:	Keppra, Dilantin, Versed
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~6.5 hours on 4/30/2015.   Nursing-initiated event
+buttons were correlated with clinical behavior.    Ongoing raw EEG data was reviewed at least twice
+daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically
+detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of attenuated polymorphic
+theta and delta activity admitted with diffuse sleep-spindle-like waveforms and periods of
+discontinuity.  Additional continuous polymorphic delta activity and underriding fast frequencies
+are noted over the left anterior quadrant.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+Focal slowing, polymorphic, continuous, left anterior
+Breach artifact, left anterior
+No electrographic seizures
+Interpretation:
+This is a very abnormal ~6.5 hours continuous video EEG due to moderate to severe diffuse
+slowing and continuous left anterior quadrant focal slowing. Diffuse slowing is indicative of
+moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific, but, based on
+the waveforms seen, it is at least partially related to the medication effect.  Continuous focal
+slowing is indicative of a focal structural lesion over the left anterior quadrant.  Breach artifact is
+secondary to a skull defect.  No clinical or electrographic seizures are present.
+
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 68 year old right handed male with left carotid stenosis.
+MEDICATIONS: Fentanyl, Propofol, Lidocaine, Sevoflurane, Epinephrine, Ancef, MDz, Rocuronium, PHENYLEPHRINE INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is a 3.5 hour record. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is intubated in the OR with a discontinuous burst suppression pa..em. There is shifting asymmetry noted in the background. At 10 a.m. the EEG is essentially suppressed with some electrode artifact. The patient also has an episode of bradycardia with a heart rate in the 50s. The anesthetic medications are adjusted and by 10;47, the EEG is more or less discontinuous. The carotid is clamped at 11:07; Prior to this, the EEG demonstrates a discontinuous pattern. The placement of the carotid does not produce focal features, however, the EEG is not a continuous pattern there are shifting asymmetries noted throughout. The carotid is unclamped at is confirmed by Doppler at 12:03. The recording continues and as the level of anesthesia changes, the background demonstrates more of continuous pattern with voltage alpha/theta frequency activity.
+HR: 50 to 70 bpm
+IMPRESSION: EEG monitoring during this carotid endarterectomy was remarkable for:
+Burst suppression pattern.
+CLINICAL CORRELATION: The utility of this EEG to identify focal features may be reduced.
+
+
+
+

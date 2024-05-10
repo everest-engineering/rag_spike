@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 73-year-old male, admitted January 4, found down, poorly responsive, possibly intoxicated with right MCA aneurysm and right intracerebral artery pathology with multiple aneurysms, giant aneurysm, prior stroke.
+MEDICATIONS:  Keppra, hydrochlorothiazide, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was somnolent but answers questions appropriately.  He had a great deal of difficulty cooperating with the study.
+DESCRIPTION OF THE RECORD:  Despite significant muscle and motion artifact noted throughout the EEG, the background EEG is abnormal.  There is excess beta and excess beta with a glimpse of a 9 Hz alpha rhythm.  Despite the artifacts described above, there is a clear, underlying high amplitude epileptiform discharge in the right hemisphere.  In a bipolar montage, the discharge is maximum in the right posterior temporal region, but in a referential montage, it seems to start in the right frontal region and then transitioned to the right posterior region.  Additional epileptiform discharges are clearly right anterior temporal maximum.  Features of drowsiness include a decrease in muscle and movement artifact.
+Heart rate 88 bpm.
+IMPRESSION:  This is a technically challenging but clearly abnormal EEG due to,
+High amplitude epileptiform activity in the right hemisphere including right posterotemporal sharp waves, right anterior temporal sharp waves and some that start right frontal, but propagate to the posterior temporal or occipital region.
+Slow and disorganized background.
+CLINICAL CORRELATION:  The epileptiform features are ipsilateral to the CNS pathology.  No seizures were recorded.  The diffuse background slowing supports a diffuse disturbance of cerebral function, which may include a bihemispheric process or metabolic encephalopathy.
+
+
+
+

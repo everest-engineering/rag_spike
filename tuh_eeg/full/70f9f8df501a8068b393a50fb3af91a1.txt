@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 57-year-old male with previous left MCA infarct, large and more recent smaller right PCA infarct, schizophrenia, hypertension, hyperlipidemia admitted with an episode of shaking, loss of consciousness and incontinence.
+MEDICATIONS:  Heparin, aspirin, and atorvastatin.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially, quite somnolent.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is very drowsy.  The EEG demonstrates initially very slow pattern with a mixture of delta and theta.  Superimposed upon this, there is an asymmetry with disruption of faster frequency activity seen more prominently from the left hemisphere than the right.  There is some sharply contoured slowing from the right central temporal region with a phase reversal at T2-T4.  As the recording continues, the technologist is able to arouse the patient who wakes up with eye opening and eye closure.  There is a glimpse of a 10 Hz alpha rhythm seen intermittently on the right, but the right hemisphere continues to demonstrate intermittent slowing including again some sharply contoured slowing.  The left hemisphere demonstrates more of a pattern of more continuous slowing, although there is an intermittent alpha seen from the left.  When unstimulated, the patient drifts off to sleep with an increase in beta.  An asymmetry in muscle was noted with a bit more muscle artifact on the left in comparison to the right.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to,
+Generalized background slowing.
+An asymmetry with more significant disruption of faster frequency activity in the left hemisphere compared to the right.
+Bursts of sharply contoured slowing on the right with discharges just greater than 200 milliseconds.
+CLINICAL CORRELATION:  The focal slowing on the left suggested more significant structural or functional process on the left, congruent with prior left MCA infarct.  The generalized background slowing, more prominent in the early section of the record is maybe part of a dynamic process such as postictal state.  There is some sharply contoured slowing on the right.  This may represent the localization for this patient's seizure earlier today.
+
+
+
+
+

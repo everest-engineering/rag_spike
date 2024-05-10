@@ -1,0 +1,24 @@
+EEG:
+CLINICAL HISTORY: 18 year old right handed gymnast with recurrent, mild to
+moderate concussions, but with post concussive syndrome with nausea, photophobia,
+occasional tinnitus, impaired memory.
+MEDICATIONS: Elavil, Zofran, Motrin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel EKG. Hyperventilation and photic
+stimulation are completed.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 9.3 Hz alpha
+rhythm. There is a small amount of theta in the background of approximately 6 Hz and
+a smaller amount of 8.3 Hz activity noted in the background. Brief drowsiness is
+characterized by hypersynchronous slowing. Hyperventilation also produces some
+hypersynchronous rhythmic slowing. stimulation elicits bilateral driving.
+HR: 64 bpm
+IMPRESSION: This EEG is remarkable for:
+1. Scant background theta.
+CLINICAL CORRELATION: There are no epileptiform features noted. The
+background theta described above is nonspecific. It has been reported in post
+concussive syndrome, but it can also be seen in association with the use of
+amitriptyline.
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 46 year old male with left mid brain thalamic and occipital infarct, as well as left temporal hemorrhage.
+MEDICATIONS: Zocor, Insulin, Zofran, Nicotine, Zocor, Protonix, Amlodipine, Hydralazine, Keppra, Percocet, Lisinopril, Heparin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is a bedside recording in an awake patient.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an overall slow pattern with 6 Hz posterior dominant rhythm. There is sharply contoured, shifting slowing from either region and intermittent attenuation. In addition to eye artifact and EKG artifact, there are a handful of left temporal sharp waves.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Prominent shifting slowing from either hemisphere, including left temporal and right posterior temporal.
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance of cerebral function. The background rhythmic slowing suggests a diffuse disturbance of cerebral function. There are some sharp waves in this challenging record. A follow up study as the patient improves may be of value.
+
+
+

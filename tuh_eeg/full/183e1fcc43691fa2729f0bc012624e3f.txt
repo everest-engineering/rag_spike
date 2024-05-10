@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This 36-year-old woman with neurofibromatosis, status post recurrent neurofibroma in lower extremity, patient presented 12/11/2014 with respiratory arrest and collapse of the right lung with coma followed by seizure.
+MEDICATIONS:  Vancomycin, Lasix, Celexa, baclofen, diazepam, opioids.
+INTRODUCTION:  A 20-minute digital EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated, comatose with occasional whole body jerks, maximum with the abdominal muscles.  Impedances were generally under 5 kilohms, but not exclusively so.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a burst suppression pattern with periods of suppression lasting as long as 9 seconds, but more typically 3-4 seconds in duration.  Bursts of high amplitude activity were noted typically under 1 second in duration was a high amplitude myoclonic spike, essentially obscured by muscle artifact and then some brief beta or mixed frequency activity.  Most bursts were isolated discharges, but some occurred with pairs.
+Tactile stimulation of the patient did not activate the record.
+Over the course of the record, the EEG pattern was relatively stable.
+Heart rate 95 BMP.
+IMPRESSION:  Markedly abnormal EEG due to,
+Acute burst suppression pattern for this individual recorded approximately 7-9 hours after cardiac arrest.
+Absence of reactivity and/or variability.
+CLINICAL CORRELATION:  These findings were discussed with the clinical team including the gravity of this hyperacute pattern.  This patient will go on to long-term EEG monitoring.
+
+
+
+
+

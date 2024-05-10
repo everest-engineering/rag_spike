@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 48 year old left gentleman with severe versus syncope, episodes of lightheadedness, dizziness, memory loss, pacemaker, and asthma.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 hertz, 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta activity. Hyperventilation produces a small amount of theta and a small amount of beta. Characteristics of drowsiness include anterior spread of the alpha rhythm. Photic
+stimulation elicits bilateral driving. Deeper stages of sleep are not sustained.
+HR: 78 bpm
+IMPRESSION: Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: If additional information is needed to exclude a diagnosis of epilepsy, a follow up study is suggested.
+
+
+

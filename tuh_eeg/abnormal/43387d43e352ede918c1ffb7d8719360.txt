@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 71-year-old woman with senile dementia and possible epilepsy.
+MEDICATIONS:  Lasix, Seroquel, Ativan, Percocet.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was unable to participate in hyperventilation. Photic stimulation was completed.  This was an awake and drowsy record in a somewhat anxious patient.
+DESCRIPTION OF THE RECORD:  Some sections of the record are reasonably well organized with a 6.5 Hz alpha rhythm.  This is excess beta and excess theta.  There is a small degree of disorganization noted in the background.  Photic stimulation does elicit driving with harmonic, supraharmonic and subharmonic driving.
+Heart rate 120 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+Prominent slowing of the background.
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  This slow EEG pattern is supportive of an underlying encephalopathy such as dementia.  It is not specific in terms of any particular type of dementia, but Alzheimer's type dementia and B12 deficiency can both produce this pattern, as can multi infarct dementia.  This patient's medications may play a role in the background slowing.
+
+
+

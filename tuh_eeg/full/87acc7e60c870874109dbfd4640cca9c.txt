@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 63-year-old man with a history of metastatic bone cancer, now with a persistent change in mental status.
+MEDICATIONS:  Current medications are Ativan 1 mg in the morning, Flexeril, diltiazem, Lopressor.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.    Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of a mixture of polymorphic theta and delta with under riding faster frequencies.  No sleep architecture is captured.  Hyperventilation and photic stimulation was not performed.  Sinus tachycardia with a heart rate of approximately 120 beats per minute was captured in a single EKG lead.
+FINDINGS:
+Moderate diffuse slowing.
+No stage 2 sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal wake only 21 minute EEG due to moderate diffuse slowing.  This finding indicates etiological nonspecific moderate diffuse cerebral dysfunction.  Heart rate up to 120 beats per minute is captured in a single EKG lead.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

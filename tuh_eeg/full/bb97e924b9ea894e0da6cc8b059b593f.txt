@@ -1,0 +1,37 @@
+History:	29 year old male a history of seizures since childhood.
+Medications:	Dilantin, ?Topamax
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Continuous underriding polymorphic delta activity is present in the left frontotemporal region.
+When the patient falls asleep, the degree of left hemispheric delta activity increases and it at times
+occurs in 15-30 seconds rhythmic runs, involving the  entire left hemisphere.  Frequent left anterior
+temporal/ frontal sharp waves are captured.  Maximal scalp negativity occurs over Fp1 and F7/T1
+electrodes.  Occasionally these sharp waves appear bifrontal, but the amplitude of right
+hemispheric sharp waves is lower.  Additionally, during sleep, occasionally left hemispheric sharp
+waves occur in brief irregular runs with repetition rate of ~2-3 Hz.  Frequency of epileptiform
+discharges increases during drowsiness and sleep.  No electrographic seizures are captured.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+Sharp waves, intermittent, left temporal, anterior, F7/T1, at time with a broad field
+Sharp waves, occasional, right frontal, suspect secondary bisynchrony from the left frontal focus
+No electrographic seizures
+Focal slowing, rhythmic, occasional, moderate, left frontotemporal
+Sharp waves, intermittent, left frontal, at Fp1
+Focal slowing, polymorphic, continuous, left frontotemporal, mild-to-moderate sleep spindles and K complexes appear.abnormalities.
+Interpretation:
+This is a very abnormal 1 hour awake and asleep EEG due to continuous mild-to-moderate left
+frontotemporal slowing and intermittent independent left frontal and left anterior temporal and,
+occasional, right frontal epileptiform discharges. There is a potentially epileptogenic focal
+structural lesion in the left frontotemporal region.  Suspect that right frontal epileptiform discharges
+are representative of secondary bisynchrony from the right frontal focus rather than an independent
+right frontal potentially epileptogenic focus.  No clinical or electrographic seizures are present.	I have personally reviewed this
+

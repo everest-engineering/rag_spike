@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is a 50-year-old male with 10-year history of epilepsy, typically 2 per year.  Seizures characterized by feeling strange, sits down and foams at the mouth, and has tonic-clonic activity.  Last seizure 2 months ago.  History of hypertension, hyperlipidemia, and blood clots.
+.
+
+MEDICATIONS:  Keppra, Risperdal, Remeron, Xanax, Coumadin, and others.
+
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a technically satisfactory awake through stage 2 sleep record.
+
+DESCRIPTION OF THE RECORD:  In a wakefulness, there is a 10.5 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by rhythmic background slowing followed by vertex waves, no vertex waves, K complexes, and spindles noted in stage 2 sleep.
+
+Hyperventilation did not significantly activate the record.  Photic stimulation elicited brief bilateral driving response.
+
+Heart rate: 72 bpm.
+
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep is suggested.
+

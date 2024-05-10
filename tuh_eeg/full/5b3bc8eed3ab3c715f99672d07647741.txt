@@ -1,0 +1,40 @@
+:
+History:	24 year old man with a history of seizures.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Bilateral AP gradient is present, better formed over the right
+hemisphere.  Diffuse excess beta activity is present.  During drowsiness, the background slows to
+central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.  BETS (benign
+epileptiform transients of sleep) or SSS (small sharp spikes) are seen over the left during drowsiness/
+Continuous polymorphic theta and delta activity is present over the left temporal region during
+wakefulness, increasing during drowsiness.  Occasionally, left temporal delta activity becomes
+rhythmic at ~3 Hz and occurs in up to 30 second runs.  This activity appears abruptly, does not
+evolve temporally or spatially and ceases abruptly.  Frequent moderate-to-high amplitude left
+anterior temporal sharp waves are captured.  Maximal scalp negativity occurs over F7<T1
+electrodes.  These discharges may occur in brief (several seconds) runs of at ~1 Hz.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+BETS (benign epileptiform transients of sleep) or SSS (small sharp spikes)
+TIRDA (temporal intermittent rhythmic delta activity), intermittent, left temporal
+Sharp waves, frequent, left temporal, anterior, F7/T1
+Beta, excessive
+Sleep, stage 2
+Focal slowing, polymorphic, continuous, moderate, left temporal
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute EEG due to continuous moderate left
+temporal slowing that is at times rhythmic (TIRDA) and frequent left anterior temporal epileptiform
+discharges. These findings are indicative of a potentially epileptogenic focal structural lesion in the
+left temporal region.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+
+
+
+
+

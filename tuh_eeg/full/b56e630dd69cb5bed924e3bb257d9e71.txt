@@ -1,0 +1,31 @@
+History:	56 year old man who is on ECMO.  Ancillary studies are showing that the right
+cerebral hemisphere is possibly hypoperfusion.  EEG is performed to assess for
+Medications:	no AEDs
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms and lower voltages over the
+left hemisphere.  There is also no PDR or AP gradient.  The background over the right hemisphere
+consists of a mixture of diffuse alpha- theta activity admixed with bursts of diffuse delta activity.
+The background over the left hemisphere demonstrates paucity of faster frequencies and voltage
+attenuation.  No normal sleep architecture is present.
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Attenuation, continuous, left hemispheric
+Focal slowing, polymorphic, continuous
+Interpretation:
+This is an ABNORMAL portable 21-minute EEG due to moderate diffuse slowing and continuous
+focal slowing and attenuation over the left hemisphere. Diffuse slowing is indicative of moderate
+diffuse cerebral dysfunction, which is etiologically nonspecific, but in this patient is at least partially
+medication induced (based on the waveforms present).  Continuous focal slowing is indicative of a
+focal structural lesion in this region.  Voltage attenuation could be secondary to a fluid collection
+between a skull and a brain, such as SDH, empyema, et etc.  These findings were conveyed to the
+neurology consult team and the primary team.
+
+
+
+
+

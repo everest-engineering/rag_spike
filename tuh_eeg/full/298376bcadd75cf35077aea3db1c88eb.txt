@@ -1,0 +1,33 @@
+History: year old man with a history of head trauma and seizures.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+The background consists of low voltage 10-11 Hz alpha posteriorly with expected AP gradient.
+Diffuse excess beta activity is present.  Symmetrical K-complexes are captured.
+Continuous polymorphic theta and delta activity is present in the  right midtemporal region during
+wakefulness, increasing during drowsiness.  Additionally, faster frequencies at higher amplitudes are
+presents over the bilateral frontocentral regions (breach).  Very focal T4/C4 sharp waves are
+captured.  During sleep they increase in frequency and become frequent.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  A single EKG lead demonstrates heart rate
+Summary of Findings:
+Beta, excessive
+Focal slowing, polymorphic, continuous, right temporal, mid, mild-to-moderate
+Breach artifact, bilateral, frontocentral
+Sharp waves, frequent, right, midtemporal/ central, seen during sleep
+Interpretation:
+This is an ABNORMAL awake and asleep 22 minute EEG due to continuous mild-to-moderate right
+midtemporal focal slowing and very focal right midtemporal/ central epileptiform discharges that
+increase in frequency during sleep. These findings are indicative of a potentially epileptogenic
+focal structural lesion in the right midtemporal/ central region.  Breach artifact is secondary to the
+underlying skull defect.  Excessive beta activity could be secondary to the medication effect, such
+as benzodiazepines or barbiturates.  A single EKG lead demonstrates heart rate <60 bpm.
+
+
+
+
+
+

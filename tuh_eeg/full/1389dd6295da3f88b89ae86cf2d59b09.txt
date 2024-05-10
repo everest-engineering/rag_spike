@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  80 year old man with a left parietal stroke, also history of left carotid stenosis, diabetes, and hypertension.
+MEDICATIONS:  Glipizide, ASA, Amlodipine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  This is a somewhat slow EEG with a background alpha of 6-7Hz, which also reaches up to 7.5 Hz.  There is excess theta activity.  The pattern improves during the course of the record.  There are episodes of rhythmic mid temporal theta and drowsiness (RMTD), also known as psychomotor  variant.  This is a
+5 Hz temporal discharge.   This is a normal variant.  The patient cycles through stage II
+sleep and cycles through wakefulness and drowsiness throughout the record.  Photic stimulation does not activate the record.
+HR:   60 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+1. Background slowing of 7.5 Hz alpha rhythm.
+CLINICAL CORRELATION:  There is no epileptiform activity.  In this patient with parietal stroke, there are no focal features.  Further clinical correlation is recommended.
+
+
+

@@ -1,0 +1,39 @@
+AGE: 114 y.o.
+SEX: female
+DATE OF STUDY: 10/06/2015 RECORDING ENVIRONMENT: Inpatient
+EEG TYPE: 20-40 min, Asleep only EEG #: 15-1471
+HISTORY:
+114 y.o. female referred for routine EEG after being found down with a low blood sugar and possible seizure.
+MEDICATIONS :Ativan
+SEDATION: Ativan as above TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The background is continuous, symmetric, and consists of a disorganized mixture of delta with occasional admixed theta. There is no clear reactivity or state change. The patient is noted by the technician to move and open her eyes with stimulation .
+There is severe generalized slowing is present.
+At times the delta slowing is rhythmic at 1.5 Hz for runs of < 5 seconds (generalized rhythmic delta activity) .
+No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.
+Hyperventilation : Hyperventilation is not performed.
+Photic Stimulation : Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+An irregular heart rate of 102 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal routine EEG due to:
+Severe diffuse slowing
+Background disorganization
+Lack of reactivity
+Rhythmic delta slowing at 1.5 Hz for runs of < 5 seconds
+CLINICAL CORRELATION:
+These findings indicate the presence of severe diffuse cerebral dysfunction.
+Rhythmic delta slowing (generalized rhythmic delta activity, or GRDA, formerly known as FIRDA or frontal intermittent rhythmic delta activity) is a nonspecific but pathologic process that is most commonly seen in the setting of toxic-metabolic encephalopathy but can also be seen with deep structural lesions or increased intracranial pressure.
+
+
+
+

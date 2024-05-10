@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  28 year old right handed male with mitral regurgitation and developmental delay, previous history of endocarditis, confusional spell this morning.
+MEDICATIONS:  Aspirin, Lasix
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is not particularly cooperative.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.3 Hz alpha rhythm.  Vertex waves and spindles are noted in stage II sleep.  The patient transitions in and out of awake and sleep pattern. Photic stimulation elicits a driving response.
+HR:    90 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:  This is a second EEG without epileptiform features for this adult.  The alpha is slightly slower than the previous EEG and the patient is transitioning in and out of a drowsy state, which may be part of a metabolic encephalopathy.
+__________________________
+
+
+

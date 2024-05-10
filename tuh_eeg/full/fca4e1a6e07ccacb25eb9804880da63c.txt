@@ -1,0 +1,29 @@
+History:	61 year old man with extensive PMH, including HIV, now presents with change in
+mental status.
+Medications:	Ativan on 3/17/2015
+Sedation:	None
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, lethargic
+Description:
+During maximal wakefulness, the background consists of low amplitude fast activity.  Symmetrical
+sleep spindles and vertex waves are captured.  Patient rapidly transitions between wakefulness and
+Continuous polymorphic moderate amplitude theta and delta activity is present in the left anterior
+temporal region.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+No epileptiform discharges
+Focal slowing, polymorphic, continuous, moderate, left temporal, anterior
+Beta
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL portable 23-minute awake and asleep EEG due to continuous moderate
+focal slowing in the left anterior temporal region.  This finding is suggestive of a focal structural
+lesion in this region.  This could also represent post-ictal phenomenon.  Please correlate clinically.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+
+
+
+
+
+

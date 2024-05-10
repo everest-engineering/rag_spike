@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 33 year old male with lupus, epilepsy, renal failure on dialysis, vasculopathy, abscess, noncompliant with medications, admitted seizures today.
+MEDICATIONS:  Dilaudid, Aranesp, Reglan, Hydralazine, Zosyn, Zofran
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized with a 6-7 Hz alpha rhythm.  There are bursts of paroxysmal rhythmic slowing.  Bursts of vertex waves appear out of the background with microsleep and then arousal.  FIRDA is observed.  There are bursts of shifting delta.  As the patient drops into sleep, POSTs are noted.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and sleep due:
+Background disorganization and slowing.
+Shifting slowing.
+Frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  There are no epileptiform abnormalities identified.  The pattern described above can be seen in the context of a toxic or metabolic encephalopathy, postictal state or other bihemispheric disturbance of cerebral function.
+
+
+

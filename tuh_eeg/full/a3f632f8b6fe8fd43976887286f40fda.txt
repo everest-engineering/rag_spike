@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 56-year-old right-handed female with a complaint of a syncopal event on March 25, 2013.  Apparently she fainted and was on the floor for 15 seconds and then was observed to shake.  Of note, during the recording here in the laboratory, there was a brief episode of right hemibody tingling.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The recording start time was 11:29 a.m.  The recording end time was 12 noon.  The recording length was 25 minutes.
+As the record opens there is a well formed and symmetric 9-10 Hz  posterior dominant rhythm that is reactive to eye opening.  There is a small amount of frontal central beta activity that is symmetrically distributed.  Brief drowsiness is characterized by attenuation and fragmentation of the posterior dominant rhythm.  At approximately 11:45 a.m., approximately 15 minutes into the recording epic, the patient complained of right hemibody tingling and numbness.  She was examined by the physician in the laboratory at the time, and there were no obvious clinical sequela.  During this time, there was no change in the background cerebral activity of the EEG.
+Hyperventilation was performed for 3 minutes with good effort and failed to activate the tracing.  Photic stimulation was performed at multiple flash frequencies and induced a very reactive and responsive photic driving response at intermediate flash frequency ranges.  The patient's heart rate ranged from 70-90 beats during the record epic.
+IMPRESSION:  This is a normal EEG capturing wakefulness and drowsiness.
+CLINICAL CORRELATION:  A normal EEG does no rule out a clinical diagnosis of epilepsy.  The brief clinical event of right hemibody numbness and tingling were not associated with changes in the background cerebral activity.  Thus, this event is likely a nonepileptic event.
+
+
+

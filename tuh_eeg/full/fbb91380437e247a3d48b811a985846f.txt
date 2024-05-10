@@ -1,0 +1,20 @@
+History:	47 YR OLD FEMALE WITH H/O S/P LT MCA RUPTURED ANEURYSM 1/14, OVERNIGHT LTM PER THE DR, CHECKED PROGRESS NOTES NO INFO
+Medications:	PROPOFOL, NICARDIPINE, VECURONIUM KEPPRA, VANCOMYCIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the temporal region with associated attenuation of faster frequencies. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+
+Hyperventilation and photic stimulation were not performed. HR was 90
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, left hemispheric, with attenuation
+
+Interpretation:
+This is an ABNORMAL EEG because of continuous focal slowing and attenuation in the left hemisphere region. This finding is indicative of a focal cortical structural lesion n this region, which is consistent with the known stroke. In addition there is evidence of diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+

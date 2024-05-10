@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 68-year-old male with cholecystitis status post lap chole, then found unresponsive status post code on September 5th.  Now with prolonged coma, but triggers the ventilator.
+MEDICATIONS:  Depakote, insulin, others. No sedatives
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient is intubated and comatose.  The patient demonstrates mild, head rocking artifacts with the ventilator.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow, low voltage and featureless.  It is recorded with a sensitivity of 3 uv/mm  There is some asymmetric eye movement artifact noted in the record.
+Tactile stimulation of the patient does not activate the record.  Auditory stimulation of the patient does not activate the record.
+Heart rate 116 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due:
+Replacement of normal background with a low voltage, featureless pattern.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  For this individual, who is now approximately 1 week status post an anoxic insult, in the absence of sedative hypnotic medications, this EEG carries an extremely worrisome prognosis.
+
+
+

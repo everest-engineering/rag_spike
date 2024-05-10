@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 23-year-old woman who had a fall while 33 weeks' pregnant.  No history of visual phenomena, palpitations, shortness of breath, headache, loss of consciousness, or lightheadedness.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation was performed in this bedside record, but photic stimulation was deferred.  Impedances were acceptable with the exception of the T1/T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage, but there is a 10 Hz alpha rhythm and a small amount of low voltage, frontocentral beta activity.  This is a very drowsy patient with abundant stage 2 sleep with vertex waves, K complexes, spindles and POSTS.  Hyperventilation did not significantly activate the record.  In fact, the patient was falling asleep during hyperventilation.  Heart rate 80 BPM.
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  This is a low-voltage EEG which is a normal finding.  If epilepsy is an important consideration, a repeat study can be obtained.
+
+
+

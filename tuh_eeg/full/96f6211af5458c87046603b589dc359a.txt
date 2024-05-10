@@ -1,0 +1,27 @@
+CLINICAL HISTORY:  PEA code, September 28.
+MEDICATIONS:  Epinephrine, norepinephrine, vecuronium, Depakote, and midazolam added later.
+INTRODUCTION:  Digital video EEG monitoring is performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  During the initial sections of the record, the patient received 6 mg of vecuronium to clarify the EEG pattern.
+DATE OF STUDY:  October 4 through October 5th. 10/04/2014- 10/05/2014
+DESCRIPTION OF THE RECORD:  The initial section of the record demonstrates continuous muscle artifact with head jerking and eye blinking at approximately 4 Hz.  Vecuronium is given at 2:57.  At 3:04, muscle activity started a bit.  In total, the patient received 5 mg of vecuronium.  At 3:06, the EEG demonstrates a very low voltage, featureless pattern with the EKG artifact in a subtle, frontal sharp transient.  With the vecuronium on board, the overall pattern of low voltage, quite suppressed with intermittent frontally predominant generalized periodic complex seen approximately at every 2-3 seconds with a small degree of variability.  By 3:17, the muscle artifact builds up and the muscle artifact clearly has a different periodicity of 4 Hz.
+The patient is considered hemodynamically quite fragile and discussion regarding midazolam was undertaken with the team.  BP 114/80, 122/67.  On the evening of the 4th, very slow titration of midazolam was undertaken to avoid worsening BP.  By 2:41, there was significantly left twitch artifact with primarily twitch artifact noted on the right and a low voltage, featureless pattern with beta.  Occasional slow periodic complexes could be identified underneath this artifact filled record.
+By 5:29, a low voltage, featureless pattern can be identified with slow intermittent periodic complexes seen as infrequently as 2/10 seconds.  At slow paper speed, there are only 3 to 5 discharges in a 30-second period in an otherwise suppressed background.  Changes in the patient's pharmacotherapy are not recorded, but intermittent sections of the record with muscle artifacts were noted.
+As recording progresses on October 5th, the background EEG is low voltage, slower, and more suppressed.  No notation is made as to whether not medications have been reduced.  The clinical team was contacted in regard to the lower voltage more suppressed pattern over time.
+Heart rate 119 bpm.
+IMPRESSION:  This first 24 hours of EEG monitoring is remarkable for.
+A pattern of 4 Hz activity, which was suppressed with the use of a neuromuscular blocking agent, not an antiepileptic agent suggesting that it is a postanoxic myoclonus pattern.
+Background EEG, which is low voltage, slow with very slow periodic frontal complexes.
+CLINICAL CORRELATION:  This pattern supports a severe anoxic insult, these findings were reviewed with clinical  the team.
+DATE:  October 5, 2014 through October 6, 2014.
+MEDICATIONS:  Cefepime, Depakote, Keppra, gentamicin, hydrocortisone, linezolid, micafungin, vancomycin, and others.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient remained intubated and comatose.
+DESCRIPTION OF THE RECORD:  This section of the record is remarkable for a burst suppression pattern.  The overall pattern is low voltage, relatively featureless.  It starts out with lower voltage theta.  As the recording continues, the overall pattern wanes and periods of suppression are a bit more prolonged.  Periods with cerebral activity demonstrate low voltage theta.
+No additional doses of vecuronium were given as the recording continued on the 5th into the 6th.  On the morning of the 6th, the EEG remained very low voltage, slow with some artifacts, but with a low voltage, slow theta pattern.  The final sections of the record on the 6th include a very low voltage relatively continuous theta pattern.  Testing was not performed to assess reactivity or variability.
+Heart rate 116 bpm.
+IMPRESSION:  EEG monitoring during this long-term EEG monitoring session for an individual anoxic encephalopathy was remarkable for:
+Postanoxic myoclonus pattern is identified on the previous sections of this record.
+Transition to a low voltage, very suppressed pattern.
+A final pattern with very low voltage theta by the morning of the 6th.
+CLINICAL CORRELATION:  This EEG demonstrates numerous worrisome patterns including relatively in variant pattern as well as a prolonged period with a burst suppression pattern.  These findings may be correlated with clinical exam and other neurodiagnostic findings.
+
+
+

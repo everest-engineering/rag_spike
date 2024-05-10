@@ -1,0 +1,18 @@
+History:	43 YR MALE WITH CC OF INCREASE IN SZS. AND FALLS   PMHX: RASMUSSENS ENCEPHALITIS (SURGERY ON LEFT.  WITH REFRACTORY SZS. INCREASED  SEIZURE ACTIVITY.
+Medications:	SOLUMEDROL, PHENOBARBITAL, TOPIRAMATE, VIMPAT, ATORVASTATIN, LISINOPRIL, COUMADIN, LORAZEPAM, PYRIDOXINE,  RITUXIMAB.
+Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 120 hours from 03/19/2014 to 03/24/2014. Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description: There is right-to-left interhemispheric asymmetry with slower waveforms at higher amplitudes over the left hemisphere.  The background over the right hemisphere consists of a mixture of theta, delta, beta, with unstable 8-9 Hz PDR and weak AP gradient.  No normal background organization is present over the left.  The background on the left consists of polymorphic moderate amplitude theta and delta admixed with overriding fast activity.  The are some stage changes noted in the record. Continuous polymorphic delta activity is present in the left posterior quadrant during wakefulness, increasing during drowsiness.  Frequent high amplitude almost periodic posterior temporal (T5) more than left parietal (P3) sharp waves, spikes and polyspikes are seen.  On the morning of 03/21/2014 and 03/22/2014 there were multiple electrical seizures lasting ~60-140 seconds. Seizures start with left parietal beta discharge that spreads over the posterior temporal leads and over the left hemisphere increasing in amplitude and decreasing in frequency.  On 03/22/2014 in the early AM the patient was reintubated and around 11AM the seizure stopped.
+Summary: 03/19/2014: No seizures. 03/20/2014: No seizures.  03/21/2014: Frequent electrographic seizures since the AM with some improvement in PM. 03/22/14: Frequent seizures restart in AM and stop
+Summary of Findings:
+Seizure
+Sharp waves
+Focal slowing, polymorphic
+Diffuse slowing, polymorphic
+Interpretation: This is a very abnormal 120 hour EEG due to recurrent focal seizures with left posterior quadrant late during that morning. 03/23/2014: No seizures.
+
+

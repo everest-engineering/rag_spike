@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 82 year old right handed male with history of syncope, atrial fibrillation, COPD, renal artery stenosis.
+MEDICATIONS: Metformin, Aspirin, Lisinopril, Coumadin, Heparin, Warfarin, Lasix
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation was performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a somewhat slow and disorganized pattern with primarily a theta frequency background. The theta is 6 Hz to 7 Hz. There is an amplitude asymmetry sometimes with lower voltage and slower activity on the left compared to the right. There is also a beta asymmetry with, at times, more beta on the right than the left. There are 2 isolated sharp waves noted in the record, right temporal and left central. Asymmetric eye movement artifact is observed. Scant driving is noted.
+HR: 78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Slow and disorganized pattern.
+2. Shifting slowing but more marked on the left hemisphere.
+3. Asymmetric eye movements.
+CLINICAL CORRELATION: In the absence of a mention of ocular pathology, electrode placement is in question and this study should be repeated. Solitary sharp waves are of unclear clinical significance and the focal features described above may be correlated with imaging.
+
+
+

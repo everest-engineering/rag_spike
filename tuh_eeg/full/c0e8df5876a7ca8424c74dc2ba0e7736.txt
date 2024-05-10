@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 33 year old right handed male who has an abnormality in the left frontal region, headaches. Past history of substance abuse. Previous abnormal MRI and EEG. Evaluate for seizures.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10-Hz, 40-microvolt posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow-rolling eye movements. Photic stimulation elicits bilateral driving at intermediate and faster flash frequencies. Hyperventilation produces a small increase in amplitude of the background and scant theta.
+HR: 78 bpm
+IMPRESSION: Normal EEG in wakefulness.
+CLINICAL CORRELATION: No focal nor epileptiform features were observed in this awake EEG. If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 58-year-old woman with chronic, paranoid schizophrenia, admitted with cellulitis and rhabdomyolysis, evaluated for metabolic encephalopathy.
+MEDICATIONS:  Insulin and vancomycin antibiotic
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1-channel EKG.  This is a technically somewhat challenging EEG with muscle artifact.  In addition, the patient had periorbital infections and the eye leads had to be moved a bit.
+DESCRIPTION OF THE RECORD:  Throughout much of the record the patient is quite drowsy.  In drowsiness, the pattern is a low voltage beta pattern with intermittent bursts of rhythmic frontal delta.  The bursts of FIRDA are typically 2-3 seconds in duration.  Stimulation of the patient produced a small increase in faster frequency activity.  Photic stimulation served to stimulate the patient.  There was a brief awakening and a driving response noted at intermediate flash frequencies.
+Heart rate:  90 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a low voltage beta pattern.
+FIRDA.
+CLINICAL CORRELATION:  The FIRDA and beta pattern described above are hallmarks of a metabolic encephalopathy.  Consideration for the use of benzodiazepines is appropriate.  This EEG may reflect the impact of the patient's chronic CNS condition as well as the metabolic encephalopathy.
+
+
+

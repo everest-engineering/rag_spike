@@ -1,0 +1,15 @@
+CLINICAL A 34-year-old woman with migraine headaches, and 2 episodes of consciousness. evaluate for seizures.
+
+MEDICATIONS: Toradol, Benadryl, and topiramate.
+Digital video EEG was performed in the tab using standard 10-20 system of electrode placement with 1 channel of EKG. This is a routine. inpatient EEG with hyperventilation and photic stimulation. It was technically satisfactory.
+DESCRIPTION OF RECORD: In apparent wakefulness, there is a 9 Hz posterior dominant rhythm. In wakefulness and hyperventilation, there are bursts of rhythmic frontal delta. As the patient drifts off to sleep, again prominent bursts of rhythmic frontal slowing were noted. On rare occasions, the bursts of frontal delta are somewhat notched.
+Photic stimulation was performed while the patient was drifting off to sleep and did not significantly activate the record.
+Heart rate 78 bpm.
+IMPRESSION: This is an abnormal EEG for an adult of this age due to:
+1. A small amount of background theta.
+2. Bursts of hypersynchronous frontal theta some of which are notched.
+CLINICAL CORRELATION: The findings described above are somewhat unusual. They are nonspecific and can be seen In the context of a toxic or metabolic encephalopathy. If this individual is thought to have epilepsy, additional EEG recording in search of a frontal or generalized epileptiform discharge may
+be considered.
+
+
+

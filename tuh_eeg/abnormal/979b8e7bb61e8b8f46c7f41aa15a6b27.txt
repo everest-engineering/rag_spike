@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  77 year old right handed woman with lifelong history of unusual migraine, diagnosed with complex partial epilepsy in 2005 with left temporal periodic sharp waves at that time, multiple medical problems.
+MEDICATIONS:  Depakote, Nasonex, Lipitor, Zetia, Nexium, Synthroid, Diovan, HCTZ, Prednisone, Hycodan, Symbicort, Spiriva, Delsym, Tassal (?)
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-defined 10 Hz alpha rhythm.  In relaxed wakefulness, discernable from her eye movement artifact there is some very subtle rhythmic 3-4 Hz left temporal theta.  This is apparent in relaxed wakefulness.  Photic stimulation elicits bilateral scant driving.  Brief drowsiness is characterized by attenuation of the alpha rhythm with more of a theta background.  Other features of drowsiness include an increase in beta.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+A scant amount of left temporal theta.
+CLINICAL CORRELATION:  Over the years, most EEGs for this adult have been normal.  The last time well-defined sharp waves were seen was when the epilepsy was diagnosed.
+
+
+

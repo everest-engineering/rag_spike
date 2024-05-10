@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 47-year-old man with recent left MCA stroke and seizures who now has episodes of staring, eye fluttering and unresponsiveness lasting for approximately 5 minutes.  This has occurred several times.
+CURRENT MEDICATIONS:  None listed.
+CONDITION OF THE RECORDING:  The recording was performed at the patient's bedside.  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is right to left interhemispheric asymmetry with faster wave forms over the right hemisphere.  The posterior dominant rhythm over the right hemisphere consists of polymorphic, low to moderate amplitude and 8.5 Hz alpha activity.  There is an anterior to posterior frequency amplitude gradient over the right.  Additional polymorphic theta is present diffusely over the right hemisphere.  Over the left hemisphere the posterior dominant rhythm reaches 7.5-8 Hz theta and PDR over the left is unstable.  There is no anterior to posterior frequency amplitude gradient over the left.  Polymorphic theta and delta activity is present over the frontotemporal region on the left.  During sleep, sleep spindles are captured.  They are better formed over the right hemisphere.  Hyperventilation and photic stimulation are not performed.  The patient is agitated during portions of the EEG.  During those periods there is a significant EMG artifact that limits interpretation of the recording during those times.  Heart rate is approximately 72 beats per minute.
+FINDINGS:
+Mild diffuse slowing.
+Moderate left hemispheric slowing, most pronounced over the frontotemporal region.
+Asymmetric of sleep architecture with sleep architecture pattern formed over the right hemisphere.
+No clear electrographic seizures.
+IMPRESSION:  This an abnormal awake and asleep 21-minute electroencephalogram due to mild diffuse slowing, focal moderate left hemispheric slowing, most pronounced over the left frontotemporal region and asymmetry of sleep architecture with sleep architecture pattern formed over the right hemisphere.  This mild diffuse slowing indicates __________ cerebral dysfunction.  Focal left hemispheric slowing and asymmetry of sleep architecture over the left indicates focal cerebral dysfunction, likely structural in etiology in this patient consistent with a known history of recent left MCA stroke.  No clear electrographic seizures were captured.
+
+
+

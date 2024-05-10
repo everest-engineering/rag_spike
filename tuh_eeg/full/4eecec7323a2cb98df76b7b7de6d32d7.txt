@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 67-year-old woman admitted with diabetic ketoacidosis, Glucose 1200 myoclonus, and previous left MCA infarct or atrophy.
+MEDICATIONS:  Ativan, insulin, Keppra.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel EKG.  The patient is poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The overall pattern is a diffusely slow pattern with a mixture of theta and delta.  Superimposed upon this is polyspike activity in the left hemisphere with fast activity and sharp waves with a variable field including left centrotemporal and anterior temporal regions.  In some cases, there is more clearly defined left to mid anterior temporal sharp wave.  There is some periodicity of the epileptiform activity.  On rare occasions, the right hemisphere seems to demonstrate an alerting response with some alpha frequency activity.  In addition, there is a burst of theta out of the right hemisphere noted at 12:53 and a 2nd burst noted at 12:57.  A 3rd burst is noted at 1:04.  The video is reviewed, the patient seems to be a little restless, rocking her head, but the theta on the right does not appear to be a head rocking artifact.  A final burst is noted at 1:11 at which point the patient is not moving.  An additional burst is noted at 1:16.
+Heart rate 120.
+IMPRESSION:  This is an abnormal EEG due to:
+Epileptiform focus out of the right posterior quadrant with brief repetitive seizures
+Generalized background slowing.
+Focal slowing from the left hemisphere.
+Sharp waves and spikes with poly spike activity and fast activity on the left.
+CLINICAL CORRELATION:  This EEG is highly supportive of an epileptiform brain.  There are clear spikes out of the left, but there are apparent seizures out of the right hemisphere.  Ongoing evaluation is suggested.
+__________________________
+
+
+

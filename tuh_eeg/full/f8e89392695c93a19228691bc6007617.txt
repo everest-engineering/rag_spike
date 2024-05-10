@@ -1,0 +1,23 @@
+CLINICAL HISTORY: 52 year old male with significant dementia, epilepsy attributed to
+alcohol abuse, head trauma when the patient experienced a seizure on admission to
+prison this past summer. Recent status epilepticus treated at
+outpatient.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+simulation are performed. Hyperventilation was not completed, but photic stimulation
+was performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a
+rhythmically slow pattern with an alpha rhythm of approximately 8 hertz. Features of
+drowsiness include an increase in beta. As the patient becomes drowsy, there is an
+asymmetry with dropout of rhythmic theta frequency activity observed in the right
+temporal region. Photic stimulation elicits driving, better identified on the left. The driving
+response is subtle.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic background slowing.
+2. Superimposed intermittent subtle focal slowing from the right.
+CLINICAL CORRELATION: No epileptiform features were observed. The subtle focal
+features are congruent with the imaging findings. The rhythmic background slowing may
+be part of his underlying cognitive impairment.
+

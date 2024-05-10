@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 40 year old male with acute agitation requiring ICU
+hospitalization and intubation.
+MEDICATIONS: Propofol, Midazolam, Ativan, Haldol, Acyclovir.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Despite the intubation and multiple sedative hypnotic medications, the patient is agitated. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern with generous beta activity and smaller amounts of theta and delta. There are some shifting asymmetries and some head-rocking artifact. The head-rocking artifact is a little more prominent on the right.
+
+HR: 120bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a primarily beta frequency pattern.
+
+CLINICAL CORRELATION: No epileptiform features are observed and there are no specific periodic features to suggest a herpes encephalitis. These new findings are most compatible with a pharmacologic pattern which may mask the underlying cerebral activity.
+
+
+

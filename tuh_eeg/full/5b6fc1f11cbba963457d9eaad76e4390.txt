@@ -1,0 +1,68 @@
+AGE: 54 y.o.
+SEX: male
+START DATE OF STUDY : 09/22/2015 22 :40 END DATE OF STUDY: 09/24/2015 05:59 RECORDING ENVIRONMENT: ICU
+EEG TYPE: LTM EEG #: 260
+HISTORY:
+a 54 y.o. Male with a history of GBM, s/p resection in 2014, admitted for elective resection 9/21/2015, who experienced altered mental status and a convulsion following the resection on 9/21/2015.
+MEDICATIONS: Keppra SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+Events were marked by the clinical staff. All clinical events as well as extensive random background samples including wakefulness, drowsiness, and sleep were reviewed.
+DAY 1 (9/21/2015, 22:40 - 9/22/2015, 08:00) BACKGROUND:
+The waking background is continuous, asymmetric,
+poorly-organized, and consists predominantly of alpha and theta with admixed delta.
+There is attenuation of faster frequencies and increased delta slowing seen continuously over the right hemisphere.
+There is mild to moderate generalized slowing. Posterior dominant rhythm was not clearly present. The background is reactive and variable.
+Sleep transients are not captured.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+EPILEPTIFORM ACTIVITY: Rare (<1 hour) left fronto-temporal sharply-contoured
+waves, at times more broadly distributed over the left hemisphere
+EVENTS: No clinical or electrographic events were reported or detected.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal long term video EEG due to:
+Poor organization
+Mild to moderate generalized slowing
+Attenuation of faster frequencies and increased delta slowing seen over the right hemisphere
+Rare (<1 hour) left fronto-temporal sharp-contoured waves, at times more
+broadly distributed over the left hemisphere
+These findings are consistent with right hemispheric dysfunction superimposed on mild to moderate diffuse cerebral dysfunction, with superimposed left fronto-temporal potentially epileptogenic discharges. Attenuation of faster frequencies over the right hemisphere may be seen with cortical injury or factors that increase the distance between the recording electrodes and brain parenchymal, such as subdural hematoma.
+DAY 2, 9/22/2015 From 08:00 to 9/23/2015 08:00
+BACKGROUND: Similar to day before: waking background is continuous, asymmetric, poorly-organized, and consists predominantly of alpha and theta with admixed delta. There is attenuation of faster frequencies and increased delta slowing seen over the right hemisphere.
+There is mild to moderate generalized slowing. Additionally,
+sleep is characterized by slowing of the background and decreased muscle artifact. No sleep transients are captured.
+GENERALIZED SLOWING: unchanged FOCAL SLOWING: unchanged
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): unchanged SPORADIC EPILEPTIFORM ACTIVITY:
+Rare bi-frontal sharp waves
+Occasional frontally predominant generalized rhythmic delta
+activity (GRDA) 'at 1.5 Hz, for periods of <15 sec. At times this activity becomes sharply contoured (GRDA+S); rarely, this activity develops a spike-wave morphology (SW).
+EVENTS: No clinical or electrographic events
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+Same as yesterday, and additionally:
+Occasional frontally predominant generalized rhythmic delta/spike-wave activity that does not evolve.
+Rare bi-frontal sharp waves
+Although frontally predominant generalized rhythmic delta activity is an abnormal finding with nonspecific implications (encephalopathy, deep structural lesions, increased intracranial
+pressure) , at times this activity appears more epileptiform, with sharply contoured waves or even rarely spike-wave morphology.
+This finding is an etiologically nonspecific indicator of cortical hyperexcitability. There are no definite seizures.
+DAY 3, From 9/23/2015 08:00 to 9/24/2015 05:59
+BACKGROUND: Waking background with fair organization, composed of mixture of alpha and theta frequencies. Sleep background unchanged.
+GENERALIZED SLOWING: mild generalized slowing FOCAL SLOWING: unchanged
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): unchanged SPORADIC EPILEPTIFORM ACTIVITY: unchanged
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+Improvement in background frequencies and organization, otherwise unchanged.
+FINAL IMPRESSION:
+This is an abnormal long term video EEG due to:
+Background slowing, which improved from mild-to-moderate to mild over the course of the study
+Background disorganization, which improved from poor organization to fair organization over the course of the study
+Attenuation of faster frequencies and increased delta slowing seen over the right hemisphere
+Rare (<1 hour) left fronto-temporal sharp-contoured waves, at times more broadly distributed over the left hemisphere
+Rare bi-frontal sharp waves
+Occasional frontally predominant generalized rhythmic delta activity (GRDA), at times with morphology more suggestive of GRDA+S or spike-wave (SW)
+FINAL CLINICAL CORRELATION:
+These findings are consistent with diffuse hyperexcitability, bi-frontal epileptogenic discharges, and potentially
+epileptogenic left fronto-temporal epileptogenic discharges.	No
+clinical or electrographic seizures were reported or detected. There is evidence for right hemispheric cortical/cerebral
+dysfunction, superimposed on diffuse cerebral dysfunction; the latter improved over the course of the study.
+
+
+
+

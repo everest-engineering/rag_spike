@@ -1,0 +1,14 @@
+MEDICATIONS:  Keppra, Advair, Topamax, Trileptal, Gemfibrozil, and Celexa.
+CLINICAL HISTORY:  A 29-year-old male with epilepsy, recent increase in seizures over the last month.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Impedances were not ideal.  Hyperventilation was deferred.  Photic stimulation was completed.
+DESCRIPTION OF RECORD:  In wakefulness, the background EEG is low voltage.  There is lambda, but it is difficult to identify an alpha rhythm.  The overall background includes both beta and theta frequency activity.  In relaxed wakefulness, there are bursts of rhythmic, frontally predominant 4-5 Hz activity.  On occasions, some of this is notched or demonstrates an underlying sharp wave at the midline and on the right.  As the patient becomes drowsy, hypersynchronous rhythmic higher amplitude theta is noted, but this can be slightly irregular in the right hemisphere and continues to demonstrate the prominent frontal theta component.
+Photic stimulation did not significantly activate the record.
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Paucity of the normal morphologies anticipated in wakefulness.
+Hypersynchronous frontally predominant theta, some of which seems to have a sharp wave in the right frontal region or at the midline.
+CLINICAL CORRELATION:  The abnormal background is a nonspecific finding.  It can be seen in the context of epilepsy but can also be seen in the context of a metabolic encephalopathy or other diffuse disturbances of cerebral function.
+Consider a frontal or right frontal focus for epilepsy.
+
+
+

@@ -1,0 +1,45 @@
+History:	unknown male found down at the bottom on 8 steps severely intoxicated. Found to
+have SAH/SDH, s/p craniectomy / evacuation of hematoma followed by drain
+placement. 3/22- episode of generalized shaking for 15-20 mins.
+Medications:	Keppra, Fentanyl, Desmopressin, Famotidine, Metoprolol, Ativan, Magnesium
+Sulfate, Hydralazine, Dilaudid, Gentamicin, Tylenol, Lovenox, Vancomycin,
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 18 hours from 3-23-2015 to 3-24-2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+none
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the left hemisphere maximal midtemporal.
+There is an asymmetry of beta activity, with increased amplitude on the left.  Rare focal sharp
+waves are present with phase reversal and amplitude maximum at F7/T3.  No clinical or
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  Hr was 90  Some electrode movement artifact seen over the left
+hemisphere electrodes. Particularly in the T3 electrode which impeded clear evaluation of this
+Summary of Findings:
+Sharp waves, rare, left temporal, anterior
+Focal slowing, polymorphic, continuous, left hemispheric, associated breach in this region
+Diffuse slowing, polymorphic, continuous, severe diffuse
+Attenuation, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of left anteriotemporal sharp waves, continuous focal slowing
+in the left hemisphere and breach.  This finding is indicative of a focal irritative structural lesion in
+this region which is potentially epileptogenic and consistent with the known subdural and
+craniotomy. In addition there is .  diffuse background slowing, attenuation and absent alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate to severe diffuse
+cerebral dysfunction.electrographic seizures were present.area.	Propranolol, Zosyn
+
+
+
+
+
+

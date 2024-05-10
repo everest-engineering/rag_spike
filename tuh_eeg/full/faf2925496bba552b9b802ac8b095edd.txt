@@ -1,0 +1,22 @@
+HISTORY:
+This is a 55-year-old male with a past history of lead poisoning, mental retardation, and epilepsy. The patient had a subdural
+hematoma following a trauma. That trauma was in October 2010.
+MEDICATIONS:
+Lamictal, Trileptal, Depakote.
+DESCRIPTION:
+Digital EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic
+stimulation was completed. This is an awake and drowsy record.
+DESCRIPTION OF RECORD:
+The background EEG is markedly abnormal. It is overall relatively low voltage. It is a featureless pattern. The normal morphologies in an awake adult including an alpha rhythm are not identified. There is intermittent, rhythmic 3 to 4 Hz activity noted in the left hemisphere. From the right hemisphere, there are high-amplitude spike and slow wave discharges with a generous field of spread. They are maximum in the central and temporal regions but sometimes as far as C4. The epileptiform discharges are accompanied by paroxysmal fast activity. Stimulation of the patient produces some muscle artifact as well as some bilateral theta frequency activity. Drowsiness is characterized by an increasing beta. The epileptiform activity does seem to increase in drowsiness. Photic stimulation appears to accentuate paroxysmal fast activity and right hemispheric spike and slow wave complexes.
+HEART RATE:
+Irregular, 60 BPM, with frequent PVCs.
+IMPRESSION:
+Markedly abnormal EEG due to:
+1. An abnormal background, slow without the normal morphologies in an adult.
+2. Right hemispheric spike and slow wave activity.
+3. Right hemispheric paroxysmal fast activity.
+CLINICAL CORRELATION:
+These findings are similar to the EEG of October 15, 2010. They are also similar to the April 15, 2008, EEG.
+
+
+

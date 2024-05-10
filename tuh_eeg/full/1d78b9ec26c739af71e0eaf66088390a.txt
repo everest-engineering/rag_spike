@@ -1,0 +1,55 @@
+AGE: 67 y.o.
+SEX: female
+M.D.
+DATE OF STUDY: 12/31/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1891
+HISTORY:
+67 y.o. female with a history of new onset seizures earlier this week.	Found shaking and not responding. Imaging demonstrated atrophy and asymmetric volume loss of the left temporal lobe, concomitant dementia referred for routine EEG for characterization of seizures.
+MEDICATIONS:
+Current Outpatient
+Prescriptions:
+furosemide (LASIX) 20 mg tablet, Take
+1 tablet by mouth daily.
+hydroxychloroquine mouth daily.
+(PLAQUENIL) 200 mg
+tablet, Take 2 tablets by
+Cholecalciferol, Vitamin D3, 2,000 unit Capsule, Take Units by mouth daily (with dinner). .
+CALCIUM CARBONATE/VITAMIN D3 (OYSTER SHELL CALCIUM-VIT
+Take 1 tablet by mouth daily.
+2,000
+D3 PO)I
+magnesium oxide (MAG-OX) 400 mg tablet, Take 400 mg by mouth daily.
+warfarin (COUMADIN) 4 mg tablet, Take 4 mg by mouth daily. TAKES AS DIRECTED PER PCP Alternates Takes 2 tabs Mon, Tues, Wed, Thurs,and Friday. And 1 tab on Sat, and Sunday. Noted 08/21/15. lovastatin (MEVACOR) 20 mg tablet, Take 20 mg by mouth nightly. amlodipine (NORVASC) 5 mg tablet, Take 5 mg by mouth daily.
+METOPROLOL TARTRATE (LOPRESSOR PO), Take 50 mg by mouth daily.
+METFORMIN HCL (METFORMIN PO), Take 500 mg by mouth 2 times daily. LIS NOPRIL PO, Take 40 mg by mouth daily.
+Patient is also taking another seizure medication name unknown. No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a	technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is markedly abnormal.	There is a clear asymmetry.	The right hemispheric demonstrates a 10 Hz alpha rhythm and what seems to be an alpha subharmonic of 5 Hz.	The pattern from the right hemisphere is low-voltage and there is underlying low-voltage beta and theta.	The left hemisphere demonstrates significant attenuation of faster frequency activity and is a lower voltage theta delta pattern.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.	The asymmetry noted previously as not quite as marked but is still prominent.	Most notably, there is far less beta noted on the left
+Sleep is not sustained
+Generalized slowing is present. Focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Photic Stimulation: Elicited unilateral driving on the right
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 48 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is abnormal routine EEG.
+#1 Marked slowing from the left hemisphere
+#2 unilateral driving
+#3 mild slowing noted on the right
+CLINICAL CORRELATION:
+This EEG supports a structural or functional process on the left.
+In addition, the bihemispheric slowing supports a bilateral process.	No epileptiform features were identified . These findings should be correlated with imaging
+
+
+

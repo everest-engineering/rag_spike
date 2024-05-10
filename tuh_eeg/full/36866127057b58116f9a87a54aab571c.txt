@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 57-year-old woman with prior left anterior choroidal artery aneurysm rupture, this is a baseline EEG prior to angiogram for possible clip or coil.
+MEDICATIONS:  Aspirin, Plavix, Aleve, Norvasc, Tylenol No. 3, others.
+INTRODUCTION:  Twenty-minute digital video EEG was performed at the bedside in the angiography suite using standard 10-20 system of electrode placement with 1-channel of EKG.  This was an awake and drowsy record.  An electrographic seizure was recorded.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the background EEG demonstrates a symmetric reactive 9.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  At 7:06, subtle focal slowing emerges from the left mid to anterior temporal region.  This is followed by the appearance of more rhythmic focal slowing at 07:06:41.  The alpha rhythm is present at 07:06:52 and seizure onset is likely 2 seconds after that for approximate seizure duration 1 minute 19 seconds.  Ictal characteristics include the development of rhythmic repetitive delta than theta and by 07:07:10 sharp waves maximum at T1, followed 4 seconds later by fast activity.  Exquisite, fast activity is picked up at T1 and in the left anterior temporal regions.  The rhythmic repetitive theta activity with superimposed fast activity is noted during the seizure, the operative team is moving about and there is a background beta artifact.  The seizure continues at 07:08:04, but ends abruptly at 07:08:14.  There is a lower voltage fast activity and then 4 seconds of subtle underlying left temporal delta.
+Behavioral Characteristics:  The patient is resting quietly.  Oral automatisms were noted.  There is a great deal of background noise.  Testing was performed at 07:07:44 during the ongoing electrographic seizure, although latent seizure and the patient is able to answer questions appropriately.  The patient was not aware of the seizure.  As the recording continues, the patient is allowed to rest comfortably and the pattern includes awake drowsy record without any additional epileptiform activity.
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Electrographic left temporal seizure with oral automatisms, limited testing but no impairment of speech but patient not aware of the event.
+CLINICAL CORRELATION:  This EEG is diagnostic of a localization related mechanism for epilepsy.  This is a new finding for this individual who has had previous EEG studies.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 24-year-old male with psychiatric illness and confusion.
+MEDICATIONS:  Sertraline, alprazolam, hydroxyzine.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz, 40 mV posterior dominant rhythm and a small amount of low voltage, frontocentral beta.  Photic stimulation elicited bilateral driving.  Hyperventilation produced minimal changes in the background.
+Heart rate 66 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in the record.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

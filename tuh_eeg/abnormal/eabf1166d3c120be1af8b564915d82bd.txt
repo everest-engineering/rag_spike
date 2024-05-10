@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  25 year old right handed male with a history of febrile convulsions.  The patient had a concussion and developed more seizures, and required a vagal nerve stimulator.  In April he had several tonoclonic seizures with loss of consciousness and aura.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel  EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG includes a 9 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  The patient transitions in and out of sleep with prominent, hypnagogic hypersynchrony.  During photic stimulation, however, 6 Hz spike and wave activity is noted.  This is noted again during photic stimulation with a 5.5 Hz very brief spike and wave complex during various different photic stimulation parameters. Hyperventilation seems to accentuate the frontally predominant relatively symmetric spike and wave activity. On at least 1 occasion during the EEG, neuro artifact is noted, but no definitive vagal nerve stimulator artifact was observed.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Frontally predominant 5.5 Hz spike and wave activity accentuated by hyperventilation and photic stimulation.
+CLINICAL CORRELATION:  Hypnagogic hypersynchrony is a normal phenomenon, but may resemble a forme-fruste of the generalized spike and wave activity.  This patient clearly had generalized spike and wave activity.  This is more supportive of a generalized mechanism for epilepsy.  In this particular EEG, there were no asymmetries and there is otherwise a normal background.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 50-year-old female with history of mental retardation, childhood onset epilepsy, psychosis, osteopenia, nonobstructive kidney stones, obesity who presents for epilepsy followup.
+MEDICATIONS:  Levetiracetam, topiramate, carbamazepine.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10/20 system of electrode placement with 1-channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 6.5-7 Hz in frequency seen in the occipital region.  The background activity was disorganized and characterized by 6-7 Hz diffuse theta activity seen during wakefulness, which is distributed symmetrically.  There were bursts of sharp wave discharges noted at vertex during wakefulness lasting up to 6-7 seconds with no evolution or behavioral changes. Drowsiness was characterized by disappearance of blink artifact and at times disappearance of sharp wave activity at vertex.
+Photic stimulation was performed with no driving response.  Heart rate was 80-95 beats per minutes and regular.
+IMPRESSION:  This is an abnormal EEG recording due to disorganized background activity with diffuse slowing in theta range seen during wakefulness.  There was also slowing of the posterior dominant rhythm. There are, vertex sharp wave discharges during wakefulness.
+CLINICAL CORRELATION:  Diffuse slowing of the background could be due to toxic, metabolic, infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medications or bilateral cerebral dysfunction or degenerative brain disease.  Presence of sharp wave discharges at vertex is indicative of excitability of the cortex that places this patient at higher risk for generalized seizures.  Clinical correlation is recommended.
+
+
+

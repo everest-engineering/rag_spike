@@ -1,0 +1,12 @@
+CLINICAL HISTORY:	40 year old female with HIV, seizures, mental retardation in for a follow-up.
+MEDICATIONS:  Keppra.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: This is well organized EEG. There is no asymmetry.  She has a normal alpha of 10 Hz.  Photic stimulation and hyperventilation do not activate the record.
+HR:	66 bpm
+IMPRESSION: 	Normal EEG
+CLINICAL CORRELATION:  There is no epileptiform activity or focal features.  If
+clinical history warrants, a long-term monitoring EEG can be considered, either inpatient or outpatient Digitrace study.
+
+
+
+

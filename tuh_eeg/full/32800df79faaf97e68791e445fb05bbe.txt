@@ -1,0 +1,18 @@
+History:	83 year old man with a recent ICH. Medications:	no AEDs
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 14 hours from 09/04/2014 till 09/06/2014.  Nursing­ initiated event buttons were correlated with clinical behavior.	Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient. The background consists of a mixture of polymorphic low-to-moderate amplitude theta and delta activity. No normal sleep architecture is present but periods of quiescence are captured. However, these cycles are rare and brief.
+No electrographic seizures are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe No electrographic seizures
+Interpretation:
+This is an ABNORMAL 14-hour continuous video EEG due to moderate-to-severe diffuse slowing. This finding is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific. No electrographic seizures are present.
+
+
+

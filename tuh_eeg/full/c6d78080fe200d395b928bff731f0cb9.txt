@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  Left MCA infarct, subsequent seizure.  This is a 49-year-old woman admitted on the 16th with worsening aphasia, right-sided weakness, stroke, and seizure.  The patient admitted with worsening stroke, previous stroke with seizure in April 2013.
+MEDICATIONS:  Lisinopril, atorvastatin.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an asymmetry between the 2 hemispheres.  There is a 9 Hz alpha rhythm on the right.  The left hemisphere demonstrates rhythmic delta with a phase reversal at F7.  This is a sharply contoured background and there is some sharp transients at T3/F7.  As the recording continues, in relaxed wakefulness, the EEG is reasonably well organized from the right hemisphere with just a small amount of frontal slowing and generous beta.  The left hemisphere demonstrates continuous a disruption of faster frequency activity, although there is some theta.  The sharp waves in the left hemisphere ranged from well-defined to discrete.  Most have a phase reversal in the temporal regions whether it is anterior temporal or mid temporal, but some have a bit more posterior temporal distribution.  Features of drowsiness include an increase in background slowing followed by arousals.  On one occasion, the transition towards an arousal, there is a sharp wave on the right.
+Heart rate is 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Essentially continuous rhythmic slowing from the left hemisphere.
+Disruption of faster frequency activity on the left.
+Sharp waves, primarily left anterior temporal, but with some variability in terms of amplitude in spread.
+CLINICAL CORRELATION:  This EEG supports a structural process on the left involving gray and white matter, congruent with acute and subacute stroke.  Previous
+EEG demonstrated left posterior temporal sharply contoured slowing in this EEG has a little bit more anterior temporal slowing.
+
+
+

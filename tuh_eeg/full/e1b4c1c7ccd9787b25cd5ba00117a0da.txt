@@ -1,0 +1,10 @@
+TOTAL LENGTH OF THE RECORDING:  1 hour 27 minutes.
+CLINICAL HISTORY:  The patient is an 83-year-old man with left internal carotid artery critical stenosis, who is currently undergoing left carotid endarterectomy.
+PAST MEDICAL HISTORY:  Notable for CABG, diabetes, strokes, Alzheimer's dementia, and other.
+MEDICATIONS:  Versed, fentanyl, lidocaine, propofol, vecuronium, azafluorene.
+INTRODUCTION:  Continuous EEG was performed in the operating room using standard CA montage.  This was a 1 hour 27 minute EEG recording with approximately 1 hour intraoperative physician attendance.
+DESCRIPTION OF THE RECORD:  The patient is awake when the recording starts.  Voltages are diffusely variable.  The background consists of diffuse low amplitude theta activity with intermittent blink artifact.  As the patient receives anesthesia, the patient briefly enters burst suppression pattern.  Once burst suppression pattern resolves, the background consists of a mixture of polymorphic theta and delta activity with underlying diffuse beta activity.  As the degree of anesthesia varies during the recording, there are intermittent periods of diffuse background discontinuity and increase in the degree of beta activity.  Heparin is administered at 09:14:20 a.m.  External carotid artery is clamped at 09:20:18 a.m.  Internal carotid artery is clamped at 09:20:42 a.m.  Common carotid artery is clamped soon after.  This produces no changes in either of the hemispheres.  These findings are reported to the surgeon.  As the surgery progresses, there is no significant change in the background.  The artery is unclamped at 10:18:33 a.m. and the study is completed at 10:22:13 a.m.
+IMPRESSION:  EEG monitoring during left carotid endarterectomy did not produce any EEG changes with the placement of the clamps.
+
+
+

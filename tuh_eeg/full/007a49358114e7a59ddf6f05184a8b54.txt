@@ -1,0 +1,26 @@
+History:	64 YO FEMALE IN OR FOR PULMONARY THROMBOSIS, ENDARTERECTOMY.
+Medications:	PROPOFOL, FENTANYL, VECURONIUM
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  As the EEG continues and with anesthesia there is  diffuse admixed 50-75
+uV, 4-7Hz activity present with intermixed diffuse faster beta frequencies. The patient begins
+cooling at 09:49AM. Some intermittent right frontal sharps and later generalized periodic
+discharges are seen as the patient reaches  19.6 degrees (F). At 10:26 the background is completely
+suppressed and the primary team is informed. Rewarming commences at 11:55 AM. Symmetric
+bursts can be seen by 12:08PM and by 12:29PM the EEG is continuous. There is a slightly lower
+amplitude on the  right occipital region but this improves. The background remains moderately
+diffusely slow at the end of the record.  No normal sleep architecture was present despite prolonged
+No focal slowing is present.
+Hyperventilation and photic stimulation are not performed.  There is an intermittent P3 artifact
+seen with the cooling pump.
+Summary of Findings:
+Other, Uneventful EEG during cardiac arrest.
+Interpretation:
+This is an uneventful 4Hr EEG during endarterectomy and cardiac arrest surgery.
+
+

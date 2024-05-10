@@ -1,0 +1,27 @@
+History:	80 year old woman who presented with right sided weakness in the setting of severe hyperglycemia. Left subdural hematoma was subsequently found. Patient was less responsive this am, in the setting of relative hypoglycemia.
+Medications:	Ativan 2 mg yesterday., Labetalol, protonix
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 26 hours from 07/02/2014 to 07/03/2014.  Nursing- initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+
+Description:
+There is right to left intrahemispheric asymmetry with slower waveforms and voltage attenuation over the left. The background over the right consists of 9 Hz PDR with normal AP gradient and excess theta activity. The background over the left consists of a mixture of attenuated polymorphic theta, delta and occasional alpha activity with absent AP gradient. No normal sleep architecture is present.
+
+Nearly continuous ~1 Hz quasi-periodic low amplitude poorly formed and localized sharp waves are noted over the left, with maximal scalp negativity over ~C3/P3 electrodes (1Hz quasi-PLEDs). These progressive become less prominent and by about 5PM are no longer seen.
+
+Hyperventilation and photic stimulation are not performed. An irregular heart rate is note at time at a rate of 96.
+
+Summary of Findings:
+PLEDs (periodic lateralized epileptiform discharges), left central Attenuation, left hemispheric
+Diffuse slowing, polymorphic, marked
+
+Interpretation:
+This is an ABNORMAL portable EEG due to mild diffuse slowing and continuous moderate left hemispheric moderate focal left hemispheric slowing, attenuation and left centroparietal quasi-periodic epileptiform discharges that improve.. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific. Focal left hemispheric slowing, attenuation and epileptiform discharges indicate focal cerebral dysfunction, likely structural in etiology, with increased epileptogenic potential.
+Voltage attenuation could indicate a fluid collection between a skull and a brain, such as hematoma, empyema, etc.
+

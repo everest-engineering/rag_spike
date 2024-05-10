@@ -1,0 +1,13 @@
+CLINICAL HISTORY:	50 year old male with VP shunt status post intracerebral hemorrhage in April of 2009. Left-sided weakness.  Past history of cocaine abuse.
+MEDICATIONS: Patient unable to give list.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness,  the background EEG is mildly slow. The activity is higher amplitude on the right than the left. There is an 8 Hz alpha rhythm better represented on the right compared to the left. The left is globally lower voltage and slower, but there is intermittent focal mixed theta and delta from the right hemisphere. Features of drowsiness include an increase in beta followed by vertex waves. Photic stimulation does elicit driving. Frontal eye movement artifact is quite prominent.
+HR:	80 bpm
+IMPRESSION: Abnormal EEG due to:
+1.    Generalized background slowing.
+2.   Superimposed focal slowing on the left characterized by slower frequency activity on the left as well as disruption of faster frequency activity.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function with more disruption in the left hemisphere in both gray and white matter. This is a follow-up EEG.  The first, acute EEG demonstrated marked generalized slowing.
+Neither EEG demonstrated epileptiform activity.
+
+
+

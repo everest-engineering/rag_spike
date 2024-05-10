@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 	52 year old male with hypoglycemic encephalopathy and gastric carcinoma.
+MEDICATIONS:  Phenobarbital,  Insulin, Valproic Acid, Keppra, Pantoprazole, Thiamine, Vancomycin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient has a tracheostomy and spontaneous eye opening.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low-voltage, featureless slow pattern, somewhat slower amplitude on the left compared to the right. The patient demonstrates two artifacts in eye movement.  There is intermittent low­ voltage more rhythmic data activity. Most of the time it  is a lower voltage featureless delta pattern.
+HR:	90 bpm
+IMPRESSION:  Abnormal EEG due to:
+1.   Slow low-voltage featureless pattern in a patient who looks to be somewhat awake.
+CLINICAL CORRELATION:   This EEG supports a chronic severe encephalopathy.  No reactivity to external stimuli was identified today.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 58-year-old gentleman with diabetes and recurrent syncopal spells.
+MEDICATIONS:  Metformin, 2 pain medicines
+INTRODUCTION:  Routine 20 minute digital video EEG was performed the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is an awake and asleep record.  It was technically satisfactory aside from 2 electrodes with impedances greater than 5 kilo-ohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a low voltage, 9 Hz alpha rhythm which is symmetric and reactive to eye opening.  As the patient becomes drowsy, there is occasional temporal focal slowing noted.  These findings are less prominent as the patient transitions in and out of stage 2 sleep.  The patient also seems to have snore arousals.
+Photic stimulation was performed while the patient is a bit drowsy, but did produce a driving response.
+Heart rate 78 bpm.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Left temporal focal slowing, at times sharply contoured.
+CLINICAL CORRELATION:  There were no definitive sharp waves or spikes noted in the record.  The focal slowing described above seen primarily in the drowsy state, can be seen in the context of a structural functional abnormality, but can also be seen in the context of cerebrovascular disease.  Correlation with brain imaging is suggested.
+__________________________
+
+
+

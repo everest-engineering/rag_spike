@@ -1,0 +1,23 @@
+History:	34 year old man with poor mental status.
+
+Of note, due to patient's size, the placement of some of the leads is off and
+impedances of some of the leads are high.
+Medications:	Versed drip
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Description:
+There is no PDR or AP gradient.  The background consists of diffuse ~12 Hz low-to-moderate
+amplitude activity with frequent eye blinking and eye flutter artifact.  No normal sleep architecture
+Hyperventilation and photic stimulation are not performed.  There are several brief episodes of
+either right or left arm raising without an abnormal ictal correlate.
+Summary of Findings:
+Beta, excessive
+No stage 2 sleep
+Interpretation:
+This is an abnormal awake only portable 25-minute EEG due to mild diffuse slowing and
+disorganization. These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction that in this patient at least partially medication induced.  There is frequent eye blinking
+and eye flutter artifact without an abnormal ictal correlate.  Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.
+

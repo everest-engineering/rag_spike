@@ -1,0 +1,24 @@
+History:	73 year old man who presents with several witnessed seizures.
+Medications:	KEPPRA, Ativan and propofol (now off)
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm consists of 10-11 Hz alpha activity.  There is AP gradient.  Diffuse
+excess beta activity is captured.  During brief drowsiness, there is diffuse voltage attenuation and
+decrease in EMG artifact.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Beta, excessive
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is a NORMAL awake and briefly drowsy portable 21-minute EEG. The lack of epileptiform
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+

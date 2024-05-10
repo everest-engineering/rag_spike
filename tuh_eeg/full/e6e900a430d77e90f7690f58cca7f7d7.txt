@@ -1,0 +1,41 @@
+AGE: 29 y.o.
+SEX: female
+DATE OF STUDY: 10/16/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG #: 15-1532
+HISTORY:
+a 29 y.o. female with a history of hydrocephalus, seizure free for many years referred for routine EEG for chronic pain radiating into her arms, with left arm weakness. Describes some events which may be sleep paralysis.
+Also, an unusual epilepsy syndrome with rare spells and two normal EEGs.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+citalopram (CELEXA) 20 mg tablet, Take 20 mg by mouth daily. Temazepam (RESTORIL) 30 mg capsule, Take 30 mg by mouth nightly as needed.
+ALPRAZOLAM (XANAX PO), Take 1 mg by mouth 4 times daily.
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG HV and photic stimulation.
+Frequent eye blink was noted
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-t_o-posterior gradient. Wakefulness is characterized by a symmetric and reactive 11.0 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening. The initial wake record had frontal alpha and frequent eye flutter
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during brief Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: produces an increase in amplitude Photic Stimulation: Stepped photic stimulation from 1-21
+flashes per second (fps) induces vigorous symmetric photic driving, which is a normal finding.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal Drowsy and asleep	routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal Awake and asleep routine EEG.	The eye flutter does not interfere with the interpretation
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+
+

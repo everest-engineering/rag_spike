@@ -1,0 +1,36 @@
+AGE: 24 y.o.
+SEX: male
+DATE OF STUDY: 11/24/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE: 40-60 min, awake and asleep EEG #: 15-1724
+HISTORY :
+24 y.o. male with a history of possible seizures since age 15 referred for routine EEG. for evaluation of paroxysmal events .
+MEDICATIONS:
+Current Outpatient Prescriptions:
+divalproex (DEPAKOTE ER) 500 mg 24 hr tablet, Take 1 tablet by mouth 2 times daily.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation .
+EEG BACKGROUND :
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with occasional excess of theta frequencies. There is a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR) . The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+Mild generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+None
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 54-60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG due to:
+1. Mild generalized slowing
+CLINICAL CORRELATION:
+These findings indicate the presence of mild diffuse cerebral dysfunction.
+
+
+

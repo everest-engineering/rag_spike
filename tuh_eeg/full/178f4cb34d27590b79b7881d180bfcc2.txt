@@ -1,0 +1,29 @@
+History:	PRIOR EEG 70 YR FEMALE WITH H/O COMPLEX PARTIAL , CVA, DM, CRI.  SZS.
+LAST SZ  10/2010 LAST ADM.  PMHX OF SZS, CVA  FOLLOW UP EEG
+1/13/14 FOLLOW UP EEG
+Medications:	ASA, TEGRETOL, DILTIAZEM, LISINOPRIL, DYAZIDE, FEXOFENADINE.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates with eye
+opening with an asymmetry in amplitude, decreased and at times interrupted on the right.  Frontal
+18-25Hz activity is present with a voltage asymmetry and decreased amplitude over the right
+hemisphere.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic delta activity is present in the right hemisphere maximal in the central
+region at C4.  Intermittent polymorphic delta activity is present in the left midtemporal region at
+T3.  No epileptiform discharges are present.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal, mid
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the right
+hemisphere maximal in the central region. This finding is indicative of severe focal cerebral
+dysfunction in this region, likely involving cortex and consistent with the known atrophy and stroke.
+In addition there is evidence of  intermittent focal slowing in the left midtemporal region.  This
+finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.  No clinical or
+
+

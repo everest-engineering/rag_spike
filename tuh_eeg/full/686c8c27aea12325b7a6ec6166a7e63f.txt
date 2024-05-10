@@ -1,0 +1,27 @@
+History:	43 year old woman with an extensive PMH, including AIDS, now presents with
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, lethargic, photic
+Description:
+During maximal arousal there is no PDR or AP gradient.  The background consists of a mixture of
+diffuse polymorphic theta and delta activity, with delta activity most predominant anteriorly.  Subtle
+symmetrical sleep spindles are captured early in the recording.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.  A single EKG lead demonstrates heart rate
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, bilateral frontal
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL portable awake and asleep 22-minute EEG due to moderate diffuse slowing
+and focal bifrontal focal slowing. Diffuse slowing is indicative of moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Focal slowing in the bifrontal regions is indicative of
+focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  A
+single EKG lead demonstrates heart rate of ~ 130 bpm.
+
+
+
+

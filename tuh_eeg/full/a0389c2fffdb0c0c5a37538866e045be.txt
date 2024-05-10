@@ -1,0 +1,38 @@
+History:	59 year old man with a history of seizures, now presents with seizure recurrence.
+Medications:	Dilantin, Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 5/3/2015 till 5/4/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+During periods of arousals, the background consists of a mixture of low amplitude fast activity and
+polymorphic theta activity.  Normal sleep architecture, including sleep spindles and REM sleep is
+captured.
+Continuous polymorphic theta and delta activity is present over the left temporal region.  Many
+electrographic seizures are captured. They are occasional, occurring every 1 to 2 hours. They last ~
+20-40 seconds.  Electrographically, they are characterized by rhythmic 3-4 Hz low amplitude delta
+activity that is seen over the left temporal region with spread over the left hemisphere.
+Summary of Findings:
+Seizure, occasional, left temporal
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, left temporal
+Beta, excessive
+Interpretation:
+This is a very abnormal ~ 24 hours continuous video EEG due to (1) diffuse background slowing; (2)
+continuous left temporal focal slowing and (3) occasional left temporal electrographic seizures that
+last 20-40 seconds and occur during wakefulness and sleep.  These findings indicate focal
+structural lesion over the left temporal region.  Additionally, there is diffuse etiologically non-
+specific slowing.  Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.  These findings were conveyed to the primary team.
+
+
+
+
+

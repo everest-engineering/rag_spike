@@ -1,0 +1,27 @@
+History:	65 year old man who presents with change in MS.
+Medications:	Protonix, Depacon, Lorazepam, Insulin
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+There is no PDR and no AP gradient.  There is right-to-left interhemispheric asymmetry with
+paucity of faster frequencies over the right.  The background over the left consists of diffuse fast
+~12-14 Hz activity with occasional polymorphic theta and delta activity.  The background over the
+right consists of a mixture of polymorphic attenuated theta and delta activity with occasional
+underriding 12-14 Hz activity.  Focal theta and delta are most pronounced over the lateral leads.
+Fragments of sleep spindles and vertex waves are noted, with sleep architecture better formed over
+No clear epileptiform discharges are noted.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic
+Focal slowing, polymorphic, continuous, moderate, right hemispheric, most pronounced over the
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL 23-minute EEG due to diffuse background slowing and focal slowing over
+the right hemisphere (most pronounced over the temporal region). Diffuse slowing is indicative of
+moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Given the appearance of
+the waveforms, slowing is at least partially medication induced.  Continuous focal slowing is
+indicative of a focal structural lesion over the right hemisphere.  The lack of epileptiform discharges
+on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+

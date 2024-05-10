@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  An 80-year-old woman with hypertension, hyperlipidemia, and previous neurosurgery with shunt on the right.  Currently seizure free.
+MEDICATIONS:  Keppra, Norvasc, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a routine, greater than 20 minutes EEG, with impedances acceptable aside from the T1-T2 electrodes.  The patient had frequent oral chewing movements in wakefulness, which resolved as the patient drifted off to sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Despite the muscle artifact, there is an underlying breach rhythm with subtle focal slowing noted in the right hemisphere.  As the patient becomes drowsy, this subtle, intermittent focal slowing is a little bit more prominent with occasional theta delta.  Photic stimulation elicited  scant driving.
+Heart rate:  66 BPM.
+IMPRESSION:  Mildly abnormal EEG for an adult of this age due to:  Subtle, right-sided focal slowing.
+CLINICAL CORRELATION:  A breach rhythm is an anticipated finding following craniotomy.  The epileptiform activity described above is of unclear clinical significance.
+
+
+

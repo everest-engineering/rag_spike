@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 39-year-old male with syncope.   These symptoms began with a warm sensation, followed by loss of consciousness.  Past history of depression and anxiety, head trauma, coma in 2002.
+MEDICATIONS:  Aspirin.
+INTRODUCTION:  Routine 26 minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is a technically satisfactory record aside from T1-T2 impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage.  There is an 8.5 Hz alpha rhythm.  Early in drowsiness, there is prominent background theta.  Other features of drowsiness include slow rolling eye movements.  Hyperventilation produces a small amount of background slowing.  Photic stimulation elicited bilateral driving.
+HEART RATE 72 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and light sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  In this individual with a history of traumatic brain injury, this routine EEG was normal.
+
+
+

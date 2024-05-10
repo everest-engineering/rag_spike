@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 33-year-old woman with epilepsy, tonic-clonic seizures with post ictal confusion, last seizures 2 months ago with shaking, eye rolling and tongue biting.  Previous seizures in pregnancy 3 years ago.
+MEDICATIONS:  Topamax, Seroquel, Vistaril.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and an asleep record.
+TECHNICAL:  Impedances were a little higher at T1, T2 and C3.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low amplitude but there is a 10.5 Hz alpha rhythm and generous, low-voltage, frontocentral beta.  The patient seems to be quite drowsy, drifting in and out of a drowsy state with slow moving eye movements and an increase in beta followed by rhythmic central theta.
+Photic stimulation elicited vigorous bilateral driving.  Hyperventilation was performed for this drowsy adult and did not significantly activate the record.
+Heart rate:  66 BPM.
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  This patient had a previous normal EEG 06/10/2010 with a question of temporal rhythmic in a temporal state of drowsiness.  This is a normal EEG today and no normal variants were identified.  In this individual with incomplete control of her seizures, additional EEG recording may be helpful to characterize her underlying epilepsy.
+
+
+

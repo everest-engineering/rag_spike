@@ -1,0 +1,14 @@
+This is an outpatient EEG.
+CLINICAL HISTORY:  This is a 71-year-old right handed woman with long history of epilepsy, and falling out spells in church.  The patient reports no seizures, no anxiety, no syncope.
+MEDICATIONS:  Topamax, meloxicam, and others.
+INTRODUCTION:  A 22-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  Hyperventilation was completed.  This is a technically acceptable EEG with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with generous, low voltage, frontocentral beta.  There is a small amount of theta.  Next, brief drowsiness is characterized by attenuation of the alpha rhythm and an increase in beta.  Very limited stage 2 sleep was noted.
+Heart rate:  78 bpm.
+IMPRESSION:  This EEG is remarkable:
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  This is the ninth EEG for this patient.  Previous EEGs dating as far back as 2003 have identified frontally predominant spike and wave activity, although this has not been seen in recent years.  The generous beta and theta are nonspecific findings.  The beta can be attributed to medications or anxiety.  The theta was noted in previous records.
+
+
+
+

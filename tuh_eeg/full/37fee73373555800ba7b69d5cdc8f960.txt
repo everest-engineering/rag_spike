@@ -1,0 +1,30 @@
+History:	69 YO MALE FOUND DOWN IN THE BATHROOM,UNKNOWN DOWN TIME.
+PATIENT STATED HE FELL HIT HEAD LOC FOR 2 HRS.COULDN'T MOVE UPON
+AWAKENING.PMH: HEADACHES, LIGHTHEADEDNESS, CP, SOB
+Medications:	KEPPRA, LABETALOL, HEPARIN, PROTONIX
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+A posterior dominant rhythm was seen at 8Hz mainly in the right hemisphere.  Background activity
+was characterized by diffuse low voltage delta and theta activity with absence of the expected
+anterior to posterior gradient of frequencies.  In addition the left hemisphere appears to be
+attenuated and slow maximally in the frontal region.  During drowsiness, the background slows to
+central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Continuous polymorphic theta activity is present in the left frontal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, left frontal
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  continuous focal slowing and attenuation in the left frontal
+region.  This finding is indicative of a focal structural lesion in this region. In addition  there is
+diffuse background slowing and absent alpha rhythm.  These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.
+
+

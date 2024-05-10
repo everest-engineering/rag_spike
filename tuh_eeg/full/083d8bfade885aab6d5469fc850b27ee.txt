@@ -1,0 +1,31 @@
+History:		73 YO MALE PRESENTED BY DAUGHTER WITH ALTERED MENTAL STATUS. PT WAS STUBBORN,  NOT FOLLOWING DIRECTIONS, AND NOT PAYING ATTENTION. WAS BROUGHT  IN FOR HYPERGLYCEMIA
+Medications:	CARVEDILOL, LOSARTAN, SIMVASTATIN, NIFEDIPINE, METFORMIN, LASIX.
+
+
+Sedation: EEG Type: Technique:
+
+
+None
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+
+
+
+
+Description:
+Waking background is characterized by a PDR that at best reaches 25-40uV, 9Hz. It seen best over the right hemisphere. Symmetric 5-1SuV, 18-25Hz activity is present, maximal over the frontal region. Seen best over the right. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+
+Frequent polymorphic delta activity is present in the F7/T3 and T3 region during wakefulness, increasing during drowsiness. Two seizures are recorded. One at 3:37PM and a second at 3:50PM both lasting three minutes. They begin with rhythmic 10-14 Hz activity in the T3 region and evolving into 5 Hz activity and then 2-4Hz activity. After the seizure there is left hemispheric attenuation and focal slowing.
+Clinically the patient looks around and was not tested during the first seizure. During the second seizure the patient could not answer verbal command and right after it ends the patient suddenly speaks incoherently.
+
+Hyperventilation and photic stimulation are not performed.  HR was 60
+
+Summary of Findings:
+Seizure, two, left temporal, mid
+Focal slowing, polymorphic, left temporal
+
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of two focal seizures arising from the left temporal region. These findings are consistent with the diagnosis of localization related epilepsy. In addition there is intermittent focal slowing in the left mid and anterior temporal region. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific. These findings were conveyed to the neurology consult team
+
+
+

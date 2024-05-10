@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 31-year-old male admitted today after the patient fell down the stairs, was unresponsive.  History of epilepsy, mental retardation, and reflux.
+MEDICATIONS:  Depakote, Potassium, and Lovenox. (Depakote at home?)
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  By the time the patient was recorded, the patient was responsive but wearing a hard collar.  This is a technically satisfactory 20-minute record with impedances generally under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG demonstrates a pattern with abundant 6 Hz theta and a posterior dominant rhythm of 6 Hz, 60 microvolts.  There is prominent fast activity in the frontal regions.  There is a suggestion of 14 and 6 noted in the frontal regions occasionally, but no sustained bursts were noted.  Features of drowsiness include more diffusely slow pattern, lower voltage, with prominent central beta and a suggestion of spindles.
+Heart rate 66 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+rhythmic background slowing with slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:  The Fourteen and six, in this context is probably indicative of an underlying epileptic signature.  No seizures were recorded.    The previous EEG from April 30, 2004, was similar to this study. The background slowing may be part of the neurodevelopmental picture for this patient.
+
+
+

@@ -1,0 +1,33 @@
+History:	28 year old woman with seizures.
+Medications:	trazodone, celexa, buspirone
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by moderate amplitude 7 Hz theta rhythm, which attenuates
+symmetrically with eye opening.  The anterior-to-posterior frequency-amplitude gradient is weak.
+Excess diffuse admixed polymorphic 5-7Hz activity is present throughout the recording.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+complexes appear.  Patient becomes drowsy and falls asleep easily.
+Continuous polymorphic theta and delta activity is present in the bilateral posterior quadrants.  No
+epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+Alpha rhythm, slow
+Focal slowing, polymorphic, continuous, bilateral posterior, mild-to-moderate
+Diffuse slowing, polymorphic, mild
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute EEG due to mild diffuse slowing and
+continuous mild-to-moderate focal slowing over the bilateral posterior quadrants. Diffuse slowing is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but, in this
+patient, could be related to excessive drowsiness.  Continuous focal slowing is indicative of focal
+cerebral dysfunction, possibly structural in etiology.  The lack of epileptiform discharges on a routine
+EEG does not rule out a clinical diagnosis of epilepsy.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 53 year old male admitted 2 days ago with intracerebral hemorrhage, renal failure, right temporal lobe hemorrhage, and right sided headache.
+MEDICATIONS:  Xanax, Keppra, Paxil.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is relatively somnolent.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates an intrahemispheric asymmetry.  In the patient's more awake state, it is slow bilaterally with a 6-7 Hz alpha rhythm.  When the patient is awake it is a little less slow on the left.  The asymmetry between the 2 hemispheres is a little less remarkable.  In the awake state there are bursts of frontally predominant delta and there are bursts of shifting arrhythmic delta, some of which are prominent, on the left.  As the patient drifts off to sleep, however, the asymmetry becomes more prominent and the activity on the right is more lower voltage, featureless, and lacking in faster frequency activity.  Some sections of relaxed wakefulness due demonstrate more significant, sustained focal slowing on the right.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the right characterized by disruption of faster frequency activity and the presence of slowing compatible with a structural process involving gray and white matter.
+Bursts of arrhythmic delta activity on the left.
+FIRDA.
+A pattern that is overall bilaterally slow with slowing of the alpha rhythm.
+CLINICAL CORRELATION:  In this individual with a right temporal lobe hemorrhage, a more diffuse process can be considered, including factors which may relate to the renal failure and metabolic process and/or mass effect or other ischemic white matter disease on the left.
+
+
+

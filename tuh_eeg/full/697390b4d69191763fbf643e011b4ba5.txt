@@ -1,0 +1,36 @@
+History:	50 year old woman with complicated PMH, now presents with increase in seizure
+frequency.
+Medications:	Phenobarbital, depakote, lamictal, benadryl, neurontin, abilify, and others
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10-11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess diffuse beta activity is noted.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate
+voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.  Prominent POSTS
+(positive occipital sharp transients of sleep) are noted.
+Occasional polymorphic theta and delta activity is noted over the left central region, increasing in
+drowsiness and sleep.  Underriding fast activity is present over the left central region.  No
+epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, left central
+Beta, excessive
+Sleep, stage 2
+Breach artifact, left central
+POSTS (positive occipital sharp transients of sleep)
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 27 minute EEG due to occasional mild central slowing.
+This finding indicates focal cerebral dysfunction, possibly structural in etiology.  Breach artifact
+could be seen secondary to a skull defect.  Excess beta activity could be secondary to the
+medication effect, such as benzodiazepines or barbiturates.
+
+
+
+

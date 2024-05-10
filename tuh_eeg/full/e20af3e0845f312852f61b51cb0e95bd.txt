@@ -1,0 +1,24 @@
+History:	66 YR. OLD FEMALE R HANDED HUSBAND BROUGHT PT INTO ED. LETHARGIC
+NOT ORIENTED PT HAD A SEIZURE.
+Medications:	KEPPRA
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Limited waking background is characterized by a 15-20uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  Rapid eye movements can be seen along with saw tooth
+waves consistent with REM sleep.
+Continuous polymorphic delta activity is present in the C4 region.  No epileptiform discharges are
+Hyperventilation and photic stimulation are not performed.  HR was 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right central
+Interpretation:
+This is an ABNORMAL awake, drowsy, and mainly in sleep EEG because of continuous focal
+slowing in the right central region.  This finding is indicative of a focal structural lesion in this
+region.  No clinical or electrographic seizures are present.
+

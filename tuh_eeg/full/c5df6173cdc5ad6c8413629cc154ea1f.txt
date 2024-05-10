@@ -1,0 +1,10 @@
+DIAGNOSIS:  Seizures.
+CLINICAL HISTORY:  This is a 31-year-old right-handed female with history of seizure started at age 15.  Her last seizure was on 08/14/2012 described as a generalized tonic clonic seizures.
+MEDICATIONS:  The patient's medications include Trileptal, Ambien, Xanax.
+INTRODUCTION:  A video EEG was performed in the laboratory using the standard international 10/20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9-10 Hz in frequency, 30-50 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontal central beta activity, which is distributed symmetrically.  During wakefulness, there are 2 bursts of generalized spike and wave discharge seen frontally predominant occurring with a frequency of the 3.5-4 Hz.  These occurred in various lasting from 1-3 seconds without evolution or any clinical changes.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response without any photoparoxysmal response.  Hyperventilation was performed and resulted in symmetric slowing of the background activity.  Heart rate was 60 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording capturing wakefulness due to generalized spike and wave discharges, frontally predominant seen during wakefulness with no evolution or clinical events.
+The above findings are consistent with idiopathic generalized epilepsy in the setting of a history of seizures.  Clinical correlation is recommended.
+
+
+

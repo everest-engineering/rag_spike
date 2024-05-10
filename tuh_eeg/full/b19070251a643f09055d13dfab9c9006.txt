@@ -1,0 +1,25 @@
+History:	61 year old man who presents with transient left sided weakness.
+Medications:	Protonix, ASA, Heparin, Atorvastatin
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  AP gradient is weak.  Frequent 50-75uV, 4-7Hz waves are
+interspersed throughout the recording.  Patient remains awake throughout the recording.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No focal slowing
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only 21-minute EEG diffuse background slowing.  This finding is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.
+
+
+
+

@@ -1,0 +1,31 @@
+History:	72 year old woman found unresponsive with left sided weakness.
+Medications:	Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  ~15 hours from 1/18/2015 till 1/19/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  With stimulation, the background consists of low amplitude
+slow delta activity admixed with underriding very low amplitude fast activity.  During periods of
+quiescence, delta activity is mostly replaced by attenuated fast activity.
+A paced heart rate is noted on a single EKG lead.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe
+Other, background is reactive
+Interpretation:
+This is an ABNORMAL continuous video 15-hour EEG due to severe diffuse slowing. These findings
+are etiologically nonspecific indicators of severe diffuse cerebral dysfunction.  No focal features are
+present on this recording to explain patient's left sided weakness.  These findings were conveyed to
+the primary team.
+
+
+
+
+

@@ -1,0 +1,25 @@
+History:	89 year old man with recurrent episodes of decreased responsiveness.
+Medications:	propofol
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+With maximal stimulation, the background consists of low amplitude polymorphic 8-9 Hz activity
+posteriorly and weak AP gradient.  Overall, the background is attenuated and consists of a mixture
+of theta and delta activity.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Other, sedated recording
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL 23-minute EEG due to mild diffuse slowing that is captured with maximal
+stimulation.  Otherwise, the recording demonstrates sedated background. These findings are
+etiologically nonspecific indicators of mild diffuse cerebral dysfunction, that, in this case, at least
+partially related to the medication effect.
+
+
+
+
+

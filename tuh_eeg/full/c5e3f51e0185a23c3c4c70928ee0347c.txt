@@ -1,0 +1,34 @@
+AGE: 44 y.o.
+SEX: male
+DATE OF STUDY: 09/15/2015 RECORDING ENVIRONMENT: Inpatient
+EEG TYPE: Routine, awake-only EEG #: 13474978001315
+HISTORY:
+44 y.o. male with a history of seizures and schizophrenia undergoing a follow-up EEG.	He also has a history of being stabbed in the head in 2003 and constant headaches.
+MEDICATIONS:
+Klonopin, abilify, nortriptyline, remeron, MVI SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system and utilized a NicOne system. This was a technically satisfactory record and included a single channel
+of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9.5 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+Drowsiness and sleep are not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present .
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed and produces no effect.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 60 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-only routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-only routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+

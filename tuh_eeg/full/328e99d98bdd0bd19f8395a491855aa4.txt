@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 47-year-old woman with newly diagnosed epilepsy, total of four 6-minute seizures characterized by black out, shaking, confusion.  At baseline, patient suffers from anxiety, asthma, bipolar disease, and memory impairment.
+MEDICATIONS:  Fluoxetine, alprazolam, tramadol, Symbicort, Claritin, many more.
+INTRODUCTION:  24-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically acceptable 24-minute outpatient EEG with hyperventilation and photic stimulation.  The patient was very anxious during the EEG.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a dynamic pattern.  The initial sections of the EEG are a bit more disorganized, but as the recording continues, there is a 7.8 Hz alpha rhythm identified.  The overall background is somewhat disorganized.  In addition, the background is intermittently disrupted by underlying arrhythmic delta activity, which is present in both hemispheres.  The overall background is sharply contoured.  There is a single sharp wave noted in 1 of the bursts of sharply contoured slowing.
+Photic stimulation elicited a bilateral driving response.
+Hyperventilation produces an increase in slowing of the background.
+Heart rate 96 bpm.
+IMPRESSION:  This is an abnormal EEG due to.
+Background slowing and disorganization.
+Intermittent paroxysmal bursts of irregular delta, which are present bilaterally with shifting asymmetries.
+CLINICAL CORRELATION:  In this sharply contoured record, epileptiform activity may be under recognized.  To more clearly define an epileptiform focus in a more prolonged sleep study may be of value.  Given the background slowing and disorganization described above, correlating this pattern with this patient's medications and imaging may be of value.
+
+
+

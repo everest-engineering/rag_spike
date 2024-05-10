@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 59-year-old woman with a history of meningioma, pseudotumor cerebri, and adult onset complex partial epilepsy, seizure-free for the last 5 to 6 months.
+MEDICATIONS:  Keppra, Diamox, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a well-organized 10 Hz alpha rhythm with a small amount of low voltage frontocentral beta.  Features of drowsiness include an increase in beta.  There is also scant frontal theta as the patient becomes drowsy.  As the patient becomes drowsy, there is subtle left temporal rhythmic theta, some of which is sharply contoured and some of which includes a bit of delta.  Just at this transition, the patient is awakened for photic stimulation, which does elicit a driving response.  During photic stimulation, there is some eye movement artifact but no definitive sharp waves.
+Heart rate 60 bpm.
+IMPRESSION:  This is a very subtly abnormal EEG for an adult of this age due to left temporal rhythmic theta with scant delta in the transition to sleep.
+CLINICAL CORRELATION:  Additional recording capturing deeper stages of sleep may be necessary to more completely characterize epileptiform activity.  The study is similar to a previous recording.
+
+
+

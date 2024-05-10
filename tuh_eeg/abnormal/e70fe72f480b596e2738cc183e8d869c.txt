@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  75 year old female with Parkinson's disease, schizophrenia, epilepsy, and a tonic clonic seizure in the PACU on February 4, 2012 after a G-tube placement.  She had eyes deviated to the right and initial right tonic clonic activity.
+MEDICATIONS:  Depakote, Insulin, Zosyn, Sinemet
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is unable to participate in the testing.  She has continuous movements of face and head, as well as chewing movements.
+DESCRIPTION OF THE RECORD:  Despite these challenges, there is an 8.3 Hz alpha rhythm and a medium amplitude background.  The EEG background can be glimpsed when the patient's involuntary movements stop.  She has a small amount of theta.  There are sections of the record when the alpha rhythm reaches 8.5 Hz. Photic stimulation does not activate the record.
+HR:    120 bpm.
+IMPRESSION:  This EEG is at the limits of normal.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If additional information is needed, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

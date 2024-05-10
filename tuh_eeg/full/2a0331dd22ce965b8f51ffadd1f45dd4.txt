@@ -1,0 +1,25 @@
+CLINICAL HISTORY:  A 55-year-old woman with multiple seizures at 6 AM and en route to the emergency room this morning.  Tonic-clonic seizures.  Prior history epilepsy and PCP use.
+
+MEDICATIONS:  DM meds, Amoxicillin, AS, norvasc, Tylenol #3
+
+INTRODUCTION:  Emergent, digital video EEG was performed in the emergency room using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was relatively drowsy.  This is a somewhat technically challenging EEG with impedances greater than 5 kilohms.
+
+DESCRIPTION OF THE RECORD:  As the tracing begins, the EEG is markedly slow with primarily a delta theta pattern.  Over time, the patient is increasingly awake with an 11 Hz alpha rhythm.
+
+As the patient becomes awake and alert, she subsequently has a focal seizure out of the left hemisphere with repetitive 6-8 hertz theta frequency activity.  This seizure begins at 1:59 PM and was characterized by facial grimacing and a small amount of head turning from side to side.  When asked to for her name, she is unable to respond.  The seizure ends very slowly with a very prolonged postictal transition.  Total seizure duration 2 minutes 17 seconds.  By 2:01:18, the seizure is clearly abating.
+
+Post ictal record demonstrates a pattern similar to the beginning of the record with a slow and disorganized pattern with generous delta and bursts of frontal delta.
+
+A 2nd seizure is noted as the patient starts recover from the first seizure at 2:18:05.  The technologist realizes immediately that the patient is confused, asks the patient her name and she is not able to respond.  The patient has oral automatisms and looks to be either side.  She has eye deviation to left The technologist notes that the patient is able to squeeze fingers by 2:19:55.  The patient does not recall a code word.  Total seizure duration approximately 2 minutes 39 seconds.
+
+This ictal pattern includes repetitive rhythmic initially theta frequency activity, maximum in the left frontal/frontotemporal region with clear frequency evolution.  There is a generous field of spread in the left hemisphere, particularly frontal temporal.  Though the activity is most prominent in the anterior temporal region, within seconds the activity is really throughout the left hemisphere.
+
+The recording concludes at 2:23.  No additional seizures were noted.
+
+IMPRESSION:  This 40-minute EEG was remarkable for:
+1. Two seizures from the left hemisphere, maximum in the frontal regions with a strong representation in the temporal region.
+2. A background slowing and disorganization, which improved overtime, until the patient seized again.
+3. Epileptiform activity in the left hemisphere including frontal and temporal.
+
+CLINICAL CORRELATION:  In this clinical context, with multiple seizures today in a patient who has not entirely returned to background mental status, this EEG is compatible with a complex partial status epilepticus pattern.  This patient will go onto continuous video EEG monitoring.
+

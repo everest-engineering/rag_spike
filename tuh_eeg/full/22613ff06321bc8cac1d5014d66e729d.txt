@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  73 year old right handed male with seizures following aortic arch surgery and an episode of unresponsiveness on the 16th.
+MEDICATIONS:  Atorvastatin, ASA, Clonidine, Metoprolol, Norvasc, Insulin, Protonix, Amiodarone, Diflucan, Heparin, Kdur, Morphine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is awake.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm identified on the left.  This seems to be disrupted on the right.  Both hemispheres demonstrate a medium amplitude pattern with some background theta and a small amount of shifting slowing.  In drowsiness, the overall background is relatively symmetric.  The asymmetries that are noted are in the frontocentral and temporal regions. Hypersynchronous slowing is noted sometimes in the transitions to wakefulness and drowsiness.  There is a single sharply contoured discharge at T3, but no definite sharp waves.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Modest background slowing.
+An intermittent asymmetry with occasional dropout of faster frequency activity on the right.
+CLINICAL CORRELATION:  The background slowing is not as remarkable as noted in yesterday's EEG and overall, the overall pattern is an improving pattern.  The
+asymmetry described today may be correlated with clinical features in this individual with bihemispheric ischemic cerebrovascular disease.
+__________________________
+
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 41-year-old male with epilepsy for the last 1.5 years.  Patient had 3 seizures at a time with heavy alcohol consumption.  Last seizure May 10 during sleep, tonic-clonic seizure.  Patient would receive medications in the ER.  Patient states that he is noncompliant with seizure or hypertension medicines.
+MEDICATIONS:  None.
+INTRODUCTION:  Introduction digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by rhythmic background theta and attenuation of the alpha rhythm.  Rare POSTS and central theta were noted as the patient transitions in and out of sleep.  Hyperventilation did not significantly activate the record.  Photic stimulation elicited scant driving but the patient was drifting off to sleep.  Heart rate 84 bpm.
+IMPRESSION:  Normal electroencephalogram in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy and seizures are an important consideration, a repeat sleep-deprived seizure may be of value.
+
+
+

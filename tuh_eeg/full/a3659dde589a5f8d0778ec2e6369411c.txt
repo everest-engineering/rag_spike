@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An 86-year-old woman with right-sided weakness, onset at 12:15 on April 26, with unresponsiveness.
+MEDICATIONS:  Keppra, Ativan, labetalol.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was stuporous and agitated.
+Technical notes:  There is a great deal of muscle artifact throughout the EEG.
+DESCRIPTION OF THE RECORD:  Much of the EEG is completely obscured by muscle, but the when the muscle activity drops out, a 9 Hz alpha rhythm can be identified bilaterally.  There is some head rocking movement noted.  There is a glimpse of underlying delta in the left posterior quadrant.
+Heart rate 108 BPM.
+IMPRESSION:  Technically a limited EEG, but remarkable for a question of slowing in the left hemisphere.
+CLINICAL CORRELATION:  The technologist attempted to resolve some the some of the artifacts choosing a high frequency filter which can destroy the data, but there does appear to be some focal slowing in the left hemisphere congruent with the history of stroke.  There are no epileptiform features identified, however, the muscle artifact precludes adequate assessment of epileptiform features.  If seizures are an important consideration a follow up study is suggested.
+
+
+

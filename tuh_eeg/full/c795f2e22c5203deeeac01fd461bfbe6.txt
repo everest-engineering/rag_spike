@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 63-year-old male admitted with recurrent seizures.
+MEDICATIONS:  Trileptal. VPA, others
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient was somewhat drowsy during the EEG.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient appears to be drowsy with a low voltage slow pattern.  Well defined, left mid to anterior temporal sharp waves and spikes were noted.  These occur with some brief bursts of rhythmic slowing.  There are rare sharp waves noted maximum in the right temporal region, which can clearly be differentiated from eye and EKG artifact, although eye and EKG artifact also appears in the T2 electrode.  The vast majority of epileptiform discharges are noted on the left with a phase reversal approximately left mid temporal region and an after going slow wave with a generous field of spread throughout.  As the patient becomes a little drowsier, some of the epileptiform activity has more of a fronto-temporal spread.  By the end of the record, the patient is a bit more awake sitting up and trying to move about.  As he does so, the EEG is obscured with muscle and movement artifacts, but the epileptiform activity appears to decrease.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing.
+Primarily left mid to anterior temporal sharp waves with focal slowing.
+CLINICAL CORRELATION:  This EEG supports a localization related mechanism for epilepsy.  In the initial sections of the record, for this postictal patient, the EEG was very slow, but this appeared was resolving by the end of the EEG. Prior EEGs were not provided for comparison
+
+
+
+

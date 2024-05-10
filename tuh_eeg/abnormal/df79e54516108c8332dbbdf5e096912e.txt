@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 64 year old right handed gentleman with a history of childhood head trauma. The patient subsequently developed epilepsy. The patient continues to have auras, auditory, visual, and olfactory hallucinations, as well as depression.
+MEDICATIONS: Depakote, Plavix. Prozac, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz alpha rhythm.
+There are brief EPOCHS with vertex waves and spindles, followed by arousals. There is a small amount of excess theta in maximal wakefulness and a small amount of shifting slowing. The patient is falling asleep during photic stimulation with POSTS and spindles.
+
+HR: 84 bpm
+IMPRESSION: Very mildly abnormal EEG due to:
+1. Mild background slowing.
+2. Disorganization.
+CLINICAL CORRELATION: There are no epileptiform features identified. The mild background slowing and disorganization are nonspecific in a subject of this age and may represent his preexisting head trauma or age related processes.

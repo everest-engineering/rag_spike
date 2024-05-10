@@ -1,0 +1,33 @@
+History:	40 year female with seizures that started several months ago.  Events are
+characterized by decreased responsiveness and facial twitching.
+
+Pt had an event in EEG lab prior to the EEG hookup. Event lasted ~ 5 minutes, no
+loss of consciousness but delayed response, facial twitching and post ictal fatigue.
+Patient was evaluated by a neurology resident.
+Medications:	Trileptal, Valium, Paxil
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Very brief waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  Patient is asleep throughout most
+of the recording.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, the alpha rhythm attenuates and becomes intermittent,  POSTS
+(positive occipital sharp transients of sleep) appear.  During stage 2 sleep, the record slows further to
+moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed with poor cooperation (patient falls asleep) and the period of
+hyperventilation is shortened.  It produces no effect.  Stepped photic stimulation from 1-21 flashes
+per second (fps) does not produce any effect.
+Summary of Findings:
+Beta, excessive
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is a normal mostly asleep and briefly awake 24-minute EEG. Excessive beta activity could be
+secondary to the medication effect, such as benzodiazepines or barbiturates.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

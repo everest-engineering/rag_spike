@@ -1,0 +1,25 @@
+CLINICAL HISTORY: 41 year old right handed gentleman with life long epilepsy, with 2-3 small seizures a month.
+
+MEDICATIONS: Tegretol, Risperdal, Flomax, Calcium, Topamax, Paxil
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of
+electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are
+performed. This is an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat
+disorganized. There is shifting slowing in the temporal regions right greater than left. The focal slowing in the right temporal region may be anterior or even posterior temporal, but the sharp waves are anterior temporal. In addition, there is beta accentuation in the right central region. Occasional slowing is noted in the left temporal region, but no epileptiform features are observed. Features of drowsiness include increasing synchronicity of the background as well as rhythmic slowing. Hyperventilation seems to accentuate the focal slowing in the right hemisphere as well as the sharp waves. Photic stimulation elicits a scant driving response, but the sharp waves are again identified in wakefulness as is some of the focal slowing and beta accentuation as well as some of the focal slowing in the left posterior region and the beta accentuation on the right.
+
+HR: 54 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Right temporal sharp waves.
+2. Focal slowing from the right temporal region particularly posterior temporal region.
+3. Beta accentuation, right central region.
+4. Occasional focal slowing on the left.
+
+CLINICAL CORRELATION: These findings are similar to previous EEG and support a
+localization related mechanism for epilepsy as well as bihemispheric process.
+
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 23-year-old woman with a history of childhood epilepsy, developmental delay, depression.  Past history of seizures characterized by eye deviation to the right, right hand shaking and left hand contractures.  Currently, no seizure for the last 3 to 4 weeks.  Seizures are characterized by shaking and falling down.
+PAST HISTORY:  Seizure-related subdural hematoma.
+MEDICATIONS:  Depakote, Remeron.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake and asleep record in a very drowsy patient.   Impedances were acceptable but with slightly elevated impedances in the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was an 11 Hz alpha rhythm.  There was generous muscle in 2 artifact.  Prominent beta was noted in wakefulness.  In the transition to sleep, there was an increase in beta.  There were a handful of bursts of focal slowing from the left hemisphere including a burst of sharply contoured slow activity from the left hemisphere maximum in the left central region as the patient transitions towards stage 2 sleep.  POSTS were also noted in sleep.
+Photic stimulation was performed as the patient was drifting in and out of stage 2 sleep with K complexes and POST.  There was scant driving and faster flash frequencies.
+Heart rate:  66 BPM
+IMPRESSION:  This EEG is remarkable for:
+Excess beta.
+Rare bursts of focal slowing from the left hemisphere, particularly in sleep and from the central region.
+CLINICAL CORRELATION:  Excess beta has been noted in many previous EEGs.  Focal slowing was noted in a 2005 EEG.  No sharp waves were recorded.
+
+
+

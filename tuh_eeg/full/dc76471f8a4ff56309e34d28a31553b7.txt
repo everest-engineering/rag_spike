@@ -1,0 +1,10 @@
+DIAGNOSIS:  Altered mental status.
+CLINICAL HISTORY:  This is a 48-year-old female who was admitted for change in mental status.  On arrival, she was found to be aphasic.  She was confused, but responsive to her name.  Past medical history is significant for dilated cardiomyopathy, status post AICD and LVAD, LV thrombosis on Coumadin, atrial fibrillation, left MCA stroke, and peripheral neuropathy.
+MEDICATIONS:  The patient's medications include Plavix, warfarin, ceftazidime, simvastatin, Ambien, Coreg, lorazepam, midazolam, and Topamax.
+INTRODUCTION:  A digital EEG was performed at bedside using the standard international 10-20 system of electrode placement in addition to 1-channel of EKG monitoring.  This tracing captures patient in an obtunded stuporous state. Photic stimulation and hyperventilation were not performed.
+DESCRIPTION OF THE RECORD:  In the stuporous state, the background activity was characterized by diffuse slowing consisting of sharply contoured delta wave slower on the left side with a frequency of 3-3.5 Hz high amplitude with sharp wave activities most prominent in the left central parietal and occipital regions There were also Triphasic waves seen intermittently with an Anterior- posterior gradient/ occurring with a frequency of 1-1.2 Hz.  Heart rate was 90 to 100 beats per minute.  Photic stimulation and hyperventilation were not performed.
+IMPRESSION:  This is an abnormal EEG recording due to diffuse slowing with sharply contoured delta waves, and Triphasic waves and sharp wave discharges most pronounced in left posterior quadrant without evolution.
+CLINICAL CORRELATION:  Slowing of background activity and Triphasic waves are indicative of metabolic, toxic, hypoxic or infectious encephalopathy.  Alternatively it could be due to the effects of sedating medications or bilateral cerebral dysfunction.  The presence of sharp wave discharges are indicative of hyperexcitability of cerebral cortex that places this patient at risk for partial seizures.  Clinical correlation is recommended.
+
+
+

@@ -1,0 +1,13 @@
+HISTORY:  This is a 68-year-old gentleman with a relatively large left PCA/hemispheric stroke, with encephalopathy and an acute 10-second staring spell.
+MEDICINES:  Insulin and Lasix.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was described as confused.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow record with a prominent intrahemispheric asymmetry.  The left hemisphere demonstrates attenuation of faster frequency activity in the left anterior temporal region.  This is most prominent in drowsiness.  The right hemisphere demonstrates a somewhat slow and disorganized pattern.  A glimpse of 6-7 Hz posterior dominant rhythm can be identified bilaterally, but right more vigorously than the left.  This is a technically challenging portable record and electrode placement may not be entirely symmetric.  A single left posterior temporal sharp wave was noted.
+Heart rate: 54 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Prominent slowing from the left hemisphere, particularly the left anterior temporal region with attenuation of faster frequency activity in that region.
+Posterior dominant rhythm which at best reaches 7 Hz with maximal stimulation.
+Intermittent burst of generalized background slowing.
+CLINICAL CORRELATION:  The focal features are congruent with a prior stroke in the left hemisphere.  The bursts of generalized slowing support a toxic or metabolic process.  The bilateral background slowing and slowing of the alpha rhythm is nonspecific and can be seen in a diffuse disturbance of cerebral function, or toxic or metabolic encephalopathy.  No seizures were recorded.
+
+
+

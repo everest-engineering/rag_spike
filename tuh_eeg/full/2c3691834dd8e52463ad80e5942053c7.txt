@@ -1,0 +1,25 @@
+CLINICAL HISTORY:  62 year old right handed gentleman with anxiety, depression, schizophrenia, hypertension, and 5-cm aneurysm of ascending aorta with aortic ectasia.
+MEDICATIONS:  Versed, Isoflurane, Propofol, Fentanyl, Rocuronium, Solu-Medrol, Magnesium, Lidocaine.
+INTRODUCTION: Digital video Intraoperative EEG monitoring was performed using standard 10-20 system intraoperative montage with 1 channel EKG.  This was a 4-hour study with physician supervision.
+DESCRIPTION OF THE RECORD:  The recording began at 9:45 a.m.  The patient was prepped.  The EEG demonstrated a sedated pattern with generous fast activity.  Because of the need for temperature monitors, the F7 and F8 electrodes were moved a little bit posteriorly and the anesthesiologist put a monitoring pack below the occipital region.  Despite these problems, there was a sedated pattern with generous fast activity.
+The EEG begins to attenuate intermittently at 10:00 a.m.
+Between 10:00 and 11:00 a.m., as the patient is cooled and anesthetic medications are adjusted, the EEG transitions from a continuous pattern to intermittent attenuation and then burst suppression at 11:04.
+Four mg of Versed were given at 11:04.  In addition, the Isoflurane dose was increased to 2.0.
+Cooling began at 11:03.
+At the time of cooling at 11:03 and 11:04, the EEG was becoming increasingly discontinuous.  In addition, there was Bovie artifact noted as well as other ICU artifacts, making EEG interpretation a bit more challenging.
+As the Isoflurane is adjusted at 11:04, sharp waves were noted in the EEG, simple sharp waves in the right or left frontal region.  These sometimes seem to have a well-defined after-going slow wave.  Others are more evanescent and they disappear as the EEG transitions to a flat pattern with cooling at 11:08:02.
+The aorta was cross-clamped and the patient was cooled for a total of 20 minutes.  From 11:09 to 11:22, there is a great deal of Bovie artifact.  There are a number of brief epochs including 11:28, where there is a low-voltage more continuous pattern, but again this is a little bit compromised by the Bovie artifact.
+The EEG met the requisite 5-minute flat period between 11:07 and 11:12, but then with Bovie the EEG was partially obscured and then there was this very low-voltage EEG activity noted between 11:17 and 11:30.  These findings were reported to the team.
+By 11:37, the EEG remained flat.
+Total circulatory arrest was 20 minutes.
+Following the circulatory arrest, the patient was gradually rewarmed.  The EEG activity slowly returned with bursts of activity noted at 12:34.  Bursts of activity were seen approximately every 30 seconds and were about 7 seconds in duration.  The bursts were relatively symmetric.
+By 12:45, the EEG was increasingly symmetric, and by just after 1:00 p.m. the EEG was continuous..
+A minor asymmetry was noted as the EEG became more continuous with a bit more slowing in the right posterior quadrant.
+At the close of the record, electrode integrity is lost.  The EEG appears symmetric; however, this should be interpreted with caution, given the artifacts noted on the left.
+HR:    66 to 72 bpm
+IMPRESSION:  This 4-hour intraoperative EEG was remarkable for:
+Simple sharp waves noted with transition to a suppressed pattern with utilizing
+Isoflurane at a concentration of 2.0 MAC. A slight asymmetry seen initially in the rewarming with a bit more delta on the right.
+
+
+

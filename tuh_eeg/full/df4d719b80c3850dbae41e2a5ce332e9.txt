@@ -1,0 +1,34 @@
+
+
+History:
+
+
+72 year old woman status post recent meningioma resection and stroke, now with observed right sided twitching and change in mental status.
+
+
+
+Of note, C3, C4 and Cz are at the site of incision.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes
+
+Ambulatory EEG
+Continuous EEG monitoring was performed for 62 hours from 07/09/2014 to 07/12/2014.  Nursing? initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns. All automatically detected events were reviewed in detail by the attending neurologist.
+
+# Push button events 0 Description of pushbutton events
+
+Description:
+There is no PDR and no AP gradient. The background consists of a mixture of polymorphic theta and delta activity that is higher in amplitude anteriorly. Prominent continuous sharply contoured moderate-to? high amplitude delta activity is noted over the bifrontal leads and Fz lead. The waking background becomes slightly more organized during the last 12 hours of the record but overall remains slow. No normal sleep architecture is present.
+
+Prominent continuous sharply contoured moderate-to-high amplitude delta activity is noted over the bifrontal leads and Fz lead. Additional low amplitude fast activity is noted over the left and right frontal region. This is consistent with a breach. F3 and F4 spikes and polyspikes with after going slow waves are observed.
+
+Hyperventilation and photic stimulation are not performed. A single EKG demonstrates heart rate up to 120 bpm.
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, marked, bilateral frontal, with an associated breach. Sharp waves, frequent, bilateral (L>R) frontal
+Diffuse slowing, polymorphic
+
+Interpretation:
+This is an abnormal 60 hour LTM-EEG due to moderate diffuse slowing, focal bifrontal focal slowing, frequent bilateral frontal epileptiform discharges Bifrontal focal slowing indicates structural cerebral abnormality. Breach rhythm is seen with a skull defect. There is an epileptogenic focus over the bifrontal, left>right, regions. Diffuse slowing is etiologically nonspecific indicator of moderate diffuse cerebral dysfunction.
+

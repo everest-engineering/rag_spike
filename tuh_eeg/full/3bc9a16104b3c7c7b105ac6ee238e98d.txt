@@ -1,0 +1,22 @@
+History:	77 YR OLD MALE WITH INTRACRANIAL HEMORRHAGE, CHANGE IN MENTAL
+STATUS AND A HX OF COMPLEX PARTIAL SZ.
+PT HAS NEW LEFT BLEED
+Medications:	ATIVAN, DILANTIN, LORAZEPAM, RISPERDAL, METOPROLOL
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which is not well seen over
+the right.  Symmetric 5-15uV, 18-25Hz activity is present, best seen over the left.  Some state
+changes can be seen.
+Continuous polymorphic delta activity is present in the right hemisphere maximal in the
+frontotemporal region.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR was 90
+Summary of Findings:
+Interpretation:
+This is an ABNORMAL EEG because of continuous focal slowing in the right hemisphere maximal
+in the frontotemporal  region.  This finding is indicative of a focal structural lesion in this region.
+No clinical or electrographic seizures are present.
+
+

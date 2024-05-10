@@ -1,0 +1,37 @@
+
+History:	23 year old man with a history of GSW to the head with resultant right craniectomy
+and cranioplasty.
+Medications:	Depakote, baclofen, lovenox. Motrin, tylenol 3
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm consists of low amplitude 8.5 Hz alpha activity that attenuates with
+eyes opening.  There is an AP gradient with faster frequencies at lower amplitudes anteriorly.
+During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed
+by symmetric vertex waves.  Vertex waves are more pronounced over the right.
+Intermittent polymorphic delta activity and underriding fast activity is present in the right posterior
+region.  A sharp transient with phase reversal over F4/C4 and F8/T4 electrodes is captured at 1:55
+pm.  This sharp wave likely represents displaced prominent vertex wave.
+Hyperventilation is performed for 240 seconds with fair effort, and produces no effect.  Stepped
+photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities.  A
+single EKG lead demonstrates heart rate of ~ 60 bpm.
+Summary of Findings:
+No stage 2 sleep
+Focal slowing, polymorphic, intermittent, right posterior
+Breach artifact, right posterior
+Sharp transients, one, right central and anterior temporal - suspect displaced vertex wave
+Asymmetry, sleep architecture, more prominent over the right.
+Interpretation:
+This is an ABNORMAL awake and drowsy 27 minute EEG because of intermittent right posterior
+moderate slowing and more prominent sleep architecture over the right. These findings are
+indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in
+origin and is consistent with patient's history of right hemispheric head injury/ craniectomy.  Breach
+artifact is seen secondary to the skull defect.  A single right central/ anterior temporal sharp transient
+likely represent a displaced and prominent vertex wave - a repeat, more prolonged EEG, with
+sleep recording may provide additional information.
+
+
+
+

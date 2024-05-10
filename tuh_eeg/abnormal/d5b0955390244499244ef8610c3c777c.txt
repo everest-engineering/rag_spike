@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 43-year-old man with new onset dizziness and drowsiness of 1-month duration, each episode lasting about 1 hour.  This is associated with pressure on the right side of the head.
+MEDICATIONS:  Metformin.
+INTRODUCTION:  A digital video EEG was performed using the standard 10-20 system of electrode placement at the bedside and one channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a bilaterally symmetric alpha rhythm of 10 Hz which is reactive to eye opening.
+Drowsiness is characterized by increase in beta, attenuation of alpha and some rhythmic central theta.
+Photic stimulation did not elicit any abnormalities.
+Heart rate 62 beats per minute.
+IMPRESSION:  This is a normal awake and drowsy EEG.
+CLINICAL CORRELATION:  Normal EEG does not rule out a diagnosis of epilepsy.
+
+
+

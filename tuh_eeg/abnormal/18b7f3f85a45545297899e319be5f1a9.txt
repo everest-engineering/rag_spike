@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 17 year old woman with ticks, staring spells, attention deficit disorder, recent gastroenteritis, drop attacks, and a tonic clonic seizure.
+MEDICATIONS: Bactrim and inhaler.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is abnormal. The background is primarily rhythmic theta with smaller amounts of delta. The definable posterior dominant rhythm is 5 Hz in a background with theta and delta. There are bursts of frontally predominantly spike and wave complexes noted in relaxed wakefulness. These are slightly asynchronous. Most are 3-5 Hz and in relaxed
+wakefulness the bursts of generalized spike and wave activity are 1-3 seconds in duration. There are also some independent, isolated right or left temporal sharp waves noted in the background.
+Hyperventilation is performed and produces an increase in the activity. In addition, during hyperventilation the patient complains of rapid or prominent heart rate.
+Her baseline heart rate exceeds 100 beats per minute and in fact averages 110, actually dropping briefly to 96 during hyperventilation and then returning to tachycardia. Brief drowsiness is characterized by rhythmic slowing with spontaneous arousals. Lambda is observed in wakefulness.
+Photic stimulation does elicit a driving response with supraharmonic driving at 11 Hz. In addition, there is a suggestion of a photo paroxysmal response as well. This is more clearly defined with frontally predominant polyspike activity with 19 Hz photic stimulation.
+HR: 120 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Frontally predominant spike and wave activity.
+2. Background slowing and disorganization.
+3. A suggestion of focal epileptiform activity.
+
+CLINICAL CORRELATION: This patient's frequent seizures may contribute to the background disorganization. The epileptiform activity may represent a primary generalized or secondary generalized focus. Additional recording may be helpful following initiation of treatment.
+
+
+

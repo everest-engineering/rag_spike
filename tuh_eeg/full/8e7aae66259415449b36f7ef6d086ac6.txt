@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 64-year-old male with acute left facial swelling, intubated for airway protection with myoclonic activity.  Past history of alcohol and drug abuse.  Possible adverse reaction to etomidate medicines.
+MEDICATIONS:  Narcan, heparin, propofol drip, Benadryl, Ativan.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and poorly responsive.  No myoclonic jerks were noted by the clinical team during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is rich in rhythmic alpha and beta frequency activity.  There is a paroxysmal nature to it and intermittent attenuation.  The overall background is symmetric.
+Tactile stimulation of the patient did not significantly activate the record.
+Heart rate 84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a mixture of beta and alpha frequency activity.
+Intermittently discontinuous record.
+CLINICAL CORRELATION:  This EEG is most supportive of a pharmacologic coma.  No myoclonus was seen.  No epileptiform activity was noted.
+
+
+

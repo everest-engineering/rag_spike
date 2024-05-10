@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  54 year old woman with acute right-sided weakness, numbness and slurred speech for 45 minutes.  History of meningioma resection October 2011.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz posterior dominant rhythm which is symmetric and reactive.  There is mu activity identified, but testing was not performed to confirm this.  A prominent breach rhythm is noted with accentuation of amplitude in the left hemisphere including frontocentral and temporal regions.  As the patient becomes drowsy, there is subtle, intermittent focal slowing noted from the left hemisphere.  Other features of drowsiness include an increase in beta. Photic stimulation elicits a vigorous driving response with harmonic and supraharmonic driving.  Hyperventilation produces minimal background slowing.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Subtle focal slowing from the left hemisphere.
+CLINICAL CORRELATION:  The breach rhythm is an anticipated finding following craniotomy and is quite prominent for this individual.  The subtle left central slowing is in the region of this patient's craniotomy defect.
+
+
+

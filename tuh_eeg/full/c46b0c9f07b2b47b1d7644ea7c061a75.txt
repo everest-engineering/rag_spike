@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 93 year old right handed woman who presented on 17th with aphasia
+MEDICATIONS:  ASA, Lovenox, Protonix, Pantoprazole, Hydralazine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had frequent eye blink and was a bit confused.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm.  There is a small amount of theta.  There is a fair amount of muscle in the background.
+There are rare bursts of slowing from the left.
+HR:    120 bpm
+IMPRESSION:  EEG likely within normal limits for age.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration a repeat tracing in search of epileptiform activity is suggested.
+
+
+

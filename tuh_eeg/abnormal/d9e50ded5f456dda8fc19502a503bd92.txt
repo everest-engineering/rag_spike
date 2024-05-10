@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  	28 year old right handed woman with a possible TIA or stroke
+July 2009 with left-sided numbness, weakness,  memory loss.
+MEDICATIONS:  Aspirin, Amitriptyline, Motrin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic simulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately  organized with 10.5 Hz, 30 microvolt alpha rhythm and a small amount of wicket activity. Features of drowsiness include anterior spread of the alpha rhythm. Photic stimulation does not activate the record.
+HR:	72 bpm
+IMPRESSION: Normal EEG
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed in the record. A  normal EEG does not exclude a diagnosis of seizure or stroke and correlation with imaging and history may be appropriate.
+
+
+

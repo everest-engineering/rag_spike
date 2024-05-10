@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 58 year old left handed male with intractable epilepsy, complex partial seizures, last seizure unclear.
+MEDICATIONS: Tegretol, Xanax, Prozac, Celexa, Prilosec, Citalopram, Ambien
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake record with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9Hz, 40 microvolt posterior-dominant rhythm. The alpha rhythm is sometimes disrupted from the right hemisphere. There is some shifting arrhythmic delta activity identified bilaterally. High amplitude right anterior temple spike and slow wave complexes are observed most of which are maximum at T-2 but some of which are maximum T4 and T6. All are high amplitude, sometimes exceeding 100 microvolts with a generous field of spread within the right hemisphere and disruption of faster
+frequency activity. Hyperventilation clearly accentuates the epileptiform activity. Features of drowsiness include anterior spread of the alpha rhythm. There is some bilateral posterior slowing and drowsiness. Photic stimulation elicits scant driving. The focal right greater than left posterior slowing is noted in photic stimulation. Stage I sleep starts to emerge at the end of the EEG but sleep is not sustained.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. High amplitude right anterior temporal spike and slow wave complexes.
+2. Right hemisphere and right temporal focal slowing.
+3. Sharp waves in the right hemisphere with variable maximum but most of which are maximum in the temple regions
+4. A modest degree of background slowing.
+CLINICAL CORRELATION: These findings support a structural process as well as a localization-related mechanism for epilepsy.
+
+
+

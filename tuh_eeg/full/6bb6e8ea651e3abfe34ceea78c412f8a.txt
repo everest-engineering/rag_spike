@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 76-year-old with dementia, CHF and recurrent stroke-like symptoms.
+MEDICATIONS:  Aspirin and p.r.n. Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Patient was relatively drowsy and somewhat confused.  This is a technically acceptable 20-minute EEG without hyperventilation or photic stimulation.
+DESCRIPTION OF THE RECORD:  The overall EEG is low voltage, diffusely slow and continuous.  Stimulation of the patient produces an 8 hertz posterior dominant rhythm, which is better represented on the right compared to the left.  As the patient becomes drowsy, there is a clear asymmetry with drop out of faster frequency activity noted in the left hemisphere relevant to the right.  The patient then transitions into deeper stages of sleep and a small amount of spindles followed by arousal.
+Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG for an adult of this age due to:
+Generalized background slowing.
+Superimposed focal slowing characterized by an asymmetry in the alpha rhythm in the prominence of more delta on the right compared to the left.
+CLINICAL CORRELATION:  No epileptiform features were noted.  These findings may be correlated with imaging and other clinical factors in regard to the focal features.
+
+
+

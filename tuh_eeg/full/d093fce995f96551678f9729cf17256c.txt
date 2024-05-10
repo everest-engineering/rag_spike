@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 78-year-old woman presented with severe headache, found to have a subarachnoid hemorrhage, potential cerebral aneurysm, and left frontal ventriculostomy.
+MEDICATIONS:  Amlodipine, Keppra, Neurontin, clonidine, repaglinide, lisinopril, metoprolol, and dopamine.  Morphine, midazolam, and fentanyl administered prior to the date of study.
+INTRODUCTION:  This is a 30-minute EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low-voltage, relatively featureless pattern.  In this relatively low voltage, featureless pattern, there is a subtle asymmetry.  The activity is a little lower voltage on the left relevant to the right.  There is also some very subtle, slow delta activity of not more than 30 microvolts, but with a phase reversal, in the right hemisphere, and this is best identified at very low paper speed.
+At 8:18, the patient appears to be undergoing a procedure.  The video is obscured.  The EEG demonstrates an alerting pattern with eye movement and increase in theta, most prominently in the right hemisphere compared to the left.  The left continues to demonstrate a lower voltage slow pattern and very subtle underlying periodic activity in the right hemisphere is present, some of which seems to have a double phase reversal or shifting maximum.
+Heart rate 60 to 78 beats per minute.
+IMPRESSION:  Markedly abnormal EEG due to:
+low-voltage pattern, with marked background slowing.
+An asymmetry with a lower voltage more featureless pattern on the left relevant to the right.
+In this very compromised record, there is some subtle underlying periodic slowing noted from the right hemisphere.
+CLINICAL CORRELATION:  No seizures were recorded.  There are no prominent epileptiform features.  The focal features on the left are ipsilateral to the hemorrhage.  Additional EEG monitoring will be recorded.
+
+
+
+
+

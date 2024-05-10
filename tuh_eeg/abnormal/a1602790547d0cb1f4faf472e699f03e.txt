@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  48 year old male admitted on May 11 with alcohol withdrawal seizures versus epilepsy.  Evaluate for viral encephalitis.  CT scan showed diffuse cerebral edema.
+MEDICATIONS:  Keppra, Vancomycin, Acyclovir.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow pattern.  It is a mixed frequency pattern with generous beta and theta.  There is intermittent attenuation of the background lasting about 1-2 seconds.  In addition, although there is some technical issues, the frontal regions sometimes demonstrate a bit more attenuation.  EEG is overall relatively symmetric. Stimulation of the patient produces an attenuation of the background.
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a mixed frequency markedly slow pattern.
+Intermittent attenuation of the background.
+Flattening of the activity.  Flattening of the EEG in response to stimulation.
+CLINICAL CORRELATION:  These findings are nonspecific.  This EEG could be seen in a diffuse, serious disturbance of many different causes.  There were no specific hallmarks of a herpes encephalitis.
+
+
+

@@ -1,0 +1,34 @@
+History:	53 year old man with a PMH of stroke (left) and ESRD on HD, now presents with a
+single syncopal episode.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+During the maximal arousal the background consists of 7.5-8 Hz theta posteriorly with weak AP
+gradient and excess diffuse theta activity.  There is frequent brief body/head jerks.  Patient's head is
+slightly tilted towards the right throughout the recording.  During brief drowsiness, body jerks stops
+and background is characterized by diffuse polymorphic fast theta activity.
+Intermittent polymorphic delta activity is present in the left hemisphere, especially over the left
+frontotemporal region.  This activity, however, disappears during drowsiness (when the jerks stop).
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, moderate, left hemispheric, especially frontotemporally
+No electrographic seizures
+Diffuse slowing, polymorphic, mild
+Other, frequent head and body jerks
+Interpretation:
+This is an ABNORMAL awake and drowsy 25-minute EEG due to mild diffuse slowing and
+intermittent moderate left hemispheric (especially frontotemporal) focal slowing. Diffuse slowing is
+indicative of mild  diffuse cerebral dysfunction, which is etiologically nonspecific.  intermittent focal
+slowing is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly
+structural in origin.  However, because slowing is not seen during brief drowsiness, this finding could
+be artifactual.  Please  correlate clinically and repeat EEG if needed.  Due to frequent brief
+body/head jerks more subtle abnormalities or epileptiform discharges could have been missed.
+
+
+
+
+

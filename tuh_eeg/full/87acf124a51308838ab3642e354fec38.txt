@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  56 year old left handed woman with 3 episodes of lightheadedness with loss of awareness.  These started November 19. She experienced an episode today.
+MEDICATIONS:  Lisinopril, Aspirin, Simvastatin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are utilized.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9.5 Hz alpha rhythm. An alpha subharmonic is observed. Hyperventilation is performed early on in the record. There are a handful of shifting asymmetries noted at the end of hyperventilation and as the patient becomes drowsy. There is some higher amplitude delta on the left and a bit of dropout of faster frequency activity noted on the right. There is also some muscle artifact. The patient transitions into stage 1 sleep with vertex waves. In sleep, there is also a somewhat asynchronous burst with rhythmic 4.5 Hz theta with smaller amounts of delta noted from the right. Photic stimulation elicits bilateral driving.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Shifting asymmetries noted in the transition from hyperventilation to sleep.
+Rare burst of paroxysmal slowing on the right.
+CLINICAL CORRELATION:  These findings may be correlated with imaging and history in this adult with hypertension and hyperlipidemia.
+
+
+

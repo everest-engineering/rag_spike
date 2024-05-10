@@ -1,0 +1,37 @@
+History:	78 YO FEMALE FOUND UNRESPONSIVE AND WITH INTERMITTENT SHAKING.
+R/O SZ. PT WAS HYPOTHERMIC FOLLOW UP STAT PROLONG EEG 7/13/2014
+FOR AMS, RIGHT ARM AND FACIAL TWITCH VS SUBCLINICAL SZ.
+
+PMHX: LEFT CVA, SZ, HTN, HLD
+Medications:	Ativan, Dilantin
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 20 hours from 07/13/2014 to 07/14/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+Intermittent polymorphic delta activity is present in the right midtemporal region during
+wakefulness, increasing during drowsiness.  No epileptiform discharges are present.  No clinical or
+electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 60  The EEG interpretation was limited due to almost continuous muscle artifact.
+Summary of Findings:
+Focal slowing, polymorphic, right temporal, mid
+Diffuse slowing, polymorphic, continuous, marked diffuse
+No epileptiform discharges
+Interpretation:
+This is an technically limited ABNORMAL EEG because of intermittent focal slowing in the right
+midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific. In addition there is  diffuse background slowing and absent alpha rhythm.  These
+findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.  No
+clinical or electrographic seizures are present.
+

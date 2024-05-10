@@ -1,0 +1,11 @@
+TYPE OF STUDY:  Routine EEG awake and sleep.
+DIAGNOSIS:  Rule out seizures.
+CLINICAL HISTORY:  This is a 47-year-old right-handed woman with history of daily headache and memory problem, presents for near syncope, concerned for seizure.
+MEDICATIONS:  The patient's medications include Topamax.
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard International 10/20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation and photic stimulation were performed. This tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state alpha rhythm is 10-11 Hertz in frequency, 20-30 microvolt in amplitude seen in the occipital region which attenuates with eye opening.  There is a small amount of low amplitude frontocentral, beta activity which is distributed symmetrically.  Photic stimulation was performed at multiple flash frequencies and results in symmetrical driving response.  Hyperventilation was performed with diffuse symmetrical slowing.  There were no epileptiform abnormalities or seizures during this recording.  Heart rate was 90-95 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness only.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, a repeat EEG capturing deeper stages of sleep or 24-hour ambulatory EEG maybe helpful.
+
+
+

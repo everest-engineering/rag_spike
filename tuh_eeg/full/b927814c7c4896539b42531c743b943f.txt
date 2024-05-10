@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  46 year old right handed male with post-traumatic epilepsy after a fall from a ladder at age 18.  Today, the patient did not report any seizures, but was somewhat confused.  Past history of seizures with auras of facial flushing and sensory symptoms down the left arm followed by headache.
+MEDICATIONS:  Phenobarbital,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm.  In hyperventilation in the transition to drowsiness, there is occasional theta noted from the left.  There is also wicket.  Other features of drowsiness include an increase in beta which is reasonably symmetric today. Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  This EEG is remarkable for:
+A breach rhythm identified from the left frontotemporal region more so than the right frontal region.
+Small amount of left temporal theta particularly in drowsiness.
+CLINICAL CORRELATION:  A breach rhythm is an anticipated finding following head trauma.  The theta on the left and the prominent beta have been previously described for this patient.
+__________________________
+
+
+

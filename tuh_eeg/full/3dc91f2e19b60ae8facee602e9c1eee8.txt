@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 68 year old right handed male with left carotid stenosis.
+MEDICATION: Fentanyl, VEC, Propofol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20
+system of electrode placement with 1 channel of EKG. The recording begins at 11:29
+and concludes at 2:14. This was a 3 hour EEG.
+DESCRIPTION OF THE RECORD: As the tracing begins the patient is awake. There
+is a low voltage pattern. Quickly, by 11:55, medications have been administered and the background demonstrates slowing. Following the induction of anesthesia, a
+symmetric pattern is observed notable at 12:07 with generous beta and some shifting
+asymmetry.
+Heparin is administered at 12:47. The carotid is clamped at 12:50. At that time it is a
+relatively low voltage pattern with generous theta. There is some head rocking artifact
+observed in the left temporal electrode. No other significant focal features are noted
+with the clamp. The recording is continuous until patency is confirmed by Doppler at
+2:05.
+HR: N/A
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this carotid
+endarterectomy did not identify significant focal features.
+

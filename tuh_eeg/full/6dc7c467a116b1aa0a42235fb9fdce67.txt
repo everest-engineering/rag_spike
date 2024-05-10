@@ -1,0 +1,23 @@
+History:	55 year old man with myoclonic jerks noted after days of change in mental status.
+Medications:	Versed/ Turned off at 8:30AM today
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR and no AP gradient.  The background consists of attenuated diffuse delta activity
+admixed with diffuse sleep-spindle-like waveforms.  Continuous EKG artifact is noted.
+Two separate head jerks to the left are noted (at 9 min 24 sec and 24 min 10 sec into the
+recording). These are only associated with EMG artifact.
+Hyperventilation and photic stimulation are not performed.  There is change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe
+Other, reactive
+Other, 2 head jerks to the left
+Interpretation:
+This is an ABNORMAL 25-minute EEG due to severe background slowing and attenuation. This
+finding is indicative of severe diffuse cerebral dysfunction, which is etiologically nonspecific.  Two
+separate head jerks to the left are only associated with EMG artifact.
+
+

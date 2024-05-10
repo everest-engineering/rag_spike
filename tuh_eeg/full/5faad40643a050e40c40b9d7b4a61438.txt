@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   87 year old right handed woman admitted with confusional episode.  She was awakened from sleep by a friend and had difficulty communicating.  Initial CTs suggested left frontal infarct, but MRI demonstrated chronic, not acute, ischemia.  No additional events.
+MEDICATIONS:  Norvasc, ASA, Clonidine, Glyburide, HCTZ, Omeprazole, Simvastatin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a low-voltage, 10-Hz alpha rhythm with a generous amount of low-voltage frontocentral theta activity.  There are bursts of shifting arrhythmic delta activity.  Some of these are a little bit more prominent in the left frontal region. Features of drowsiness include an increase in beta. Photic stimulation elicits bilateral driving.
+HR:    110 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Shifting slowing.
+Occasional left greater than right focal slowing.
+CLINICAL CORRELATION:  This is the second EEG for this adult without epileptiform activity.  The shifting slowing is bilateral.  It is not as prominently on the left  as in the initial study.
+
+
+

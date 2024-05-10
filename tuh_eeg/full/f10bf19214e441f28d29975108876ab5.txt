@@ -1,0 +1,15 @@
+ACTIVATION PROCEDURES:  HV and photic.
+LENGTH OF RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is a 54-year-old man with a history of seizure disorder for about 12 years.  Seizures are characterized by shaking episodes with associated blurred vision and a sensation of off balance.  He denies any loss of consciousness.  He states the events last approximately 20 minutes and he returns back to baseline.
+PAST MEDICAL HISTORY:  Significant for alcohol abuse.
+MEDICATIONS:  Omeprazole, folic acid and Thiamine.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low amplitude 10 Hz activity that attenuates with eyes opening.  There is an anterior-to-posterior amplitude gradient.  Diffuse excess beta is captured.  During drowsiness posterior dominant rhythm attenuates, there is an increased amount of theta and beta, and occasional vertex waves.  Hypoventilation produces no change in the background.  Photic stimulation results in symmetrical occipital driving.  No epileptiform discharges are captured.  Occasional premature atrial contractions are captured on a single electrocardiogram lead.
+FINDINGS:
+No stage II sleep.
+Excess beta.
+Abnormal electrocardiogram.
+IMPRESSION:  This is a normal awake and drowsy 22 minute EEG.  No epileptiform discharges are captured, but stage II sleep is not recorded.  Excess beta is commonly observed with benzodiazepines or barbiturates.  Occasional premature atrial and ventricular contractions are captured in a single electrocardiogram lead.
+
+
+

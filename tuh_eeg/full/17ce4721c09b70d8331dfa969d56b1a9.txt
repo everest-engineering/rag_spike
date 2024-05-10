@@ -1,0 +1,12 @@
+ROOM NUMBER:  239.
+CLINICAL HISTORY:  A 50-year-old woman with heart disease, pacemaker, atrial flutter, admitted to the emergency room on October 30, for lethargy and difficulty speaking.
+MEDICATIONS:  Norepinephrine, Zosyn, vancomycin, and others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1-channel EKG.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow pattern with primarily low voltage delta and smaller amounts of intermittent theta and frontal beta.  Occasional spontaneous movements are noted with some muscle artifact as well as movements of the lower extremities.  Tactile stimulation of the patient was performed and did not significantly activate the record.  The technologist noted that this is a technically difficult study for the patient with scalp edema.
+Heart rate 78 b.p.m.
+IMPRESSION:  Abnormal EEG due to:
+generalized background slowing.
+CLINICAL CORRELATION:  No focal epileptiform features were noted.  The background slowing described above is a nonspecific finding, but suggests a diffuse disturbance of cerebral function, which can include a toxic or metabolic encephalopathy.
+
+
+

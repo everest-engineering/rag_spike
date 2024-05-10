@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  30 year old right handed woman with left temporal lobe epilepsy, status post temporal lobectomy, recent problems with medications and break through seizures.  The patient describes seizures as crying spells.  To her physician she describes these as spells where she knew what was going on, but had difficulty speaking.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   This is an awake though stage II sleep record.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz rhythm with a small amount of low voltage, frontal central beta activity.  Prominent breech rhythm is noted. There is an asymmetry noted with focal slowing in the left temporal region and disruption of faster frequency activity.  Wicket activity is noted. Stage II sleep includes vertex waves, K-complexes, POSTS, and spindles. Hyperventilation accentuates the focal slowing. Photic stimulation is performed while the patient is drifting off to sleep.  It does not significantly activate the record.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left temporal focal slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified, although wicket activity and a breech rhythm were noted.  If further characterization for epileptiform activity is needed, EEG monitoring may be required.
+
+
+

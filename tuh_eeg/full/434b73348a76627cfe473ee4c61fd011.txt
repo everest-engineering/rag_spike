@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 73 year old right handed male, first ever seizure, found at home, confused.  Recent history of head trauma and possible alcohol withdrawal.
+MEDICATIONS:  Ativan, Keppra, Folic Acid
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation is completed.
+DESCRIPTION OF THE RECORD:  This EEG shows that there is an alpha rhythm reaching 8.5 hertz, but there is a small amount of excess theta.  Drowsiness includes an increase in background slowing followed by vertex waves and spindles.  Sleep is disrupted.  Photic stimulation does not activate the record.
+HR:    60 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The features described above are non-specific and can be seen in post ictal state or diffuse disturbance of cerebral function due to many different causes.  If epilepsy is an important consideration, a repeat study in the lab is suggested.
+
+
+

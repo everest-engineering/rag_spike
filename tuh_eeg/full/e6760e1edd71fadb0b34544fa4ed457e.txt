@@ -1,0 +1,31 @@
+History:	58 year old woman, POD#18 after left carotid stent. Now presents with confusion,
+change in mental status, and word finding difficulties. Undergoing evaluation for
+seizures.  PMHX: CVA 2010, RIGHT HEMIPARESIS.
+Medications:	NEURONTIN, PLAVIX, ZOFRAN, INSULIN, CARVEDILOL
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Description:
+The waking background is symmetric, reactive, and has fair organization with a 7-Hz posterior
+dominant rhythm, which attenuates symmetrically with eye opening.  Drowsiness is characterized by
+attenuation of the posterior dominant rhythm and theta slowing.  Sleep transients, including vertex
+waves, K complexes, and spindles, are symmetric and normal.
+There is occasional left hemispheric polymorphic slowing.  No epileptiform discharges are present.
+No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation are not performed.  A heart beat of 66 bpm is captured on
+a single EKG lead.
+Summary of Findings:
+Other, continuous, mild diffuse, suboptimal organization
+Focal slowing, polymorphic, occasional, left hemispheric
+Diffuse slowing, polymorphic, continuous, mild
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of occasional polymorphic left
+hemispheric slowing superimposed on mild diffuse background slowing and suboptimal
+organization.  These findings are etiologically nonspecific indicators of left hemispheric cerebral
+dysfunction, possibly structural in origin, superimposed on mild diffuse cerebral dysfunction.
+
+
+
+
+

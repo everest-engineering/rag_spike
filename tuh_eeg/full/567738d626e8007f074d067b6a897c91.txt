@@ -1,0 +1,25 @@
+History:	48 YR MALE WITH PMHX OF CVA X2 WITH SUBSEQUENT SZS, ANXIETY.
+PRESENTS WITH SZS.  PMHS: SZS, CVA, ETOH ABUSE, ADM ETOH 230,
+PHENOBARB 30.2, DILANTIN 10.6
+Medications:	Phenobarbital, Dilantin, Lorazepam, Prozac
+Sedation:	None
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake,
+drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Excess beta activity is present diffusely.  During drowsiness, the
+background slows to central theta activity, frontal beta activity becomes more prominent, and the
+alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further
+to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR 70
+Summary of Findings:
+No epileptiform discharges
+Excessive fast, continuous diffuse
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. There is excess beta activity throughout the
+study which is normal but can be seen with use of benzodiazepines or barbiturates.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+

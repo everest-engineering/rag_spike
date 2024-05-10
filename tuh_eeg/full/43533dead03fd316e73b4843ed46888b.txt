@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 55 year old male with epilepsy, diverticulitis, and diabetes.  patient had a loss of consciousness, hit his head but no postictal Left-sided weakness, left-sided pain.
+MEDICATIONS: Gabapentin, Lamotrigine, Keppra, Folate Acid, Protonix. Thiamine, Lovenox
+INTRODUCTION: Digital video EEG was performed in lab using 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9-Hz alpha rhythm. There is a small amount of 8-Hz activity and the alpha rhythm has greater than anticipated variability. Subtle focal slowing is noted in the right hemisphere with disruption of the alpha rhythm and subtle, underlying intermittent mixed theta delta. This focal slowing is accentuated by hyperventilation. Features of drowsiness include an increase in beta. Photic stimulation does not activate the record.
+HR: 78bpm
+IMPRESSION: Abnormal EEG due to:
+1. Very mild background slowing.
+2. Subtle asymmetry with disruption of faster frequency activity on the right.
+CLINICAL CORRELATION: No epileptiform features were observed. The subtle focal features may be correlated with imaging. The mild degree of background slowing may be related to this patient’s polypharmacy.
+
+
+

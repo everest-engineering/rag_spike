@@ -1,0 +1,27 @@
+History:	93 YR OLD FEMALE R HANDED CHANGE. IN MENTAL STATUS.
+Medications:	KEPPRA
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+A posterior dominant rhythm was at best 6Hz.  Background activity was characterized by diffuse
+theta activity with presence of the expected anterior to posterior gradient of frequencies.  No normal
+sleep architecture was present.
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the anterior
+temporal region during wakefulness.  Continuous polymorphic theta activity is present in the right
+parietal region during wakefulness.  No epileptiform discharges are present.  No clinical or
+electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR of 78 bpm.  There is a continuous bilateral prefrontal myogenic artifact
+that limits the interpretation of the record.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric
+Focal slowing, polymorphic, continuous, right parietal
+Interpretation:
+This is an ABNORMAL EEG because of  continuous focal slowing in the left hemisphere maximal in
+the anterior temporal region and right parietal region.  These findings are indicative of severe
+focal cerebral dysfunction in this region, likely structural in origin. In addition there is  moderated
+diffuse background slowing and slow alpha rhythm.  These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.
+

@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  A 28-year-old woman with a history of depression and mental illness.  The patient had an episode of dizziness and lightheadedness with confusion after Xanax.
+
+MEDICATIONS:  Enoxaparin.
+
+INTRODUCTION:  Digital video EEG was performed in the laboratory using standard 10-20 system of electrode placement with 1-channel EKG.  This was a technically somewhat challenging EEG due to impedance issues.  The tech was unable to achieve impedances under 5 kilohms for some electrodes despite repeated efforts.   Hyperventilation was deferred.  Photic stimulation was completed.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a pattern with diffuse, generous beta in a relatively somnolent adult.  Brief arousals produce eye opening and a theta pattern.  The patient transitions in and out of stage 2 sleep with vertex waves, spindles, and POSTS.
+
+Photic stimulation was performed while the patient was asleep but did produce scant driving.
+
+Heart rate: 96 BPM.
+
+IMPRESSION:  This EEG is remarkable for:
+1. Hypersomnolence.
+2. Excess beta.
+
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The excess beta described above and the hypersomnolence are no consequences of over ingestion of a benzodiazepine.
+

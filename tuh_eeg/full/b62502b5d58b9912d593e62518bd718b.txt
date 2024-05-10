@@ -1,0 +1,21 @@
+History:	44 year old woman presents with a second convulsion.
+Medications:	Asthma meds
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, drowsy, hyperventilation, photic
+
+
+Description:
+Waking background is characterized by a 25-40uV, 11.5Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed   by symmetric vertex waves.
+
+Occasional subtle polymorphic theta activity is noted over the left temporal region. It becomes more pronounced during drowsiness. No epileptiform discharges are present.
+
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.
+
+Summary of Findings:
+Focal slowing, polymorphic, occasional, mild, left temporal No epileptiform discharges
+No stage 2 sleep
+
+Interpretation:
+This is an ABNORMAL 22-minute EEG, awake and drowsy, due to subtle occasional mild left temporal slowing. This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin. No epileptiform discharges are present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+

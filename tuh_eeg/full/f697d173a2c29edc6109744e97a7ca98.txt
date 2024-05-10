@@ -1,0 +1,18 @@
+
+CLINICAL HISTORY:  This is a 41-year-old female with history of multiple sclerosis, anemia, nephrolithiasis, and seizure disorders, who presents with increase in frequency of seizures.  The episode is described as eyes rolling up with foam at mouth lasting more than 20 minutes.  The patient also has the little spasms from multiple sclerosis.
+
+MEDICATIONS:  Including Keppra and others.
+
+INTRODUCTION:  Digital video EEG performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 8-8.5 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is low amplitude beta activity in the frontocentral region, which is distributed symmetrically.  There is 5-7 Hz diffuse theta activity seen during wakefulness, which is distributed symmetrically.  There are frequent bursts of bitemporal slowing at F7/T3 and F8/T4 more prominent on the left side or independent left temporal artery slowing at F7/T3 during wakefulness and drowsiness.  Drowsiness is characterized by disappearance of posterior dominant rhythm, slowing of the background, and absence of muscle and eye blink artifact. There are bursts of frontal intermittent rhythmic delta activity (FIRDA) with a frequency of 2-3 Hz. Heart rate was 100 beats per minute and regular.
+
+IMPRESSION:  This is an abnormal EEG due to
+1. Excess theta activity during wakefulness.
+2. There is also bitemporal slowing, left more than right side seen during wakefulness and drowsiness.
+3. FIRDA bursts. No epileptiform abnormalities or seizures were identified in this record.
+
+CLINICAL CORRELATION:  The above findings could be due to toxic, metabolic, hypoxic, or infectious encephalopathy. Alternatively, it could be due to the effect of sedating medications, bilateral cerebral dysfunction, or degenerative brain disease.  The right temporal slowing is suggestive of either bilateral structural abnormalities or bilateral cerebral dysfunction. FIRDA bursts could also be due to a lesion in the deep subcortical frontal white matter or 3rd ventricle and has been at times associated with increased intracranial pressure. Clinical correlation is recommended. No epileptiform abnormalities or seizures were seen in this record.  This does not rule out the diagnosis of epilepsy or of intermittent seizures.  Seizures are clinical concern. A repeat sleep-deprived EEG or a long-term EEG monitoring at bedside maybe helpful.
+
+
+

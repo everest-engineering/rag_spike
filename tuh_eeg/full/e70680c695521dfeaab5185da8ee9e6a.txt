@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 89 year old right handed male status post resection of large intracranial mass as well as dementia, evaluate for possible seizures.
+MEDICATIONS: Keppra, Labetalol, Risperdal, Lopressor, Lasix, Morphine, Vancomycin, Tylenol 3
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient has had a recent craniotomy.
+DESCRIPTION OF THE RECORD: The background EEG includes a bilaterally slow pattern. There is significantly more muscle artifact on the left compared to the right. The right hemisphere demonstrates rhythmic slowing which can also be identified in the left frontal central region. The right hemisphere demonstrates a bit more disruption of faster frequency activity. Occasional Firda is noted.
+HR: N/A.
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Superimposed focal slowing on the right.
+CLINICAL CORRELATION: No epileptiform features were observed. This EEG supports a diffuse disturbance of cerebral function. Contributing factors can include this patient's history of dementia, resection of recent, large tumor and/or metabolic encephalopathy.
+
+
+

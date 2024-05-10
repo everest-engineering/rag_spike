@@ -1,0 +1,33 @@
+History:	45 year old man with a history of craniotomy in 2000.  patient had 2 lifetime
+seizures: in 200 and 2001.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic very sharply countoured theta and delta activity is present in the left mid-
+temporal region.  Underriding fast activity is noted over the same region.  Several moderate-to-high
+amplitude spikes with aftergoing slow waves are noted over the left anterior temporal region.
+Maximal scalp negativity occurs over F7/T1/T3 electrodes.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left temporal, mid
+Breach artifact, left temporal, mid
+Spikes, few, left temporal, anterior
+Interpretation:
+This is an abnormal awake and drowsy 27 minute EEG due to continuous moderate focal left
+midtemporal slowing and several left anterior temporal epileptiform discharges. Continuous focal
+slowing is indicative of a focal structural lesion in this region and is consistent with known history of
+a prior craniotomy.  There is a potentially epileptogenic focal structural lesion in the right anterior
+region.  Breach artifact is a sign of a skull defect.
+
+
+
+
+

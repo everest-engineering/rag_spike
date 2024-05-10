@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 23-year-old woman with epilepsy, seizure-free for many years.
+MEDICATIONS:  Zonegran 200 mg (zonisamide).
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, symmetric reactive alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by hypersynchronous rhythmic slowing.  Hyperventilation is characterized by an increase in theta.
+Photic stimulation elicits a bilateral driving response.  Harmonic and supra-harmonic driving was noted.
+Heart rate 72 BPM.
+IMPRESSION:  This EEG is within the limits of normal.
+CLINICAL CORRELATION:  Harmonic and supra-harmonic driving are normal findings.  A single sharp wave is noted in hyperventilation.  Aside from this, there were no focal or generalized epileptiform focalities.
+
+
+

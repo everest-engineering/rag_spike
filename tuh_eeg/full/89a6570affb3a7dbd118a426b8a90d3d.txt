@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  62 year old right handed gentleman admitted on the 27th with altered mental status, inappropriate behavior, history of hepatitis C, cirrhosis, stroke, and TIA.
+
+MEDICATIONS:  Keppra, Insulin.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG includes a mixture of theta and delta.  There is little in the way of a posterior dominant rhythm.  Features of sleep include spindles and a handful of vertex waves.  Photic stimulation serves to awaken the patient and increase both the beta and theta, but there is no definitive driving response.
+
+HR:    96 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Generalized background slowing.
+2. Paucity of some of the normal wave forms anticipated in wakefulness.
+
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function effecting gray and white matter.  If epilepsy is an important consideration, a follow-up study may be considered.
+
+

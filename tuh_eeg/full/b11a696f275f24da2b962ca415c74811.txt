@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  48 year old male with previous type A aortic dissection, now with arch aneurysm.  Past history of stroke, gallbladder surgery.  This is a preoperative study for an arch replacement.
+MEDICATIONS:  Coumadin, Hydrodiuril, Lopressor
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. There was no hyperventilation or photic stimulation.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness there is an 11 Hz alpha rhythm.  The patient transitions in and out of sleep with slow rolling eye movements.  At time there is an increase in beta and others there is an increase in theta.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and stage I sleep.
+CLINICAL CORRELATION:  There were no focal nor epileptiform features identified.  This EEG will be utilized for this patient's operative study.
+
+
+

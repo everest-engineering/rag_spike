@@ -1,0 +1,38 @@
+History:	54 year old woman with a history of epilepsy, now presents with multiple seizures.
+EEG from the day prior showed events concerning for subclinical focal seizures.
+Medications:	Depakote, keppra, phenobarbital, Vimpat
+Sedation:	None
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The awake background consists of polymorphic low-to-moderate 8-9 Hz activity with poor AP
+gradient and excess polymorphic sharply contoured theta and delta activity.  No clear sleep
+architecture is present but periods of quiescence are evident.
+Nearly continuous polymorphic theta and delta activity is present in the bilateral temporal regions,
+left>>right.  Frequent independent sharp waves with aftergoing slow waves are captured over the
+anterior temporal regions.  Maximal scalp negativity occurs over T1 and T2 leads.  Additional,
+occasional frontopolar sharp waves are captured (Fp1 and Fp2 maximal).  Approximately 40 second
+rhythmic mildly evolving run of activity is noted over the left anterior temporal region (2:39:40
+PM).  It starts with ~ 3 Hz rhythmic delta, maximal over the F7/T3 leads, that gradually increases in
+amplitude and decreases to ~ 2.5 Hz.  There is no clinical correlate and patient is not tested during
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Sharp waves multifocal, independent anterior temporal and synchronous frontopolar
+Focal slowing, polymorphic, nearly continuous, moderate, bilateral (L>R) temporal, anterior
+Other, suspected 40 sec focal L temp seizure
+Interpretation:
+This is an ABNORMAL 1 hour portable EEG due to (1) mild-to-moderate diffuse slowing; (2) nearly
+continuous moderate bitemporal, left>right, focal slowing; (3) multifocal epileptiform discharges
+(independent bilateral anterior temporal and bisynchronous frontopolar regions) and (4) a single 40
+second event concerning for a left anterior temporal seizure.  Diffuse slowing is indicative of mild
+to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  There is bilateral focal
+epileptogenic structural cerebral abnormality in bilateral temporal regions.  Additional,
+epileptogenic focus is present over the frontopolar regions.  These findings were conveyed to the
+primary team. the event.
+
+
+
+

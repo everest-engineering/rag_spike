@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  22 year old right handed woman with sharp right-sided headaches, visual disturbances 2-4 times per month, past history of epilepsy after a gunshot wound to the head at age 4, tonic-clonic seizures, depression and panic attacks since 2005.
+MEDICATIONS:  Celexa, Buspirone, Trazodone, Temazepam, Alprazolam, Sprintec
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  There is no mention of a scar on the brain or craniotomy in the tech information.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized for age.  There is an 11 Hz, 40 mcv posterior dominant rhythm, and a small amount of low voltage frontocentral beta.  Drowsiness is characterized by slow rolling eye movements.  This is followed by frontocentral theta.  Occasional posterior slow waves of youth are noted.  There is a single slightly asynchronous vertex wave noted in sleep and there is a bit more head rocking artifact on the right.  Vertex waves and POSTs are rare in the sleep record. Hyperventilation produces an increase in heart rate and scant theta.  Photic stimulation is performed while the patient is drifting in and out of stage II sleep.
+HR:    100 bpm
+IMPRESSION:  EEG  is within normal limits.
+CLINICAL CORRELATION:  In sleep, there was a single asynchronous vertex wave as well as some head rocking artifact.  These cannot be considered significant but could be correlated with imaging.  No epileptiform features were seen.
+
+
+

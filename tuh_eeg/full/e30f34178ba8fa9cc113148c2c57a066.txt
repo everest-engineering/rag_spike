@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  71 year old right handed woman with atrial fibrillation, B-cell lymphoma, previous stroke admitted with change in mental status characterized by increasing drowsiness and poor responsiveness.
+MEDICATIONS:  Keppra, Protonix, Digoxin, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is poorly responsive and has difficulty cooperating with the test.
+DESCRIPTION OF THE RECORD:  This EEG is remarkable for significant muscle and movement artifact. The tech works to improve the impedances.  When the patient is awake, there is excess muscle activity.  Brief relaxation produces a slower theta delta pattern.  On a handful of locations when the patient is stimulated, she has eye opening, but does not respond to questioning.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and drowsiness due to:
+Paucity of the normal wave forms one would expect in wakefulness.
+CLINICAL CORRELATION:  This EEG is more supportive of a diffuse disturbance of cerebral dysfunction such as ataxic or metabolic encephalopathy.  There were no epileptiform features noted.  If additional information is needed, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

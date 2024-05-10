@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 58-year-old gentleman with a seizure 1 year ago.  The patient recalls feeling dizzy, fell down, hit head, and hurt his shoulder.  History of depression and anxiety.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Sleep-deprived EEG was requested but the patient was sent for routine EEG which was performed.  EEG was performed using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were performed.  Impedances were left slow almost with the exception of the T1 and T2 electrodes which were 5.6 and 5.7 respectively.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage with a 9.7 Hz alpha rhythm and a small amount of low voltage frontocentral beta.  Drowsiness is characterized by rhythmic central theta.  First excess, K-complex spindles, and posts were identified in stage II sleep.
+Hyperventilation was performed while the patient was falling asleep and did not otherwise activate the record.  The patient was also falling asleep during photic stimulation without significant driving response.
+Heart rate:  60 BPM.
+IMPRESSION:  This is a normal low voltage EEG in wakefulness and sleep in an otherwise hypersomnolent patient.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A low voltage EEG is a normal finding.  This patient's excessive drowsiness may be due to the fact that this was a sleep deprived record.
+
+
+

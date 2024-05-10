@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 20-year-old woman with severe headaches with right temporal pain; every 3 months she has a severe headache with eyes rolling up, shaking, cannot move her hands, or talk for 3 minutes, and falls; and history of orthostatic hypotension.
+MEDICATIONS:  None reported.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by rhythmic background slowing.  Slightly asymmetric eye movements were noted and drowsiness.  On one occasion in transition to drowsiness, the alpha rhythm for less than 1 second is asymmetric, but in all other sections of the record, the alpha is symmetric.  Vertex waves were noted in stage 1 sleep, but sleep was not sustained.
+Photic stimulation elicited vigorous bilateral driving.  Hyperventilation produced some rhythmic slowing and a significant amount of muscle artifact.
+Heart rate 72 bpm.
+IMPRESSION:  Normal EEG in wakefulness through early sleep.
+Clinical Correlation:  No epileptiform features were identified.  If epilepsy is an important consideration, a more prolonged record or a sleep study may be of value.
+
+
+

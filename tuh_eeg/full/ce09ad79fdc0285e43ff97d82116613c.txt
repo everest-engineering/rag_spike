@@ -1,0 +1,34 @@
+AGE: 74 y.o.
+SEX: male
+DATE OF STUDY: 09/15/2015
+RECORDING ENVIRONMENT : Inpatient
+EEG TYPE: routine awake-only EEG #: 15-1354
+HISTORY:
+74 y.o. male referred for routine EEG for an episode of convulsion with left arm plegic, without known history of stroke or seizure. PMH: HTN, DM, prostate cancer, depression, hyperlipidemia, anemia.
+MEDICATIONS :morphine, heparin, clindamycin, insulin, hydralazine, ASA, protonix, amlodipine, coreg, phenergan , vancomycin, Tylenol
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a a technically challenging study as the patient was agitated, creating much muscle artifact. The study included a single channel of EKG.
+EEG BACKGROUND:
+The waking background is characterized by a symmetric but disorganized mixture of alpha, theta, and delta frequencies. There is no definite posterior dominant rhythm. Spontaneous eye movements are seen and moaning is noted by the technician .
+Drowsiness and sleep are not clearly captured.
+There is mild to moderate generalized slowing . No definite focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation : Not performed Photic Stimulation: Not performed
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 84 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal, though technically limited (due to frequent diffuse muscle artifact) awake-only routine EEG due to:
+Mild to moderate generalized slowing
+Disorganized background
+CLINICAL CORRELATION:
+These findings are non-specific indicators of mild to moderate diffuse cerebral dysfunction .
+
+
+

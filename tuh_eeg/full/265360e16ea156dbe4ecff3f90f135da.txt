@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 44-year-old male with adult onset complex partial epilepsy, refractory, tonic-clonic, and secondarily generalized medicines.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is a technically satisfactory routine EEG.
+DESCRIPTION OF RECORD:  In wakefulness, the background EEG is low voltage, but there is an 8.5 Hz posterior dominant rhythm with a generous amount of low voltage, frontal central beta.  Alpha squeak was noted.
+Stage II sleep includes vertex waves, spindles, K complexes, and POSTS.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation was performed while the patient was in stage II sleep and did not significantly activate the record.
+Heart rate 66 BPM.
+IMPRESSION:  Low voltage, otherwise normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified in the routine EEG.  Additional EEG recording was undertaken to characterize this patient's epilepsy.
+
+
+

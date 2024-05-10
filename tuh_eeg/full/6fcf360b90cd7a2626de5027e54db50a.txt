@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  19-year-old woman with episodes of visual loss and impaired balance since age 12.  Patient is coherent during the episodes.  In July, she started having pressure-like headaches and now has episodes of forgetfulness.
+MEDICATIONS: OCP
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  This is a routine, outpatient 20 minute EEG.  Impedances are under 5 kilo-ohms with the exception of the T1-T2 electrodes.  It is technically satisfactory.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a well-organized pattern with an 11 Hz, 70 microvolt posterior dominant rhythm with posterior slow waves of youth.  Hyperventilation produces bursts of paroxysmal slowing.  Photic stimulation elicits subtle driving.  In drowsiness, there is some slow rolling eye movement artifact.
+Heart rate 66 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Posterior slow waves of youth are a normal finding in a young adult.
+__________________________
+
+
+

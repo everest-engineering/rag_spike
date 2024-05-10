@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 53-year-old male with previous evaluation for encephalopathy, sarcoid, recent bilateral lung transplant with postoperative renal failure, now with involuntary movements.
+MEDICATIONS:  Versed, vecuronium, cefepime, insulin, ganciclovir, hydrocortisone, linezolid, meropenem, Prograf, Neupogen, rifaximin, valganciclovir, voriconazole.
+INTRODUCTION:  A 1 hour 45 minute video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and comatose.  Prior to the EEG, the patient had received 5 mg of Ativan for new onset involuntary movements.
+DESCRIPTION OF THE RECORD:  This EEG was recorded in 2 parts.
+The patient has received 5 mg of Ativan.  The patient is intubated, comatose, unresponsive with a low voltage, slow featureless pattern with delta activity in the EKG artifact.  At 03:46, the patient begins to have involuntary head bobbing movements with head turning abruptly from the right to the left.  As the first section of the EEG continues, additional intermittent movements of the head were noted.  By 04:18, a more vigorous head bob was seen.  No EEG changes are noted with the head bobbing.  The motor activity builds up at 04:21 with a more vigorous movement of the head from right to left, which produces artifacts.  By 04:23, there is an increase in muscle activity and this repetitive involuntary movement transitions after 04:33 to repetitive left head turning with oral movements and some movements of the shoulder.  This produces an artifact in the EEG, but no definitive epileptiform signature is associated with this.  In the final 12 minutes of the first part of the EEG, the EEG is essentially obscured with movement artifact.  In this 2nd piece of EEG, the patient was given 2 mg of Versed.  This immediately produces a low voltage, featureless pattern.  The activity starts to disappear at 05:13 and the patient is monitored until 5:33.  The EEG remains low voltage, suppressed, unreactive.  Tactile stimulation did not produce any change in the EEG or any alerting.
+Heart rate irregular, 93 bpm.
+IMPRESSION:  This is a challenging 1 hour and 45 minute EEG, but is remarkable for.
+Low voltage, slow featureless pattern when the patient is not having involuntary movements.
+A complex set of involuntary movements without EEG signature.  The involuntary movements start with a simple head jerk out of a featureless background, and then go on to become a more complex movement.
+CLINICAL CORRELATION:  This EEG is supportive of severe, diffuse bihemispheric disturbance.  The involuntary movements did not have the specific EEG patterns of an electrographic seizure.  They may
+represent a form of myoclonus.  This raises concerns about a serious toxic or metabolic process as well as a bihemispheric cortical process.
+
+
+
+

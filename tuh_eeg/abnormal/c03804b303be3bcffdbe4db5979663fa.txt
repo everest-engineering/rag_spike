@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 30 year old left handed woman with childhood epilepsy and a seizure December 17, 2010 In the context of an upper respiratory tract infection.
+MEDICATIONS: Topamax.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is an 8.7 Hz alpha rhythm, but in drowsiness, the alpha rhythm slows considerably. Other features of drowsiness include rhythmic background theta with vertex waves. In sleep, there are brief bursts of frontally predominant, 3-5 Hz, spike and wave activity with bursts typically less than a second but the bursts appear as groups so the overall duration tends to be about 3 seconds. Hyperventilation does not seem to accentuate the activity. The bursts occur around the time of photic stimulation but not specifically during photic stimulation. At 13 Hz, there are 2 bursts but they are not clearly significantly different than those that occur outside of the photic stimulation.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Frontally predominant 3-5 Hz spike and wave activity which seems to be accentuated by drowsiness.
+CLINICAL CORRELATION: These findings are similar to previous studies. No sustained spike and wave bursts were noted.
+
+
+

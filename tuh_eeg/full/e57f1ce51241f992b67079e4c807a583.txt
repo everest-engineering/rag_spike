@@ -1,0 +1,134 @@
+EPILEPSY MONITORING UNIT REPORT
+History: is a 66yr old right handed male with history of seizures since infancy.
+Semiology:
+CPS: No Aura, sudden loss of consciousness, picking at clothes and objects for about 5 minutes followed by post ictal confusion for about 5 minutes. Current frequency 3 per week. Last seizure was on 3/26/2015.
+Secondary T-C: Sudden T-C seizure for 2-3 minutes followed by post ictal confusion for 5 minutes. Current frequency: Once per month. Last seizure was on February 2015.
+Seizure Risk factors: Prematurity. Sister has seizures. None other. Current AEDs: Tegretol 600mg Q12H, Lamictal 25mg Q12H
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+The patient is having medically uncontrolled seizures or clinical events, which poses a significant mortality and morbidity
+risk. Continuous monitoring will aid in diagnosis and determining best treatment options. If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual mortality rate.
+Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures causing injury or status epilepticus;
+The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to provide first aid and
+patient safety during seizures;
+The full hospital team must be present to deal with these medical emergency situations should they arise, including nurses to document patient's exam
+there have been 13 reported deaths during various video-EEG monitoring procedures,so this is not a "low risk"
+service
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician. A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+Samples of EEG were recorded periodically. Detections were reviewed in detail by the attending neurologist.
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 1O Hz.
+Description of daily interictal EEGs:
+03/30-
+lnterictal
+03/3112015
+background:
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+Epileptiform
+Occasional Left anterior temporal (F7) sharp waves in sleep.
+activity:
+Sleep:
+Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex
+waves, and sleep spindles.
+Seizures/events:
+None
+AEDs:
+Tegretol 400mg bid , Lamictal 25mg bid stopped
+03/31-
+lnterictal
+04/0112015
+background:
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+Epileptiform
+Occasional Left anterior temporal (F7) sharp waves in sleep.
+activity:
+Sleep:
+Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex
+waves, and sleep spindles.
+Seizures/events :
+None
+AEDs:
+Tegretol 200mg bid
+04/01-
+lnterictal
+04/0212015
+background:
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+Epileptiform
+Occasional Left anterior temporal (F7) sharp waves in sleep.
+activity:
+Sleep:
+Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex
+waves, and sleep spindles.
+Seizures/events :
+One CPS at 11:04AM
+AEDs:
+Tegretol 200mg bid
+04102-
+lnterictal
+04/0312015
+background:
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+Epileptiform
+Occasional Left anterior temporal (F7) sharp waves in sleep.
+activity:
+Sleep:
+Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex
+waves, and sleep spindles.
+Seizures/events:
+One CPS at 12:58
+AEDs:
+Tegretol 200mg bid
+04/03-
+lnterictal
+04/0412015
+background:
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+Epileptiform
+Occasional Left anterior temporal(F7) sharp waves in sleep.
+activity:
+Sleep:
+Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex
+waves, and sleep spindles.
+Seizures/events:
+None
+AEDs:
+Tegretol XR 600mg bid, Topiramate 50mg every 12hrs
+Clinical and EEG Characteristics during Seizures and Events:
+Event #1: CPS
+Date:  04/0112015	Time:   11:04AM
+Baseline:
+Clinical features:
+While sitting on the side of the bed reading he suddenly falls to the left and back . His left hand appears to have a slight spooning posture. His face is out of the video. He then proceeds to tremble his feet and body. Next he appears to grab at the pillow with the left hand. Then he sits up and appears confused, while fidgeting around the bed.
+EEG features:
+There is a sudden left mid-temporal 4Hz sharply contoured discharge with some central spread .This increases in frequency while obscured by what appears to be a chewing artifact (not correlate on video). In - about 8 seconds it reaches an 8-9 Hz frequency then after 30 seconds slows down to delta and stop. The discharge remains mainly over the left temporal region.
+Event #2: CPS
+Date: 04/02/2015	Time:  12:58 Baseline:
+Clinical features:
+While sitting on the side of the bed, he suddenly slumps backwards and then his left hand appears to lift up. Seconds later he trembles and once the camera is adjusted his eyes appear to be tonically
+looking to the left with a mild associated head deviation also to the left. He remains laying back wards unresponsive to verbal and motor commands. Once the seizure ends he sits up and remains confused.
+EEG features:
+There is a sudden left mid-temporal 4Hz sharply contoured discharge with some central spread. This increases in frequency while obscured by a neurogenic artifact. In - about 8 seconds it reaches an 6-7 Hz frequency then after 30 seconds slows down to delta and stop.The discharge remains mainly over the left temporal region.
+INDUCTION PROCEDURES:
+Sleep deprivation
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+Focal slowing and frequent left anterior temporal sharp waves in wakefulness and sleep
+lctal Findings:
+The patient had 2 clinical events while hooked up to continuous video EEG monitoring in the epilepsy monitoring unit.
+SEIZURE DIAGNOSIS:
+1. Left anterior temporal complex partial seizures
+EPILEPSY DIAGNOSIS:
+1. Localization related epilepsy arising from the left temporal lobe.
+CONCLUSION:
+was admitted to the epilepsy monitoring unit for 6 days with continuous video EEG.
+The interictal EEG is characterized by focal slowing and frequent left anterior temporal sharp waves in wakefulness and sleep . Focal slowing indicates a focal structural lesion in that region. Frequent epileptiform discharges and left temporal seizures are indicative of an epileptogenic focus in that region.
+The patient was weaned off tegretol and lamictal over the course of her admission. He was restarted on his medication on the day prior to his discharge from the hospital. Prior to discharge he was started on topiramate.
+After this data is acquired she will be presented at surgical conference to discuss the next step in his surgical evaluation.
+
+
+
+
+

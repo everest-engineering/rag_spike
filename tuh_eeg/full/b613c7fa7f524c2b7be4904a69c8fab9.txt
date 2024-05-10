@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  82 year old woman with a past right hemispheric stroke, dementia, left hemianopsia, frequent falling, vascular dementia.  The patient is sometimes confused, argumentative, delusional, or psychotic.
+MEDICATIONS:  Ativan, Celexa, Neurontin, Risperdal, Remeron
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 6 Hz alpha rhythm.  Shifting slowing is noted with, at times, a bit of disruption of the alpha rhythm on the right.  Hyperventilation produces an increase in arrhythmic delta activity which is more prominent on the left than the right.  This pattern persists into brief drowsiness. Photic stimulation does not significantly activate the record.
+HR:    96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Slow and disorganized pattern.
+Shifting slowing.
+An accentuation of focal slowing on the left in hyperventilation.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No epileptiform features were identified.
+__________________________
+
+
+

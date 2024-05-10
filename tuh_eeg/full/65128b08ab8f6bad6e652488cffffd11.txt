@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 29-year-old woman with migraine headaches, ulnar neuropathy, insomnia and weekly seizures characterized by staring.  Patient may have a warning prior to the seizures.
+MEDICATIONS:  Lamictal, temazepam, trazodone, insulin, others.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.  It is a technically satisfactory record with impedances under 5 kilo-ohms with the exception of the T1-T2 electrodes.  There is a modest amount of muscle artifact noted in the background.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm of 10 Hz.  There is generous background beta and a small amount of theta.  Drowsiness is characterized by slow rolling eye movements, attenuation of the alpha rhythm.  There is some rhythmic temporal theta as the patient transitions in and out of sleep.  Deeper stages of sleep were not achieved.
+Hyperventilation was performed with good effort and produced an increase in beta.  Photic stimulation elicited a driving response.
+Heart rate: 84 BPM.
+IMPRESSION:  This electroencephalogram is remarkable for:
+Excess beta.
+Excess theta.
+CLINICAL CORRELATION:  The rhythmic mid temporal theta of drowsiness described above is a normal variant.  The mild excess beta and theta may be related to this patient's medications.  If further characterization of this patient's epilepsy is needed, a followup study with more prolonged sleep is suggested.
+
+
+

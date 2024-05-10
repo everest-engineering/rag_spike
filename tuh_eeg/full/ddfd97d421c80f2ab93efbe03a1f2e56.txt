@@ -1,0 +1,11 @@
+CLINICAL HISTORY: A 39-year-old woman with episodic forgetfulness and contusion. Family history of brain tumor.
+MEDICATIONS: unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed. This is a technically acceptable record although there is a fair amount of muscle artifact.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is an 11 Hz alpha rhythm noted reaching 50 mV with a generous amount of low voltage, frontocentral beta. Drowsiness is characterized
+by an increase in beta and attenuation of the alpha rhythm. Hyperventilation produced an increase in amplitude of the background and a small amount of slowing. Photic stimulation elicited a vigorous driving response.
+HR 78BPM
+IMPRESSION: Normal electroencephalogram.
+CLINICAL CORRELATION: No focal or epileptiform features were noted. Normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration, a follow up study capturing deeper stages of sleep may be considered .
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 65-year-old woman admitted with 6 weeks of memory loss, diabetes out of control, and subacute left temporal infarct.
+MEDICATIONS:  Insulin, aspirin, Norvasc, and ceftriaxone.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm.  The overall background in wakefulness is just slightly disorganized.  Hyperventilation and drowsiness are both associated with occasional, intermittent focal slowing with underlying delta in the left midtemporal region.  Other features of drowsiness include slow rolling eye movements and attenuation of the alpha rhythm.
+Photic stimulation elicited a bilateral driving response with harmonic and subharmonic driving.
+Heart rate 90 BPM.
+TECHNICAL:  There is a fair amount of muscle artifact on this EEG in the frontal electrodes, which the technologist could not resolve.
+IMPRESSION:  Abnormal EEG due to:
+Very mild background disorganization.
+Intermittent focal slowing accentuated by hyperventilation or drowsiness.
+CLINICAL CORRELATION:  This EEG carries an intermediate correlation with an underlying structural abnormality on the left, congruent with the history described above. No epileptiform features were identified.  Given the clinical history, the overall organization of this record is quite good.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  43 year old left handed male with transit episode of confusion about three times a week.
+MEDICATIONS:  Enalapril, Tacrolimus, Rapamune, Lorazepam, Citalopram
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz, symmetric reactive alpha rhythm with a small amount of low voltage, frontocentral beta. Drowsiness is characterized by slow rolling eye movements with attenuation of the alpha. There is muscle twitch artifact when the patient is somewhat anxious and the patient complains of being cold and is shivering. Hyperventilation produces a small amount of background slowing. Photic stimulation is performed as the patient drifts into stage II sleep, but does elicit a scant driving response.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were noted. Muscle shiver artifact was picked up in the temporalis region.
+
+
+

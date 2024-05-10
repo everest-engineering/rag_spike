@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  43 year old right handed gentleman with childhood learning disability, evaluate for complex partial epilepsy.
+MEDICATIONS:  Lisinopril, Ranitidine, Simvastatin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized.  There is a well-defined, 10.3 Hz 40 mV posterior dominant rhythm.  Drowsiness is characterized by anterior spread of the alpha rhythm.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits bilateral driving.  Heart rate 72 beats per minute.
+IMPRESSION:  Normal EEG in awake and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified in the record.  If epilepsy is an important consideration, a follow-up EEG capturing the first stages of sleep is suggested.
+
+
+

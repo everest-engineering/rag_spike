@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 52-year-old male with previous stroke and alcohol abuse, admitted on the 20th after seizure.
+MEDICATIONS:  Tylenol, lisinopril, aspirin, and metoprolol.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage.  From the right hemisphere, a low voltage beta pattern is noted with smaller amounts of alpha and theta frequency activity.  The left hemisphere demonstrates intermittent, sharply contoured rhythmic slowing with admixed sharp waves.  The sharp waves are nearly isoelectric at T1 with a generous field of spread including T3 and C3.  The sharp waves occur in brief clusters.  As the recording continues, the patient is increasingly awake and moving about despite the EEG pattern described above.  Brief bursts of theta and some periodic sharp waves were noted as the patient relaxes, but as he becomes a bit more alert and agitated, they disappear.  Unfortunately, the patient's ability to hold still for the EEG also declines and the record includes some artifacts as well.
+Heart rate 84 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Relatively low voltage and suppressed overall pattern, particularly in the right hemisphere.
+Epileptiform activity in the left hemisphere, which includes left central and central temporal sharp waves, rhythmic theta, and periodic complexes.
+Occasional bursts of rhythmic and repetitive theta from the left hemisphere.
+CLINICAL CORRELATION:  This EEG supports a highly irritative focal process in the left hemisphere.  Of note, with stimulation, the epileptiform activity abates.  Additional clinical management is advised.
+
+
+

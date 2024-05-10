@@ -1,0 +1,28 @@
+
+History:	67 year old woman who presents with change in mental status.
+Medications:	Insulin, Tramadol
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+The posterior dominant rhythm consists of polymorphic 8.5-9 Hz alpha activity.  There is weak
+anterior-to-posterior frequency-amplitude gradient.  Excess diffuse admixed 50-75 uV, 5-7Hz activity
+is present throughout the recording.  During periods of quiescence, sleep architecture consisting of
+vertex waves and K-complexes is noted.
+Continuous polymorphic theta activity is present in the bilateral anterior temporal regions during
+wakefulness, increasing during drowsiness.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, bilateral temporal, anterior
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG due to mild diffuse slowing and
+continuous moderate bilateral anterior-temporal slowing. Diffuse slowing is indicative of mild
+diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal slowing indicates
+focal cerebral dysfunction, possibly structural in etiology.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 77-year-old woman with a history of complex partial epilepsy with prolonged postictal confusion, dating to 2009.  Recent evaluation for stroke, status post tPA.  Dementia.
+MEDICATIONS:  Depakote, others
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is a technically acceptable EEG despite a fair amount of muscle and movement artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized with a posterior dominant rhythm ranging from 7-9 hertz.  There are intermittent bursts of arrhythmic delta noted from the right or left temporal region.
+There is significant eye movement artifact and EKG artifact, but no definitive right temporal sharp waves.
+Photic stimulation did not significantly activate the record.
+Heart rate 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+shifting and slowing primarily in the temporal regions.
+CLINICAL CORRELATION:  This is a 5th EEG for this patient.  EEGs dating to 2009 have demonstrated right temporal epileptiform activity and sharp waves, which was not clearly identified in a routine outpatient study.
+
+
+

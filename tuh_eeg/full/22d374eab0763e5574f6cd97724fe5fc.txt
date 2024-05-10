@@ -1,0 +1,17 @@
+History:	39 year old woman with a history of seizures. Medications:	Zonisamide and Keppra
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5-11Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Diffuse excess beta activity is present.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Occasional bursts of diffuse sharply contoured delta activity are present. Additional, bursts of polymorphic sharply contoured independent delta activity are captured over the bitemporal region, left»right.  Generalized frontocentrally predominant low amplitude spikes with aftergoing high amplitude slow waves are seen intermittently. Their frequency increases during photic stimulation and sleep.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.  Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Spike-and-wave complexes, intermittent, more during sleep and photic Focal slowing, polymorphic, intermittent, moderate, bilateral {L>R) temporal Beta, excessive
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 50 minute EEG due to intermittent independent focal bitemporal (left>right) slowing and intermittent generalized spike-and-wave complexes,that increases in frequency during sleep and photic stimulation. Intermittent focal slowing is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin. Generalized spike-and­ wave discharges are potentially epileptogenic. In the proper clinical context, the presence of generalized spikes suggests the diagnosis of primary generalized epilepsy. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+

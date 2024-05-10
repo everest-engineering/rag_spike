@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 45-year-old male with epilepsy and recent hospitalization for recurrent seizures.  Patient is persistently agitated during prior attempts to record EEGs.  Currently, seizure-free.
+MEDICATIONS:  Phenytoin, BuSpar, bupropion, and others.
+INTRODUCTION:  A 40-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically acceptable EEG capturing wakefulness through stage 2 sleep.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Drowsiness includes attenuation of the alpha rhythm with POSTS.  In stage 2 sleep, vertex waves, K complexes, spindles, and POSTS were noted.
+Hyperventilation produces muscle artifact.  Photic stimulation elicited bilateral driving.
+Of note in this record, there is a single, well-defined right temporal sharp wave noted just following the vertex wave and a single, more subtle discharge also noted in stage 2 sleep.  The primary discharge noted seems to occur after an arousal with eye movement in stage 2 sleep.
+Heart rate 96 b.p.m.
+IMPRESSION:  A 40-minute technically satisfactory EEG, but abnormal due to
+rare, right temporal sharp waves.
+CLINICAL CORRELATION:  No focal slowing was seen in this technically acceptable EEG.  There is one well-defined sharp wave with another more subtle discharge, hence the sharp wave is considered significant, albeit quite rare.  This is the third EEG for this patient but the first has identified any sharp waves whatsoever.
+
+
+

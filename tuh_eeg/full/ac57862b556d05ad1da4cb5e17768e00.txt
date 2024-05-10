@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  43 year old right handed male with recent massive right MCA infarct, morbid obesity, transferred back to the neurology service for somnolence.
+MEDICATIONS:  Aspirin, Ativan, Hydralazine, Lorazepam
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  This is a bedside EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm on the left.  The right hemisphere demonstrates significant disruption of faster frequency activity, particularly in the lateral temporal regions and central temporal regions.  Mu activity is identified on the left and at the midline, but not on the right.  As the recording continues there is variability of terms of the disruption of faster frequency activity on the right and in some sections the faster frequency is disrupted throughout the right hemisphere.  EKG artifact is prominent at T2.  This drowsy patient seems to have micro-sleeps with sleep spindles.
+HR:    40-60 bpm
+IMPRESSION:  Abnormal due to:
+Marked disruption of faster frequency activity in the right hemisphere.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the right.  The micro-sleeps with stage II sleep may play a role in the somnolence.  The bradycardia may also merit a clinical evaluation.
+
+
+

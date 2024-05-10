@@ -1,0 +1,10 @@
+HISTORY:  A 19-year-old male with 2 seizures in the past month.  The patient reports that the seizures were associated with sleep deprivation before examinations.  Also, has a history of sleepwalking.  The patient is seizure-free since starting Keppra.  Positive family history of epilepsy.
+INTRODUCTION:  One-hour digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically satisfactory EEG capturing wakefulness and sleep.  Impedances were under 5 kilohms.  Hyperventilation was completed.  Both hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9.5 hertz alpha rhythm, which is symmetric and reactive to eye opening.  Drowsiness is characterized by slowing of the alpha rhythm with slow rolling eye movements followed by rhythmic central theta and then vertex waves.  Spindles were noted, but stage II sleep was not sustained.  The patient had frequent transitions in and out of sleep.
+Photic stimulation elicited a driving response.  Hyperventilation produced a small amount of background slowing, followed by a drowsy pattern.
+Heart rate 60 BPM.
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  Normal EEG does not exclude the diagnosis of epilepsy.  If additional clinical information is needed, a followup study or a more prolonged sleep study may be of value.
+
+
+

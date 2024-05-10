@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 79-year-old male, admitted with confusion, vomiting, and foaming at the mouth.  The patient was bradycardic and unresponsive at presentation.
+ROOM NUMBER:  MRICU.
+MEDICATIONS:  Aspirin, nebulizers, Zocor, azithromycin, Plavix, ceftriaxone, and others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically acceptable bedside record without hyperventilation or photic stimulation.  The patient was relatively somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a medium amplitude, diffusely slow pattern with a mixture of theta and delta.  In this slow background, the technologist stimulates the patient and the patient is able to answer simple questions.  The overall background waxes and wanes with a low voltage pattern with variable quantities of theta, beta, and variable amounts of delta.
+Heart rate 72 bpm.
+IMPRESSION:  This is an abnormal EEG due to
+replacement of normal background with relatively low voltage slow pattern.
+Clinical Correlation:   The findings described are nonspecific pattern that can be seen in the context of a toxic or metabolic encephalopathy or other diffuse disturbance of cerebral function.  No epileptiform features were noted.
+
+
+

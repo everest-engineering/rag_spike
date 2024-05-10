@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 69-year-old man who presents with an acute MCA stroke status post TPA and persistent aptesia (?).
+CURRENT MEDICATIONS:  Protonix, atorvastatin, aspirin
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single electrocardiogram lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORDING:  There is right to left interhemispheric asymmetry with slower waveforms over the left hemisphere.  The posterior dominant rhythm over the right hemisphere reaches up to 8.5 Hz alpha activity with weak anterior to posterior frequency amplitude gradient.  Additional polymorphic theta and occasional delta activity is present over the right hemisphere.  The background over the left hemisphere consists of unstable up to 8 Hz posterior dominant rhythm without clear anterior to posterior frequency amplitude  gradient.  There is continuous polymorphic theta and delta activity present over the left frontotemporal central region.  Intermittently delta activity appears to be semi-rhythmic without clear evolution.  Sleep is captured.  Sleep architecture is better formed over the right hemisphere with occasional vertex waves present over the right hemisphere.  Hyperventilation and photic stimulation are not performed.
+FINDINGS:
+Mild diffuse slowing.
+Focal left hemispheric slowing that is most pronounced over the left frontotemporal central region.
+Asymmetry of sleep architecture with sleep architecture better formed over the right hemisphere.
+No clear epileptiform discharges.
+IMPRESSION:  This is a very abnormal awake and drowsy 22 minute EEG due to mild diffuse slowing and focal left hemispheric slowing that is most pronounced over the left frontotemporal central region.  Mild diffuse slowing indicates etiologically nonspecific cerebral dysfunction. Focal slowing is likely secondary to underlying structural abnormality, in this case is consistent with the patient's history of stroke.  No clear epileptiform discharges were captured, however, stage 2 sleep was not recorded.  If Clinical indications for seizures persist, a repeat study with sleep may be of benefit.
+
+
+

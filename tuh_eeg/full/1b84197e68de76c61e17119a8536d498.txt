@@ -1,0 +1,8 @@
+CLINICAL HISTORY: 4 day old infant born at 33.5 weeks gestation with respiratory distress. Concerns about maternal cocaine abuse, methadone dependency and potential benzodiazepine withdrawal. The child has jitteriness and posturing.
+MEDICATIONS: Phenobarbital, Ampicillin, Morphine, Acyclovir, Caffeine, Famotidine, Gentamicin
+INTRODUCTION: Digital video EEG was performed in the neonatal nursery using the standard 10-20 system of electrode placement with 1 channel of EKG. The technologist uses the brain  death montage. An attempt was made to reformat this by the physician to the neonatal montage. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG is plagued by significant technical concerns. There is a trace alderman's pattern, delta brushes as might be anticipated in a child of this age. There is significant electrode pop. There are no clinical comments regarding the infant's behavior. With reformatting of the data, there is artifact picked up at C4. Unfortunately, toward the close of the record, the infant is moving about. The infant is difficult to see in the isolette and the technician does not change the camera so that one can see the infant and there is artifact at C4. There are, however, bursts of fast activity of 15Hz picked up at FZ in the frontocentral region in later sections of the record.
+HR: 150 bpm
+IMPRESSION/CLINICAL CORRELATION: Despite the technical problems described above, this must be considered abnormal for an infant of this age due to an excessively discontinuous record. In addition, there is fast activity picked up from the right hemisphere which may and immature represent artifact but could represent a subclinical seizure and hence a repeat EEG is suggested.
+
+

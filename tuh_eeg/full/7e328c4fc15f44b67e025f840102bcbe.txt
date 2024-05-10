@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 25-year-old right-handed woman with epilepsy since age 13, currently seizure free since age 16.  The patient previously had nocturnal tonic/clonic seizures.
+MEDICATIONS:  Topamax.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9.5 Hz alpha/rhythm with lambda and lateral rectus artifact.  Drowsiness is characterized by rhythmic central theta followed by vertex waves and spindles.  There is a slight asymmetry noted in the frontocentral regions, which could be attributed to electrode placement.  Prominent posts were noted in sleep.  Hyperventilation produced some increase in amplitude of the background.  Photic stimulation elicited vigorous bilateral driving.
+Heart rate:  68 BPM.
+Occasional head rocking artifact was noted.
+IMPRESSION:  EEG within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in the record.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat study capturing deeper stages of sleep using sleep deprivation may be of use.  Alternatively, comparison with this patient's childhood EEGs might also be helpful.
+
+
+

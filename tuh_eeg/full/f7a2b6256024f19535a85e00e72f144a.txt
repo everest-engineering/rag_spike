@@ -1,0 +1,28 @@
+History:	52 YR FEMALE WITH SEVERAL GTC SZS. PT MOSTLY HAS EPISODES OF
+VERTIGO/DIZZINESS.  PT ALSO STATES HUSBAND HAS FOUND HER ON
+FLOOR SEVERAL TIMES.  EMU FOR DIFFERENTIAL DX.
+Medications:
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric excess 5-15uV, 18-25Hz activity is present diffusely.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the bilateral midtemporal regions
+independently.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Focal slowing, polymorphic, frequent, bilateral (L>R) temporal, mid
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent independent bilateral
+midtemporal focal slowing.  This finding is indicative of focal cerebral dysfunction in those regions,
+which is etiologically non-specific.  No clinical or electrographic seizures are present.
+
+
+
+

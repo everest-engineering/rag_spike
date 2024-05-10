@@ -1,0 +1,26 @@
+HISTORY:
+A 56-year-old male with epilepsy. Characteristics of his seizures include loss of consciousness with focal right motor
+activity involving the right arm and leg and then incontinence. Past history of cocaine and alcohol abuse, hyperlipidemia,
+diabetes and a brain tumor
+DATE OF ADMISSION:
+July 25, 2011.
+MEDICATIONS:
+Keppra, Ativan, simvastatin, Indocin and others.
+ROOM NUMBER:
+NICU 783.
+INTRODUCTION:
+Digital video EEG is performed at the bedside in the ICU using standard 10/20 system of electrode placement with
+one-channel EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF RECORD:
+The overall background EEG includes a pattern of diffuse beta. The patient is awake, moving about with eye
+movements. In addition, there is some slow artifact noted on the left with 0.5 to 1.5 Hz delta, which resembles an artifact
+rather than a biological signal. Stimulation of the patient produces eye opening. By the end of the record, the patient is significantly more awake, although the overall pattern is beta pattern.
+There is an amplitude asymmetry with a bit higher amplitude beta in the right frontocentral region compared to the left.
+Heart rate 96 beats per minute.
+IMPRESSION
+Abnormal EEG due to a pattern excess beta.
+CLINICAL CORRELATION
+No epileptiform features were found. There is no mention regarding a previous neurosurgery or breech rhythm, but there as an amplitude asymmetry on the right.
+
+
+

@@ -1,0 +1,44 @@
+History:	29 yo p/w myoclonic status epilepticus and hx of mitochondrial disorder; pneumonia
+aspiration; resp failure; hypoxia; high blood pressure. pmhx: Dementia, HTN, SZ
+pshx: stab wound to abdomen, vagal nerve stim.
+Medications:	Phenobarbital, Felbamate
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 48 hours from 03/272015 to 03/29/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse delta
+and theta activity with absence of the expected anterior to posterior gradient of frequencies.  There
+is intermixed diffuse excess beta while awake. With sleep the background appears to become more
+intermittently suppressed and with a more predominant diffuse delta slowing.  No normal sleep
+architecture was present.
+No focal slowing is present.  Frequent bifrontal and central maximal polyspikes that have a large
+field. These at times last for about a second and are followed by a more prominent diffuse slowing.
+There is 1 seizure per during the record on 03/28/2015 at 02:35 AM  Seizure on EEG: Sudden
+diffuse beta followed by attenuation and then muscle artifact with sudden stop. This is followed by
+frontal predominant rhythmic delta for about 3 seconds. This last 7 seconds.  Clinically the patient
+flexes his neck and lift both arms in a bicycle handle position and in a tonic fashion.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 120
+Summary of Findings:
+Seizure, single generalized
+Diffuse slowing, polymorphic, continuous diffuse
+Excessive fast, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  a single generalized seizure, which is consistent with a
+symptomatic generalized epilepsy. This is a marked improvement in seizure frequency. In addition
+there is severe  diffuse background slowing and slow alpha rhythm.  These findings are etiologically
+nonspecific indicators of severe diffuse cerebral dysfunction.
+
+
+
+
+

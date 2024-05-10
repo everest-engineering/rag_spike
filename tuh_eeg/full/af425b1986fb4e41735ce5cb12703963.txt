@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  An 85-year-old male found down by son after a fall.  Chronic cough, emphysema, ambulatory problems.
+MEDICATIONS:  Insulin, Norvasc, and Solu-Medrol.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was coughing and quite uncomfortable throughout the EEG.
+DESCRIPTION OF THE RECORD:  This is a very challenging bedside EEG, but demonstrates a diffusely slow pattern with rhythmic theta of approximately 5-6 Hz.  Superimposed upon this is some arrhythmic delta activity.  There is a great deal of 2 artifact, but there is a bit more arrhythmic delta activity in the right posterior quadrant relative to other areas.  This finding is noted intermittently.
+Heart rate: irregular, 107 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Poor organization.
+Subtle focal features with a bit more delta in the right posterior quadrant.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function such as a toxic or metabolic encephalopathy.  The focal features may be correlated with imaging.
+
+
+

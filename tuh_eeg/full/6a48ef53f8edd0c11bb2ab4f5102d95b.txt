@@ -1,0 +1,50 @@
+History:	56 year old woman who presents with focal status epilepticus.  Patient has a history
+of stroke, focal seizures and HIV.
+Medications:	Vimpat and Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 1/18/2015 till 1/19/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right consists of 7 Hz PDR posteriorly but poor AP gradient with delta activity
+anteriorly and excess polymorphic theta.  The background over the left consists of a mixture of
+polymorphic theta and delta activity, predominantly delta activity anteriorly and continuous
+frontopolar periodic epileptiform discharges that occur with a regular repetition rate of ~0.75-1 Hz.
+Maximal scalp negativity occurs over Fp1 lead and is reflected over to the Fp2 lead.  Sleep spindles are captured.
+No electrographic seizures are captured.  There are several push button events.  All but one are
+associated with increasing patient agitation.  Electrographically patient is awake during these
+events without a clear underlying ictal activity.  An event at ~ 11 PM is characterized by decreased
+responsiveness in the patient.  Patient is off the camera throughout the duration of the event.
+Electrographically, EEG background is diffusely slow with prominent 1 Hz left anterior PLEDs -
+similar to  the background observed during sleep.  Approximately 5 minutes prior to the push
+button, decrease in heart rate from ~65-70 bpm to ~40 bpm is noted on a single EKG lead.  Heart
+rate increases back to ~ 60 bpm at ~ 11:02 PM.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+No electrographic seizures
+PEDs (periodic epileptiform discharges), continuous, left anterior
+Interpretation:
+This is an ABNORMAL continuous video 24 hours EEG due to (1) mild-to-moderate diffuse slowing;
+(2) continuous moderate left hemispheric slowing that is most pronounced over the anterior region;
+and (3) continuous left anterior rhythmic epileptiform discharges (PEDs and quasi-PEDs).  Diffuse
+slowing is indicative of mild-to-moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.  There is epileptogenic focal structural lesion over the left anterior quadrant.  Episodes
+of agitation are not associated with an abnormal ictal correlate.  During the episode of
+unresponsiveness around 11 PM, heart rate decrease from ~65-70 bpm to ~40 bpm  noted on a single
+EKG lead.  No electrographic seizures are present.
+
+
+
+
+

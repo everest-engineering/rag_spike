@@ -1,0 +1,41 @@
+History:	60 year old woman status post GBM resection, now presents with seizures and
+worsening mental status.
+Medications:	DEPAKOTE, KEPPRA, VIMPAT
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~18 hours from 4/28/2015 till 4/29/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient.  Background consists almost entirely of low voltage irregular
+4-7Hz activity.  States changes are noted and symmetrical sleep spindles are observed.
+Continuous polymorphic delta activity is present in the right posterior quadrant.  Continuous
+periodic and semi-periodic sharp waves with aftergoing slow waves (PLEDs and quasi-PLEDs) are
+noted over the right posterior quadrant with a repetition rate of 0.5-1 Hz.  Maximal scalp negativity
+occurs over T6/P4 lead.  Brief (~40 sec to 120 sec) very focal right posterior quadrant (O2 lead
+maximally) subclinical seizures are captured.  They vary in frequency from up to 4-5 per hour to no
+seizures for several hours.  Seizures are characterized by low amplitude fast activity best seen over the
+O2 lead that gradually evolves in rhythmic ~2-3 Hz right posterior quadrant delta activity.
+Summary of Findings:
+Seizure, intermittent, right posterior, no clinical correlate
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, right posterior
+Interpretation:
+This is an ABNORMAL 18 hour continuous video EEG due to (1) diffuse moderate slowing; (2)
+continuous moderate right posterior quadrant focal slowing; (3) right posterior quadrant periodic
+epileptiform discharges and (4) right posterior quadrant very focal subclinical seizures.  These
+findings are indicative of a focal structural lesion in the right posterior quadrant, consistent with the
+known brain tumor.  Diffuse slowing indicates etiologically nonspecific diffuse cerebral dysfunction.
+These findings were conveyed to the primary team.
+
+
+
+
+
+

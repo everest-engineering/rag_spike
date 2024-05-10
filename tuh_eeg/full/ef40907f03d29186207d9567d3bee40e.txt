@@ -1,0 +1,34 @@
+AGE: 69 y.o.
+SEX: male
+DATE OF STUDY: 09/26/2015 RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, Corna study EEG # : 15-1415
+HISTORY:
+69 y.o . male with a history of mitral valve replacement, cardiogenic and septic shock, who required sudden intubation just prior to recording and developed intermittent stiffening of arms and legs, as well as eye movements/nystagmus towards the right side. He is currently unresponsive.
+MEDICATIONS: Received 4 mg Versed within past 2.5 hrs SEDATION : as above
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The background consists of disorganized diffuse low amplitude delta with admixed low voltage fast frequencies.
+There is no state change, reactivity, or variability with noxious stimulation .
+There is severe generalized slowing .
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: There is no reactivity to auditory or noxious stimuli.
+Hyperventilation : Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS:
+The patient' s head and upper trunk are captured on video.
+Sporadic small truncal flexion movements are noted. Tech also notes "every now and then he will move his legs upward. " There is no change in electrographic activity during these movements .
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal routine EEG due to:
+Severe generalized slowing and background disorganization
+Lack of background reactivity
+CLINICAL CORRELATION:
+These findings are consistent with diffuse cerebral dysfunction.
+
+
+

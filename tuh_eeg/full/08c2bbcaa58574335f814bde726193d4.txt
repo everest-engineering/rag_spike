@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  42 year old right handed male with history of aortic aneurysm, hypertension, asthma, going to the OR for aortic root replacement.
+
+MEDICATIONS:  Midazolam, Fentanyl, Propofol, Isoflurane, Ceftriaxone, Vancomycin, Solu Medrol, Lidocaine, Potassium, Norepinephrine
+
+REASON FOR STUDY:  Aortic arch bypass surgery.
+
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes during aortic bypass surgery.  The patient was recorded during the entire procedure.  The technician was present during the entire procedure and the physician was present during the critical parts of the procedure.  Feedback was given to the surgeon about changes in the EEG.
+
+TECHNICAL DIFFICULTIES:  During the procedure the right side of the head is cooled more than the left which may effect the reading of the EEG as was noted during this case.
+
+DESCRIPTION OF THE RECORD:  The record opens to a baseline posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  Normal frontal central beta seen.  As the procedure goes on, the incision occurs at 9:16 in the morning, heparin is given at 9:31, bypass of the head and body is done at 9:51, aorta clamped at 9:54, cooling starts at 9:56.  During all this time the EEG is at baseline, however, around 9:56 when the cooling begins, there started to be noted some slowing, specifically around 10:01 a.m. in the morning there is an asymmetry where the right side is slightly slower than the left with some sharply contoured activity in the temporal region, that at times becomes periodic and is not clearly seen with a lower amplitude.  This pattern continues as the left hemisphere also starts to become slow, but remains asymmetric up to the time where the EEG starts becomes completely suppressed which occurs first on the right hemisphere, but completely on the entire brain at around 10:13.  At this time there is some burst suppression and by 10:25 it is in complete suppression.  There is cardiac arrest at 10:30 a.m. and he starts to be rewarmed at 10:47 a.m.  He is removed from head bypass at 10:08 a.m. and noticeable bursts of activity start to be seen at around 11:04.  The EEG returns to baseline by 11:21:36 and there is no longer an asymmetry over the right hemisphere.
+
+All the changes that were discussed above were discussed and described to the surgeon.
+
+IMPRESSION:  This is an EEG recording during aortic root replacement surgery with a mild asymmetry noted while cooling, thought to be related to cooling artifact of the right side of the head predominating compared to the left, which after surgery and burst suppression was achieved appeared to return to baseline.  A normal EEG at baseline was seen at the end of the surgery.
+
+CLINICAL CORRELATION:  This is an uneventful aortic root replacement surgery EEG recording.
+
+
+
+

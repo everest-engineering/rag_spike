@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 21-year-old male status post traumatic brain injury with right craniectomy, the patient has episodes occurring every other day with inability to speak followed by shaking.
+MEDICATIONS:  Keppra, Elavil, Percocet, and ceftriaxone.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not possible, but photic stimulation was completed.  There is a technically somewhat challenging EEG in view of the craniectomy.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and includes a prominent asymmetry between the 2 hemispheres.  The activity from the left hemisphere is low voltage, diffusely slow, and featureless with a suggestion of lambda noted on rare occasions.  The right hemisphere is also abnormal, but at times includes a posterior dominant rhythm approximately 8-9 hertz.  The right hemisphere demonstrates more prominently 7-8 hertz theta activity.  Although, there is no mention of a craniotomy on the right, there is accentuation of fast activity in the right central temporal region and phase reversing sharp activity at C4.  Drowsiness is characterized by an increase in background slowing, which is more prominent in the right hemisphere than the left.  The left hemisphere tends to have a more in various pattern.  Other features of drowsiness include some more rhythmic slowing in the right hemisphere.
+Photic stimulation elicited scant driving.
+Heart rate 42-60 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Nearly continuous, low-voltage, attenuated pattern on the left.
+A slow and disorganized pattern on the right with at times slowing of the posterior dominant rhythm.
+Sharply contoured slowing and focal slowing noted in the right central temporal region.
+CLINICAL CORRELATION:  No seizures were recorded.  The findings on the right may be correlated with imaging and the focality of the beta accentuation of the sharp waves noted, may be part of a breech rhythm.  This patient's bradycardia may be evaluated by other means.
+
+
+

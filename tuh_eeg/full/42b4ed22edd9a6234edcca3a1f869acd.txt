@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 73 year old right handed male with a long history of frontal lobe epilepsy, currently seizure-free, Polycythemia vera, hypercoagulable state, hepatosplenomegaly.
+MEDICATIONS: Avapro, Synthroid, Triamterene
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a diffuse beta frequency background. Some sections of the record demonstrates a bit more alpha frequency activity. Hyperventilation is performed, but the patient is falling asleep with vertex waves in hyperventilation. As he drifts off in and out of the sleep state, there is a 10 hertz activity identified in the frontal regions. Maximum FP1, FP2 and F3. A positive vertex sharp wave is noted in the background. The patient is drifting off in and out of stage 1 to stage 2 sleep during photic stimulation. Trains of POSTS are noted in and out of the sleep state. The overall background is relatively sharply contoured. There is some shifting slowing in the posterior regions noted in some sections of the record.
+HR: N/A
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta
+2. Shifting slowing.
+CLINICAL CORRELATION: There are a number of unusual waves forms noted in this record, but there are no definitive epileptiform features. The background slowing may be part of this patient's underlying epilepsy but his multisystem dysfunction may also contribute to the pattern. In comparison to prior EEGs, there is less epileptiform activity.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 43 year old right handed male with epilepsy since the age of 10, status post childhood brain surgery with right central parietal craniotomy, episodes of blacking out, has visual spots, then loss of consciousness, tongue-biting, postictal confusion. Past history of severe burns in his hands alter a house fire.
+MEDICATIONS: Perhaps Keppra.
+INTRODUCTION: Digital video EEG was performed In lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 7.6 Hz alpha rhythm. The overall background is quite low voltage. In addition, there are intermittent bursts or rhythmic delta activity from the right hemisphere with a generous field of spread but maximum in the mid to anterior temporal region. The higher amplitude rhythmic delta is most prominent right central and temporal region and is also associated with a breach rhythm. Hyperventilation produces an increase in amplitude of the background as well as accentuating the rhythmic activity from the right hemisphere and an underlying sharp wave maximum F81T2. During and tolerating hyperventilation, the focal slowing becomes continuous. As the patient becomes drowsy, the delta transitions to a bit more or a posterior temporal area and some of the sharp waves are mid to posterior temporal. In the transition to sleep, there are some discreet spikes than the left temporal region. They carry the characteristic morphology of a benign variant but are seen too frequently to be considered a benign variant. Photic stimulation produces scant driving.
+HR: 104 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Prominent focal slowing with rhythmic delta from the right hemisphere.
+2. Right temporal sharp waves which are higher amplitude and more broadly contoured.
+3. Discreet left temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy as well as a structural abnormality on the right. Additional EEG recording to characterize this individuals epilepsy may be of value.
+
+
+

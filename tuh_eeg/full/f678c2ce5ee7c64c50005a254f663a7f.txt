@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 55 year old gentleman status post PEA code for 20 minutes on
+October 11, 2011, status post multiple resuscitations with CPR. Past history of
+encephalitis, HIV disease. Evaluate for anoxic brain injury.
+MEDICATIONS: Vancomycin, Heparin, Pepcid.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20
+system of electrode placement with 1 channel EKG. The patient is intubated and
+appears to be unresponsive, but has frequent eye movements.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage and
+suppressed. There is low voltage muscle artifact and frequent eye movement. When
+the patient opens his eyes the muscle artifact drops out and there seems to be a very low voltage suppressed pattern.
+HR: 60-80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Low voltage markedly suppressed pattern.
+2. Absence of reactivity or variability.
+CLINICAL CORRELATION: This EEG recorded more than 72 hours after an anoxic
+insult carries a worrisome prognosis. If there are additional questions, consideration for a study with a neuromuscular blocking agent may be appropriate. Alternatively, other neurophysiologic or neurodiagnostic tests may be more informative.
+
+
+

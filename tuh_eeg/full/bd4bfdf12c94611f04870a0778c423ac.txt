@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 75-year-old male with chief complaint of fever and chills, found to have seizure-like activity.  The patient had a respiratory distress with 5 minutes of PEA code in 06/2011.  Currently, the patient is drowsy, but able to follow simple commands status post hemodialysis.
+PAST MEDICAL HISTORY:  Significant for CHF, renal transplant in 2004, hypertension, diabetes, dementia.
+MEDICATIONS:  Protonix, prednisone, carvedilol, PhosLo.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There was technically limited EEG for diffuse muscle artifact during most of this recording.  No clear posterior dominant rhythm was seen.  In the most alert state, there was diffuse slowing of the background consisting of 4-7 Hz frequency activity, 15-50 microvolts in amplitude.  Drowsiness was characterized by further slowing of the background and absence of muscle and eye blink artifact.  There was a spontaneous variability and stimulus recently activity noted during this recording.  Heart rate was 80-90 beats per minutes with frequent PVC.
+IMPRESSION:  This is an abnormal EEG recording due to diffuse slowing of the background and absence of posterior dominant rhythm during wakefulness.
+CLINICAL CORRELATION:  Diffuse slowing is suggestive of metabolic, toxic, anoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of medications or bilateral cerebral dysfunction, which is the most likely reason in this setting.  No epileptiform abnormalities or seizures are identified in this record.  This does not rule out the diagnosis of intermittent seizures.  If clinically indicated and due to technically limited study, a bedside EEG monitoring may be helpful.  Please note that the patient has frequent PVCs.
+
+
+

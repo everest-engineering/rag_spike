@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 44-year-old man with 2 seizures on 10/11/2012 and 10/17/2012, both events with loss of consciousness, fall, shaking, and confusion.  He feels they are stress related. A past medical history of diabetes, hypertension, and depression.
+MEDICATIONS:  Zoloft, Buspar, Klonopin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and a single lead EKG electrode.  Patient was recorded during wakefulness and sleep, stage I and stage II.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record open to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient was recorded in wakefulness and sleep, stage I and stage II.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Intermittent F7/T1 focal slowing seen at 2-4Hz at an amplitude of 20-60 microvolts.  At  times this focal slowing appears to become monomorphic and rhythmic consistent with temporal intermittent rhythmic delta activity.  At times is also sharply contoured.
+HEART RATE:  84 and regular.
+IMPRESSION:  Abnormal EEG due to intermittent left anterior temporal slowing as well as intermittent left temporal intermittent rhythmic delta activity, (TIRDA).
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific in regards to etiology.  In addition, the finding of TIRDA has a high correlation with seizures arising from that region.  No actual seizures were seen in this recording.
+
+
+

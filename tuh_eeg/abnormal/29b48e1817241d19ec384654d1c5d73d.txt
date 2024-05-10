@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 32 year old right-handed male with short-term memory loss and auditory hallucinations.
+MEDICATIONS: Truvada, Isentress, Intelence.
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hz alpha rhythm reaching 45 microvolts with a small amount of low voltage frontocentral beta activity. Drowsiness is characterized by anterior spread of the alpha rhythm. Hyperventilation produces an increase in amplitude of the background. Photic stimulation does not elicit a driving response.
+
+HR: 72 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. A normal EEG does not exclude a diagnosis of epilepsy. Fortunately, given the neurologic problems described above, there was no background slowing seen and no focal pathology observed.
+
+
+

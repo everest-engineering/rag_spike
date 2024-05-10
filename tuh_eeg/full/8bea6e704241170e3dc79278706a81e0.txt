@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 30-year-old woman with a history of a single seizure at age 5, recurrent seizures at age 20.  Increasing seizures on October 8th with loss of consciousness, postictal confusion.  Prior to her seizures, she has a flash of light in both eyes for 2 seconds followed by headache and then poor vision.
+.
+MEDICATIONS:  Vistaril, Tigan, Effexor, doxepin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  As the tracing begins, there is a 9 Hz, symmetric reactive alpha rhythm.  The patient was observed to have continuous eye blink throughout hyperventilation.  Following hyperventilation, drowsiness is characterized by the appearance of rhythmic theta with some rhythmic temporal theta of drowsiness noted from the left or right temporal region.  Other features of drowsiness include some hypersynchronous rhythmic high-amplitude theta.  Photic stimulation was completed at the end of the study.  Although there is a photic driving response, there is some subtle theta more apparent in the left hemisphere.  Some of this is also sharply contoured.  On one occasion, at 21 Hz, there is some higher amplitude rhythmic delta, but unfortunately also some eye blink artifact.
+Heart rate 84 BPM.
+IMPRESSION:  This is a challenging EEG, but is abnormal due to a subtle focality noted late in the record with a bit more irregular theta noted on the left.
+CLINICAL CORRELATION:  No definitive epileptiform features were observed.  A more prolonged EEG would be ideal in order to obtain a more relaxed state for this patient, eliminate some of the eye blink artifact and help determine if there is also an underlying frontally predominant spike and wave complex.
+
+
+

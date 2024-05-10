@@ -1,0 +1,12 @@
+LENGTH OF THE EEG:  25 minutes.
+CLINICAL HISTORY:  The patient is a 60-year-old woman with a past medical history of a right frontal hemangioma, seizures and alcohol dependence.  Last seizure was in 2011.
+MEDICATIONS:  Naprosyn, Keppra, tramadol, fluticasone, aspirin, albuterol.
+INTRODUCTION:  The recording was done according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of well-formed and modulated moderate amplitude 11-12 Hz alpha that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient.  During drowsiness there is an increased amount of theta and delta as well as attenuation of the posterior dominant rhythm.  Stage II sleep is not recorded.  Hyperventilation is performed with a fair effort and does not produce significant background change.  Step photic stimulation produces mild driving at  higher frequencies.
+FINDINGS:
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is a normal awake and drowsy 25 minute EEG.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If a clinical diagnosis of epilepsy persists a repeat study with sleep may be of benefit.
+
+
+

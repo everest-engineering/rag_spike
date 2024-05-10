@@ -1,0 +1,25 @@
+History:	67 YO MALE S/P MECHANICAL FALL. HAD INCREASED DROWSINESS. FOUND DIFFUSE SAH. PT HAS A L VENTRIC
+Medications:	KEPPRA, LIPITOR, NEURONTIN, CLOMIPRAMINE, MIDODRINE, LOVENOX, ZOFRAN
+Sedation:
+EEG Type:	Continuous (inpt, video). 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 38 hours from 03/25/2015 to 03/27/2015 . Nursing­ initiated event buttons were correlated with clinical behavior. Graphical representation of the EEG was available at the bedside and over the hospital network for continuous review by trained nurses and EEG technologists. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.
+Diffuse, frontally maximal sharp waves with triphasic morphology are present throughout the recording. These waveforms demonstrate an anterior to posterior phase lag. Over the last 12 hours the triphasics appear to be less prominent in amplitude. No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli. HR was 102
+Summary of Findings:
+Triphasic waves, continuous frontal
+Diffuse slowing, polymorphic, continuous diffuse Disorganization
+Interpretation:
+This is an ABNORMAL EEG because of frequent frontally-maximal triphasic waves and severe diffuse background slowing. These findings are indicative of a severe diffuse encephalopathy , which is etiologically nonspecific, but suggestive of a metabolic origin.
+-
+
+
+
+
+

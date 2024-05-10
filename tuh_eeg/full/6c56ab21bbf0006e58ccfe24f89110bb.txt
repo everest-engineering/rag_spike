@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  79 year old male status post SVT with hypotension, followed by fixed and dilated pupils.
+MEDICATIONS:  Solu Medrol, Insulin, Keppra, Pantoprazole, Hydralazine, Labetalol, Morphine, Neo-Synephrine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated and comatose.  A section of the record was reviewed with the ECF montage and the overall record is reviewable in ECF montage.  Impedances ranged from 5 to 6.4 on this bedside record.
+DESCRIPTION OF THE RECORD:  There is not definitive cerebral activity.  Electrode pop and other ICU artifacts are observed, including EKG artifact. Stimulation of the patient does not activate the record.  Tactile stimulation does not alter the record.
+Body temperature is confirmed at 94.1. The technologist works throughout the EEG to assure the integrity of the test and to try to eliminate some of the artifacts.
+HR:    96 bpm
+IMPRESSION:  This EEG is remarkable for:
+The absence of definitive cerebral activity.
+CLINICAL CORRELATION:  This EEG was recorded at 9:02 to 9:52 a.m.  These findings should be placed in their appropriate clinical context relative to the patient's neurological deterioration.
+
+
+

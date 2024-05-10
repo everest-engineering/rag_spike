@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  43 year old female with syncope with shoulder dislocation.
+MEDICATIONS:  Tylenol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.  The patient declined hyperventilation.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  The patient rapidly transitions from wakefulness to drowsiness with background slowing, followed by vertex waves, K-complexes, spindles, and POSTS.  Photic stimulation elicits driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a follow up study would be of value.
+
+
+

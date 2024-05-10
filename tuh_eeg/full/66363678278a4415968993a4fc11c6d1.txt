@@ -1,0 +1,32 @@
+
+History:	59 YR MALE WITH PMHX OF SZS. SEVERAL A MONTH.  LAST SZ >1 WK AGO.
+GTC/LOC TONGUE BITE POST CONFUSION.  SOMETIMES AURA OF BLINKING,
+TREMORS. STARING.  HTN, REFLUX. FOLLOW UP EEG 3/17/14 SZ FREE FOR
+>7 MONTHS
+Medications:	AMLODIPINE, DIVALPROEX, DOXYCYCLINE, LOSARTAN, OMEPRAZOLE,
+RANITIDINE, TEMAZEPAM
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+No focal slowing is present.  Immediately following hyperventilation, there are two brief 2 second
+bursts of 3.5-4Hz spike-and-wave discharges seen. There is no overt clinical correlate to these.
+Then, there are two additional, 1-2 second bursts seen during background recording.  There is a
+single fragmented spike-wave seen in between photic stimuli presentation.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect (see
+post-hyperventilation effect above).  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at flash rates at intermediate flash ranges.
+Summary of Findings:
+Spike-and-wave complexes, few, bilateral frontal
+Interpretation:
+This an ABNORMAL EEG capturing wakefulness and drowsiness due to the presence of 3.5-4Hz
+spike-and-wave complexes. These findings suggest and are most commonly seen in idiopathic
+generalized epilepsy.  No clinical or electrographic seizures are present.
+
+
+

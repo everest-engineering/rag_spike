@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  78 year old right handed male with refractory epilepsy, status post vagal nerve stimulator.  Epilepsy began in 1964.  Seizures characterized by loss of consciousness and stiffening.  The patient may have had an intracerebral hemorrhage at that time.
+MEDICATIONS:  Keppra, Primidone.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is appropriately organized with a 10.5 Hz alpha rhythm and a small amount of low voltage, frontal central beta. As the patient becomes drowsy there is attenuation of the alpha rhythm. Photic stimulation elicits bilateral driving.
+HR:    78 bpm
+IMPRESSION:  Very mildly abnormal EEG due to:
+A subtle asymmetry with a bit more left temporal theta.
+CLINICAL CORRELATION:  These findings suggest a subtle, disturbance in the left hemisphere.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Chronic paranoid schizophrenia, TBI, intermittent obtundation. Patient denies prior seizures.
+MEDICATIONS:  Seroquel, Clozaril, Keppra, propofol, and others.
+INTRODUCTION:  An 8-hour continuous video EEG monitoring was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  No clinical seizures were noted.  During the course of the record, the patient's sedative hypnotic medications were adjusted.
+DESCRIPTION OF THE RECORD:  Background:  The background EEG is variable.  Some sections of the record demonstrate diffuse beta activity.  There is low voltage delta noted.  With reduction of propofol, there is an increase in muscle artifact.
+Stimulation of the patient was performed intermittently during the EEG.  Unfortunately, the stimulation of the patient was performed when the EEG is remarkable for significant muscle artifact.  No change in the background EEG was noted with tactile stimulation.
+EKG:  Limited but heart rate 100 bpm.
+IMPRESSION:  This 8-hour video EEG monitoring session was remarkable for:
+Replacement of normal background with primarily a beta frequency pattern.
+Smaller amounts of delta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  Given the previous days of EEG monitoring without seizures, EEG monitoring was discontinued.
+
+
+

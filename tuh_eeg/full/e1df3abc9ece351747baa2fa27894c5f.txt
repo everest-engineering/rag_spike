@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 56-year-old woman with generalized weakness and tremulousness, as well as right cerebral lesion.
+MEDICATIONS:  Advair, albuterol, and lisinopril.
+INTRODUCTION:  A 20-minute bedside portable EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically acceptable EEG with some electrical artifacts.  It captures drowsiness and sleep.
+DESCRIPTION OF THE RECORD:  Much of the record includes a somnolent individual with maximally awake, there is a low voltage pattern with a scant, 10 Hz alpha rhythm better identified on the left than the right.  As the patient becomes drowsy, there is intermittent rhythmic slowing noted on the right. There are some morphologies of normal sleep including vertex and waves and spindles, but as the patient transitions in and out of sleep, the focal slowing in the right hemisphere including central temporal and posterior temporal regions is apparent.
+Heart rate: 84 BPM.
+IMPRESSION:  Abnormal EEG due to;
+Modest generalized background slowing.
+Focal slowing in the right hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The generalized background slowing may be part of a diffuse disturbance of cerebral function, which may included a toxic or metabolic encephalopathy or other cause.  The focal slowing on the right with disruption of faster frequency activity suggests a process involving gray and white matters, so no previous EEGs were available at this time for comparison.
+
+
+
+
+

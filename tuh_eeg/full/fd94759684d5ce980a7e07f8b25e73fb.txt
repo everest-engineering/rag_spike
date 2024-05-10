@@ -1,0 +1,23 @@
+History:	71 yr old female presents for follow up post dc'd from tuh 6/16/14, for altered mental
+status and loc along with episode of shaking 1-2 min. pt denies h/o sz.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+Intermittent polymorphic delta activity is present in the left frontotemporal region (max at F7)
+during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR 70
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, moderate, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the LEFT
+FRONTOTEMPORAL region.  This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific.  The lack of epileptiform discharges on a routine EEG does not rule out a
+clinical diagnosis of epilepsy.
+

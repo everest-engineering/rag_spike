@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 74-year-old male with renal failure, status post kidney transplant 10 years ago, myocardial infarction, prostate cancer, glaucoma, now with change in mental status and visual hallucinations.
+MEDICATIONS:  Tacrolimus, insulin, and others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is confused.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow pattern with a mixture of rhythmic theta and delta.  The patient is awake and there is some variability with a bit more faster theta frequency activity.
+Heart rate:  Irregular, 100 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  Generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  There generalized background slowing is a nonspecific pattern, but is most compatible with a toxic or metabolic phenomenon.
+
+
+

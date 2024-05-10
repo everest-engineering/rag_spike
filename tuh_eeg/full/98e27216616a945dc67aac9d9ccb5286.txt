@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 71-year old male with right-sided weakness, dementia, expressive aphasia.
+
+MEDICATIONS: Haldol, ASA, Isosorbide, Protonix, Metoprolol
+
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is a bedside record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 7.3 Hz alpha rhythm better identified on the right than the left. Although there is fair amount of muscle artifact and more muscle on the left than on the right, there does appear to be some rhythmic focal slowing from the left hemisphere. Drowsiness is characterized by a decrease in muscle. As the patient becomes drowsy, the intrahemispheric asymmetry becomes a bit more prominent as does some delta from the left hemisphere. Some that delta is maximum in the left temporal region.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing from the left characterized by disruption of faster frequency activity and sharply contoured T3 delta as well as focal slowing in the left hemisphere.
+
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the left involving gray and white matter. If epilepsy is an important consideration, a repeat study may be considered particularly as the focal slowing is sharply contoured.
+
+
+
+
+

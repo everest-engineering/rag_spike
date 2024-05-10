@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 61-year-old with type A aortic dissection characterized by chest pain.
+MEDICATIONS:  Midazolam, fentanyl,  labetalol, nifedipine, oxycodone, nitroglycerin, Fioricet, others.
+INTRODUCTION:  Intraoperative monitoring was performed using intraoperative montage with standard electrode placement and 1 channel EKG.  This was a 3.5-hour study with one-to-one physician remote review.
+DESCRIPTION OF RECORD:  As the recording begins, the patient is awake with well defined, symmetric 9 Hz alpha rhythm and heart rate of 90 bpm.  The patient was intubated at 8:02.  With intubation, the EEG demonstrates an intermittently discontinuous pattern.  Cooling begins after 9 a.m. and between 9 and 11 a.m. produces an increasingly slow and suppressed pattern.  At 10:50, the EEG appears to be nearly suppressed, but there is artifact noted.  The EEG is nearly is suppressed at 10:57 and then suppressed at 11 a.m.  There were bursts of delta noted in a minute that follows.  Following this, the EEG remains suppressed with some OR artifact, but no cerebral activity.  Rewarming begins at 12:58 with the temperature of 21 and then 22.7.  Burst suppression pattern starts to return.
+IMPRESSIONS/CLINICAL CORRELATION:  This EEG demonstrates suppression of cerebral activity with a therapeutic hypothermia beginning at 7:37 a.m. and concluding at 1:03 p.m.
+
+
+
+

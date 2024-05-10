@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 28-year-old gentleman with 1 year history of paroxysmal spells of anxiety, panic, lightheadedness, and presyncope.
+MEDICATIONS:  albuterol
+INTRODUCTION:  A 24-hour digital video EEG monitoring was performed using standard, 10-20 system of electrode placement with 1 channel of EKG.  Seizure and spike detection software was utilized.  This is a technically acceptable record capturing wakefulness to slow wave sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontal and central beta activity.  There is EKG artifact noted.  Stage 2 sleep includes vertex waves, K-complexes, spindles, and posts.  Brief slow wave sleep includes appropriate quantities of high amplitude delta.
+Sleep is fragmented with multiple arousals throughout the night.
+Heart rate is 60 bpm.
+IMPRESSION:  Normal 24-hour video EEG monitoring.
+CLINICAL CORRELATION:  No spells were recorded.  Additional recording will be undertaken in an attempt to identify epileptiform features.
+
+
+
+

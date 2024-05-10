@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  44 year old woman with possible meningitis or encephalitis, headaches, and encephalopathy.
+MEDICATIONS:  Keppra, Ceftriaxone, Vancomycin, Acyclovir, Lovenox
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly slow delta pattern with arrhythmic delta, as well as rhythmic delta.  The frontal delta is relatively rhythmic and the remainder of the brain there is a more of a pattern of shifting asymmetries in terms of the delta.  There is little in the way of variability in the record.
+Stimulation of the patient is not documented.
+HR:    90 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+A very slow pattern with both frontally predominant rhythmic delta and shifting asymmetries.
+CLINICAL CORRELATION:  This EEG supports a severe disturbance of cerebral function.  Although the pattern described is nonspecific, it can be seen in meningitis.
+Characteristic features of a herpes encephalitis are not seen, but any severe brain disturbance could produce the pattern described above.
+
+
+

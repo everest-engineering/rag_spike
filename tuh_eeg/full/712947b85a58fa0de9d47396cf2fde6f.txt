@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  46 year old right handed woman with multiple strokes in the left MCA territory, now with a witnessed seizure during an angiogram on 08/14/2012.  The patient was subsequently started on Keppra.
+MEDICATIONS:  ASA, Zocor, Citalopram, Keppra, Baclofen, Plavix, Famotidine, Acetaminophen, Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  There is a right to left interhemispheric asymmetry.  The posterior rhythm over the right hemisphere consists of well-formed and regulated and modulated 8-1/2 Hz alpha that attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient over the right hemisphere.  Over the left hemisphere, the posterior dominant rhythm reaches about 7 to 8 Hz, but is admixed with theta activity.  Additionally, over the left hemisphere there is continuous theta and delta activity over the left frontal and anterior temporal regions.  The patient briefly becomes drowsy with asymmetry sleep architecture with vertex waves captured primarily only over the right hemisphere.  No stage II sleep is captured.  Hyperventilation is not performed.  During photic stimulation there is no occipital driving.  No electrographic seizures are captured.
+FINDINGS:
+Mild slowing over the left hemisphere.
+Moderate slowing over the left frontal-anterior temporal region.
+Asymmetry in sleep architecture with sleep architecture better formed over the right hemisphere.
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is a very abnormal, about 25 minute, awake and drowsy EEG due to focal slowing over the left hemisphere that is most pronounced over the left frontal-anterior temporal region and asymmetry of sleep architecture with sleep architecture better preserved over the right hemisphere.  These findings indicate likely focal structural abnormality over the left hemisphere, primarily over the left frontotemporal region and they correlate with the patient's known history of multiple ischemic strokes in the left MCA territory.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.  If clinical suspicion for epilepsy persists, a repeat EEG with stage II sleep may be of benefit.  These findings were relayed to the primary team.
+
+
+

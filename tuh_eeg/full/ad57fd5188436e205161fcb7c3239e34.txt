@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 49-year-old gentleman, very limited historian, with epilepsy, blackout spells, mesial temporal sclerosis.  The patient states that he has been seizure-free for the past year.  He is illiterate and does not know his medications.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of low-voltage, frontal central beta activity.  Although there is a great deal of eye movement artifact, in hyperventilation and relaxed wakefulness, there is very subtle underlying focal slowing in the right mid temporal region at T1, T2, T4.  Unfortunately, this is challenging to distinguish from the patient's nearly continuous eye blinks in wakefulness.  Features of drowsiness included an increase in theta beta which is relatively symmetric.  In drowsiness, there is some wicket as the patient transitions to stage I sleep with vertex waves and then spindles.
+Photic stimulation elicited subtle driving.
+Heart rate:  66 beats per minute.
+IMPRESSION:  This is a very subtlety abnormal EEG due to Subtle focal slowing in the right temporal region noted in wakefulness and hyperventilation.
+CLINICAL CORRELATION:  Because of the frequent eye blinks, to more completely evaluate this patient's focal features and potentially epileptiform features, a more prolonged study of capture sleep may be of value.  This is the patient's third EEG and is the first to capture focal features.
+
+
+

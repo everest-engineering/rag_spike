@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 21 year old male with epilepsy, persistent postictal state. A 21-year-old male with cerebral palsy, cognitive impairment, and postictal state.
+MEDICATIONS: Topamax, Depakote, Lovenox, Pantoprazole
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has difficulty cooperating. Hyperventilation is performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is markedly abnormal. It is primarily a pattern of delta with smaller amounts of theta. Sharp waves are identified. The most prominent areas are the left central and parietal regions with a polyspike focus with some field of spread into the midline. Independent sharp waves are also noted at C4-CZ and C4-PZ. Bursts of FIRDA are noted. Shifting asymmetries are also observed. Paroxysm is not associated with seizures or epileptiform activity. Photic stimulation does not activate the record.
+HR: 100 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked background slowing.
+2. Epileptiform activity, the majority of which is in the left to right central parietal region, but there are rare, discreet, right temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance of cerebral function.
+
+
+

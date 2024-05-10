@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  63 year old woman with stroke, sepsis, persistently unresponsive.
+MEDICATIONS:  Bacitracin, Hydralazine, Lopressor, Bentyl.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It is a mixed frequency background with significant muscle artifact.  The posterior sections of the record are sharply contoured.  Later sections of the record as the patient drifts off to sleep demonstrate a better organized pattern.  In addition to the sharply contoured posterior transients, there are a handful of POSTS noted as well.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Slow and disorganized background.
+A handful of sharply contoured transients on the posterior region.
+CLINICAL CORRELATION:  No epileptiform features are identified.  In that the patient is a bit more alert, particularly in the initial sections of the record, the posteriorly predominant findings are a bit more prominent.  These morphologies, however, could represent normal phenomenon.
+
+
+

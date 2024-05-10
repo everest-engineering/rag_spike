@@ -1,0 +1,22 @@
+History:	41 year old man status post anoxic brain injury.  EEG is performed to establish ECS.
+Medications:	Epinephrine, Norepinephrine, Dopamine, Levothyroxine, Vasopressin,
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background is attenuated and at 2 microvolts only
+demonstrates very low amplitude fast activity and prominent EKG artifact.
+There is no reactivity to visual, auditory, tactile, or noxious stimuli.  A single EKG lead
+demonstrates heart rate up to ~ 140 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, marked
+Attenuation, marked
+Artifact, EKG
+Interpretation:
+This is an ABNORMAL portable EEG due to marked diffuse slowing/ This finding is indicative of
+marked diffuse cerebral dysfunction, which is etiologically nonspecific.  In the patient with anoxic
+brain injury, this EEG pattern indicates poor chance of neurological recovery.  This EEG was
+performed according the the ACNS guidelines for the determination of electrocerebral inactivity.
+This EEG does not demonstrate electrocerebral silence.
+

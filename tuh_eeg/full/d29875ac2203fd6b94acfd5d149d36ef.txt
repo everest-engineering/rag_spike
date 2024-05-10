@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 43-year-old woman with aneurysm in 2009, stroke, hypertension, now with daily, holocephalic headaches (headaches over the whole head).  Unruptured aneurysm of left middle cerebral artery trifurcation diagnosed in 2009 by angiogram.
+MEDICATIONS:  Abilify and temazepam.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation were completed.  This was an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized with generous, diffuse beta and a glimpse of an alpha rhythm which can be distinguished from the beta at 11 Hz.  The alpha on the left is a little slower than the right.  There may be a breach rhythm in the left central temporal region maximum at T3.  In addition, there is some shifting, isolated focal slowing with occasional delta or theta waveforms in the left or right midtemporal regions.
+Photic stimulation elicited a vigorous bilateral driving response.
+Heart rate 84.
+IMPRESSION:  This is an abnormal EEG due to:
+Excess beta.
+Shifting, isolated focal slowing from the right or left temporal regions.
+Modest background slowing and disorganization.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The excess beta may be associated with the patient's medications.  The focal features can be seen on the right or left, although the patient's previous neurosurgical intervention was on the left.  If epilepsy is an important consideration, a follow-up study capturing one of the patient's spells may be of value.
+
+
+

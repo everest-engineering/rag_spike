@@ -1,0 +1,13 @@
+HISTORY:  This is a 36-year-old male with epilepsy, nonadherent to medications.  Prior gunshot wound to head with right frontal encephalomalacia.  History of prior left parietal craniotomy.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  Patient has multiple craniotomy defects noted in the left skull.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a well-organized, continuous pattern on the right with a 9 Hz posterior dominant rhythm.  The left hemisphere demonstrates essentially continuous arrhythmic delta activity with breach rhythm, head rocking artifact, and arrhythmic delta within the left hemisphere, most prominent in the left posterior quadrant.  There is a glimpse of a 9 Hz posterior dominant rhythm which emerges despite the underlying arrhythmic delta.  Occasional spikes are noted in the left hemisphere maximum at T3 or T3/T5.
+Photic stimulation elicited scant driving on the right.
+Heart rate: 72 bpm.
+IMPRESSION:  Abnormal electroencephalogram due to:
+Nearly continuous focal slowing noted from the left hemisphere particularly in the posterior quadrant.
+Spikes, left mid-to-posterior temporal region.
+CLINICAL CORRELATION:  These findings are congruent with the patient's clinical history and imaging; supportive of a focal mechanism for epilepsy.  The breach rhythm may accentuate the underlying morphologies including that of the spike.
+
+
+

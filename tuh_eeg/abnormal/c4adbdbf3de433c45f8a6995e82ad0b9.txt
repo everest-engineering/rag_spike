@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 41-year-old male with recent onset of epilepsy, 3 nocturnal seizures with tongue biting.  Each seizure was associated with a low blood glucose.  The patient had violent swinging movements with one of the seizures.
+MEDICATIONS:  Insulin, Keppra, and enalapril.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  In relaxed wakefulness there is a small amount of shifting slowing with occasional, independent right or left temporal slowing.
+Hyperventilation was performed early in the record producing an increase in theta, a little bit more so on the left than the right.  Some of this was rhythmic, but some was somewhat arrhythmic as well.
+Sleep was characterized by a prominent increase in beta.  Spindles were noted.  Again, there was a small amount of shifting slowing noted in sleep.  Vertex waves and POSTS were also seen.  As the patient transitions in and out of sleep, there was some rhythmic, hypnagogic hypersynchrony.
+Photic stimulation was performed at the end of the record when the patient was awake.  A normal background was noted at that time.  Despite the tech's attempt to maintain him in an awake state during photic stimulation, the patient started to drift off to sleep during photic.  A driving response was elicited.
+Heart rate:  78 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to: Occasional bursts of shifting slowing noted as the patient transitions in and out of drowsiness and in hyperventilation.
+CLINICAL CORRELATION:  No sharp waves or spikes were seen.  There were no specific hallmarks of an underlying seizure disorder.  The shifting slowing noted in the transition to sleep is characteristic of that seen in older adults with cerebrovascular disease.  It is, however, a nonspecific finding.  In this individual with new onset seizures, perhaps a more prolonged sleep recording may be helpful in the search for epileptiform activity.
+
+
+

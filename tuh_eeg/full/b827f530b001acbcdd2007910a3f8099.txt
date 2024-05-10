@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 44 year old right handed woman with left-sided numbness and tingling.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: The vast majority of the EEG includes sleep. In brief wakefulness there is a beta pattern with a glimpse of a 9 Hz alpha and then the patient drifts in and out of stage II sleep. Vertex waves, K-complexes and spindles are noted. The technologist tries repeatedly to wake up the patient. who drifts back into stage II sleep. Photic stimulation is performed while the patient is in stage II sleep, but there is a driving response at intermediate flash frequencies.
+HR: 72 bpm
+IMPRESSION: EEG within normal limits primarily in stage II sleep.
+CLINICAL CORRELATION: Additional evaluation to determine the cause of
+patient's excessive drowsiness is suggested. There are no epileptiform feature.
+
+
+

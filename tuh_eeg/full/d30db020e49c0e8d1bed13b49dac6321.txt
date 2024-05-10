@@ -1,0 +1,20 @@
+CLINICAL HISTORY:  20 year old right handed male with febrile convulsions and now with a single episode of loss of consciousness and postictal confusion, underlying anxiety disorder.
+MEDICATIONS:  Zoloft, Xanax.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately high amplitude for a young adult of this age with a 10 Hz alpha rhythm.  Initially, although the patient does not appear to be hyperventilating there is some posteriorly predominant slowing.  In addition, in this high amplitude, sharply contoured record, there is a left anterior temporal sharp wave, maximum T1 and T3.  With the use of an average reference it is T1 maximum.
+With stimulation there is an arousal, then the amplitude drops.  The EEG is a little bit better organized, but in relaxed wakefulness there is intermittent focal slowing in the left hemisphere, particularly the left temporal region, but with some variability.  It may be posterior temporal or anterior temporal.  The sharp waves, however, are uniformly anterior temporal.
+Hyperventilation is performed earlier on in the record producing a vigorous hyperventilation response with higher amplitude, paroxysmal mixed theta delta.  There is a single burst, not delta, but no sustained frontally predominant spike and wave activity.
+As the patient becomes drowsy, again, there is posteriorly predominant delta noted in the background (OIRDA).
+Photic stimulation elicits a driving response with harmonic and supraharmonic driving.
+HR:  72 bpm
+IMPRESSION:  Abnormal EEG due to:
+A focal sharp wave which is primarily left anterior temporal in location.
+Occasional focal slowing from the left hemisphere, particularly mid to posterior temporal region and accentuated by hyperventilation.
+Occasional bursts of occipitally predominantly slowing.
+A possible single frontal generalized spike and wave complex in hyperventilation.
+CLINICAL CORRELATION:  The striking features in this record are the focal epileptiform activity and the focal slowing.  There are also some useful features in this record, including the high amplitude background and the OIRDA.
+This patient's medications would not be expected to produce a background as described above.
+Correlation with clinical history and imaging is suggested.
+
+
+

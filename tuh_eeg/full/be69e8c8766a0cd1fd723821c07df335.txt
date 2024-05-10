@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  Status post right craniectomy, patient is transferred from an outside hospital after multiple repetitive seizures, intubated and poorly responsive.
+
+MEDICATIONS:  Vimpat, valproic acid, others.
+
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software was utilized.  The patient was initially unresponsive, but by 9:30 p.m. on the night of the 17th was responsive with the nurse.
+
+DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrate a diffusely slow, low voltage pattern.  Over time, an asymmetry is identified as there is an increase in faster frequency activity on the left, less so on the right.  Rare, right frontal sharp waves are noted, maximum at FP2.
+
+Stimulation of the patient at 9 p.m. produces an alerting response with eye opening and eye closure.  This is also noted at 2 a.m.
+
+Although there are some technical challenges with the quality of the record, the overall study remains interpretable.  By the morning of the 18th, the patient remains relatively lethargic, on face mask.  Stimulation of the patient produces an alerting response in the EEG.
+
+HEART RATE 123 bpm.
+
+IMPRESSION:  This 24 hours continuous video EEG monitoring was remarkable for:
+1. An initially markedly slow background.
+2. As the patient improved, an asymmetry was noted with more attenuation on the right compared to the left.
+3. Occasional right frontal sharp waves.
+
+CLINICAL CORRELATION:  No seizures were recorded.  The attenuated pattern on the right is in the region of this patient's previous head trauma and craniectomy.  There are some frontal sharp waves, which in the context of the craniotomy are relatively blunted.
+

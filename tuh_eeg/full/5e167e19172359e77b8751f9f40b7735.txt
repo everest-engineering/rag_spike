@@ -1,0 +1,31 @@
+:
+History:	56 year old female with 1 week of right side weakness and speech difficulty.
+Symptoms improved slightly in a week.
+Medications:	PROTONIX, ZOCOR, HEPARIN, COLACE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of moderate amplitude 9 Hz alpha activity that attenuates
+with eye opening.  PDR is better formed over the right.  Anterior-to-posterior frequency-amplitude
+gradient is present over the right only.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz
+slow waves appear diffusely.
+Continuous polymorphic theta and delta activity is present in the left midtemporal>frontal regions.
+This activity is often sharply contoured, particularly over the midtemporal region.  No clear
+epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds and produces no effect.  Stepped photic stimulation
+from 1-21 flashes per second (fps) does not produce additional abnormalities.  Occasional
+premature QSR complexes are captured on a single EKG lead.
+Summary of Findings:
+No epileptiform discharges
+Focal slowing, polymorphic, continuous, moderate, left frontotemporal, most pronounced over
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL 21-minute awake and drowsy EEG because of continuous moderate left
+temporal>frontal focal slowing. This finding is indicative of a focal structural lesion in this region.
+No clear epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically
+indicated, repeat EEG with sleep recording may provide additional information.  Occasional
+premature QSR complexes are captured on a single EKG lead.
+
+

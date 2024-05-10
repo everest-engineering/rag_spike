@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 21-year-old woman with epilepsy since the age of 8.  Most recent seizure June/July 2012 with fainting, falling, and shaking.  Now 4 months pregnant.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and asleep record.
+TECHNICAL:  Impedances for most of the electrodes were satisfactory, but this EEG was problematic with a great degree of muscle artifact when the patient was awake.  As the patient went off to sleep, there was still muscle artifact picked up in the left scalp electrodes.
+DESCRIPTION OF THE RECORD:  Despite the problems described above, there is a 10 Hz alpha rhythm with a small amount of focal frontal central beta.  Wicket was noted as the patient became drowsy.  Other features with drowsiness include rhythmic central theta.  The electrode artifact did not drop out in stage I sleep with vertex waves.  Brief stage II sleep included vertex waves with spindles.
+Hyperventilation did not activate the record.  Photic stimulation was remarkable for a great deal of muscle artifact.  Heart rate 90 BPM.
+IMPRESSION:  This is a technically challenging but otherwise normal EEG.
+CLINICAL CORRELATION:  The wicket is a normal finding.  Given the degree of muscle artifact described above, a follow-up study capturing perhaps more prolonged
+sleep or with other mechanisms to alleviate the muscle artifact is suggested.  Alternatively, comparison with this individual's childhood EEGs may be of value.
+
+
+

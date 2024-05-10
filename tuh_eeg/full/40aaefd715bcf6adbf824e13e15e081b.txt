@@ -1,0 +1,23 @@
+History:	25 YR MALE WITH PMHX OF LEFT RESECTION WITH SZS.  PRESENTS WITH
+SZS.  HEAD 53 CM
+Medications:	Depakote, Versed gtt, Phenobarbital, Vimpat
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+There is an obvious hemispheric asymmetry with focal slowing over the left hemisphere.  The
+posterior dominant rhythm achieves 9 Hz over the right but only 6 Hz over the left. There is
+reactivity see on bilaterally to eye opening.  There is a breach rhythm on the left that corresponds to
+the patient's known craniotomy scar.  Stage I sleep is briefly seen and characterized by slowing of
+the posterior dominant rhythm on the right.
+There is continuous focal theta and delta slowing noted over the left hemisphere (even in the setting
+of the breach rhythm).  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Summary of Findings:
+Breach artifact, continuous, left frontotemporal
+Focal slowing, polymorphic, continuous, left hemispheric
+Interpretation:
+This is an ABNORMAL 60 minute EEG due to the presence of nearly continuous left sided focal
+slowing and a breach rhythm. Focal slowing is seen in the setting of a structural brain lesion.
+

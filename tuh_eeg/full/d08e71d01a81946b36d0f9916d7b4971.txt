@@ -1,0 +1,38 @@
+AGE: 114 y.o.
+SEX: male
+DATE OF STUDY: 10/12/2015
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, Asleep only EEG #: 15-1506
+HISTORY:
+114 y.o. Male with an acute right ACA/MCA infarct referred for routine EEG for altered mental status .
+MEDICATIONS: ASA, ATORVASTATIN, ZOSYN, METOPROLOL, HEPARIN SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The waking background continuous, asymmetric, and reactive . The left hemisphere consists of a fairly well organized mixture of alpha, theta, and delta, with fragments of an irregular posterior dominant rhythm approaching 8 Hz.
+The right hemisphere consists of a less-well-organized mixture of alpha, theta, and delta, with attenuation of faster frequencies . A posterior dominant rhythm is less prominent over the right.
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm and further background slowing are seen.
+Sleep is not captured.
+There is mild generalized slowing is present.
+There is continuous right hemispheric polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:superimposed on mild diffuse cerebral dysfunction.
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+An irregular heart rate of 102 bpm is captured on a single EKG lead.
+IMPRESSION :
+This is an abnormal Awake and drowsy routine EEG due to:
+Mild generalized slowing
+Suboptimal organization, worse on the right
+Continuous right hemispheric polymorphic slowing
+Right hemispheric attenuation of faster frequencies
+CLINICAL CORRELATION:
+These findings are consistent with right hemispheric cerebral dysfunction and cortical injury, likely
+
+
+
+

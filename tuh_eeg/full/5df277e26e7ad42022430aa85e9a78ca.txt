@@ -1,0 +1,26 @@
+History:	47 year old woman with a history of seizures, admitted from an outside hospital with
+change in mental status.
+Medications:	phenobarbital,dilantin,amoxicillin,onfi
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture theta and alpha
+activity with overriding evolving rhythmic patterns (seizures).  There are continuous rhythmic high
+amplitude 2-2.5 Hz bifrontal, right>left, spikes with accompanied polyspikes that frequently increase
+in amplitude and speed throughout the parasagittal regions posteriorly.  Clinically, patient is
+confused but is able to answer simple questions and follow simple commands.  No normal sleep
+architecture is present but periods of quiescence are observed.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Status epilepticus, bilateral (R>L) anterior
+Diffuse slowing, polymorphic, mild-to-moderate
+Interpretation:
+This is an ABNORMAL 25-minute EEG due to focal status epilepticus involving bilateral anterior
+regions, right>left. This finding is indicative of an epileptogenic focus in the anterior cerebral
+regions, right>left.  Mild-to-moderate diffuse slowing is etiologically nonspecific indicator of mild-to-
+moderate diffuse cerebral dysfunction.  These findings were conveyed to the primary team.  Patient
+will be placed on long-term EEG monitoring.
+
+

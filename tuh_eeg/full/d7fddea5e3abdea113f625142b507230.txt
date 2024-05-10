@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 36-year-old gentleman, status post surgery for meningioma in 2010, seizure free, medications Keppra 1000 mg a day.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage frontocentral beta.  As the patient becomes drowsy, a breach rhythm is identified with some rhythmic theta from the left frontal region noted in the region of the breach.  There is also accentuation of the beta activity noted as the patient transition in and out of breach stage to sleepless spindles.  Spindle activity is slightly asymmetric.
+Photic stimulation is performed while the patient is transitioning in and out of stage 2 sleep and does not significantly activate the record.  Heart rate: 60 BPM.
+IMPRESSION:  This is a very mildly abnormal EEG due to subtle left frontal focal slowing.
+CLINICAL CORRELATION:  These findings are similar to previous studies.  This is the third EEG for this individual without sharp waves or spikes.
+__________________________
+
+
+

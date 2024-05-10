@@ -1,0 +1,22 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+
+58 YR OLD MALE PRESENTS WITH H/O ALTERED MENTAL STATUS, PMHX SIG FOR DRUG ABUSE, UNCONTROLLED DM. SEEN AT OSH 1 DAY PTA FOR SUGAR, PT MENTAL STATUS NORMAL. ? ONSET OF SZ WITH PRIOR C/C OF HA
+No AEDs
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by right hemisphere attenuation and left hemisphere theta activity with absence of the expected anterior to posterior gradient of frequencies . During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+Continuous polymorphic delta activity and attenuation is present in the right hemisphere region during wakefulness, increasing during drowsiness. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli. HR was 60 with some PVC's
+Summary of Findings:
+Focal slowing, polymorphic , continuous, marked, right hemispheric Attenuation, continuous, right hemispheric
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL  EEG because of  continuous focal slowing and attenuation in the right hemisphere.   This finding is indicative of a structural lesion involving cortex. In addition there is moderate diffuse  background slowing and absent alpha rhythm, findings are indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific
+.
+
+
+
+
+

@@ -1,0 +1,24 @@
+CLINICAL HISTORY: 36 year old right handed female with having a seizure in the
+context of sleep deprivation, seizure characterized by left facial twitching followed by
+generalized activity. The date of the seizure was 01/03/2010.
+MEDICATIONS: Ambien, Ativan.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+simulation are performed. This is an awake and sleep record in an individual who is
+complaining of significant sleep deprivation.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz posterior dominate
+rhythm, but the overall background includes excess theta and beta. I believe artifact is
+noted. In addition, there is some rhythmic delta noted which is a bit more prominent in
+the right mid to posterior temporal region than the left. Features of drowsiness included
+an increase in beta. Hyperventilation elicits scant driving.
+HR: 72 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess theta.
+3. Rhythmic, right greater than left temporal delta.
+CLINICAL CORRELATION: This patient's extreme sleep deprivation could contribute
+to the theta and beta described above. The temporal abnormalities, however, should be
+in this individual with 2 lifetime seizures, they would be correlated with imaging. The
+excess beta could be due to medication.
+
+

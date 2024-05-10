@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 25-year-old right-handed woman with adult-onset recurrent seizures with previous normal EEG, events without aura, loss of consciousness, and associated injury.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTs.  Hyperventilation produces an increase in amplitude of the background as well as a focal response.  Photic stimulation elicited bilateral driving.
+Notable findings in this EEG include rhythmic left temporal theta which waxes and wanes, increasing in drowsiness.  In addition, occasional left anterior temporal sharp waves with after-going slow waves, medium to high amplitude were noted in wakefulness around the time of photic stimulation.  Photic stimulation also seems to accentuate the rhythmic slowing and sharp waves.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic left temporal slowing.
+Left temporal sharp waves.
+CLINICAL CORRELATION:  These are new findings for this individual and support a localization-related mechanism for epilepsy.
+
+
+

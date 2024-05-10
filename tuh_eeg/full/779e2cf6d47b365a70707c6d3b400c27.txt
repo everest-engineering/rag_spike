@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 52-year-old woman with episodes of loss of consciousness and left hand numbness.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This was a technically acceptable EEG capturing wakefulness and sleep.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 hertz, 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta.  The patient transitions in and out of drowsiness with slow rolling eye movements and POSTS.  K complexes were noted in stage 2 sleep.  The patient again transitions quickly in and out of stage 2 sleep.
+Photic stimulation was performed while the patient was drifting off to sleep and elicited scant driving.
+Hyperventilation produced a small increase in amplitude and a small amount of slowing.
+Heart rate 78 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  This patient appears to be quite drowsy, which can be seen in the context of sleep deprivation as may have been requested for this EEG.
+
+
+

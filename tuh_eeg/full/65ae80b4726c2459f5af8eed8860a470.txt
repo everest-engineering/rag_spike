@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 26-year-old male, admitted to ICU after witnessed seizure with flexing and weaving arms, followed by unresponsiveness.
+MEDICATIONS:  Glucagon and Protonix.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was drowsy with marked psychomotor slowing.
+DESCRIPTION OF THE RECORD:  The overall background is a pattern of diffuse beta with smaller amounts of rhythmic theta.  Superimposed upon this is arrhythmic delta activity in the right hemisphere with a fluctuating field, right central temporal and posterior temporal.  Tactile and auditory stimulation of the patient produces eye opening and more of a diffuse beta background as well as attenuating the focal slowing in the right posterior quadrant.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Diffuse background slowing with rhythmic theta.
+Excess beta.
+Focal slowing with arrhythmic delta activity in the right hemisphere.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The background slowing supports a diffuse disturbance of cerebral function.  The focal features suggest a potential structural process in the right hemisphere.
+
+
+

@@ -1,0 +1,23 @@
+History:	38 year old woman with a history of stroke at 1 year of age and seizures.
+Medications:	Tegretol
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a moderate amplitude 11 Hz alpha rhythm, which
+attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz
+Occasional polymorphic theta activity is noted over the right temporal region.  No epileptiform
+discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+abnormalities.  HR is 85 bpm.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, right temporal
+Interpretation:
+This is an ABNORMAL awake- 20-minute EEG due to mild occasional right temporal slowing. This
+finding is indicative of mild focal cerebral dysfunction.  No epileptiform discharges are present, but
+stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information.
+

@@ -1,0 +1,30 @@
+History:	55 YR OLD FEMALE WITH PMHS SIG FOR SCHIZOPHRENIA, S/P VP SHUNT,
+STROKE AND HEADACHES. PRESENTS FOR FOLLOW UP OF HEADACHES
+LASTING OVER 20 MIN. PT DENIES SZ
+
+Medications:	KEPPRA 500MG, VPA 500MG
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Intermittent polymorphic delta activity is present in the F7/T3 > F8/T4 region.  No epileptiform
+discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing in the left anterior temporal region.  Stepped photic stimulation from 1-21 flashes per
+second (fps) does not produce any effect.  HR was 78
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal, anterior
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of intermittent focal slowing in the left
+more than right anterior temporal region.  This finding is indicative of focal cerebral dysfunction,
+which is etiologically non-specific.
+
+
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: A 57-year-old admitted with an intracerebral hemorrhage, characterized by 5 minutes loss of consciousness.
+MEDICATIONS: Keppra, labetalol, hydralazine.
+INTRODUCTION: A 20-minute digital video EEG was performed at bedside in the ICU using standard
+10-20 system of electrode placement with one channel of EKG. This was a technically acceptable record.
+DESCRIPTION OF THE RECORD:  This bedside record is performed for an awake patient, who initially had difficulty following commands.  The overall background is somewhat slow and disorganized with a posterior dominant rhythm of approximately 6 Hz. There is also a bit of an asymmetry with a bit more slowing in the left hemisphere.  The overall record is rich in beta. Although, the patient is awake and interactive throughout, there are brief sections in the record, where the EEG is better organized with an increase in alpha frequency activity. There are also bursts of delta noted from either hemisphere.
+Heart rate: 90 bpm.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+CLINICAL CORRELATION: No epileptiform features were identified. These findings may be correlated with imaging.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  33 year old right handed woman for aortic valve repair.
+MEDICATIONS:  Fentanyl, Versed, Vecuronium, Propofol, Isoflurane, Sevoflurane, Solu-Medrol, Lidocaine, Magnesium.
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG for an individual undergoing aortic arch repair with hypothermic treatment.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient has received anesthetic medications.  There is a mixed frequency background alpha and beta frequency activity and smaller amounts of delta.  The patient is prepped in the OR at 4:01, 1600 hours.  During the cooling process, there are minor asymmetries noted.
+The EEG starts to become discontinuous as cooling begins at 4:58. It transitions to a burst suppression pattern at 5:00 p.m.  The temperature using the nasal thermistor varies, going up to 23.8 at 5:15.  The head is 19 degrees at 5:28.  The circulatory arrest begins at that time and then immediately, brief bursts of cerebral activity are identified which was reported to the surgical team.  The technologist provides additional cooling to the head at 5:34.  The EEG activity becomes more consistently suppressed by 5:47.  It remains low voltage and then transitions to a suppressed pattern at 5:53:20.  The EEG remains suppressed.  At 6:13 artifact is noted and it is determined that there has been something placed on the cable.  This was corrected.  As the head is passively rewarmed, the EEG activity returns at 6:21:51.  The activity is symmetric and vigorous.   The activity is increasingly rich in theta frequency activity.  Recordings concludes at 7:05.
+IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this intraoperative procedure was remarkable for the appearance of suppressed pattern then briefly a discontinuous pattern followed by a relatively prolonged period of suppression.
+These findings are indicative of the cooling of the brain during the operative procedure.
+
+
+

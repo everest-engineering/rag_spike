@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Adult with autism and epilepsy.  Frequent grand mal seizures.  The patient is jumping about during the EEG preparation.
+MEDICATIONS:  Vitamin D, Tegretol, Depakote, and other.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically challenging record in a patient who had difficulty cooperating, although impedances were acceptable.
+DESCRIPTION OF THE RECORD:  The background EEG includes moderately slow pattern with primarily a theta frequency background and frequent eye blink.  The patient was unable to cooperate with hyperventilation.  The patient was blinking and moving about during photic stimulation, there was no driving response noted.  The EKG was not functional during the EEG.
+IMPRESSION:  This is a technically challenging, but abnormal EEG in wakefulness and was remarkable for
+excess theta.
+CLINICAL CORRELATION:  No epileptiform features were noted.  If an additional information was needed, a more prolonged EEG in the lab perhaps using pharmacologic sedation may be of value to more fully evaluate the patient's underlying epileptiform activity.
+__________________________
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  82 year old male with occipital hemorrhage and increasing agitation associated with increasing ICP.
+MEDICATIONS:  Keppra, Ativan, Haldol, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had great difficulty cooperating with the test and received Ativan.  It was difficult to achieve acceptable impedances.
+DESCRIPTION OF THE RECORD:  The background EEG includes generous beta.  Despite the technical challenges, there is disruption of faster frequency activity in the right occipital region and right posterior temporal region.  The overall pattern is more of a theta pattern with generous beta. Brief drowsiness after the Ativan is associated with an increase in beta.  POSTS are identified bilaterally as he drifts off to sleep.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess beta.
+Right occipital focal slowing.
+Excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If additional evaluation is needed, a follow up study when the patient is a bit more cooperative is suggested.
+
+
+

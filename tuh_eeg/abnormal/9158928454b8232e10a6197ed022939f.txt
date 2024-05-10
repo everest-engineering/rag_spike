@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  51 year old right handed male, presents with frequent falling, fell, and fractured left ankle.  Recurrent dizzy spells, fainting spells, spells with cold sweats.
+MEDICATIONS:  Percocet, Lovenox, Morphine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10.7 Hz alpha rhythm with a small amount of low voltage frontal central beta.  Drowsiness is characterized by rhythmic frontal central theta, followed by vertex waves.  K-complexes, spindles, and POSTS in stage II sleep.  The patient transitions in and out of stage II sleep.
+Hyperventilation produces a small amount of theta. Photic stimulation was not performed.
+HR:    66 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If epilepsy is an important consideration if this patient continues to have syncopal spells, an outpatient ambulatory EEG may be a solution.
+
+
+

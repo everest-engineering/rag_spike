@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 63 year old right handed male, with dementia, facial droop.
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system  of electrode placement with 1 channel of EKG. The patient was quite confused during the EEG and removed his EEG electrodes during the EEG.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow, disorganized pattern.  There is an asymmetry with a bit more beta frequency activity on the left. In this sharply contoured record, there a handful of left temporal sharp waves, as well as some head rocking artifact.
+HR:	70 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. 	Marked background slowing.
+2.	A handful of left temporal sharp waves.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function. In addition, the sharp waves suggest a potential for seizures.
+
+
+

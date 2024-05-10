@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  40 year old right handed woman with tonic-clonic seizure for 1 minute followed by 10 minutes postictal confusion.  Past history of hepatitis C, alcohol abuse, and prior seizure.
+MEDICATIONS:  Metoprolol, HCTZ, Iron, Diovan
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 11 Hz alpha rhythm.  Alpha squeak was identified.  Hyperventilation does not activate the record.  Photic stimulation elicits scant driving.
+HR:    70 bpm
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

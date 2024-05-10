@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 64-year-old male transferred from an outside hospital with the status epilepticus-like pattern.  Past history of stroke, left occipital hemorrhage, VP shunt.  Recent changes in Keppra.  Currently on levetiracetam,Vimpat, others.
+MEDICATIONS:  Insulin, Protonix, Dilantin, Vimpat, Norvasc, others.
+INTRODUCTION:  DIGITAL: Video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel EKG.  This is a technically acceptable bedside record in an awake individual.  Impedances were acceptable aside from the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates an awake pattern with  7 to 9 Hz posterior dominant rhythm.  High amplitude epileptiform activity is noted in the left hemisphere with volume conduction to the right hemisphere.  The epileptiform activity is irregular, maximum in the left posterior quadrant and demonstrates variability in its maximal. Epileptiform discharges are greater than 100 microvolts.  The activity is maximal at 01 in a referential montage with a spike that follows at times at T5, but with a great volume of spread.  Additional epileptiform discharges are noted which are more left hemispheric or more diffusely left temporal.  Polyspike activity may be identified in the left frontal central regions.  Epileptiform discharges may appear as couplets with 2 within a 1 second period or even 3 over 3 seconds.  With stimulation, the epileptiform activity decreases. Epileptiform activity is relatively prominent as the patient drifts off to sleep.  Other features of drowsiness include a more diffuse pattern of rhythmic theta delta and at times epileptiform activity that clearly spreads with at least a depolarizing slow wave in the right hemisphere or a subtle paroxysmal discharge.
+Heart rate: 84 BPM
+IMPRESSION:  This is an abnormal EEG due to:
+In a dynamic pattern, but when the patient is awake and the epileptiform activity is reduced, at least a mildly diffusely slow pattern.
+Focal slowing from the left posterior quadrant.
+Complex and at times periodic epileptiform activity which is maximum in the left occipital region, but demonstrates significant variability.
+A polyspike component to the epileptiform activity which demonstrates some faster frequency activity.
+CLINICAL CORRELATION:  The high amplitude and prominent epileptiform activity had volume conduction to the right, but the activity is primarily in the left hemisphere, although not always left occipital.  No clinical seizures were noted.  With stimulation, the epileptiform activity decreases.  Ongoing
+clinical evaluation is advised. If there are any questions, additional recording to assess subclinical seizures may be of value.
+__________________________
+
+
+

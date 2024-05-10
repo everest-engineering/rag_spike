@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  65 year old left handed male with CT scan demonstrating multiple infarcts, bilateral basil ganglion upon cerebellum, now with change in mental status.
+MEDICATIONS:  Protonix, Lisinopril, Lipitor, ASA
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, the background EEG is diffusely slow with a rhythmic theta pattern of 6.5 Hz.  There are bursts of shifting arrhythmic delta activity.  The patient transitions in and out of sleep with arrhythmic delta activity and vertex waves.
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic background slowing.
+Shifting arrhythmic delta.
+CLINICAL CORRELATION:  These findings are nonspecific and can be seen in a diffuse disturbance of cerebral function due to many different causes, including cerebrovascular disease or a metabolic disturbance.
+
+
+

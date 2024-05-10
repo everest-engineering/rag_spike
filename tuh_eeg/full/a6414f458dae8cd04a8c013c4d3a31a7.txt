@@ -1,0 +1,46 @@
+History:	63 year old man with a history of right frontal ICH, now presents with change in
+mental status and 3 witnessed focal seizures.
+Medications:	Ativan
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 41 hours from 08/20/2014 to 08/22/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The
+background over the left consists of a mixture of polymorphic low-to-moderate amplitude
+polymorphic theta, alpha and beta activity with under riding delta activity that is most pronounced
+anteriorly.  The background over the right hemisphere consists of polymorphic low amplitude theta
+activity posteriorly and attenuated polymorphic delta activity anteriorly with continuous semi-
+rhythmic and rhythmic ~0.25 Hz high amplitude right anterior temporal sharp  waves with
+after going slow waves (quasi-PLEDs and PLEDs).  Maximal scalp negativity occurs over T2/T4
+electrodes.  Epileptiform discharges occasionally briefly increase in frequency to 0.75-1 Hz.  No
+During the first 17 hours no seizures were seen. The on 08/21/2014 at 8:19 AM there was an
+electrographic seizure.  After there 9 more short electrographic seizures were seen until 2pm. After
+this no more seizures were seen.  The seizures consisted of a rhythmic build up in frequency and
+amplitude of the right anterior temporal PLEDs from delta frequency discharge  up to an alpha
+frequency discharge (8-9Hz) without any spread and then suddenly stopping.  They lasted from 5-
+17seconds. There was no clinical correlate associated to this EEG activity documented on video.
+Hyperventilation and photic stimulation are not performed.  HR was 96
+Summary of Findings:
+Seizure, few, right temporal, anterior, electrographic
+PLEDs (periodic lateralized epileptiform discharges), continuous, right temporal, anterior
+Focal slowing, polymorphic, continuous, right temporal, anterior
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+
+normal sleep architecture is present but periods of quiescence are captured. This is a very abnormal 41 hours EEG due to few right anterior temporal electrographic seizures. In
+addition there is mild-to-moderate diffuse slowing, focal right hemispheric moderate-to-severe
+slowing that is especially pronounced anteriorly and continuous periodic and semi periodic
+epileptiform discharges.  Diffuse slowing is indicative of mild to moderate diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing and frequent epileptiform
+discharges in the right anterior temporal region are indicative of a potentially epileptogenic focal
+structural lesion in the that region.
+
+

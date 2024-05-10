@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Patient is a 69-year-old woman with past medical history of dementia and seizures and a prior traumatic brain injury in 1994.  Patient currently continues to have ongoing seizures and struggle with dementia.
+MEDICATIONS:  Keppra, Namenda, Aricept, aspirin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead. Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant consist of polymorphic low amplitude 7 to 8 Hz theta activity that attenuates with eyes opening.  The anterior to posterior frequency amplitude gradient is weak.  No normal sleep architecture is captured.  Hyperventilation and photic stimulation are not performed. Irregular Heart rate is captured on a single EKG lead.
+FINDINGS:
+Mild diffuse slowing.
+No stage II sleep.
+Cardiac arrhythmia.
+IMPRESSION:  This is an abnormal 22-minute awake only EEG due to mild diffuse slowing.  This finding indicates etiologically nonspecific cerebral dysfunction.  Irregular cardiac rhythm is captured on a single EKG lead.
+
+
+

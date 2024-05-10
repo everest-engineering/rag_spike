@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 60 year old right handed male with tonic clonic seizures lasting minutes, hypertension, DVT, PE, history of gunshot wound to the right jaw and a stabbing injury.
+MEDICATIONS: Keppra, Coumadin, Furosemide
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage and relatively slow with excess theta There is a glimpse of a 9Hz alpha rhythm. Hyperventilation is performed early in the record producing an increase in amplitude of the background and a few bursts of FIRDA. As the recording continues, there is an increase in alpha frequency activity. The patient starts to drift off to sleep. As he drifts in and out of sleep, there are some bursts of rhythmic frontal theta noted from the left hemisphere. Photic stimulation is performed while the patient is relatively drowsy and does not significantly activate the record. There is occasional focal slowing from the left hemisphere as well as some bifrontal delta as the patient becomes sleepy during photic.
+HR: 60-78 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent generalized background slowing seen in the initial sections of the record.
+2. Occasional focal slowing from the left hemisphere which may be left frontocentral or frontotemporal.
+CLINICAL CORRELATION: This EEG supports a structural or functional process on the left and may be correlated with imaging. There were no epileptiform features noted.
+
+
+

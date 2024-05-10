@@ -1,0 +1,29 @@
+History:	20 YO MALE W/ TBI FROM MVA IN 2013
+PT IS MISSING SKULL ON LEFT FRONTO-TEMPORAL REGION.PT SAYS HE
+WAS TOLD HE HAS HAD SZ SINCE ACCIDENT, HE CAN NOT RECALL ANY
+DETAIL. AFFECTED AREA INVOLVES T5,T3, F7, FP3, F3, C3, P3, CZ, FZ.
+Medications:	Patient does not know what meds he is currently on.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic delta at times sharply contoured activity is present in the left hemisphere
+maximal in the central region during wakefulness, increasing during drowsiness.   There is an
+associated increased voltage and faster frequencies in the region consistent with a breach.  No
+epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Breach artifact
+Focal slowing, polymorphic, continuous, left hemispheric, maximal in the central region
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of left hemispheric focal slowing
+maximal in the central region with an associated breach. This findings are consistent with the
+known lesion and craniectomy.
+
+

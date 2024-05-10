@@ -1,0 +1,22 @@
+
+
+HISTORY: 67 year old right handed male with bilateral aneurysm repair, severe heart disease and recurrent syncope versus seizures.
+
+MEDICATIONS: Amiodarone, Neurontin, Zocor, Morphine, Singulair, Combivent, Imdur, Metoprolol, ASA, Insulin, Nitroglycerin
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+
+DESCRIPTION OF 	RECORD:  The background EEG demonstrate a diffusely slow pattern with primarily a rhythmic theta pattern and a posterior dominant rhythm of 5-7
+Hz. There is a breach rhythm with higher amplitude on the left compared to the right. The patient appears to be relatively immobile.  Features of drowsiness include an increase in slowing. Photic stimulation seems to elicits small sharp waves from the left temporal region.
+
+HR:	72 bpm
+
+
+IMPRESSION: Abnormal EEG due to:
+1.	Generalized background slowing.
+2.	Superimposed focal slowing on the left.
+Rare left temporal sharp waves.
+
+
+CLINICAL CORRELATION:   The bilateral features described above may be due to this patient's previous neurosurgical history.  Epileptiform activity in the context of a skull defect or breach rhythm should be evaluated with caution.
+

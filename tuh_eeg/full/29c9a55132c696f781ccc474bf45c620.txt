@@ -1,0 +1,33 @@
+History:	45 year old man who was transferred from an outside hospital due to multiple
+convulsions.  Patient has a history of benzodiazepine, cocaine and alcohol abuse.
+He was previously started on Dilantin but he has been non-compliant.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm consists of polymorphic 9-10 Hz alpha activity.  The AP gradient is
+weak.  Diffuse excess theta and beta activity is captured.  During drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely.
+Occasional polymorphic theta activity is captured over the right temporal region.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, moderate, right temporal
+Diffuse slowing, polymorphic, mild
+Beta, excessive
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy portable 21 minute EEG due to mild diffuse
+slowing and disorganization and occasional moderate focal slowing over the right temporal region.
+Diffuse slowing and disorganization are indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Occasional right temporal focal slowing is indicative of focal cerebral
+dysfunction, which is etiologically non-specific, but possibly structural in origin.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+
+

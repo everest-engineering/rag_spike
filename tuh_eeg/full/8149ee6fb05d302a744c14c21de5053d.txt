@@ -1,0 +1,12 @@
+MEDICATIONS:  Dilantin, Ativan, olanzapine, phenobarbital, Lamictal.
+CLINICAL HISTORY:  A 40-year-old male with schizophrenia, polysubstance abuse, and recurrent seizures.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were deferred.
+DESCRIPTION OF THE RECORD:  In the background, the patient is quite drowsy throughout much of the EEG, and most of the EEG captures stage 2 sleep.  With stimulation, the patient alerts briefly, becomes agitated and there is a theta frequency background with a glimpse of an alpha rhythm.  When unstimulated, the patient drifts off to stage 2 sleep.  In stage 2 sleep, there are frequent epileptiform discharges.  The epileptiform discharges include frontally predominant spike and slow wave complexes, as well as more focal complexes which may be maximum in the left frontocentral region or right central region.  The epileptiform activity may be bilateral, but is a little bit more prominent in left frontal central when it is focal.  By the end of the EEG, the patient is becoming increasingly agitated and it is not possible to obtain a good quality recording.  Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to,
+Generalized background slowing.
+Abundant epileptiform activity, which includes a generalized, frontally predominant spike and wave activity with a polyspike component.  Focal right or left frontocentral spike or sharp wave activity.
+CLINICAL CORRELATION:  These complex findings should be placed in the appropriate clinical context.  There are both focal and generalized epileptiform features in an abnormal background and the patient treated with abundant polypharmacy.  This EEG likely represent a secondary generalized mechanism for epilepsy.  These findings are similar to previous EEG, November 1, 2011 and 2012.
+
+
+
+

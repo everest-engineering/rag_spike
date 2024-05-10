@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  21 year old right handed woman with a 1-year history of epilepsy which began in her first pregnancy.  She experiences loss of consciousness with tongue-biting and postictal confusion.  Last seizure was 4 days ago.  She is currently 4 months' pregnant.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9-Hz alpha rhythm.  There is a small amount of background theta.  There is head rocking artifact in the sharply contoured background and many transitions in and out of sleep.  Hyperventilation produces an increase in background slowing.  Photic stimulation elicits bilateral driving.  The patient frequently transitions in and out of wakefulness and stage I sleep.  Deeper stages of sleep are not sustained.
+HR:    72 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+A mild degree of disorganization for a young adult of this age.
+CLINICAL CORRELATION:  No epileptiform features were noted.  Given the head rocking artifacts and other features noted, a follow-up study, capturing deeper stages of sleep, is suggested.  Please consider a 1-hour, somewhat sleep-deprived EEG with extended sleep and attention to the left posterior region.
+
+
+

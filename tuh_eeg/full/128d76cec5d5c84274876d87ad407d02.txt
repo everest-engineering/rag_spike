@@ -1,0 +1,31 @@
+History:	78 year old female found unresponsive with intermittant shaking. Patient was also
+hypothermic when found.
+PMH: left CVA, seizures, HTN
+Medications:	Ativan, Dilantin
+Sedation:	Lorazepam
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  No normal sleep architecture was present.
+There appears to be more delta activity over the left temporal region.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There is continuous diffuse excessive
+EMG activity that obsures large portions of the recording.
+Summary of Findings:
+Technically limited, large amount of EMG
+Diffuse slowing, polymorphic, moderate to severe
+Focal slowing, polymorphic, left temporal, severe
+Interpretation:
+This is a TECHNICALLY LIMITED EEG because of abundant EMG artifacts, so some findings/
+features could have been missed/ obscured. This is an Abnormal 24 minute EEG due to moderate-
+to-severe diffuse background slowing that appears to be more pronounced over the left temporal
+region.  These findings are etiologically nonspecific indicators of moderate-to-severe diffuse
+cerebral dysfunction. Focal left temporal slowing indicates focal cerebral dysfunction, possibly
+structural in etiology.  If clinically indicated, a repeat study may be of benefit.
+
+
+
+

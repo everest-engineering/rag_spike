@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 45 year old right handed male with history of epilepsy characterized by tonic-clonic seizures followed by incontinence. History of chronic CP and depression.
+MEDICATIONS: None listed in chart
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very drowsy and there is somewhat limited, maximal wakefulness. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In the awake state, the overall background is low voltage with generous beta but there is a discernable 11 Hz alpha rhythm better demonstrated on the right than the left. There is excess theta in the posterior regions noted in the background. In the transition to and from sleep, there is some rhythmic slowing more so from the left hemisphere than the right. Features of stage II sleep include vertex waves, spindles and posts but the posts are more sharply contoured on the right compared to the left. Photic stimulation elicits a driving response.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Modest background slowing.
+2. Excess theta.
+3. Occasional posteriorly predominant delta.
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function affecting gray and white matter. There are focal features which may be correlated with imaging. No epileptiform abnormalities were observed.
+
+
+

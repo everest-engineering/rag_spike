@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  37 year old left handed woman with epilepsy.  Seizures began 2 years ago with headaches, flashing lights, hallucinations, stiffening and jerking of the limbs, followed by eyes rolling back, tongue biting, and incontinence.  In addition, the patient has occasional minor seizures, characterized by twitching of arms, legs, eyes, or facial muscles.  The patient has multiple auras characterized by copper taste, smelling flowers/perfumes, or hearing a high pitched sound.
+MEDICATIONS:  Keppra, Prochlorperazine, Claritin, Albuterol,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9.5 Hz alpha rhythm reaching 80 mV.  Posterior slow waves of youth were noted.  Features of both drowsiness and hyperventilation include an increase in theta.  Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  To more completely characterize this patient's epilepsy, either a repeat EEG or comparison with this patient's previous comprehensive epilepsy work up may be valuable.
+
+
+

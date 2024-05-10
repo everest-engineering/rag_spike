@@ -1,0 +1,10 @@
+CLINICAL HISTORY:	54 year old with basal ganglia stroke and obtundation, history of cocaine abuse, and right hemiparesis.
+INTRODUCTION:   Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a well defined 9.5 Hz alpha rhythm. There is a small amount of theta and a subtle intrahemispheric asymmetry with slightly slower activity on the right compared to the left.
+HR:	72 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+1.  Very mild subtle slowing on the right.
+CLINICAL CORRELATION:  No epileptiform features were observed.
+
+
+

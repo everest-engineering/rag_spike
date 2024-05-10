@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is an 80-year-old gentleman with unilateral tremulousness of 1 hand without impairment of awareness.
+MEDICATIONS:  Clonidine and diabetes medicines.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  No clinical events were noted, but practice push buttons were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow with a 7-8 Hz alpha rhythm.  Intermittently, the posterior dominant rhythm is disrupted and this may be seen on the right or left.  When seen on the right, there is sometimes subtle, underlying delta.  Drowsiness is characterized by an increase in background slowing with occasional asymmetry with a bit more delta in the right hemisphere.  Sleep was disrupted.
+By the morning of the 28th, the patient is more awake with an alpha rhythm trending more towards 8 hertz and occasional focal slowing in the right posterior quadrant.
+Heart rate 80 bpm.
+Epileptiform Detections:  None.
+Seizures:  None.
+Clinical Events:  None.
+IMPRESSION:  This 24-hour video EEG monitoring was remarkable for:
+Generalized background slowing and mild disorganization.
+Shifting slowing.
+Occasional right focal slowing characterized by a bit more disruption of the alpha rhythm on the right.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Of note, the patient was found to have intermittent hypoglycemia.  During this section of the record, the patient did not have tremor with hypoglycemia, but given the medical issues and the patient's age, no effort to provoke the right motor symptoms were undertaken.
+
+
+

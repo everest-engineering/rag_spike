@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 41 year old left handed male with agenesis of the corpus callosum, multiple neurodevelopmental abnormalities with episodes with automatisms. Question seizures versus behavior.
+MEDICATIONS: Metoprolol, Simvastatin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 hertz alpha rhythm. The background EEG includes excess theta. It is somewhat disorganized for age. As the recording continues, the overall organization improves, but there is some subtle focal slowing in the left central parietal region. Vertex waves are appreciated, but they are maximum on the left. Hyperventilation produces an increase in slowing in the background. Photic stimulation questionably elicits asymmetric driving with an increase in beta activity on the right with faster frequency stimulation, but not on the left. After photic stimulation is concluded, there is again an asymmetry with shifting beta. right or left.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta in the background.
+2. Shifting slowing.
+3. Asymmetric vertex waves, sometimes maximum on the left than right hemisphere.
+CLINICAL CORRELATION: This patients neurodevelopmental abnormalities and the corpus callosum abnormalities may be associated with the lack of synchronicity and the asynchronous vertex or sleep morphologies. The left posterior quadrant focal slowing may be part of this
+patient's structural anomalies. No epileptiform features were seen.
+
+
+

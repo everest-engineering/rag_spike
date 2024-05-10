@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 56-year-old, right-handed male, with left-sided meningioma 2014, status post resection followed by radiation and then gamma knife therapy.  Persistent right-sided weakness, numbness, speech difficulty, COPD.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed, but hyperventilation was deferred.  Impedances were generally under 5 kilohms.  A breach rhythm and a craniotomy defect were noted.
+DESCRIPTION OF THE RECORD:  The background EEG is very low voltage.  On rare occasions, there is a scant 11 Hz alpha rhythm, present bilaterally, symmetric and reactive.  The overall record demonstrates generous beta.  A nearly continuous breach rhythm was identified with prominent accentuation of faster frequency activity in the left frontocentral region.  As the patient becomes drowsy, more well defined rhythmic theta is noted in the left frontocentral region.  Brief stage II sleep included spindles.
+Photic stimulation elicited a driving response.
+Heart rate:  72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+left frontal central rhythmic slowing noted primarily in drowsiness.
+CLINICAL CORRELATION:  The breach rhythm with accentuation of beta activity is an anticipated finding following craniotomy.  The rhythmic left frontal slowing is in the region of this patient's previous pathology.  No epileptiform features were identified.
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 50-year-old male with neurosyphillis 8 years ago, PTSD, depression, syncope, episodic dizziness, and thalamic infarct.
+MEDICATIONS:  Inpatient medicines are Percocet, oxycodone, Seroquel, Zoloft, Diovan, and others.
+INTRODUCTION:  Twenty-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were performed.  The patient had great difficulty cooperating with this study and was very drowsy.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm.  Drowsiness is characterized by rhythmic background slowing followed by rhythmic theta, POSTS, and then vertex waves.  Snore artifact is noted and is associated with K complexes.
+Hyperventilation was performed with poor effort as the patient was falling asleep.  Photic stimulation elicited scant driving and transitioned from wakefulness to stage II sleep.
+Heart rate 84 bpm.
+IMPRESSION:  EEG within normal limits for a very drowsy patient.
+CLINICAL CORRELATION:  No epileptiform features were noted.  This patient's medications may play a role in his excessive drowsiness.
+
+
+

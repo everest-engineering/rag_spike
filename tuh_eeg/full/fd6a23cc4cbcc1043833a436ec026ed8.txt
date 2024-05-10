@@ -1,0 +1,16 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 42-year-old woman with new-onset seizures on February 14, 2013 with tongue biting, jerking of the arms while they were stiffened and confused after the event as well as with a headache.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+HEART RATE:  60.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness, stage I and stage II sleep.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges.
+ABNORMAL DISCHARGES:
+Focal slow wave seen intermittently at T3 as well as T4 at frequency of 2-4 Hz and amplitude of 20-60 microvolts.
+There is a single sharp transient seen at T4 throughout the recording.
+Seizures none.
+IMPRESSION:  Abnormal EEG due to bilateral independent mid temporal focal slowing in addition to a sharp transient.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral mid temporal region, which is nonspecific with regard to etiology.  In addition, there is a single sharp transient in the right mid temporal region, its significance is unclear and it may reflect irritability in that region of the brain.  However, a prolonged recording capturing deeper stages of sleep for a longer period may help in clarifying the significance of this discharge.
+
+
+

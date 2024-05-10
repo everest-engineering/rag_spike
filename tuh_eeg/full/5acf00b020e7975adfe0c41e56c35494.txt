@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  55 year old woman with hypoglycemia and PEA code, October 5, code lasting greater than 20 minutes, now with septic shock, staph infection; neurologic evaluation.
+MEDICATIONS:  Vancomycin, Flagyl, Cefepime, Insulin, Ativan
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern of marked background slowing with a mixture of theta and delta, primarily delta.  There are frontally predominant or generalized periodic complexes.  There are also isolated right or left independent sharp waves including high-amplitude right centrotemporal or left frontotemporal. Clinical seizures are not noted and the epileptiform activity does not evolve.  Ativan is given during the EEG and does seem to ameliorate some of the epileptiform activity.  In addition, the EEG transitions more to a very slow pattern with blunted bifrontal periodic sharp waves which do not evolve.
+HR:    100 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Bilateral generalized periodic complexes which were Ativan responsive.
+Focal sharp waves in the right or left temporal region.
+Marked background slowing.
+Absence of significant reactivity to external stimuli.
+CLINICAL CORRELATION:  These are worrisome findings following anoxia or hypoglycemia.  Although no clinical seizures occurred, the activity was responsive to benzodiazepines.
+
+
+

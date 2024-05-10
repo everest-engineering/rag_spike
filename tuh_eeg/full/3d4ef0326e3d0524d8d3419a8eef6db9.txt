@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Schizophrenia paranoid with delusions.  Evaluate for seizures
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the Episcopal hospital EEG lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  Hyperventilation was not possible.  This EEG has technical considerations including significant muscle artifact.  Impedances were not confirmed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a pattern with diffuse background theta.  There are handful of bursts of shifting slowing.  Photic stimulation was attempted and produced no significant driving.
+Heart rate 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Excess theta.
+Slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:  These findings support a diffuse disturbance of cerebral function.  CNS medications may play a role in this pattern.  No epileptiform features were noted.  If epilepsy is an important consideration, please call the lab at (215) 707-4523, so that we can arrange a 1-hour outpatient EEG
+
+
+

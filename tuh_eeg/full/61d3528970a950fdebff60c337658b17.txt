@@ -1,0 +1,20 @@
+History:	37 year old man with severe head trauma and subsequent hypoxic brain injury.
+Medications:	KEPPRA, FENTANYL DRIP
+Sedation:
+EEG Type: Technique:
+Routine, awake & drowsy, portable
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description:
+There is no PDR or AP gradient.  Voltages are diffusely very low, especially over the left.  There is right-to­ left intrahemispheric asymmetry with more attenuated background over the left.  Frequent broadly based frontally predominant sharply contoured waveforms with triphasic morphology are captured over the right. On the left, blunted frontal delta activity is seen concomitantly to those waveforms.   Additional, diffuse slow delta activity and periods of discontinuity are noted.
+Hyperventilation and photic stimulation are not performed. There is no clear change in the background activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, severe Attenuation, bilateral (L>R) diffuse
+Focal slowing, polymorphic, continuous, severe, left
+Other, frequent waveforms on the right that could be epileptiform No reactivity
+Interpretation:
+This is an abnormal comatose 22-minute portable EEG due to (1) severe diffuse background slowing and attenuation that are more pronounced over the right and (2) frequent frontally predominant sharply contoured triphasic-like waveforms over the right. These findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction. Attenuation over the left could be secondary to the fluid collection between a skull and a brain (such as SDH, empyema) or between a skull and electrodes (such as scalp edema) - please correlate clinically.  Right frontal waveforms are of unclear clinical significance - continuous EEG could be of benefit to better delineate their etiology. No clear clinical or electrographic seizures are present.
+
+
+
+
+

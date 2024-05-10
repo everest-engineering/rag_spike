@@ -1,0 +1,25 @@
+History:	75 year old man presents with episodes concerning for seizures.
+Medications:	Keppra, Cyanocobalamin, Pravastatin, Trazodone, Prograf
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+The posterior dominant rhythm reaches 8 Hz theta activity that attenuates with eyes open.  There is
+an anterior-to-posterior frequency-amplitude gradient with faster frequencies at lower amplitudes
+anteriorly.  During drowsiness, the theta rhythm rapidly attenuates, and diffuse delta> theta activity
+Intermittent polymorphic theta and delta activity is present in the right posterior quadrant.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates regular heart rate.
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, right posterior, mild-to-moderate
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 26-minute EEG due to mild diffuse slowing and focal
+mild-to-moderate right posterior quadrant slowing. Diffuse slowing is indicative of mild diffuse
+cerebral dysfunction, which is etiologically nonspecific.  Intermittent focal slowing is indicative of
+focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.  The
+lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+

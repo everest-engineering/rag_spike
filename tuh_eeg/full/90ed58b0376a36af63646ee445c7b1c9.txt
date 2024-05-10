@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 70-year-old woman with Pott's disease, paraplegia found unresponsive for 28 minutes with blinking but verbally unresponsive.
+MEDICATIONS:  Keppra, insulin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively drowsy with brief arousals.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a theta pattern.  The primary frequencies in the background are theta with a 7 Hz posterior dominant rhythm with stimulation.  Shifting slowing was noted as the patient became increasingly drowsy.
+Heart rate 84 bpm.
+IMPRESSION:  This is an abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The background slowing is a nonspecific pattern supporting a diffuse disturbance of cerebral function, which may be due to many different causes.
+
+
+

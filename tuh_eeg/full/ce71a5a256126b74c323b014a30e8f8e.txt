@@ -1,0 +1,22 @@
+History:	77yo M s/p assault with LOC
+Medications:	insulin, ASA, enoxaparin, metoprolol, clindamycin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 8Hz posterior dominant rhythm.  Symmetric 5-
+15uV, 18-25Hz activity is present, maximal over bilateral frontal regions.  There is excess theta (6-
+7Hz) activity seen in wakefulness.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz
+slow waves appear diffusely, followed by symmetric vertex waves and positive occipital sharp
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR 72  Paucity of eye blink.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL EEG, awake and drowsy due to excess theta in wakefulness and slowing of
+the posterior dominant rhythm. These findings are etiologically nonspecific indicators of mild
+diffuse cerebral dysfunction.  No epileptiform discharges were present, but stage 2 sleep was not
+recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional
+
+

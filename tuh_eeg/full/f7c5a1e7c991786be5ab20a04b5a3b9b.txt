@@ -1,0 +1,39 @@
+AGE: 56 y.o.
+SEX: male
+START DATE OF STUDY: 11/27/2015 at 10:22AM
+END DATE OF STUDY: 11/28/2015 at 11:00AM
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: 24 hours, video LTM EEG #: LTM 15-335
+HISTORY:
+56 y.o. male with a history of left basal ganglia hemorrhage and change in mental status referred for EEG for evaluation of paroxysmal events.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+pantoprazole (PROTONIX) 40 mg tablet, 1 tablet daily
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG.
+Events were marked by the clinical staff. All clinical events as well as extensive random background samples including wakefulness, drowsiness, and sleep were reviewed.
+DAY 1 (11/27/2015, 10:22AM - 11/28/2015, 06:00) BACKGROUND:
+. The waking background is continuous, asymmetric, with subtle
+amplitude suppression over the left hemisphere.	There were persistent asymmetries in amplitude and frequency. Overall there is diffuse background slowing seen (theta and delta predominantly) . The frontal delta component often exhibits a triphasic morphology.
+Posterior dominant rhythm was not present.
+The background is non-reactive, and highly variable . Sleep was not captured.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS: At 12:18PM, the patient exhibited leftward eye deviation. There was no change in background cerebral activity. No other clinical or electrographic events reported or detected
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+Diffuse slowing, and no clinical or electrographic seizures seen.
+A single episode of leftward eye deviation was not associated with a change in cerebral activity.
+DAY 2 (11/28/2015, 06:00 - 11/28/2015, 11:00)
+BACKGROUND : No change GENERALIZED SLOWING : No change
+FOCAL SLOWING: No change
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS : No clinical or electrographic events reported or detected EKG: A single EKG lead captured normal sinus rhythm.
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+Diffuse slowing, and no clinical or electrographic seizures seen.
+
+
+

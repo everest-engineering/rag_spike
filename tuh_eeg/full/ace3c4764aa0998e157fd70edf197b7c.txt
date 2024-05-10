@@ -1,0 +1,33 @@
+History:	44 year old woman who presents with recurrent seizures.
+Medications:	Propofol and Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~8 hours from 5/3/2015 till 5/4/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  The background consists primarily of diffuse spindle-frequency
+moderate amplitude waveforms admixed with bursts of polymorphic theta-delta activity and
+occasional periods of discontinuity.  By the end of the recording, during periods of arousals,
+additional non-evolving moderate amplitude monomorphic diffuse frontally predominant sharply
+contoured 6-7 Hz theta activity appears.
+No electrographic seizures are captured.
+Summary of Findings:
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate, mostly sedated record
+Interpretation:
+This is an ABNORMAL continuous 8hour video EEG due to moderate diffuse slowing. This finding
+is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Based on
+the patterns seen, this degree of the background slowing is at least partially related to the
+medication effect.  No clinical or electrographic seizures are present.  These findings were
+
+
+
+
+

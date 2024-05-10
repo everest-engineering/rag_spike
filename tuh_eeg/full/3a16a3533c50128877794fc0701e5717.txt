@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 50-year-old male with traumatic brain injury  right frontal, left occipital, and subsequent left posterior infarct; renal failure and cirrhosis, admitted with repetitive seizures and worsening right-sided weakness with obtundation.
+MEDICATIONS:  Ativan, phenytoin, many others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the emergency room using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically satisfactory record in an obtunded patient.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It begins with a fair amount of muscle in the background, but as the muscle drops out, more continuous pattern of repetitive ictal activity with initially rhythmic delta and then a pattern of repetitive seizures was noted.  The ictal pattern includes sharp waves, periodic sharp waves, and waxing and waning, mixed theta delta with bursts maximum in the left central, parietal, and posterotemporal region.  Using an average reference, this discharge is maximum at T5.  Discharges wax and wane.  Most are on the order of 12 seconds, but others are at 30 to 58 seconds in duration.  Tactile stimulation of the patient produces an electric decremental response and seems to stop the epileptiform activity, which then resumes after 2-3 seconds.
+Heart rate: 54 bpm.
+IMPRESSION:  Abnormal EEG due to
+Electrographic status epilepticus identified in an obtunded patient with worsening right-sided weakness.
+CLINICAL CORRELATION:  This EEG is supportive of a localization related form of status epilepticus or late status epilepticus pattern.  During the EEG, the patient was receiving a phenytoin infusion.  Long-term monitoring for this patient with status epilepticus was initiated after the study.
+
+
+

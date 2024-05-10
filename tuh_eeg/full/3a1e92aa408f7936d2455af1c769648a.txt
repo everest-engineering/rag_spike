@@ -1,0 +1,48 @@
+History:	46 year old woman with a history of reported seizures.
+Medications:	Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~ 18 hours from 03/12/2015 till 03/13/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+The background consists of low amplitude 10-11 Hz alpha activity posteriorly that attenuates with
+eye opening.  Fast alpha variant is seen most commonly posteriorly.  Symmetric 5-15uV, 18-25Hz
+activity is present, maximal over bilateral frontal regions.  Diffuse excess beta activity is captured.
+Sleep is fragmented.  Normal sleep architecture consisting of POSTS, vertex waves, symmetrical
+sleep spindles and REM sleep is observed.
+Nearly continuous polymorphic theta activity is present in the right posterior quadrant.  Additional,
+low amplitude fast activity is observed in the right posterior quadrant.  Several events are captured.
+None have an associated abnormal ictal correlate.  Event #1 occurs around 4:26 pm. Patient
+pushes the event button.  She is on her left side under the covers.  She brings her hands towards
+her face.  Electrographically, diffuse  ~4 Hz rhythmic EMG artifact is captured.  It is not clear from
+the video what generates that artifact.  She does not respond to the nurse when addressed.  The
+nurse uncovers her and turns her on her back.  Patient's right arm  is tonically flexed.  Her left arm is
+flexed as well but no tonic contraction is noted.  Patient exhales loudly.  She follows no
+commands.  EEG demonstrates her awake baseline.  Low amplitude right arm shaking is noted ~1
+She coughs and drools.  She turns back on her left side.  She continues not to respond to questions.
+Patient speaks ~ 3 minutes after the episode onset.  Event #2 occurs at ~ 11:40 PM and is similar semiologically to the event #1.  It too has no abnormal ictal correlate.  After ~ 10 PM, there is
+continuous O1 lead artifact.
+Summary of Findings:
+Event, two, no ictal correlate
+Beta, excessive
+Focal slowing, polymorphic, nearly continuous, mild, right posterior
+Breach artifact, right posterior
+
+Interpretation:minute into the event.
+This is an ABNORMAL continuous video ~18-hour EEG due to mild focal right posterior quadrant
+slowing. This finding is indicative of a focal structural lesion in this region.  Breach artifact is
+secondary to the skull defect.  Excessive beta activity could be secondary to the medication effect,
+such as benzodiazepines or barbiturates.  Two events of right arm shaking, stiffening and
+unresponsiveness have no abnormal ictal EEG correlate.
+
+
+
+
+

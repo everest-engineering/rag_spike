@@ -1,0 +1,11 @@
+LOCATION:  Emergency room.
+CLINICAL HISTORY:  A 36-year-old male transferred from Episcopal Hospital after seizures characterized by generalized shaking lasting minutes with incontinence.  The patient had missed doses of medicines.
+MEDICATIONS:  Keppra, Zofran, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm reaching 8.7 Hz.  There is intermittent, arrhythmia theta noted in the background.  Although there is some head rocking activity, there is a suggestion of some slowing in the posterior region.  Vertex waves are observed as the patient transitions into sleep and then the patient  spontaneously arouses and is talking.
+Heart rate 66 BPM.
+IMPRESSION:  Abnormal EEG due to:  Generalized background slowing.
+CLINICAL CORRELATION:  Given the movement artifact described above, no definitive focal features can be defined.  There were no epileptiform features noted.
+
+
+

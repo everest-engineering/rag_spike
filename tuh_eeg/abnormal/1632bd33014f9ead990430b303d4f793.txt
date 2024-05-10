@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 37-year-old woman with epilepsy.  The patient had reduced her Keppra during pregnancy and subsequently had a break through seizure, which she describes as 30 minutes of staring without loss of consciousness.  Previous EEG results N/A.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz 40 mV posterior dominant rhythm and a small amount of low voltage, frontal central beta.
+Drowsiness is characterized by an increase in beta, attenuation of alpha, and some hypersynchronous volume.
+Photic stimulation elicited bilateral driving.
+Heart rate:  96 BPM.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

@@ -1,0 +1,39 @@
+History:	54 year old woman who presents status post cardiac arrest.
+Medications:	Versed- being weaned, keppra, Dilantin, Phenobarbital
+Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 4/22/2015 till 4/23/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is is no PDR or AP gradient.  Patient appears to go through periods of arousals and
+quiescence.  During periods of arousals, especially by the end of the recording, the background
+consists of a mixture of frequencies (primarily theta).  Periods of quiescence are characterized by
+background discontinuity and bursts consisting primarily of alpha/ beta activity with additional theta
+activity in the second half of the recording.  No normal sleep architecture is present.
+No electrographic seizures are captured.  Occasional left P3/O1 sharp waves and bisynchronous
+parietooccipital sharp waves are captured.  Their frequency increases as the recording progresses.
+Summary of Findings:
+Other, reactive background
+Diffuse slowing, polymorphic, moderate to severe
+Sharp waves, parietooccipital, left and bisynchronous
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous video 24-hour EEG due to moderate-to-severe diffuse
+background slowing and occasional parietooccipital epileptiform discharges that increase in
+frequency as the recording progresses.  Diffuse slowing indicates diffuse cerebral dysfunction that in
+this case at least partially related to the medication effect.  Degree of diffuse slowing is overall less
+when compared to the prior 24-hour recording epoch - this corresponds to a gradual  decrease in
+doses of versed used.  There is focal epileptogenic focus over the bilateral parietocentral regions
+(primarily left).  There is clear background reactivity.  These findings were conveyed to the primary team
+
+
+
+
+

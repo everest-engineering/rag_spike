@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 31-year-old woman with new onset seizures since June.  Two seizures out of sleep, tonic-clonic, and then a second 2 days later following video game use.  The patient described as staring, answering her husband, but lips turning purple.  History of fibromyalgia.
+MEDICATIONS:  Neurontin.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is a technically acceptable awake and drowsy record with impedances generally below 5 kilohms with the exception of the T1/T2 electrodes.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm.  There also appears to be an 8.5 hertz mu rhythm, but testing does not performed to confirm this.  The overall amplitude of the background is high with a posterior dominant rhythm of 77 microvolts.  There is a small amount of excess theta noted in the background.  Stage 2 sleep produces K complexes and spindles.  The patient seems to have some muscle artifact persisting into stage 2 sleep.
+Hyperventilation produces paroxysmal higher amplitude rhythmic theta delta.  Photic stimulation elicits a driving response.  The patient seems to be falling asleep during photic stimulation.
+Heart rate:  96 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Excess theta noted in wakefulness.
+What may be an excessively drowsy subject.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  There is a small amount of background theta, which may be related to medications (not listed or other factors).  The high amplitude pattern described above is an unremarkable finding in a young adult of this age.  Mu is a normal finding.  If additional information is needed to more completely characterize this individual's epilepsy, a more prolonged study in the lab may be of value.
+
+
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 51 year old gentleman admitted with a diagnosis of status epilepticus on 11/09/2011.
+MEDICATIONS:  Depakote and Keppra.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is initially intubated.  Afterwards, he is wearing a face mask.  The patient is obtunded in the first section of the record and progressively more awake over time.
+DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrated a low voltage beta pattern particularly a frontal beta pattern and some shifting posterior in delta.  There is some head rocking artifacts and sweat.
+Over the course of the long term monitor, stimulation of the patient starts to produce an arousal response.  Later on, eye opening and eye closure is noted when someone is at the bedside with the patient and by the end of the EEG, he is intermittently awake with low voltage beta pattern.  At other points, there is a somewhat slow background in wakefulness.
+HR:   120 bpm max
+IMPRESSION:  This long term video EEG monitoring is remarkable for:
+Initially slow pattern with frontal beta.
+The absence of epileptiform activity.
+The eventual appearance of a relatively normal awake pattern.
+CLINICAL CORRELATION:  No epileptiform features were identified.  These findings should be placed into the appropriate clinical context.
+
+
+

@@ -1,0 +1,29 @@
+History:	64 year old man with a history of stroke and seizures.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 9.5-10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Subtle polymorphic theta and delta activity is noted over the right anterior temporal region during
+drowsiness.  A single right anterior temporal sharp waves with aftergoing slow wave is captured
+during drowsiness.  Maximal scalp negativity occurs over Fp2/F8/T4 electrodes.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.
+Summary of Findings:
+Focal slowing, polymorphic, rare, mild, right temporal, anterior
+Sharp waves, one, right temporal, anterior
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute EEG due to occasional right anterior temporal
+slowing seen during drowsiness and a single right anterior temporal epileptiform discharge. These
+findings are indicative of a potentially epileptogenic focal structural lesion in the right anterior
+temporal region.
+
+
+
+

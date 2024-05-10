@@ -1,0 +1,19 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+
+28 YR WOMAN FELL GOING UP STEPS NOW WITH SUBARACHNOID HEMORRHAGE WITH SLURRED SPEECH AND HA. PMHX., BELLS PALSY 3X ANEMIA, ASTHMA, SICKLE CELL TRAIT. NO H/O SZ.  PT IS ALSO 32 WKS. PREG. 56 CM HEAD
+FENTANYL 25 MG. KEPPRA, MORPHINE
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep,the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear. Sleep latency was short.
+No focal slowing is present.  No epileptiform discharges are present. Hyperventilation and photic stimulation are not performed. HR was 108
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep. The short sleep latency may be suggestive of a sleep disturbance and a sleep evaluation may be beneficial if clinically indicated.
+
+
+
+
+

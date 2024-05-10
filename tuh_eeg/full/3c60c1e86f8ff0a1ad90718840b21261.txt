@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 46 year old right handed woman with possible seizure
+characterized by episodes with loss of balance, loss of speech, slurred speech, memory impairment, but no incontinence. The last episode was April 30, 2011.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 7 Hz posterior dominant rhythm. With testing, the posterior dominant rhythm remains somewhat slow at 6-7 Hz. Hyperventilation is performed early on in the record. It produces some head rocking, but a suggestion of right posterior slowing. Lambda waves are noted in wakefulness. Features of stage 1 sleep include an increase in beta, POSTS, and then spindles in
+stage 2 sleep. Photic stimulation is performed as the patient is drifting in and out of stage 2 sleep. There is no significant driving response.
+HR: 90bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing with a slow alpha rhythm.
+2. Question of a focal hyperventilation response with a subtle of focal slowing on the right.
+CLINICAL CORRELATION: The head rocking artifact of hyperventilation makes the focal features a bit more difficult to interpret. The alpha rhythm is slow in this individual. Medications or a mild diffuse disturbance of cerebral function can contribute to slowing of the alpha rhythm.
+
+
+
+

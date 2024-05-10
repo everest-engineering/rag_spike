@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  65 year old male with diabetes, hypertension, dementia, and left-sided weakness, now with confusion and myoclonic jerks.
+MEDICATIONS:  Ceftriaxone, Insulin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is noted to be quite tremulous and has persistent mouth movements.  The patient is tremulous throughout the EEG.  He is confused.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a lower voltage, diffusely slow pattern with a mixture of various theta frequency activities.  The patient has 5 Hz tremor artifact.  On occasion, there is some faster 7 Hz alpha activity.  In some sections of the record, there is even an 8 Hz alpha rhythm. Photic stimulation does appear to elicit a driving response, although it is difficult to see the EEG underneath the tremor artifact.  There does seem to be a driving response on the left.  The right is a bit more obscured.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess theta.
+CLINICAL CORRELATION:  There are sections of the record with little artifact and a more normal-appearing EEG.  While the current pattern suggests an underlying metabolic encephalopathy, a follow-up EEG when his involuntary movements stop is
+suggested if the overall pattern may be more normal than it otherwise appears due to the artifacts described above.
+
+
+

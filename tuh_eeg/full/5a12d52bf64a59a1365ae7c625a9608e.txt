@@ -1,0 +1,30 @@
+History:	53 year old woman with new onset episodes of right arm shaking.
+Medications:	Lorazepam, Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+The background is generally attenuated but there is a low amplitude 8-9Hz posterior dominant
+rhythm.  Stage II and III sleep were seen.
+On several occasions e.g., 8:38PM, 8:45PM, 8:53PM, there is a rhythmic and rapid buildup of
+spikes over the left hemisphere, maximal at F3-C3, spreading to the entire left hemisphere,
+culminating in an electrographic seizure lasting 50-60 seconds.  During each seizure, the patient is
+seen to look around aimlessly and there is subtle shaking of the right hand.  There are intermittent
+spikes seen over the left frontotemporal region.
+Summary of Findings:
+Seizure, occasional, left frontotemporal
+Spikes, intermittent, left frontotemporal
+Interpretation:
+This is an ABNORMAL 24 hour video EEG due to recurrent seizures emanating from the left fronto-
+temporal region. The seizure suggest a highly irritative focus, likely associated with a structural brain
+lesion in the left frontotemporal region.  These findings were conveyed to the primary team.
+

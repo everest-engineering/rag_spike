@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 38 year old right handed woman, with epilepsy, limited historian.
+MEDICATIONS: Tegretol, Depakote, Geodon, Hydroxyzine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel EKG. Hyperventilation and photic
+stimulation are completed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness there is a well defined 10 Hz, 40
+microvolt, posterior dominant rhythm with a modest amount of low voltage frontal central
+beta. Hyperventilation is performed early in the record increasing the amplitude off the
+background, as well as increasing the beta and theta. Features of drowsiness include
+anterior spread of the alpha rhythm. Photic stimulation elicits a driving response.
+HR: 78 bpm
+IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No epileptiform features were identified. A normal EEG
+does not exclude a diagnosis of epilepsy. If needed, a follow up study either capturing
+one of her spells or capturing additional sleep may be helpful to characterize
+epileptiform activity.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 28-year-old male with childhood epilepsy seizure-free between ages 9 and 25, breakthrough seizure after alcohol ingestion.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel  EKG.  Hyperventilation and photic stimulation were performed.  This is a technically satisfactory EEG, although impedance in the T1-T2 electrodes are just above 5 kilohms.  There are no previous EEGs available for comparison.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Scant theta is noted in the background.  The patient is very drowsy with transitions in and out of stage 1 sleep with slow rolling eye movements.
+In drowsiness, there are a handful of bursts of shifting slowing as well as a synchronous eye artifact.
+Hyperventilation produces a small increase in theta.  Photic stimulation was performed while the patient was drifting off to sleep, but did elicit a driving response.
+Heart rate 66 BPM.
+IMPRESSION:  This EEG is at the limits of normal for an adult of this age.
+CLINICAL CORRELATION: No sharp waves or spikes were noted in this record.  This patient demonstrates a great deal of eye artifact, but no definitive epileptiform features.  This seems to be a very drowsy individual.  To more completely characterize this patient's epilepsy, a followup study capturing more extensive sleep may be obtained.  The eye artifact described above is not a pathological finding.
+
+
+

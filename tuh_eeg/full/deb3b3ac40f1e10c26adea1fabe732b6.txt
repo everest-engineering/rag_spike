@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  82 year old right handed man with head trauma 20 years ago and perhaps memory impairment.  Seizure 1 month ago with loss of consciousness, twitching and vomiting.  Two year history of seizures.
+
+MEDICATIONS:  Unknown.
+
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  This was an awake and drowsy record.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is reasonably well organized with a 7.5 Hz alpha rhythm.  In relaxed wakefulness, there are occasional bursts of shifting slowing with a mixture of theta delta.  Features of drowsiness include a decrease in eye movement and an increase in rhythmicity of the background. In drowsiness, there are a handful of simple, right temporal sharp waves noted.  In addition, there is a single, higher amplitude right temporal sharp wave observed in relaxed wakefulness. The technologist performed testing to make sure that the patient is maximally alert.  The patient is alert but is unable to provide correct answers. Photic stimulation elicits brief bilateral driving.
+
+HR:    60 bpm
+
+IMPRESSION:  Mildly abnormal EEG due to:
+1. Slowing of the alpha rhythm.
+2. Shifting slowing sometimes a bit more prominent on the right.
+3. Rare right temporal sharp wave.
+
+CLINICAL CORRELATION:  The majority of the right temporal sharp waves are simple wave forms as may be seen in a patient with memory disorders.  There is a single, higher amplitude sharp wave however which is more typical of those seen in localization related epilepsy.

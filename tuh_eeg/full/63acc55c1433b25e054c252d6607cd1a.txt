@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 70-year-old woman found on the floor on April 9, drowsy, not following commands, agitated,  intubated with a low grade fever.
+MEDICATIONS:  Coumadin, midazolam, fentanyl, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively somnolent, but intermittently arouses and bites the endotracheal tube.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow, poorly organized and lacks some of the typical morphologies of an awake individual.  The patient has intermittent arousals with the suggestion of a 7-8 Hz alpha rhythm.  Shifting asymmetries were noted.  In addition, intermittent attenuations were noted.  Stimulation of the patient clearly produces an arousal response.
+Heart rate 90 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Shifting slowing.
+Intermittent attenuations.
+CLINICAL CORRELATION:  The findings described above are nonspecific, but are most supportive of a toxic or metabolic encephalopathy or other diffuse disturbance of cerebral function.  If epilepsy is an important consideration a repeat tracing when the patient is extubated may be considered.
+
+
+

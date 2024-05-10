@@ -1,0 +1,17 @@
+History:	42 year old man who presents with altered mental status in the ICU status post bilateral nephrectomies followed by PEA code x2 and subsequent acute hepatic injury.
+Medications:	no AEDs, Dilaudid
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, awake
+Description:
+The posterior dominant rhythm consists of moderate amplitude polymorphic 9-10 Hz alpha activity.  PDR is better formed over the left. There is no clear AP gradient.  The background consists of a mixture of polymorphic theta and delta activity. Patient remains awake throughout the recording.
+Additional subtle polymorphic delta activity is noted over the right posterior quadrant. Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, intermittent, moderate, right posterior No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake-only portable 22-minute EEG due to moderate diffuse slowing and intermittent focal moderate right posterior quadrant focal slowing. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific. Intermittent focal slowing is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 52-year-old right-handed gentleman with history of epilepsy, who presents for multiple seizures.
+PAST MEDICAL HISTORY:  Significant for depression and HIV infection.
+MEDICATIONS:  Percocet, Vimpat, midazolam, divalproex, labetalol, and HIV medications.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 9.5 to 10 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is presence of low-amplitude diffuse beta activity, which is distributed symmetrically.  There are occasional bursts of left anterior and mid temporal slowing at F7/T3 in wakefulness consisting of 3 Hz delta frequency.  There are no epileptiform activities noted during this recording.  Hyperventilation results in slowing of the background, most pronounced on the left side.  Photic stimulation was performed at multiple flash frequencies and resulted in a symmetric driving response.  Heart rate was 70 beats per minute with occasional PVC.
+IMPRESSION:  This is an abnormal EEG due to left temporal slowing during wakefulness.
+CLINICAL CORRELATION:  The above findings are suggestive of a structural abnormality in the left hemisphere or left temporal dysfunction.  The generalized beta activity could be due to medication effect including benzodiazepine, barbiturates, or could be due to anxiety or hyperthyroidism.  Clinical correlation is recommended.  No epileptiform features are observed.  If epilepsy is an important consideration, a repeat tracing capturing an event may be appropriate.
+
+
+

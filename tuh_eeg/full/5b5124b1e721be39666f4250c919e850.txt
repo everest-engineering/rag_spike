@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 51 year old male with left carotid stenosis.
+MEDICATIONS: Propofol, Fentanyl, Versed, Lidocaine,
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG: This was an 3.5 hour EEG.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is awake in the operating room. The induction of anesthesia at 8:34 a.m. produces a pattern with anterior alpha and theta frequency activity and posterior delta as well as some head rocking artifact. The anesthetic record is essentially symmetric.
+Internal carotid is clamped at 10:08. No focal features are noted at that time. The recording is continued until patency is confirmed by Doppler. No significant focal features are noted, and the EEG is continuous.
+HR: 78 bpm
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this carotid endarterectomy did not identify significant focal features.
+
+
+

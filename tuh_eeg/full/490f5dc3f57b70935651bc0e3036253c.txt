@@ -1,0 +1,32 @@
+History:	66 year old woman with a long-standing history of seizures.
+Medications:	"seizure" medications but patient cannot recall them.
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The background consists of moderate amplitude somewhat monomorphic 7.5-8 Hz theta activity.
+The AP gradient is very weak.  During brief drowsiness, there is attenuation of the waveforms
+Subtle occasional polymorphic delta activity is observed over the left anterior temporal region,
+seen most during drowsiness.  A single high amplitude left anterior temporal sharp wave with
+aftergoing slow wave is captured.  Maximal scalp negativity occurs over F7/T1 electrode.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  A single EKG lead demonstrates heart rate <60 bpm.
+Summary of Findings:
+Disorganization, mild
+Focal slowing, polymorphic, occasional, moderate, left temporal, anterior
+Sharp waves, one, left temporal, anterior, F7/T1 electrode maximally
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy 22-minute EEG due to (1) mild diffuse slowing and
+disorganization; (2) occasional moderate left anterior temporal focal slowing and (3) a single left
+anterior temporal epileptiform discharge. Diffuse slowing and disorganization are etiologically
+nonspecific indicators of mild diffuse cerebral dysfunction.  Left anterior temporal focal slowing and
+a single left anterior temporal epileptiform discharge are suggestive of a potentially epileptogenic
+focal structural cerebral abnormality over the left anterior temporal region.  A single EKG lead
+demonstrates heart rate <60 bpm.
+
+
+
+
+

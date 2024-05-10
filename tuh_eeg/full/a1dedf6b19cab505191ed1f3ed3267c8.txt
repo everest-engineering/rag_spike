@@ -1,0 +1,38 @@
+History:	48 yo M w/ hx epilepsy since age 12, w/ SPS and CPS characterized by right arm
+shaking and variable cognitive impairment. S/p right temporal AVM resection in
+2007 incidentally found during workup for left ICA dissection. Last GTC sz few years
+ago. Admitted to EMU.
+Medications:	Levetiracetam, Valproate, Eslicarbazepine
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a low voltage pattern with a poorly formed posterior
+dominant rhythm of 9Hz.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+During drowsiness, 5-7Hz slow waves appear diffusely, followed by vertex waves.  During stage 2
+sleep, the record slows further to moderate voltage 2-4Hz activity, and sleep spindles and K
+complexes appear, which are higher amplitude on the right over the breach region.
+Continuous rhythmic delta activity is present in the right temporal region during wakefulness,
+increasing during drowsiness.  Background activity shows higher amplitude and accentuation of
+faster frequencies over the right hemisphere, consistent with a breach rhythm.  Frequent brief 1-2
+second bursts of frontal and central-maximal spike-and-wave discharges occur with a regular
+repetition rate of 3Hz.  Occasionally the discharges appear to have a left or right predominance.
+They are also followed by polyspikes and spikes and wave discharges with varying fields of
+maximum negativity at times more anterior and sometimes even posteriorly.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces a strong photic driving
+Summary of Findings:
+Spike-and-wave complexes, 3Hz, frequent generalized, Fronto central with an asymmetric onset.
+Focal slowing, rhythmic, continuous, right temporal, mid and posterior temporal
+Breach artifact
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of fronto central spike-and-wave and
+polyspike-and-wave discharges, which are potentially epileptogenic. These discharges could be
+seen in an idiopathic generalized epilepsy. Alternatively the slight asymmetry in onset could be
+suggestive of a focal onset  with rapid bilateral secondary generalization. In addition there is
+continuous focal slowing in the right temporal region and an associated breach.  This finding is
+consistent with the known lesion and surgery.  No clinical or electrographic seizures are present.
+response.  HR is 78.
+
+

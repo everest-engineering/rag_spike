@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This patient is a 63-year-old gentleman with Down syndrome, childhood epilepsy, found unresponsive in January, staring off into space.  Recurrent seizures.  Most recent seizure 2 to 3 weeks ago.
+
+MEDICATIONS:  Depakote.  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation are performed.  This was an awake and drowsy EEG in a patient who seemed to be a bit somnolent.  He was breathing with his mouth open, and seemed to be sitting forward in the chair, intermittently drifting off to sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, despite muscle movement artifact, the background EEG is diffusely slow, with at best a 4 Hz theta pattern.  As he drifts off to sleep there is more arrhythmic delta activity and bursts of frontally predominant delta.
+Although there is both EKG and eye-blink artifact, there appears to be at least 2 left frontal small discrete sharp waves.
+Photic stimulation did not significantly activate the record.
+Heart rate was 96 beats per minute.
+IMPRESSION:  This is a technically challenging, but abnormal EEG due to:
+Generalized background slowing.
+Poor organization.
+A question of a left frontal discrete sharp wave.
+CLINICAL CORRELATION:  In comparison to an EEG done in January of 2012, the background EEG is slower at this time.  In addition, the patient appears to be uncomfortable and perhaps even a bit tachypneic during the EEG.  The focal frontocentral discrete sharp waves are not uncommon in this clinical scenario.
+
+
+

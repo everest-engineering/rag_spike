@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 26-year-old female with history of renal calculus status post cystoscopy and seizures.  Her seizure was 4 years ago, last seizure was 3 days ago.  Per patient, she has 2-3 seizures per month described as upper extremity shaking with unawareness.
+MEDICATIONS:  Xanax, Percocet.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm was 10-11 Hz in the occipital region, which attenuates with eye opening.  There is diffuse low amplitude beta activity, which is distributed symmetrically.  Stage I sleep is characterized by disappearance of the alpha rhythm slowing of the background, and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  A stage II was characterized by the presence of K complexes and sleep spindles.  Hyperventilation results in symmetric slowing of the background.  Photic stimulation was performed at multiple frequencies and results in a symmetric driving response.  Heart rate was 70 beats per minutes and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage II sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, the repeat EEG or a 24-hour ambulatory EEG may be helpful.  The generalized beta activity could be due to medication effect including benzodiazepine, barbiturates, or could be due to anxiety or hyperthyroidism.  Clinical correlation is recommended.
+
+
+

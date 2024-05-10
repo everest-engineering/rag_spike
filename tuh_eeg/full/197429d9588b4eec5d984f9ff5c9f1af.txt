@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  She is an 85-year-old female with a history of a right frontal lobe mass lesion.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  As the record opens, there is a symmetric, 8 to 9 Hz, posterior dominant rhythm identified which is reactive to eye opening.  There is a small amount of frontal central beta activity identified as well.  There is evidence of focal slowing over the right hemisphere which is maximal in the right frontal central and central parietal regions.  There is also noted a breach rhythm that is maximal over T4-C4 and C4-CZ.  This is characterized by higher amplitude theta activity and greater amounts of low voltage fast activity.  Drowsiness is characterized by attenuation and fragmentation of the existing posterior dominant rhythm and brief stage 2 sleep is heralded by vertex waves.
+Activation procedures were not performed in this patient.  There were no spikes or sharp waves.  There were no electrographic seizures.  There were no clinical events noted by the patient.
+IMPRESSION:  This is an abnormal EEG due to the presence of nearly continuous focal slowing in the right hemisphere and the presence of a right central breech rhythm.
+CLINICAL CORRELATION:  The presence of focal slowing may be seen in underlying structural brain lesion.  A breach rhythm suggests compromising integrity of the calvarium on the right side.
+
+
+

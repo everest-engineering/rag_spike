@@ -1,0 +1,24 @@
+
+CLINICAL HISTORY: 53 year old woman with morbid obesity, hypertension, diabetes,
+heart failure, COPD, obstructive sleep apnea found down with acute renal failure.
+MEDICATIONS: Risperidone, Metoprolol, Cardizem, Zocor, Aspirin, Divalproex,
+Heparin, Synthroid, Pantoprazole.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20
+system of electrode placement with 1 channel of EKG. The patient is intubated and
+poorly responsive.
+DESCRIPTION OF THE RECORD: When the patient is resting quietly, the overall
+pattern includes a theta frequency pattern with some alpha frequency activity in the
+central regions. Stimulation of the patient produces some muscle artifact There is an
+alerting response. Features of stage I sleep include vertex waves. There are some
+minor amplitude asymmetries in the frontal central regions and vertex waves in this
+bedside portable critical care recording. Vertex waves are slightly asymmetric and a bit
+more prominent on the left.
+HR: 120bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Questionable asymmetric vertex waves.
+CLINICAL CORRELATION: In this bedside recording, the asymmetry in the vertex
+waves could be due to head measurement artifact rather than a true CNS pathology.
+Evaluation as this patient recovers and leaves the ICU Is appropriate and an additional
+recording may be needed.
+

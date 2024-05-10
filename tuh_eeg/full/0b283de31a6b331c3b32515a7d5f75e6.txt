@@ -1,0 +1,18 @@
+History:	22 year old woman with new onset seizures.
+Medications:	None
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Brief (1-3 seconds) bursts of diffuse moderate-to-high amplitude 6 Hz theta activity are noted during wakefulness. Their frequency and duration increase in drowsiness and they are no longer present during sleep. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates. An episode of left pinky twitching occurs from ~7 min 45 sec till ~ 10 min 15 sec into the recording. This is not associated with an abnormal activity on the scalp EEG.
+Summary of Findings:
+No epileptiform discharges
+Other, episode of left pinky twitching without EEG correlate Sleep, stage 2
+Interpretation:
+This is a NORMAL 27 minute EEG, awake, drowsy, and asleep. Patient rapidly transitions into sleep. Bursts of diffuse theta activity likely represent intrusions of sleep architecture into drowsiness. This could be explained by an excessively drowsy patient. An episode of left pinky twitching is captured (it lasts ~ 2 min 30 sec). There is no abnormal activity captured on a scalp EEG. However, only ~ 25% of simple partial seizures are captured on a scalp EEG.
+.
+
+
+

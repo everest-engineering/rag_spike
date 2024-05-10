@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 30-year-old male with diabetes, confusion, fever, and shortness of breath; evaluate for encephalopathy.
+MEDICATIONS:  Vancomycin, antibiotics, clonidine, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD:  This is a bedside recording performed on a patient who is confused.  The overall background is slow.  At times, there is a glimpse of an 8 Hz alpha rhythm, but most of the background is a mixture of theta with a smaller amount of beta.  The 8 Hz alpha rhythm clearly attenuates with eye opening, and much of the record includes more of a low to medium amplitude theta pattern with occasional rhythmic delta.  The patient is drowsy, yawning with some hypersynchronous rhythmic theta.
+Heart rate 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Rhythmic slowing.
+CLINICAL CORRELATION:  This EEG is most characteristic of an encephalopathy.  There were brief sections of the record with an alerting with an 8 Hz alpha rhythm.
+There were no focal or epileptiform features identified. If seizure is an important indication, a followup study in the lab may be of use.
+
+
+

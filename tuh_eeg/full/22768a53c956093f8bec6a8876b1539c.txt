@@ -1,0 +1,39 @@
+AGE: 28 y.o.
+SEX: male
+DATE OF STUDY: 09/04/2015
+RECORDING ENVIRONMENT: Outpatient EEG TYPE:	1 hour 95813
+EEG #: 15-1304
+HISTORY:
+28 y.o. male referred for routine EEG for nocturnal seizures: GTCs.	Tongue biting BL.	Urinary incontinence . Diffuse myalgias
+MEDICATIONS:
+Current Outpatient Prescriptions:
+phenytoin (DILANTIN) 100 mg ER capsule, Take 3 capsules by mouth daily.
+lamotrigine (LAMICTAL) 25 mg tablet, 1 tab QDX7days, 1 tab BIDX7days, 1 tab qam & 2tabs QHSX7days, 2tabs BIDx7 days, 3tabs BIDx7days, then start 100 mg BID
+lamotrigine (LAMICTAL) 100 mg tablet, Take 1.5 tablets by mouth 2 times daily. Take this dose after you complete the titration
+No current facility-administered medications for this visit.
+SEDATION: TECHNIQUE:
+1 hour	21 channel electroencephalogram	(EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG , HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive low voltage 9 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Produced an increase in amplitude of the background
+Photic Stimulation: was performed as patient transitioned to stage II sleep, elicited trivial driving
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is a normal awake-and-asleep routine EEG.	There are no clinical or electrographic events reported or detected.
+CLINICAL CORRELATION:
+This is a normal awake-and-asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+

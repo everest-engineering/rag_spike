@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 51-year-old woman with pulmonary thrombosis for aortic surgery tomorrow.  This is an outpatient EEG.
+MEDICATIONS:  Bumex, Celexa, sildenafil, others
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Impedances were acceptable, aside from the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm reaching amplitudes of 70 microvolts.  The overall background is relatively high amplitude.  There is some background theta and, in addition, there is some underlying posterior delta.  Features of drowsiness include an increase in synchronicity of the background.  Photic stimulation elicited scant driving.
+Heart rate 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Background disorganization.
+Excess beta.
+Subtle, underlying posterior delta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record, and there were no significant focal features.  To put this record in the appropriate clinical context, it is important to have a more detailed neurological history and a list of the patient's medications.
+
+
+

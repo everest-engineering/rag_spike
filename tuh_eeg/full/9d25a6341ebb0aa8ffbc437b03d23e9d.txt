@@ -1,0 +1,41 @@
+History:	21 YR FEMALE WITH CC OF SEIZURES LAST SZ 1 WK AGO.   PER PT.  SZ
+DESCRIPTION. 1. DROP SZS, 2. FREEZES, HEAD DOWN NO FALL, 3. ABSENCE SZS.
+NO GTC X4 YRS. FOLLOW UP EEG.
+Medications:	Vimpat, Depakote, Perampanel, Clorazepate
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+Excess diffuse admixed 50-75 uV, 5-7Hz activity is present throughout the recording and increases
+during drowsiness.  During drowsiness, the background slows to central theta activity, frontal beta
+activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present independently in the left fronto temporal region
+more than the right midtemporal region.  Frequent generalized  frontally-maximal spikes are
+present.  One brief bursts (1second) of generalized frontally-maximal spike-and-wave discharges was
+noted  with a  repetition rate of 3 Hz.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal
+slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Spike-and-wave complexes, 3Hz, intermittent generalized, and isolated frontal predominant spikes
+Focal slowing, polymorphic, frequent, left frontotemporal
+Focal slowing, polymorphic, intermittent, right temporal, mid
+Diffuse slowing, polymorphic, frequent, mild, Excess theta in wakefulness
+Excessive fast
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent frontal predominant
+generalized epileptiform discharges, which are potentially epileptogenic. In addition there is
+frequent focal slowing in left frontotemporal region and independent intermittent focal slowing in
+the right midtemporal region.  These findings are indicative of focal cerebral dysfunction and are
+etiologically non-specific. Lastly there is mild  diffuse background slowing.  This finding is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  Excessive beta
+activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+sleep spindles and K complexes appear.  HR was 66.
+
+
+
+

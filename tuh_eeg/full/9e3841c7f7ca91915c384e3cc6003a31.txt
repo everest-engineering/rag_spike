@@ -1,0 +1,29 @@
+History:	34 yo right-handed male, with a history of seizures, had last seizure on 7/14/15.
+Seizure presented with LOC, tongue biting, incontinence, shaking. Patient's mother
+also has history of seizures.
+Medications:	OXCARBAZEPINE
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Patient remains awake throughout the study.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  There is
+frequent blinking artifact.
+Summary of Findings:
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 21-minute EEG, awake-only.  No epileptiform discharges were present, but stage
+2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information.
+
+
+
+
+
+

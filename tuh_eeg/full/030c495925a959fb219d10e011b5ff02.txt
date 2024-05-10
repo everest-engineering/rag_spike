@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  62 year old right handed male with recent left MCA infarct, aneurysm repair, ACA clip, chronic encephalomalacia in the right frontal region now with drowsiness and new left-sided weakness transferred back from the nursing home.
+MEDICATIONS:  Protonix, Lovenox, Depakote, ASA
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a prominent craniotomy in the right frontal region.
+DESCRIPTION OF THE RECORD:  The EEG is markedly abnormal and slow.  In fact, the right hemisphere is not as slow as the left.  There is a 7 Hz alpha rhythm on the right.  The left hemisphere demonstrates lower voltage and slower theta.  The right hemisphere demonstrates a prominent breach rhythm at C4 with prominent accentuation of beta frequency activity.  As the patient transitions to sleep, however, there are some sharp waves and spikes noted at C4-P4.  Photic stimulation elicits a driving response more prominently from the right than the left.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly abnormal background with marked asymmetry.
+A slow pattern on the left.
+A pattern that is also abnormal on the right with C4 sharp waves.
+CLINICAL CORRELATION:  This EEG supports a process involving the left hemisphere more significantly than the right.  This may reflect the  bilateral nature of this patient's multiple CNS insults.
+
+
+

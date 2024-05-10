@@ -1,0 +1,54 @@
+AGE: 77 y.o.
+SEX: female
+DATE OF STUDY: 09/01/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE::. Routine, awake and drowsy EEG #: 15-1270
+HISTORY:
+A 77 y.o. female referred for routine EEG for a history of childhood epilepsy with lifelong spike and wave, positive family history, recurrent seizures in 2002, meningioma, and adult-onset memory loss.	She is currently seizure free; this is a follow-up EEG.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+phenobarbital	(LUMINAL) 32.4 mg tablet, TAKE 3 TABLETS DAILY TOPAMAX 100 mg tablet, TAKE 1 TABLET IN THE MORNING AND TAKE 2 TABLETS IN THE EVENING
+DILANTIN EXTENDED 100 mg ER capsule, TAKE 1 CAPSULE BY MOUTH 2 TIMES DAILY.
+phenytoin (DILANTIN) 100 mg ER capsule, Take 1 capsule by mouth 2 times daily.
+MULTIVITAMIN (ONE-A-DAY ESSENTIAL PO), Take	by mouth daily. CALCIUM CARBONATE/VITAMIN D3 (CALTRATE-6 00 PLUS VITAMIN D3 PO),
+Take	by mouth daily.
+CYANOCOBALAMIN/FA/ PYRIDOXINE (FOLTX PO), Take	by mouth daily. raloxifene (EVISTA) 60 mg tablet, Take 60 mg by mouth daily.
+RALOXIFENE HCL (EVISTA PO), Take 60 mg by mouth. aspirin 81 mg EC tablet, Take 81 mg by mouth daily.
+SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a
+well-organized, symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 7.5-8 Hertz posterior dominant rhythm (PDR) . The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements , attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+There is mild generalized slowing is present.
+There is occasional left hemispheric polymorphic slowing and independent occasional right temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+Frequent bursts of irregular, generalized,
+frontally-predominant spike- and polyspike-and-wave, seen in isolation and also in 2-Hz bursts for < 5 second periods. This activity becomes fragmented in drowsiness.
+Occasional frontally predominant generalized rhythmic delta activity at 1.5 Hz for <  10 second periods , at times with embedded spikes
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional abnormalities.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE :
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-drowsy routine EEG due to:
+Mild generalized slowing
+Occasional left hemispheric polymorphic slowing
+Independent occasional right temporal polymorphic slowing.
+Frequent bursts of irregular, generalized,
+frontally-predominant spike- and polyspike-and-wave, seen in isolation and also in 2-Hz bursts for < 5 second periods. This activity becomes fragmented in drowsiness.
+Occasional frontally predominant generalized rhythmic delta activity at 1.5 Hz for < 10 second periods , at times with embedded spikes
+CLINICAL CORRELATION:
+These findings indicate the presence of generalized epileptiform discharges.	Additionally, there are etiologically nonspecific indicators of left hemispheric and independent right temporal dysfunction superimposed on mild diffuse cerebral dysfunction, which may be structural or physiologic in origin. The abnormalities noted in this study are similar to findings noted in prior studies . Of note, prior raw EEG data was not available for review.
+
+
+
+
+

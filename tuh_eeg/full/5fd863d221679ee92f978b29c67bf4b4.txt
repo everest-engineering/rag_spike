@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  58 year old male status post cardiac arrest at unknown date, now with myoclonic jerks.  The patient appears to have coded on the 24th.
+MEDICATIONS:  Depakote, Metoprolol, Vancomycin, Zosyn
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, comatose.  No involuntary movements are observed.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely slow pattern with a mixture of delta and theta.  Some sections of the record have a small amount of alpha frequency activity.  Notable in the record is a bifrontal, triphasic wave form which has a somewhat periodic nature.  There is sometimes a little higher amplitude on the right than the left.  The activity does not evolve into a seizure like pattern, but it does wane occasionally in the record. Tactile stimulation does not alter the record.
+HR:    120 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+A frontally predominant bilateral wave form similar to a GPED with a triphasic appearance.
+CLINICAL CORRELATION:  This wave form may represent a postanoxic pattern or a metabolic pattern.  Additional evaluation was recommended..
+
+
+

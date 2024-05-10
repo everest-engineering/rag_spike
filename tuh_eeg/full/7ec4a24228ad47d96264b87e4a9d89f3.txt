@@ -1,0 +1,17 @@
+History:	75 year old woman with involuntary diffuse movements.
+Medications:	ASA, fentanyl patch
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, photic
+Description:
+Patient is awake by the end of the recording. Waking background is characterized by low amplitude 9 Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present. No epileptiform discharges are present.
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.
+Summary of Findings:
+Other, diffuse body jerks upon arousal
+No focal slowing or epileptiform discharges Sleep, stage 2
+Interpretation:
+This is a NORMAL briefly awake and mostly asleep 35 minute EEG. Brief diffuse body jerks are observed when patient arouses and only correlate with EMG artifact seen on a scalp EEG. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

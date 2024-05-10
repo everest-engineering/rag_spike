@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 27-year-old male with seizures characterized by facial stiffening and rocking.  Seizures last 20 seconds, patient seizure-free for 2 years until the past week
+MEDICATIONS:  Depakote, Sabril, phenobarbital, Lamictal, Zofran.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is primarily an awake and drowsy EEG.  It was a technically satisfactory EEG aside from T1 T2 impedances.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized with a 7 Hz theta frequency pattern.  Drowsiness is characterized by an increase in background slowing.  The patient transitions in and out of a drowsy state.  Photic stimulation elicited scant driving.  Heart rate 96 bpm.
+IMPRESSION:  This is an abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  The background slowing is a nonspecific finding and may be correlated with this patient's clinical syndrome.  If additional information is needed, a more prolonged tracing capturing additional sleep may be considered.
+
+
+

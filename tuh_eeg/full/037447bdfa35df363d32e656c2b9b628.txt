@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 52-year-old male with HIV/AIDS, admitted with recurrent episodes of syncope, the patient recalls feeling dizzy then falling with 2- to 3-minute loss of consciousness preceded by blurry vision, increasing headaches, and forgetfulness.
+MEDICATIONS:  Retrovirals, Bactrim, aspirin, others.
+INTRODUCTION:  Routine 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This EEG captures wakefulness through sleep.  It is a technically acceptable EEG with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  The overall EEG is low voltage, but there is a 10 Hz posterior dominant rhythm, which is symmetric and reactive to eye opening.  The patient transitions rapidly between wakefulness and stage 2 sleep with vertex waves, spindles, and POSTS.
+Hyperventilation does not significantly activate the record.
+Heart rate: 60 to 90 bpm.
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep is suggested.
+
+
+

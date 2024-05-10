@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 33-year-old woman with 6-month history of epilepsy.  Seizure-free for the last 2 months.  Seizures occur with abrupt loss of consciousness, shaking, postictal confusion.  Past history of bipolar disease, alcohol, and drug abuse.
+MEDICATIONS:  unknown
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10.5 hertz, 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by slow rolling eye movements with an increase in theta.  Head rocking artifact was noted in drowsiness, hyperventilation and photic stimulation.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation did elicit a driving response.
+Heart rate 50 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness with bradycardia.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, a more prolonged study capturing deeper stages of sleep is suggested.
+
+
+
+
+

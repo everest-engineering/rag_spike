@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 44-year-old right-handed woman who awoke with left-sided weakness and difficulty speaking with abnormal CT scan of brain, evaluate for stroke.
+MEDICATIONS:  Lisinopril and metoprolol.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record. This is a 20-minute routine EEG with most impedances below 5 kilohms.  It is technically acceptable
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz alpha rhythm reaching 60 microvolts.  It is symmetric and reactive to eye opening.  Brief drowsiness is characterized by slowing of the alpha rhythm and anterior spread of the alpha rhythm.  Hyperventilation and photic stimulation were not possible in this bedside record.
+Deeper stages of sleep were not achieved.
+Heart rate: 66 bpm.
+IMPRESSION:  EEG without focal or epileptiform features.
+CLINICAL CORRELATION:  A normal EEG does not exclude a diagnosis of stroke or epilepsy and if seizures are an important consideration, a followup study may be of value.
+
+
+
+

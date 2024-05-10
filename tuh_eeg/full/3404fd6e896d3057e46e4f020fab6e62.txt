@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  64 year old right handed male with alcohol abuse, subarachnoid hemorrhage, left subdural hematoma, ventriculostomy.  History of seizures last year characterized by shaking and loss of consciousness.  History of epilepsy since the age of 49.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  The EEG is poorly organized and demonstrates an asymmetry.  The right hemisphere is somewhat disorganized, but there is a 10 Hz alpha rhythm with a small amount of 5 Hz theta activity.  In contrast, the left hemisphere demonstrates more significant disruption of faster frequency activity and more 2-3 Hz delta activity.  As the patient becomes drowsy, bilateral slowing is noted.  Occasional bursts of FIRDA are seen. Hyperventilation seems to accentuate the slowing on the left.  Photic stimulation is performed while the patient is drifting off to sleep and does not active the record.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Superimposed focal slowing on the left.
+CLINICAL CORRELATION:  This EEG supports a structural phenomenon on the left.  No epileptiform features were observed.
+
+
+

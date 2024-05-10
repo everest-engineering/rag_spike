@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 54-year-old man with a history of metastatic lung cancer who presents with focal status epilepticus.
+MEDICATIONS:  Current medications include Depakote, Keppra, Versed drip and a prior bolus of phenobarbital.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  Medical staff notes and nursing staff notes were reviewed.  The study was reviewed by an attending neurologist several times during the 24-hour recording period.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  The background consists of diffuse voltage attenuation, severe diffuse background slowing, frank burst suppressions with very low burst-suppression ratio of 1:1 to 1:3.  As the recording progresses, the degree of background slowing and burst suppression becomes more significant.  Additionally, continuous moderate amplitude sharp waves with after-going slow waves and sharp waves with after-going slow waves with accompanied POSTS spikes captured over the right hemisphere, with phase reversal over T6, P4 and occasionally O2 electrode.  Earlier in the recording, these discharges occur in brief runs up to 5 seconds (BIRDs).  No electrographic seizures are captured.
+FINDINGS:
+Continuous sharp waves with after-going slow waves and sharp waves with after-going slow waves with accompanied polyspikes observed over the right hemisphere, with phase reversal over the T6, P4 and O2 electrodes.
+BIRDs (brief __________ rhythmic discharges) observed early in the recording.
+Severe diffuse background slowing and variable degree of burst suppression from 1:1 up to 1:3.  Degree of background slowing and burst suppression increases as the recording progresses.
+There were no electrographic seizures.
+IMPRESSION:  This is a very abnormal 24-hour continuous video EEG monitoring due to video background slowing, attenuation and variable mild degree of burst suppression (from 1:1 to 1:3 ratio), continuous right posterior quadrant epileptiform discharges, often periodic (PLEDs and PLEDs plus). Diffuse background slowing indicates etiology of nonspecific diffuse cerebral dysfunction and this patient, at least partially related to the medication effect.  There is epileptogenic focus and focal cerebral dysfunction emanating from the right posterior quadrant.  No electrographic seizures were captured.  When compared to the prior 24-hour recording, the degree of the background slowing is less and no electrographic seizures were observed.
+
+
+

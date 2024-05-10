@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  69 year old right handed woman admitted on the 27th after she hit her head on the refrigerator, was found to have a facial contusion and then an aortic arch dissection.  CT scan with previous evidence of atherosclerosis.
+MEDICATIONS:  Midazolam, Fentanyl, Isoflurane, Vecuronium, Lidocaine, Solu-Medrol, Magnesium.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside in the OR using standard CEA montage with 1 channel EKG.  The recording begins at 8:35 and concludes at 12:35.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient has been intubated and sedated.  The background EEG demonstrates a mixed frequency pattern with beta, theta, and delta.  Cooling begins at 9:38.  With a combination of cooling and anesthetic medications, the EEG transitions to a burst suppression pattern at 9:16 a.m.  The bursts of cerebral activity are sometimes asynchronous.  They may be longer on the left than the right.  There are prominent shifting asymmetries and some sharp activities in the left temporal region.
+The surgeon is informed of the burst suppression pattern.
+Head temperature 27 degrees at 9:56.  This is associated with the burst suppression pattern.
+At 10:15, the EEG becomes suppressed and the surgeon is informed when the patient has been suppressed for 5 minutes.  Circulatory arrest is initiated at that time.
+Passive rewarming begins at 10:45.  With passive rewarming, there are some EEG electrode challenges including loss of electrode integrity (the patient's head was packed in ice to achieve the sufficiently cooled cranial temperature).  There are some shifting asymmetries and then in the left section of the record, the electrode integrity is compromised to the point that limited conclusions should be made regarding asymmetry.
+Recording concludes at 12:31 after the cross clamp has been removed at 11:52 and reperfusion is underway.  The heart is shocked at 11:54 which produces artifact.
+IMPRESSION/CLINICAL CORRELATION:  This 4-hour EEG monitoring during aortic arch repair and hypothermic treatment was remarkable for sustained period of electrocerebral silence.
+The shifting asymmetries noted should be interpreted with caution given some of the electrode problems, but they may be associated with this patient's underlying cerebrovascular disease.
+
+
+

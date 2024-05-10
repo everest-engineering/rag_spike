@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 63-year-old woman with childhood epilepsy and learning disability.  Adult, large left MCA infarct.  Seizures returned after the stroke, admitted on the 29th with status epilepticus.
+MEDICATIONS:  Phenobarbital, Midazolam
+INTRODUCTION:  Continuous EEG monitoring was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This system includes seizure and spike detection software.  The patient remained intubated, comatose with small sluggish pupils and no motor signs.  Over the course of this 24 hour recording, the patient's midazolam dose was increased.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a lower voltage beta pattern from the right.  The left hemisphere demonstrates left hemispheric PLEDS.  There is a PLEDS plus pattern with slight evolution or brief bursts but no clear electrographic seizures.  The periodic complexes demonstrate some variability, somewhat more prominent in the anterior region, others more posterior.
+Over the 24 hour session, the periodic complexes are a bit more blunted.  There are some sections including at 10:00 P.M. where there are more defined sharp waves.
+On the morning of February 1st, the Versed dose was increased, producing a more blunted, monomorphic, less evolving PLED.  The periodicity of the PLED is approximately 1 hertz and the waxing and waning is significantly more blunted.  In addition, the periodic complexes are lower in amplitude, typically approximately 50 microvolts.
+Heart rate 81 BPM.
+IMPRESSION:  This second day of EEG monitoring demonstrates more of a transition to a blunted periodic complex with a decrease in waxing and waning overall.
+These findings were discussed with the clinical team.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 24-year-old woman found with an abdominal burn, unresponsive.  Cause of burn unknown.  Recurrent tachycardia requiring cardioversion.  Friedreich's ataxia, Graves disease, wheelchair-bound.
+MEDICATIONS:  Ativan, folate, fentanyl, many others.
+INTRODUCTION:  Digital video EEG was performed in the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was ventilated, and she was not responsive to the technologist.
+TECHNICAL:  There is a fair amount of muscle and twitch artifact noted in the background.
+DESCRIPTION OF THE RECORD:  The background EEG is low to medium amplitude with continuous delta and theta and smaller amount of beta.  There are some shifting asymmetries in this bedside record with a bit of head rocking artifact in the right posterior quadrant.  Stimulation of the patient produces an increase in beta as well as muscle, and then some posteriorly predominant rhythmic delta.  Intermittent muscle twitch artifact was observed.
+Heart rate 108 BPM.
+IMPRESSION:  This is an abnormal, sedated bedside record.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  There was some evidence of reactivity to stimulation.  To put this EEG in appropriate clinical context, it would be important to know the degree of sedation for this individual.  There was some reactivity and variability noted in the background.
+__________________________
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 27-year-old woman product of a complicated pregnancy, likely salaam seizures with posturing and cyanosis as an infant.  The patient now has episodes with staring 1 time per week.  Previously 3 times per week.  Also episodes of eye flutter.
+MEDICATIONS:  Zonisamide, others.
+INTRODUCTION:  Continuous video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software was utilized.  The patient was instructed to push the button and she did so practicing many times but no clinical seizures were noted by the nursing team.
+DESCRIPTION OF THE RECORD:  Wakefulness:  In wakefulness, there are brief sections of the record where there is a 9 Hz alpha rhythm but much of the awake record includes more of a theta pattern.  Sleep includes spindles and vertex waves.
+Interictal epileptiform activity:  The majority of the epileptiform activity is seen in wakefulness.  It includes irregular bursts of high amplitude paroxysmal delta.  Sometimes there is a clear sharp wave associated with the delta, a spike and wave complex.  At other times it is more paroxysmal delta.  There is a slight asymmetry noted to the bursts.  Bursts vary in terms of duration.  They are not necessarily associated with eye blink.  They may be associated with frontal fast activity.  In addition, there are rare, frontal bilateral sharp waves or spikes noted in sleep.
+The bursts described above are typically brief and may be less than 3 seconds in duration.  There are extended portions of the record without the bursts.  There are also some bursts of asynchronous slowing which resemble the spike and slow wave discharges which lack the sharp wave.  Some of the bursts begin asynchronously perhaps with a small sharp wave at F7 and then one at F8, T2 and then as the burst continues the activity is more sharply contoured.  The bursts do occur as the patient transitions in and out of stage 2 sleep.
+Heart rate:  72-90 bpm.
+IMPRESSION/CLINICAL CORRELATION:  This 24 hour EEG monitoring session was remarkable for:
+Paroxysmal bursts of sharply contoured activity which are irregular, not all of which have a definitive spike and wave discharge.
+Intermittent background slowing.
+Low voltage frontal sharp waves or spikes.
+Asynchronous bursts of spike and wave activity.
+This EEG is more supportive of a secondarily generalized mechanism for epilepsy.  No clinical seizures were recorded.
+
+
+

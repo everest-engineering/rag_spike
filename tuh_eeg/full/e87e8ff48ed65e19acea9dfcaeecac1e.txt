@@ -1,0 +1,15 @@
+TIME:  Recording start time is 01:09 p.m., recording ending is 1:32 p.m. Recording length is 23 minutes.
+CLINICAL HISTORY:  She has a history significant for diabetes, hypertension, and kidney transplant in 2007.  Current indication for this study is altered mental status.
+MEDICATIONS:  She is currently on no seizure medications.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not performed, but photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  As the record opens there is mild disorganization of the background with the appearance of central theta activity in the 5-7 Hz range superimposed on a posterior dominant rhythm that achieves only about 8 Hz.  The posterior dominant rhythm is reactive to eye opening, but throughout the recording it appears as though the patient is clinically either drowsy or falling asleep.  There is a small amount of frontal central beta activity identified.  Unfortunately, much of the tracing is obscured by muscle artifact from recurrent eye blinks and forehead and body movement.
+Stage 1 sleep is characterized by slowing of the existing posterior dominant rhythm.  Stage 2 sleep is characterized by the appearance of vertex waves.
+Hyperventilation was not performed.
+Photic stimulation was performed at multiple flash frequencies and did not induce a significant photic driving response.
+Heart rate varied between 70 and 90 beats per minute.
+There were no spikes or sharp waves identified.  There were no electrographic seizures identified.  There were no clinical events noted by the technician.
+IMPRESSION:  This is an abnormal EEG capturing wakefulness through stage 2 sleep due to the presence of nearly continuous background focal slowing.
+CLINICAL CORRELATION:  The presence of diffuse background slowing is seen in toxic metabolic encephalopathies, or may indicate more extensive diffuse severe brain injury.  If clinically indicated, a repeat tracing for longer periods may be helpful in assessing this patient.
+
+
+

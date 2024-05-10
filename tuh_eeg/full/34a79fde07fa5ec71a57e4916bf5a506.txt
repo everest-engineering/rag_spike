@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 70-year-old male with multiple medical problems, COPD, MI, AFib, and sepsis.  There was involuntary movements, evaluate for encephalopathy.
+MEDICINES:  Ativan, others.
+INTRODUCTION:  A 3-hour digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically challenging EEG in view of the muscle artifact.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage beta frequency pattern and diffuse muscle artifact.  Attempts to reduce some of the muscle artifact is unsuccessful, but in the sections of the record that are interpretable which are primarily the left frontocentral regions, there is a low voltage beta pattern with smaller amounts of theta.
+Tactile stimulation of the patient does not activate the record.
+Heart rate 90 bpm.
+IMPRESSION:  This is a technically challenging EEG, but it is remarkable for replacement of normal background with a low voltage beta and theta pattern.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This diffusely slow background should be placed in the appropriate clinical context.  The patient's medications may play a role in the pattern described above.  Overall, this EEG supports a diffuse disturbance of cerebral function, but pharmacologically coma may play a role.
+
+
+

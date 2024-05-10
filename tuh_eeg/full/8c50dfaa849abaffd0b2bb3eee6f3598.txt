@@ -1,0 +1,30 @@
+History:	73 year old woman with extensive PMH, now presents with failure to thrive and
+reported episode of unresponsiveness.
+Medications:	Keppra, Celexa,
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+During maximal wakefulness, the background consists of 8 Hz theta activity posteriorly with
+expected AP gradient.  Diffuse excess theta activity is present.  No normal sleep architecture was
+present despite reported clinical sleep.
+Intermittent polymorphic moderate-to-high amplitude delta activity is present over the left
+hemisphere, most pronounced over the frontotemporal region.
+Hyperventilation and photic stimulation are not performed.  There is excessive diffuse EMG artifact
+early in the recording that makes that portion of the study uninterpretable.  There is increased EMG
+artifact over the bilateral lateral electrode chains throughout most of the recording.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, intermittent, moderate, left frontotemporal
+Artifact, EMG, excessive, early in the recording
+Interpretation:
+This is an ABNORMAL awake and asleep 41-minute EEG due to mild diffuse slowing and
+intermittent moderate left frontotemporal slowing. Diffuse background slowing indicates
+etiologically nonspecific mild diffuse cerebral dysfunction.  Intermittent focal slowing is indicative
+of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin.
+Excessive EMG artifact which is present during some portions of the recording makes interpretation
+of those portions of EEG less reliable and, at times, uninterpretable.
+
+
+

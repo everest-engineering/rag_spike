@@ -1,0 +1,16 @@
+CLINICAL HISTORY: A 53-year-old male found unresponsive, hypothermic, hyperglycemic coma with acute brain stem syndrome.
+
+MEDICATIONS: Protonix, vancomycin, Xanax and others.
+
+INTRODUCTION: Digital video EEG is performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic simulation are performed. The patient is stimulated during the EEG.
+
+DESCRIPTION OF THE RECORD: Some sections of the record demonstrate a slow pattern almost discontinuous with more 1-2 hertz delta and left theta. As the recording continues, the discontinuity decreases and there is more rhythmic theta. There are a handful of triphasic waves observed.
+
+Stimulation of the patient is performed in the later sections of the record and stimulation including checking the gag demonstrate nice increase in reactivity and increase in theta and the presence of cranial nerve signs.
+
+Heart rate 70 to 112 BPM.
+
+IMPRESSION: Abnormal EEG due to marked background slowing.
+
+CLINICAL CORRELATION: This EEG demonstrates a dynamic pattern with an improvement in the background over time as might be seen in the context of a toxic or metabolic insult. By the close of the record, the background is unpathologically slow. Additional clinical evaluation may be appropriate. No epileptiform features were seen.
+

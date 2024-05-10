@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 46 year old male with HIV, heart failure, and severe MR, admitted with cardiac tamponade, hypoxic respiratory pulmonary failure.  Intermittent agitation.
+MEDICATIONS:  Fentanyl, Propofol, Pyrazinamide, Albuterol, Protonix, Hydrocortisone, Ceftin, Isoniazid, Pyridyine, Ethambutol, Rifampin, Insulin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and tachypneic.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a mixed frequency pattern which is variable.  Some sections of the record are rich in theta and some alpha frequency activity, other sections richer in delta.  Stimulation of the patient produces an increase in faster frequency activity. There is a single right central sharp wave.
+HR:    108 to150 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a mixed frequency but slow pattern.
+CLINICAL CORRELATION:  For this patient with a possible anoxic or hypoxic insult, this EEG demonstrates reactivity and variability.  The single sharp wave is of unclear clinical significance.
+
+
+

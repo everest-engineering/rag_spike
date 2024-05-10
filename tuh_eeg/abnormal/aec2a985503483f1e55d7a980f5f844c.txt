@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 42-year-old woman with paranoid schizophrenia and new episodes of intermittent left arm jerking and twitching.  Now with right arm jerking.
+MEDICATIONS:  Prozac, Zocor, clozapine, Cogentin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were both completed.
+DESCRIPTION OF RECORD:  In wakefulness there is a 10-Hz alpha rhythm with a small amount of background theta.  The EEG is slightly disorganized.  Hyperventilation produces an increase in background slowing.  Features of drowsiness include a small amount of frontal theta and a decrease in eye movement.  Photic stimulation elicits bilateral driving.  Heart rate is 90 beats per minute.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+A small amount of background theta.
+A small amount of disorganization.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The features described above are nonspecific, but can be seen in the context of the use of CNS acting medications.  If epilepsy is an important consideration a follow up study capturing this patient's behaviors may be of value.
+
+
+

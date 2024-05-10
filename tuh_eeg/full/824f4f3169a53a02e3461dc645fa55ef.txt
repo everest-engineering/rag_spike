@@ -1,0 +1,22 @@
+History:	69 year old man with focal seizures. Medications:	Keppra, Dilantin, Phenobarbital Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy
+Continuous bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for 24 hours from 08/26/2015 till 08/27/2015.    Nursing­ initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient while the patient is awake. The awake background consists of a mixture of a low amplitude beta>theta activity with theta activity most pronounced over the left frontotemporal region. As the recording progresses, the background becomes more attenuated- this corresponds to initiation  of phenobarbital. Additional underriding fast activity is captured over the left anterior quadrant. Diffuse excess beta activity is seen. Continuous high amplitude rhythmic and semi­ rhythmic (PLEDs and quasi-PLEDs) up to 1 Hz sharp waves with aftergoing slow waves emanate from
+the left anterior quadrant, most prominent over the F3 lead. Starting at -8:27 AM, intermittent left anterior quadrant seizures appear. They last - 25-60 seconds and have no clinical correlate. They occur at variable frequency throughout the recording, up to multiple times per hour (between 4-5 PM), ie, frank focal status epilepticus. Last clear seizure is captured at -2:07 AM. Electrographically, seizures start with rhythmic left anterior delta- theta activity that rapidly increases in amplitude and rhythmicity, decreases in frequency and spreads throughout the left hemisphere. Periods of brief background discontinuity and sleep-spindle-like waveforms (more visible over the left) are seen during sleep.
+Summary of Findings:
+Seizure, left anterior, variable frequency , last @2:07 am Status epilepticus , left anterior, between - 4-5 PM
+PEDs (periodic epileptiform discharges), left anterior Pseudoperiodic discharges, left anterior
+Beta, excessive
+Attenuation , due to phenobarbital initiation
+Interpretation:
+This is an ABNORMAL continuous video -24 hour EEG due to continuous left anterior periodic and periodic epileptiform discharges (PLEDs and quasi-PLEDs), left anterior quadrant focal seizures and brief focal status epilepticus, left anterior focal slowing and diffuse slowing . There is a focal structural epileptogenic lesion in the left anterior quadrant.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific. Breach rhythm is secondary to the skull defect. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+These findings were conveyed to the primary team and medication regimen was adjusted (phenobarbital was added).
+
+
+
+

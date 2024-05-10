@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 76-year-old male with a recent slip and fall in the bathroom followed by confusion.
+MEDICATIONS:  Ativan, fentanyl, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had been intubated and was somewhat somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous pattern with generous beta.  There are bursts of rhythmic delta activity as well as generous background theta.  Occasional bursts of rhythmic frontal delta were noted.  In addition, intermittent asymmetries were noted with a bit more focal slowing on the right compared to the left.  As the patient transitions towards stage 2 sleep, vertex waves and spindles were noted.  The patient easily arouses with tactile stimulation.
+Heart rate 83 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Replacement of normal background with a somewhat disorganized pattern.
+Bursts of __________.
+Intermittent focal slowing on the right.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The findings described above are nonspecific, but the focal features on the right may be correlated with imaging.  There were no epileptiform features seen.
+
+
+

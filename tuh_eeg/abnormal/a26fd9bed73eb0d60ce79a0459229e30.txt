@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  57 year old right handed woman with epilepsy, subdural hematoma, renal failure, pancytopenia, polycystic kidney disease, stroke, and epilepsy.
+MEDICATIONS:  Keppra, Trileptal, Alprazolam, Lisinopril, Protonix
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a mixture of rhythmic, theta, and delta.  Superimposed upon this is shifting slowing with sharply contoured delta at T4.  Features of sleep include vertex waves.
+HR:    94 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Focal slowing characterized by focal slowing in the right hemisphere.
+T4 sharp waves.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function with rhythmic background slowing.  The focal features and right temporal sharp waves support a focal mechanism for epilepsy.
+
+
+

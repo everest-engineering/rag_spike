@@ -1,0 +1,28 @@
+History:	41 year old man who presents after a prolonged cardiovascular arrest.  He is now
+unresponsive and has continuous left eyelid rapid twitching.
+Medications:	no AEDs, no sedation recently
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background is attenuated and consists of frequent bursts of
+polymorphic various frequency delta activity.  Some of this activity is clearly a result of respiration
+and ventilator artifacts.  No normal sleep architecture is present
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, marked
+Attenuation
+Artifact, respiration
+Artifact, ventilator
+Artifact, 60Hz
+Interpretation:
+This is an abnormal 22-minute portable comatose EEG due to marked diffuse slowing. These
+findings are indicative of marked diffuse cerebral dysfunction, which is etiologically nonspecific.
+The technologist does not comment on presence or absence of eyelid twitching during the
+
+
+
+
+

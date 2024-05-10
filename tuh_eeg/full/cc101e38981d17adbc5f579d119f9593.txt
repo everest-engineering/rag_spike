@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  The patient is a 44-year-old woman with chronic static encephalopathy, deafness and epilepsy, status post thrombectomy 3 days ago, the patient had an episode characterized by twitching on the night of the 23rd.
+MEDICATIONS:  Fentanyl, insulin, carbamazepine, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was described as cognitively impaired and unable to cooperate with testing.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a high amplitude, continuous pattern with rhythmic and arrhythmic mixed frontal delta and theta.  Frontally, predominant triphasic waves were identified.  In addition, in this chaotic, high amplitude record, there are occasional sharp waves noted from either hemisphere, left frontal or right posterior temporal or occipital.  Additional waveforms noted as the patient became a bit more somnolent included sharp waves right parieto-occipital, C4, P4, and right frontal.  Intermittent motor activity was not associated with an epileptiform pattern.  There was some variability noted in the record.  Some sections include more of a lower voltage theta pattern.
+Heart rate:  97 BPM
+IMPRESSION:  Markedly abnormal EEG due to:
+Marked background slowing.
+A dynamic pattern which ranges from a theta pattern to more rhythmic higher amplitude delta pattern.
+Triphasic waves.
+In this sharply contoured record, sharp waves with phase reversals were noted including left temporal, frontotemporal, and with multiple different phase reversals in the right hemisphere.
+CLINICAL CORRELATION:  This patient's previous EEGs were not available for comparison.  The rhythmic background slowing and the triphasic waves suggest a metabolic process.  The focal epileptiform features may be correlated with imaging for this individual with pre-existing cerebral pathology.
+__________________________
+
+
+
+
+

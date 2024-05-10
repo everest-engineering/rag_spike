@@ -1,0 +1,38 @@
+History:	23 YO MALE FOUND DOWN BY PARENTS, DRIVE BY CAR TO TUH. PT WAS
+FOUND PULSELESS, APNEIC, ASYSTOLIC AT TUH. FAMILY REPORTS PT TAKING
+HERBALIFE DIETARY SUPPLEMENTS. PMHX: HTN, SINGLE KIDNEY, LUMBAR
+DISC DISEASE
+Medications:	KEPPRA, VECURONIUM, HEPARIN, ACETAMINOPHEN, HUMULIN, KAYEXALATE,
+SORBITOL
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 12 hours from 8PM on 02/15/2014 to 8AM on
+02/16/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Graphical
+representation of the EEG was available at the bedside for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies and an overriding alpha discharge seen diffusely.  There is intermittent diffuse
+attenuation seen.  There is definite variability in the background with some changes in the
+amplitude and decrease in faster frequencies.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No electrographic seizures
+were present.  Some intermittent sudden muscle artifact can be seen. No actual cerebral
+electrographic correlate is seen with the muscle artifact.
+Hyperventilation and photic stimulation were not performed.  No tests of reactivity (visual, auditory,
+tactile, or painful stimuli) are performed.  HR was 140's irregular. EKG electrode low amplitude.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, Some variability.
+Interpretation:
+This is an ABNORMAL 12 hours EEG because of moderate diffuse background slowing and absent
+alpha rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.  The muscle jerks had no EEG correlate and are likely representative of subcortical
+myoclonus.  No electrographic seizures are present.
+

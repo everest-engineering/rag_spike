@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 66 year old right handed male with right carotid stenosis.
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was completed. This is an awake record. The patient had difficulty providing a history.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.7 Hz alpha rhythm with a small amount of low voltage frontocentral beta activity. The overall alpha is high amplitude with a generous field of spread. In relaxed wakefulness, occasional bursts of paroxysmal slowing are noted. In this somewhat sharply contoured record which also has wicked, occasional sharp waves are noted in the left anterior temporal region. Photo stimulation does not activate the record.
+HR: 60bpm
+IMPRESSION: Abnormal EEG due to:
+1. Occasional left anterior temporal sharp waves.
+CLINICAL CORRELATION: The left anterior temporal sharp waves support a focal mechanism for seizures, although none seizures are reported in the history. Additional review may be important to make certain that this patient does not have a history of seizures as epileptiform discharges are otherwise uncommon in asymptomatic populations.
+
+
+
+

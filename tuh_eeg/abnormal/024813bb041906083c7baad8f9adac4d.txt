@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 36-year-old man with a past medical history of hepatitis, HIV, and a possible prior stroke in 2010, as well as seizures.  Seizures are described as tonic-clonic activity of the upper extremities with associated loss of consciousness and postictal confusion.
+CURRENT MEDICATIONS:  Keppra, Neurontin, Celexa, methadone, HIV medications.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low to moderate amplitude polymorphic 9 Hz alpha activity that attenuates with eyes opening.  The anterior to posterior frequency amplitude gradient is present, but weak.  Additional diffuse polymorphic theta activity is captured.  During drowsiness and sleep, symmetrical vertex waves and brief sleep spindles are captured.  Hyperventilation produces mild diffuse symmetrical background slowing.  Photic stimulation results in symmetrical occipital driving at multiple frequencies.
+FINDINGS:
+Mild diffuse slowing.
+Brief stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and asleep 21-minute EEG due to mild diffuse slowing.  This finding indicates etiologically nonspecific mild diffuse cerebral dysfunction.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

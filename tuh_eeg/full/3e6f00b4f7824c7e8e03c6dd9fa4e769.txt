@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 30-year-old woman, with epilepsy, 27 weeks pregnant.  The patient was admitted with a change in mental status.  She had a seizure on the 9th lasting 45 seconds and then another event today, question encephalopathy, question postictal, question behavior.
+MEDICATIONS:  Metoprolol, heparin, Keppra, Ativan.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient had been sedated, had a recent seizure and was quite somnolent.
+DESCRIPTION OF THE RECORD:  The initial sections of the EEG demonstrate a low voltage slow pattern with slow delta.  With stimulation, a scant 8 Hz alpha rhythm was noted.  The technologist was able to awaken the patient for hyperventilation which seems to produce some rhythmic, sharply contoured slowing in the right hemisphere, particularly in the right mid to anterior temporal region.  As the patient becomes drowsy bursts of high amplitude frontal delta were noted.
+Photic stimulation did not activate the record.  Heart rate 78 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Abnormal background with a low voltage slow pattern.
+Excess theta.
+Rhythmic right delta particularly in the right mid temporal region notable with hyperventilation.
+FIRDA.
+CLINICAL CORRELATION:  This EEG demonstrates a diffuse disturbance of cerebral function which may be due to a postictal state or medications.  In addition, there are focal features with rhythmic, sharply contoured slowing in the right temporal region.  Based on these findings, EEG monitoring was requested.
+
+
+

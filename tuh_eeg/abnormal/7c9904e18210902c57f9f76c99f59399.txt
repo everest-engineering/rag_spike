@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  57 year old right handed gentleman with right carotid stenosis, hyperlipidemia, gout, and coronary artery disease.
+MEDICATIONS:  Plavix, Isosorbide Mononitrate, ASA, Clopidogrel, Amlodipine, Besylate, Lovaza, Tartrate, Tricor, Terazosin, Simvastatin, Diovan, Indomethacin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz 30 microvolt posterior dominant rhythm with a small amount of low voltage frontocentral beta.  Drowsiness is characterized by slow rolling eye movements.
+HR:    78 bpm
+IMPRESSION:  EEG within normal limits for age.
+CLINICAL CORRELATION:  No focal nor epileptiform features were identified.  These findings will be used for this patient's baseline prior to his operative procedure.
+
+
+

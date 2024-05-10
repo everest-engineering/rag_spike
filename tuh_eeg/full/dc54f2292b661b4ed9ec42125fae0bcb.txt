@@ -1,0 +1,28 @@
+History:	53 year old woman with new onset episodes of right arm shaking.
+Medications:	Lorazepam, Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+Throughout much of the recording the patient is drowsy or in stage II sleep. However, during
+maximal awareness, there is an 8-9Hz posterior dominant rhythm seen bilaterally that is reactive to
+eye opening.  Stage I-III sleep is seen.
+There are rare left frontotemporal sharps waves seen maximal at F7.  No further seizures are seen.
+Summary of Findings:
+Sharp waves, rare, left frontotemporal
+Interpretation:
+This is an ABNORMAL 24 hour video EEG due to rare left frontotemporal sharp waves. Overall,
+compared to the previous 48 hours, this record has improved with cessation of seizures.  These
+findings were conveyed to the primary team.
+
+
+

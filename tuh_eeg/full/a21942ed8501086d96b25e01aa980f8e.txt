@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 52-year-old with childhood epilepsy since age 9, typically nocturnal seizures or provoked seizures.  Increasing seizures in 2012.  The patient is a former twin.
+MEDICATIONS:  Topamax.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with symmetric, reactive, alpha rhythm of 11 Hz.  Drowsiness is characterized by slow rolling eye movements.
+As the patient transitions into stage I sleep, there is a very subtle asymmetry with 2 bursts that are just to the left of the midline.  The patient transitions in and out of stage II sleep, which is on the whole, symmetric.
+Hyperventilation produces no change in the background.
+Photic stimulation does not activate the record.
+Heart rate:  66 BPM.
+IMPRESSION:  This EEG is essentially within normal limits.
+CLINICAL CORRELATION:  There is 2 slightly asynchronous bursts noted in the transition to sleep.  Head measurement could account for this and therefore 2 bursts should not necessarily be considered indicative of focal pathology.
+
+
+

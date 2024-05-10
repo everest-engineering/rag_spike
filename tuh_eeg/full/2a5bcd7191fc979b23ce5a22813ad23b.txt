@@ -1,0 +1,39 @@
+History:	43 year old man with a history of TBI and seizures.
+Medications:	Dilantin, Depakote
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of moderate amplitude 8 hz theta activity that attenuates
+with eye opening.  There is an appropriate AP gradient with faster frequencies at lower amplitudes
+anteriorly.  Diffuse excess polymorphic theta activity is present.  Patient is asleep throughout the
+majority of the recording.  Symmetrical sleep spindles, vertex waves and K-complexes are present.
+Continuous polymorphic theta and delta activity are present over the left frontotemporal region.
+Occasional independent left anterior and rare left parietal sharp waves with aftergoing slow waves
+are captured.  Additionally, frequent independent low amplitude spikes with aftergoing slow waves
+are captured over the right midtemporal region.  They have broad field and have appearance of
+BETS (benign epileptiform transients of sleep) or SSS (small sharp spikes).
+Hyperventilation is performed for 240 seconds with poor cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.
+Summary of Findings:
+Sharp waves, occasional, left anterior
+Spikes, frequent, right temporal, mid, with broad field and appearance of BETS (benign
+Sleep, stage 2
+Diffuse slowing, polymorphic, mild
+Sharp waves, rare, left parietal
+Focal slowing, polymorphic, continuous, moderate, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake and mostly asleep 22 minute EEG due to (1) Mild diffuse slowing; (2)
+continuous moderate left frontotemporal focal slowing and (3) independent epileptiform
+discharges that emanate from left anterior, left parietal and right midtemporal region.  Diffuse
+slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+Continuous focal slowing is indicative of a focal structural lesion in this region.  Multifocal
+epileptiform discharges indicate several independent epileptogenic areas - please correlate
+clinically/ with imaging
+
+
+
+
+

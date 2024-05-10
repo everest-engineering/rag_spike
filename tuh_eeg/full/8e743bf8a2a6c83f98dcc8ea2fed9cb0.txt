@@ -1,0 +1,41 @@
+History:	59 year old man with a history of seizures, now presents with seizure recurrence.
+Medications:	Ativan, Dilantin, Keppra
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~16 hours from 05/02/2015 till 05/03/2015.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+During periods of arousals, the background consists of a mixture of low amplitude fast activity and
+polymorphic theta activity.  Normal sleep architecture, including sleep spindles and REM sleep is
+captured.
+Continuous polymorphic theta and delta activity is present over the left temporal and left occipital
+region.  Multiple electrographic seizures are captured. Their frequency varies from ~1-4 per hour.
+Patient is able to speak during his events, but he appears confused. They last ~ 25-40 seconds.
+Electrographically, seizures start with low amplitude rhythmic ~ 4-5 Hz activity over the left
+temporal region.  This activity rapidly spreads to the left occipital region.  Over the left temporal
+region the activity persists as 4-5 Hz rhythmic moderate  amplitude theta activity, but over the left
+occipital region it evolves in ~ 8-9 Hz rhythmic activity that later too evolves into  rhythmic theta-
+Summary of Findings:
+Seizure, intermittent, left temporal, occur 1-4 times per hour, last 25-40 seconds
+Beta, excessive
+Focal slowing, polymorphic, continuous, moderate, left temporal
+Diffuse slowing, polymorphic, mild
+Interpretation:
+This is a very abnormal ~ 16 hours continuous video EEG due to (1) diffuse background slowing; (2)
+continuous left temporal focal slowing and (3) intermittent left temporal electrographic seizures that
+occur 1-4 times per hour and last ~ 25-40 seconds.  These findings indicate focal structural lesion
+over the left temporal region.  Additionally, there is diffuse etiologically non-specific slowing.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.  These findings were conveyed to the primary team.
+delta activity.
+
+
+
+

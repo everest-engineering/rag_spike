@@ -1,0 +1,14 @@
+History:	45 YR MALE CC SOB/FEVER/ TACHYCARDIA. IN ED BECAME HYPOXIC/ SOMNOLENT.  INTUBATED,  SEPSIS S/P SURGERY FOR RECTAL ABSCESS WITH MSSA BACTEREMIA, S/P BRONCH.
+Medications:	LORAZEPAM DRIP (2 MG HR), FENTANYL DRIP 100 MCG HR
+Sedation:	Lorazepam
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description: Background is characterized by a diffusely slow, attenuated, and poorly reactive pattern. No posterior dominant rhythm is present.  Bursts of diffuse theta activity are present.  Intermittent rhythmic delta activity is present diffusely with a maximal negativity in the bilateral fronto temporal regions, with a slight asymmetry with a higher amplitude seen in the left fronto temporal regions. No normal sleep architecture is present. No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Tactile and painful stimulation produce an increase in muscle artifact without a clear change in background activity.  HR is 84.
+Summary of Findings: Interhemispheric asynchrony, intermittent, bilateral frontotemporal, right mildly attenuated.
+Diffuse slowing, polymorphic, continuous
+No epileptiform discharges
+Interpretation: This is an ABNORMAL EEG in a sedated and intubated patient because of diffuse background slowing and absence of a posterior dominant rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. There is also  an asymmetry in the voltage of the intermittent bifrontal discharge with a lower amplitude on the right fronto-temporal region.  This finding may be indicative of focal cortical cerebral dysfunction on the right or alternatively it may be suggestive  of a fluid collection over that region. No electrographic seizures are present.
+
+
+

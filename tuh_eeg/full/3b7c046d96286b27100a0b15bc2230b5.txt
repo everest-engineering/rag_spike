@@ -1,0 +1,28 @@
+:
+History:	58 year old man with a history of seizures since childhood.  Last seizure occurred ~
+2 months ago.
+Patient has a history of developmental delay.
+Medications:	keppra, coreg,percocet,tramadol,ultram,lasix,mevacor, sinequan, proscar,lisinopril,
+lopid,flonase,androgel,
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by moderate amplitude 10Hz polymorphic alpha rhythm, which
+attenuates symmetrically with eye opening.  There is mild disorganization with poorly formed AP
+gradient.  Diffuse excess beta activity is present.  During sleep there is increase in diffuse theta,
+POSTS and K-complexes-like waveforms are noted.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Disorganization, mild
+Beta, excessive
+Interpretation:
+This is mildly abnormal 1 hour awake and asleep EEG due to mild degree of background
+disorganization. This finding is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical
+diagnosis of epilepsy.  Excessive beta activity could be secondary to the medication effect, such as
+
+

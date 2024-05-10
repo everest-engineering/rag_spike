@@ -1,0 +1,38 @@
+History:	62 year old woman who is comatose.
+Medications:	Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 11/4/2014 to 11/5/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR and no AP gradient.  The background consists of a mixture of polymorphic low
+amplitude theta and delta activity.  No normal sleep architecture is present.
+There are recurrent electrographic seizures occurring several times per hour.  Some seizures last >5
+minutes.  There is no clear clinical correlate.  Seizures start with subtle low amplitude ~9 Hz
+activity observed over the right frontal and occipital leads.  This activity gradually slows down to
+theta frequency range.  It then evolves into rhythmic diffuse slow delta activity  with emergent
+bilateral sharp waves with aftergoing slow waves, most prominent over the right (maximal scalp
+negativity over T4 and P4 leads).  Seizures eventually stop after adjustments are made in the
+medical therapy with no seizures seen by ~ 12 AM.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate-to-severe
+Seizure, intermittent, right fronto-occipital onset and then diffuse spread.  Stop by 12 AM.
+Interpretation:
+This is an ABNORMAL 24-hour continuous video EEG due to moderate-to-severe diffuse slowing
+and intermittent seizures with right fronto occipital onset. Diffuse slowing indicative of moderate to-
+severe diffuse cerebral dysfunction, which is etiologically nonspecific, but in this patient is at least
+partially related to the medication effect.  There is an epileptogenic structural lesion over the right.
+When compared to the recording from 11/3-11/4/2014, seizures stop in the 2nd half of the
+recording.  These findings were conveyed to the primary team.
+
+
+
+
+

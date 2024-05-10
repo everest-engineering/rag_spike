@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 32-year-old female with history of seizures who has been seizure free since 2008.  She has a history of migraine with loss of vision and loss of memory.  She hears sounds that no one else seems to hear.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 9.5-10 Hz in frequency 20-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There was a small amount of low amplitude frontal central beta activity, which is distributed symmetrically.  Stage 1 sleep is characterized by disappearance of the alpha rhythm slowing of the background and absence of muscle and eye blink artifact as well as the presence of vertex sharp waves and posts.  Hyperventilation results in a symmetric slowing of the background activity.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  Heart rate is 60 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capturing wakefulness through stage 1 sleep.  No epileptiform abnormalities or seizures were identified in this record.
+CLINICAL CORRELATION:  A normal EEG does not rule out the diagnosis of epilepsy.  If seizures are a clinical concern, a repeat EEG capturing deeper stages of sleep or 24-hour ambulatory EEG may be helpful.
+
+
+

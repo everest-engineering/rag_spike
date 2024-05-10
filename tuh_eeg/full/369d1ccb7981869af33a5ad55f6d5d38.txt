@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  84 year old woman status post TPA on March 9, 2012, relatively large stroke.
+MEDICATIONS:  Procardia, HCTZ
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.   This is a bedside EEG in an awake patient.
+DESCRIPTION OF THE RECORD:  This is a somewhat technically challenging EEG.  There is a 9 Hz alpha rhythm, better demonstrated on the left with a more generous field of spread on the left than the right.  The right hemisphere demonstrates attenuation of faster frequency, particularly in the frontal temporal regions more than the frontal central.  There is some underlying lower voltage slow delta.  Overall the frontal regions include an attenuation of faster frequency activity and lower voltage frontal delta. The activity from the left is somewhat sharply contoured and on the left it is slightly disorganized.  Features of drowsiness include drop-out of the alpha on the left.  The patient is responsive and with stimulation follows commands.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and drowsiness due to:
+Focal slowing primarily in the right frontal central region primarily characterized by attenuation of faster frequency activity, but with some delta as well.
+Mild slowing on the left.
+CLINICAL CORRELATION:  These are anticipated findings following a large right MCA stroke.  No epileptiform features were noted.
+
+
+

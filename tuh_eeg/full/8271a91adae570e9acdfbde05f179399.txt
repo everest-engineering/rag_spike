@@ -1,0 +1,15 @@
+MEDICINES:  Versed, Ativan, primidone, Onfi, Banzel, Klonopin, Valium, risperidone.
+HISTORY:  A 22-year-old male of unknown handedness with increasing seizures following sleep deprivation.  No other history provided.
+INTRODUCTION:  A 22-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a technically challenging EEG with the patient, who demonstrated poor cooperativity.  The patient's mother was present during the EEG.  The mother notes that the patient's seizures are associated with head dropping.  This patient was very drowsy, drifting in and out of sleep and the mother described some of this patient's behaviors as compatible with his typical seizure.
+DESCRIPTION OF THE RECORD:  The EEG background is markedly abnormal, lacking the normal developmental milestones for an awake adult.  The overall background could best be characterized as lower voltage beta with bursts of rhythmic delta.
+Epileptiform discharges in this record include bursts of 4 Hz activity, which can be primarily in the right hemisphere or bilateral.  On some occasions, these are followed by bursts of frontally predominant delta.  On another occasion, there is a more prolonged bursts of right hemispheric 4-5 Hz activity without the same clearly defined delta.  A more sustained bursts of frontal delta with fast activity mixed in, was not associated with clear clinical signs.  The patient seemed to be hyperextending the neck, drifting off to sleep in the chair and moving about, but the mother did not consider this as one of the patient's typical seizures.  Notched, frontally predominant delta with a subtle underlying spike in wave discharge was also noted in the background.  These bursts were typically less than a second in duration.
+Heart rate:  132 bpm.
+IMPRESSION:  Technically challenging, but markedly abnormal EEG due to:
+Abundant epileptiform activity in the context of an abnormal background including theta or fast activity in the right hemisphere.
+Frontally predominant spike in slow wave activity.
+Likely, an underlying seizure pattern with some variability, which may be characterized by alpha theta activity in the right hemisphere of several seconds duration, followed by frontal delta.  The discharges that could be considered electrographic seizures were on the order of 5-7 seconds and were not clearly associated with a change in behavior.  Of note, however the patient seemed to have motion arrest or even head dropping during at least 2 of the discharges.
+CLINICAL CORRELATION: Diagnostic of a seizure disorder, typical of a secondary generalized type of epilepsy.  Long-term EEG monitor #LTM15-125.  We will follow this report.
+
+
+
+

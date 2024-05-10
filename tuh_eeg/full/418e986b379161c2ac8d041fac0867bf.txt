@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  An 82-year-old male status post stroke, status post aortic valve replacement, and atrial fibrillation.  Evaluate for recurrent confusional spells.
+MEDICATIONS:  Lipitor, digoxin, Elavil, Keppra, Lexapro, Neurontin, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was confused with a repetitive humming kind of vocalization.  This is a technically satisfactory EEG, although impedances in T1-T2 electrodes were slightly above 5 kilo-ohms.
+DESCRIPTION OF RECORD:  The background EEG is diffusely slow and is relatively rhythmically slow with 5-6 Hz theta background.  Superimposed upon this there is some focality with a bit more disruption of theta in the left hemisphere relevant to the right.  There is also some intermittent delta.  The patient has some intermittent, rhythmic frontal theta.  The technologist notes that he intermittently has a little humming, but this is not associated with epileptiform activity.
+Features of drowsiness include a decrease in muscle, and some slower rolling eye movements.
+Photic stimulation did not activate the record.
+Heart rate:  120 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Marked generalized background slowing, rhythmic in nature.
+Some superimposed focal features including a little bit more slowing on the left.
+CLINICAL CORRELATION:  The background slowing supports a diffuse disorder of cerebral function as may be seen in dementia.  There was some rhythmic frontal theta, but this is of unclear clinical significance.  The patient's humming or singing did not have an epileptiform activity.
+
+
+

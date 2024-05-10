@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 62-year-old male with complex medical history including laparoscopic gallstone surgery, past history of lung transplant, skin cancer, evaluate for postoperative seizure.
+MEDICATIONS:  Dilaudid, Prograf, CellCept, insulin, and many others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically challenging bedside record because of the patient's fragile skin.  The patient was relatively somnolent.
+DESCRIPTION THE RECORD:  Much of the record includes a drowsy state with a mixed frequency background, with generous beta and smaller amounts of theta.  As the patient becomes drowsy, there is an increase in delta.  There are a handful of bursts of shifting irregular delta.  Rare spontaneous arousals are noted with auditory and tactile stimulation using a brief arousal glimpse of a 9 Hz alpha rhythm.
+IMPRESSION:  Abnormal bedside portable EEG due to:
+A pattern with generalized background slowing and excess theta.
+CLINICAL CORRELATION:  This EEG is most supportive of a diffuse encephalopathy.  Consideration for a toxic or metabolic encephalopathy or postictal state are appropriate.  There are no focal or epileptiform features and stimulation of this patient did produce a normal alpha rhythm.
+
+
+

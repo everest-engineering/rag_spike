@@ -1,0 +1,16 @@
+DATE OF STUDY:  June 22, 2015 to June 23, 2015.
+CLINICAL HISTORY:  A 25-year-old woman with adult onset episodes with loss of consciousness, past motor vehicle accident.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software was utilized.  During the first 24 hours of the record, no clinical events were noted by the patient, nursing staff, or seizure and spike detection software.
+Background:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta activity, stage 2 sleep includes vertex waves, K complexes, spindles, and POSTS.
+In the transition to sleep or in drowsiness, focal slowing can be identified in the left mid temporal region, typically maximum in the T1-T3 electrodes.  This is best visualized and with a slower paper speed.  Vertex waves, K complexes, spindles, and POSTS are noted in stage 2 sleep.  Likely, slow wave sleep was noted in the early morning hours on the 23rd.
+Seizures:  None.
+Epileptiform Detections:  Primarily in sleep, sharp waves and spikes are noted from the left temporal region.  They can be differentiated from EKG artifact and may be maximum at T1-T3 and occasionally have some spread to T5.  Generally, high amplitude spike and slow wave complexes are noted, drowsiness, stage 2 sleep, and even as the patient transitions towards slow wave sleep.
+Heart rate:  84 BPM.
+IMPRESSION:  This first 24 hours of continuous video EEG monitoring is remarkable for:
+High amplitude left anterior temporal sharp waves and spikes, some with variable maximum involving the posterior temporal region.
+Rhythmic left temporal slowing, less prominent noted in the baseline.
+CLINICAL CORRELATION:  This EEG suggests a focal mechanism for epilepsy.  Additional EEG recording will continue in hopes of capturing seizures.
+
+
+

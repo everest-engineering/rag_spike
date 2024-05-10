@@ -1,0 +1,31 @@
+History:	74 year old woman undergoing left CEA.
+
+
+INCISION: 8:41AM
+HEPARIN: 9:11AM 5000U
+CLAMP: 9:16AM
+UNCLAMP: EXT 10:08AM ALL 10:12AM
+Medications:	INDUCTION: FENTANYL, PROPOFOL, LIDOCAINE, ROCURONIUM,
+SURGERY: ISOFLURANE, PHENYLEPHRINE, FENTANYL
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, comatose
+Description:
+Patient is awake at the beginning of the recording.  The background consists of 10 Hz PDR,
+expected AP gradient, excess theta and beta activity and brief bursts of diffuse large amplitude
+delta activity.  Once general anesthesia is initiated, the background consists of a mixture of
+polymorphic frequencies, overriding delta and underriding fast activity and occasional periods of
+background discontinuity.  Left internal carotid artery is clamped at 9:16:38 am and external carotid
+artery is clamped at 9:16:39 am.  No change in the background is appreciated.  Left external
+carotid artery is unclamped at 10:08:37 am and left internal carotid artery is unclamped at 10:12:
+Summary of Findings:
+Interpretation:
+This is an unremarkable ~2 hour continuous intraoperative EEG monitoring during the left CEA.  I
+was personally present during the clamping of the left external and internal carotid arteries.
+Findings were communicated to the surgeon regularly.
+
+
+
+
+

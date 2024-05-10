@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 40-year-old woman with renal stones, ACL tear, TIA and now with 2 episodes of loss of consciousness and incontinence.
+MEDICATIONS: Tylenol
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well-organized with a 10 Hz alpha rhythm and a generous amount of low voltage, frontocentral beta.  Drowsiness is characterized by anterior spread of the alpha rhythm and an increase in beta.  Hyperventilation is characterized by an increase in theta.  Photic stimulation elicits a generous driving response.  In addition, at the end hyperventilation,  hypersynchronous rhythmic slowing was noted, compatible with drowsiness.
+Heart rate 112 BPM.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  Normal phenomena of drowsiness was noted.  The rapid heart rate at rest may be evaluated clinically.
+
+
+

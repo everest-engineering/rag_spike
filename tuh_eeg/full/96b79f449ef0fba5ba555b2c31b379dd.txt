@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 55-year-old woman with intermittent hypoglycemia associated with a feeling of being cold and inability to respond.
+MEDICATIONS:
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This was an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm with a small amount of low voltage frontocentral beta.  Drowsiness is characterized by attenuation of the alpha rhythm, but deeper stages of sleep were not achieved.  Hyperventilation does not activate the record.  Photic stimulation does elicit a bilateral driving response.  Heart rate 90 BPM.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  This is a normal EEG.
+
+
+

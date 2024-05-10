@@ -1,0 +1,38 @@
+AGE: 63 y.o.
+SEX: male
+DATE OF STUDY: 09/22/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG #: 15-1398
+HISTORY:
+63 y.o. male with a history of seizures, reportedly more frequent beginning the first week of September 2015. PMH: Seizures, CAD with CABG 2007, COPD, HTN, CKD, PAD
+stent RLE, MRSA.
+MEDICATIONS:
+Keppra, Neurontin, Flexeril, Flomax, Insulin, Zestril, Catapres, Lopressor, Plavix, Imdur, Norvasc, Symbicort
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.
+There is frequent left temporal polymorphic slowing and occasional independent right temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 54 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and asleep routine EEG due to:
+l. Frequent left temporal polymorphic slowing
+2. Occasional independent right temporal polymorphic slowing
+CLINICAL CORRELATION:
+These findings indicate the presence of bitemporal (left > right) cerebral dysfunction.
+
+
+

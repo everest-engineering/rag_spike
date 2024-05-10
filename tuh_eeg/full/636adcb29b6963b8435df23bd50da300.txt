@@ -1,0 +1,32 @@
+History:	59 year old man with a history of seizures who has been seizure-free for many years.
+Medications:	Depakote, Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9-10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Occasional polymorphic theta and delta activity is noted over the bifrontal regions.  Intermittent
+moderate-to-high amplitude prominent synchronous sharp waves with aftergoing slow waves are
+captured over the bifrontal regions.  Amplitude of these discharges is nearly always higher over the
+left and  there appears to be minimal left lead-in.  Maximal scalp negativity occurs over F3 and F4
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does
+not produce additional abnormalities.
+Summary of Findings:
+Spike-and-wave complexes, intermittent, bilateral (L>R) frontal, more prominent over the left with
+No stage 2 sleep
+Focal slowing, polymorphic, occasional, bilateral (L>R) frontal, mild-to-moderate
+Interpretation:
+This is an ABNORMAL awake and drowsy 23-minute EEG due to occasional mild-to-moderate
+bifrontal (L>R) focal slowing and intermittent synchronous bifrontal epileptiform discharges that are
+more prominent over the left. Focal slowing is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  These types of epileptiform discharges
+are seen in focal (frontal) or treated generalized types of epilepsies.  Please correlate clinically.
+
+
+
+

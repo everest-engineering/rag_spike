@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 46 year old right handed female with refractory epilepsy, endocarditis, and change in mental status.
+MEDICATIONS: Tegretol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is a 1-hour sleep-deprived record.
+
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat slow and disorganized with a posterior dominant rhythm which does reach 9 Hz. There is excess background theta and sharply contoured slowing with sharp waves identified in the left anterior temporal region. Hyperventilation seems to accentuate the background slowing and perhaps also the focal sharp waves on the left. Features of drowsiness include vertex waves and spindles. The epileptiform activity is seen primarily in the initial sections of the record and is not accentuated by sleep. The sharply contoured slowing does occasionally appear in sleep. Photic stimulation elicits minimal driving.
+HR: 66 bpm.
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. Rare bursts of sharply contoured slowing or sharp waves in the left temporal region.
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function affecting gray and white matter. Correlation with imaging may be appropriate, given the epileptiform activity described above.
+
+
+
+

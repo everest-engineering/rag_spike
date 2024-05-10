@@ -1,0 +1,19 @@
+CLINICAL HISTORY: 48 year old right handed woman who had a fainting spell and hit
+her head. History of cavernoma.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. This is an awake and asleep
+record.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is well
+organized with a high amplitude 11 Hz alpha rhythm, generous low voltage,
+frontocentral beta activity. Drowsiness is characterized by intermittent
+hypersynchronous rhythmic slowing as well as an increase in beta. Hyperventilation
+produces an increase in amplitude in the background. Two bursts of left temporal focal
+delta are observed as are some artifacts in the same region.
+HR: 72 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. 2 bursts of left temporal delta.
+CLINICAL CORRELATION: There are no epileptiform features noted. The delta may
+be related to this patient's cavernoma.
+
+

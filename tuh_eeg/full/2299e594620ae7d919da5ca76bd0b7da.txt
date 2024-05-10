@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 63-year-old woman found unresponsive by her husband at 11 a.m. on the 30th with left arm shaking and then a tonic-clonic seizure.
+MEDICATIONS:  Phenobarbital, propofol, others.
+INTRODUCTION:  Continuous video EEG was employed using standard 10-20 system of electrode placement with one channel EKG.  Seizure and spike detection was eliminated, given the patient's baseline.  The patient was intubated, somewhat responsive to tactile stimuli, with no clinical seizures noted.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is in the ICU intubated and unresponsive.  She had been treated with a propofol drip.  The propofol drip was paused and a phenobarbital drip was initiated which produced a slowing of the heart rate to 60 beats per minute, and then the patient returned to the propofol drip.
+The background EEG demonstrates a diffusely slow pattern with bilateral slowing.  Superimposed upon this are periodic complexes from the left hemisphere.  These have a small degree of build up and range in periodicity from 0.3 Hz to 1 Hz.  Tactile stimulation.  The patient does not significantly activate the EEG.
+Over the course of the night with a change in pharmacotherapy, there is no significant change in the periodic complexes.  Around midnight, at one point, they are a little bit more invariant, but they continue to have a small degree of build up, although no definitive ictal evolution. This pattern continues during morning of 1/31/14
+Heart rate 60 BPM
+IMPRESSION:  This first day of continuous video EEG monitoring is remarkable for ongoing periodic complexes with some degree of frequency evolution.
+CLINICAL CORRELATION:  This pattern may represent an ongoing ictal burst of late ictal pattern.  These findings were discussed with the on-call team.
+__________________________
+
+
+

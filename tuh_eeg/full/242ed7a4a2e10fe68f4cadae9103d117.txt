@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  67 year old male with prostate cancer, renal failure, and a hepatic mass.  The patient experienced 2 episodes of generalized shaking with his eyes rolling back into his head during dialysis.  Following those he remained obtunded with myoclonic jerking.
+MEDICATIONS:  Lorazepam, Aranesp, Heparin, Keppra, Zosyn, ASA, Plavix, Metoprolol, famotidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated.  He demonstrates many different motor movements during the EEG.
+DESCRIPTION OF THE RECORD:  Background EEG is markedly slow with a mixture of delta and theta.  The patient has various different twitching including eye movements, mouth movements, and jerking of the lower extremities.  None of these are associated with epileptiform activity on the EEG.  There is a small degree of variability in the record and some sections of it are richer in beta than others.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Significant, generalized background slowing.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function.  This process may be toxic or metabolic.  No epileptiform features were seen.  The patient's involuntary movements were not associated with epileptiform activity.  Evaluation for a metabolic or anoxic cause may be appropriate.
+
+
+

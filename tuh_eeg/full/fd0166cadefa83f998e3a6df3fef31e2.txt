@@ -1,0 +1,8 @@
+CLINICAL HISTORY: 33 year old male with drug abuse and encephalopathy or delirium.
+MEDICATIONS: Ativan, Insulin, Lovenox, Vancomycin, Zosyn, Norepinephrine, fentanyl
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly slow pattern. There is an extreme delta and theta. Stimulation of the patient does not produce a change in the EEG.
+HR: 120-150 bpm
+IMPRESSION: Abnormal EEG due to: 1. Markedly slow and low voltage EEG_ 2. Absence of reactivity in variability.
+CLINICAL CORRELATION: No epileptiform features are observed. The markedly slow background must be placed in the appropriate clinical context.
+

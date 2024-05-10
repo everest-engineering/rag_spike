@@ -1,0 +1,18 @@
+
+CLINICAL HISTORY: 78 year old right handed male with a previous pituitary resection, multiple neurologic and medical problems with remote history of episodes of blacking out. Also, cognitive impairment, stable. Syncope free for the past 6 months.
+
+MEDICATIONS: Prandin, Actos, Hydrocortisone, Sular, Toprol, Avapro, Crestor, Allopurinol, Flomax, Gabapentin
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic simulation was performed. This was an awake and asleep record.
+
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is somewhat slow, low voltage with an 8 Hz posterior dominant rhythm. The activity is a little higher amplitude on the left compared to the right. As the patient becomes drowsy, there is a bit of disruption of faster frequency activity, particularly on the left, although there is some shifting asymmetry with a bit more left frontal arrhythmic delta. Photic stimulation does not activate the record although it does produce some photoelectric artifact.
+
+HR: 72 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Shifting slowing, somewhat more remarkable in the left frontal region.
+
+CLINICAL CORRELATION: In comparison to the previous EEG, the background is not quite as slow and the arrhythmic delta activity is not as prominent. No epileptiform features were seen in either record.
+
+

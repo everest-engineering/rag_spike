@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  The patient is status post a motor vehicle accident with head trauma in April, 2012. She subsequently developed new-onset seizures in October, 2012 and has had recurrent episodes of confusion and change of mental status.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  This is an EEG recorded with a standard 10-20 system of electrode placement.  One channel of EKG monitoring was used as well.  The record captured wakefulness through drowsiness.
+DESCRIPTION OF THE RECORD:  Recording time started at 8:53 a.m. and ended at 9:17 a.m.  As the record opens, there is a well-formed and symmetric 10-Hz posterior dominant rhythm that is reactive to eye opening. There is a small amount of frontocentral beta activity that was identified symmetrically distributed as well. Stage 1 sleep and drowsiness is heralded by slowing of the posterior dominant rhythm and appearance of theta-frequency activities throughout.  Hyperventilation was performed with good effort and did not activate the tracing significantly.  Photic stimulation was not performed. There were no ictal discharges. There were no electrographic seizures. There were no clinical seizures.
+IMPRESSION:  This is a normal EEG capturing wakefulness through drowsiness. A normal EEG does not rule out clinical diagnosis of epilepsy.  If clinically indicated, a repeat tracing capturing deeper stages of sleep may be indicated in this patient. In addition, more prolonged monitoring maybe indicated.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 32-year-old right-handed male with 2 episodes of speech arrest on the job in February 2014.  No prior history of epilepsy, head trauma, or other known epilepsy risk factors.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a technically satisfactory record with most impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz posterior dominant rhythm with a small amount of low voltage, frontal central beta.  Brief drowsiness was characterized by an increase in beta.  Hyperventilation did not activate the record.  Photic stimulation elicited vigorous driving with harmonic and supraharmonic driving.
+Heart rate 66 bpm.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Deeper stages of sleep were not achieved.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep may be of value.
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+History:	51 YO F,  PRESENTED WITH anoxic brain injury after a myocardial infarction. She
+was intubated on versed drip in the CICU.
+Medications:	VERSED, FENTANYL, HEPARIN, INSULIN, NOREPINEPHRINE,
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded, comatose
+Description:
+There was diffuse muscle artifact almost throughout the recording. The patient was reportedly
+received neuromuscular blocking agent towards the end of this routine EEG. The recording was
+readable during the last 20-30 seconds of this recording which  characterized by intermittent bursts
+of diffuse activity in theta and alpha range lasting 1-2 seconds separated by 1-2 seconds of
+background discontinuity.  No posterior dominant rhythm was present.  No normal sleep architecture
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation were not performed.  HR is 100-110 bpm.
+Summary of Findings:
+Technically inadequate
+Attenuation
+Interpretation:
+This is a TECHNICALLY INADEQUATE EEG because of abundant EMG artifacts. Recording was
+readable for a brief period of time after administration of neuromuscular blockade that showed
+bursts of diffuse activity in alpha, beta, and theta range separated by periods of generalized
+attenuation. These findings are consistent with diffuse severe cerebral dysfunction, which may be
+due to toxic, metabolic or anoxic  encephalopathy or bilateral structural lesions. Clinical
+correlation and a repeat EEG is recommended.
+
+

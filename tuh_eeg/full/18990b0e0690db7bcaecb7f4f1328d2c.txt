@@ -1,0 +1,24 @@
+History:	50 YR OLD MALE WITH PRIOR EEG ADMIT ON 3/16/14 WITH GTC SZ,  HAS H/O
+SUBSTANCE ABUSE. PMHS SIG FOR  RT  MESIAL TEMP
+SCLEROSIS,DEVELOPMENTAL DELAY, HTN,
+Medications:	DILANTIN, LORAZEPAM, LOVENOX, HEPARIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.  During stage 2 sleep, the record slows
+further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Some mild frontal alpha of unclear
+significance.  HR 96
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep.
+
+
+

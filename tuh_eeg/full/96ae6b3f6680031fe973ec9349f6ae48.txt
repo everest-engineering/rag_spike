@@ -1,0 +1,38 @@
+History:	57 year old man status post PEA code.  On the exam, patient is comatose, frequent
+eye blinks are noted.
+Medications:	Propofol
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~13 hours from 1/15/2015 till 1/16/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.  The Gotman
+spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for
+electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  In the first half of the recording, the background consists of a
+mixture of polymorphic moderate-to-high amplitude theta and delta activity that lack clear
+reactivity.  In the second half of the recording, there is increase in the amount of underriding fast
+activity and diffuse decrease in amplitudes.  No normal sleep architecture is present.
+No electrographic seizures are captured.
+A single EKG lead demonstrates frequent premature QRS complexes.
+Summary of Findings:
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate-to-severe
+Interpretation:
+This is an ABNORMAL ~13 hours continuous video EEG due to moderate-to-severe diffuse slowing.
+This finding is indicative of moderate to-severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.  Change in the background appearance that occurs in the second half of the recording
+(decrease in amplitudes and appearance of fast activity) could be related to increase in propofol
+dose.  These findings were conveyed to the neurology consult team.
+
+
+
+
+
+

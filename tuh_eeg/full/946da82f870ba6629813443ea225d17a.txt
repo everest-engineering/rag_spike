@@ -1,0 +1,115 @@
+History:  18 year old RH man with seizures since age 18 months after having a prolonged febrile seizure at 13 months. Two seizure types: 1.) sudden fear (until age 5, heard a "beep beep" sound) lasting 10 to 30 seconds.  2.) tonic clonic, only two seizures of this type in his life.
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+The patient is having medically uncontrolled seizures or clinical events, which poses a significant mortality and morbidity risk. Continuous monitoring will aid in diagnosis and determining best treatment options. If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual mortality rate.
+Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures causing injury or status epilepticus;
+The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to provide first aid and patient safety during seizures;
+The full hospital team must be present to deal with these medical emergency situations should they arise, including nurses to document patient's exam
+there have been 13 reported deaths during various video-EEG monitoring procedures, so this is not a "low risk" service
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician. A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+Samples of EEG were recorded periodically. Detections were reviewed in detail by the attending neurologist.
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 1O Hz.
+Description of daily interictal EEGs:
+Day 1	lnterictal background:The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz. Continuous left anterior temporal focal slowing.	Epileptiform activity:	None	Sleep:		Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.	Seizures/events :	1	AEDs:	Lamictal 300mg PO in AM and Lamictal 150mg PO in PM
+Day 1	lnterictal background:
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz. Continuous left anterior temporal focal slowing.
+Epileptiform activity:	None
+Sleep:		Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.
+Seizures/events :	1
+AEDs:	Lamictal 300mg PO in AM and Lamictal 150mg PO in PM
+Day 2	lnterictal background:The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz. Continuous left anterior temporal focal slowing.	Epileptiform activity:	None	Sleep:		Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.	Seizures/events:	3	AEDs:	none
+Day 2	lnterictal background:
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz. Continuous left anterior temporal focal slowing.
+Epileptiform activity:	None
+Sleep:		Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.
+Seizures/events:	3
+AEDs:	none
+Day 3	lnterictal background:	The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.Continuous left anterior temporal focal slowing.	Epileptiform activity:	None	Sleep:		Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.	Seizures/events:	2	AEDs:	none
+Day 3	lnterictal background:	The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+Continuous left anterior temporal focal slowing.
+Epileptiform activity:	None
+Sleep:		Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.
+Seizures/events:	2
+AEDs:	none
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.Continuous left anterior temporal focal slowing. None Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.1Phenobarbital added after event.
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+Continuous left anterior temporal focal slowing. None
+Normal sleep architecture is seen and includes: stage I and stage II sleep. Vertex waves, and sleep spindles.
+1
+Phenobarbital added after event.
+Day 4	lnterictal background:Epileptiform activity:Sleep:Seizures/events: AEDs:Clinical and EEG Characteristics during Seizures and Events:
+Day 4	lnterictal background:
+Epileptiform activity:
+Sleep:
+Seizures/events: AEDs:
+Event #1:
+Date:  10/19/15	Time:  13:13 Baseline:
+Clinical features:
+Pt pressed the button and cleared his throat. Pt complained of small "bursts of fear." Verbal and motor testing was normal.
+EEG features:
+No change in background.
+Event #2:
+Date: 10120/15	Time: 10:58 Baseline:
+Clinical features:
+The patient is on the still bicycle, suddenly stops and asks for the button. Pushes the button, and then coughs. Shrugs shoulder and continues to bike.
+EEG features:
+No change in the background.
+Event #3:
+Date: 10120/15	Time: 19:32 Baseline:
+Clinical features:
+The patient is in the bed, in reclined position, playing with his phone, checking his right arm and looking at his IV line. Starts looking for the button, picks up the EEG box and turns it around while stating he "is having one".The mother comes and pushes the button. Immediately adjusts the glasses, looks around and then coughs inside his left amt Begins the conversation with the nurse who returns the call. The HR remains stable, EKG shows no significant change in HR
+EEG features:
+No change in the background.
+Event #4:
+Date: 10120/15	Time: 22:59 Baseline:
+Clinical features:
+Sleeping comfortably, there is loud voice from outside (sounds like the window is open) wakes up from sleep, looks towards his right, extends his right arm, reaches towards the chair, turns to left and then
+quickly tums right, uses the chair to lift himself up but then lays down again. Mother comes to the bed and pushes the button. Tells the mother "I had a panic attack feeling". The patient reaches to left temporal with left hand. Puts his right hand behind his head and converses with mother. Coughs, the nurse walks in. The patient reports "I was just laying down, falling asleep had a quick headache"
+EEG features:
+Stage 2 sleep, sudden arousal but no clear change in background.
+Time:  17:31The patient is in seated position, eating using the right hand, puts right hand down and continues chewing. Scratches the left cheek with left hand. Puts left hand down and starts looking for the button, lifts up EEG box, finds the button, holds it in his hand for 3 seconds hesitating, then pushes the button. Starts investigating the button. Continues to chew his food while holding the button on the left hand. Makes a gesture with the left hand to the mother, reaches to the food with the left hand and continues to eat.Reports to the MD that one of his regular episodes, lasting few seconds of intense fear.
+Time:  17:31
+The patient is in seated position, eating using the
+right hand, puts right hand down and continues chewing. Scratches the left cheek with left hand. Puts left hand down and starts looking for the button, lifts up EEG box, finds the button, holds it in his hand for 3 seconds hesitating, then pushes the button. Starts investigating the button. Continues to chew his food
+while holding the button on the left hand. Makes a gesture with the left hand to the mother, reaches to the food with the left hand and continues to eat.
+Reports to the MD that one of his regular episodes, lasting few seconds of intense fear.
+Event #5:Date: 10121/15 Baseline: Clinical features:	EEG features:Chewing artifact in the background. No significant EEG change. Eye movements.
+Event #5:
+Date: 10121/15 Baseline: Clinical features:
+EEG features:
+Chewing artifact in the background. No significant EEG change. Eye movements.
+Event #6:
+Date:  10/21/15	Time:  21:14
+Baseline:
+Clinical features:
+Standing, talking to the mother, holding the EEG box on his left hand. Drinks water using his left hand. Sits down on the chair. Extends his right arm and scratches his head with right hand. Scratches right eyebrow, touches his left eye, fixes his glasses using the same hand. Start laughing, switches hands, holds the EEG box with his right hand and picks up his left hand, fixes his glasses, scratches his forehead. Continues to watch TV with both hands down on the chair. Picks up the EEG box using his left hand, searches for the button for a second and pushes the button. Keeps talking to the mother while looking for the button. Scratches forehead using his right hand. After the nurse walks in the mother says "he just had a small one" and the patient repeats "I'm ok".
+EEG features:
+No change in the background.
+Event #7:
+Date:  10/22115	Time:  18:30
+Baseline:
+Clinical features:
+Sitting on the bed, playing with the straw, holding the straw in his both hands, then suddenly sits more up and looks for the button with his right hand, asks " this is the one, right? Black one" holds the button, asks "this one?" and pushes the button. Keeps holding the button and explains the mother that he had another episode which was very fast. No significant change in the hr/ekg strip
+EEG features:
+No changes in the background.
+INDUCTION PROCEDURES:
+Exercise
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+Left temporal focal slow.
+lctal Findings:
+The patient had 7 events while hooked up to continuous video EEG monitoring in the epilepsy monitoring unit. None had a correlate but the patient had no impaired awareness.
+SEIZURE DIAGNOSIS:
+1. Simple partial seizures
+EPILEPSY DIAGNOSIS:
+1. Localization related epilepsy
+CONCLUSION:
+admitted to the epilepsy monitoring unit for 4 days with continuous video EEG.
+The interictal EEG is characterized by left temporal focal slowing. Focal slowing is consistent with the known temporal lobectomy.
+The patient was weaned off Lamictal over the course of his admission. Phenobarbital was added at the end of the study.
+
+
+

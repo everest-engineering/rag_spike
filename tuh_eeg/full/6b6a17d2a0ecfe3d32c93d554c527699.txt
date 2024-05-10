@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 80 year old right handed male with kidney transplant, memory impairment, and hallucinations.
+
+MEDICATIONS: Acyclovir, Aricept, CellCept; Lisinopril, Pravachol, Metoprolol, Benadryl, Prograf, Rapamune, Prednisone, Trimethoprim/Sulfa, Nystatin, ASA
+
+INTRODUCTION: Digital video EEG was performed in lab using the standard 10-20 system of electrode placement with 1 channel EKG.
+
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG is diffusely slow, at best reaching an alpha rhythm of 6.5 Hz; but when the patient relaxing and drifting off into sleep or under-stimulated, more of a 4 Hz pattern. There is a small amount of 2 Hz delta activity and rare P3 subtle focal delta.
+
+HR: 60 bpm with broad QRS complex.
+
+IMPRESSION: Abnormal EEG due to:
+1. Rhythmic background slowing.
+2. Very subtle superimposed occasional left posterior slowing.
+
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function, which may be attributed to this patient's medications or chronic CNS processes. There were no epileptiform features noted.
+
+

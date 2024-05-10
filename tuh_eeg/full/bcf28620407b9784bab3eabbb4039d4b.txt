@@ -1,0 +1,20 @@
+History: 71 YR MALE S/P PEA CODE 1/13/14 APPROX 4:15AM.  LOST PULSE X3. TOTAL
+EVENT 1 HR.  S/P LEFT CCA  ANGIOPLASTY, STENT PLACEMENT, LEFT CEA.  EEG
+FOR PROGNOSIS.
+Medications:	NOREPINEPHRINE, VASOPRESSIN, INSULIN, VANCOMYCIN, ASA, FAMOTIDINE, PLAVIX, METOPROLOL, CEFEPIME, HEPARIN, CYPROHEPTADINE
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+Description: No posterior dominant rhythm was present.  Background activity was characterized by diffuse low voltage slow activity with absence of the expected anterior to posterior gradient of frequencies. diffuse EMG and ICU-related artifact were noted throughout the recording.  No normal sleep
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.  HR is 120 bpm.
+Summary of Findings:
+Artifact, other
+Technically limited
+Attenuation
+Artifact, EMG
+No reactivity
+Interpretation:
+This is a TECHNICALLY limited EEG because of abundant EMG and ICU-related artifacts. This is an ABNORMAL EEG because of  diffuse background slowing and attenuation.  These findings are etiologically nonspecific indicators diffuse cerebral dysfunction. In the setting of anoxic brain injury it is associated with poor prognosis.  Note the patient is tachycardic.
+
+

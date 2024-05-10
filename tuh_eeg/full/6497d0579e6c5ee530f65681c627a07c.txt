@@ -1,0 +1,33 @@
+History:	66 year old woman with a known metastatic lung cancer with prior seizures and
+status epilepticus, who now presents with worsening neurological exam.
+Medications:	VALPROIC ACID, PHENOBARBITAL, KEPPRA , SEROQUEL
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, lethargic, obtunded
+Description:
+There is right-to-left intrahemispheric asymmetry with faster waveforms over the left hemisphere.
+The background over the left hemisphere of polymorphic up to 8.5 Hz activity posteriorly with
+excess polymorphic theta and delta activity, weak AP gradient and occasional T5/P3/ O1 sharp
+waves.  The background over the right hemisphere lacks PDR or AP gradient and consists of a
+mixture of polymorphic theta and delta activity with intermittent moderate amplitude, at times 1-2
+Hz rhythmic moderate-to-high amplitude frontal sharp waves and  independent less frequent T2-T4
+sharp waves.  Frequency of right hemispheric sharp waves increases during drowsiness.  No normal
+sleep architecture is present but periods of quiescence are captured.
+No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There is reactivity and variability in
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+Focal slowing, polymorphic, continuous, left hemispheric, mild-to-moderate
+Sharp waves, intermittent, left posterior
+Sharp waves, intermittent, right frontal
+Sharp waves, occasional, right temporal
+Interpretation:
+This is an ABNORMAL 22-minute EEG due to mild-to-moderate left hemispheric focal slowing,
+moderate right hemispheric focal slowing, independent left posterior, right temporal and right
+frontal epileptiform discharges. Slowing indicates cerebral dysfunction, that in this patient is both
+diffuse (etiologically non-specific) and focal (structural in etiology).  There are independent
+epileptogenic foci over the left posterior quadrant, right temporal and right frontal regions.  These
+findings are consistent with known metastasis in the corresponding cerebral regions.  No clinical or
+
+

@@ -1,0 +1,36 @@
+﻿History:	52 YR OLD FEMALE PRESENTS WITH H/O FOUND DOWN IN FIELD W/
+ASYSTOLE. PT HAD C/C OF WORSENING ASTHMA, WALKED UP A FLIGHT OF
+STAIRS COMPLAINED OF BREATHING THEN COLLAPSED.
+Medications:	KEPPRA, PROPOFOL DRIP, 5 MG OF VEC
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 22 hours from12/23/2014 to 12/24/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by generalized
+(frontally-maximal) periodic (1 to 2 Hz) epileptiform discharges (GPEDs) with at times some
+intermixed delta and theta diffuse slowing. Along with GPEDs the patient had associated eye
+movements.  The background becomes progressively attenuated over the first hours of the record.
+For the last 17 hours the background is almost completely attenuated with intermittent eye
+movement artifact noted.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 96
+Summary of Findings:
+Attenuation, continuous, marked diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  Generalized periodic discharge, diffuse slowing with
+progressive diffuse background attenuation.  The combination of findings are suggestive of  severe
+cortical dysfunction.  In the setting of hypoxic injury it forebodes a poor prognosis.
+
+
+
+
+

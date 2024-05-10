@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 71-year-old right-handed woman with previous right MCA stroke presents with weakness, dizziness, recurrent falls, and seizure in emergency room.
+MEDICATIONS:  Neurontin and Keppra.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient seemed to be restless while awake, but readily fell asleep.
+DESCRIPTION OF THE RECORD:  The background EEG is poorly organized and somewhat slow.  There is a 7-8 Hz posterior dominant rhythm identified on the left, disrupted on the right.  In wakefulness, there is superimposed focal slowing noted in the right posterior quadrant, some of which is sharply contoured.  Features of drowsiness include an increase in background slowing with spindles and vertex waves noted in sleep, but the sleep morphologies are somewhat asynchronous.
+Heart rate:  90 bpm, irregular.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Focal slowing, right posterior quadrant.
+CLINICAL CORRELATION:  No definitive epileptiform features were identified.  The focal slowing is in the region of this patient's previous strokes.  The generalized slowing may be part of this patient's bihemispheric pathology or part of postictal state.  If appropriate, an additional EEG recording may be of use.
+__________________________
+
+
+
+
+

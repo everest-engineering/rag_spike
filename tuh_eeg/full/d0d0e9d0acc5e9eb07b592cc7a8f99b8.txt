@@ -1,0 +1,19 @@
+LENGTH OF THE RECORDING:  Twenty-five minutes.
+CLINICAL HISTORY:  The patient is a 48-year-old woman with a history of coronary artery bypass surgery on 04/16/2013. He was found to have a left ACA stroke on 04/19/2013.  The patient currently remains somnolent.
+MEDICATIONS:  Current medications: Ativan, heparin, Lopressor, Depakote, cefepime, metoprolol, and others.
+INTRODUCTION:  Condition of the recording:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.  The recording was performed at the patient's bedside.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of a mixture of polymorphic theta and delta activity.  Additional focal theta and delta activity are captured over the left frontal/anterior temporal region.  No normal sleep architecture is observed.  There are frequent multifocal sharp waves.  Sharp waves with __________ slow waves were observed independently over the left frontal region (with phase reversal of our F3 electrode), left central temporal parietal region (with phase reversal over T3, C3, P3 electrode), diffuse broadly based bifrontally predominant sharp waves that appear to be semi-periodic and periodic with frequency up to 2 Hz as well as small amplitude or 2 electrode sharp waves that often line up with the QRS complexes.  At 9:45:29 a.m., there is a possible electrographic seizure captured.  During the event, the background suddenly decreases in amplitude. Posterior dominant rhythm and anterior to posterior gradient appears.  This lasts approximately 10 seconds.  Following that, EEG run 4 Hz small amplitude sharp waves appear over the right occipital region with maximal __________ over O2 electrode simultaneously.  Arrhythmic sharp wave contour delta activity appears over the bifrontal region, more pronounced over the right.  This delta increases in amplitude, becomes better form, and with clear sharp waves captured.  There is no clear offset of this probable electrographic seizure, however, this activity lasts approximately 1 minute.  Sinus tachycardia is captured in a single EKG lead.
+FINDINGS:
+A suspected electrographic seizure at 9:45:29 a.m. with unclear onset, lasting at least 1 minute.
+Multifocal sharp waves.
+Focal left anterior temporal/frontal slowing.
+Mild to moderate diffuse slowing.
+IMPRESSION:  This is a very abnormal electroencephalogram due to:
+Mild to moderate diffuse slowing.
+Moderate focal left anterior temporal/frontal slowing.
+Multifocal sharp waves.
+A probable electrographic seizure with unclear localization or lateralization.  Slowing indicates etiological nonspecific cerebral dysfunction.
+Focal left anterior temporal/frontal slowing is likely secondary to underlying structural abnormality and in this patient is consistent with a history of a left anterior cerebral artery stroke. Multifocal sharp waves indicate multiple potential epileptogenic foci, however,  this electroencephalogram pattern could also be observed in significant metabolic disturbance.   These findings were conveyed to the Neurology consult team at the time of dictation.
+
+
+

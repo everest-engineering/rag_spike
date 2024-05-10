@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 30 year old male with question of meningitis, cerebral edema, hypothermia, poorly responsive, episodes of gagging.
+MEDICATIONS: Phenylephrine, Vasopressin.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient was  intubated and comatose.
+DESCRIPTION OF THE RECORD: The background EEG is markedly suppressed. Although there are artifacts noted in the EEG, there does appear to be low voltage cerebral activity which can be differentiated from eye movement and very low voltage, slow activity. Stimulation of the patient does not activate the record. There is no variability.
+HR: 114 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Marked suppression of the background.
+CLINICAL CORRELATION: There does appear to be residual cerebral activity, although this is thought to be suppressed background and there is a possibility that the activity described above may be artifactual. In any case the EEG demonstrates some eye movement suggesting some preservation of brain stem function.
+
+
+

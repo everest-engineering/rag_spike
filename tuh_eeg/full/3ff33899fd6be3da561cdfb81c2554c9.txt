@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 35-year-old woman with non-small cell lung cancer, metastasis to brain with whole brain radiation in 2011, now with right frontal EVD.  The patient needed to be evaluated for seizures after she became obtunded after bronchoscopy requiring intubation.  The patient transferred to Temple for evaluation of either hypoxic cerebral injury or cerebral edema.
+MEDICATIONS:  Keppra, Serax, Decadron, propofol drip, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated and comatose.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The primary frequency in the background is a mixture of delta and theta.  There is a slight asymmetry between the 2 hemispheres.  There tends to be a bit higher amplitude rhythmic delta in the right frontal regions compared to the left.
+Stimulation of the patient does not activate the record.
+Heart rate:  90 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Replacement of normal background with marked generalized slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  The use of sedative or hypnotic medications can play a roll in the pattern described above, but the marked background slowing with paucity of faster frequency is more supportive of a severe, diffuse bihemispheric disturbance.
+
+
+

@@ -1,0 +1,23 @@
+History:	74 YO FEMALE BROUGHT IN FOR CHANGE IN MENTAL STATUS. PT WAS
+HAVING TROUBLE VERBALIZING. PMHX: STROKE + LEFT CEA 8 YRS AGO. BI-
+PASS 4 YRS AGO, DM, HTN.
+Medications:	NICARDIPINE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.  HR
+was 84 irregular
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake, drowsy, and asleep.
+
+
+

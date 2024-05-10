@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 56-year-old woman with right MCA CVA, status tPA.  She is now postoperative day #1 after craniotomy.  Worsening edema, mass effect, shift.  Possible seizure on the morning of 05/23/2013.
+MEDICATIONS:  Clonidine, tramadol, Depakote.  Propofol drip stopped 1-2 hours prior to the EEG.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was responsive during the EEG.  Prominent craniotomy changes were noted.  This is a somewhat technically challenging bedside ICU record.  The patient also had tender scalp and ideal impedances could not be obtained.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetry between the 2 hemispheres.  The left hemisphere is medium amplitude with primarily 6 Hz theta and smaller amounts of delta.  The right hemisphere is a lower voltage, slower more featureless pattern, with a little bit of theta noted at the midline at CZ.  The patient is confused, but responsive at times and then drifts off to sleep with a slower pattern and a bit more delta on the left compared to the right.  The patient does seem to transition into more of a sleep state on the left intermittently with what may be somewhat asymmetric vertex waves, but deeper stages of sleep were not sustained.
+Heart rate:  90 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked slowing on the right.
+Moderate slowing on the left, but with a definable drowsy and sleep pattern on the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a bihemispheric disturbance of cerebral function effect.  The continuous focal slowing from the right with disturbance of faster frequency on the right is congruent with the right hemispheric infarct with mass effect and edema.  The slowing on the left may be due to the mass effect in shift or may be due to other diffuse disturbances.  No epileptiform features were identified.  These findings may be correlated with imaging as a fluid collection can attenuate EEG activity on the right.
+
+
+

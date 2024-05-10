@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  76 year old right handed woman with an episode of dizziness, weakness, full-body shaking while standing upright.  Past history of stroke, heart failure and a defibrillator.
+MEDICATIONS:  Enablex, Zyloprim, Neurontin, Zocor, Bumex, Isordil, ASA, Coreg, Plavix, Prilosec, Colace, Zaroxolyn, Advair
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with an 8.7 Hz alpha rhythm.  The patient rapidly transitions to stage 1 sleep with vertex waves and then spindles in stage 2 sleep.  She makes transitions in and out of stage 2 sleep.  Photic stimulation elicits bilateral driving.
+HR:    84 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage 2 sleep.
+CLINICAL CORRELATION:  There were no epileptiform features noted.  This patient made relatively frequent transitions between wakefulness and sleep, but this is a normal pattern in a tired or sleep-deprived patient and does not necessarily represent pathology.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 65 year old right handed woman with a feeling of dizziness and near syncope, past history of hypertension and depression.
+MEDICATIONS: Norvasc, Lovastatin, Buspar, ASA, Amlodipine, Benazepril
+
+INTRODUCTION: Digital video EEG was performed in lab using the standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and brief drowsy record.
+
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10Hz alpha rhythm with a small amount of low voltage frontocentral beta activity. Brief drowsiness is characterized by some rhythmic theta. Hyperventilation produces an increase in amplitude and background photic stimulation elicits scant driving.
+
+HR: 84 bpm
+
+IMPRESSION: Normal EEG.
+
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. A normal EEG does not exclude a diagnosis of epilepsy and if seizure is an important consideration, a prolonged study with additional sleep may be valuable.
+

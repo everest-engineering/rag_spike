@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 44 year old right handed with post traumatic epilepsy for the past 7 years with tonic clonic seizures occurring once per month.
+MEDICATIONS: Lamictal.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 8.5 Hz, 40 microvolt posterior dominant rhythm, and a small amount of low 'Voltage frontocentral beta activity. Hyperventilation produces an increase in amplitude of the background as well as an increase in beta. Following hyperventilation, the alpha rhythm increases to 9.5 Hz suggesting that the patient may have been a bit drowsy initially. Other features of drowsiness include an increase in beta and brief vertex waves. Photic stimulation elicits driving despite the fact that the patient is drifting off to sleep during photics.
+HR: 60bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed; however, a normal EEG does not exclude a diagnosis of epilepsy and if epilepsy is an important consideration, a repeat study may be considered.
+
+

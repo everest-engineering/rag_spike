@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 31-year-old male status post gunshot wound to the head with left encephalomalacia, parietal injury.  Previous seizures in 2011, when the patient stopped his medications.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with on channel EKG.  Previous craniotomy defect was noted.  This was a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low-voltage.  A 9.5 Hz alpha rhythm was identified bilaterally but it is somewhat higher amplitude on the left compared to the right.  The left hemisphere demonstrates a breech rhythm with accentuation of amplitude in that region and some head rocking artifact in the left centrotemporal region.  Hyperventilation was performed early in the record, producing an increase in amplitude and accentuating the difference between the two hemispheres.  This finding was also noted in drowsiness.  As the patient drifts in and out of sleep, there are bursts of paroxysmal rhythmic slowing, which are a little higher amplitude with accentuation of fast activity, again on the left compared to the right.  As the patient transitions into stage 2 sleep, spindle activity is noted.  The patient remains drifting in and out between stage 1 and stage 2 sleep during photic stimulation.  The tech attempt awaken the patient for photic stimulation but he keeps drifting back into stage 2 sleep.  Photic stimulation does not otherwise activate the record.
+Heart rate 60 beats per minute.
+IMPRESSION:  Abnormal electroencephalogram due to:
+Subtle focal slowing from the left hemisphere.
+Despite the prominent breach rhythm, in the transition to sleep, there does appear to be an F7, FP1 sharp wave.
+CLINICAL CORRELATION:  In comparison to previous EEG, 05/12/2011, the overall background has improved.  The focal slowing on the left is not as prominent and has more of a centrotemporal localization.  Sharp waves today were noted, more from the left frontal region and were previously in the left temporal region.
+
+
+

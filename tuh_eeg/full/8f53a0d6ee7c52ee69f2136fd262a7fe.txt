@@ -1,0 +1,13 @@
+EEG LENGTH:  27 minutes
+CLINICAL HISTORY:  The patient is a 69-year-old man with a history of recurrent pituitary tumor.  He had one seizure in 2004, subsequently pituitary tumor removal.  He now presents with a second seizure.  The seizure is  characterized by headache, body shaking with several second loss of consciousness.  The patient is aware of his seizure.
+MEDICATIONS:  Current medications include levothyroxine, Lipitor, Prilosec, metoprolol, losartan, aspirin.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, symmetrical POSTS (positive occipital sharp transients of sleep), vertex waves and sleep spindles are captured.  Hyperventilation is performed with variable effort and does not result in a significant change in the background.  Step photic stimulation results in symmetrical occipital driving at multiple flash frequencies.  A single EKG lead demonstrates a heart rate of fewer than 60 beats a minute with occasional premature QRS complexes.
+FINDINGS:
+Stage 2 sleep.
+No epileptiform discharges.
+Bradycardia and occasional premature QRS complexes.
+IMPRESSION:  This is a normal awake and asleep 27-minute EEG.  Lack of epileptiform discharges in a routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

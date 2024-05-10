@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 48-year-old woman with headaches, left scalp ache and short-term memory loss for 1.5 years.  Arm pain, hypertension.
+MEDICINES:  Aspirin, others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm and a small amount of low voltage, frontal central beta.  Drowsiness is characterized by rhythmic background theta, slow rolling eye movements  in beta but sleep is not sustained.  Hyperventilation produces a small amount of theta.  Photic stimulation elicits bilateral driving.  Heart rate 60 BPM.
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing may be of value.
+
+
+

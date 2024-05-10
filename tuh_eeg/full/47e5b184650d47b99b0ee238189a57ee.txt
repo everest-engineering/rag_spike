@@ -1,0 +1,43 @@
+:
+History:	64 year woman with a history of a single nocturnal convulsion ~ 1 month ago.
+Patient also reports brief episodes of abnormal sensations that occur several times
+Medications:	no AEDs
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+The posterior dominant consists of moderate amplitude symmetrical 10 Hz alpha activity that
+attenuates with eyes opening.  There is expected AP gradient over the left and weak AP gradient
+over the right.  During drowsiness, the background slows to central theta activity, frontal beta activity
+becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During
+stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep
+There is continuous polymorphic theta and delta activity over the right temporal region.
+Independent  intermittent polymorphic theta and delta activity is present in the left temporal region
+during wakefulness, increasing during drowsiness.  Frequent low-to-high amplitude independent
+sharp waves with aftergoing slow waves are captured during over the right frontotemporal and right
+temporooccipital regions.  Phase reversal occurs over F8/F8/T4 electrodes and T6/O2 electrodes,
+respectively.  Frequency of sharp waves increases significantly during deeper stages of sleep and as
+Hyperventilation is performed for 240 seconds with good cooperation, and produces diffuse,
+symmetric moderate voltage brief bursts of theta-delta activity.  Stepped photic stimulation from 1-
+21 flashes per second (fps) does not produce additional abnormalities.  A single EKG lead
+demonstrates heart rate <60 bpm and occasional premature QRS complexes.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, right temporal
+Focal slowing, polymorphic, intermittent, left temporal, mild-to-moderate
+Sharp waves, intermittent, right, independent frontotemporal and temporal-occipital
+Sleep, stage 2
+Interpretation:
+This is a very abnormal 1 hour awake and asleep EEG due to continuous moderate right temporal
+slowing, intermittent mild-to-moderate left temporal slowing and frequent independent right
+frontotemporal and temporooccipital epileptiform discharges observed during sleep.  Continuous
+focal slowing and frequent epileptiform discharges  are indicative of a potentially epileptogenic
+focal structural lesion on the right.  Intermittent focal slowing is indicative of focal cerebral
+dysfunction, which is etiologically non-specific, but possibly structural in origin.  A single EKG lead
+demonstrates heart rate <60 bpm and occasional premature QRS complexes.
+
+spindles and K complexes appear. the sleep progresses.
+
+
+
+

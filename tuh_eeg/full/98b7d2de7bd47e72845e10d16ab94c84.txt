@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 55 -year-old male who presented today in cardiogenic shock, status post code on April 3rd for 30 minutes, now with hypothermic treatment.
+MEDICATIONS:  Versed, Lidocaine, amiodarone, Fentanyl, epinephrine and Neo-Synephrine.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.   The patient's body temperature was 33.1 degrees.  The patient was shivering.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates diffuse shiver artifact.  With the use of a 15 Hz filter, there is some alpha frequency activity as well as some beta frequency activity noted.  This shiver is remarkable enough to obscure the EKG.
+Tactile stimulation of the patient did not activate the record.
+Heart rate:  72 BPM.
+IMPRESSION:  This is a technically challenging but abnormal EEG due to:
+Paucity of the normal wave forms.
+Likely a pattern with generous beta.
+CLINICAL CORRELATION:  The use of a neuromuscular blocking agent would be necessary to more completely evaluate the cerebral activity given the shiver artifact described.  Versed and Fentanyl may also play a role in the pattern described above.  This EEG supports a severe bihemispheric disturbance of cerebral function but is very limited.  Medications may also play a role in the pattern described above and an additional EEG recording is suggested.
+
+
+

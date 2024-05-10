@@ -1,0 +1,8 @@
+CLINICAL HISTORY: 43 year old woman with epilepsy, sarcoid, evaluate for seizures. The patient has been having mini strokes.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10-Hz posterior dominant rhythm. As the patient becomes drowsy, there is an increase in background theta. The drowsy pattern is at the limits of organization in an adult of this age. Hypnagogic hypersynchrony is noted in the transition to and from sleep. Photic stimulation elicits vigorous bilateral driving. Following photic stimulation, the patient transitions into stage 1 sleep with vertex waves.
+HR: 60 bpm and slightly irregular.
+IMPRESSION: This EEG is at the limits of normal.
+CLINICAL CORRELATION: This is the third EEG for this patient. No epileptiform features are observed. The transition to drowsiness is associated with a slight degree of disorganization but not out of the range of normal.
+

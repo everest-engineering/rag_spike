@@ -1,0 +1,38 @@
+History:
+
+
+
+
+Medications: Sedation: EEG Type: Technique:
+
+
+
+
+65 YR FEMALE WITH EPISODE OF SYNCOPE VS SZ. WOKE UP TO GO TO BATHROOM.    FALL/EYES OPEN BUT NOT RESPOND, SHAKING.   LAST YR PT HAD EPISODE OF HEADACHE, LEFT FACE DROOP. RESOLVED SAME DY WORKUP SHOWED NOTHING.   PT STATES HAD EEG AS CHILD IN PR BUT UNSURE.
+TRAMADOL,  ARIMIDEX
+
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, hyperventilation, photic
+
+
+
+
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+
+No focal slowing is present. No epileptiform discharges are present.
+
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at flash rates from 5 to 21 fps.  HR was 60
+
+Summary of Findings:
+No epileptiform discharges Excessive fast
+
+Interpretation:
+This is a NORMAL EEG, awake and drowsy. No epileptiform discharges were present, but stage 2 sleep was not recorded. If clinically indicated, repeat EEG with sleep recording may provide additional information. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+
+
+
+

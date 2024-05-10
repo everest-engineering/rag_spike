@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 30-year-old male presented to Temple on the 4th after 10-minute cardiac arrest.  CT scan showed diffuse cerebral edema.  History of heroin abuse, but by report tox screen negative.
+MEDICATIONS:  Heparin, vancomycin, Zosyn.
+INTRODUCTION:  A 20-minute digital EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The record was performed at 1:30 in the afternoon.  The patient was intubated and comatose, but with some tremulousness.
+DESCRIPTION OF THE RECORD:  This is a technically challenging EEG with diffuse muscle artifact.  Underneath the muscle artifact, there does appear to be a low voltage, continuous pattern with delta and head-rocking artifact.  There is little in the way of reactivity or variability noted.  The patient underwent a cranial nerve, coma exam during the EEG.
+Heart rate:  144
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a diffusely slow pattern.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  This EEG will be the baseline for long-term video EEG monitoring to follow.  No seizures were recorded.
+
+
+

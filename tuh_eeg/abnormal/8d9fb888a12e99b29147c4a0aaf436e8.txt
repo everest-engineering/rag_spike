@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 34 year old right handed woman with epilepsy for the last 12 years. Last seizure April 10 with loss of consciousness.
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 hertz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Hypersynchronous rhythmic slowing is noted in drowsiness. Other features of drowsiness include anterior spread of the alpha rhythm. Photic stimulation does not activate the record. Hyperventilation produces a small amount of background slowing.
+HR: 66bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed in this electroencephalogram. A normal electroencephalogram does not exclude a diagnosis of epilepsy. Additional recording capturing deeper stages of sleep by using special techniques may be helpful to capture epileptiform activity.
+
+
+
+

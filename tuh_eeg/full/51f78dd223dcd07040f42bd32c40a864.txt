@@ -1,0 +1,34 @@
+History:	73 YR MALE WITH CHANGE IN MS. APHASIC,  PMHX: HTN, DM, HLD, CHF.
+FOUND TO BE HAVING SZS. MRI NEG
+Medications:	Dilantin, Keppra
+Sedation:	None
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.   Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+For much of the recording, there is no posterior dominant rhythm was present. However, during brief
+stages of maximal arousal, there is a 7Hz posterior dominant rhythm that is reactive to eye
+opening.  Much of the background activity was characterized by diffuse low voltage delta and theta
+activity with absence of the expected anterior to posterior gradient of frequencies.  Throughout
+much of the day, there is Stage I and II sleep seen intermittently. At night, after 11PM, additional
+deeper stages of sleep are seen.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was reactivity to auditory,
+tactile, or painful stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, intermittent, bilateral generalized
+Interpretation:
+This is an ABNORMAL 24 hour video EEG because of diffuse background slowing and absent alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.  No clinical or electrographic seizures are present.  These findings were conveyed to
+the primary team
+

@@ -1,0 +1,19 @@
+History:	35 year old who presents with recurrent staring episodes.
+Medications:	Depakote, Fioricet, Topamax - all used for headaches Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -15 hours from -5 pm on 9/2/2014 till - 8 am on 9/3/2014. Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the ICU monitoring technician and the attending neurologist. The Getman spike and seizure detection algorithm (Stellate) was used to screen the EEG in real time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. Diffuse excess beta activity is captured.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.  Several epochs of REM sleep are captured.
+Hyperventilation and photic stimulation are not performed.  No typical events are captured. Summary   of   Findings:
+Beta, excessive
+No electrographic seizures
+Interpretation:
+This is a normal 15-hour continuous video EEG monitoring.  No typical events were captured. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+.
+
+
+

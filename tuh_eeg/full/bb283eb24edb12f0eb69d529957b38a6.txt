@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  Approximately 22 minutes.
+CLINICAL HISTORY:  The patient is a 56-year-old man with a past medical history of a left craniotomy for aneurysms and stroke, who now presents with episodes of left arm numbness followed by twitching that lasts approximately 5 minutes with onset about 2 to 3 months ago.
+MEDICATIONS:  Gabapentin.
+INTRODUCTION:  Activation procedure of hyperventilation and photic stimulation were performed.  EEG was performed according to the standard 10-20 system with additional T1 and T2 electrodes and single EKG leads.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated 9-10 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient.  During drowsiness increase in the amount of theta and vertex waves are evident.  Sleep architecture is more prominent over the left hemisphere.  Occasional bursts of delta and theta activity are captured over the left hemisphere.  Additional faster frequencies over the left central occipital region captured consistent with breach artifact.  Hyperventilation increases the amount of slowing observed over the left hemisphere.  Photic stimulation results in appropriate occipital driving at multiple flash frequencies.  No epileptiform discharges are captured.  Heart rate less than 60 beats a minute is occasionally observed in a single EKG lead.
+FINDINGS:
+Occasional mild left hemispheric slowing.
+Breach primarily over the left central occipital region.
+Asymmetry of sleep architecture with sleep architecture better formed over the left hemisphere.
+No stage II sleep.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal 22 minute EEG due to intermittent mild left hemispheric focal slowing.  This finding indicates underlying cerebral dysfunction that in this case is consistent with the patient's history of aneurysm and a left craniotomy. Breach effect is observed with an underlying skull defect.  No epileptiform discharges are captured.  Stage II sleep is not recorded.  If a clinical suspicion of epilepsy still persists a repeat study with sleep may be of benefit.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

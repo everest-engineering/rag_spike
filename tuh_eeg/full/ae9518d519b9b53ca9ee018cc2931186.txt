@@ -1,0 +1,29 @@
+History:	60 yo female presented to ed with r/ arm, leg, face numbness starting in the am
+3/26.
+Medications:	Heparin, Protonix, Plavix, Pravachol, Insulin, Hydralazine
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by hemispheric asymmetry with lower amplitude and loss of
+faster frequencies over the left posterior quadrant. Posterior dominant rhythm is 10Hz, which
+attenuates with eye opening.  During drowsiness, the background slows to central theta activity,
+frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes
+intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and
+symmetric sleep spindles and K complexes appear.
+Occasional delta activity is present in the left temporal region during wakefulness, increasing during
+drowsiness.  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  HR is 90 bpm.
+Summary of Findings:
+, Occasional left temporal slowing
+, Hemispheric asymmetry with attenuation and loss of faster frequencies over the left cerebral
+Interpretation:
+This is an ABNORMAL EEG because of Occasional focal slowing in the left temporal region.  This
+finding is indicative of focal cerebral dysfunction.  Attenuation and loss of faster frequencies over
+the left posterior quadrant is consistent with a history of left hemispheric cortical infarct.  The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

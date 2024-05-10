@@ -1,0 +1,29 @@
+History:	32 year old female with a with a history of seizures since the age of 16 year old.
+Seizures are nocturnal and tend to occur in clusters.  Patient had 3 seizures last
+Medications:	Keppra, Trileptal
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Frequent 50-75uV, 4-7Hz waves are interspersed throughout the recording.
+This activity is similar to theta activity seen during drowsiness.  During  drowsiness, the alpha
+rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 31-minute EEG due to mild diffuse slowing. This finding
+is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but, in this case,
+could be related to excessively drowsy patient.  No epileptiform discharges are present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+
+
+

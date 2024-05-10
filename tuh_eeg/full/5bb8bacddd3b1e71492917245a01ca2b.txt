@@ -1,0 +1,22 @@
+
+CLINICAL HISTORY: 38 year old woman with sagittal sinus thrombosis, headache and encephalopathy.
+
+MEDICATIONS: Topamax, Percocet, Morphine, Diamox, Protonix, Diamox, Atropine, Coumadin, Heparin
+
+INTRODUCTION: Digital EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and asleep record. Hyperventilation and photic simulation are performed.
+
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is somewhat slow and disorganized. The posterior dominant rhythm ranges from 8 Hz to 9.5 Hz. Occasional bursts of frontal delta are seen with shifting asymmetry a bit more so on the right than the left. As the patient becomes drowsy, the bursts of frontal delta are more prominent.
+
+HR: 60 bpm
+
+IMPRESSION: Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. FIRDA.
+3. Mild excess theta.
+
+CLINICAL CORRELATION: These findings are nonspecific and can be seen in the context of a toxic or metabolic encephalopathy. They may be related to this patients medications or her underlying CNS pathology.
+
+
+
+
+

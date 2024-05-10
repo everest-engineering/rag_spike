@@ -1,0 +1,34 @@
+AGE: 75 y.o.
+SEX: female
+DATE OF STUDY: 09/22/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake only EEG #: 15-1395
+HISTORY:
+a 75 y.o. female referred for routine EEG as a follow up study. She had 2 seizures post mitral valve replacement.
+MEDICATIONS: albuterol, amlodipine, ASA, Coumadin SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+Drowsiness and sleep are not capture . No generalized slowing is present.
+There is abundant bilateral independent fronto-temporal (F8/T4, F7/T3 max) polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is not performed .
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake only	routine EEG due to :
+1. Abundant bilateral independent fronto-temporal polymorphic slowing
+CLINICAL CORRELATION:
+These findings are etiologically nonspecific indicators of bilateral independent fronto-temporal cerebral dysfunction . No drowsiness or sleep was captured .
+
+
+
+

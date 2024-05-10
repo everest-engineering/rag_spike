@@ -1,0 +1,28 @@
+History:	78 YR MAN WITH CC OF RIGHT MCA INF. AND FIRST SZ. HE FELL AND INJURED
+HIS SHOULDER.  GTC-WITH POST ICTAL SOMNOLENCE.
+PMHX DM TYPE 2 STROKE IN 3-14 RIGHT SIDE
+Medications:	Norvasc, Insulin, Dilantin
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which is seen over best over
+the left.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over the left frontal region.
+During drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic delta activity is present in the right fronto temporal region during
+wakefulness, increasing during drowsiness.  There some loss of faster frequencies over this region.
+No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 108
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right frontotemporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of continuous focal slowing in the
+right frontotemporal region.  This finding is indicative of a focal structural lesion in this region,
+which is consistent with the known stroke.
+
+
+
+

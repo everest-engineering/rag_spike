@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  Approximately 22 minutes.
+CLINICAL HISTORY:  Patient is a 61-year-old man with right basal ganglia hemorrhage.  He now has a change in mental status.  EEG is being performed to rule out subclinical seizures.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  During wakefulness, the background consists of a mixture of low to moderate amplitude, at times sharply contoured theta and delta activity with under-riding faster frequencies, as well as some occasional waveforms of triphasic morphology.  During sleep, background voltage decreases and the background consists of a mixture of theta and delta activity that is better organized.  Additional nearly continuous polymorphic delta activity is observed over the right hemisphere and is mostly pronounced over the frontotemporal regions.  There are occasional variable amplitude sharp waves with  aftergoing slow waves observed over the right occipital region, right midtemporal region, and right centroparietal region.  Occasionally, the discharges over the right central temporoparietal region are synchronized.  Once asleep, frequency of the discharges improves and they are only rarely observed over the right midtemporal region.  Hyperventilation and photic stimulation were not observed.  There were no clear electrographic seizures.
+FINDINGS:
+Moderate diffuse slowing and disorganization.
+Multifocal sharp waves over the right hemisphere, observed over the occipital region, midtemporal region, and centroparietal region.
+EEG shows normalization during sleep.
+No electrographic seizures.S
+IMPRESSION:  This is a very abnormal awake and asleep 22-minute electroencephalogram due to moderate diffuse slowing, disorganization, and the multifocal sharp waves observed over the right hemisphere, and focal right hemispheric slowing most pronounced over the right frontotemporal region.  Diffuse slowing and disorganization indicate moderate degree of cerebral dysfunction that is etiologically nonspecific.  Focal right hemispheric slowing indicates underlying focal cerebral dysfunction, likely structural in etiology and is consistent with patient's history of right basal ganglia hemorrhage.  Multifocal sharp waves over the right hemisphere indicate increased epileptogenic potential, however, since they improve during sleep they are more likely to be related to toxic metabolic disturbance.  There are no clear electrographic seizures.
+
+
+

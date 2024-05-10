@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  58 year old male status post anoxic insult on April 14, 2012, now comatose with CT demonstrating cerebral edema.  Intermittent myoclonus on propofol.
+MEDICATIONS:  Propofol.
+INTRODUCTION:  Digital video EEG was performed at bedside using 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and comatose.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a discontinuous pattern.  The sections of discontinuity may be up to 2 seconds.  There are brief bursts of fast activity and there is a single section of the record with GPEDS. Tactile stimulation does not activate the record. Over the course of the record, without a change in the patient's medications, the EEG is becoming more low voltage and more consistently suppressed, particularly at 8:30 a.m.
+HR:    110 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Burst suppression pattern.
+An initial sections with GPEDS.
+A pattern with waning cerebral activity.
+CLINICAL CORRELATION:  In the initial sections of the record, twitch artifact was picked up.  This seemed to be fading over the course of the record, but at least on one
+occasion it may have been stimulus sensitivity.  These findings are compatible with a severe anoxic encephalopathy.
+__________________________
+
+
+

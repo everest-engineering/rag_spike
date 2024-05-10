@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   55 year old right handed male with depression and progressive impairment of memory and balance.
+MEDICATIONS:  Trazodone, Aripiprazole, HCTZ
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The background demonstrates a very nervous individual with almost continuous eye blinking.  When he stops, there is an 8.7 Hz alpha rhythm.  Hyperventilation produces a small amount of slowing.  Photic stimulation elicits scant driving.
+HR:    78 bpm
+IMPRESSION:   EEG is within normal limits in wakefulness.
+CLINICAL CORRELATION:  There were no epileptiform features identified.  Additional evaluation with sleep could be considered if the patient is able to relax.  The frequent eye blink can be seen in nervousness.
+
+
+

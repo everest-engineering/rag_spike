@@ -1,0 +1,26 @@
+History:	25 year old man with a history of body GSW, who underwent cardiopulmonary
+resuscitation.  Patient had an episode yesterday concerning for seizure.
+Medications:	Fentanyl, Keppra, Ancef, Insulin, Bumetanide, Octreotide, Kepzol
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR and no AP gradient.  The background consists of attenuated diffuse polymorphic
+slow delta activity.  Diffuse, frontally maximal sharp waves with triphasic morphology are present
+throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag.  They
+appear to increase with stimulation but also are at times very rhythmic occurring every 2 seconds.
+No normal sleep architecture is present.
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.  Continuous EKG artifact is present.
+Summary of Findings:
+Attenuation, severe
+Diffuse slowing, polymorphic, severe
+No epileptiform discharges
+Interpretation:
+This is a very ABNORMAL 21-minute EEG due to severe diffuse slowing and attenuation. These
+findings are etiologically nonspecific indicators of severe diffuse cerebral dysfunction.  Triphasic-
+like waves could either represent true triphasic waves or ventilator artifact.  Triphasic waveforms are
+seen in various forms of encephalopathy.  The lack of epileptiform discharges on a routine EEG
+does not rule out a clinical diagnosis of epilepsy.
+

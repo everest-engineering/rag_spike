@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 66-year-old woman with possible epilepsy, medication nonadherence, poorly controlled diabetes, and hyperlipidemia.
+MEDICATIONS:  Stelazine, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat poorly organized.  There is a 10 Hz alpha rhythm with frontal central beta and a small amount of theta.
+Hyperventilation was performed early in the record producing shifting slowing.  Vertex waves were noted in sleep.  Posts were also observed.
+By the end of the record, when the patient was stimulated for photic stimulation, the EEG was a bit better organized.  A driving response was noted at intermittent flash frequencies.
+Heart rate 78 beats per minute.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Mild background disorganization.
+Mild excess theta.
+CLINICAL CORRELATION:  This is the third EEG without epileptiform features for this adult.  Background slowing and disorganization may be related to this patient's comorbidities.
+
+
+

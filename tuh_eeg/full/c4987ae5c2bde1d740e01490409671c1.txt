@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  31 year old right handed woman with intermittent episodes of lightheadedness and palpitations.
+MEDICATIONS:  Metoprolol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.7 Hz alpha rhythm which is symmetric and reactive to eye opening.  Hyperventilation produces an increase in amplitude of the background.  Features of drowsiness include an increase in rhythmicity of the background as well as anterior spread of the alpha rhythm.  A single burst of paroxysmal rhythmic slowing is noted if the patient transitions to sleep but then photic stimulation is performed. The rare bursts of hypersynchronous slowing are noted in photic stimulation, but unfortunately this does seem to collide with the attempt to capture sleep.
+HR:    72 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  Hypnagogic hypersynchrony is a normal variant.  If additional information is needed, a 1-hour study which does not need to be sleep
+deprived but just simply to capture sleep may be helpful, if there are any additional questions.
+
+
+

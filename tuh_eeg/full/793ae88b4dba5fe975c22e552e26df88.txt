@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 41-year-old male with GBM and refractory seizures.  The seizures begin with right facial twitching, going on  to be generalized tonic-clonic.  Left parietal skull defect.
+MEDICATIONS:  Keppra, phenytoin, and recently treated with propofol.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated and relatively somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern with generous, diffuse beta.  Generous bilateral delta activity was noted, more so on the left than the right with disruption of faster frequency activity on the left compared to the right.  Tactile stimulation of the patient produces an arousal with an increase in muscle, brief eye opening and a glimpse of alpha activity followed by the patient drifts back to sleep.  Slow delta was noted from the left hemisphere with a breach rhythm and some double phase reversing activity.
+Heart rate:  60 to 100 bpm.
+IMPRESSION:  Markedly abnormal EEG due to:
+Generous, diffuse beta.
+Superimposed generalized delta activity, more prominent from the left hemisphere.
+An asymmetry with intermittent disruption of faster frequency activity in the left hemisphere in the context of a breach rhythm.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the left.  For this relatively somnolent patient, stimulation of the patient clearly produces a brief alerting response.  If seizures are an important consideration, a repeat study when the patient is out of the ICU may be evaluated.
+
+
+

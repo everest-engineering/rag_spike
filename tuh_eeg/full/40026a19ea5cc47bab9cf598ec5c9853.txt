@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 19 year old right handed male with developmental delay, status post G tube, J-tube placement, scoliosis, epilepsy, MR/CP, nontraumatic head injury and aspiration pneumonia. Characteristics of seizures are rigid posture of arms, legs extended and eye twitching.
+MEDICATIONS: Keppra, Depakote, Valium, Glycopyrrolate, Levetiracetam, Singulair, Robafen, Diazepam
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. The patient is recorded sitting upright in his wheelchair.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an awake pattern in a relatively active individual. Many of the normal wave forms I anticipated for an adult of this age are not present. The overall background is low voltage beta frequency pattern. There seems to be some head rocking artifact in the right occipital region.
+The patient has continual self stimulation movements with a flexed contracture of the left arm, looking to the left. He does not ever look toward the right. There are brief sections of the record where there is an 11 hertz background and even a suggestion of an 11 hertz alpha rhythm identifiable with the use of a 35 hertz filter.
+There are also some sections of the record with 5.6 hertz activity noted in the background which may represent alpha subharmonic given the distribution of the activity. Photic stimulation is not successful. Blink and other artifacts obscure much of the EEG. Photic stimulation is complicated by significant artifact, but there is a photic driving response.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with a beta frequency pattern of 14 and 25 hertz activity.
+CLINICAL CORRELATION: There were no epileptiform features noted. One question is whether or not there is an 11 hertz alpha rhythm with an alpha subharmonic. This may be in part an artifact due to the manipulation of data. If there are additional questions, a repeat EEG capturing sleep could be considered. Alternative approaches include reviewing this patient's previous childhood EEG to identify the typical epileptiform activity for this individual.
+
+
+

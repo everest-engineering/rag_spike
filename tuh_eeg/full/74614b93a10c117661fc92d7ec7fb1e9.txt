@@ -1,0 +1,23 @@
+History: 20 year old man with anoxic brain injury (as a result of several gun shot wounds), now with continuous facial twitching.
+Medications:	Versed, Depakote
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG and EMG electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for  hours from 4/27/2015 to 4/28/2015.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no PDR or AP gradient.  Early in the recording the background consists of  of up to 3-4Hz frontally predominant rhythmic moderate amplitude generalized sharp waves that are admixed with underriding delta activity.  As the recording progresses, the background changes to a mixture of theta and alpha activity with frequent bifrontal blunted sharp waves.  No normal sleep architecture
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli.  There is continuous C4, Fz, Cz and Pz lead artifact.
+Summary of Findings:
+Status epilepticus, myoclonic, resolves by the end of the recording
+No reactivity
+Diffuse slowing, polymorphic, severe
+Interpretation:
+This is an ABNORMAL ~24-hour continuous video EEG due to presence of myoclonic status epilepticus that improves as the recording progresses. This finding indicates marked diffuse cerebral dysfunction and cortical excitability.  Resolution of the status epilepticus could be related to escalation of medical care vc worsening cerebral injury.  
+
+
+
+
+

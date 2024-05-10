@@ -1,0 +1,36 @@
+History:	55 year old male with right hemisphere brain injury, and recurrent electrographic
+Medications:	Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+There is obvious hemispheric asymmetry characterized by continuous focal delta over the right
+hemisphere and theta/delta seen over the left hemisphere. A fragmented posterior dominant
+rhythm is seen on the left from 7-8Hz.  The amplitude asymmetries suggest a right breach artifact.
+Overall, the record has improved significantly over the past 24 hours with less frequent PLEDs.  No
+normal sleep architecture was present.
+There are rhythmic to semi-rhythmic right occipitotemporal PLEDs varying from 0.5-1 Hz maximal
+at T4-T6. There are no overt clinical manifestations associated with the PLEDs.  By 5PM, the
+PLEDs have diminished to sharply contoured delta and there is the appearance of theta activity.
+Overnight, the PLEDs are infrequent and of low amplitude.
+Clinically the patient is sedated, but has been removed from ventilatory support.
+Summary of Findings:
+Diffuse slowing, polymorphic, nearly continuous, bilateral generalized
+Focal slowing, polymorphic, right hemispheric
+PLEDs (periodic lateralized epileptiform discharges), occasional, right posterior quadrant
+Interpretation:
+This is an ABNORMAL 24 hour video EEG due to focal right hemisphere slowing, diffuse
+bihemispheric slowing, a right breach artifact, right sided PLEDs. Over the past 24 hours, the record
+has improved and no further seizures are seen.. These findings suggest a structural lesion over the
+right hemisphere with a highly epileptogenic, irritative focus.  By late evening the PLEDs had
+diminished and were replaced with sharply contoured delta activity..  These findings were conveyed to the primary team.
+

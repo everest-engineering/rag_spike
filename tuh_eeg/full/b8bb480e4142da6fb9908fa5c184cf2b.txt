@@ -1,0 +1,30 @@
+History:	41 YR MALE PMHX: SEIZURES, BARRETTS ESOPHAGUS,   ESOPHAGEAL
+SPASMS   HYPOTHYROIDISM, PROFOUND MR.  PRESENTED WITH  FALL.
+FOUND TO HAVE LEFT BRAIN MASS AND EDEMA
+Medications:	TEGRETOL, RISPERDAL, TRAZODONE, COGENTIN, ATIVAN, NICOTINE PATCH,
+RIBAVIRIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse delta
+and theta activity with absence of the expected anterior to posterior gradient of frequencies.  No
+normal sleep architecture was present.
+Continuous polymorphic delta activity is present in the bilateral fronto-temporal region.  Occasional
+focal spike-and-wave discharges are present with phase reversal and amplitude maximum at F3,
+T3 and independently at T4, C4 and F4 .  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  Hr was 72
+Summary of Findings:
+Spikes, frequent, bilateral multifocal
+Focal slowing, polymorphic, continuous, bilateral frontotemporal
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  frequent epileptiform discharges arising from multiple
+regions.  These findings are indicative of a potentially epileptogenic foci and consistent with
+multifocal epilepsy. In addition there is  continuous focal slowing in the bilateral fronto temporal
+regions.  This finding is indicative of a focal structural lesion in this region. Lastly there is moderate
+diffuse background slowing and slow alpha rhythm.  These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.
+

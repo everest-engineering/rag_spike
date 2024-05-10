@@ -1,0 +1,38 @@
+History:	46 Y/O FEMALE H/O CEREBELLAR AVM S/P EMBOLIZATION,PRESENTS WITH
+HEADACHE, FEVER AND NECK STIFFNESS. NURSE THINKS PT MAY BE HAVING
+SEIZURES. SEEN THIS AM R EYE GLAZE AND NOT RESPONDING .
+Medications:	5 VERSED,50 FENTANYL,10 VECURONIUM,20   PROPOFOL    KEPPRA
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 19 hours from 12/21/2015 to12/22/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed
+at least twice daily by the attending neurologist for detection of seizures and changes in EEG
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse very
+low voltage delta activity with absence of the expected anterior to posterior gradient of frequencies.
+There is a slight asymmetry seen continuously with more pronounced slowing and decreased
+amplitude over the right hemisphere particularly the temporal region.  No normal sleep architecture
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no EEG background
+reactivity to auditory, tactile, or painful stimuli. Some muscle artifact could be seen.  Hr was 120.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right hemispheric
+Diffuse slowing, polymorphic, continuous, severe diffuse
+Interpretation:
+This is an ABNORMAL EEG because of continuous focal slowing and attenuation in the right
+hemisphere maximal in the temporal region.  This finding is indicative of a focal structural cortical
+lesion in this region. This can be seen in the setting of ischemia, subdural collection or after
+seizures.  In addition there is severe  diffuse background slowing and absent alpha rhythm.  These
+findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+
+
+

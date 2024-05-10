@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 23-year-old man with history of new onset seizures that started 2 weeks ago, described as convulsion, tongue biting, and urinary incontinence followed by post-event confusion.  He has a history of bipolar disorders and schizophrenia.
+MEDICATIONS:  None
+INTRODUCTION:  A digital video EEG was performed in the lab using the standard international 10/20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness through stage 1 sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm is 9-10 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is diffuse low amplitude beta activity, which is distributed symmetrically.  A stage 1 sleep is characterized by disappearance of posterior dominant rhythm, slowing of the background, and absence of muscle and eye blink artifact, and presence of vertex sharp waves.  During wakefulness, there is a single burst of generalized spike and polyspike and wave discharges seen with a frequency of 4 Hz, which are frontally predominant, lasting 3 seconds.  There are also 2 bursts of sharply contoured delta activity in right frontal central region, maximum is at C4 with no evolution.  These bursts occur during photic stimulation and lasting 2-3 seconds.  Hyperventilation was performed with no abnormal response.  Heart rate was 65 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording capturing wakefulness through stage 1 sleep due to one episode of generalized spike and polyspike and wave discharges seen during wakefulness.
+CLINICAL CORRELATION:  The above findings are consistent with idiopathic generalized epilepsy in the setting of a history of seizures. A repeat EEG and Clinical correlation are recommended.
+
+
+

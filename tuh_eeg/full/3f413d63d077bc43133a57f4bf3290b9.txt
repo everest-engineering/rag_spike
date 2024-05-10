@@ -1,0 +1,29 @@
+History:		33 year old man who was found down.  He subsequently developed status epilepticus that resolved with medications. He remains altered. EEG performed on 12/31/2013 demonstrated recurrent status epilepticus.
+Medications:	depakote, phenobarbital, propofol drip Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -16 hours from -3 PM on 12/31/2013 till - 7 AM on 1/1/2014. Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns. All automatically detected events were reviewed in detail by the the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is no posterior dominant rhythm and no anterior-to-posterior frequency-amplitude gradient. The background consists of polymorphic low amplitude delta activity, periods of discontinuity and generalized frontally predominant low-to-moderate amplitude sharp waves that are more prominent early in the recording. Frequent electrographic seizures are captured. They are characterized by increase in frequency of sharp waves and evolution of the background into rhythmic diffuse frontally predominant 1.5 Hz delta activity. These seizures last - 1 minute and occur continuously early in the recording, thus constituting non-convulsive status epilepticus. Video review does not demonstrate any obvious clinical correlate during the seizures. Seizure frequency decreases as the recording progresses. This is related to initiation and increase in the doses of Propofol drip. Bursts of bifrontal monomorphic moderate amplitude activity in the high theta range (- 8 Hz) are occasionally observed. These can occur rhythmically (example at - 11:09 PM). Starting at - 1:15 AM, this monomorphic activity increases and becomes diffuse and nearly continuous.  Patient is suctioned at - 1:55 AM and this activity subsequently resolves.
+Sinus tachycardia is noted on a single EKG lead. Summary of  Findings:
+Status epilepticus
+Diffuse slowing, polymorphic, severe Artifact, other, ventilator
+
+Interpretation:
+This is a very abnormal 16 hour continuous video EEG monitoring due to recurrent bifrontal seizures (status epilepticus) and severe diffuse slowing. These findings are etiologically nonspecific indicators o
+
+
+
+severe diffuse cerebral dysfunction and cortical excitability.  In the patient with anoxic brain injury these findings indicate poor chance of full neurological recovery. Seizure frequency decreases as the recording progresses due to initiation of increasing doses of Propofol drip. These findings were conveyed to the primary team.	t
+
+
+
+
+
+

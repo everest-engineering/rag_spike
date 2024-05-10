@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 33-year-old male status post cardiac arrest on 09/28/2014, intubated, comatose, now with titubation of the head and eye blinking.
+MEDICATIONS:  Depakote, epinephrine, norepinephrine, and cefepime.
+INTRODUCTION:  A 21-minute digital video EEG was performed at the bedside in the ICU using standard 10/20 system of electrode placement with 1 channel of EKG.  Patient was intubated and comatose with involuntary jerking of the head.  At times, the head movement was relatively subtle and at other times, a bit more obvious.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a pattern of essentially continuous muscle artifact of 4-5 Hz.  The periodicity of the activity does not change significantly.
+HR 119
+IMPRESSION:  continuous muscle artifact with head jerking and eye blinking at approximately 4 Hz obscures the EEG.  To adequately assess cerebral function a neuromuscular blocking agent is advised
+CLINICAL CORRELATION:
+Please see the LTM monitoring report LTM 14-249-1which clarifies the above issues and describes the cerebral pattern
+
+
+

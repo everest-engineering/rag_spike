@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 29-year-old right-handed woman with bipolar disease and schizoaffective disorder with episodes of upward gaze, confusion, and impaired concentration.  Events last several hours.  Symptoms began after she started current medicines.
+MEDICATIONS:  Lithium, Invega.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.  Technical observations about this record include some artifacts, particularly in the left frontocentral/frontotemporal region.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 Hz posterior dominant rhythm with a small amount of frontocentral beta and a small amount of frontal theta.  Drowsiness is characterized by an increase in background slowing.  POSTS were identified in sleep as were spindles and K complexes.  Involuntary movements in sleep were noted.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited bilateral driving.
+Heart rate:  78 bpm.
+IMPRESSION:  This EEG was remarkable for a small amount of excess theta noted in maximal wakefulness.
+CLINICAL CORRELATION:  This EEG was remarkable for some artifacts noted in the left temporal scalp electrodes.  If seizures are an important consideration, please repeat more prolonged study, either a 1 hour or an overnight recording may be helpful to capture events.
+
+
+
+
+

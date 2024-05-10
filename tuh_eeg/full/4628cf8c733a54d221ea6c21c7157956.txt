@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 25-year-old male with a history of childhood brain tumor in the left hemisphere, status post radiation and chemotherapy.  First ever seizure today, followed by right-sided weakness.
+MEDICATIONS:  Keppra.  The patient had already had Ativan.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite drowsy.
+DESCRIPTION OF THE RECORD:  The background EEG includes a breach rhythm with considerably higher amplitude activity on the left compared to the right.  As the EEG begins, the patient is asleep with generous beta of 13 Hz in the frontocentral region, but without some of the typical features of stage II sleep.  The activity on the right is lower voltage and slow.  With stimulation, there is some sharply contoured activity appearing at T5 and T1.  Higher amplitude focal delta is noted throughout the left hemisphere and varies from left frontocentral to mid to posterior temporal region.  As the patient becomes a bit sleepier, the activity on the right is lower voltage and slower.  In sleep, despite the breach rhythm, there is more of a left parietal focus.  Photic stimulation did not activate the record.
+Heart rate 90 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Focal slowing from the left hemisphere with variability, but in sleep much more prominent in the left parietal region.
+Sharply contoured slowing in the context of a breach rhythm with suggestion of a left parietal sharp wave.
+Some sharp wave contoured wave forms in the left frontocentral or frontotemporal region, as well.
+In wakefulness, the background is also slow on the right.
+CLINICAL CORRELATION:  This EEG supports a structural or functional abnormality on the left, congruent with a previous tumor and surgical history.  The foci of sharply contoured slowing is more prominent in the left parietal region in sleep, but is a little bit more anteriorly when the patient is stimulated.  The bilateral background slowing may be due to a diffuse brain process or postictal state.
+
+
+

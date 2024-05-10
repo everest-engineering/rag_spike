@@ -1,0 +1,14 @@
+LENGTH OF RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is an 86-year-old man who presents with change in mental status.  The patient recently had a right MCA and right PCA stroke.
+MEDICATIONS:  Protonix, metoprolol, aspirin, lisinopril and Lipitor.
+INTRODUCTION:  The recording was performed at the patient's bedside.  Hyperventilation and photic stimulation were not performed.  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  There is right-to-left interhemispheric asymmetry.  The background over the left hemisphere consists of a mixture of polymorphic theta and delta activity with faster underwriting frequencies observed during wakefulness.  There is no anterior to posterior frequency amplitude gradient over the left.  The background over the right hemisphere consists of lower amplitudes and a mixture of polymorphic theta and delta activity with less pronounced underwriting faster activity during wakefulness.  There is no anterior to posterior frequency amplitude gradient over the right hemisphere either.  Voltage attenuation of the right hemisphere is most pronounced over the right lateral leads.  During sleep, vertex waves and sleep spindles are captured.  Sleep architecture is much better formed over the left hemisphere.  No clear epileptiform discharges are captured.  A regular heart rate with occasional premature contractions is captured on the single EKG lead.
+FINDINGS:
+Moderate diffuse slowing.
+Focal right hemispheric slowing, most pronounced over the right temporal region.
+Voltage asymmetry with low voltages over the right hemisphere, especially over the right lateral leads.
+Asymmetry of sleep architecture with sleep architecture better formed over the left hemisphere.
+IMPRESSION:  This is an abnormal awake and asleep 22 minute EEG due to moderate diffuse slowing and focal right hemispheric slowing.  Diffuse slowing indicates etiologically nonspecific moderately diffuse cerebral dysfunction.  Focal right hemispheric slowing, especially pronounced over the right temporal region indicates underlying focal cerebral dysfunction, likely structural in etiology, and is consistent with the patient's history of recent right hemispheric strokes.  No electrographic seizures were captured.
+
+
+

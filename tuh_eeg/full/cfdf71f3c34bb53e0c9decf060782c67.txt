@@ -1,0 +1,46 @@
+History:	92 year old male monitored for status epilepticus.
+Medications:	Phenytoin, levetiracetam, lorazepam
+Sedation:	Lorazepam
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours.  Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+No clear posterior dominant rhythm was present.  Background activity was characterized by diffuse
+low voltage theta activity with absence of the expected anterior to posterior gradient of frequencies.
+There is a clear hemispheric asymmetry seen with continuous right posterior temporal periodic
+epileptiform discharges (PEDs) and field spread with low voltage beta activity over the left
+hemisphere.  In between the PEDs, the background shows attenuation.  Background consists almost
+entirely of low voltage irregular 4-7Hz activity.  PEDs are superimposed on this activity (see below).
+No normal sleep architecture was present.
+There is intermittent right hemispheric delta activity.  There are frequent and nearly continuous
+periodic epileptiform discharges (PEDs) seen over the right posterior temporal central and occipital
+region maximal at C4-P4-T6.  The PEDs occur at either 1Hz runs lasting 10-30 seconds, or
+intermittent organized 1.5Hz bursts in the same region lasting 5-10 seconds.  Overall the bursts are
+somewhat less frequent than yesterday and there are less frequent episodes of left arm twitching.
+Hyperventilation and photic stimulation were not performed.  There was minimal reactivity to
+auditory, tactile, or painful stimuli.  The patient is obtunded but exhibits some reactivity to voice
+and noxious stimuli with eye opening.
+Summary of Findings:
+PEDs (periodic epileptiform discharges), nearly continuous, right posterior quadrant
+Attenuation, continuous diffuse
+Interpretation:
+This is an ABNORMAL 24 hour video-EEG because of background attenuation, diffuse slowing,
+right focal slowing, right sided PEDs, and brief right posterior temporal electrographic seizures.
+These findings are indicative of a structural brain lesion with highly epileptiform potential over the
+
+right hemisphere. The bursts of PEDs likely reflect brief seizures and overall the record suggests
+status epilepticus.  These findings were conveyed to the primary team.
+
+
+
+
+
+

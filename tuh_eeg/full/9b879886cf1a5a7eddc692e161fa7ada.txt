@@ -1,0 +1,31 @@
+History:	38 YO MALE WITH SYMPTOMS OF MUSCLE CRAMPS, METAL TASTE IN
+MOUTH, LOSS OF CONTINENCE OVER A PERIOD OF 3 DAYS. WENT TO OSH ED.
+THEY SAID HE MAY HAVE HAD A SZ.
+Medications:	NO PRESCRIPTION DRUGS
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces diffuse,
+symmetric high-voltage, frontally-maximal 2-3Hz activity.  Stepped photic stimulation from 1-21
+flashes per second (fps) induces symmetric photic driving. It also produces an occipital predominant
+theta at frequencies of 7 and above.  Hr was 72
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. The theta seen with photic stimulation is of unclear significance but not
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 19 year old right handed female, college athlete with 2 syncopal like events. Childhood history of febrile convulsions which resolved at age 2.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record in a very drowsy.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a low voltage 11 hertz alpha rhythm. The drowsy pattern includes rhythmic eye movement and more of a theta pattern. Hyperventilation is characterized by rhythmic theta and eye blink artifact. Deeper stages of sleep include vertex waves, rhythmic theta and then arousal. Photic stimulation elicits vigorous bilateral driving.
+HR: 55 bpm
+IMPRESSION: This EEG is within normal limits.
+CLINICAL CORRELATION: There is no epileptiform activity. The alpha is not particularly vigorous. There are minor technical issues. If there are any additional questions, a follow up EEG may be considered.
+
+
+

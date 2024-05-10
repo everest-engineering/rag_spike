@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 56-year-old male with a head injury, subarachnoid hemorrhage, subdural hematoma, change in mental status.
+MEDICATIONS:  Morphine, Celexa, Cogentin, Haldol, oxazepam.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using the standard 10-20 system of electrode placement.  The patient is in a hard collar and was very agitated.  The technologist had a great deal of difficulty with impedance and many of the electrodes are somewhat challenged, including the EKG electrode.
+DESCRIPTION OF THE RECORD:  Despite the problems describe above, the overall background is a relatively low voltage, slow pattern.  It seems to be a little bit slower in the temporal electrodes.  Despite this pattern, the patient intermittently sits up and has tremulousness in the right arm.  On some occasions, the spontaneous alerting is associated with an increase in theta frequency activity.  The primary frequencies in the central regions are a mixture of 5 Hz theta and underlying delta.
+Heart rate 104 BPM.
+IMPRESSION:  This is a technically challenging, but abnormal EEG due to:
+Generalized background slowing.
+A somewhat attenuated pattern in the temporal electrodes.
+CLINICAL CORRELATION:  No epileptiform features were identified and there were no overwhelming focal features observed.  Given the challenges described above, subtle features or focal features may be under recognized.  In this individual with a risk for seizures, a follow-up study when the patient is out of the ICU is suggested.
+
+
+

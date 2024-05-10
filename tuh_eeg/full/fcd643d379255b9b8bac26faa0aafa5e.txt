@@ -1,0 +1,13 @@
+LENGTH OF THE RECORDING:  28 minutes.
+CLINICAL HISTORY:  The patient is a 52-year-old woman status post a right temporal lobectomy in September of 2010, who now presents with an increase in seizure frequency.  The patient reports waking up in the morning and feeling as if something is wrong.  None of these events have been witnessed.  She has had such event since November of 2012, with less events being in July of 2013.
+MEDICATIONS:  Keppra, Vimpat, citalopram, Restoril, omeprazole, and metoprolol.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of a well-formed and modulated 10 to 10.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep prominent POSTS (positive occipital sharp transients of sleep), vertex waves, sleep spindles, and K complexes are noted.  Continuous polymorphic theta and delta activity, often sharply contoured, is observed over the right mid temporal region.  Hyperventilation is performed with fair effort and produces no significant change in the background.  Stepped  photic stimulation does not produce additional abnormalities.  A single EKG lead demonstrates a heart rate fewer than 60 beats per minute.
+FINDINGS:
+Mild to moderate continuous right mid temporal focal slowing, often sharply contoured.
+No epileptiform discharges.
+Cardiac bradycardia with heart rates fewer than 60 beats per minute.
+IMPRESSION:  This is an abnormal awake and asleep 28 minute EEG due to continuous mild to moderate right mid temporal slowing that is at times sharply contoured.  This finding indicates focal cerebral dysfunction likely structural etiology and is consistent with the patient's history of a prior right temporal lobectomy.  The lack of epileptiform discharges on a routine EEG does not preclude the clinical diagnosis of epilepsy.
+
+
+

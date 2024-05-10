@@ -1,0 +1,45 @@
+History:	46 y/o man with MR and epilepsy since birth here for EMU monitoring,
+Medications:	Keppra, Lamictal
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 19 hours from 03/02/2015 to 03/03/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior. All automatically detected events
+were reviewed in detail by the attending neurologist.
+# Push button events	4
+Description of pushbutton events
+See report
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse delta
+activity with absence of the expected anterior to posterior gradient of frequencies.  As drowsiness
+progresses, symmetric vertex waves appear.  During stage 2 sleep, the record slows further to
+moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.  During
+sleep there are intermittent rhythmic frontal theta discharges that last for seconds without any
+evolution or clinical correlate.
+No focal slowing is present.  Day1:Seizure #2 at 7:08PM, Seizure #3 at 9:37 PM, Seizure #4 at
+4:34AM Day2: Seizure #5 7:22AM -Three seizures: All from sleep stage 2, all preceded by a K
+complex. The EEG reveals a sudden diffuse attenuation followed by diffuse muscle  artifact on the
+EEG. Clinically the patient wakes up form sleep and exhibits bilateral arm and leg extension with
+tonic stiffening with an associated low guttural moan. After the first two events the patient appears
+to be slightly agitated.  During seizure#4 the patient appears to have slightly asymmetric tonic
+posture and after starts rocking back and forth kicking his legs in the air, does bicycle type
+movements and screams. He appears to be very agitated for about 50 seconds.  The EKG during
+the episode appears to change and have a right bundle branch block with a HR of 170.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  Hr was 60
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous diffuse
+Seizure diffuse, Tonic
+Seizure diffuse, Frontal
+Interpretation:
+This is an ABNORMAL EEG because of  two tonic seizures and one possible frontal seizure in
+addition to  diffuse background slowing and absent alpha rhythm.  These findings are consistent
+with a symptomatic generalized epilepsy and moderate diffuse cerebral dysfunction.
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 25-year-old woman with agenesis of the corpus callosum, childhood severe refractory epilepsy, failed treatment with carbamazepine, valproate, and with consequences of long-term phenytoin use.  Occasional staring spells.
+MEDICATIONS:  Dilantin, folate, ursodiol, others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record in a patient who was very drowsy.  This is a technically satisfactory study with impedances less than 5 kilohms.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is dynamic.  Some sections of the waking background demonstrate diffuse rhythmic theta.  In other sections, a 9.5 Hz alpha rhythm can be seen intermittently and that alpha rhythm may be present in the left or right.  Abundant stage 2 sleep includes vertex waves, K complexes, spindles, and POSTs.  Some vertex waves maximum to the left or right of the midline.
+Hyperventilation was performed while the patient was relatively drowsy and serve to alert the patient.  Photic stimulation was performed while the patient was in stage 2 sleep and did not elicit a driving response.
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting asymmetries including an intermittently asymmetric alpha or sleep waveforms.
+CLINICAL CORRELATION:  This patient's asymmetries may be related to the agenesis of the corpus callosum.  No epileptiform features were identified today.  The background slowing supports a diffuse disturbance of cerebral function.
+
+
+
+

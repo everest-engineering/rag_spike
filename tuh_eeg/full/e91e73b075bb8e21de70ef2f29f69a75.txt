@@ -1,0 +1,28 @@
+History:	PRIORS PT PRESENTS ON 10/24 FOR LONG TERM MONT, PT HAS H/O SZ
+WITH AUTOMATISMS. 2 X MONTH
+Medications:	DILANTIN, LACOSAMIDE, TOPIRAMATE, LISINOPRIL
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+No focal slowing is present.  Intermittent brief bursts of frontally-maximal spike-and-wave discharges
+and polyspike-and-slow-wave discharges occur with a regular repetition rate of 4-5 Hz. This
+discharges have an asymmetric onset and appear to commence on the right.  At times there are
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Spike-and-wave complexes
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent frontally predominant
+spike-and-wave and polyspike-and-wave discharges, that appear to have a right frontal onset and
+are potentially epileptogenic.  The asymmetry may suggest a primary focal epilepsy with rapid
+bilateral secondary spread.  Please note that this asymmetry has been noted in the past however
+the bursts in previous records appear to have been  more symmetric and mostly consistent with a
+generalized epilepsy.  Please evaluate clinically.
+

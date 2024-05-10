@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 64-year-old right-handed gentleman with previous thalamic hemorrhage and stroke.  The patient admitted for word-finding difficulty.
+MEDICATIONS:  Heparin, aspirin, and Ativan.
+INTRODUCTION:  A 22-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  Photic stimulation was performed, but hyperventilation was deferred.  Technically, this EEG was remarkable for significant muscle artifact.
+DESCRIPTION OF THE RECORD:  Despite the muscle artifact described above, the overall background is slightly slow with a 7.5 Hz posterior dominant rhythm.  There is intermittent focal slowing noted in the record, left more so than the right.  Photic stimulation elicits a somewhat asymmetric driving response without definitive focality.
+Heart rate:  90 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Mild slowing of the background.
+In a technically challenged record, occasional slowing on the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a mild diffuse disturbance of cerebral function.  If epilepsy is an important consideration, a more prolonged study may be obtained.  Correlation with this patient's clinical findings may be of value, given the amount of muscle artifact.
+
+
+

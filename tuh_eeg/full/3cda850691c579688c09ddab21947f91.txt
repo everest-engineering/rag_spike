@@ -1,0 +1,36 @@
+History:	52 YO MALE W/ INFECTED FOOT ULCER, HYPOTHERMIA  PROTOCOL, WAS
+JERKING CONTINUOUSLY  UNTIL GIVEN 10 MGS OF VEC,
+Medications:	MIDAZOLAM, VECURONIUM, ATIVAN, DEPACON, CHLORHEXIDINE, ZOSYN,
+VANCOMYCIN, ASA, KLONOPIN,
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 28 hours from 2AM on 02/15/2014 to 6AM on
+02/16/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw
+EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes
+in EEG patterns.   All automatically detected events were reviewed in detail by the the attending
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation.  No normal sleep architecture was present.
+No focal slowing is present.  Generalized frontally-maximal polyspike-and-slow-wave discharges
+(GPEDs) occur with a regular repetition rate of 1 Hz. These become more prominent during the first
+hours.  As the Vecuronium weans off the GPEDs develop an associated muscle artifact and
+clinically the patient develops a rhythmic body jerk. This myoclonus varies in prominence with
+intermittent Vecuronium use.  As the record progresses the GPEDs become less pronounced and at
+2PM they subside and the EEG becomes entirely attenuated.
+Hyperventilation and photic stimulation were not performed.  HR was 90 at time with PAC's.
+Summary of Findings:
+Attenuation
+PEDs (periodic epileptiform discharges)
+Interpretation:
+This is an ABNORMAL 28 hour EEG because of severe diffuse background slowing and absent
+alpha rhythm. In addition to GPEDs.   These findings are suggestive of marked diffuse cortical
+dysfunction and irritability, which in the setting of hypoxic injury portends a poor prognosis.  The
+severe attenuation during the last hours of the record was discussed with the primary team.
+.
+
+
+

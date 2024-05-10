@@ -1,0 +1,150 @@
+History:
+The patient is a 35 year old RH man with a long-standing history of medically refractory epilepsy. Patient was admitted from the clinic with multiple recurrent events, concerning for non-epileptic events.  He underwent several days of continuous audio-video EEG monitoring for event characterization,  and later localization and lateralization his seizures .  This monitoring was performed as part of presurgical evaluation for potential epilepsy surgery .
+Even through patient was not admitted officially to the Epilepsy Monitoring Unit, he was treated as a presurgical patient and this report was created for data consolidation .
+Seizures started around the age of 15 yo. He was reported treated in CHOP. He was arrested in 2001 and since then he has received his care at the State Correction Facility, Graterford Prison. Over the years his events have been treated both as epileptic and non-epileptic events
+Seizure semiology:
+Panic sensation, followed by automatisms and loss of awareness
+#1 plus a GTC.
+Generalized shaking with preserved consciousness - these events are relatively recent and he had several of these in the outpatient office - that prompted TUH inpatient Neurology admission.
+Both daytime and nighttime events.
+Admission Medications: Keppra 250 mg BID
+Prior AEDs: PHT
+PHB
+VPA
+CBZ
+oxc
+LEV CNZ
+Conditions of the recording:
+A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Additionally, T1, F9, T9, P9, T2, F10, T10, and P1O electrodes were placed in this patient. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For approximately 8 hours each day the patient was attended by an EEG technician. A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used to screen the EEG in real time for electrographic seizures and interictal discharges. Samples of EEG were recorded periodically. Detections were reviewed in detail by the attending neurologist. All events and detections, as well as selected samples, were stored to external hard drive media.	·
+DESCRIPTION OF EMU EVALUATION:
+Initial EEG:
+A routine 21-channel initial EEG was performed with the patient awake. The posterior dominant rhythm was a symmetric 10.5-11 Hz. Hyperventilation is performed for 240 seconds with good cooperation, and no effect.  Photic stimulation resulted in appropriate photic driving.
+Description of daily interictal EEGs:
+7129-	lnterictal  background:7130Epileptiform activity:Sleep:Seizures/events: AEDs:The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha activity that attenuates with eye opening.Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP.  They are generally higher in amplitude over the right.  Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.2 seizures (right temporal) , while awake No AEDs - held at the time of the admission
+7129-	lnterictal  background:
+7130
+Epileptiform activity:
+Sleep:
+Seizures/events: AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha
+activity that attenuates with eye opening.
+Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP.  They are generally higher in amplitude over the right.  Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.
+Sleep elements including symmetrical vertex waves, sleep spindles, SWS and REM sleep.
+2 seizures (right temporal) , while awake
+No AEDs - held at the time of the admission
+7130-	lnterictal  background:7/31Epileptiform activity:Sleep:Seizures/events: AEDs:The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha activity that attenuates with eye opening.Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP.  They are generally higher in amplitude over the right.  Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.Normal sleep architecture. 1 seizure No AEDs
+7130-	lnterictal  background:
+7/31
+Epileptiform activity:
+Sleep:
+Seizures/events: AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha
+activity that attenuates with eye opening.
+Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP.  They are generally higher in amplitude over the right.  Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.
+Normal sleep architecture. 1 seizure
+No AEDs
+7/31-	lnterictal background:8/01Epileptiform activity:Sleep: Seizures/events:AEDs:The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha activity that attenuates with eye opening.Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP.  They are generally higher in amplitude over the right.  Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.Normal sleep architecture4 seizures Depakote
+7/31-	lnterictal background:
+8/01
+Epileptiform activity:
+Sleep: Seizures/events:
+AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha
+activity that attenuates with eye opening.
+Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP.  They are generally higher in amplitude over the right.  Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.
+Normal sleep architecture
+4 seizures Depakote
+8/01-	lnterictal  background:8/02Epileptiform activity:Sleep: Seizures/events: AEDs:The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha activity that attenuates with eye opening.Brief runs (seconds to up to 20 seconds) are noted around 5:30 PM till - 6 PM. These runs consist of monomorphic 6 Hz rhythmic non-evolving theta activity that is seen in bilateral frontal leads (Fp1 and Fp2 and Fz lead). No stereotyped clinical correlate is associated with these runs.Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP. They are generally higher in amplitude over the right. Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.Normal sleep architecture No seizures depakote
+8/01-	lnterictal  background:
+8/02
+Epileptiform activity:
+Sleep: Seizures/events: AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha
+activity that attenuates with eye opening.
+Brief runs (seconds to up to 20 seconds) are noted around 5:30 PM till - 6 PM. These runs consist of monomorphic 6 Hz rhythmic non-evolving theta activity that is seen in bilateral frontal leads (Fp1 and Fp2 and Fz lead). No stereotyped clinical correlate is associated with these runs.
+Frequent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP. They are generally higher in amplitude over the right. Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads.
+Normal sleep architecture No seizures
+depakote
+8/02-	lnterictal background:8103Epileptiform activity:Sleep: Seizures/events: AEDs:The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha activity that attenuates with eye opening.Brief runs (seconds to up to 22 seconds) are noted throughout the day. These runs consist of monomorphic 6 Hz rhythmic non-evolving theta activity that is seen in bilateral frontal leads (Fp1 and Fp2 and Fz lead). No stereotyped clinical correlate is associated with these runs Intermittent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP. They are generally higher in amplitude over the right. Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads- when compared to prior days of recording, frequency of epileptiform discharges decreased Normal sleep architecture No seizures depakote
+8/02-	lnterictal background:
+8103
+Epileptiform activity:
+Sleep: Seizures/events: AEDs:
+The posterior dominant rhythm is a symmetric moderate voltage 10.5-11 Hz alpha
+activity that attenuates with eye opening.
+Brief runs (seconds to up to 22 seconds) are noted throughout the day. These runs consist of monomorphic 6 Hz rhythmic non-evolving theta activity that is seen in bilateral frontal leads (Fp1 and Fp2 and Fz lead). No stereotyped clinical correlate is associated with these runs
+Intermittent high amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP. They are generally higher in amplitude over the right. Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7/T1<F8/T2 leads- when compared to prior days of recording, frequency of epileptiform discharges decreased
+Normal sleep architecture No seizures
+depakote
+Clinical and EEG Characteristics During Seizures and Events:
+Event #1: complex partial seizure
+Date:  7/29	Time:  5:58:14 pm Baseline: awake
+Clinical features:	EEG features:
+First clinical change is noted at - 5:58:14 PM- Patient 5:58:14 PM - subtle (due to associated movement briefly looks down and then to the right. He moves	artifact )moderate amplitude rhythmic alpha activity is his body to the right (left and is handcuffed to the	seen over the LEFT anterior temporal leads (F7 and bed).	T3 the maximally). This activity is only appreciated
+for - 0.5 seconds and then movement artifact
+-4 seconds later heart rate increases from baseline	becomes too severe.
+of -78 bpm to >100 bpm.
+He has oral automatisms, thrusts his tongue in and out, shakes his head side to side. His left hand is stiff, he does circular motions with is right hand, he has bicycling movements of the legs. He looks around and at the prison guard when addressed but he does not speak.  . At the end he moves the sheets aimlessly with both arms equally. He tries to get off the handcuff (and is stopped by the guard).
+He is able to follow simple commands, state his name and Frankfort hospital, he states its 1•1 of June, 2009, 98... he has paucity of speech for many minutes after sz ends.
+5:58:25 PM - moderate amplitude rhythmic - 7.7 Hz theta activity is observed over the RIGHT anterior temporal leads. Same frequency rhythmic low-to­ moderate amplitude activity is noted over the left hemisphere.
+-5:59 pm - diffuse rhythmic - 4 Hz delta activity
+5:59:19 PM - sz ends and diffuse superimposed delta activity (especially over the temporal leads) is seen
+Total seizure duration: - 1 min 8 seconds.
+Event #2: complex partial seizure with secondary generalization Date: 7/30	Time: 1:58:56 AM
+Baseline: awake
+Clinical features:
+1:58:56 AM - He turns to the right.  Brief head shaking side-to-side. Oral automatisms.
+-4 sec later increase in HR from 72 to 120 bpm.
+Bicycling both legs (under the cover).  Forced head turning to the left. Loud scream.  Letter "four" arms (right arm flexed and left arm extended).  Proceeds to have a Generalized convulsions.
+-2:00:30 AM - at the end of a convulsion, heart rate drops suddenly to - 60 bpm for several seconds. It is back at baseline by the end of the convulsion.
+EEG features:
+No appreciable change in the background when clinical seizure starts (there is also a large amount of movement artifact)
+1:58:08 AM - rhythmic moderate amplitude - 8 Hz theta activity us seen over the RIGHT anterior temporal region. Similar activity but lower in amplitude is captured over the left.
+1:59:59 AM - diffuse EMG artifact (secondary generalization)
+2:00:51 AM .- once EMG artifact resolves, it becomes apparent that left hemisphere continues to generate ictal pattern (rhythmic sharply contoured delta and theta) while right hemisphere demonstrates diffuse delta activity and attenuation.
+2:02:40 AM - seizure ends with severe post-ictal slowing (delta) and attenuation
+Event #3:
+Date:  7/30	Time:  4:12:45 PM Baseline: awake
+Clinical features:
+4:12:45 AM- pt puts the paper that he has been reading away.  He looks to the right (towards the event button) but it is not pushed. He sits quietly.
+4:13:06 AM - There is an abrupt change in behavior, characterized by slight head turning towards the right, loud lip smacking, brief head shaking side-to­ side, using left hand to pick up the remote control, then brief slapping of the left arm with the right hand, brief whaling sound.    He lays back with head turned
+to the right, his left leg is extended and right leg does bicycling movements, and right hand does circular motions.
+He is tested after his electrographic seizure ends
+.He speech is not affected after the sz. He is able to state his name.  He states that he is in Greensborough, NC. His speech is fluent.  He is
+able to follow commands . His repetition is intact. He states that it is 2006.
+Of note, heart rate increases from -108 to - 130 bpm at - 4:12:45 pm.
+Patient's amnesia/ confusion persists for at least 3 minutes after electrographic seizure ends.
+EEG features:
+No appreciable change in the background when clinical seizure starts.
+4: 13:16 PM - 6 Hz rhythmic theta activity appears over the right anterior temporal region. Within seconds, this activity increases in frequency to - 8 Hz and in amplitude. -8 Hz low-to-moderate amplitude rhythmic activity also becomes apparent over the left. There is diffuse rhythmic delta activity
+4: 14:11 PM - seizure ends and diffuse superimposed delta activity is seen
+Total seizure duration - 55 seconds
+Seizures # 4, 5, 6, 7 - occurred on 7/31/2015 at 8:03:26 am, 10:04:49am, 10:50:55 AM and 11:20:55 AM, respectively. Clinically and electrographically, they are similar to seizures #1 and #3.
+INDUCTION PROCEDURES:
+None
+SUMMARY OF VIDEO EEG FINDINGS:
+lnterictal Findings:
+High amplitude bilateral synchronous prefrontal- anterior temporal sharp waves with aftergoing slow waves are seen during SLEEP. They are generally higher in amplitude over the right.
+Maximal over Fp1<Fp2 leads and, to a lesser degree, over the F7rr1<F8rr2 leads.
+In the last 2 days of the recording (days #4 and #5), especially day #5, brief runs (seconds to up to 22 seconds) are noted throughout the day.  These runs consist of monomorphic  6 Hz rhythmic non-evolving theta activity that is seen in bilateral frontal leads (Fp1 and Fp2 and Fz lead).  No stereotyped clinical correlate is associated with these runs.  Clinical significance of these runs is uncertain.
+lctal Findings:
+7 seizures total (6 CPS and 1 CPS with secondary generalization) . Seizures #4-7 clustered within
+- 3.5 hours. During most seizures EEG changes occurred seconds (up to 21 seconds) after behavioral changes and/or heart rate increase.
+Clinically, patient demonstrates clear change in the behavior, characterized by rapid body position change, lip smacking, left arm stiffening, right hand automatisms, occasional brief
+vocalizations (whaling), and leg bicycling (bilateral vs left leg extension with right leg movements). Prior to secondary generalization, patient had forced head turning towards the left and left arm extension.   Of note, patient's heart rate appears to have dropped briefly from -130 bpm at
+seizure onset to - 60 bpm at the end of the convulsion.
+Electrographically, onset appears to be consistently right anterior temporal with rapid spread towards the left.
+SEIZURE DIAGNOSIS:
+complex partial seizures (CPS), suspected right anterior temporal onset
+complex partial seizures with secondary generalization
+independent non-epileptic events with unique semiology
+EPILEPSY DIAGNOSIS:
+1.	medically refractory localization related epilepsy
+CONCLUSION:
+This 5 days long-term EEG monitoring session produced 7 seizures (6 CPS and 1 CPS with secondary generalization),  all similar in onset with similar semiologies (however, subtle variations in semiologies were observed) .  On more than one occasion, increase in heart rate or change in behavior was observed seconds before any clear EEG change.
+Medication changes: Depakote 500 mg in am and 1000 mg qHS - that medication was chosen, since it may also help with headache control and mood stabilization .
+
+
+

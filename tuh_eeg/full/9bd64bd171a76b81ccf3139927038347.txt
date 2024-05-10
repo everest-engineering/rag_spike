@@ -1,0 +1,38 @@
+History:	61 YO FEMALE PRESENTS W/ SOB. SHE WAS WORKING TO BREATH WHEN
+EMS ARRIVED. SHORTLY THEIR AFTER PT LOST PULSE PEA CODE STARTED.
+EMS REPORTED 4 - 5 MINS, HUSBAND REPORTED 10 - 15MIN.
+Medications:	NITRO, BREVIBLOC, INSULIN
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 9 hours from 01/07/2014 to 01/08/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse
+attenuation with absence of the expected anterior to posterior gradient of frequencies.  No normal
+sleep architecture was present.
+No focal slowing is present.  Frequent periodic lateralized epileptiform discharges in the right
+frontal region with a large field and associated myogenic artifact over the left hemisphere. With
+time they appear to become more rhythmic  and symmetric with a larger spread/field over the left.
+These occur continuously at about 1-2 Hz throughout the entire record but at the end they appear
+to be more rhythmic.  Video reveals left facial twitching.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 96.  Please note that this record is limited by the continuous
+muscle artifact seen throughout the study. This improved with paralytics.
+Summary of Findings:
+Diffuse slowing, polymorphic
+PLEDs (periodic lateralized epileptiform discharges)
+Interpretation:
+This is an ABNORMAL limited EEG because of right frontal PLED's with associated contralateral
+muscle artifact. These discharges are consistent with focal or localized seizures and represent an
+underlying irritable cortex. In addition the diffuse background attenuation is an indicator of severe
+cortical dysfunction, which supports a poor prognosis.
+

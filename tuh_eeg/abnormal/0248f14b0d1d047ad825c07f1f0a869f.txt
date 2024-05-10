@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 69 year old right handed woman status post right
+endarterectomy followed by hematoma, unresponsiveness, and two seizures during
+attempts to reintubate. Past history of right ACA and MCA infarcts, hypertension, CLL, COPD.
+MEDICATIONS: Morphine, Lasix, Keppra
+INTRODUCTION: Digital video EEG was performed at the bedside using standard 10/20 system of electrode placement with 1 channel of EKG. The patient is awake and responsive.
+DESCRIPTION OF THE RECORD: The EEG demonstrates a 9 Hz alpha rhythm on the left. The overall pattern from the left is relatively unremarkable. There is a small amount of theta noted in the background and a small amount of shifting theta. In this bedside portable ICU record, there is both some artifact on the right and occasional focal delta noted from the right hemisphere, particularly in the posterior quadrant. These findings abate as the patient is stimulated or awakens.
+HR: 96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Intermittent, bilateral slowing with theta activity.
+2. Occasional right focal delta.
+CLINICAL CORRELATION: There are no epileptiform features noted. The intermittent, right focal slowing may be correlated with a structural or functional process on the right.
+
+
+

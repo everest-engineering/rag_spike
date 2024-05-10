@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 56-year-old male with a stroke in August of 2012, left-sided weakness which resolved, but intermittent left-sided numbness and right ocular issues.  Baseline study for right carotid endarterectomy.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background EEG includes a relatively low voltage background with generous beta.  There is a very subtle asymmetry with somewhat faster frequency activity on the left compared to the right.  The alpha rhythm is slightly faster on the left, 12 Hz on the left and 11.5 Hz on the right.  In addition, the faster activity has slightly higher amplitude on the left.  There is occasional, shifting delta from either hemisphere.
+Photic stimulation elicits bilateral driving.
+Heart rate 84 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+A very subtle asymmetry in terms of faster activity and alpha activity on the left.
+Occasional shifting slowing.
+CLINICAL CORRELATION:  The focal features are ipsilateral to the patient's recent stroke.  These findings will be used for the patient's operative baseline.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  31 year old right handed male with a VP shunt placed at age 13, spinal stenosis, diabetes and fibromyalgia.  The shunt emanates from the left occipital region.  He is now experiencing spells of spacing out lasting seconds.  The patient is amnestic for the events.  The spells last 10 to 15 seconds and he rolls his eyes.  No headaches, no dizziness, no other associated symptoms.
+MEDICATIONS:  Crestor and others
+INTRODUCTION:  Digital video EEG was performed in lab using 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11-Hz alpha rhythm.  There seems to be an artifact in the right frontal region, although there is no description of a current shunt or previous craniotomy in that region. Despite the artifacts described above, left anterior temporal spike and slow wave complexes are noted.  These phase reverse primarily at T1 and F7, but some seem to have a lateral dipole, almost maximum at T2 and then F7.  Some spikes seem to start at F7 prior to T2 or T1, and then there is a spike that starts at T1, then F7, then T2. Features of drowsiness include increase in background slowing. Hyperventilation seems to have accentuated the left anterior temporal spikes. Photic stimulation elicited driving.
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Epileptiform activity primarily from the left anterior temporal region but with rare spikes which are clearly maximum at T2.
+A question of underlying skull deformity and/or focal slowing in the right anterior temporal region.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.
+
+
+

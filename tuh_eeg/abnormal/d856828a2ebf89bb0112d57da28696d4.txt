@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 78 year old right handed male with Parkinson's disease, right-sided weakness, stroke (bilateral dorsal medial thalamus) TIA, gastroparesis, and dementia.
+MEDICATIONS:  Ativan, Simvastatin, Norvasc, Prilosec, Metformin, Lisinopril
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the EEG is somewhat slow with a 7 to 8-Hz alpha rhythm and excess background theta.  In relaxed wakefulness, there are bursts of rhythmic delta.  In addition, as the patient becomes drowsy there is prominent bilateral rhythmic slowing with some underlying shifting slowing.  At the close of the recording, there is some additional focal slowing from the right hemisphere.  Occasional lambda waves are noted in relaxed wakefulness.
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+Superimposed focal slowing noted intermittently with disruption of faster frequency activity on the right.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The generalized background slowing may be associated with the underlying neurodegenerative disorder or the bilateral stroke syndrome.  The focal features may be correlated with imaging.
+
+
+

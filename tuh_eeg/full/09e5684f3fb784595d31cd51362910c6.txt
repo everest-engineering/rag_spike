@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  59 year old left handed gentleman with 2 unwitnessed episodes of loss of consciousness, followed by shaking. Patient has history of renal failure, anemia, bradycardia, arrhythmia, with AICD.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This individual seems to be very drowsy.
+DESCRIPTION OF THE RECORD:  Much of the record includes stage II sleep with vertex waves, K-complexes, spindles, and POSTS.  Arousals from sleep produce a 6 Hz alpha rhythm.  The patient is falling asleep even during photic stimulation and the maximum alpha frequency is 8 Hz.
+HR:   72 bpm
+IMPRESSION:  This is an equivocally abnormal EEG.
+CLINICAL CORRELATION:  The alpha rhythm reached only 8 Hz, which is still considered slow, however, the patient should have completed more cognitive testing to make sure that he is maximally awake.
+
+
+

@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  53 year old male with heart failure who presented with increasing shortness of breath and cardiovascular decompensation, obtundation.
+
+MEDICATIONS:  Epinephrine, Levophed, Vecuronium
+
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, comatose, with an LVAD device in place.
+
+DESCRIPTION OF THE RECORD:  The EEG is markedly suppressed.  Approximately every 4 seconds, there is a 1-second burst of 5.8 Hz theta frequency.  These bursts are not always every 4 seconds in duration and they are not always the exact same duration.  They are also picked up in the eye movement channel.  In addition, there are some sections where the bursts appear paired and others where they are less frequent.  Occasional eye movement is observed. Stimulation of the patient does not activate the record.  As the recording continues, there is a small amount of faster frequency activity noted in the frontal regions.
+
+Given the number of devices that this patient has and the characteristic of the theta frequency activity, it is possible that some of the bursts of theta represent an artifact.  Other features that suggest that the burst suppression pattern is biological rather than artifactual include the occasional bursts which have some beta frequency activity, as well as some variability in the bursts.
+
+
+HR:    78 bpm
+
+IMPRESSION:  Abnormal EEG due to:
+1. Marked suppression of the background.
+2. What is likely a burst suppression pattern.
+
+CLINICAL CORRELATION:  The overall pattern is one supporting of a severe, bihemispheric disturbance of cerebral function.  No epileptiform features were identified.
+

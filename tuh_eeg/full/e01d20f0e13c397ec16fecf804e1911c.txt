@@ -1,0 +1,11 @@
+CLINICAL HISTORY:    26 year old female overdosed on Tylenol and Percocet with development of hepatorenal syndrome, coma, fixed and dilated pupils.
+MEDICATIONS: Mucomyst, Keppra, Zosyn, Heparin, Pantoprazole, Vasopressin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel  EKG.
+DESCRIPTION OF THE RECORD:  The background EEG fails to demonstrate definitive cerebral activity.  There is some artifact including some faster frequency artifacts picked up in the right scalp electrodes.  Stimulation of the patient does not activate the record.
+HR:  120 bpm
+IMPRESSION:   Abnormal EEG due to:
+1.  Absence of definitive electrocerebral activity.
+CLINICAL CORRELATION: Although this record was not performed with all of the technical aspects utilized for typical ECA record, there is no definitive cerebral activity.
+
+
+

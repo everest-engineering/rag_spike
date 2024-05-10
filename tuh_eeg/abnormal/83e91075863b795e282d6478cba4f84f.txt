@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 60-year-old woman with adult onset epilepsy, some seizures begin with tingling in her nose or distal paresthesias.  Other more significant seizures with tonic-clonic activity.  Onset in 2003.  Previous EEG monitoring for nasal tingling and distal paresthesias.
+CURRENT MEDICATIONS:  Vimpat, phenytoin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  Impedances were acceptable aside from T1 and T2.
+DESCRIPTION OF RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Stage II sleep includes vertex waves, K complexes, spindles, and POSTS.
+There are a handful of subtle, underlying abnormalities.  These include a rare, discrete right temporal sharp wave with unusual field of spread, but when reviewed with an average reference, it is maximal on the right with a field involving the left (transverse dipole?) .  In addition, there is a suggestion of low voltage fast activity noted on the left.
+Photic stimulation elicited scant driving.  Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Discrete right temporal sharp waves with an unusual field of spread.
+Subtle, fast activity or a low voltage spike in the left frontal region.
+CLINICAL CORRELATION:  In comparison to this patient's previous EEGs spanning 2003 to the present, both of these findings have been identified in the past.  The left frontal activity was noted during the patient's long-term video EEG monitoring, and the right temporal findings, although rare for this patient, have been noted since 2003.
+
+
+

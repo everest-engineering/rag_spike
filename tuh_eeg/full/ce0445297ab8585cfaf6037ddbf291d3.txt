@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  19 year old right handed woman with epilepsy since age 13, last seizure September 11. She reports left head or hand shaking, eyes rolling back in the head, tongue biting, duration 10-20 seconds.
+MEDICATIONS:  Keppra, Birth control.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient seems to be very nervous.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 hertz alpha rhythm which is symmetric and reactive to eye opening. Features of drowsiness include an increase in beta. Hyperventilation does not activate the record. Photic stimulation elicits brief bilateral driving.
+HR:    66 bpm
+IMPRESSION:  This is a normal EEG.
+CLINICAL CORRELATION:  A generous beta in the muscle artifact can be seen in the context of anxiety. No epileptiform features were observed. A repeat sleep deprived EEG is suggested to more completely identify epileptiform activity.
+
+
+

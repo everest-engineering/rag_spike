@@ -1,0 +1,13 @@
+LENGTH OF THE RECORDING:  30 minutes.
+CLINICAL HISTORY:  The patient is a 62-year-old man with a past medical history of hypertension, pericarditis, hepatitis C, alcohol abuse, and liver cirrhosis, who was observed to have an episode of possible seizure characterized by right upper extremity shaking and head turning to the right, lasting approximately 1 minute.
+MEDICATIONS:  Insulin, tramadol, Protonix, Keppra, amlodipine, heparin, aspirin, metoprolol, prednisone, Celexa, etc.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Only photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  During wakefulness, there is no clear posterior dominant rhythm and no clear anterior to posterior frequency amplitude gradient.  The background appears to consist of a mixture of polymorphic theta activity with under-riding slow diffuse delta activity.  Throughout the majority of wakefulness, there are large amounts of EMG artifact that limit interpretation of the recording during those time periods.  As the patient falls asleep, brief periods of discontinuity, symmetrical vertex waves, and sleep spindles are captured.  There is no clear focal slowing.  Hyperventilation was not performed.  Stepped photic stimulation does not result in additional abnormalities.  Persistent bradycardia, with a heart rate of approximately 56 beats a minute with beat intervals of up to 1.5 seconds, is observed in the single EKG lead.
+FINDINGS:
+Mild to moderate diffuse background slowing.
+Persistent bradycardia.
+Diffuse EMG artifact during wakefulness.
+IMPRESSION:  This is an abnormal awake and asleep 30-minute EEG due to mild to moderate diffuse background slowing.  This finding indicates etiologically nonspecific diffuse cerebral dysfunction.  During wakefulness, there are large portions of the EEG obscured by EMG artifact.  This limits interpretation of the recording during those time periods.  Persistent bradycardia with a heart rate of approximately 56 beats a minute and QRS interval of up to 1.5 seconds is captured on the single EKG lead.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

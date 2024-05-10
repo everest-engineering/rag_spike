@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Refractory epilepsy.
+INTRODUCTION:  A long-term EEG was performed for 48 hours using the standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed. Continuous spike wave detection as well as seizure detection software was used to review the EEG in addition to patient's note, nurse's note and pushbutton events.
+MEDICATIONS:  None for the first 24 hours, then placed on Keppra
+HISTORY:  A 21-year-old woman with history of seizures since age 12 with loss of consciousness, generalized tonic-clonic shaking, postictal confusion, and tongue-biting, usually from sleep, sometimes from wakefulness with sound buzzing previous to the seizure. Now pregnant
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness, stage I, stage II  and deeper stages of sleep.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:
+Focal slow waves seen intermittently at F7/T3 much more frequently than F8/T4.  Frequency of 2-4 Hz, amplitude of 20-60 mV.
+There is intermittent paroxysmal bursts of delta slowing that at times appear to have a sharply contoured appearance in the bilateral frontal regions and sometimes temporal regions which are concerning and suspicious for fragments spike and wave.  However, interestingly enough these discharges do not appear to occur during sleep.
+Heart rate 108.
+IMPRESSION:  Abnormal EEG due to bilateral anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific with regards to etiology.  In addition, there is the appearance of paroxysmal slowing or suspicious for possible underlying generalized bursts versus frontal discharges with rapid bilateral representation. Continue recording and capturing one of her typical events will be helpful and critical for the diagnosis and classification of her epilepsy.
+__________________________
+
+
+

@@ -1,0 +1,28 @@
+History:	53 year old woman status post prolonged cardiac arrest, now with myoclonic jerks
+and posturing events.  Patient will be placed on continuous EEG monitoring.
+Medications:	Propofol
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Description:
+There is no PDR and no AP gradient.  Voltages are diffusely attenuated.  The background consists
+of very low amplitude fast activity.  Rhythmic ventilator artifact is present early in the recording.  No
+normal sleep architecture is present.
+At 10:39:46 am, ~6 second-long seizure is captured.  Electrographically, it is characterized by
+sudden onset of generalized high amplitude fast activity that rapidly decreases in frequency to
+rhythmic diffuse theta activity that rapidly stops.  Event occurs several seconds after initiation of
+suctioning and is characterized by what appears to be extensor posturing.
+There is continuous EKG artifact.
+Summary of Findings:
+Other, no clear reactivity
+Attenuation, severe
+Diffuse slowing, polymorphic, severe
+Seizure, single generalized, ~6 seconds; associated with posturing
+Interpretation:
+This is an ABNORMAL 27-minute EEG due to severe diffuse slowing, attenuation, lack of
+background reactivity and a single brief (~ 6seconds) generalized seizure (clinically associated with
+posturing). These findings are etiologically nonspecific indicators of severe diffuse cerebral
+dysfunction.  A single brief seizure indicates cortical excitability.  In the setting of anoxic brain
+injury these findings indicate poor chance of full neurological recovery.  These findings were
+
+

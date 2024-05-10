@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  78 year old right handed woman with epilepsy who had a funny spell when her face looked funny.  History of palpitations.
+MEDICATIONS:  Simvastatin, Oxcarbazepine, Meclizine, ASA, Fluticasone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This was an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is a small amount of shifting slowing.  The overall record is sometimes a bit sharply contoured in the temporal regions.  Features of drowsiness include an increase in background slowing.  Vertex waves and spindles are identified in stage 2 sleep. Photic stimulation elicits a driving response which is present bilaterally.
+HR:    78 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Mild background slowing.
+Occasional shifting slowing greater than accepted for age.
+CLINICAL CORRELATION:  Unlike previous EEGs, there were no right temporal sharp waves today.  There was no right temporal significant focal slowing and there were no sharp waves from the left hemisphere. The background slowing and disorganization is a nonspecific finding in an adult of this age and can be seen in the context of underlying cerebrovascular disease or even other comorbidities which may have resulted in the patient's epilepsy.  Please note that previous seizures were characterized by amnestic spells with staring, speech arrest, automatisms, urinary urgency and postictal confusion.  This differs significantly from the event described in the HPI above.
+
+
+

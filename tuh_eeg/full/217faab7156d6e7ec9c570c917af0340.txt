@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 33-year-old woman with an 8 year history of epilepsy.  The patient had increased seizures for the last 5 months.  Event on New Year's Day with tachycardia and inability to speak for 3 hours.
+MEDICATIONS:  Toradol, Reglan, Benadryl, others
+INTRODUCTION:  A 20 minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  Impedances were under 5 kilo-ohms with the exception of the T1-T2 electrode.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low-voltage, frontocentral beta.  Drowsiness was characterized by attenuation of the alpha rhythm.  Occasional muscle twitch artifact was noted as the patient transitioned in and out of sleep.  Brief stage 2 sleep include vertex waves and spindles.
+HEART RATE 60 bpm.
+IMPRESSION:  Normal electroencephalogram.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy and, if seizures are an important consideration, a follow up study may be of use.  Consideration for inpatient or outpatient EEG may be appropriate.
+
+
+

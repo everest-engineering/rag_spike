@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 31 year old right handed female with epilepsy since the age of 4, the last seizure a week ago, patient would like to discontinue medications.
+MEDICATIONS: Oxcarbazepine, Tegretol.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is somewhat slow and disorganized with primarily a rhythmic theta pattern. The posterior dominant rhythm is 4 Hz but is reactive to eye opening. There are bursts of higher amplitude rhythmic frontal mixed theta delta and there appear to be some frontal sharp waves a bit more
+prominent in the left frontal region compared to the right. Hyperventilation seems to accentuate the rhythmic frontal slowing. Photic stimulation is not particularly successful and is compromised by movement artifact. There is a single, higher amplitude sharp wave noted in the right hemisphere in the central parietal region. This has a generous field of spread and includes C3 and T3. This occurs during hyperventilation. Drowsiness is characterized by a decrease in muscle artifact. As the patient drifts off to sleep, additional sharp waves are noted at P3.
+HR: 80 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+2. Left parietal sharp waves.
+3. Frontal waves which seem to be maximum on the left.
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function. There are both focal left parietal and frontal sharp waves supporting a localization-related mechanism for epilepsy. Correlation with clinical history and imaging is suggested. Previous EEG monitoring in 2007, identified frontal epileptiform activity as well as a multifocal pattern. This appears to be the first EEG for this patient since 2007.
+
+
+

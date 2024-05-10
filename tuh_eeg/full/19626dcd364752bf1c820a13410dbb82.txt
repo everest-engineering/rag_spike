@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 36-year-old man with a 12-year history of epilepsy, last seizure at 1-2 years ago, here for follow up EEG.
+MEDICATIONS:  Keppra 500 mg, HCTZ, thyroid
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  It is a routine 20-minute EEG with acceptable impedances, aside from the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The patient is very drowsy throughout the EEG, but in maximal wakefulness there is 11 Hz alpha rhythm.  As he becomes drowsy, there is prominent theta within the frontal regions.  The patient was feeling asleep during photic stimulation, which still elicited harmonic and super-harmonic photic driving.  At the close of photic stimulation, patient was transitioning into stage 2 sleep.  Heart rate is 96 bpm.
+IMPRESSION:  Normal EEG in wakefulness through sleep, very drowsy patient.
+CLINICAL CORRELATION:  No epileptiform features are noted.  If indicated, a follow up study with photic stimulation in wakefulness may be considered.
+
+
+

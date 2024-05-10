@@ -1,0 +1,29 @@
+History:	76 year old woman who presents with sepsis and change in mental status.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, lethargic
+Description:
+There is no PDR or AP gradient.  Diffuse, frontally maximal sharp waves with triphasic morphology
+are present throughout the recording.  These waveforms demonstrate an anterior to posterior phase
+lag and appear with stimulation.  When patient falls asleep, triphasic waveforms resolve and the
+background consists of polymorphic low-to-moderate amplitude theta and delta activity and periods
+of brief background discontinuity.
+No electrographic seizures are captured.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Triphasic waves, abundant, with stimulation
+Diffuse slowing, polymorphic, moderate
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute portable EEG due to moderate diffuse slowing
+and abundant triphasic waveforms. These findings are indicative of a moderate diffuse
+encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin.  Triphasic
+waves are a nonspecific EEG finding that can be seen in hepatic encephalopathy, uremia and
+anoxia.  No clinical or electrographic seizures are present.
+
+
+
+
+

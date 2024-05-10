@@ -1,0 +1,19 @@
+History: 50 year old woman admitted for a right frontal contusion after falling forward from a gtc seizure for 45 seconds. Pmhx: Localization-related Epilepsy, depression, anxiety.  Morphologic features suggestive of chiari malformation, agenesis of the corpus callosum and subependymal heterotopia.
+Medications:	TEGRETOL, KEPPRA
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 23 hours from 09/22/2014 to 09/23/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description: Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates but is seen best over the right hemisphere.   5-15uV, 18-25Hz activity is present with a higher amplitude over the right hemisphere.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear. Continuous polymorphic delta activity is present in the left hemisphere maximal over the midtemporal region during wakefulness, increasing during drowsiness. Times becomes semirhythmic.  Intermittent polymorphic delta activity is present in the right midetmporal region during wakefulness, increasing during drowsiness.  Occasional focal sharp waves are present in the left more than right midtemporal region with phase reversal at T3 and T4. Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 60
+Summary of Findings:
+Sharp waves, intermittent, bilateral (L>R) temporal, mid
+Focal slowing, polymorphic, continuous, left temporal, mid
+Focal slowing, polymorphic, intermittent, right temporal, mid
+Interpretation: This is an ABNORMAL awake and drowsy EEG because of epileptiform discharges in the left more than right midtemporal region.  These findings are indicative of a potentially epileptogenic focus in this region, and given the clinical history of partial seizures, are consistent with a diagnosis of localization-related epilepsy. In addition there is  continuous focal slowing in the left hemisphere maximal in the midtemporal region.  This finding is indicative of a focal structural lesion in this region. Lastly there is  intermittent focal slowing in the right midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+

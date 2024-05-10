@@ -1,0 +1,32 @@
+History:	61 year old woman with a history of chronic and, now, acute, strokes. Her mental
+status remains poor and her neurological exam fluctuates.
+Medications:	ASA, no AEDs
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~24 hours from 4/29/2015 till 4/30/2015.   Nursing-
+initiated event buttons were correlated with clinical behavior.  All automatically detected events
+were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is no clear PDR or AP gradient.  The background consists primarily of polymorphic diffuse
+theta activity, occasional polymorphic alpha activity and bursts of diffuse frontally predominant
+delta activity (FIRDA).  During sleep, the background consists of a mixture of polymorphic theta and
+delta activity with normal sleep architecture.  Sleep is fragmented and patient is awake for most of
+Summary of Findings:
+FIRDA (frontal intermittent rhythmic delta activity)
+No electrographic seizures
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL continuous ~24 hour video EEG due to moderate diffuse slowing. This
+finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+FIRDA is could be seen in encephalopathy, increased ICP, bilateral deep white matter lesions.  No
+electrographic seizures are present.
+
+
+
+
+

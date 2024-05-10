@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 58-year-old right-handed gentleman, who presents with seizures.  It is described as a generalized tonic-clonic seizure.
+PAST MEDICAL HISTORY:  Significant for seizure disorders, hypertension, hyperlipidemia, schizophrenia, ethanol abuse, head trauma.  Head CT showed right MCA stroke.
+MEDICATIONS:  Keppra, Serax, vancomycin, lisinopril, thiamine, folic acid, Norvasc.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 9 Hz seen in the occipital region, which attenuates with eye opening.  There is generalized low amplitude beta activity, which is distributed symmetrically.  There are almost continuous right frontotemporal slowing at times with loss of faster frequencies.  There is occasional independent left temporal slowing, most pronounced in mid and anterior temporal region lasting for 1 or 2 seconds with a frequency of 2 to 2.5 Hz.  Drowsiness was is characterized by disappearance of the posterior dominant rhythm and slowing of the background and absence of muscle and eye blink artifact.  Heart rate was 80 to 90 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG due to,
+Right hemispheric slowing with loss of faster frequencies.
+Left temporal slowing.
+There is no epileptiform activity or seizures noted during this recording.
+CLINICAL CORRELATION:  Continuous right hemispheric slowing is consistent with an underlying structural abnormality, in this case right MCA stroke.  Left temporal slowing is consistent with left temporal dysfunction.  Clinical correlation is recommended.  Generalized beta activity could be due to medication effect including benzodiazepine or barbiturate, and also could be due to anxiety or hyperthyroidism.  No epileptiform abnormalities or seizures were seen in this record.  This does not rule out the diagnosis of epilepsy or of intermittent seizures.  If seizures are a clinical concern, a repeat sleep-deprived EEG or a 24-hour ambulatory EEG may be helpful.
+
+
+

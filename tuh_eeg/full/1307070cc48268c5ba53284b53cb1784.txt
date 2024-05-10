@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  52 year old woman with sarcoid respiratory distress, admitted to the outside hospital with left hemiparesis and seizure, now intubated but awake with left hemiparesis and bilateral spasticity.
+MEDICATIONS: Prednisone,  Albuterol, Flolan
+INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement.  The patient is intubated.
+DESCRIPTION OF THE RECORD: The background EEG is technically quite suboptimal.  There is an extreme amount of muscle artifact and with the use of a 35 Hz filter the quality of the EEG is otherwise significantly impacted.  Underneath the muscle there appears to be a theta pattern.  Asymmetries are not well-identified in this record, but the overall quality is poor.
+HR:   N/A
+IMPRESSION: Abnormal EEG due to:
+1.    Marked background slowing.
+2.    Lack of the normal morphologies anticipated in wakefulness.
+CLINICAL CORRELATION:  The absence of epileptiform activity or muscle artifact. The muscle artifact precludes the identification of epileptiform activity. Therefore,  a follow-up study is necessary.
+
+
+

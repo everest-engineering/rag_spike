@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 27 year old right handed male with recurrent dizzy spells with loss of consciousness and tongue biting.
+MEDICATIONS: Lovenox.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation were performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 Hertz alpha rhythm with a small amount of low voltage frontal central beta activity. Drowsiness includes rhythmic theta. Photic stimulation elicits vigorous driving. Hyperventilation produces an increase in amplitude of the background.
+HR: 60 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed in this record. Normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

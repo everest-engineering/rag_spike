@@ -1,0 +1,20 @@
+History:	27 YR OLD MALE PRESENTS WITH HX OF SZ S/P MVA IN 2008. PT IS ON METHADONE FROM SUBSTANCE ABUSE.
+Medications:	Lamictal, Clonidine, Depakote, Neurontin Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1fT2 electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 82.5 hours from 06/04/2015 to 06/08/2015.  Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	O
+Description of pushbutton events None
+Description:
+A posterior dominant rhythm was seen to at best reach'9Hz Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+No focal slowing is present. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli. HR was 66
+Summary of Findings:
+Diffuse slowing, polymorphic, excessive diffuse
+Interpretation:
+This is an ABNORMAL EEG because of mild diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicator moderate diffuse cerebral dysfunction.
+
+
+
+

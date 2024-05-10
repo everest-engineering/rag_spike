@@ -1,0 +1,29 @@
+History:	76 year old man with a recent stroke.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right hemisphere.
+The background over the left consists of 8-9 Hz activity posteriorly, excess theta activity and weak
+AP gradient.  The background over the right lacks PDR and consists of a mixture of polymorphic low
+amplitude theta and delta activity with delta activity most pronounced over the right temporal
+region.  During very brief fragmented periods of quiescence, diffuse sleep-spindle-like waveforms are
+seen, they are better formed over the left.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates
+irregular heart rate with frequent up to 1.5 sec inter-QRS pauses.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, moderate, right hemispheric, especially over the temporal region
+Cardiac arrhythmia, up to 1.5 sec inter-QRS pauses
+Interpretation:
+This is an ABNORMAL portable awake and very briefly asleep  22-minute EEG due to mild diffuse
+slowing and continuous focal moderate right hemispheric slowing that is most pronounced over the
+temporal region. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Continuous focal slowing is indicative of a focal structural lesion in this
+region.  A single EKG lead demonstrates irregular heart rate with frequent up to 1.5 sec inter-QRS
+
+
+
+

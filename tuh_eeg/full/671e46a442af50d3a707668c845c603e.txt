@@ -1,0 +1,4 @@
+Description: Abnormal
+Focal seizures at P4 occurring in the EEG
+
+

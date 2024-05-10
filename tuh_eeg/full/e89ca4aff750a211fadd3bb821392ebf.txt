@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Previous stroke, left hemisphere, and psychomotor slowing, as well as gait disturbance, for right carotid endarterectomy.
+MEDICATIONS:  Aspirin, heparin, fentanyl, vecuronium, propofol, sevoflurane/isoflurane, phenylephrine.
+INTRODUCTION:  Digital video EEG was performed in the OR using standard 10-20 system of electrode placement with one channel of EKG.  This was a 3.5 hour study with electroencephalographer attendance in the operating room.
+DESCRIPTION OF THE RECORD:  The recording begins with the patient sedated.  The EEG demonstrates a mixed frequency slow pattern with an asymmetry with significantly more delta in the right hemisphere.  in addition, there is intermittent disruption of faster frequency activity on the right.  With a small degree of anesthesia, intermittent attenuations were noted in the initial sections of the record, right more so than the left.
+As the patient's propofol is adjusted, higher levels of anesthesia with propofol or the isoflurane and sevoflurane produce an increase in slowing and particularly intermittent subtle discontinuity or attenuation on the right.
+Prior to placement of clamp, the EEG demonstrates intermittent subtle discontinuity and intermittent attenuation on the right.  This was a stable pattern.
+The carotid was clamped at 10:44 and unclamped at 21:10.  The asymmetries described above were not significantly changed after placement of the clamp.  By 11:30, intermittent discontinuity was again patterned and discussed with the anesthesia team.  The isoflurane was at a max of 0.5 and no additional increase in anesthesia was given.  Towards the later parts of the procedure, as the bilateral changes were seen, the findings were discussed with the clinical team and the medications were verified.
+Patency was confirmed by Doppler at 12:13.  There was some additional recording, but the EEG electrodes had been disconnected at 12:29 and just the EKG remained.
+IMPRESSION/CLINICAL CORRELATION:  Electroencephalogram monitoring during this right carotid endarterectomy was remarkable for focal features noted prior to manipulation of the carotid, unchanged with clamping of the carotid.  In addition, intermittent discontinuity which could be unilateral or bilateral correlated with the depth of anesthesia.
+
+
+

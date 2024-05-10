@@ -1,0 +1,25 @@
+History:		88 year old man status post right hemispheric SDH evacuation several days ago, now with frequent episodes of head turning to the left and accompanied visual hallucinations.
+Medications:	Depakote, Dilantin, Ativan PRN IVP Sedation:
+EEG Type:	Continuous (inpatient), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for -14 hours from 09/02/2015 till 09/03/2015.	Nursing­ initiated event buttons were correlated with clinical behavior.	Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  The background over the left consists of -8-10 Hz PDR, poor AP gradient and excess polymorphic theta activity .
+Fragmented up to 8 Hz PDR is captured over the right.  Additional mixture of polymorphic theta and delta activity with delta activity especially prominent over the temporal- parietal region is captured over the right.  Poorly visualized sleep spindles are seen.
+Continuous polymorphic theta and delta activity and underriding fast activity is present in the right posterior temporal - posterior quadrant region.  Continuous broadly based blunted right posterior temporal- parietal sharp waves are seen (T4/T6/P4 maximally) appear in the second half of the
+recording.  Many electrographic seizures are captured between -6:30 pm and 11:40 pm, with no seizures after  11:40 PM.  There is no clear clinical correlate.  Early seizures only consist of subtle low amplitude fast activity seen primarily over T4 lead.  As the recording progresses, and seizure frequency increases and their length increases, their appearance  changes.  Seizures start with high amplitude rhythmic 2 Hz delta activity most pronounced over the right midtemporal region.
+This activity decreases in amplitude and increases in frequency and involves right temporal, parietal and occipital regions. By the end of the seizure, rhythmic high amplitude 2-3 Hz delta activity is again seen. Seizures last up to - 80 seconds and during some portions of the recording occur many times per hour.
+Summary of Findings:
+Seizure, frequent, right temporal, up to many times per hour till - 11:40 pm Sharp waves, frequent, right, posterior temporal- parietal
+Diffuse slowing, polymorphic , mild
+Focal slowing, polymorphic, continuous, right, posterior temporal- posterior quadrant Interpretation:
+-
+This is an ABNORMAL continuous -14-hour video EEG due to mild diffuse slowing; continuous focal
+right posterior temporal- posterior quadrant focal slowing; right posterior temporal- parietal epileptiform discharges and many focal right hemispheric subclinical seizures that arise in the right temporal region. There is an epileptogenic structural focus over the right temporoparietal region.  Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific, but at least partially related to the medication effect.  These findings were conveyed to the primary team and therapy was adjusted.	·
+
+
+
+

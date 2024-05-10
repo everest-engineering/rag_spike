@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  Syncope with blurry vision, and impaired vision in the left eye, seizure.
+MEDICATIONS:  Gabapentin, verapamil, Flomax, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  This is a routine awake and sleep EEG with acceptable impedances aside from the T2 electrode.  In addition, eye movements are slightly asymmetric.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 12 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Alpha squeak was identified.  Brief drowsiness is characterized by slow rolling eye movements and attenuation of the alpha rhythm.
+Hyperventilation did not significantly activate the record.  Photic stimulation elicited a low voltage driving response.
+Heart rate:  90 BPM.
+IMPRESSION:  This is a normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this individual with a question of seizure versus syncope.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

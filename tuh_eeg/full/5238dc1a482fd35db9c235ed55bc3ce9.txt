@@ -1,0 +1,14 @@
+MEDICINES:  Dilantin and Motrin.
+HISTORY:  A 48-year-old woman with remote history of epilepsy and 20-year history of migraine headaches.  The patient recalls tonic-clonic seizure in October followed by a steady 5-day occipital headache.
+INTRODUCTION:  A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  This is a small amount of background 7 hertz theta noted.  Features of drowsiness include a hypersynchronous rhythmic background.  Deeper stages of sleep were not sustained.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicited bilateral driving.
+Heart rate:  90 bpm.
+IMPRESSION:  This EEG is remarkable for:
+mild excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The excess background theta is a nonspecific finding and may be related to medications.  If additional information is needed, a more prolonged study capturing deeper stages of sleep is suggested.
+
+
+
+
+

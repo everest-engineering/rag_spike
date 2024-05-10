@@ -1,0 +1,15 @@
+DURATION OF THE RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 92-year-old woman with an extensive past medical history who now presents with a left frontoparietal intracerebral hemorrhage.  The patient currently has a significant change in mental status.
+MEDICATIONS:  Keppra, lorazepam, Xanax, Protonix, sertraline, Coreg.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with one channel of EKG.
+ACTIVATING PROCEDURES:  None performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  The recording consists of a mixture of polymorphic low to moderate amplitude theta and delta mixed with nearly continuous broadly faced frontally predominant triphasic waveforms with anterior-to-posterior lags. Focal voltage intrusion is observed over the left hemisphere. Sleep is not recorded.  Photic stimulation and hyperventilation were not performed.  No clear epileptiform discharges are captured.  An irregular heart rate with a rate up to about 130 beats per minute is captured in single EKG lead.
+FINDINGS:
+Moderate diffuse slowing.
+Focal attenuation over the left hemisphere.
+Continuous abundant triphasic waveforms.
+Cardiac arrhythmia.
+IMPRESSION:  This is a very abnormal awake only 21 minute EEG due to moderate diffuse slowing, focal left hemispheric attenuation, and continuous triphasic waveforms.  Moderate diffuse slowing indicates nonspecific cerebral dysfunction that in this case could be toxic metabolic in etiology.  Focal attenuation could be sign of a collection between skull and surface electrodes such as empyema, subdural hematoma, subarachnoid hemorrhage and in this case is consistent with a diagnosis of an intracerebral hemorrhage.  Triphasic waveforms is a sign of encephalopathy, more likely toxic metabolic in etiology, however, other etiologies are possible.  Cardiac arrhythmia with significant tachycardia is captured in single EKG lead.  No electrographic seizures are captured.  These findings were conveyed to the Primary Team.
+
+
+

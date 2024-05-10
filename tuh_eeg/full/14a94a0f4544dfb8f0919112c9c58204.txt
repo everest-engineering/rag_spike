@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 50-year-old woman with dizzy spells.  Episodes with loss of consciousness, and heaviness lasting 5 minutes.  Treated with gabapentin.
+MEDICATIONS:  Gabapentin and Xanax.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.  Room #533.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a disorganized and somewhat dynamic pattern.  Some portions of the record are better organized and others with a 9.5 Hz posterior dominant rhythm, but other sections have a bit more arrhythmic delta activity.  Both eye blink artifact, and rhythmic frontal slowing were noted intermittently and there was also some shifting slowing.
+Hyperventilation produces an increase in theta in the background.
+Photic stimulation produces an alerting response, as well as a driving response.
+Heart rate 66 bpm.
+IMPRESSION:  This is an abnormal EEG due.
+Background slowing and disorganization.
+Intermittent paroxysmal bursts of rhythmic theta or delta.
+Shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were noted.  This EEG supports a diffuse disturbance of cerebral function such as a toxic or metabolic encephalopathy.  Additional evaluation looking for an underlying cause may be of use.
+
+
+

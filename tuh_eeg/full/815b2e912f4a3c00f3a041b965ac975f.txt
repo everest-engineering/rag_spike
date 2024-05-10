@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 28-year-old woman, admitted to a psychiatric hospital with a history of developmental disability, autism, bipolar disease.  The patient has had a decline since her mother died.
+MEDICATIONS:  Thorazine, Klonopin, Benadryl, Risperdal, Effexor, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient had been sedated (medications not described) prior to the EEG and the technologist had a great deal of difficulty with the impedances.
+DESCRIPTION OF THE RECORD:  The patient is awake at the onset of the EEG but appears to be drowsy, slumping over.  There is a 9 Hz alpha rhythm in a pattern rich in beta frequency activity.  The patient seems to transition in and out of sleep, and there was excess theta noted in the wakefulness.  There are some bursts of shifting, slowing noted in the awake/drowsy section of the record.
+Photic stimulation was performed as the patient was drifting into deeper stages of sleep and does not significantly activate the record.
+Heart rate 78 bpm.
+IMPRESSION:  This is a technically challenging but abnormal, sedated EEG due to:
+Excess background theta.
+Excess beta.
+Shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  There were no specific hallmarks of any specific neurological syndrome.  The background theta and beta may be due to this patient's medications.  The shifting slowing is a nonspecific finding in a subject with this clinical scenario.
+
+
+

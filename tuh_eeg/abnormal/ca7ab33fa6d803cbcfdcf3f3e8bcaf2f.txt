@@ -1,0 +1,14 @@
+CLINICAL HISTORY: Epilepsy since age 2, last seizure on 18th, myoclonus with tongue biting and postictal confusion.
+
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10.5 Hz symmetric reactive alpha rhythm. The waking background contains intermittent bursts of rhythmic or slow theta activity particularly in the temporal region, some of which is asynchronous. In addition, there is the suggestion of a right centrotemporal focus. As the patient becomes drowsy, frontally predominate simple sharp waves without a spike in wave complexes are noted. Hyperventilation produces an increase in amplitude of background. Photic stimulation elicits scant driving. The patient transitions in and out of drowsiness.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Occasional bursts of asynchronous bilateral temporal slowing.
+2. Simple bifrontal sharp waves.
+3. Suggestion of an underlying right temporal sharp wave.
+CLINICAL CORRELATION: This EEG supports an underlying disturbance of cerebral function affecting gray and white matter.
+
+
+

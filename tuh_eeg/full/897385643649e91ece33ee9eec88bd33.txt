@@ -1,0 +1,13 @@
+LENGTH OF RECORDING:  21 minutes.
+CLINICAL HISTORY:  The patient is a 28-year-old woman with a history of moyamoya disease with resultant left ACA and MCA stroke with residual right-sided weakness.  The patient also has a history of seizures with last seizure occurring several months ago.  Of note, the patient has a metal plate at FP1, T1 and C3 electrodes.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.  The recording was performed in the laboratory.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of low-to-moderate amplitude well formed and modulated 11 Hz alpha activity that attenuates with eye opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitude anteriorly.  No normal sleep architecture is captured.  Higher voltages are observed over the left hemisphere.  Additionally, polymorphic theta activity is captured over the left temporal region.  Hyperventilation accentuates theta activity over the left temporal region.  Stepped photic stimulation results in symmetrical occipital driving at multiple flash frequencies.
+FINDINGS:
+Continuous mild left temporal slowing.
+No epileptiform discharges.
+No stage 2 sleep.
+IMPRESSION:  This is an abnormal 21-minute awake only EEG due to continuous mild left temporal slowing.  This finding indicates focal cerebral dysfunction, likely structural in etiology, and in this patient is consistent with a history of a prior left anterior cerebral artery/middle cerebral artery stroke.  Of note, there is a continuous FP1 electrode artifact.  No epileptiform discharges were captured.  However, stage 2 sleep was not recorded.  If clinical indication for seizures persists, a repeat study with stage 2 sleep may be of benefit.
+
+
+

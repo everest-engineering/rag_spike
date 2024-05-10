@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 51 year old woman with new onset tonic-clonic seizures but a history of generalized shaking spells since 1965. Known thyroid disease.
+MEDICATIONS: Protonix, Zocor, Norvasc, Synthroid, Ambien
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, this is an 11 Hz alpha rhythm but there is a 5.5 Hz alpha subharmonic noted in the occipital regions. Occasional paroxysmal bursts are noted in the right or left temporal regions. As the recording continues in maximal wakefulness, the paroxysmal bursts from either temporal region are less prominent. Hyperventilation is performed with good effort producing an increase in amplitude of the background. Photic stimulation elicits vigorous driving.
+HR: 80 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. Small occasional bursts of shifting slowing seen primarily in the early sections of the record.
+CLINICAL CORRELATION: The alpha subharmonic is a normal variant. The occasional bursts of shifting slowing are nonspecific and can be seen in postictal states or in the context of ischemic white matter pathology or other disturbance of cerebral function. No epileptiform features were observed. If needed, an additional recording may be helpful to characterize epileptiform activity.
+
+
+

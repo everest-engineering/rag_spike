@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 38-year-old male with previous bilateral craniotomy for traumatic brain injury, admitted on the 18th with repetitive seizures.
+MEDICATIONS:  Depacon, Ativan, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and demonstrates an intrahemispheric asymmetry.  The right hemisphere is medium amplitude, moderately slow with a suggestion of a 7 Hz alpha rhythm and generous beta and theta.  The left hemisphere demonstrates a much higher amplitude pattern, compatible with the breach rhythm.  In the context of a breach rhythm, although there are some artifacts, there are clear sharp waves or spikes from the left hemisphere more commonly maximum at T3 or isoelectric at T1-T3.  As the patient becomes drowsy, higher amplitude, more rhythmic delta was noted from the left.  At the close of the record, the patient is briefly a bit more awake, and there is briefly a 9 Hz alpha rhythm elicited on the right.
+Photic stimulation elicited scant driving on the right.
+Heart rate 54 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing with arrhythmic delta activity from the left hemisphere.
+Sharp waves from the left hemisphere with variable maximum, but typically mid temporal or central temporal. Some have a positivity at T3, maximum left frontal
+Background slowing noted from the right, intermittent, improving over time.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric process, but more significant structural or functional pathology on the left compared to the right.  The pattern is improving on the right during this EEG and by report this is a relatively acute postictal study.
+
+
+
+

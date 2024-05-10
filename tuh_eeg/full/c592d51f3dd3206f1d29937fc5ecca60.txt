@@ -1,0 +1,47 @@
+AGE: 71 y.o.
+SEX: female
+DATE OF STUDY: 12/30/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG #: 15-1887
+HISTORY:
+71 y.o. female with a history of dementia who presented with neglect and went on to have fever and lethargy,	referred for routine EEG for screening for subclinical seizures.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+omeprazole (PRILOSEC) 40 mg capsule, take 1 capsule by mouth once daily
+insulin NPH-insulin regular (NOVOLIN 70/30) 100 unit/mL (70-30) injection, inject 20 units subcutaneously every morning and 22 units every evening
+famotidine (PEPCID) 40 mg tablet, take 1 tablet by mouth once daily
+doxazosin (CARDURA) 4 mg tablet, take 1 tablet by mouth once daily
+ferrous sulfate 325 mg (65 mg iron) tablet, take 1 tablet by mouth once daily TAKE WITH BREAKFAST
+losartan (COZAAR) 25 mg tablet, take 1 tablet by mouth once daily amlodipine (NORVASC) 5 mg tablet, take 1 tablet by mouth once daily for high blood pressure
+aspirin 81 mg EC tablet, take 1 tablet by mouth once daily Calcium 500 mg Tablet, Take twice a day
+furosemide (LASIX) 40 mg tablet, Take 40 mg by mouth 2 times daily.
+simvastatin (ZOCOR) 20 mg tablet, Take 20 mg by mouth nightly. CALCITRIOL (ROCALTROL) 0.25 mcg capsule, Take 0.25 mcg by mouth daily.
+loperamide (IMODIUM A-D) 2 mg capsule, Take 1 capsule by mouth as needed for Diarrhea.
+No current facility-administered medications for this visit.
+SEDATION: None TECHNIQUE:
+A bedside portable STAT 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and tactile stimulation .
+EEG BACKGROUND:
+The	background is poorly organized, slow with 7 Hz PDR which is disrupted on the right. There are bursts of ADA, which are more prolonged on the right.	During drowsiness	movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not sustained
+Generalized slowing is present.	Focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES : Hyperventilation and photic stimulation are not performed.
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+Abnormal :
+Generalized background slowing and disorganization Superimposed R focal slowing
+CLINICAL CORRELATION:
+This	EEG supports a bihemispheric process which impacts the right hemisphere including grey and white matter more than the left.
+There were no epileptiform features
+This EEG does not support or refute the diagnosis of epilepsy.
+
+
+

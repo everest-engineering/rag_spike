@@ -1,0 +1,30 @@
+History:	63 YR MALE WITH STROKE ALERT LAST PM WITH LEFT FACIAL NUMBNESS
+AND  SLURRED SPEECH.  PMHX:  HTN, HLD, COPD, NSCLC ( CHEMO), WITH
+LIVER METS.  NOW FOUND TO HAVE BRAIN METS.
+Medications:	DILAUDID, MS-CONTIN MORPHINE, MIRALAX, PROTONIX, LOVENOX,
+AMLODIPINE, VALSARTAN, SINGULAIR, LORATADINE, ERGOCALCIFEROL,
+PRAVASTATIN, FLOMAX, VITAMINS
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left anterior temporal region during
+wakefulness, increasing during drowsiness.  Occasional focal spike-and-wave discharges and sharp
+waves are present with phase reversal and amplitude maximum at F7/T1 and T3.
+Hyperventilation and photic stimulation are not performed.  HR was 102
+Summary of Findings:
+Sharp waves, frequent, left temporal, anterior
+Focal slowing, polymorphic, intermittent, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+in the left anterior temporal  region.  These findings are indicative of a potentially epileptogenic
+focus in this region. In addition there is  intermittent focal slowing in the left anterior temporal
+region.  This finding is indicative of focal cerebral dysfunction, which is consistent with the known
+
+

@@ -1,0 +1,34 @@
+History:	63 year old woman with SAH.  There is a concern for seizures since patient's
+aphasia has gradually worsened.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, asleep, lethargic
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the left.  The
+background over the right hemisphere consists of polymorphic 8 Hz maximally posterior theta
+activity with excess theta and delta activity and poor AP gradient.  The background over the left
+hemisphere consists of polymorphic very unstable 7 Hz maximally posterior theta activity,
+polymorphic theta and delta activity and no clear AP gradient.  Sleep is characterized by diffuse
+attenuation of the background and increase in diffuse polymorphic theta and delta activity.
+An episode of staring and gaze deviation to the left is annotated by the EEG technologist at the
+end of the recording.  There is no abnormal ictal correlate with those findings.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+No electrographic seizures
+Other, episode of gaze deviation to L and staring: no EEG correlate
+Focal slowing, polymorphic, continuous, moderate, left hemispheric
+Diffuse slowing, polymorphic, mild-to-moderate
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute portable EEG due to mild-to-moderate diffuse
+slowing and continuous moderate left hemispheric focal slowing. Diffuse slowing is indicative of
+mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal
+slowing is indicative of a focal structural lesion in this region.  An episode of staring and gaze
+deviation to the left had no abnormal ictal correlate.  Only ~ 25% of simple partial seizures are
+captured on a scalp EEG recording.
+
+
+
+
+

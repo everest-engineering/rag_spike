@@ -1,0 +1,29 @@
+History:	70 year old woman with a recent right parietal tumor removal, now with an episode
+of head turning to the left and left arm shaking.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with faster frequencies over the left hemisphere.
+During maximal arousal the posterior dominant rhythm consists of a polymorphic 7 Hz theta with
+weak AP gradient.  Additional polymorphic theta activity is noted over left.  There is no clear PDR
+or AP gradient over the right.  The background over the right consists of polymorphic continuous
+theta <<delta activity.  Occasional FIRDA (frontal intermittent rhythmic delta activity) is noted, more
+pronounced over the right.  Sleep spindles and vertex waves are captured with sleep architecture
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and asleep 24 minute EEG due to mild diffuse slowing and
+continuous right hemispheric slowing. Diffuse slowing is indicative of mild diffuse cerebral
+dysfunction, which is etiologically nonspecific.  Continuous focal slowing is indicative of a focal
+structural lesion in this region and is consistent a history of right parietal tumor status post resection.
+The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of
+
+
+
+

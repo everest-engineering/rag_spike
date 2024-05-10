@@ -1,0 +1,23 @@
+History:	48 Y.O. MALE P/W LEFT SIDED NUMBNESS/WEAKNESS AND SLURRED
+SPEECH. NIH 4 UPON ARRIVAL TO ED. TPA WAS ADMINISTERED. DENIED
+PRIOR EPISODES. NO PRIOR PMHX. HEAD CT - NO HEMORRHAGE
+Medications:	None
+Sedation:	None
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The predominant background is characterized by a 9 to 9.5 Hz, 25-40uV symmetric alpha rhythm
+with good attenuation on eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal
+over bilateral frontal regions.  Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+Brief drowsiness characterized by theta activity superimposed by beta activity.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation is not performed.  HR was 60
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is a NORMAL EEG, awake and drowsy.  No epileptiform discharges were present, but stage 2
+sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide
+additional information. Excessive beta activity could be secondary to the medication effect, such as
+benzodiazepines or barbiturates.
+

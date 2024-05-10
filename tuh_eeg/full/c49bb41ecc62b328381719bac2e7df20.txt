@@ -1,0 +1,29 @@
+History:	53 YR OLD MALE PRESENTS WITH H/O SZ DISORDER SINCE TEENS, PT
+REPORTS SZ FREE FOR THE PAST 5 YRS, OFF ALL MEDS.
+Medications:	No AED
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Rare polymorphic delta activity is present in the left anterior temporal region during wakefulness,
+increasing during drowsiness.  Rare focal sharp waves are present with phase reversal and
+amplitude maximum at F7/T3.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  EKG 70
+Summary of Findings:
+Sharp waves, rare, left temporal, anterior
+Focal slowing, polymorphic, rare, left temporal, anterior
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of rare epileptiform discharges in
+the left anterior temporal region.  These findings are indicative of a potentially epileptogenic focus
+in this region.  No clinical or electrographic seizures are present.
+
+
+
+

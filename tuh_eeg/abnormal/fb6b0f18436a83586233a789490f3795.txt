@@ -1,0 +1,14 @@
+
+CLINICAL HISTORY: 52 year old right handed female with loss of consciousness, right-sided shaking, history of epilepsy, evaluate for status epilepticus.
+MEDICATIONS: Ativan, Lovenox, Bactrim, Keppra, Keppra.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake but agitated. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.3 Hz alpha rhythm with a small amount of background 5 Hz theta activity, shifting temporal delta is observed. The patient is poorly cooperative. If the patient transitions to a more cooperative state with relaxed wakefulness, sharp waves are noted in bursts out of the left temporal region. No clinical signs or symptoms are associated with these discharges. The discharges do not evolve.
+HR: 66 bpm
+IMPRESSION: Abnormal EEG due to: ;
+1. Excess theta.
+2. Bursts of left temporal sharp waves.  3. Left focal slowing some of which is frontotemporal and some of it is frontocentral.
+
+CLINICAL CORRELATION: This EEG contrasts to a previous study 2 months ago, which identified right temporal sharp waves.
+
+
+

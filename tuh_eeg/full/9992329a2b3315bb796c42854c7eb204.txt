@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 50-year-old male with a past history of brain injury, suicidal ideation, and poor hygiene.
+MEDICATIONS:  Hydroxyzine, Haldol, Cogentin, Benadryl, Ventolin, Clozaril, Detrol, and Depakote.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Impedance was not tested.  The EKG lead was not functional.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a significant degree of artifact.  A cerebral pattern was obtained, but is of unclear validity.  Photic stimulation produced photic artifact in the left frontal leads but not on the right.  The tech appeared to have trouble getting the patient on the video screen.
+Heart rate N/A.
+IMPRESSION/CLINICAL CORRELATION:  No valid conclusions can be drawn from this EEG as the technical quality is unsatisfactory.
+
+
+

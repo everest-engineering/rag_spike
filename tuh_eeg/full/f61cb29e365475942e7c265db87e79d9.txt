@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 40 year old male with epilepsy since age 5, 3 seizures per day. The patient does not have a primary care doctor.
+MEDICATIONS: Tegretol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD: The waking background is somewhat disorganized with a 9 Hz posterior dominant rhythm with prominent, sharply contoured frontal theta as the patient drifts off to sleep, there are bursts of frontal slowing and vertex waves but underneath this there seems to be a shifting right or left frontocentral sharp wave. The patient is noted to be very sleepy and requires stimulation to stay away through hyperventilation but near the beginning of hyperventilation, occasional right frontocentral sharp waves are observed. At this time, again, this asymmetric frontal mixed theta delta is noted again more prominent on the right. Photic stimulation is remarkable for an individual who is drifting into deeper stages of sleep and there is no definitive driving response.
+HR: 78bpm
+IMPRESSION: Abnormal EEG due to:
+1. Background stowing and disorganization.
+2. Excess theta.
+3. Bursts of frontally predominant slowing with mixed rhythmic theta and delta which are a bit more prominent from the right.
+4. Sharp waves in the right frontocentral region.
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance of cerebral function. The epileptiform activity and the focal slowing, however, seem to be more prominent from the right.
+
+
+

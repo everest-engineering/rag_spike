@@ -1,0 +1,14 @@
+LENGTH OF EEG:  21 minutes.
+CLINICAL HISTORY:  The patient is a 45-year-old woman who presents with a large pulmonary embolism, scheduled for an embolectomy on 6/27/2013.
+MEDICATIONS:  Dilaudid, oxycodone, trazodone, and heparin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Stepped-photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well-formed and modulated very low amplitude 11 to 11.5 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During drowsiness the background voltage is increased and the amount of theta increases as well.  Hyperventilation was not performed.  Stepped-photic stimulation results in symmetric occipital driving with multiple flash frequencies.  Excess diffuse beta is captured.
+FINDINGS:
+Low voltage.
+No stage 2 sleep.
+No epileptiform discharges.
+Excess beta.
+IMPRESSION:  This is a normal awake and drowsy 21-minute EEG.  Excess beta could be secondary to the medication effect.  The lack of epileptiform discharges noted on a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+
+

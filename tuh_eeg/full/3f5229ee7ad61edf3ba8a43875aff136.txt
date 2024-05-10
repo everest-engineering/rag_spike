@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 36-year-old man with end-stage renal disease, hypertension, and diabetes presented to the hospital with multiple seizures and was admitted with DKA.
+MEDICATIONS:  Keppra, Dilaudid, nitroglycerin, and others.
+INTRODUCTION:  A routine EEG was performed using the standardized 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.  This was challenging procedure because the tech had difficulties with incidences and could not get the incidence under 5 ohms and also had difficulties with electrodes.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the alpha rhythm was an 8 Hz and shifting and slowing.  This was primarily in drowsiness and hypnagogic hypersynchrony pattern was characterized by increased theta in drowsiness.  Vertex waves were seen in stage 1 sleep.  The patient was hypersomnolent and was falling asleep during photic stimulation.  Heart rate was 84 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+Hypersomnolent pattern.
+Mild slowing of the alpha rhythm.
+Shifting and slowing.
+CLINICAL CORRELATION:  This is an abnormal EEG due to the background slowing.  No epileptiform features were seen.  Due to the technical considerations and the patient's cooperation, followup outpatient study can be helpful to assess potential epileptiform activity.
+
+
+

@@ -1,0 +1,33 @@
+History:	48 YR WOMAN WITH INTRACTABLE CPS SEIZURES SINCE AGE 2 AND
+INTELLECTUAL DISABILITIES.
+Medications:	BENZTROPINE, DIVALPROEX, LAMOTRIGINE, OMEPRAZOLE,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+Intermittent polymorphic delta activity is present in the left frontotemporal region during
+wakefulness, increasing during drowsiness.  Frequent spikes are present with phase reversal and
+amplitude maximum at  F7.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 72
+Summary of Findings:
+Diffuse slowing, polymorphic, excessive, mild diffuse
+Focal slowing, polymorphic, intermittent, left frontotemporal
+Spikes, frequent, left frontotemporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of frequent epileptiform discharges
+and focal slowing in the left fronto temporal region.  These findings are indicative of a potentially
+epileptogenic focus in this region. There is also mild  diffuse background slowing and slow alpha
+rhythm.  These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 29 year old right handed woman with an 11 year history of epilepsy, last seizure 3 months ago. Seizures is characterized by dizziness followed by generalized shaking or loss of consciousness. Postictal drowsiness. Challenging historian.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel EKG. The patient has a weave and multiple other hair extensions.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.7 Hz alpha rhythm. There seems to be a small amount of excess theta. Hyperventilation produces increasing background slowing. Features of drowsiness includes significant theta. Photic stimulation includes significant artifact, but there is a suggestion of a driving response.
+HR: 60bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess theta.
+CLINICAL CORRELATION: Because of the technical issues described above, a follow up study prior the patient's next hair styling is suggested.
+
+
+

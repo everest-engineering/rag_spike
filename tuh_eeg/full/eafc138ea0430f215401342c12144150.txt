@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  63 year old male with left temporal lobe mass, presented February 1, found down.  Past history pituitary resection, hypothyroid, adrenal insufficiency, neurologic pathology.
+MEDICATIONS:  Keppra, Percocet, Decadron, Famotidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is agitated.  It was not possible to provide sedation to this patient.
+DESCRIPTION OF THE RECORD:  The background EEG includes generous muscle artifact.  As the patient drifts off to sleep, this is replaced by a medium amplitude theta background with a combination of 6 Hz, 2.5 Hz activity.  As the patient drifts in and out of sleep, burst of beta are noted.  There are even a handful of spindles.  At the close of the record, the patient awakens briefly and there is an awake pattern which is slow with a mixture of theta-delta.
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features are identified.  This EEG is more supportive of a diffuse disturbance of cerebral function than a focal disorder.
+
+
+

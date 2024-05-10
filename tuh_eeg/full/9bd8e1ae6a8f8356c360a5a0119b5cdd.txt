@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 49-year-old man with past medical history of traumatic brain injury in 1987 and subsequent seizures, has been seizure-free since 2008.
+MEDICATIONS:  Keppra, lisinopril, hydrocortisone cream.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The alpha rhythm is 7 Hz and the background EEG is slow and low voltage.  There is shifting slowing in bilateral temporal region.  No epileptiform discharges are seen.  Photic stimulation causes some muscle artifact, but no driving.  Hyperventilation causes generalized slowing.
+Heart rate is 66 bpm.
+IMPRESSION:  Mildly abnormal EEG due to mild background slowing.
+CLINICAL CORRELATION:  There are no epileptiform discharges identified in this EEG and the mild background slowing can be seen in traumatic brain injury.
+
+
+

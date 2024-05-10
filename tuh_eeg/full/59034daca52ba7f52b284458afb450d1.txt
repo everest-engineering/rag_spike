@@ -1,0 +1,33 @@
+AGE: 57 y.o.
+SEX: female
+DATE OF STUDY: 09/29/2015 RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, coma study EEG #: 15-1425
+HISTORY:
+57 y.o. Female who is s/p cardiac surgery and presenting with change in pupil exam and hypotension. Head CT showed subarachnoid hemorrhage. She is referred for EEG for altered mental status.
+MEDICATIONS: ASA, famotidine
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The background is suppressed. Variability and reactivity are absent. There are no spontaneous eye movements.
+Profound generalized slowing is present. No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: There is no change in the background activity to noxious stimuli.
+Hyperventilation: Hyperventilation is not performed.
+Photic Stimulation: Stepped photic stimulation is not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 102 bpm is captured on a single EKG lead.
+IMPRESSION :
+This is an abnormal routine EEG due to:
+Suppressed background
+Absent variability and reactivity
+CLINICAL CORRELATION:
+These findings indicate profound cerebral dysfunction.
+
+
+

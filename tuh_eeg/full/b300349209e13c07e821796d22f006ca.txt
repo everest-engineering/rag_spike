@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 76-year-old male with stroke, evaluated for post stroke aphasia.
+MEDICATIONS:  Labetalol, nicardipine, phenytoin, and others.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was relatively drowsy, but arousable during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage relatively diffuse theta pattern.  There is infrequent, lower voltage slow delta noted with isolated bursts noted in the left hemisphere, but these are relatively rare.
+Heart rate 76 b.p.m.
+IMPRESSION:  Abnormal EEG due to:
+Diffuse generalized theta.
+Rare bursts of left temporal focal slowing.
+CLINICAL CORRELATION:  No epileptiform features were noted.  This EEG is most compatible with a diffuse disturbance of cerebral function.  The subtle focal features described above are quite mild.  If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep may be considered.
+
+
+

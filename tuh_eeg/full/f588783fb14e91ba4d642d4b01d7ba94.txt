@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  An 81 -year-old woman who developed staring spells 08/24/2013; patient had an episode where she was aphasic, had double vision and then was amnestic.
+MEDICATIONS: none
+INTRODUCTION:  Digital video EEG was performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred. Photic stimulation was completed.  This EEG captured wakefulness through drowsiness.  It is a routine 20 minute EEG.  Impedances were satisfactory aside from the T1 and T2 electrodes.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  In early drowsiness, wicket activity is noted from the right or left temporal region.  In addition despite some eye artifacts, there is intermittent, subtle focal slowing with intermittent bursts of somewhat irregular theta and rare delta noted in the left midtemporal region.  This is seen less frequently on the right.  Features of drowsiness include the wicket and temporal slowing described above as well as attenuation of the alpha rhythm.  Photic stimulation elicited bilateral driving.  Heart rate 66 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to:
+Intermittent, subtle focal slowing from the left temporal region more so than the right.
+CLINICAL CORRELATION:  Wicket is a normal finding.  The intermittent temporal slowing described above with a theta activity is a nonspecific finding, and is seen most commonly in the context of underlying cerebrovascular disease.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep is suggested.
+
+
+

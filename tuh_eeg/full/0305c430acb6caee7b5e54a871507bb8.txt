@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 59-year-old woman with basilar artery aneurysm treated with coils with a history of a motor vehicle accident, alcohol use, and intermittent spells in which she loses her train of thought as well as chronic word finding difficulties.
+MEDICATIONS:
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient reports no clinical events. The seizure spike detection is used as well and this does not identify epileptiform activity.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 40 V posterior dominant rhythm and a small amount low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm.  Vertex waves, K complexes, and spindles are seen in stage II sleep.
+HR:  72 BPM.
+IMPRESSION: Normal 24-hour video EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal study does not exclude the diagnosis of epilepsy.  A repeat study capturing the patient’s typical events would be useful.
+
+
+
+

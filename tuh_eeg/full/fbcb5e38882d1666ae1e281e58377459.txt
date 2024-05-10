@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 79-year-old male admitted to outside hospital on the 17th with right temporal occipital stroke, headache, double vision, and intermittent episodes of unresponsiveness.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  Digital video EEG was performed in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically acceptable record, 20 minutes with impedances under 5 kilo-ohms.  The patient was somnolent throughout the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is low voltage and diffusely slow.  Superimposed upon this low voltage relatively featureless background, there is a posterior dominant rhythm noted on the left which is 6 hertz, somewhat disrupted on the right.  Stimulation of the patient produces a brief arousal and the patient then transitions back to a sleep state.  The technologist notes that the patient arouses with great difficulty and cannot remain awake.  In drowsiness, the asymmetry between the 2 hemispheres is less remarkable and there is more a pattern of diffuse lower voltage slowing with vertex waves.
+Heart rate: 104 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Overall, low voltage, generalized slow pattern.
+Subtle focal features with this disruption of faster frequency activity in the right posterior quadrant.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The focal features are congruent with the previous stroke.  Evaluation for causes for hypersomnolence are appropriate for this individual.  No epileptiform features were noted.
+
+
+

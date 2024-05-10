@@ -1,0 +1,46 @@
+AGE: 63 y.o.
+SEX: female
+DATE OF STUDY: 09/29/201S RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and asleep EEG #: lS-1426
+HISTORY :
+63 y.o. female with a history of seizures referred for routine EEG for follow up.
+MEDICATIONS :
+Current Outpatient Prescriptions :
+aspirin 81 mg EC tablet, Take 81 mg by mouth daily.
+LAMICTAL 100 mg tablet, Take 1 tablet by mouth 2 times daily. Does not tolerate Generic, makes patient feel spacey
+RUTIN PO, Take	by mouth .
+ascorbic acid (VITAMIN C) 500 mg tablet, Take 500 mg by mouth 2 times daily.
+doxycycline (ADOXA) SO mg tablet, Take SO mg by mouth 2 times daily.
+CALCIUM PO, Take	by mouth. MULTIVITAMIN PO, Take	by mouth. RED YEAST RICE PO, Take	by mouth.
+UBIDECARENONE (COENZYME Q10) 10 mg Tab, Take	by mouth.
+GLUC HCL/GLUC SU/AC-D-GLUCOS (GLUCOSAMINE COMPLEX PO), Take	by
+mouth.
+No current facility-administered medications for this visit. SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation .
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness s is characterized by a symmetric and reactive 5 Hertz posterior dominant rhythm (PDR) with superimposed low voltage fast frequencies (consistent with half alpha variant) , which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+No generalized slowing is present.	No focal slowing is present. EPILEPTIFORM ACTIVITY :
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES :
+Hyperventilation : Hyperventilation is performed for 180 seconds with good cooperation and produces no effect.
+Photic Stimulation : Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an essentially normal Awake and asleep routine EEG. There are no clinical or electrographic events reported or detected.	The 5 Hz posterior dominant rhythm with superimposed faster frequencies is consistent with a normal variant (half alpha variant) .
+CLINICAL CORRELATION:
+This is a normal Awake and asleep routine EEG.
+A normal routine EEG does not support or refute the diagnosis of
+epilepsy.
+
+
+
+
+

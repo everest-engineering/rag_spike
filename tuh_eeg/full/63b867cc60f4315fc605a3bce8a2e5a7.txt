@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 70-year-old male with long history of epilepsy since age 19, depression, C-spine injury, currently seizure free.
+MEDICATIONS:  Phenobarbital, Depakote, Tegretol.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  This is a technically acceptable EEG with electrode impedances below 5 kilo-ohms with the exception of 1 electrode at 5.1.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage.  There was a 10 Hz posterior dominant rhythm.  Drowsiness was characterized by an increase in beta followed by a rhythmic central theta.
+Photic stimulation elicited scant driving.
+Heart rate:  54 BPM.
+IMPRESSION:  Electroencephalogram within normal limits in wakefulness and drowsiness for an adult of this age.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Previous EEGs demonstrated L focal slowing and anterior temporal sharp waves.  In this seizure free older adult, there is no background slowing or epileptiform features.
+
+
+

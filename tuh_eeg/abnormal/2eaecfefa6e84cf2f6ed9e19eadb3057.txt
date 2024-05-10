@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  An 80-year-old male with adult onset epilepsy and dementia, patient had multiple seizures this morning including 5 seizures and then a tonic-clonic seizure in the emergency room.  Seizures typically occur with dehydration but not exclusively so.
+MEDICATIONS:  Ativan, Depakote, glyburide, lisinopril, others.
+INTRODUCTION:  A digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Patient was very confused.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow and low voltage.  With arousals, a low voltage theta pattern was identified.  As the patient drifts in and out of sleep, there is some bursts of some shifting slowing and some muscle artifact.
+Heart rate irregular 117 BPM.
+IMPRESSION:  This is an abnormal EEG due to replacement of normal background with a low voltage flow pattern.
+CLINICAL CORRELATION:  This is the third EEG without epileptiform activity for this adult.  The current pattern is compatible with a post ictal or pharmacologic pattern with a low voltage flow pattern.
+
+
+

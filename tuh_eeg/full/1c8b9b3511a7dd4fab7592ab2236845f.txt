@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  65 year old male, right occipital stroke, UTI, hepatic, encephalopathy.
+MEDICATIONS:  Labetalol, Cipro, Lorazepam
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is tremulous and confused.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is diffusely slow with a mixture of theta and beta.  In the temporal regions, there is a subtle asymmetry with disruption of faster frequency on the left.  There are also bursts of posteriorly predominant slowing.
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Focal slowing.
+CLINICAL CORRELATION:  This EEG is consistent with metabolic encephalopathy. Focal features may be correlated with location of clinical stroke.
+
+
+

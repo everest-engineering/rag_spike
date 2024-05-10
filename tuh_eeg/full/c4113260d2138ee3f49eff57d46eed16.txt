@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 47-year-old male with grade 3 glioblastoma, status post resection, admitted with peculiar behavior.
+MEDICATIONS:  Keppra, Vimpat, steroids, others
+
+INTRODUCTION:  Continuous video EEG monitoring was attempted in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  Patient was initially confused and had had peculiar behavior in the day beforehand.
+DESCRIPTION OF THE RECORD:  EEG began just before midnight.  The patient is awake with markedly abnormal background.  There is a clear breach rhythm on the right.  From the left, the activity is medium amplitude with a slow posterior dominant rhythm of approximately 7 Hz.  High amplitude, irregular chaotic delta is noted from the right hemisphere.  In the context of a breach rhythm, there are sharp waves noted at T4-T6, C4-T4.  When the patient is more comfortable and drifts off to sleep, there is more of a diffusely slow pattern with arrhythmic delta activity in the right hemisphere, disruption of the faster frequency activity in the right hemisphere, and very sharp waves typically T4 maximum.  Beta spindles can be noted in sleep and are accentuated by the breach rhythm.
+On the morning of the 12th, with the patient awake and interactive, the patient is noted to slowly setup and unwrap the EEG electrode wrap, and then disconnect the electrodes.  The EEG was carefully reviewed and the patient did not appear to have had a seizure prior to this behavior.
+Heart rate: 84 bpm.
+IMPRESSION:  This long-term video EEG monitoring session was abbreviated, but was remarkable for,
+Continuous focal slowing with sharply contoured, irregular slowing in the right hemisphere.
+Sharp waves, most commonly right midtemporal, but with a generous field of spread.
+Background slowing on the left.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No well-defined electrographic seizures were noted in this long-term monitor session.
+
+
+
+

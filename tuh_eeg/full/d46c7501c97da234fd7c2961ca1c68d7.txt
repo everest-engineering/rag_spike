@@ -1,0 +1,25 @@
+:	24 year old man who presented with a generalized tonic-clonic convulsion in the
+setting of severe HTN and pulmonary edema.
+Medications:	Ativan, fentanyl
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR or AP gradient.  With stimulation the background consists of a mixture of moderate
+amplitude polymorphic theta, delta and some alpha activity.  The majority of the background
+consists of low amplitude fast activity admixed with normal sleep architecture (vertex waves and K-
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+No epileptiform discharges
+Diffuse slowing, polymorphic, moderate
+Interpretation:
+This is an ABNORMAL portable 22-minute EEG because of moderate diffuse background slowing.
+This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific, but in this patient at least partially related to the medication effect.
+
+
+
+
+
+

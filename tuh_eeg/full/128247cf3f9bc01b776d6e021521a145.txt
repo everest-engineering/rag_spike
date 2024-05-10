@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 20-year-old with previous severe traumatic brain injury, epilepsy, and depression.  Patient had a recent spell of right eye twitching, right facial droop, lasting for a minute.
+MEDICATIONS:  Lexapro and Lamictal.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This was a relatively low voltage EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is both a 10 Hz alpha rhythm and a 10 Hz Mu rhythm, which is better represented on the left in comparison to the right.  The activity from the right is lower voltage and a bit more featureless with more slow delta.  Drowsiness is characterized by intermittent dropout of the alpha rhythm on the left and a more diffuse beta pattern with a low voltage pattern.  This is followed by rhythmic central theta.  The patient's alpha rhythm on the left persists, as she becomes drowsy for sometime.  She then transitioned in and out of a drowsy versus quiet wakeful pattern.
+Hyperventilation was performed with good effort and produced an increase in amplitude of the activity on the left.
+Photic stimulation elicited scant driving, again primarily on the left.
+Heart rate 84 bpm.
+IMPRESSION:  This EEG is remarkable for:
+prominent paucity of faster frequency activity throughout the right hemisphere including absence of the posterior dominant rhythm on the right.
+CLINICAL CORRELATION:  The low voltage pattern described on the left is not pathological.  Overall, this EEG supports a structural or functional process on the right involving gray and white matter.  Despite more prolonged record and specific attempts, deeper stages of sleep were not achieved.  If epilepsy is an important consideration, a repeat study capturing deeper stages of sleep or using special techniques may be of value.
+
+
+

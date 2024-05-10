@@ -1,0 +1,29 @@
+History:	63 YR FEMALE S/P LIVER TX (ETOH) CIRRHOSIS, VARICES H/O, CKD3, GERD,
+HTN, WITH EVAL HEPATIC ENCEPHALOPATHY
+Medications:	PROGRAF, INSULIN, PROTONIX, MYCAMINE, ACTIGALL, CIPRO, HEPARIN,
+NOREPINEPHRINE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Diffuse, frontally maximal sharp waves with triphasic morphology are present
+throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag.  No
+normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was mild reactivity to auditory,
+tactile, and painful stimuli.  Hr was 90
+Summary of Findings:
+Triphasic waves, continuous, marked frontal
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  frequent frontally-maximal triphasic waves and moderate
+diffuse background slowing.  These findings are indicative of a severe diffuse encephalopathy,
+which is etiologically nonspecific, but suggestive of a metabolic origin.
+
+
+
+

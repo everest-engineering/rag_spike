@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 64-year-old male with alcoholic cirrhosis, recent stroke, now returns with right face and arm twitching.  Also, increasingly confused.  The patient was able to talk during the episodes of twitching, but was not thinking clearly.
+MEDICATIONS:  Keppra, Ativan
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was confused during the EEG.  He had some involuntary jerking on the right.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a marked interhemispheric asymmetry.  As the recording starts out the activity is somewhat lower voltage and slow on the right, but there is continuous arrhythmic delta activity in the left hemisphere with sharp waves in the left posterior quadrant which varied from P3, C3, and P5.
+The patient is noted to have oral atomisms and confusion.  As he does so, there seems to be a bit more slowing on the right.  Using slow paper speed, the epileptiform activity does demonstrate subtle evolution.
+The patient receives Ativan and the patient is monitored for 12 minutes after the Ativan infusion.  The epileptiform activity is not significantly impacted, although the evolution of the activity is not quite as prominent.
+Heart rate:  78 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Focal slowing on the right posterior quadrant.
+Focal epileptiform activity in the right central parietal region with evolution and a clinical seizure.
+CLINICAL CORRELATION:  The epileptiform activity and clinical seizure in this EEG merited long term EEG recording.
+
+
+

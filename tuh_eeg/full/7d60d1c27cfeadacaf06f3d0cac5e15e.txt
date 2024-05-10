@@ -1,0 +1,128 @@
+AGE : 75 y.o.
+SEX: female
+START DATE OF STUDY: 09/28/2015 at 20:59 'END DATE OF STUDY : 10/2/2015 at 16:03
+RECORDING ENVIRONMENT: Inpatient EEG TYPE: LTM
+EEG #: 15-268 (268.1 - 95951; 268.2 - 95951; 268.3 - 95951; 268.4
+- 95951 ; 268.5 - 95951)
+HISTORY :
+75 y.o. female with a history of OM, HTN, HLD, CKD stage III, renal cell carcinoma s/p resection, and hypothyroidism who was transferred from Roxborough Memorial Hospital after she presented there with altered mental status. She was noted to have a finger stick in the 400s and complex partial seizures.	Medication was uptitrated and she was transferred to Temple Ho.spital for video EEG monitoring and further management.
+MEDICATIONS :
+Prior to arrival: Keppra 750 mg q12h Dilantin 500 mg load
+Received Ativan 2 mg prior to study
+Received Ativan 2 mg during day 1 SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram {EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+Events were marked by the clinical staff. All clinical events as well as extensive random background samples including wakefulness, drowsiness, and sleep were reviewed.
+DAY 1 {9/28/2015, 20:59 - 9/29/2015, 08:00)
+On Keppra 750 mg q12h
+Received Dilantin load, free level 2.3 by 0300 9/29/2015
+BACKGROUND:
+The waking background is continuous, asymmetric, and fairly organized.
+The left hemisphere consists of alpha with a moderate amount of frontal beta.
+The right hemisphere consists of a more attenuated, less organized mixture of alpha and beta.
+Posterior dominant rhythm was not present. The background is reactive and variable.
+Following the administration of Ativan there is excess of beta frequencies .
+There is mild generalized slowing.
+There is continuous bilateral posterior quadrant polymorphic slowing.
+Sleep is characterized by further slowing of the background. PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none
+EPILEPTIFORM ACTIVITY: None present
+EVENTS:
+(1) DATE AND TIME:	9/28/2015 at 20:59
+EVENT TYPE: Complex partial seizure
+CLINICAL: The patient is lying in bed. About 15 seconds into the electrographic onset (perhaps longer, as this seizure begins when the study is first connected), she has forced left head deviation followed by rhythmic twitching of her head towards the left. Eyes are closed. Arms not well seen. Following resolution of ictal EEG activity patient is somnolent, responses are dysarthric, and she follows commands slowly.
+EEG: Note that this seizure begins just as the EEG is connected for the start of the study; consequently the first ictal EEG change may not be captured. At onset, there is low amplitude beta activity over the right posterior quadrant (T6/P4/02 > T4/C4).
+This activity increases in amplitude and slows in frequency to
+sharply contoured alpha and spreads to the left posterior quadrant (T5/P3/0l). 18 seconds into electrographic onset the posterior ictal activity slows to alpha-theta frequencies with admixed spikes.	Diffuse muscle artifact is seen over left hemispheric leads that breaks up into clonic muscle activity simultaneously there is spike and wave seen over the right hemisphere. This activity slows to 1.5 Hz delta (sharply contoured) .
+DURATION: 64 sec
+POSTICTAL CHANGES: Focal slowing is present over the bilateral posterior quadrants, R>L
+EKG: single lead is obscured
+(2) DATE AND TIME:	9/28/2015 at 21:48
+EVENT TYPE: Complex partial seizure
+CLINICAL: Similar to #1. Lying in bed w/ eyes closed. Left arm elevates 32 seconds into electrographic onset, she has forced head turn to left, then rhythmic twitching of left arm and head (to the left).
+EEG: Similar to #1, beginning with low amplitude beta activity over right posterior quadrant for -3.5 seconds, then increasing in amplitude and evolving as described in #1.
+DURATION: 1 min 28 sec
+POSTICTAL CHANGES:	Focal slowing is present over the bilateral posterior quadrants, R>L
+EKG: No definite change in heart rate
+(3) DATE AND TIME:	9/29/2015 at 05:25
+EVENT TYPE: Complex partial seizure
+CLINICAL: Asleep in bed.	Has a few possible eye flutters -75-90 seconds into electrographic onset
+EEG: Similar to above seizures, but without muscle artifact. Low amplitude beta activity seen over right posterior quadrant leads for 2.5 seconds, then increases in amplitude and evolves as described for above 2 seizures
+DURATION: 2 min 11 sec
+POSTICTAL CHANGES:	Much less pronounced than above 2 seizures EKG: no change
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal video EEG due to:
+Mild generalized slowing
+Suboptimal background organization
+Right hemisphere attenuation of faster frequencies
+Three complex partial seizures arising from the right posterior quadrant
+These findings are significant for right posterior quadrant focal seizures, right hemisphere dysfunction, and mild diffuse cerebral dysfunction.
+DAY 2 (9/29/2015, 08:00 - 9/30/2015, 08:00)
+BACKGROUND:
+Left hemisphere: fair organization with mixture .of alpha, beta, theta
+Right hemisphere: fair organization with mixture of alpha, beta; faster frequencies are attenuated
+Sleep is characterized by further background slowing. Over the course of this day rudimentary K complexes are seen in sleep. GENERALIZED SLOWING: mild
+FOCAL SLOWING: continuous bilateral posterior quadrant polymorphic slowing
+Attenuation of faster frequencies over right hemisphere PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none
+SPORADIC EPILEPTIFORM ACTIVITY: none
+EVENTS: No clinical or electrographic events reported or detected DAY 2 IMPRESSION & CLINICAL CORRELATION
+No seizures
+Background organization somewhat improved, though still suboptimal.
+Bilateral posterior quadrant focal slowing continues to be seen.
+DAY 3 (9/30/2015, 08:00 - 10/1/2015, 08:00)
+BACKGROUND: No change GENERALIZED SLOWING: No change FOCAL SLOWING:
+Continuous bilateral posterior quadrant slowing - better seen over left posterior quadrant
+Attenuation of faster frequencies over the right hemisphere
+PAROXYSMAL ACTIVITY  (NON-EPILEPTIFORM): none
+SPORADIC EPILEPTIFORM ACTIVITY:
+Rare poorly defined sharp waves over left occipital region
+Rare diffuse generalized rhythmic delta activity at 1 Hz for
+<5 second periods
+EVENTS: No clinical or electrographic events reported or detected DAY 3 IMPRESSION & CLINICAL CORRELATION
+Focal slowing over the posterior quadrants is often better seen
+over LEFT hemisphere, though it is present over right as well. Continuous	attenuation of faster frequencies over right hemisphere
+as seen previously
+Rare epileptogenic potentials over left occipital region, poorly defined and broadly distributed.
+Generalized rhythmic delta activity is a nonspecific but pathologic finding that may be seen in encephalopathic states.
+DAY 4 (10/1/2015, 08:00 - 10/2/2015, 08:00)
+BACKGROUND: no change GENERALIZED SLOWING: no change
+FOCAL SLOWING: no change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none SPORADIC EPILEPTIFORM ACTIVITY:
+1. Rare poorly defined sharp waves over left occipital region EVENTS:
+(1) DATE AND TIME:	10/1/2015 at 11:04
+EVENT TYPE: other
+CLINICAL: There was no visible clinical or behavioral change seen. Curtain is drawn and blocking camera. Nurse pushed button as patient reported "seeing bugs" flying out of the window.
+EEG: No ictal epileptic EEG correlate is present DURATION: unclear
+(2) DATE AND TIME:	10/1/2015 at 12:42
+EVENT TYPE: other
+CLINICAL: Patient is lying supine in bed and tells the nurse she urinated. Nurse pushes button.
+EEG: No ictal epileptic EEG correlate is present DURATION: unclear
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+Little change from previous day, except for resolution of generalized rhythmic delta activity.
+DAY 5 (10/2/2015, 06:00 - 10/2/2015 16:03) BACKGROUND:
+Improvement in degree of background slowing and organization as follows:
+Left hemisphere has fair organization with a rare posterior dominant rhythm of 9 Hz
+Right hemisphere demonstrates no posterior dominant rhythm but has fair organization
+GENERALIZED SLOWING: Mild FOCAL SLOWING:
+There is a lesser degree of focal slowing in both posterior quadrants. Continuous theta-delta slowing is seen in both posterior quadrants, more prominent on left.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none SPORADIC EPILEPTIFORM ACTIVITY: none
+EVENTS:
+(1) DATE AND TIME:	10/2/2015 at 08:39
+EVENT TYPE: other
+CLINICAL: There was no visible clinical or behavioral change seen. Patient sitting in chair off camera and	reported "seeing bugs" flying out of the window.
+EEG: No ictal epileptic EEG correlate is present DURATION: unclear
+*Patient later clarifies that she has had this complaint chronically and has been told she has "floaters."
+DAY 5 IMPRESSION & CLINICAL CORRELATION
+There is improvement in the degree of background slowing and organization, as well as the bilateral posterior focal slowing. A definite posterior dominant rhythm is seen on the left today for the first time.
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Three focal seizures originating from the right posterior quadrant (9/28 x2, 9/29 xl)
+Rare poorly defined sharp waves over the left occipital region, seen on Days 3-4
+Rare generalized rhythmic delta activity seen on Day 3
+Bilateral posterior quadrant polymorphic slowing, worse at first over the right at the start of the study, but more pronounced on the left by the end of the study
+Right hemisphere attenuation/suboptimal organization, which · improves over the course of the study
+5. Mild diffuse cerebral dysfunction with suboptimal organization, which improves over the course of the study
+FINAL CLINICAL CORRELATION:
+These findings are significant for foal seizures over the right posterior quadrant and epileptogenic activity over the left posterior quadrant. There is also bilateral posterior quadrant cerebral dysfunction and right hemisphere dysfunction, superimposed on mild diffuse cerebral dysfunction . The posterior quadrant and diffuse dysfunction improve over the course of the study. The seizures resolve by Day 2.
+
+
+

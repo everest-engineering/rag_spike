@@ -1,0 +1,18 @@
+History: 63YR OLD FEMALE PRESENTS WITH H/0SLURRED CONFUSION AND
+ALTERED MENTAL STATUS. PMHX SIG FOR CVA, TIA, HLD,
+Medications: Heparin
+Sedation:
+EEG Type: Awake & asleep
+Technique: international 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, photic
+Description:
+Waking background Is characterized by a 30-40uV, 8-8.5 Hz alpha rhythm, what attenuates symmetrically with eye opening. Symmetric beta activity is present, maximal over bilateral frontal regions. There is diffuse slowing In theta and delta range noted during wakefulness. As drowsiness progresses. Symmetric vertex waves appear.
+Intermittent polymorphic delta activity is present in the left occipital region during wakefulness, increasing during drowsiness. No epileptiform discharges are present.
+Hyperventilation Is not performed. Stepped photic stimulation from 1·21 flashes per second (fps) does not produce any effect. HR is 80 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic
+Focal slowing, polymorphic, left occipital
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing. These findings are Indicative of diffuse cerebral dysfunction, which is etiologically nonspecific. Intermittent focal slowing In the left occipital region. This finding is Indicative of focal cerebral dysfunction. Which is etiologically non-specific, but possibly structural in origin. No clinical or electrographic seizures are present the lack or epileptiform discharges on a routine EEG does not rule out a diagnosis of epilepsy or intermittent seizures.
+
+
+

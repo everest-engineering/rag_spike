@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  This is an 18-year-old right handed adult with 4 tonic-clonic seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Forty-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the alpha rhythm achieves a 9.5 hertz frequency.  In wakefulness, at times, the EEG is somewhat slow and disorganized, but at times a somewhat slower alpha rhythm, and a bit more disorganization as well as some shifting theta.  Drowsiness is characterized by hypersynchronous rhythmic slowing.
+Stage II sleep includes vertex waves, K complexes, spindles, and POSTS.
+The overall background demonstrates some subtle asymmetries.  POSTS are better developed on the left compared to the right.  Using frequency analysis, there appears to be a bit more slowing in the right posterior quadrant relevant to the left.
+In hyperventilation, bursts of rhythmic slowing were noted with some shifting slowing, more prominent on the left.
+Photic stimulation was performed while the patient is drifting off to sleep and did not significantly activate the record.
+Heart rate 60 bpm.
+IMPRESSION:  This 40-minute EEG is remarkable for:
+Modest degree of background disorganization for an adult of this age.
+Subtle asymmetries noted in this record with slower faster frequency activity on the right, relative to the left.
+Somewhat asymmetric hyperventilation response with a bit more slowing on the left.
+CLINICAL CORRELATION:  No epileptiform features were seen.  These findings may be correlated with exam, history, and imaging.
+
+
+

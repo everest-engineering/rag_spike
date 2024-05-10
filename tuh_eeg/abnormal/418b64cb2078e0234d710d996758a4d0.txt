@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  58 year old male with mitral valve repair on April 13th, required recurrent surgery on April 18th.  Episode of unresponsiveness lasting 15 minutes on the morning of the 23rd.  The patient returned to baseline after 1 hour.
+MEDICATIONS:  Lasix, Zosyn
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF RECORD:  The background EEG is somewhat slow, with primarily 7-8 Hz theta frequency pattern.  When the patient arouses, there seems to be a better defined posterior dominant rhythm, sometimes reaching 9 Hz on the left, somewhat attenuated on the right.  This is a relatively somnolent patient, but as he seems to drift off the sleep there is again, although more slowing in the right posterior quadrant.
+HR:    144 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing.
+Superimposed focal slowing with a slight asymmetry on the right.
+CLINICAL CORRELATION:  There are no epileptiform features identified.  The diffuse slowing is a nonspecific finding, which can be seen in a toxic or metabolic encephalopathy.  The focal features may be correlated with imaging.
+
+
+

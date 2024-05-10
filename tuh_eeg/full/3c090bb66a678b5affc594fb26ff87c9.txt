@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  This 55-year-old gentleman with previous bilateral watershed infarcts.  Patient was admitted with increasing left-sided weakness and change in mental status.
+
+MEDICATIONS:  Xanax, aspirin, Truvada, Wellbutrin, Lipitor, others.
+
+INTRODUCTION:  Technically satisfactory bedside portable 20 minute digital EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  This EEG captures wakefulness and drowsiness.  Hyperventilation and photic stimulation were not completed.
+
+DESCRIPTION OF THE RECORD:  In wakefulness, at times, the alpha rhythm reaches 9 hertz, but more commonly, with the patient maximally awake, the alpha rhythm is slower, 7-8 Hz.  Unilateral eye artifact was noted.  Confirmation was performed with the clinical team to determine that the patient is missing the right eye.
+
+Drowsiness is characterized by rhythmic background slowing with an increase in frontocentral beta.
+
+Intermittent left temporal focal slowing was noted with mixed, irregular theta delta from the left mid temporal region.
+
+Heart rate :72 BPM.
+
+IMPRESSION:  This EEG is remarkable for,
+1. Intermittent left hemisphere focal slowing maximum in the temporal region.
+2. Intermittent generalized background slowing, particularly with slowing of the alpha rhythm.
+3. Unilateral eye artifact.
+
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  Though there are more ischemic changes on the right than the left, the EEG demonstrates more focal slowing on the left.  The intermittent generalized background slowing may be correlated with this clinical context and imaging findings.
+

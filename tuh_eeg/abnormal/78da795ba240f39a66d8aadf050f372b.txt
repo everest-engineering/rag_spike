@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  70 year old right handed male with past history of prostate pathology; evaluate for recent fall.
+MEDICATIONS:  Phenobarbital, Trileptal, Tylenol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low-voltage frontocentral beta.  Drowsiness is characterized by slow rolling eye movements.  There is a slight asymmetry in beta in the frontal electrodes, compatible with suboptimal electrode placement. Deeper stages of sleep are not achieved.  Photic stimulation elicits bilateral driving.
+HR:    72 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If additional information is needed regarding this patient's epilepsy, a follow-up study capturing deeper stages of sleep is suggested.
+
+
+

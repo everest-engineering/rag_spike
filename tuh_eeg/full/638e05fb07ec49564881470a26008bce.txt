@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  19-year-old woman with a new onset seizure characterized as a generalized tonic-clonic seizure lasting about a minute with postictal confusion lasting about 20 minutes with associated tongue biting.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with additional T1 and T2 electrodes placed and an EKG electrode placed, as well.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of moderate amplitude, well regulated and modulated 11 to 12-Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies in lower amplitudes anteriorly.  Excess beta is observed throughout the recording.  During sleep, vertex waves, sleep spindles, K-complexes, and POSTS (positive occipital sharp transients of sleep) observed.  Hyperventilation produces bursts of diffuse theta.  Photic stimulation produces symmetric photic driving.  No epileptiform discharges are observed.  Normal heart rate is observed on the single EKG read.
+FINDINGS:
+Excess beta.
+Sleep stage II and III.  No epileptiform discharges.
+IMPRESSION:  This is a normal greater than 21-minute study, awake and asleep EEG.
+CLINICAL CORRELATION:   No epileptiform discharges are captured.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

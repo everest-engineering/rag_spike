@@ -1,0 +1,21 @@
+CLINICAL HISTORY: 42 year old right handed woman with a strange feeling followed
+by black visual spots, right-sided twitching, loss of consciousness, tongue biting lasting
+45 second. Past history of pituitary tumor.
+MEDICATIONS: Keppra
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic
+stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes both
+a 9 Hz alpha rhythm and some 7 Hz theta frequency activity. With stimulation, there is
+an increase of the 9.2 Hz activity but there remains a little bit of 7 Hz activity in the
+background. Hyperventilation produces an increase in the amplitude and an increase in
+beta activity. Of note, there seems to be a harmonic in this record with some activity that is 15 Hz. Photic stimulation elicits a supraharmonic driving response.
+HR: 71 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excessive 7.8 Hz activity in the background.
+CLINICAL CORRELATION: The overall record is relatively unremarkable. The 7.8 Hz
+activity is of unclear significance and may represent a normal variant Given the past
+history of neurologic pathology, however, it may also represent evidence of.an
+underlying diffuse disturbance of cerebral function.
+
+

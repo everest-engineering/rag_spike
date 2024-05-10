@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 57-year-old male admitted on March 1st for hypertensive urgency, now unresponsive.
+MEDICATIONS:  Hydralazine, Plavix, and Zocor.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly responsive.  This is a technically acceptable EEG with most impedances under 5 kilohms.
+DESCRIPTION OF THE RECORD:  As the record begins, the background EEG is slow to medium voltage with a mixture of theta and delta.  There is relatively continuous, rhythmic 5-6 hertz activity and underlying slow delta.  The delta is a bit lower voltage on the right compared to the left.
+Tactile stimulation of the patient and verbal stimulation of the patient produces very slow, frontally predominant, FIRDA, but no real alerting.  As the patient drifts in and out of sleep, there is a more clearly defined asymmetry with more attenuation of faster frequency activity in the right hemisphere relative to the left.  There is also some very slow periodic delta noted in sleep.  Stimulation of the patient does produce an increase in faster frequency activity.  At the close of the record, there is some additional periodic delta again bilateral and on 1 occasion a subtle, right frontal sharp wave.
+Heart rate 60 bpm.
+IMPRESSION:  This is an abnormal EEG due to,
+Marked background slowing.
+A superimposed asymmetry with more significant lower voltage delta in the right hemisphere, particularly the posterior quadrant.  Most prominent in sleep.
+Towards the close of the record some slow, periodic delta with a 2 right frontotemporal sharp waves.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG supports a bihemispheric disturbance of cerebral function involving gray and white matter.  In addition, a structural or functional process on the right is supported.  There is some rare bilateral periodic slowing which may be part of the acute disturbance.  Rare right frontal/frontotemporal sharp waves were identified, which may be correlated with imaging, but no seizures were noted.
+
+
+

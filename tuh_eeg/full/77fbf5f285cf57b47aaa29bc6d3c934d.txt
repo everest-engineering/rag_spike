@@ -1,0 +1,16 @@
+LENGTH OF RECORDING:  22 minutes.
+CONDITION OF RECORDING:  The recording was performed at the bedside.  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+CLINICAL HISTORY:  The patient is an 84-year-old woman who is unresponsive after an episode of asystole of unknown duration.
+MEDICATIONS:  Current medications include aspirin, atorvastatin, heparin, famotidine.
+INTRODUCTION:
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency up to gradient.  The background consists of a mixture of polymorphic low to moderate amplitude, beta and delta, 1-2 second periods of background discontinuity and diffuse abundant low to moderate amplitude EMG artifact.  EMG artifact is highest in amplitude over the right frontal and frontocentral electrodes.  According to the EEG technologist, no noticeable twitching/movement was identified.  Video review does not reveal a source of this EMG artifact.  Any epileptiform discharges would be masked by this EMG artifact.  There were no clear electrographic seizures.  A single EKG lead demonstrated a heart rate of fewer than 60 beats a minute up to 2 seconds, this is between some of the QRS complexes.
+FINDINGS:
+Moderate diffuse slowing.
+Periods of discontinuity.
+Abundant EMG artifact that would obscure any underlying epileptiform activity.
+No clear electrographic seizures.
+IMPRESSION:  This is an abnormal 22 minute EEG due to moderate diffuse slowing and periods of discontinuity.  These findings indicate etiologically no specific cerebral dysfunction in this patient, at least partially related to the period of anoxia.
+To better assess presence of any epileptiform discharges or ictal activity, a repeat study with administration of a paralytic agent would be of benefit.  These findings were conveyed to the neurology primary team.
+
+
+

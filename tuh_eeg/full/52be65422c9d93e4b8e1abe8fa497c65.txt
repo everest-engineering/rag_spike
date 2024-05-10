@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  64 year old woman with alcoholic cirrhosis, admitted with change in mental status and myoclonus.
+MEDICATIONS:  Thiamine, Pantoprazole, Rifaximin, Folic Acid, Synthroid
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was described as having bizarre behavior during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is significantly obscured by muscle, but there is an underlying posterior dominant rhythm, which reaches 5 Hz. True artifact is observed. With the use of a filter, there is more theta frequency identifiable, but the alpha consistently remains below 8 Hz. As the patient becomes drowsy, frontal delta was noted. Photic stimulation elicited both a driving response and photomyogenic artifact.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The slow background and the frontal delta can both be seen in context of a metabolic encephalopathy.
+
+
+

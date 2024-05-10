@@ -1,0 +1,39 @@
+AGE: 20 y.o.
+SEX: male
+DATE OF STUDY: 10/06/2015
+RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 20-40 min, Awake and drowsy EEG # : 15-1470
+HISTORY:
+20 y.o. male referred for routine EEG for possible localization related epilepsy.
+MEDICATIONS:
+Current Outpatient Prescriptions:
+oxcarbazepine (TRILEPTAL) 600 mg tablet, l.5mg tab PO Qam 1 tab po Qpm and l.5tab qhs
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 1 tablet by mouth 3 times daily.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a Nicone system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.
+EEG BACKGROUND:
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 8.5 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Sleep is not captured.
+No generalized slowing is present.
+There is frequent left temporal polymorphic slowing.
+EPILEPTIFORM ACTIVITY:
+l. Frequent left temporal spike/polyspike and wave discharges (F7/T3 maximum, often including Fpl/F3). During hyperventilation these discharges distribute diffusely but have a lead-in on the left.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with fair cooperation and produces focal slowing in the left temporal region. Also see above under "epileptiform activity."
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any EEG changes.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal Awake and drowsy routine EEG due to:
+Frequent left temporal polymorphic slowing
+Frequent left temporal spike/polyspike and wave discharges (F7/T3 maximum, often including Fpl/F3) . During hyperventilation these discharges distribute diffusely but have a lead-in on the left.
+CLINICAL CORRELATION:
+These findings are suggestive of left temporal epileptogenic discharges superimposed on left temporal cerebral dysfunction.
+
+
+

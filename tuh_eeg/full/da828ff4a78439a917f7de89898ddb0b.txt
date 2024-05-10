@@ -1,0 +1,10 @@
+CLINICAL  HISTORY:  A 55-year-old male, status post 20-day hospitalization for pneumonia, COPO, and alcohol withdrawal.   Patient with critical illness, neuropathy, myopathy, and poorly responsive.
+MEDICATIONS:   Fentanyl, propofol, Ativan, Teflaro.
+INTRODUCTION:   1 hour digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.  This is a technically acceptable EEG with impedances under 5 kilos ohms with the exception of the T1-T2 electrodes.  Stimulation of the patient was performed.  The patient's medications were not reduced as far as we can determine during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a low voltage delta pattern.  There is smaller amounts of beta and theta, particularly in the central regions.  Shifting asymmetries and head rocking artifact were noted.  Tactile stimulation of the patient does seem to produce a bit of an alerting response with an increase in muscle in a brief increase in faster frequencies. There is a little bit of variability in terms of the quantities of beta and theta in the central regions.  No true wake, alerting, or well-defined sleep stages were noted.
+Heart rate: 113.
+IMPRESSION:  This is an abnormal EEG due to replacement of normal background with a diffusely slow pattern.
+CLINICAL CORRELATION:   In challenging patient, with distal atrophy, limited motor and absence of reflexes, the EEG is most supportive of a diffuse disturbance of cerebral function, although this patient's medications may have played a significant role in the pattern described above.  This finding can be seen in the context of a toxic or metabolic encephalopathy as well as other diffuse CNS disturbance
+
+
+

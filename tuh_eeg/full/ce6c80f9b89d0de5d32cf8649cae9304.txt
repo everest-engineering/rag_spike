@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 65 year old right handed gentleman with subdural hematoma who developed a subsequent facial droop and tingling in the tip of the left index finger and left thumb, hypertension, craniotomy, hyperlipidemia.
+MEDICATIONS: Keppra, Levothyroxine, Atenolol, Simvastatin, Flomax
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: The background EEG includes an 8.3 hertz alpha rhythm. There is a prominent breach rhythm in the right frontocentral region with higher amplitude delta and some double phase reversing artifacts with the recent craniotomy. Intermittent, rhythmic delta is noted which is higher amplitude in the right frontal region than the left. In the context of a breach rhythm, there are a handful of left frontal, F3 and C3 sharp waves.
+HR: 60 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Slowing of the alpha rhythm.
+2. Right frontal delta.
+3. Left frontocentral sharp waves.
+CLINICAL CORRELATION: In the context of a relatively acute trauma, the slowing of the alpha rhythm is not particularly worrisome. The frontal delta, right greater than left is compatible with a craniotomy. The left frontal central sharp waves may be correlated with imaging.
+
+
+

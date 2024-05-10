@@ -1,0 +1,28 @@
+History:	54 year old man with a history of seizures for the last 1-2 years.  Last seizure
+occurred last month (January 2014).  Patient also has a history of alcohol abuse, in
+remission for 3 years.
+Medications:	KEPPRA, LISINOPRIL, ASA, CELEXA, HCTZ, FLOMAX, ZOCOR
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by low amplitude 11.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with variable cooperation, and accentuates posterior
+dominant rhythm.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any effect.
+Summary of Findings:
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 25-minute EEG, awake and drowsy.  No epileptiform discharges were present,
+but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+provide additional information.
+
+
+
+

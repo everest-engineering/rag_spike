@@ -1,0 +1,29 @@
+History:	63 year old woman with a history of seizures, with last reported seizure in 6/2015.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+Continuous moderate amplitude prominent rhythmic theta activity is noted over the bitemporal
+region.  Its is present during wakefulness and during drowsiness but it does not evolve.  No
+epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.
+Summary of Findings:
+Other, continuous, bitemporal rhythmic theta activity
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 24 minute EEG due to continuous rhythmic bitemporal
+non-evolving theta activity. This could represent a sign of bitemporal focal cerebral dysfunction.
+Ultimately, significance of this activity is uncertain.  The lack of epileptiform discharges on a
+routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

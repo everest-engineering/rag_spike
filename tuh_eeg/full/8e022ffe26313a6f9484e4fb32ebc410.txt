@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  23 year old woman transferred from Episcopal Hospital after a possible tonic clonic seizure.  She was treated with Ativan which did not stop the involuntary movements.  Past history of drug abuse and mental illness.
+MEDICATIONS:  Lamictal, Ativan, Midazolam, Benadryl
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation and hyperventilation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with generous beta. Hyperventilation produces an increase in theta. Photic stimulation elicits bilateral driving. Features of drowsiness include an increase in theta.  Head rocking artifact was observed.
+HR:   N/A
+IMPRESSION:  This EEG is remarkable for excess beta.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The use of benzodiazepines can be associated with beta activity as described above.
+
+
+

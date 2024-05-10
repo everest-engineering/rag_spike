@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 47-year-old man with a history of schizophrenia, intellectual disability and seizures.  The seizures are described as generalized.  Last such seizure was in 08/2012.
+MEDICATIONS:  Include lamotrigine, carbamazepine, risperidone and others.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead. Hyperventilation was not performed. Photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of moderate amplitude well formed and modulated 8-1/2 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During sleep, vertex waves and sleep spindles are captured.  Several generalized, frontally predominant spike, with after-going slow waves are captured during sleep.  Hyperventilation was not performed.  Stepped photic stimulation produces no change in the background.
+FINDINGS:
+Several generalized frontally predominant spike and wave discharges.
+Stage II sleep.
+IMPRESSION:  This is an abnormal awake and asleep 21-minute electroencephalogram, due to several generalized, frontally predominant spike and wave discharges.  In a proper clinical setting, this electroencephalogram is suggestive of idiopathic generalized epilepsy.
+
+
+

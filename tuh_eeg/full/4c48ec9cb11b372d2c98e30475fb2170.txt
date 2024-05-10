@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 58-year-old gentleman with prior traumatic brain injury after a motor vehicle accident and left temporal encephalomalacia. Agitation
+MEDICATIONS:  Phenytoin, levetiracetam.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly cooperative.  Hyperventilation and photic stimulation were not possible in this bedside record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is 9 Hz, in maximal wakefulness, the background EEG is slightly disorganized from the right.  There is a bilateral alpha rhythm.  Rare lambda was noted in wakefulness.  In wakefulness, there is delta noted primarily in the left hemisphere, including left frontal central but with a smaller amount in the right frontal temporal region as well.  As the patient becomes drowsy, slowing of the alpha rhythm and 15 slowing was noted.  The focal slowing from the left hemisphere is most prominent in the transition in and out of sleep.
+Heart rate 108 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Focal slowing from the left hemisphere with disruption of faster frequency activity and preference of somewhat rhythmic delta activity.
+Background slowing and disorganization.
+CLINICAL CORRELATION:  For this individual with the history of epilepsy and acute traumatic brain injury, no epileptiform features were identified.  The focal findings may be part of this patient's previous CNS pathology.  The diffuse background slowing may be due to the acute issues or a toxic or metabolic encephalopathy.
+
+
+

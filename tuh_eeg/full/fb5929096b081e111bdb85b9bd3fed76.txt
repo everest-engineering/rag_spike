@@ -1,0 +1,41 @@
+History:	57 year old female presents with h/o left subdural hematoma s/p surgery/left
+craniotomy on 6/14/14. She now presents with a change in mental status and
+Medications:	Dilantin
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, lethargic,
+obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+There is an obvious hemispheric asymmetry with slow theta and delta over the right hemisphere
+and frequent recurrent spikes (see below) over the left.  A clear posterior dominant rhythm is not
+seen.  No clear normal sleep architecture is seen.
+At times, the epileptiform discharges (spikes, PLEDs) over the left abate, and there is only low to
+medium amplitude slowing seen over the left hemisphere. These last approximately 20-30 seconds.
+There are nearly continuous left hemispheric PLEDs that are maximal at T3-T5. There are less
+frequent more anteriorly maximal spikes seen as well.  There is a recurrent pattern of electrographic
+seizures observed characterized by a rhythmic buildup of left T5 maximal spikes at 2.5-3Hz that
+evolve and persist for 30 seconds.  By report, these seizures were associated with leftward eye
+deviation although this is not seen on the accompanying video. Over the next 24 hours, following
+treatment with lorazepam, phenytoin, levetiracetam, and midazolam, there was cessation  of the
+seizures, with global background attenuation, and rare left posterior temporal PLEDs.
+There is minimal response to voice or tactile stimulation.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Focal slowing, polymorphic, intermittent, left hemispheric
+PLEDs (periodic lateralized epileptiform discharges), nearly continuous, left temporal, posterior
+Status epilepticus, left temporal, posterior
+Interpretation:
+This is an ABNORMAL 24 hour video EEG due to diffuse slowing, focal left slowing, left PLEDs, and	recurrent eye deviation.
+status epilepticus. These findings are consistent with a highly irritative focus of structural brain
+injury within the left hemisphere.  These findings were conveyed to the primary team.
+
+

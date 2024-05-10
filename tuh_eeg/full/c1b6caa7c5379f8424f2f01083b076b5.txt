@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 76-year-old woman with multiple medical problems, as well as carotid stenosis, evaluate for encephalopathy.
+MEDICATIONS:  Heparin Lasix, no others listed.
+INTRODUCTION:  This one hour bedside portable EEG was performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The initial sections of the record were remarkable for significant muscle and movement artifact.  No clinical seizures or seizure-like events were noted.
+DESCRIPTION OF THE RECORD:  Despite the muscle and movement artifact, the underlying EEG pattern includes diffuse, underlying arrhythmic slowing with primarily delta and theta.
+The EEG recording was extended in hopes of obtaining a better quality record.  This strategy was not successful.
+Heart rate 104 bpm.
+IMPRESSION:  Technically limited, but diffusely slow EEG.
+CLINICAL CORRELATION:  This EEG demonstrates background slowing.  Epileptiform activity and focal features would be under recognized in this record given the large degree of artifact.  If clinically indicated, a follow up EEG when the patient is able to cooperate is suggested.
+
+
+
+
+

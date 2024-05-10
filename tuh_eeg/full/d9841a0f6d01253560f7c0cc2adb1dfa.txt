@@ -1,0 +1,45 @@
+History:	66 year old with a right ICH and seizures.  Patient is status post right craniotomy.
+Medications:	Keppra, Ativan, Dilantin
+Sedation:	Lorazepam
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  There is right-to-left intrahemispheric asymmetry with slower
+waveforms over the left.  The background over the left is attenuated and consists of polymorphic
+very low amplitude theta and delta activity seen primarily anteriorly as well as frequent periods of
+brief background discontinuity.  The background over the right consists of a mixture of polymorphic
+low-to-moderate amplitude mixture of theta, delta and alpha activity and frequent periods of brief
+background discontinuity.  Additionally, ventilator artifact is present throughout the recording.  No
+normal sleep architecture was present.
+Multiple right hemispheric (midtemporal-central focus) seizures are captured.  They last on
+average ~ 60-70 seconds.  At the end of some of the seizures (example at ~10:27 am) rhythmic
+mouth/ lower face jerking is seen.  Electrographically, seizures start with ~2 Hz moderate amplitude
+rhythmic delta over the right midtemporal region.  This activity gradually increases in frequency
+and amplitude and spreads throughout the right hemisphere (  maximal scalp negativity over T4,
+C4, P4 electrodes).  Additionally, frequent 1-2 Hz quasi-periodic right midtemporal/ centro-parietal
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  A single EKG lead demonstrates irregular heart rate.
+Summary of Findings:
+Breach artifact, right frontotemporal
+Cardiac arrhythmia
+Pseudoperiodic discharges, right, midtemporal/ centro-parietal
+Diffuse slowing, polymorphic, severe
+No reactivity
+Status epilepticus, right, right midtemporal/ centroparietal
+Artifact, other, continuous, ventilator
+Interpretation:
+This is an ABNORMAL portable 34-minute EEG due to severe diffuse slowing and frequent right
+midtemporal/ centro-parietal focal seizures (focal status epilepticus). Diffuse slowing is indicative of
+severe diffuse cerebral dysfunction, which is etiologically nonspecific, but at least partially related
+to the medication effect.  There is focal epileptogenic structural abnormality over the right
+midtemporal/ centro-parietal region.  A single EKG lead demonstrates irregular heart rate.  Breach
+rhythm is secondary to the skull defect.  These findings were conveyed to the neurology consult
+team at the time of the recording and patient was placed on continuous EEG.
+sharp waves (quasi-PEDs) are noted.
+
+
+
+
+
+

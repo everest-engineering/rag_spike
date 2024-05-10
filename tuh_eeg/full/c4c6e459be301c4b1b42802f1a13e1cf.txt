@@ -1,0 +1,26 @@
+CLINICAL HISTORY:  A 46-year-old woman with left intracranial stenosis, treated with pial synangiosis, stroke, and recurrent focal seizures.
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  In the first 24 hours of the recording, the patient reports that her symptoms improved considerably.  In the second 24 hours, the patient felt that she was not having any seizures at all.
+The patient was examined during the events.
+DESCRIPTION OF THE RECORD:  Day #1, September 20 to 21, as the recording begins the patient is relatively drowsy.  There is an asymmetry with significantly slower activity on the left relevant to the right.  The right hemisphere demonstrates faster frequency activity.
+A twitch monitor was not employed.
+The patient can be seen moving about spontaneously.  When she does, there is a marked increase in alpha and beta frequency activity.  Both hemispheres demonstrate an increase in faster frequency, but again the right more so than the left.
+Automated seizure detections are reviewed.  These are artifact.
+Sleep is characterized by an increase in beta.  By the morning of the 21st, the EEG is consistently richer in faster frequency activity bilaterally when the patient is awake.
+The sleep pattern is primarily a slower beta pattern without some of the typical sleep morphologies.
+The data was reviewed in multiple different montages in search of the patient's spike focus; however, additional electrodes including a C3 prime and P3 prime were not employed.
+By 10:00 a.m., the patient is clearly awake with eye opening and eye closure and conversant.  At this point there are sections where well-defined alpha is identified on the right but is significantly slower in the left hemisphere.
+Heart rate 90 bpm.
+September 21 to 22:
+Introduction:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient felt that she was no longer having seizures, although she was aware of occasional jerking in her right hand.
+Description of record:  On the section from September 21 to 22, the patient is drowsy throughout much of the EEG.  In drowsiness, there is marked slowing on the left.  There are sections when the patient is a bit more awake with more faster frequency activity on the right and sometimes bilaterally.  In wakefulness, an asymmetry persists with slower activity on the left.  Tactile stimulation results in an alerting.  The patient's myoclonus can be seen at 2:45, with clonus in the right and left foot and does not carry any EEG signature. Rare right frontal sharp waves were noted on the afternoon of the 21st.
+By the 22nd, with stimulation the patient alerts readily.
+Heart rate 60 bpm.
+IMPRESSION:  This 48-hour continuous video EEG monitoring session was remarkable for:
+Initially a very slow pattern bilaterally with significant improvement with activity from the right hemisphere.
+As the patient alerts, the left hemisphere is also improving and is not as slow.
+CLINICAL CORRELATION:  This EEG supports a structural process on the left, congruent with the patient's imaging.  There were rare right central sharp waves, which may be correlated with the gliosis on the right.
+No electrographic signature was identified during the patient's twitching; however, specific montages or techniques may have been necessary to identify a cortical signature, if one exists.
+
+
+

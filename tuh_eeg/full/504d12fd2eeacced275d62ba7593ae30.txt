@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 59-year-old woman, status post ICU admission for right parietal contusion, subdural hematoma, renal failure, past history of stroke.
+MEDICATIONS:  KEPPRA, COREG
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hyperventilation was deferred.  There was no mention of craniotomy defect at this time.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm.  As the patient becomes drowsy, there is prominent background theta.  There is subtle focal slowing noted.  At times, there is a very low voltage subtle delta burst identified in the right parietal region.  More somewhat more  prominent focal feature was a little subtle underlying focal slowing in the left centrotemporal region.  Features of drowsiness include an increase in beta, followed by vertex waves and spindles in sleep.
+Photic stimulation was performed while the patient was asleep.  A scant driving response was noted.
+Heart rate 72 bpm.
+IMPRESSION:  This is a mildly abnormal EEG due to:
+Prominent beta noted in early drowsiness.
+Subtle focal slowing in the left centrotemporal and right parietal region.
+CLINICAL CORRELATION:
+In comparison to previous studies recorded after the patient suffered bilateral subdural hematomas and the right parietal contusion, the background EEG is markedly improved and is nearly normal.  The subtle focal features described above may be correlated with previous neuroimaging.
+
+
+

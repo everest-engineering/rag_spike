@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 69-year-old woman with prior craniotomy and mastoidectomy, presenting now with generalized weakness, unsteady gait, and loss of consciousness in the garage.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This was a technically acceptable EEG for a bedside record with a prominent breach rhythm on the right.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage, relatively featureless.  There is a prominent breach rhythm on the right with arrhythmic delta activity and marked accentuation of beta activity.  The overall background, aside from the breach is low voltage with a suggestion of a 6 hertz posterior dominant rhythm identified bilaterally.  Artifacts are noted in the region of the right frontal central craniotomy.  The overall record in the region of the breach include sharply contoured activity and head rocking artifact as well as some bursts of rhythmic delta, but no definite epileptiform features.
+Heart rate 78 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Continuous focal slowing from the right hemisphere with arrhythmic delta activity and at times somewhat rhythmic slowing in the right hemisphere, particularly frontotemporal region.
+Generalized background slowing.
+CLINICAL CORRELATION:  No definitive epileptiform features were noted.  If this patient continues to have paroxysmal spells, more prolonged EEG recording may be of value.
+
+
+

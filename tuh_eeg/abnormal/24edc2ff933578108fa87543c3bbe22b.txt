@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 48-year-old woman admitted with an episode of transient dizziness.  Past history of hypertension, asthma and a psychiatric illness.
+MEDICATIONS:  Lovenox, lisinopril, Keppra.
+INTRODUCTION:  A digital video EEG was attempted in the laboratory using standard a 10-20 System of electrode placement, with 1 channel of EKG.  Significant technical difficulties included the hair weaves that the patient has.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  Despite the problems with electrode placement and impedance, the background EEG is appropriately organized, with an 11 Hz alpha rhythm and a small amount of low voltage frontocentral beta activity.  Hyperventilation did not significantly activate the record.  The referential montage was not particularly successful.  Features of drowsiness included an increase in background slowing.  In addition, very brief stage I sleep was seen, with vertex waves and then a transition in and out of stage I sleep.  At the very close of the record, the patient was transitioning in and out of stage II sleep.  Photic stimulation elicited scant driving.  Heart rate 84 bpm, occasional PVCs.
+IMPRESSION:  Technically challenging but normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The transitions in and out of stage II sleep may reflect sleep deprivation or an underlying sleep disturbance, which could be correlated with this patient's clinical picture.  To obtain a better quality EEG, a repeat study, when the patient has had her hair weaves removed, is suggested.
+
+
+

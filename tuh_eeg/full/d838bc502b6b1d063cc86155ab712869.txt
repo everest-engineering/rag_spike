@@ -1,0 +1,30 @@
+History:	60 year old woman status post cardiac arrest.  She now has frequent eye blinking
+and eye fluttering that is concerning for seizures.
+Medications:	no AEDs and no sedation
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background demonstrates burst suppression pattern.
+Additional pattern is noted.  Clinically, it generally corresponds to rapid brief eye flutter followed by
+~ 30 seconds of non-rhythmic eye opening.  Electrographically, this pattern corresponds to ~ 2
+seconds of non-evolving moderate-to-high  amplitude theta activity followed by ~ 30 seconds of
+non-rhythmic eye blinking artifact.  This pattern recurs every 1.5-2.5 minutes.  Additionally,
+intermittent head movements are noted.  Electrographically, they are only associated with a
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+Burst-suppression pattern
+No electrographic seizures
+Interpretation:
+This is an ABNORMAL comatose portable 21-minute EEG due to severe burst-suppression pattern.
+This finding indicates marked diffuse cerebral dysfunction and in a post-anoxic brain injury signifies
+poor chance of meaningful neurological recovery.  Episodes of eye flutter followed by blinking
+occur every 1.5-2.5 minutes and are not associated with electrographic ictal correlate.  These
+findings were conveyed to the neurology consult team.
+
+
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  25 year old male with a long history of epilepsy, multiple head traumas, hydrocephalus, and seizures.
+MEDICATIONS:  Valproic acid, Keppra, Levetiracetam, Depakene, Lovenox,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is recorded on a stretcher.
+DESCRIPTION OF THE RECORD:  The background EEG is slow, relatively featureless.  Although there is a breach rhythm noted on the right, the activity on the right is slower and a bit more featureless.  Features of drowsiness include an increase in beta.  The patient is not able to cooperate with hyperventilation but photic stimulation is completed.  Just prior to the photic stimulation he is a bit more awake.  There is more of a theta pattern, particularly on the left compared to the right.  Photic stimulation does seem to elicit a driving response a bit more so on the left than the right.
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Bilateral background slowing.
+Superimposed focal slowing on the right with disruption of faster frequency activity.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric process involving the right hemisphere more so than the left.
+
+
+

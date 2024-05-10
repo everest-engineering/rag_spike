@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 33-year-old male, status post PEA code on September 28th, persistently unresponsive now with titubation of the head.  CT demonstrating cerebral edema.
+MEDICATIONS:  Epinephrine, cefepime, norepinephrine, and Depakote.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient was as described above.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern of repetitive 4 hertz muscle artifact.  There is little in the way of cerebral activity that can be identified underneath this.
+At 1:50, the activity seems to abate and then to wax and wane.  There is no indication that any intervention was given at that time and then by 1:59:17, the EEG is again obscured by muscle jerking.
+Heart rate: 119.
+IMPRESSION:  This 20-minute bedside portable ICU is very challenging to interpret, but is remarkable for a 4-hertz pattern, which waxes and wanes.
+CLINICAL CORRELATION:  Based on the pattern described above and a brief episode in which the activity declined and then wax and wane, request was made for a neuromuscular blocking agent while the EEG was running.  The response to therapy with that agent is recorded in the next, long-term monitoring study (LTM) 14-249.  This study must be considered an indeterminate study and which has not answered the clinical question of electrographic seizure versus postanoxic myoclonus.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 41-year-old woman with headaches and attacks of vertigo over the past three years.
+MEDICATIONS: Meclizine.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage I sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11.5 Hz, 20 to 25 uV posterior dominant rhythm. Hyperventilation produces an increase in the amplitude of the background.  As the patient becomes more drowsy, there is the appearance of _______ transience and attenuation of beta activity.  Photic stimulation elicits a good driving response.
+HR:  84 BPM.
+IMPRESSION: Normal EEG in wakefulness through stage I sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing with sleep deprivation is recommended.
+
+
+
+

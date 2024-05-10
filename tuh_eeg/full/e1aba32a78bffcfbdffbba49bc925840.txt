@@ -1,0 +1,20 @@
+History:
+Medications: Sedation: EEG Type: Technique:
+.
+92 Y/O FEMALE.PT.FOUND UNRESPONSIVE IN BED 2 HOURS AGO. ON ARRIVAL PT. ACTIVELY SEIZING.PT.NEVER HAD SZ,BEFORE.CHANGE IN MENTAL STATUS.52 CM HEAD PMHX.CHART STATES TUMOR INDICATION.
+DILANTIN GIVEN THIS AM AT 5:00 AM
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, lethargic
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. Some normal sleep architecture is seen including spindles.
+Attenuation of faster frequencies over the right frontal region is noted No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. HR was 66
+Summary of Findings:
+Attenuation,  continuous, right frontal
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of attenuation of faster frequencies over the right frontal region, which is suggestive of a cortical lesion in this region. In addition there is moderate diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+

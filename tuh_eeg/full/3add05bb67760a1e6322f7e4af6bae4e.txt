@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 63-year-old gentleman found asystolic by Fire Rescue.  Intubated in the emergency room with weak pulses.  Now, with abnormal movements.  Past history of hepatitis C, psychiatric disease, and drug abuse.  The patient was admitted on April 1st.
+MEDICATIONS:  Currently, no sedative hypnotic medications.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This was an overall technically acceptable record for a poorly responsive patient.
+DESCRIPTION OF THE RECORD:  The overall EEG demonstrates a continuous pattern with mixed frequency activity including generous theta and delta.  There are smaller quantities of alpha and beta frequency activity and a suggestion of potentially posterior dominant rhythm with some alpha frequency in the right occipital region.  Frontally, predominant triphasic waves were noted as was eye flutter.  There are some subtle, sharply contoured discharges in the occipital regions, nearly isoelectric at __________ and spanning 02 to T5.  They are poorly formed, present bilaterally and differ from the triphasic waveforms.  Some sections of the record demonstrate an asymmetry with significantly more slowing on the left compared to the right.
+Heart rate:  106 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Frontally predominant triphasic waves.
+Poorly formed, sharply contoured, occipital slowing.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG supports a diffuse disturbance of cerebral function affecting gray and white matter.  The triphasic waves may be seen in the context of a toxic or metabolic encephalopathy.  No clinical seizures were recorded.
+
+
+
+
+

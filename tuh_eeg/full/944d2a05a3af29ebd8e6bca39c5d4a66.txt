@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  41 year old right handed woman with diabetes, hypertension.  The patient has had episodes for the last 5 months characterized by lightheadedness, vertigo, and unsteadiness.  A single nocturnal seizure in March characterized by shaking in sleep.
+MEDICATIONS:  Paroxetine, Lisinopril, Metformin, Insulin, Naproxen, Tramadol, Pravastatin, Meclizine, Promethazine
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The patient seems to be a bit drowsy throughout much of the record.  The overall background is relatively low voltage and the alpha rhythm is not particularly vigorous.  A 9 Hz alpha rhythm is noted.  Vertex waves, K-complexes, and spindles are seen in brief stage II sleep. Hyperventilation produces an increase in theta. Photic stimulation elicits a vigorous driving response at intermediate flash frequencies.
+HR:    90 bpm
+IMPRESSION:  Normal EEG primarily in drowsiness.
+CLINICAL CORRELATION:  There are no epileptiform features noted in this record.  The findings described above are all normal features.
+
+
+

@@ -1,0 +1,41 @@
+AGE: 62 y.o.
+SEX: male
+DATE OF STUDY: 12/03/2015
+RECORDING ENVIRONMENT: inpatient
+EEG TYPE: 20-40 min, awake and drowsy EEG # : 15-1760
+HISTORY:
+62 y.o. male with a history of	hypertension, hyperlipidemia and previous seizures referred for routine EEG for persistent confusion after seizure yesterday.
+Found to have: small right parasagittal occipital infarct in the PCA territory and	stable multiple chronic infarctions, severe chronic white disease
+MEDICATIONS :
+Current Outpatient Prescriptions :
+labetalol (NORMODYNE) 200 mg tablet, Take 200 mg by mouth 2 times daily.
+hydralazine (APRESOLINE) 50 mg tablet, Take 50 mg by mouth 3 times daily.
+amlodipine (NORVASC) 10 mg tablet, Take 10 mg by mouth daily. clopidogrel (PLAVIX) 75 mg tablet, Take 75 mg by mouth daily. aspirin 81 mg chewable tablet, Take 81 mg by mouth daily.
+LEVETIRACETAM (KEPPRA PO), Take	by mouth. PRAVASTATIN SODIUM (PRAVASTATIN PO), Take	by mouth.
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded at the
+bedside using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG but no HV nor photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, but diffusely slow with a low voltage, slow pattern with generalized beta and scant
+6.7 Hz alpha which was reactive.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+The patient is markedly drowsy.	A drowsy pattern includes a mixed frequency, low voltage pattern region beta activity with Shifting arrhythmic delta activity and occasional bursts of frontal delta
+Brief sleep includes vertex waves and beta spindles EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 72 bpm is captured on a single EKG lead.
+IMPRESSION:	Abnormal EEG
+excess background slowing and disorganization
+shifting slowing
+3. FIRDA
+CLINICAL CORRELATION:
+No epileptiform features were identified in this low voltage, slow pattern.	Overall, this EEG supports a diffuse disturbance of cerebral function as can be seen in post ictal state or toxic or metabolic encephalopathy.	Previous EEGs are not available at this time for comparison.	If needed, a repeat study may be obtained in search of epileptiform activity
+
+
+
+

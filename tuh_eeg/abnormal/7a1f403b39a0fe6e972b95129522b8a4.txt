@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   84 year old woman with advanced dementia and cardiac pacemaker, admitted approximately 4 days ago with aspiration pneumonia, status post sedation but no sedation for 72 hours.  The patient is not awakening from sedation.
+MEDICATIONS:  Cardizem, Zosyn, Famotidine, Insulin, Simvastatin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low-voltage slow pattern with a mixture of delta and 3 to 4 Hz of theta. Stimulation of the patient produces artifact but does not significantly activate the record.  There is a small degree of variability in the amount of theta and delta.
+HR:    66 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a relatively severe disturbance of cerebral function but is not specific as to etiology.  These findings could be seen in a toxic or metabolic encephalopathy.  They may also be seen following anoxic insult.  The patient's baseline significant cognitive
+function with associated impact on cerebral pattern may also play a role in the findings described above.
+
+
+

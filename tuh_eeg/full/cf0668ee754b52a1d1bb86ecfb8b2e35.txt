@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  50 year old right male with diabetes and depression, admitted to the hospital on the 24th with aphasia and lightheadedness.
+MEDICATIONS:  ASA, Metformin, Zocor, Lovenox, Hydralazine, Lisinopril
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is well organized 10 Hz alpha rhythm which is symmetric and reactive to eye opening.  The patient rapidly transitions into a drowsy state.  Vertex waves and POSTs are noted in stage 1 sleep.   Hyperventilation produces an increase in the amplitude of the background.  Photic stimulation elicits bilateral driving.
+HR:    60 bpm
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  No focal features were seen.
+
+
+

@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  A 54-year-old woman transferred from another hospital for a panic attack, status post PEA code.  The patient had a brief cardiac arrest and then a temperature of 100.4.  CT scan demonstrated pulmonary edema and possible pneumonia.
+
+MEDICATIONS:  Vancomycin, Ativan, versed, others.
+
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a technically challenging EEG in an agitated, sweaty patient.  Despite this, most impedances were below 5 kilohms.
+
+DESCRIPTION OF THE RECORD:  The background includes primarily theta frequency activity.  There is a mixture of 2.5 to 3 Hz and then 5 Hz activity in the background with generous beta.  There is a fair amount of muscle and movement artifact noted throughout.  The patient is intubated, moving about, and extremely uncomfortable.  As the record continues, the patient is a bit more agitated and there is a bit more beta.
+
+Heart rate:  120 BPM.
+
+IMPRESSION:  Technically challenging, but abnormal, EEG due to:  Generalized background slowing.
+
+CLINICAL CORRELATION:  No epileptiform features were identified in this individual with a question of an anoxic insult.  This is a continuous EEG with generous quantities of faster frequency activity.
+
+If there are additional concerns, a repeat tracing when the patient's pulmonary issues have resolved and she is able to cooperate may be of value.
+
+
+
+

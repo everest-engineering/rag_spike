@@ -1,0 +1,24 @@
+History:	63 YO MALE WITH NEW ONSET SEIZURE ONE YEAR AGO.  LAST EVENT 2
+WEEKS AGO WITH LOSS OF CONSCIOUSNESS.
+Medications:	RANITIDINE,METOPROLOL,LISINOPRIL,CITALOPRAM,HALOPERIDOL,DIPHENHYDRAMINE
+
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5 Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  However there is excessive predominantly irregular 50-75uV, 5-7Hz
+activity.  Some drowsiness is noted.
+Intermittent polymorphic delta activity is present in the left temporal region during wakefulness,
+increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, left temporal
+Diffuse slowing, polymorphic, continuous, mild
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of Mild diffuse slowing and intermittent left
+temporal focal slowing both of which are non-specific with regards to etiology.
+
+

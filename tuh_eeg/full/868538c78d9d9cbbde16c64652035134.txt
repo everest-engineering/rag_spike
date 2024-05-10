@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 62-year-old male with diabetes, cardiomyopathy, alcoholic cirrhosis, neutropenia and encephalopathy.
+MEDICATIONS:  Keppra, Ativan, Zosyn, and others.
+INTRODUCTION:  Continuous video EEG monitoring was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG and seizure and spike detection software.  The patient was somnolent.  No clinical seizures or other behaviors were noted.  There were no pushbutton events.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates as diffusely slow pattern with a mixture of rhythmic theta and delta.  The EEG intermittently, subtly attenuates.  Attenuations are on the order of a 2nd or so.  There is a subtle underlying right frontal/frontotemporal sharp waves noted in the background, which has some periodicity in it, but does not evolve.  As the long-term video EEG monitoring continues, the epileptiform discharge becomes more blunted, lower voltage more subtle.
+Recording on the 11th demonstrates again a lower voltage, slow pattern with a subtle, underlying sharp waves noted in the right frontotemporal region.
+By 8:15 in the morning, although there is some artifact, the overall background is richer in beta.  Intermittent, subtle arousals were identified at the end of the EEG recording.
+Heart rate 72 bpm.
+IMPRESSION:  This bedside, continuous video EEG monitoring session was remarkable for,
+An initially markedly slow and featureless background, improving somewhat over the course of the record.
+Right frontal sharp waves, low voltage at times periodic.
+An improving pattern by the end of the record with arousals.
+CLINICAL CORRELATION:  No seizures were identified.  This EEG supports severe underlying encephalopathy.  The background EEG on the 11th remains quite abnormal.  Unfortunately, the sharp waves seem to be resolving.
+
+
+

@@ -1,0 +1,33 @@
+History:	38 year old woman with a history of MS, now presents with a single convulsion that
+occurred ~ 2 weeks ago.
+Medications:	Avonex, Neurontin, Elavil
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11-11.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+waves appear diffusely, followed by symmetric vertex waves.
+Nearly continuous polymorphic theta and delta activity is present in the bitemporal regions
+(left>>right) during wakefulness, increasing during drowsiness.  Brief TIRDA (temporal intermittent
+rhythmic delta activity) is noted over the left.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+TIRDA (temporal intermittent rhythmic delta activity), left
+Focal slowing, polymorphic, nearly continuous, bilateral (L>R) temporal
+Sharp transients, one, right temporal
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG due to nearly continuous mild-to-moderate focal
+bitemporal slowing (left>right) and brief bursts of left TIRDA (temporal intermittent rhythmic delta
+activity). Focal slowing indicates focal cerebral dysfunction, possibly structural in etiology.  Left
+TIRDA (temporal intermittent rhythmic delta activity) indicates a potential epileptogenic zone over
+the left temporal region.  The presence of a single right temporal sharp wave is of uncertain clinical
+
+
+
+
+

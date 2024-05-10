@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 47-year-old male with recurrent syncope over the past year, atypical migraine.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This was a 1-hour EEG with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Hyperventilation was performed early in the record producing brief spurts of paroxysmal theta.  Features of drowsiness include an increase in beta with some frontal central theta.  Photic stimulation elicits subtle driving.  Vertex waves are noted in stage I sleep with rare vertex waves and spindles in stage II sleep.  Sleep was not sustained.
+Heart rate 84 BPM.
+IMPRESSION:  Normal 1-hour EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow-up study or even an outpatient ambulatory EEG may be valuable.
+
+
+

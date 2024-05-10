@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 50-year-old male with bipolar schizoaffective disorder, admitted to the trauma service after head trauma 1 day prior to this EEG.  Past history of alcohol, cocaine, opiates, benzodiazepine, and PCP ingestion.
+MEDICATIONS:  Keppra, Ativan, fentanyl, midazolam.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had noted to have been agitated, yelling, and cursing when awake and had been sedated for the study.  The patient is wearing a hard collar.  This is a technically acceptable EEG with impedances under 5 kilos with the exception of the T1-T2 electrodes.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous, relatively low voltage pattern.  Despite the sedation, intermittent arousals were noted with a 9 Hz posterior dominant rhythm followed by more of a beta state with a lower voltage beta pattern and then a transition to stage 2 sleep with spindles and POSTS.
+The technologist stimulates the patient and the patient arouses briefly with a 7 Hz background and a glimpse of a 10 Hz alpha rhythm.
+Heart rate:  90 bpm.
+IMPRESSION:  This is a normal EEG primarily in sleep.
+CLINICAL CORRELATION:  With arousals, a normal awake pattern was noted.  The pattern described above is compatible with pharmacologic sedation.  If epilepsy is an important consideration, a repeat tracing when the patient is out of the ICU and able to cooperate is suggested.
+
+
+

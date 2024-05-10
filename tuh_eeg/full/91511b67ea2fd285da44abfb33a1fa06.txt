@@ -1,0 +1,25 @@
+History:	58 Y/O MALE WITH PMHX OF NIDDM, PVD, HTN, BARRETTS ESOPHAGUS,
+CHRONIC PANCREATITIS, PT PRESENTS TO HOSPITAL  WITH WEAKNESS AND
+DIARRHEA 5 - 6 DAYS. PMHX: HTN, NIDDM, ETOH
+Medications:	Insulin, Lorazepam, Lasix, norepinephrine gtt
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes, obtunded
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  There was intermittent periods of discontinuity lasting up to 15seconds.  No normal
+sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR 110
+Summary of Findings:
+Diffuse slowing, polymorphic, marked
+Attenuation, marked
+Discontinuous background, intermittent
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and marked attenuation and
+periods of discontinuity. These findings are suggestive of severe global cerebral dysfunction.
+Clinical correlation is recommended.
+
+

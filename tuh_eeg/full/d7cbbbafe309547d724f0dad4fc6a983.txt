@@ -1,0 +1,30 @@
+History:	51 year old woman with a history of seizures since 31 years of age.  Last seizure
+occurred on 11/6/2014.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  Diffuse excess beta activity is present.  During drowsiness, the background
+slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  Frequent 50-75uV, 100 msec positive sharp transients occur bilaterally over
+the occipital regions of the head during saccadic eye movements with the eyes open.
+Summary of Findings:
+Excessive fast
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is a NORMAL 22-minute EEG, awake and drowsy. Excessive beta activity could be secondary
+to the medication effect, such as benzodiazepines or barbiturates.  No epileptiform discharges are
+present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep
+recording may provide additional information.
+
+
+
+

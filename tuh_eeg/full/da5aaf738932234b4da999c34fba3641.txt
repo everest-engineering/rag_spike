@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 28-year-old woman with epilepsy since age 13.  Tonic-clonic seizures which increased while pregnant.  Patient has auras with fingertips becoming numb, fuzzy visual scintillations.
+MEDICATIONS:  Xanax, prenatal vitamins, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed, but hyperventilation was deferred.  This is a technically acceptable 20-minute record with impedances under 5 kilohms with the exception of the T1-T2 electrodes.  The patient seemed to be anxious and had a great deal of muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm of 40 microvolts.  The waking record includes a great deal of muscle artifact.  Brief drowsiness is characterized by an increase in theta with slow rolling eye movements and attenuation of the alpha rhythm.
+Photic stimulation elicited bilateral driving.
+Heart rate 106 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+Clinical Correlation:  No focal or epileptiform features were identified.  Previous EEGs are not available at this time.  If epilepsy is an important consideration, a followup study capturing deeper stages of sleep may be of value.  Of note, the patient demonstrates tachycardia.
+__________________________
+
+
+

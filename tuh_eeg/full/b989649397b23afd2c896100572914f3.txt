@@ -1,0 +1,28 @@
+History:	53 yo male with scoliosis, mental retardation and epilepsy.
+Medications:	Topamax, Tegretol, Claritin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake
+Description:
+Waking background is characterized by a 25-40uV, 8Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Background activity was characterized by diffuse, excessive theta
+activity with overriding diffuse excessive beta activity.  No normal sleep architecture was present.
+Independent bilateral anterior temporal focal slowing was seen intermittently.  There are
+intermittent, very sharply contoured discharged in the frontal and temporal regions which are not
+clearly epileptogenic.  The high impedance makes it difficult to clearly delineate the morphology
+and therefore a definitive statement regarding their electrical significance.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  No EKG  Technical difficulties: high impedances and continuous
+movement artifact
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, mild
+Focal slowing, polymorphic, intermittent, moderate, bilateral temporal, anterior
+Interpretation:
+This is a limited ABNORMAL EEG because of diffuse background slowing and intermittent focal
+bilateral anterior temporal slowing.  These findings are etiologically nonspecific indicators of
+moderate diffuse and focal cerebral dysfunction.  Please note that there are intermittent, sharply
+contoured discharges which may be better defined on a repeat study with sedation.
+
+
+
+

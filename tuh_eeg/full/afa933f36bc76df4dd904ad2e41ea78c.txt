@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 54-year-old male with past history of traumatic brain injury, craniotomy, and epilepsy.  Previously hospitalized at Temple. The patient had blackout spells and now had a recent seizure with focal twitching, left-sided headache, and neck pain.
+MEDICATIONS:  Percocet, Oxycontin, topiramate, gabapentin, and Keppra.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.   This is a technically challenging EEG for an adult with a previous craniotomy.  The patient was cooperative during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat poorly organized.  There is a posterior dominant rhythm of 7-9 hertz noted.  Arrhythmic delta activity can be identified in either temporal region and wakefulness.  Features of drowsiness include an increase in beta.  As the patient becomes drowsy, the patient's right central breach becomes a little bit more prominent with a more delta and beta accentuation in that area.  Head rocking artifact also appears.
+Deeper stages of sleep were not achieved.
+EKG lead not functioning well.
+IMPRESSION:  Abnormal EEG due to:
+Shifting arrhythmic delta activity particularly in the temporal regions or right central parietal region.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The features described above have been previously identified including the right central breach.  If additional information is needed, a more prolonged EEG recording is suggested.
+
+
+
+
+

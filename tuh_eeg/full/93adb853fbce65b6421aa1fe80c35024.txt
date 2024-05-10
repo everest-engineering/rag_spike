@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  86 year old right handed man with stroke, hypertension, MI, and vertigo.  The patient was recently hospitalized for vertigo and hypertension, evaluate for dizziness.
+MEDICATIONS:  Atorvastatin, Carvedilol, Amlodipine, Diazepam, Clopidogrel, ASA
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a rhythmic 8 Hz 40 microvolt alpha rhythm and a small amount of low voltage frontocentral beta.  Brief drowsiness is characterized by anterior spread of the rhythmic 8 Hz activity.  In addition, there is some frontal slowing as the patient becomes drowsy.  Deeper stages of sleep are not sustained.  Photic stimulation elicited no driving.
+HR:    48 bpm
+IMPRESSION:  Abnormal EEG due to:
+Slowing of the alpha rhythm.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A slow alpha is a nonspecific finding. Seizures are an important consideration, a follow-up study is suggested.
+
+
+

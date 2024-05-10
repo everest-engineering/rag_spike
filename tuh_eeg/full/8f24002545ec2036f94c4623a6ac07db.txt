@@ -1,0 +1,11 @@
+TYPE OF STUDY:  Routine EEG capturing patient during wakefulness.
+REASON FOR STUDY:  Syncope versus seizures.
+CLINICAL HISTORY:  This is a 34-year-old right-handed woman who presents with history of motor vehicle accident with loss of consciousness while driving.
+MEDICATIONS:
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard international 10/20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed with tracing captures wakefulness only.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 10 Hz in frequency and 30-40 microvolt in amplitude seen in the occipital region which attenuates with eye opening.  Hyperventilation results in symmetrical slowing of the background.  Photic stimulation was performed at multiple flash frequencies with no driving response.  Heart rate was 70-80 beats per minute and regular.
+IMPRESSION:  This is a normal EEG recording capture in wakefulness only. No epileptiform abnormalities or seizure were identified in this record.
+CLINICAL CORRELATION:  A normal EEG, does not rule the diagnosis of epilepsy.  If seizures are clinical concern, a repeat EEG capturing deep stages of sleep or a 24-hour ambulatory EEG maybe helpful.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  52 year old right handed female admitted on the 16th with hypoglycemia  now with coma.   History of anxiety, depression, hepatitis C.
+MEDICATIONS:  Ativan, Lovenox, Pantoprazole, Zocor, Synthroid, Heparin, Lisinopril, Metoprolol, Norvasc, Insulin
+INTRODUCTION: Digital  video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and has some biting down activity.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly abnormal pattern with theta and delta.  When reviewed at normal paper speed, there is a broad slow periodic complex. When reviewed with slower paper speed that periodic activity does show some evidence of frequency evolution as well as bursting, characteristic of a very slow, PLEDS plus-like pattern.
+HR: 	100 bpm
+IMPRESSION:  Abnormal EEG due to:
+1.	Markedly abnormal and at times even discontinuous pattern.
+2.	Periodic complexes.
+3.		Periodic complexes with some evidence of frequency evolution as demonstrated by the use of very slow paper speed.
+CLINICAL CORRELATION:  This EEG supports a severe encephalopathy which may be epileptogenic in nature.  This may represent an ictal or postictal pattern.
+
+
+

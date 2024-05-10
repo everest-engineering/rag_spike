@@ -1,0 +1,31 @@
+History:	61 YR OLD FEMALE PRESENTS WITH NEW ONSET SZ X 2 ON 12/20/13 SEEN
+AT OSH, REPORTS EPISODES OF LOC W/SHAKING. LASTING 4 MIN, HX VAGUE
+DUE TO LANGUAGE BARRIER
+Medications:	Keppra, Per list from patient, Zantac, Tylenol, Triglide
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, photic
+Description:
+Waking background is characterized by a 8 Hz alpha rhythm, which attenuates symmetrically with
+eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal
+regions.  There is 6-7 Hz diffuse theta activity during wakefulness.  During brief drowsiness, the
+posterior dominant rhythm attenuates, and 5-7Hz slow waves appear diffusely, followed by
+Intermittent polymorphic delta activity is present in the left temporal region during wakefulness,
+increasing during drowsiness.  Occasional independent polymorphic delta activity is present in the
+right region during wakefulness, increasing during drowsiness.  No epileptiform discharges are
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR is 60 bpm.
+Summary of Findings:
+Diffuse slowing, rhythmic
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of 1) diffuse background slowing and slow
+alpha rhythm.  These findings are etiologically nonspecific indicators of mild diffuse cerebral
+dysfunction.  2) intermittent independent focal slowing in bitemporal regions greater on the left
+side.  This finding is indicative of focal cerebral dysfunction in these regions, which is etiologically
+non-specific.  No clinical or electrographic seizures are present.  The lack of epileptiform discharges
+on a routine EEG does not rule out a diagnosis of epilepsy.
+
+
+

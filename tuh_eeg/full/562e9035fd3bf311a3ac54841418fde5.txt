@@ -1,0 +1,32 @@
+:
+History:	30 year old man with a history of seizures.  Patient has a history of GSW to the head
+status post left temporal craniotomy.
+Medications:	TEGRETOL, NEURONTIN AND OTHERS
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left hemisphere.
+The background over the right hemisphere consists of low-to-moderate amplitude 10 Hz alpha
+activity with expected AP gradient.  The background over the left hemisphere consists of
+polymorphic 9-9.5 Hz alpha activity, poor AP gradient, low amplitude polymorphic theta and delta
+activity and continuous anterior moderate amplitude polymorphic theta and delta activity with
+additional fast frequencies (breach rhythm).  Vertex waves and sleep spindles are captured.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional
+Summary of Findings:
+Breach artifact, left anterior
+Focal slowing, polymorphic, continuous, moderate, left anterior
+Focal slowing, polymorphic, continuous, mild, left hemispheric
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG due to mild focal left hemispheric
+slowing and continuous moderate left anterior slowing. These findings indicate focal cerebral
+dysfunction that is especially pronounced over the anterior quadrant.  These cerebral dysfunction is
+likely structural in etiology and is consistent with patient's history of GSW to the left hemisphere.
+Breach rhythm is secondary to the skull defect.  The lack of epileptiform discharges on a routine
+EEG does not rule out a clinical diagnosis of epilepsy.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 27-year-old with epilepsy, seizure-free for 15 years.
+MEDICATIONS:  none
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed. This was a technically satisfactory routine EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm with a small amount of low voltage frontocentral beta.  Into transition to drowsiness, there is rhythmic temporal theta, rhythmic temporal state of drowsiness, left more so than right.  The patient has some twitching as the patient drifts off to sleep, but these involuntary muscle jerks are not associated with epileptiform activity.  Eye movement and other muscle artifacts were noted including eye movement artifact into drowsiness.
+Other features of drowsiness included diffuse background slowing and vertex waves.  The patient was drifting into stage 2 sleep during photic stimulation.  Despite this, a scant driving response was noted.
+Hyperventilation produced an increase in amplitude as a background.
+Heart rate 72 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and sleep.
+CLINICAL CORRELATION:  Multiple normal variants were noted in this EEG.  No epileptiform features were noted.  The persistence of ocular movements into sleep is not a pathological finding.
+
+
+

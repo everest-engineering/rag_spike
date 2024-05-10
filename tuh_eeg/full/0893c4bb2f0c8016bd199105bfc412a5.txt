@@ -1,0 +1,25 @@
+History:	56 year old man who presents with seizures.  pmhx: sz, dm, htn
+Medications:	Oxcarbazepine, Phenobarbital, Metoprolol, Famotidine, Heparin
+Sedation:	None
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+The predominant background is characterized by an alpha rhythm that at best reaches 6 Hz.
+Background activity was characterized by diffuse delta and theta activity with absence of the
+expected anterior to posterior gradient of frequencies.  During drowsiness, the alpha rhythm
+attenuates, and 5-7Hz slow waves appear diffusely, followed by symmetric vertex waves.
+Continuous polymorphic delta activity is present in the left hemisphere seen maximal in the
+temporal region.  No epileptiform discharges are present.  No clinical or electrographic seizures
+Hyperventilation and photic stimulation were not performed.  HR was 54.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric, maximal in the temporal region
+Diffuse slowing, polymorphic, continuous
+Interpretation:
+This is an ABNORMAL EEG because of  continuous focal slowing in the left hemisphere seen
+maximal in the temporal region.  This finding is indicative of a focal structural lesion in this region.
+In addition there is diffuse background slowing.  These findings are etiologically nonspecific
+indicators of moderate diffuse cerebral dysfunction.  No clinical or electrographic seizures are
+
+
+

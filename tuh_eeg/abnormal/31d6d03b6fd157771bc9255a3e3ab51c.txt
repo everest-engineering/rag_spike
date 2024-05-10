@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  54 year old male with diabetes, hyperlipidemia, mood and memory disorder.  Former boxer with multiple head traumas.  Now he has dizziness, headaches, and misplaces objects.  The patient disclosed to the EEG tech that he is not adherent to his diabetes regimen.
+MEDICATIONS:  Motrin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is of medium amplitude with a 9 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta.  Hyperventilation is performed early in the record, producing an increase in amplitude of the background and a small amount of slowing.  Features of drowsiness include slow rolling eye movements.  Photic stimulation did not significantly activate the record.  Brief drowsiness was captured at the end of the EEG with an increase in beta as well as hypersynchronous rhythmic slowing.
+HR:    60 bpm
+IMPRESSION:  This is a normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a repeat tracing capturing sleep is suggested.
+
+
+

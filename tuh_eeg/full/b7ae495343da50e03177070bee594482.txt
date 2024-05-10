@@ -1,0 +1,28 @@
+History:	87 YR MALE WITH  SLURRED SPEECH.  APHASIC, RIGHT SIDE WEAKNESS.
+Medications:	HEPARIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the temporal
+region during wakefulness, increasing during drowsiness. With an associated loss of faster
+frequencies.  Intermittent polymorphic delta activity is present in the right midtemporal region
+during wakefulness, increasing during drowsiness.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  HR is 60
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric
+Focal slowing, polymorphic, intermittent, right temporal, mid
+Interpretation:
+This is an ABNORMAL awake and drowsy EEG because of continuous focal slowing in the left
+hemisphere maximal in the temporal region.  This finding is indicative of a focal structural lesion in
+this region. In addition there is  intermittent focal slowing in the right midtemporal region.  This
+finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 76-year-old woman with prior stroke and syncope.  The patient is blind.  MEDICATIONS:  Lisinopril, Plavix, Keppra, others.
+INTRODUCTION: A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record.  Neither hyperventilation or photic stimulation could be obtained.
+DESCRIPTION OF THE RECORD: The overall EEG is relatively low voltage. There is an intermittent 6- 7 Hz alpha rhythm, which can be identified from the right or left with some variability. There is an asymmetry in the record and there is disruption of faster frequency activity in the right hemisphere relative to the left. There is also slow, 1 Hz delta activity noted intermittently on the right, not seen on the left.
+Drowsiness is remarkable for some bursts of somewhat sharply contoured slowing. Heart rate: 56 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing from the right hemisphere.
+CLINICAL CORRELATION:  No definitive epileptiform features were seen.  In this individual with a previous stroke, there is more significant focal slowing on the right, congruent with that history. If epilepsy is an important consideration, a repeat tracing may be of value.
+
+
+

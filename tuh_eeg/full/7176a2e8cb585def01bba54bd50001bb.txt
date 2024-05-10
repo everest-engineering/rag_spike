@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 74-year-old, right-handed woman with recurrent confusional spells.
+MEDICATIONS: Zanaflex, Zyprexa, insulin, and Depakote.
+INTRODUCTION: Continuous digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. No clinical seizures were noted by the nurses or by the computer.
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, there is a marked intrahemispheric asymmetry. There is disruption of faster frequency activity from the left frontocentral and frontotemporal regions, and a posterior dominant rhythm of approximately 9 Hz is better defined on the right compared to the left.  As the patient reaches sleep, again there is some asymmetry with somewhat slower, lower voltage delta from the left hemisphere compared to the right.  In the transition to drowsiness, there is some temporal wicket and a single right temporal sharp wave is identified in early drowsiness.
+By the close of the record, there is a bit more electrode artifact identified.  In the latter portions of the sleep section, there is some sharply contoured delta activity, but no definite left temporal sharp waves. The patient has somewhat fragmented sleep, but in the AM sections on the 15th, intrahemispheric asymmetry is somewhat less remarkable although this may be an artifact.
+HR:  __ BPM.
+IMPRESSION: Abnormal EEG due to:
+Focal slowing from the left hemisphere with disruption of faster frequency activity and an increase in delta on the left.
+Question right temporal sharp wave versus wicket.
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality in the left hemisphere.
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  56 year old woman with epilepsy, seizure-free since 1995, possibly to wean off medications.
+MEDICATIONS:  Tegretol, Atenolol, Lasix, Quinapril.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 60-70 microvolt posterior dominant rhythm.  Mu activity is identified but testing is not performed to confirm this.  Drowsiness is characterized by an increase in beta.  POSTS are noted in stage I sleep. Hyperventilation produces an increase in amplitude in the background.  Photic stimulation is performed as the patient is drifting off to sleep and does not activate the record.
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There are no epileptiform features noted in this record.  There are normal variants in the record including a little rhythmic mid temporal theta of drowsiness. If epilepsy is an important consideration, a repeat follow-up study capturing sleep deprivation may be considered.
+
+
+

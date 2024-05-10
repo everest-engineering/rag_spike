@@ -1,0 +1,29 @@
+RECORDING ENVIRONMENT: Inpatient
+EEG TYPE: Routine, awake and asleep EEG #: 15-1226
+HISTORY:
+Male is a 114 y .o . male referred for routine EEG after presenting with gunshot wound to neck, back, chest, and right arm. Nurse observed patient to have a seizure 8/24/15, with foaming at mouth. No history of seizures.
+MEDICATIONS:
+Dilaudid, Keppra, Lovenox, Zofran, Fentanyl
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilizing a NicOne system. This was a technically satisfactory record and included a single channel of EKG.	Technician notes that patient was given Dilaudid just prior to recording due to agitation.
+EEG BACKGROUND:
+There are very brief, < 15-second periods of wakefulness.	During these times, the waking background is characterized by the presence of a well-organized symmetric mixture of alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient
+of frequency and amplitude is present.
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+There are normal sleep transients, with synchronous and symmetric sleep spindles and K-complexes present during Stage II sleep.
+Slow wave sleep is not captured. No generalized slowing is present. No focal slowing is present.
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+1. There are occasional runs of frontally-predominant generalized rhythmic delta activity, at 2 Hz, for very brief (<10 second) periods
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present. ACTIVATION PROCEDURES:
+Hyperventilation: Not performed Photic Stimulation: Not performed
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 102 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-asleep routine EEG due to:
+1. Occasional runs of frontally-predominant generalized rhythmic delta activity, at 2 Hz, for very brief (<10 second) periods
+CLINICAL CORRELATION:
+Frontally predominant generalized rhythmic delta activity (GRDA, also known as FIRDA) is a nonspecific but pathologic finding that is most commonly seen in toxic-metabolic states, but may also be seen with deep structural lesions or increased intracranial pressure. Clinical correlation is advised.
+

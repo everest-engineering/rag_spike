@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 61-year-old male with traumatic brain injury, left skull fracture, the patient presented with recurrent seizures today, some of which were prolonged.
+MEDICATIONS:  Lovenox, oxybutynin, Trileptal, Keppra, phenobarbital.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were generally under 5 kilohms with the exception of the T1-T2 electrodes.  The skull defect was as described above
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is quite drowsy.  Generous beta is noted but there is no well-defined alpha rhythm.  Breach rhythm is noted on the left with higher amplitude activity in this region.  Sharply contoured slowing was noted with T1 and T3 phase reversal with most bursts about 500 milliseconds in duration.  Tactile stimulation of the patient produces an arousal response with a glimpse of a 10 Hz alpha rhythm on the right and more of a theta pattern on the left.  The patient then returns to a drowsy state.
+Heart rate 96 BPM
+IMPRESSION:
+Abnormal EEG due to continuous focal slowing from the left hemisphere.
+Sharply contoured delta from the left maximum mid temporal.
+Continuous
+Mild slowing on the right.
+CLINICAL CORRELATION:  This EEG is supportive of a structural or functional process on the left.  For this patient with recurrent status epilepticus, this record demonstrates an ongoing irritative process.  This EEG is similar to previous studies of April 2015.
+
+
+

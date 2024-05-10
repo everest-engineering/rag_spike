@@ -1,0 +1,27 @@
+History:	44 year old man with a PMH of SDH, ESRD on HD, HIV, Hepatitis C and possible
+dementia, now presents with change in mental status.
+
+Of note, patient is uncooperative during the placement of the electrodes, so some
+of the impedances are high.
+Medications:	Keppra, Ativan
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, lethargic
+Description:
+There is no PDR or AP gradient.  Patient moves and chews throughout the entire study, so EEG is
+technically limited.  The background consists of very low amplitude excess beta activity.  Patient is
+awake throughout the study.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Technically limited, due to continuous movement/ chewing artifact
+No electrographic seizures
+Interpretation:
+This is a TECHNICALLY LIMITED 22 minute awake-only portable EEG because of abundant EMG
+and electrode artifacts. No clear seizures are captured.  The background consists of diffuse excess
+fast activity that could be medication related (such as benzodiazepines or barbiturates).
+
+
+
+
+

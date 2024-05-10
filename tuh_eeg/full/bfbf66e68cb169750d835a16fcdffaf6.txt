@@ -1,0 +1,28 @@
+History:	95 year old woman with a history of seizures, now with new onset of intermittent
+right shoulder twitching.
+Medications:	Tylenol, asa, dulcolax, keppra, prinivil, toprol-xl, novolog
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm consists at best of low amplitude 6-6.5 Hz theta.  AP gradient is
+preserved.  During drowsiness there is increase in diffuse theta and appearance of prolonged bursts
+of diffuse delta activity.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates heart of <60 bpm with
+occasional premature QRS complexes (with associated up to 2 second pauses between premature
+and subsequent QRS complex).
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 20-minute EEG due to mild diffuse slowing that is
+indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  No epileptiform
+discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+sleep recording may provide additional information.  A single EKG lead demonstrates heart of <60
+bpm with occasional premature QRS complexes (with associated up to 2 second pauses between
+premature and subsequent QRS complex).
+
+

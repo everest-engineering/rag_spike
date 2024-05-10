@@ -1,0 +1,13 @@
+CLINICAL HISTORY:	28 year old right handed male with a history of epilepsy with the onset at the age of 5.  The patient has been seizure-free for approximately 5 years.
+MEDICATIONS:  Tegretol
+INTRODUCTION: Digital video EEG was performed in lab using standard  10-20
+system of electrode placement with 1 channel EKG. The study is performed with photic stimulation and hyperventilation.
+DESCRIPTION OF THE RECORD:  The patient begins the study in wakefulness and displays a 10 Hz alpha rhythm with 50 mV. There is higher amplitude on the left than
+the right. Throughout the study, the patient transitions in and out of sleep.  During sleep a few vertex waves are noted.  There are posts and sleep spindles.  During photic stimulation there is no reactivity.  During hyperventilation an increased theta with mild slowing is noted.
+HR:	N/A
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform activity is noted. A normal EEG do not exclude diagnosis of epilepsy.
+
+
+
+

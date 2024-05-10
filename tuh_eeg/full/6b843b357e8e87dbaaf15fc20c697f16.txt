@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 22 year old left handed female with postpartum headaches.
+MEDICATIONS: Unknown
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very drowsy.
+DESCRIPTION OF THE RECORD: The patient is quite drowsy throughout the EEG. There are features of stage I and stage II sleep. There is generous beta frequency activity. Arousal is associated with alpha and beta frequency activity. Bursts of shifting frontal delta are observed.
+HR: 84 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+2. Excess background slowing with frontal delta.
+CLINICAL CORRELATION: These findings support a diffuse disturbance of cerebral function. No epileptiform features were seen. Correlation with imaging and clinical history is suggested.
+
+
+

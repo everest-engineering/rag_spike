@@ -1,0 +1,27 @@
+History:	62 year old woman who has a history of seizures.  Patient was admitted with a
+stroke.  On 10/27/2015 she was observed to have an episode concerning for a
+Medications:	Tegretol
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening. Fast alpha variant is seen.  Symmetric 5-15uV, 18-25Hz activity is
+present, maximal over bilateral frontal regions.  Patient remains awake throughout the study.
+There is continuous paucity of faster frequencies over the left hemisphere.  It is especially
+pronounced over the left temporal region (continuous polymorphic theta-delta activity).  No clear
+epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+Focal slowing, polymorphic, continuous, moderate, left temporal
+No epileptiform discharges
+No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only portable 22-minute EEG due to continuous moderate focal
+slowing in the left temporal region.  This finding is indicative of a focal structural lesion in this
+
+
+
+
+

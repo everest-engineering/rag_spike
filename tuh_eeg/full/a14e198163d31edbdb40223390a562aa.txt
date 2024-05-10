@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  38 year old right handed man with intermittent loss of consciousness, abrupt falling, loss of consciousness for less than a minute with occasional shaking of right leg.  No incontinence, no tongue biting.  Past history of phasing out or staring.  Past history of childhood head trauma, age 12, without loss of consciousness.  Family history of epilepsy.  Previous EEGs at an outside hospital were normal.
+MEDICATIONS:  Prilosec, Norvasc, Lisinopril, Albuterol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz, 40 microvolt alpha rhythm with a small amount of low-voltage, frontocentral beta.  Drowsiness is characterized by anterior spread of the alpha rhythm with an increase in beta and then some frontocentral theta.  Hyperventilation produces a small increase in amplitude of the background.  Photic stimulation elicits minimal driving.  Following photic stimulation, the patient drifts into stage I sleep.
+HR:    78 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  If this is the second normal EEG for this adult, outpatient ambulatory EEG monitoring may be considered.  A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

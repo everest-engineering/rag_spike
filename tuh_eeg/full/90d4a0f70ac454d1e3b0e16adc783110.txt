@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 70-year-old male with a history of PEA code, pneumonia, ventilator dependent respiratory failure, encephalopathy, DNR 1, evaluate for mental status.
+MEDICATIONS:  Norvasc, clonidine, Ativan 4 mg for agitation, Zosyn.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel EKG.  The patient was confused, he was a little bit agitated and had intermittent involuntary jerking.
+DESCRIPTION OF THE RECORD:  The background EEG is slow with a mixture of theta and smaller amounts of delta.  There is intermittent, arrhythmic delta.
+Intermittent muscle jerks produce muscle twitch artifact.
+There is variability in the record with some sections of the record demonstrating more rhythmic theta and beta.
+Heart rate 104 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Moderate, generalized background slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function which may be seen in a metabolic encephalopathy.  The jitteriness noted above can be seen in hepatic encephalopathy, benzodiazepine or alcohol withdrawal.  There were no specific hallmarks of an anoxic encephalopathy nor hepatic encephalopathy, and the pattern described above may be related to either of these pathologies.
+
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 56-year-old male of unknown handedness, status post severe traumatic brain injury on November 15th, right temporal bone fracture, subarachnoid hemorrhage on the left, intraparenchymal hemorrhage reported on the right, persistently unresponsive.
+MEDICATIONS:  Fentanyl (propofol discontinued), vancomycin, meropenem, micafungin, and others.
+INTRODUCTION:  A 20-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Patient had a tracheostomy, was unresponsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a low voltage, featureless pattern on the left.  A breach rhythm was identified on the right with lower voltage, slow, more rhythmic delta activity and a phase reversal in the right mid to anterior temporal region.
+Stimulation of the patient did not produce a change in the background.
+Heart rate 110 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Markedly slow, suppressed pattern on the left which is not reactive.
+Lower voltage, slow delta on the right.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  No epileptiform features were seen.  These findings should be considered in the context of the use of fentanyl.  Overall, this EEG supports a severe disturbance of cerebral function as may be seen in severe traumatic brain injury.  If additional information is needed, consideration for alternative neurophysiologic testing such as somatosensory evoked potentials may be evaluated.
+
+
+
+
+

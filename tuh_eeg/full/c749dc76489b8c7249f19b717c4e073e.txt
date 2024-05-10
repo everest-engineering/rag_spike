@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 43 year old right handed female with new onset seizures characterized by blackouts 1-2 times per week 1-2 weeks ago with postictal confusion. Thirty minute episodes. No known epilepsy risk factors.
+MEDICATIONS: Clonidine, Amitriptyline.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hertz posterior dominant rhythm. There is a small amount of background theta noted in wakefulness. Drowsiness is characterized by increase in background theta. Hyperventilation produces an increase in amplitude of the background and also accentuates the theta. Photic stimulation does not activate the record.
+HR: 60 bpm
+IMPRESSION: Mildly abnormal EEG due to:
+1. A small degree of background theta.
+CLINICAL CORRELATION: The patient's medications may produce the pattern described above. No epileptiform features are noted. If further information is needed, additional recording capturing deeper stages of sleep may be of value.
+
+
+

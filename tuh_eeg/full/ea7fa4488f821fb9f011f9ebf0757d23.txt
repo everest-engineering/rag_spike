@@ -1,0 +1,8 @@
+INTRODUCTION: During this portion of the record, the patient experienced two episodes of right-sided shaking.  Only one episode could be identified in the computer.
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG includes symmetric, reactive 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  In the transition to sleep, in drowsiness, there is rare, slightly irregular theta and delta from the left temporal region identified in brief bursts.  Symmetric vertex wave, K complexes, and spindles are seen in stage II sleep.  There are frequent arousals from sleep.
+EVENTS:  There were multiple practice push button events, but there was one more clearly defined event.
+TIME 19:55: The patient is initially off camera.  When the patient is on camera, although it is possible to identify the nurse and the spouse discussing the patient’s motor activity, they were leaning over the patient and it is not possible to see the motor activity.  Throughout this entire epoch, with the patient both on and off camera, the EEG is running continuously.  The EEG demonstrates a normal awake pattern without epileptiform activity.
+
+
+
+

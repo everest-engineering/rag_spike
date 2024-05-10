@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 34-year-old woman with recent blackout spells, some of which are preceded by loss of vision.
+MEDICATIONS:  advair, albuterol
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, a 9 Hz alpha rhythm was identified with a small amount of low voltage, frontal central beta.  Drowsiness was characterized by an increase in theta.  Hyperventilation produced a small amount of slowing.  Photic stimulation did not significantly activate the record.
+Heart rate:  72 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and minimal drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this EEG.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep may be of value.
+
+
+

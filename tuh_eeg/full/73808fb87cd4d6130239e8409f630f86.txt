@@ -1,0 +1,31 @@
+History:	79 year old woman who presents with symptoms concerning for a stroke versus
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Description:
+There is no PDR and no AP gradient.  There is right-to-left intrahemispheric asymmetry with slower
+waveforms at lower amplitudes over the right hemisphere.  The waking background over the left
+hemisphere consists of a mixture of polymorphic variable amplitude theta and delta activity.  The
+waking background over the right hemisphere consists of a mixture of low amplitude polymorphic
+delta and slow theta activity.  No normal sleep architecture is present but periods of quiescence are
+A single sharp transient waveform with a very broad field is captured over the left frontal region.
+Synchronous downward deflection is noted in the single EKG lead, however, no movement is
+noted upon video review.
+Hyperventilation and photic stimulation are not performed.  There is change in the background
+activity to visual, auditory, tactile, or noxious stimuli.  A single EKG lead demonstrates heart rate
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+Attenuation, continuous, right hemispheric
+Sharp transients, one, left frontal
+Interpretation:
+This is an ABNORMAL portable 23-minute EEG due to moderate diffuse slowing that is most
+pronounced over the right hemisphere.  Additional voltage attenuation is noted over the right
+hemisphere. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is
+etiologically nonspecific.  Continuous focal slowing and attenuation over the right hemisphere
+indicates focal structural lesion in this region, possibly related to a fluid collection between the
+brain and skull (such as SDH, empyema).  The presence of a single left frontal sharp transient
+waveform is of uncertain clinical significance and may be artifactual.
+

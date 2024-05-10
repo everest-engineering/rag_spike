@@ -1,0 +1,25 @@
+History:	67 YR OLD FEMALE PRESENTS WITH H/O HEADACHE W/ VOMITING, HA AT
+TIMES LAST ALL DAY. ONSET ON LT SIDE OF HEAD THEN GEN ALONG WITH
+BLURRED VISION/PHOTOPHOBIA, 1 EVENT OF LOC. HE FREQ OF 1-2 X A
+WEEK. ALSO HAS C/C OF SOB AND LOSS OF MEMORY. PMHX SIG FOR ASTHMA
+Medications:	AMARYL, METFORMIN, FOSAMAX, VICTOZA, XANAX, ZOLOFT, CLARITIN AND
+OTHERS SEE CHART
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 9-10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow
+Intermittent, independent polymorphic delta activity is present in the bitemporal regions, maximal
+at T1 and T3.  No epileptiform discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving.  HR 90
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral (L>R) temporal
+Interpretation:
+This is an ABNORMAL EEG, awake and drowsy due to intermittent, independent bitemporal focal
+slowing, greater on the left side. This finding is indicative of focal cerebral dysfunction in the
+temporal region, which is etiologically non-specific.
+

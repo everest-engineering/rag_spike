@@ -1,0 +1,15 @@
+LENGTH OF THE RECORDING:  20 minutes.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10/20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Photic stimulation was performed.
+CLINICAL HISTORY:  The patient is a 60-year-old woman who had a cardiac catheterization on 05/08/2013 during which she had loss of vision in both eyes.  She was subsequently found to have a cerebral artery occlusion.
+MEDICATIONS:  Ultram, Zocor, Procardia, Aldactone, Namenda.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of low amplitude 11 Hz activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with gaster frequencies at lower amplitudes anteriorly.  During sleep, symmetrical vertex wave and sleep spindles are captured.  Intermittent polymorphic theta activity is captured over the right temporal regions.  A brief run of simple intermittent rhythmic delta activity (TIRDA) is observed over the left temporal region.  A single EKG lead demonstrates a heart rate of fewer than 60 beats a minute.
+FINDINGS:
+Intermittent mild bitemporal slowing.
+Single run of left TIRDA.
+Brief stage II sleep.
+Sinus bradycardia with heart rate fewer than 50 beats a minute.
+No epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and briefly asleep 20-minute EEG due to occasional mild bitemporal slowing as well as a short run of left temporal rhythmic delta activity.  Bitemporal slowing indicates focal cerebral dysfunction, possibly structural in etiology.  Focal rhythmic left temporal slow activity probably indicates focal left temporal cerebral dysfunction, and if clinical suspicion for seizures persists, this pattern could indicate a potential epileptogenic focus emanating from the left temporal region.  No electrographic seizures were observed.  Sinus bradycardia is noted on single EKG lead. Excess beta could be secondary to medication effect such as benzodiazepines or barbiturates.
+
+
+

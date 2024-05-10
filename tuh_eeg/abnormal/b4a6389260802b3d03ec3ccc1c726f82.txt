@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  The patient is a 68-year-old woman who was talking to a friend, had a brief loss of consciousness while sitting at the table.  The patient reports not being post ictal, does not describe any symptoms to suggest a seizure.
+MEDICATIONS:  Atenolol and blood pressure medications.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.7 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by slow rolling eye movements.  Other features of drowsiness include anterior spread of the alpha rhythm.
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits scant driving.
+Heart rate:  72 BPM.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were noted in the EEG.  If epilepsy is an important consideration, a follow-up EEG capturing deeper stages of sleep is suggested.
+
+
+

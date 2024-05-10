@@ -1,0 +1,26 @@
+CLINICAL HISTORY:
+The patient is a 50-year-old man presented with loss of consciousness and incontinence. He is confused, not feeling well
+and complains of generalized weakness , frontal headache and dizziness of 3 days duration.
+PAST MEDICAL HISTORY:
+Depression.
+MEDICATIONS:
+Zolpidem, citalopram, hydroxyzine and Seroquel.
+INTRODUCTION:
+Digital Video EEG was performed using standard 10-20 system of electrode placement with one channel EKG. This is an
+inpatient recording. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:
+The background pattern is slow and disorganized. There is a lot of muscle artifact. Bilateral theta pattern is seen with more
+slowing on the left frontal region with focal delta. There is shifting slowing seen bilaterally with arrhythmic delta.
+Photic stimulation brings about scant driving.
+Heart rate: 50 beats per minute.
+IMPRESSION:
+Abnormal EEG due to:
+1. A slow disorganized pattern.
+2. Focal delta is seen in the left frontal region.
+3. Arrhythmic delta bilaterally
+Clinical correlation:
+The slow disorganized bilateral arrhythmic delta is supportive of underlying white matter disturbance as can be seen with
+edema. The focal left frontal delta can be correlated with the MRI.
+
+
+

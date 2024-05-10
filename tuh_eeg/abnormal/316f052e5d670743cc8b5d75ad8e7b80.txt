@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 51 year old right handed female with bipolar disease and chronic headaches.
+MEDICATIONS: Trileptal, Lamictal, Valium, Morphine, Diovan
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The patient is drowsy or in stage II sleep throughout much of the record. The background is remarkable for abundant 13 and 15 Hz beta frequency activity as well as frontal artifact. The patient awakens for photic stimulation and for hyperventilation and at that point an 11 Hz alpha rhythm is identified but rapidly drifts back into a sleep state.
+HR: 90 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Excess beta.
+CLINICAL CORRELATION: The excess beta described above may be due to the use of sedative hypnotic medications. In addition, the fact that the patient is quite sleepy may be part of either her sleep deprivation or her pharmacologic sedation. No epileptiform features were identified in this EEG.
+
+
+

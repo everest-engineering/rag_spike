@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 55 year old right handed male admitted on the 04/03/2011 with right focal facial twitching, past history of epilepsy.
+MEDICATIONS: Phenobarbital, Keppra, Truvada, Gemfibrozil, Nevirapine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed.
+DESCRIPTION OF THE RECORD. The overall EEG is relatively low voltage with a mixture of theta and delta. There is shifting asymmetry. An occasional right mid temporal sharp wave or right sharply contoured delta activity is noted in relaxed wakefulness. Simulation of the patient produces an increase in theta. There is an asymmetry in that the activity on the left seems to be a little slower, more featureless.
+The right has some sharply contoured slowing in the right mid to anterior temporal sharp waves. Photic stimulation elicits scant driving, better observed on the left.
+HR: 55 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Significant, bilateral background slowing.
+2. An asymmetry with a more attenuated record on the left.
+3. Right mid temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a bihemispheric process. Of note, there is more slowing on the left, but the sharp waves are noted on the right. These findings may be correlated with imaging.
+
+
+

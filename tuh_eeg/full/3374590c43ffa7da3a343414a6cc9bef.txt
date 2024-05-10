@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 19 year old right handed male with a vague episode. No other description of the symptoms is known.
+MEDICATIONS: Geodon, Benztropine
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz alpha rhythm which is symmetric and reactive. There is a small amount of low-voltage frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements. The patient is falling asleep during hyperventilation. Photic stimulation elicits bilateral driving.
+HR: 72 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. A normal EEG does not exclude a diagnosis of epilepsy.
+
+
+

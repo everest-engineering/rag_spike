@@ -1,0 +1,38 @@
+History:	23 YR OLD MALE PRESENTS WITH H/O REPORTED EVENTS OF
+UNRESPONSIVENESS AND SZ ( ONSET 4/12) , GIVEN SEDATION, FOUND TO BE
+ANEMIC, FEBRILE AND POSS. HEMATOMA. PT SZ HX IS 6 IN THE LAST 8
+MOS. POSTICTAL/LETHARGY THAT LAST SEVERAL DAYS. PMHX SIG FOR
+Medications:	REGLAN, CEFEPINE, TOBRAMYCIN, PROTONIX, KEPPRA, LASIX
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 14 hours from 01/07/2014 to 01/08/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Graphical representation of the EEG
+was available at the bedside and over the hospital network for continuous review by EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Diffuse, frontally maximal sharp waves with triphasic morphology are present
+throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag. They
+occur at about 1-2 Hz throughout the record.  These appear to be state dependent.  No normal
+sleep architecture was present. However the triphasics stop and there is a diffuse delta background
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 84
+Summary of Findings:
+Triphasic waves
+Interpretation:
+This is an ABNORMAL EEG because of  frequent frontally-maximal triphasic waves and severe
+diffuse background slowing.  These findings are indicative of a severe diffuse encephalopathy,
+which is etiologically nonspecific, but suggestive of a metabolic origin.
+while in clinical sleep.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 23-year-old woman with childhood epilepsy, nocturnal seizures in the past, seizure-free for 7 years.
+MEDICATIONS:  None.
+INTRODUCTION:  A 40-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  As the patient becomes drowsy, multiple normal variants are noted including rhythmic mid temporal theta of drowsiness.  There are also some asynchronous bursts, as the patient transitions in and out of stage 2 sleep.  Some vertex waves are symmetric, but others have a somewhat asymmetric field of spread.
+Hyperventilation was performed with good effort and produced a single burst of somewhat asynchronous activity with a questionable underlying spike and wave complex.
+Photic stimulation elicited bilateral driving response with a question of a paroxysmal response during photic stimulation on 1 occasion.  This discharge however resembles the patient's drowsy burst that were noted on multiple other occasions.
+Heart rate 72 bpm.
+IMPRESSION:  This is a technically challenging, but likely abnormal EEG in wakefulness through stage 2 sleep due to:
+Asynchronous bursts noted in sleep with a tendency towards an irregularity in the right hemisphere.
+Questionable spike and wave complex during hyperventilation.
+CLINICAL CORRELATION:  This is an extremely sleep deprived record.  Some of the bursts described above may simply have been part of the patient's underlying drowsy burst pattern.  There is a slight asymmetry to the record, which can be seen in the context of an underlying cerebral pathology or it can also be seen with symmetric electrode placement.
+
+
+

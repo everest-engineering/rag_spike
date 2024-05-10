@@ -1,0 +1,14 @@
+LENGTH OF THE RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is a 42-year-old man who presents with history of alcohol abuse and subsequent questionable alcohol withdrawal seizures.  These events started approximately a year and a half ago.  Last such episode occurred approximately 2 months ago.  Of note, as per EEG technologist, patient might have been drinking prior to EEG testing based on the patient's behavior and odor.
+MEDICATIONS:  None listed.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode and single EKG lead.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm is unstable and consists of 8-9 Hz alpha activity.  There is an anterior to posterior frequency amplitude gradient, however, it is weak.  Excess diffuse beta is captured.  During drowsiness, a burst of diffuse delta activity observed.  Hyperventilation is not performed.  Photic stimulation results in no change in the background.  There is frequent various movement artifact throughout the recording that somewhat limits interpretation of the EEG.  Heart rate of approximately 100 beats per minute is captured in a single EKG lead.
+FINDINGS:
+Mild diffuse slowing and disorganization.
+Excess diffuse beta.
+No stage II sleep.
+Frequent various movement artifacts throughout the recording.
+IMPRESSION:  This is a mildly abnormal awake and drowsy 22 minute EEG due to mild diffuse background slowing and disorganization.  This finding indicates etiologically nonspecific mild diffuse cerebral dysfunction.  Excess beta could be secondary to medication such as benzodiazepines or barbiturates.  Frequent various movement artifact throughout the recording somewhat limits interpretation of the recording.
+
+
+

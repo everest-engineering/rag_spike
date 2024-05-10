@@ -1,0 +1,23 @@
+History:	78 year old man presents after a fall, likely syncopal in etiology.  Patient is currently
+agitated.  He is blind at baseline.  CT head showed small post-traumatic SAH.
+Medications:	Keppra for seizure prophylaxis
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy
+Description:
+The background consists of low amplitude diffuse fast activity.  Patient is agitated throughout the
+study, so intermittent movement artifact is captured.  During periods of quiescence, movement
+artifact stops and occasional brief bursts of diffuse slow delta activity appear.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates
+regular heart rate at ~ 100 bpm.
+Summary of Findings:
+No epileptiform discharges
+Interpretation:
+This is an unremarkable 21-minute portable awake and briefly drowsy EEG. The lack of
+epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+
+

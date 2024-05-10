@@ -1,0 +1,26 @@
+History:
+Medications:
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse delta
+with intermixed diffuse alpha- beta frequency discharge.  No normal sleep architecture was
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  HR was 114  Patient had frequent continuous eye movements.
+Summary of Findings:
+Other, diffuse excessive alpha beta
+Diffuse slowing, polymorphic
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing.  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. The intermixed diffuse
+fast activity may be suggestive of a medication effect or may be seen with a midbrain dysfunction.
+
+
+
+
+
+

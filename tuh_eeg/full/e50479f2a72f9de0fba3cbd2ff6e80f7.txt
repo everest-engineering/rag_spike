@@ -1,0 +1,22 @@
+
+History:	92 year old woman who presents with seizures and change in mental status. Medications:	DILANTIN
+Sedation:
+EEG Type: Technique:
+Continuous (inpt, video), 24 hrs
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, drowsy, asleep, lethargic
+Continuous bedside video-EEG  monitoring
+Continuous EEG monitoring was performed for total of -13 hours from 05/01/2015 till 05/02/2015 . Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+Description:
+With stimulation/ during arousals, the background consists of 6-7 Hz polymorphic low amplitude theta activity posteriorly, poor AP gradient and excess polymorphic low amplitude theta and delta activity. During periods of quiescence the background consists of attenuated diffuse delta activity and sleep spindles.
+No electrographic seizures are captured.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate No electrographic seizures
+Interpretation:
+This is an ABNORMAL continuous -13 hour video  EEG due to moderate diffuse slowing and disorganization. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. No electrographic seizures are present. These findings were conveyed to the primary team.
+
+
+
+
+

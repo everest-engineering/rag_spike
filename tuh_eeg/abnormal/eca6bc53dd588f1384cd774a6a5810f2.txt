@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 67 year old male who had an episode of left abdomen and left arm shaking and past history of right sided stroke in 1997, diabetes mellitus, hypertension and abdominal aortic aneurysm.
+MEDICATIONS: Aspirin, Coumadin, Amiodarone, Metoprolol, Enalapril, Zocor, Simvastatin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a rhythmic 7.8 to 8 hertz alpha rhythm and a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by anterior spread of the alpha rhythm and increasing beta. Deeper stages of sleep are not achieved. Photic stimulation does not significantly activate the record.
+HR: 60 bpm irregular
+IMPRESSION: Abnormal EEG due to:
+1. Slowing of the alpha rhythm.
+
+CLINICAL CORRELATION: The slow alpha rhythm with a nonspecific finding supportive of a diffuse disturbance of cerebral function of many different possible causes. This phenomenon can be seen in dementia, but it could also be seen in medication phenomenon. If epilepsy is an important consideration, a follow-up study is suggested.
+
+
+

@@ -1,0 +1,31 @@
+History:	65 YR OLD MALE PRESENTS WITH PRIOR EEG  C/C RT. SIDE RECURRENT
+SEVERE HEADACHES. CVA, SZS. PRESENTS NOW FOR 1 HR STUDY WITH NO
+NEW EVENTS
+Medications:	DEPAKOTE, PHENOBARBITAL, GABAPENTIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes
+Description:
+Waking background is characterized by a 25-40uV, 9Hz alpha rhythm, which is best seen over the
+right hemisphere.   5-15uV, 18-25Hz activity is present, maximal over the right hemisphere.  During
+drowsiness, the background slows to central theta activity, frontal beta activity becomes more
+prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the
+record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K
+Continuous polymorphic delta/theta activity is present in the left hemisphere maximal in the
+anterior temporal region during wakefulness, increasing during drowsiness.  No epileptiform
+discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce any effect.  HR was 54
+Summary of Findings:
+Focal slowing, polymorphic, continuous, left hemispheric, maximal in the anterior temporal
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep 1 hour EEG because of continuous focal slowing
+in the  left hemisphere maximal in the anterior temporal  region.  This finding is indicative of a
+focal structural lesion in this region.  No clinical or electrographic seizures are present.
+
+
+
+
+
+

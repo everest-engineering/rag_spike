@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  38 year old right handed male with bipolar disease, gait disorder and possible seizures.
+MEDICATIONS:  Trazodone, Cymbalta, Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.3 Hz alpha rhythm in what is a relatively low voltage EEG.  Hyperventilation produces a small amount of slowing.  Features of drowsiness include slowing rolling eye movements. Photic stimulation does not significantly activate the record.
+HR:    90 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+Mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:  The slowing of the alpha rhythm may be due to the patient's medications.  No epileptiform features were identified.  If seizures are an
+important consideration, a follow-up study capturing deeper stages of sleep can be considered.
+
+
+

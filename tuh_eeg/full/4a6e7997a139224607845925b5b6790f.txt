@@ -1,0 +1,19 @@
+History: 20 year old man with a recent head trauma with subsequent seizures.
+Medications: none (unable to afford them)
+Sedation:
+EEG Type: Awake & asleep
+Technique: International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40 uV, 10 Hz alpha rhythm, which attenuates symmetrically with eye opening. Fast alpha variant is frequent observed. Symmetric 5-15 uV, 18-25 Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. Prominent POSTS are noted. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear.
+No focal slowing is present. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with fair effort, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) is performed while patient is asleep and does not produce any effect.
+Summary of Findings:
+POSTS (positive occipital sharp transients of sleep)
+Alpha variant, fast
+Sleep, stage 2
+No epileptiform discharges
+Interpretation:
+This is a NORMAL 26-minute EEG, awake, drowsy, and asleep. The lack of epileptiform discharges on a routine EEG does not rule out a diagnosis of epilepsy.
+
+
+

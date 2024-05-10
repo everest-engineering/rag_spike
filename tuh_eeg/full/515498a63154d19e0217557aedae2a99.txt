@@ -1,0 +1,31 @@
+History:	49 year old woman who had two nocturnal episodes in the late 2014 that were
+concerning for seizures.
+EEG from 12/2014 reported presence of subtle 3-5 Hz generalized spike and wave
+discharges.
+Medications:	Keppra
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10.5Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric
+sleep spindles and K complexes appear.  A brief epoch of slow wave sleep is observed.  Bursts of
+diffuse high amplitude 3-5 Hz delta activity are captured during drowsiness and sleep.
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse
+symmetric background slowing and bursts of diffuse 3-5 Hz high amplitude delta activity.  Stepped
+photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple
+Summary of Findings:
+No epileptiform discharges
+Sleep, stage 2
+Interpretation:
+This is a NORMAL 1-hour EEG, awake, drowsy, and asleep. Bursts of high amplitude diffuse delta
+activity are not pathologic.
+
+
+
+

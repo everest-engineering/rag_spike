@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 74-year-old woman with a history of paranoid schizophrenia, atrial fibrillation, hypertension, admitted with nonhemorrhagic stroke, aphasia and right hemiparesis.
+MEDICATIONS:  Cardizem, Tylenol, Protonix, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was somnolent and moaning.
+DESCRIPTION OF THE RECORD:  As the record begins, there is an asymmetry.  The left hemisphere is significantly slower with a mixture of rhythmic data and smaller amounts of delta.  The right hemisphere demonstrates more of an alpha theta pattern rather than a theta delta pattern.  Occasional spontaneous eye movements are noted briefly with an increase in muscle and a glimpse of a 9 Hz alpha rhythm and then the patient drifts back to a drowsy state.  Briefly, she had eyes open but is poorly interactive.
+Heart rate 66 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Continuous focal slowing from the left hemisphere.
+Mild slowing from the right.
+CLINICAL CORRELATION:  The swelling described above is typical of a structural process as one might expect in the context of an acute left hemispheric infarct.  No epileptiform features were identified.  There were no specific hallmarks of any other form of an encephalopathy.
+
+
+

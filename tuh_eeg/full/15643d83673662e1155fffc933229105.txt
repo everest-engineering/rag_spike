@@ -1,0 +1,17 @@
+History:	52 yr old female with pmhx of afib and flutter, congenital heart disease, osa, htn, dm and epilepsy since the age of 12. szs. described as tonic clonic during sleep and awakens with tongue bite, feel slightly confused for a few minutes. presents for seizures
+Medications:	Topamax, Phenobarbital
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, photic
+Description:
+Waking background is characterized by a 25-40uV, 8.5-9.0Hz alpha rhythm, which attenuates symmetrically with eye opening.  Excessive diffuse 5-15uV, 18-25Hz activity is present.  During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes. Occasional polymorphic delta activity is present in the F7/T3 region during wakefulness, increasing during drowsiness.  Single left frontal sharp transient followed by a K complex. Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 72 and irregular.
+Summary of Findings:
+Focal slowing, polymorphic, occasional, left frontotemporal
+Other, left, sharp transient
+Interpretation:
+This is an ABNORMAL awake, drowsy, and sleep EEG because of occasional focal slowing in the left frontotemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.  The single left frontal sharp transient prior to the K complex is of unclear significance. However the morphology is suspicious for a frontal epileptiform discharge and prolonged EEG may aid in clarifying its nature.
+
+
+
+
+

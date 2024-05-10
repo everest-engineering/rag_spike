@@ -1,0 +1,38 @@
+History:	79 YEAR OLD FEMALE WITH POSSIBLE RECURRENT SEIZURE ACTIVITY AND
+STROKE.
+Medications:
+Sedation:	None
+EEG Type:	Continuous (input, video), 24 hrs, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes,
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours. Nursing-initiated event buttons were
+correlated with clinical behavior.  Graphical representation of the EEG was available at the
+bedside and over the hospital network for continuous review by trained nurses and EEG
+technologists.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for
+detection of seizures and changes in EEG patterns.   All automatically detected events were
+reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the
+# Push button events
+Description of pushbutton events
+Description:
+Over the past 24 hours there has been improvement in the record. Initial there was no posterior
+dominant rhythm was present.  The background activity was characterized by diffuse low voltage
+delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.
+However, in time, there is the appearance of a posterior dominant rhythm achieving 8Hz (R>L) and
+a more continuous EEG pattern.  By the end of the recording epoch, the patient is awake
+clinically, responding to commands, and the background shows diffuse slowing in the theta delta
+ranges.  The background is diffusely slow with intermittent attenuation but proceeds to more
+continuous cerebral activity.  Initially there was frontal low voltage alpha activity intermixed with the
+delta and theta slowing. This pattern changes over time.  Minimal normal sleep architecture was
+By the last several hours of the 24 hour epoch, there is evidence of persistent focal slowing (delta)
+over the left hemisphere.  There right hemisphere shows theta activity but some faster activity
+(alpha) as well.  No epileptiform discharges are present.  No clinical or electrographic seizures were
+Hyperventilation and photic stimulation were not performed.  By the end of the recording epoch,
+there was clear reactivity to auditory and tactile stimuli.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, bilateral diffuse
+Focal slowing, polymorphic, continuous, left frontotemporal
+Interpretation:
+This is an ABNORMAL 24 hour video EEG because of diffuse background slowing and absent alpha
+rhythm.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction. The record improved to a persistent and awake pattern showing focal left hemisphere present slowing, which may reflect structural brain injury.  No clinical or electrographic seizures are present. present. These findings were conveyed to the primary team.
+

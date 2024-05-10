@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 42-year-old woman with recurrent episodes of loss of consciousness over the past 5 days, convulsive activity followed by confusion.  No prior history of seizures.  History of depression and anxiety.
+MEDICATIONS:  Neurontin, Xanax, oxycodone, and others.
+INTRODUCTION:  Digital video EEG was performed in lab using a standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.  Technical parameters are satisfactory.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Hyperventilation elicits an increase in amplitude of the background.  Rhythmic temporal theta of drowsiness was noted in the transition to sleep.  Vertex waves, K-complexes, spindles, and Posts were noted in stage II sleep.
+Photic stimulation was performed while the patient was in stage II sleep but did seem to elicit a driving response.  Heart rate 60 bpm.
+IMPRESSION:  Normal electroencephalogram in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  The prominent beta activity described above may be due to this patient's medications.
+
+
+

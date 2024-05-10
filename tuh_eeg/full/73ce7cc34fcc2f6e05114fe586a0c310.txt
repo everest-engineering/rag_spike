@@ -1,0 +1,48 @@
+AGE: 84 y.o.
+SEX: male
+START DATE OF STUDY: 12/12/2015 at 17:17 END DATE OF STUDY: 12/13/2015 at 11:33
+RECORDING ENVIRONMENT: ICU
+EEG TYPE: long term monitoring EEG #: 15-350
+HISTORY:
+84 y.o. male with a history of chronic bilateral subdural hematomas found down by his wife, who witnessed generalized shaking and unresponsiveness.	He was subsequently found to have an enlarged chronic left subdural hematoma. He is now intubated and being weaned off propofol.	He is referred for EEG for management of seizure exacerbation and screening for subclinical seizures.
+MEDICATIONS: Keppra
+SEDATION: propofol TECHNIQUE:
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically limited record, with muscle artifact obscuring the fronto-temporal channels (including Fpl, F7, T3, TS, Fp2, F8, T4, T6). The study included a single channel of EKG.
+DAY 1 (12/12/2015, 17:17 - 12/13/2015, 06:00)
+BACKGROUND:
+The waking background is continuous, symmetric, and consists of poorly-organized delta activity with admixed theta.	Cerebral rhythms over the bilateral temporal chains (see above) are obscured by diffuse high frequency muscle artifact.
+By 22:00 muscle artifact resolves, revealing background of disorganized delta with admixed alpha.
+There is no clear reactivity, variability, or state change. Spontaneous eye blink is present.
+There is severe diffuse slowing. PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+EPILEPTIFORM ACTIVITY:
+None
+EVENTS: No clinical or electrographic events reported or detected EKG: Note is made of an irregular heart beat on a single EKG
+lead.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal, technically limited long term video EEG study due to:
+Severe diffuse slowing with absence of clear reactivity, variability, or state change
+Irregular heartbeat on single EKG lead
+These findings indicate severe diffuse cerebral dysfunction and may at least in part be due to sedating medication (i.e., propofol) .
+Note that cerebral rhythms over the bilateral temporal chains could not be adequately assessed due to muscle artifact until 22:00 on this day.
+An irregular heart beat was captured over a single EKG lead.
+DAY 2 (12/13/2015, 06:00 - 12/13/2015, 11:33)
+BACKGROUND: As day progresses, background becomes reactive and variable and spontaneous eye blinks are present.
+GENERALIZED SLOWING: improves to "moderate"
+FOCAL SLOWING: No sustained difference in frequency or amplitude. There is shifting slowing and attenuation of faster frequencies between the hemispheres.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured an irregular heart beat
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+Background slowing improves from "severe" to "moderate." There is
+evidence of reactivity and variability. Irregular heart beat.
+FINAL IMPRESSION:
+This is abnormal video EEG due to:
+Generalized slowing, improving from "severe" with lack of reactivity/variability/state change to "moderate" with presence of reactivity/variability by day 2.
+Suboptimal background organization
+Shifting slowing and attenuation of faster frequencies between the hemispheres
+Irregular heart beat FINAL CLINICAL CORRELATION:
+These findings indicate the presence of diffuse cerebral dysfunction, improving over the course of the study. Shifting slowing and attenuation between the cerebral hemispheres is consistent with a bilateral independent hemispheric disturbance. There is an irregular heart beat captured on a single EKG lead.
+
+
+

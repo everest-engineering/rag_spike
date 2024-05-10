@@ -1,0 +1,26 @@
+History:	26 year old woman admitted with drug overdose and PEA code.
+Medications:	no AEDs, no sedation
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of burst-to-suppression pattern, with burst-
+to-suppression ratio of ~ 1:1.  Bursts consist of a mixture of polymorphic theta and delta activity.
+Frontal waveforms are higher in amplitude and sharply contoured and are most prominent early in
+the burst.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.  There is no change in the background
+activity to visual, auditory, tactile, or noxious stimuli.  A single EKG lead demonstrates heart rate up
+Summary of Findings:
+Burst-suppression pattern, 1:1
+No reactivity
+Interpretation:
+This is an ABNORMAL comatose 21-minute portable EEG due to 1:1 burst-suppression pattern and
+lack of background reactivity. These findings are etiologically nonspecific indicators of marked
+diffuse cerebral dysfunction.  In post-anoxic injury, these EEG findings correlate with poor chance of
+full neurological recovery.
+
+
+
+
+

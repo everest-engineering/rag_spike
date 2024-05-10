@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 77-year-old male admitted for syncope.  The patient collapsed while walking to the bathroom and had PEA code for 8 minutes on April 10, now with jerking movements.
+MEDICATIONS:  Fentanyl, imipenem.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The initial EEG is markedly slow, low voltage and suppressed with low voltage delta and smaller amounts of theta.  There is some variability in the initial sections of the record with a bit more theta.  Spontaneous arousals were noted with an increase in higher amplitude theta frequency activity.
+Intermittent involuntary jerking of the lower extremities was recorded without ictal change.
+Occasional eye movements were noted without evidence of arousal.
+On one occasion but on a second occasion eye movements were associated with an increase in higher amplitude theta frequency activity.  During that section, involuntary jerk artifact was noted but no epileptiform features were seen.
+Heart rate 90 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing.
+A low voltage pattern.
+CLINICAL CORRELATION:  This EEG is more characteristic of a chronic than an acute encephalopathy.  In this individual with a history of severe anoxic injury, there is some variability.  The myoclonic jerks were not associated with an EEG change.  To place this EEG in the appropriate prognostic context, a bit more information about the events in January 2013 and April 2013 would be necessary.
+
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 51-year-old male with history of generalized tonic-clonic seizures who presents for seizure evaluation.  His last seizure was 2 weeks ago.  His past medical history is significant for schizophrenia and non-Hodgkin lymphoma.
+MEDICATIONS:  Seroquel, phenytoin, Keppra, and zonisamide.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the background activity was characterized by diffuse 6-7 Hz theta activity intermixed with 2-3 Hz delta activity.  There are sharply contoured delta activity noted at times, most pronounced on the right side.  There are occasional sharp and slow wave activity noted in the central and temporal region bilaterally with no evolution.  Photic stimulation was performed at multiple flash frequencies and did not result in a driving response.  Heart rate was 60 to 70 beats per minute.
+IMPRESSION:  This is an abnormal EEG recording due to:
+Diffuse slowing of the background with a delta-theta pattern.
+Occasional sharp and slow wave activity arising from temporal and central region bilaterally with no evolution.
+CLINICAL CORRELATION:  The above findings could be due to toxic, metabolic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to effect of sedating medications or bilateral cerebral dysfunction or degenerative brain disease. The sharp wave seen arising from both temporal and central region are suggestive of epileptogenicity of these areas.  Clinical correlation is recommended.
+
+
+

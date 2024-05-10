@@ -1,0 +1,36 @@
+MEDICATIONS:  Keppra, Topamax, calcium, others.
+
+CLINICAL HISTORY:  This 50-year-old male, status post aneurysm clipping in approximately 1987-88, seizure free for many years, but now with intermittent spells in which he is perhaps inattentive to his mother, and then tells her that he is all right.  Bilateral encephalomalacia.
+
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically unsatisfactory EEG with most impedances below 5 kilo ohms with the exception of the T1-T2 electrodes.  This was a 40-minute EEG capturing wakefulness and sleep.  Hyperventilation and photic stimulation were completed.
+
+DESCRIPTION OF THE RECORD:  The overall EEG is very low voltage, and at times almost featureless.  Much of the recording was at a sensitivity of 3.  The overall background includes a mixture of theta and beta.  Artifacts due to the deformity of the patient's scalp on the left were noted and a breach rhythm with an increase in amplitude of theta on the left was observed.
+
+Photic stimulation elicited questionable supra-harmonic driving.
+
+Hyperventilation produced an increase in amplitude of the background and slightly accentuated the rhythmic slowing on the left frontal region.
+
+Drowsiness was characterized by an increase in the rhythmic slowing in the left frontocentral region and an increase in beta.  Muscle artifact was noted throughout the record.
+
+Heart rate 66 bpm.
+
+IMPRESSION:  Technically challenging, but abnormal EEG due to,
+1. Low voltage pattern.
+2. Generalized background slowing.
+3. In the context of a breach rhythm, left rhythmic frontal slowing.
+
+CLINICAL CORRELATION:  This is one of many EEGs for this individual.  The last 3 EEGs have demonstrated epileptiform activity.  If additional information is needed, consideration for an alternative monitoring strategy may be appropriate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

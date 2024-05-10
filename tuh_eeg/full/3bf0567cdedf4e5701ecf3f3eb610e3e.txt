@@ -1,0 +1,29 @@
+History:	50 year old woman with a history of seizures, who desires to stop seizure
+Medications:	None listed
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+The posterior dominant rhythm consists of polymorphic moderate amplitude 7-9 Hz theta activity.
+The AP gradient is poor.  Diffuse excess polymorphic theta activity is present.  Symmetrical sleep
+spindles and K-complexes are captured.
+Occasional polymorphic theta and delta activity is present over the left anterior temporal region.
+No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at
+multiple flash rates.  A single EKG lead demonstrates heart rat e <60 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, mild
+Focal slowing, polymorphic, occasional, left temporal, anterior, mild-to-moderate
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 28 minute EEG due to mild diffuse slowing and
+occasional focal mild-to-moderate left anterior temporal slowing. Diffuse slowing is indicative of
+mild  diffuse cerebral dysfunction, which is etiologically nonspecific.  Intermittent focal slowing is
+indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in
+origin.  A single EKG lead demonstrates heart rat e <60 bpm.
+
+
+
+

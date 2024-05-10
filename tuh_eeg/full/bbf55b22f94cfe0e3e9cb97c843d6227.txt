@@ -1,0 +1,37 @@
+AGE: 24 y.o.
+SEX: female
+DATE OF STUDY: 09/16/2015 RECORDING ENVIRONMENT: Outpatient
+EEG TYPE: 95819 (1 hour ordered, 24 minutes completed)
+EEG i: 15-1368
+HISTORY:
+24 y.o. female referred for routine EEG for persistent seizures and headaches. Seizures since age 12
+MEDICATIONS:
+Current Outpatient Prescriptions:
+levetiracetam (KEPPRA) 750 mg tablet, Take two tablets twice daily
+topiramate (TOPAMAX) 200 mg tablet, Take 1 tablet by mouth 2 times daily.
+butalbital-acetaminophen-caffeine (FIORICET, ESGIC) per tablet, SEDATION: None
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG, HV and photic stimulation.
+EEG BACKGROUND:
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+Focal slowing is present: noted in wakefulness and drowsiness, with burst of L temporal theta/delta, sometimes reaching 3 seconds duration.
+Generalized slowing is present: occasional bitemporal bursts of delta/theta were seen.
+EPILEPTIFORM ACTIVITY:
+Left temporal sharp waves, Tl/F7 awake and drowsy OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: accentuates L temporal focal slowing Photic Stimulation: elicits bilateral driving
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake-and-drowsy routine EEG.
+l. Left temporal focal slow
+2. Left temporal sharp waves. CLINICAL CORRELATION:
+This abnormal awake-and-drowsy EEG is similar to priors including and supports localization related epilepsy.
+
+
+

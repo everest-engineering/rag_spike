@@ -1,0 +1,33 @@
+History:	60 YO FEMALE WITH AMS. PMHX: COPD, HTN, DM, HLP, GERD, POST HEPATIC
+NEURALGIA. FOLLOW UP EEG TO R/O STATUS/SZ
+Medications:	Propofol stopped on 03/22/2014.
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 42 hours from 03/21/2014  to 03/23/2014.   Nursing-
+initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed
+at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All
+automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  The background improved during the last 12 hours with more theta and at times
+anterior faster frequencies with some organization.  Diffuse, frontally maximal 1Hz sharp waves with
+triphasic morphology are present throughout the recording  .  These waveforms demonstrate an
+anterior to posterior phase lag and are only present in clinical wakefulness or with tactile
+stimulation.  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  HR was 96
+Summary of Findings:
+Diffuse slowing, polymorphic
+Triphasic waves
+Interpretation:
+This is an ABNORMAL EEG because of  frequent frontally-maximal triphasic waves and severe
+diffuse background slowing.  These findings are indicative of a severe diffuse encephalopathy,
+which is etiologically nonspecific, but suggestive of a metabolic origin.
+

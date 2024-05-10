@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 22-year-old male with epilepsy, seizure free for 3 years, but with recent recurrence of seizures.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  A 27-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.7 Hz alpha rhythm reaching amplitudes of 70 microvolts with a small amount of low voltage, frontocentral beta.  There is a modest amount of background theta.  With maximally awake, the overall EEG is reasonably well organized.  There are posterior slow waves of youth.
+Hyperventilation was performed early in the record and elicits bursts of high amplitude rhythmic 3-5 Hz activity some of which includes spike and wave activity.  The bursts are less than 3 seconds in duration.  Following hyperventilation, the patient is drowsy, yawning and as he does so again discrete bursts of spike and wave activity were noted.
+Photic stimulation was performed, while the patient was transitioning into stage 2 sleep with beta spindles and vertex waves and K complexes.  Aside from this there is not a definitive slowed photic driving response.  Likely underlying spike and waves activity is noted in stage 2 sleep, dyshormia.
+Heart rate:  90 bpm.
+IMPRESSION:  Abnormal EEG in wakefulness through stage 2 sleep due to:
+Frontally predominant spike and wave activity accentuated by hyperventilation and drowsiness .
+CLINICAL CORRELATION:  This EEG is similar to previous study April 13, 2013.  This EEG supports a generalized mechanism for epilepsy.  Of note, this patient reported medications, carbamazepine is noted to accentuate this finding.
+
+
+

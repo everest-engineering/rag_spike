@@ -1,0 +1,30 @@
+History:	77 YO FEMALE TO ED WITH SLURRED SPEECH AND RIGHT SIDED WEAKNESS.
+
+PMHX: A - FIB, SYSTOLIC HEART FAILURE, DM, HTN.
+Medications:	KEPPRA, INSULIN, XARELTO, BUMEX, PROTONIX, ENALAPRIL, METOPROLOL
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  hemispheric asymmetry was seen with continuous, polymorphic delta activity and loss
+of faster frequencies over the right hemisphere, most pronounced in the posterior quadrant region.
+No normal sleep architecture was present.
+No epileptiform discharges are present.  No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  Spontaneous variability and reactivity
+to stimulation were noted.  HR 100  EMG and movement artifact were noted in the right leads.
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, marked, bilateral generalized
+Attenuation, bilateral (R>L) diffuse
+Focal slowing, polymorphic, continuous, marked, right hemispheric
+Interpretation:
+This is an ABNORMAL EEG because of  diffuse background slowing and absent alpha rhythm.
+These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. In
+addition,  continuous focal slowing in the right posterior quadrant with attenuation and loss of faster
+frequencies.  This finding is indicative of a focal structural cortical lesion in this region, consistent
+with the patient's history of ischemic stroke.  The lack of epileptiform discharges on a routine EEG
+does not rule out a clinical diagnosis of epilepsy.
+
+

@@ -1,0 +1,30 @@
+AGE: 65 y.o.
+SEX: female
+DATE OF STUDY : 10/06/2015 RECORDING ENVIRONMENT: ICU
+EEG TYPE: 20-40 min, Asleep only EEG #: 15-1465
+HISTORY:
+a 65 y.o. female with a history of pulmonary fibrosis on ECMO machine, who presented with a possible seizure : she became unresponsive, her eyes rolled up, she was shaking, then she became flaccid. She was subsequently intubated.
+MEDICATIONS: FENTANYL 50 MG, ATIVAN 2 MG, SOLU MEDROL, INSULIN, ESBRIET, ZETIA, SYNTHROID, PROTONIX, ZOSYN, VANCOMYCIN, ZOCOR, METOPROLOL
+SEDATION: Ativan as above TECHNIQUE :
+A 21 channel electroencephalogram	(EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND:
+The record is continuous and symmetric but consists entirely of sleep despite stimulation . There are normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and
+K-complexes present during Stage II sleep. Slow wave sleep is not captured.
+The waking background cannot be assessed.
+The presence and degree of generalized slowing cannot be fully assessed as there is no waking background.	No focal slowing is present.
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS:
+There are no clinical or electrographic events captured during this study.
+HEART RATE: A heart rate of 78 bpm is captured on a single EKG lead.
+IMPRESSION / CLINICAL CORRELATION:
+This routine EEG is unremarkable except that the patient remained asleep despite stimulation. The captured sleep contained normal features. Background slowing cannot be fully assessed as the patient remained asleep throughout the study.	These findings may be consistent with sedation or a mild encephalopathy; clinical correlation is advised.
+No clinical or electrographic seizures were reported or detected.
+
+
+
+

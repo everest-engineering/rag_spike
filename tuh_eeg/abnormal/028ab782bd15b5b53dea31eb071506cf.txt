@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 49 year old male with recurrent blackout spells and a history of an aneurysm and a heart attack.
+MEDICATIONS: Lisinopril, ASA
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. There is no mention of a craniotomy defect for this individual.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a high-amplitude, 9.7 hertz alpha rhythm, higher amplitude on the right compared to the left. There is some head rocking artifact picked up bilaterally. Features of drowsiness include anterior spread of the alpha rhythm. Hyperventilation produces an increase in amplitude of the background. Photic stimulation does elicit a driving response. Brief drowsiness is noted at the end of the record with an increase in beta.
+HR: 120 bpm
+IMPRESSION: Normal EEG
+CLINICAL CORRELATION: There are no focal nor epileptiform features noted in the record. The amplitude asymmetry described above is within the range of normal and, consequently, a skull defect may be under-recognized in this context. Additional evaluation for the rapid heart rate during hyperventilation may be appropriate.
+
+
+

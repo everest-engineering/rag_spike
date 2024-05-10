@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 77-year-old woman with a stroke in 2006, and new onset seizures characterized by slurred speech and right hand weakness.
+MEDICATIONS:  Keppra, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  This was a technically challenging and relatively low voltage EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage, but there is an 8.7 Hz alpha rhythm which is symmetric and reactive with a small amount of low voltage, frontocentral beta activity.  Rare focal slowing was noted in the left central temporal region with a small degree of eye artifact which was at times slightly asymmetric.  Photic stimulation elicited bilateral driving.
+A single sharp wave which was potentially an artifact was noted.  This was seen on the left.
+Heart rate 42.
+IMPRESSION:  This was a technically challenging, but very mildly abnormal EEG due to:  Rare subtle focal slowing from the left.
+CLINICAL CORRELATION:  The asymmetric eye movements noted on occasion may be correlated with the patient's face and cranium, but this observation does raise concerns about electrode placement.  No definitive sharp waves were noted.  Additional evaluation for this patient's bradycardia is suggested.
+
+
+

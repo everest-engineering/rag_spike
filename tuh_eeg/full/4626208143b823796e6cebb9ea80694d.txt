@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 69-year-old right handed woman, with right-sided craniotomy, ventriculostomy shunt, and previous stroke, evaluate for subclinical seizures and obtundation.
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  A 40-minute digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient had a prominent craniotomy site and was poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The overall background from the left is low voltage and featureless.  The right hemisphere demonstrates a prominent craniotomy with fast activity and an increase in amplitude.  Sharp waves are noted from the right hemisphere, which can be differentiated from the EKG artifact with variable maximum including right frontocentral and some others that are little bit more posteriors, centroparietal.  There is some rhythmic fast activity noted with the sharp waves.  In some portions of the record, there is more arrhythmic delta activity but in other sections, the EEG demonstrates a clear increase in the epileptiform activity.  The characteristics can include bursts of sharp waves or spikes or an increase in rhythmic theta frequency without mix sharp in the right frontocentral region.
+Tactile stimulation of the patient did not activate the record.  An intermittent beta frequency artifact was noted in the record, which may represent extraneous artifacts.
+Heart rate 84 bpm.
+IMPRESSION:  This is an abnormal 40-minute EEG due to:
+Prominent background slowing from the left.
+Breach rhythm on the right with arrhythmic delta activity.
+Sharp waves and spikes as well as rhythmic delta from the right.
+An ongoing pattern, compatible with a late status epilepticus pattern with rhythmic repetitive sharp waves in theta in an unresponsive patient.
+CLINICAL CORRELATION:  Pattern c/w late status epilepticus pattern with rhythmic repetitive sharp waves in theta in an unresponsive patient.
+Based on these findings, this patient will go on to continuous video EEG monitoring.
+
+
+

@@ -1,0 +1,30 @@
+:
+History:	54 year old woman with a sleep disorder and migraines.
+Medications:	Meloxicam, Klonopin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over
+bilateral frontal regions.  During drowsiness, the alpha rhythm attenuates, and 5-7Hz slow waves
+appear diffusely, followed by symmetric vertex waves.
+Occasional independent bursts of polymorphic theta activity are noted over the bitemporal regions.
+These bursts have appearance similar to the activity noted during drowsiness.  No epileptiform
+discharges are present.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+induces symmetric photic driving at various flash rates.
+Summary of Findings:
+No epileptiform discharges
+No stage 2 sleep
+Beta, excessive
+Interpretation:
+This is probably NORMAL awake and drowsy 25-minute EEG. Independent bursts of bitemporal
+slowing likely represent intrusions of drowsiness into wakefulness rather than true focal bitemporal
+slowing.  A repeat EEG with more prolonged sleep may be of benefit.  Excessive beta activity could
+be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+
+
+

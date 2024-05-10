@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 65 -year-old woman with 2 previous strokes, right-sided weakness.  The patient had an episode with loss of consciousness and had persistent confusion and cognitive slowing.
+MEDICATIONS:  Keppra, Zocor, simvastatin, metoprolol, others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible.  Photic stimulation was completed.  This was an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a dynamic pattern. As the EEG begins, the overall pattern is diffusely slow and poorly organized.  There are bursts of high amplitude, generalized transients followed by brief attenuations. In addition, there is a subtle asymmetry with disruption of faster frequency activity on the left compared to the right.  Stimulation of the patient enhances that asymmetry. An alpha rhythm appears on the right of approximately 8 Hz with slower activity on the left.  When the patient is unstimulated, she drifts back into a drowsy pattern. In later portions of the record, this is a lower voltage more featureless pattern.
+Photic stimulation was attempted and was complicated by significant photoelectric artifact.  It serve to alert the patient but there was no definitive driving response.  Heart rate 84 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized slowing and disorganization.
+Focal slowing on the left with disruption of faster frequency activity as well as more slow theta and delta.
+Metabolic features with intermittent higher amplitude paroxysmal  discharges followed by attenuation.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function but one that involves both gray and white matter on the left, more significantly than the right. No epileptiform features were identified.
+
+
+

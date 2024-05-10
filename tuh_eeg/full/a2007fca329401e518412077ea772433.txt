@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 73-year-old, status post CABG, COPD, non-Hodgkin's cell lymphoma, Sjogren's disease, evaluate for obtundation.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This was intubated comatose patient.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow with slow arrhythmic delta.  There are intermittent, generalized attenuations noted in the background.  Some sections of the record have a bit more rhythmic theta than others and there is some shifting asymmetries noted.  Tactile stimulation of the patient clearly produces an increase in faster frequency activity.
+Heart rate:  Irregular 162 beats per minute.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Marked background slowing.
+Intermittent attenuations.
+CLINICAL CORRELATION:  This EEG supports a severe diffuse disturbance of cerebral function, but is nonspecific in etiology.  A toxic or metabolic encephalopathy may appear this way.  The presence of reactivity and variability are positive prognostic features.
+
+
+

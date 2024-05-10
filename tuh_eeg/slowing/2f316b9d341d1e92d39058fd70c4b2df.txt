@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  The patient is a 49-year-old man with a past medical history of HIV, being noncompliant with medications, as well as a gunshot wound.  He now presents with 3 witnessed seizures, and he remains unresponsive.
+MEDICATIONS:  Keppra.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  The background consists of polymorphic low to moderate amplitude mixture of theta, delta, and alpha.  Intermittent diffuse sleep spindle-like complexes and K-complexes are captured.  Additionally, there is voltage attenuation over the right midtemporal leads.  Also an increased amount of theta and delta are captured over the right hemisphere.  Hyperventilation and photic stimulation were not performed.
+FINDINGS:
+Moderate diffuse slowing.
+Disorganization.
+Voltage attenuation over the right midtemporal region.
+Focal slowing over the right hemisphere.
+No electrographic seizures.
+IMPRESSION:  This is an abnormal 22-minute EEG due to moderate diffuse slowing, disorganization, slowing over the right hemisphere, and focal voltage attenuation over the right mid-temporal leads.  Diffuse slowing and disorganization indicate etiological nonspecific moderate diffuse cerebral dysfunction that in this case could partially be related to the medication effect.  Focal right hemispheric slowing could be seen in the setting of focal structural abnormality.  Voltage attenuation observed over the right temporal region could be secondary to a fluid collection between the electrodes and the brain, such as subdural hematoma, epidural hematoma, empyema, or hygroma.  No clear electrographic seizures are captured.
+
+
+

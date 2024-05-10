@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  28 year old right handed male, simple partial seizures since teenage years recurring as an adult.
+MEDICATIONS:  Tegretol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+The patient had missed his medication on the morning of the study and experienced one of his typical clinical events during this EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background includes a 10 Hz alpha rhythm.  On rare occasions there is a burst of subtle underlying delta noted bilaterally during hyperventilation.  This is a bit more posterior than might be expected.
+Seizure is observed at 08:42:36.  The patient is relaxing after hyperventilation. Prior to the seizure, there is a low voltage beta discharge, maximum at F2 at 8:42:30. He looks to the right.  He looks at the tech.  There is a little bit of facial automatisms and very subtle jerking of the upper extremities, which seem to be right hand more than the left.
+The first sharp wave associated with this discharge is at 08:46:36 and the overall initial 8 seconds of the seizure seem to be maximum at FZ and CZ, but with a little bit more of a predominance to the left of the midline. The jerking of the extremities is associated with some muscle artifact is about 6 Hz.  The total duration of the event is 8 seconds in duration.
+The patient reports that he felt these symptoms coming on, although he does not indicate this to the technologist until the even is over and he describes experiencing the event with tingling in his hands.  Afterwards, the EEG demonstrates a normal awake pattern and by 08:42:57 the EEG has returned to its baseline. Photic stimulation elicits bilateral driving.  Drowsiness is characterized by attenuation of the alpha rhythm.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Clinical seizure characterized by right eye and head deviation and jerking of the upper extremities, which on the video seems to be a bit more in the right arm.
+CLINICAL CORRELATION:  This is diagnostic of epilepsy.  This is a somewhat unusual location for a seizure and it seems to be more midline.The patient recalls tingling in the fingers, congruent with the beta discharge 8 seconds before the seizure.
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 70 year old male with a seizure following a stroke.
+MEDICATIONS: Keppra, ASA, Doxazosin, Zocor, Simvastatin, Amlodipine, Atenolol
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not performed but photic stimulation was completed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9Hz alpha rhythm which is symmetric and reactive to eye opening. Drowsiness is characterized by an increase in beta and photic stimulation elicits no driving.
+HR: 72 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No epileptiform features are observed. Normal EEG does not exclude a diagnosis of epilepsy. In comparison to the previous EEGs, there is no longer background slowing or disorganization.
+
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 56 year old male with bipolar disease, stroke, pyelonephritis, evaluate for encephalopathy.
+MEDICATIONS:  Haldol, Zosyn, Insulin, Lispro, Clotrimazole, Protonix, Lipitor
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is relatively somnolent.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is slow and disorganized.  There is a subtle asymmetry in that the alpha rhythm is a bit more vigorous on the right in comparison to the left.  Wicket activity is noted.  Vertex waves are observed in sleep.  As the patient transitions in and out of sleep, there is a subtle asymmetry with a bit of focal slowing in the left posterior quadrant.
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+A slow and disorganized pattern.
+Two different focal features, the first being intermittent disruption of the alpha rhythm on the left with left occipital focal slowing.
+Occasional sharply contoured slowing or focal delta in the right midtemporal region.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  No epileptiform features were observed.  Overall, the EEG is most compatible with a bihemispheric process which may be chronic or acute.
+
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 33-year-old right-handed woman with epilepsy since 2009.  Previous EEGs at an outside hospital.  Migraine headaches.  No description of seizure provided.
+MEDICATIONS:  Topamax.
+INTRODUCTION:  A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a technically acceptable EEG in a very drowsy patient.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm.  In drowsiness, there is an increase in background theta.  Deeper stages of sleep were not achieved.  Hyperventilation produces a small amount of theta.  Photic stimulation elicits vigorous driving with harmonic and supraharmonic driving.
+Heart rate: 84 bpm.
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  The patient's previous EEGs were not available for comparison.  A normal EEG does not exclude a diagnosis of epilepsy.  If to provide further information, either comparison with previous studies or a more prolonged study capturing sleep may be of value.  Of note, although the patient did not reach deeper stages of sleep, she seems to be very drowsy during the record.
+
+
+
+
+

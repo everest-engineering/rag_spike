@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  This is a 21-year-old male with mental retardation, seizure free since 2008.  Seizures are characterized by staring spells and foaming at the mouth with spasticity in the right arm.  This is a followup EEG.
+MEDICATIONS:  Tegretol and Risperdal.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake EEG recorded in a wheelchair for a patient who had problems with head control.
+TECHNICAL:  There was a great deal of muscle artifact.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG demonstrates a low-voltage feature of pattern with scant beta.  The normal morphologies of wakefulness including a posterior dominant rhythm were not seen.  The patient was moving almost continuously throughout the EEG.
+Photic stimulation did not activate the record.
+Frequent eye movement artifact was noted.
+HEART RATE:  108 bpm
+IMPRESSION:  This is a technically challenging but abnormal EEG due to:
+Paucity of normal wave forms expected for an adult of this age.
+Low-voltage featureless pattern.
+CLINICAL CORRELATION:  This is the second EEG for this adult without epileptiform activity.  In a seizure free individual, consideration for medication reduction may be of value.
+
+
+

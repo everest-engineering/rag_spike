@@ -1,0 +1,64 @@
+AGE: 78 y.o.
+SEX: female
+START DATE OF STUDY: 09/23/2015 at 16:48 END DATE OF STUDY: 9/25/2015 at 15:14 RECORDING ENVIRONMENT: ICU
+EEG TYPE: LTM, coma study EEG #: 15-261
+HISTORY:
+a 78 y.o. Female with small bowel obstruction , sepsis, rapid atrial fibrillation, and worsening hypotension referred for LTM for altered mental status.
+MEDICATIONS: norepinephrine, dopamine, phenylephrine, pipercillin-tazobactam
+SEDATION: None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+Events were marked by the clinical staff. All clinical events as well as extensive random background samples including wakefulness, drowsiness, and sleep were reviewed.
+DAY 1 (9/23/2015, 16:48 - 9/24/2015, 08:00) BACKGROUND:
+The background is symmetric and continuous and consists of
+diffuse delta without admixed faster frequencies.
+There is no clear reactivity, state change, or variability. PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : None.
+EPILEPTIFORM ACTIVITY: Rare (<1 hour) left hemispheric sharp waves, broadly distributed
+EVENTS: No clinical or electrographic events were reported or Detected.
+OTHER: Note is made of an irregular heart rate in a single EKG lead.
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+This is an abnormal long term video EEG due to:
+Severe generalized slowing
+Background disorganization
+Rare left hemispheric sharp waves, broadly distributed
+Note is made of an irregular heart rate in a single EKG lead.
+These findings are consistent with severe diffuse cerebral dysfunction with left hemispheric epileptogenic potentials . There are no clinical or electrographic seizures reported or detected. Note is made of an irregular heart rate in a single EKG lead.
+DAY 2 (9/24/2015 08:00 to 9/25/2015 08:00) BACKGROUND: none
+GENERALIZED SLOWING: no change FOCAL SLOWING: none
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) :none SPORADIC EPILEPTIFORM ACTIVITY:
+Rare left hemispheric sharp waves, broadly distributed
+Rare independent right hemispheric sharp waves, broadly distributed
+As the day progresses, there is development of occasional diffuse sharp waves. During periods of arousal, these become periodic at 1.5-2 Hz, without evolution, for periods of 5 min to 45 min (stimulus-induced rhythmic periodic discharges or
+SIRPIDs) .
+OTHER: Note is made of an irregular heart rate in a single EKG lead.
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+Same as day 1, with the addition of:
+Rare right hemispheric sharp waves (independent of left temporal sharp waves), broadly distributed
+Development of occasional diffuse sharp waves . During periods of arousal, these become periodic at 1.5-2 Hz, without evolution, for periods of 5 min to 45 min (stimulus-induced rhythmic
+periodic discharges or SIRPIDs).
+There are no definite electrographic seizures.
+DAY 3 (9/25/2015, 08:00 - 9/25/2015, 15:14)
+BACKGROUND: background is slightly less attenuated
+GENERALIZED SLOWING: no change
+FOCAL SLOWING: no change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM) : none
+SPORADIC EPILEPTIFORM ACTIVITY: no change from Day 2 OTHER: heart rate less irregular on this day
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+Slight improvement in degree of background slowing
+FINAL IMPRESSION:
+This is an abnormal video EEG due to:
+Severe generalized background slowing, with slight improvement on day 3
+Background disorganization
+Rare left hemispheric sharp waves, broadly distributed, seen on days 1 and
+Rare independent right hemispheric sharp waves, broadly distributed, seen on day 2
+Development of occasional diffuse sharp waves, which become periodic during periods of arousal on days 2-3 (stimulus-induced rhythmic periodic discharges or SIRPIDs) .
+Irregular heart rate in a single EKG lead
+CLINICAL CORRELATION:
+These findings are consistent with severe diffuse cerebral dysfunction, with slight improvement by day 3 of the study. There are rare epileptiform potentials seen independently over both hemispheres; these are not seen on day 3.	During days 2-3, the background became reactive, with stimulus-induced rhythmic periodic discharges at 1.5-2 Hz; these discharges did not definitely evolve into electrographic seizures but do signify cortical hyperexcitability.
+
+
+
+
+
+
+

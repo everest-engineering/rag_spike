@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 41-year-old woman with migraine headaches, dizziness, possible stress-related seizures, past history of pituitary cyst, empty sella, schizophrenia, bipolar disease, and other problems.
+MEDICATIONS:  Carbamazepine, Pamelor, and asthma medications.
+NEUROLOGICAL HISTORY:  A 2.5 year history of stress-induced seizures.  When patient feels stress, she tries to get away.  Patient may be __________, but cannot talk, snacks her tongue, loses volitional movements.  Can hear others, but finds herself to be staring and blinking.  May lose control of her bowels, but has baseline urinary and fecal incontinence issues.
+INTRODUCTION:  20 minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is likely stage 2 sleep record, which was a technically satisfactory with most impedances below 5 kilohms.
+DESCRIPTION OF THE RECORD:  A maximal wakefulness, there is an 11 Hz alpha rhythm with a generous amount of low voltage, frontal central beta.  Lambda was noted in sections of the record.  Abundant stage 2 sleep was characterized by vertex waves, K complexes, spindles, and posts.
+Hyperventilation was performed with good effort and was followed by drowsiness.  Hyperventilation did not significantly activate the record.
+Photic stimulation was performed while the patient was drifting in and out of stage 2 sleep, but there was scant driving.
+Heart rate 96 bpm.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, additional testing may be of value.
+
+
+

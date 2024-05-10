@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   21 year old right handed woman with headaches 3-5 times per week associated with memory loss.  Concussion at age 14.
+MEDICATIONS:  Singular, Prilosec, Zantac, Meloxicam, Depo-Provera.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was performed, as was photic stimulation.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 12 Hz 50 mV posterior dominant rhythm with posterior slow waves of youth. Features of drowsiness include slow rolling eye movements, an increase in theta, followed by rhythmic slowing.  Sleep is relatively fragmented. Hyperventilation produces a small increase in amplitude of the background. Photic stimulation elicits a driving and a supraharmonic driving response.
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  Posterior slow waves of youth are a normal variant.  No epileptiform features were identified.
+
+
+

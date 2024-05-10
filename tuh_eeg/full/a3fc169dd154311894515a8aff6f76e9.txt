@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 21-year-old with epilepsy since age 12.  Most seizures occur during sleep.  Seizures are usually tonic-clonic with postictal confusion, but 3 weeks ago, she had an episode of tongue biting, shaking, and confusion.
+MEDICATIONS:  Keppra and Topamax.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  There is a scant amount of background theta and a scant amount of disorganization for an adult of this age.
+In relaxed wakefulness and hyperventilation, there are 2 bursts of sharply-contoured slowing from the left temporal region.
+Photic stimulation did not significantly activate the record.
+Heart rate 72 BPM.
+IMPRESSION:  This is a mildly abnormal EEG due to:
+Very mild background slowing and disorganization.
+Scant excess theta.
+Two bursts of focal slowing noted from the left temporal region, one in relaxed wakefulness and again with some subtle focal slowing from the left temporal region noted in hyperventilation.
+CLINICAL CORRELATION:  The subtle features described above are supportive of a structural or functional abnormality on the left.  The background disorganization is quite modest and may be correlated with medications and the patient's clinical history.  A more prolonged EEG capturing sleep is suggested to more completely assess this patient for epileptiform activity.
+
+
+

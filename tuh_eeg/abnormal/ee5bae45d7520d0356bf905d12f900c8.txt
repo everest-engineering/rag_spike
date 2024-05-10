@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 71-year-old male status post cardiac arrest on the third, acute renal failure.  The patient was treated with hypothermia.  History of hyperlipidemia, gout, and anxiety.
+MEDICATIONS:  Fentanyl drip, Decadron, antibiotics, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  Impedances were acceptable with the exception of T1 and T2 electrodes.  The patient was intubated, comatose, but not hypothermic.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, but continuous, pattern with delta and smaller amounts of theta and beta.  There is a slight asymmetry in that there is a little bit more slowing on the right compared to the left.  Occasional lower voltage bursts of frontal delta were observed.
+Tactile stimulation of the patient on one occasion produced a slight attenuation of the background, but on another occasion produced an increase in theta.
+Heart rate:  60 BMP.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Intermittent attenuations in the background.
+CLINICAL CORRELATION:  For this individual 48 hours status post cardiac arrest there are positive prognostic features in that this is a continuous EEG with smaller amounts of theta.  In addition, reactivity was noted.  If clinically indicated, a follow up EEG may be of value, but overall the presence of a continuous EEG with reactivity is a positive prognostic finding.  In addition, in that this is a patient who was sedated, the findings described above should be interpreted with caution.
+
+
+

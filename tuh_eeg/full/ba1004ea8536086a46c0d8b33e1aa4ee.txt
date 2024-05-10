@@ -1,0 +1,19 @@
+History:	56 year old who presents with new onset seizures and change in mental status.
+Medications:	KEPPRA, 2MG ATIVAN IV PUSH
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 24 hours from 08/13/2014 to 08/14/2014.   Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+Description: There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The background over the left hemisphere consist of low-to-moderate amplitude well formed and regulated 10 Hz PDR with preserved AP gradient.  The background over the right hemisphere is attenuated, especially over the lateral leads; PDR is unstable and fragmented at 9-10 Hz with poor AP gradient.  Additional polymorphic delta activity is present over the right temporal and right occipital  regions.  During sleep symmetrical vertex waves and sleep spindles are noted. 4 focal ~ 5min seconds - 7 minutes long seizures are captured from 9:30AM to 11:30AM.  Four seizures have no clear clinical correlate.  During one he is able to talk with his family.  All the seizures appear to be right occipital in onset. They begin with a nice beta pattern that evolves into rhythmic tetha sharps and continues to slow down until it suddenly stops. It has some spread over the temporal lobe.  Occasional  focal  sharp waves are present with phase reversal and amplitude Hyperventilation and photic stimulation are not performed.
+HR was 66
+Summary of Findings:
+Seizure, few, right occipital
+Interpretation: This is a very abnormal awake and asleep 24 hours EEG due to seizures from the right occipital lobe which resolved. There is focal epileptogenic structural abnormality in the right occipital region, likely cortical. In addition there is  frequent epileptiform discharges in the left posterior temporal region.  These findings are indicative of a potentially epileptogenic focus in this region.
+
+
+
+
+

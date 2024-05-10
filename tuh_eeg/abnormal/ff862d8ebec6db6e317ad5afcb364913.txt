@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  The patient is a 58-year-old female with episodes of seizure-like activity.  When she tried to get up, had shaking of left arms followed by shaking of her right upper and lower extremities for a minute.  This was followed by post event confusion for 5 minutes.
+PAST MEDICAL HISTORY:  Significant for diabetes, hypertension, and cervical stenosis.
+MEDICATIONS:  Includes Keppra, Motrin, and insulin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with addition of T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 9-10 Hz in frequency seen in the occipital region, which attenuated with eye opening.  There was presence of low-amplitude frontocentral beta activity, which was distributed symmetrically.  There were occasional bursts of focal slowing in the left anterior and mid temporal region consisting of 2.5-3 Hz delta frequency lasting for 1-2 seconds.  Drowsiness was characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact.  No epileptiform activity or seizures captured in this study.  Heart rate was 60 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording capturing wakefulness through drowsiness due to occasional bursts of focal slowing in the left anterior and mid temporal regions during wakefulness and drowsiness.  No epileptiform abnormalities were identified in this recording.
+CLINICAL CORRELATION:  Focal slowing in the left hemisphere suggestive of a structural abnormality in the left hemisphere or left temporal dysfunction.  No epileptiform abnormalities or seizures were seen in this recording.  This does not rule out the diagnosis of epilepsy or of intermittent seizures.  If seizures are a clinical concern, a repeat sleep-deprived EEG or a 24-hour video EEG monitoring may be helpful.
+
+
+

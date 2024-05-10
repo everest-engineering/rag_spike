@@ -1,0 +1,47 @@
+
+History:	49 YR OLD FEMALE PRESENTS WITH H/O  BRAIN MASS, NEW ONSET SZ, LT
+SIDE FLACCID. PMHX SIG FOR HIV, HEP C
+Medications:	Versed, Keppra, Dilantin and Ativan given after the start of the record.
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, asleep, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 30 hours from 04/04/2015 to 04/06/2015. Nursing-
+initiated event buttons were correlated with clinical behavior.   Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events
+None
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.  Frontally predominant intermixed  5-10uV, 18-25Hz activity is also seen.  Intermittent
+periods  diffuse attenuation seen for 1-3 seconds.  No normal sleep architecture was present.
+No focal slowing is present.  Electrographic seizures are recorded beginning with rhythmic
+delta/theta activity in the posterior temporal region and evolving into 14 Hz activity that remains
+over the temporal lobe with some anterior spread. The seizures last about 2 to 3 minutes.  There
+was no clinical correlate associated to this EEG activity documented on video. The seizures stop 45
+minutes into the record after ativan was given. The rest of the record reveals  Periodic lateralized
+epileptiform discharges (PLEDs) are present in the T6 region at a rate of0.3 to 0.7Hz. However this
+have a polyspike morphology and at time occur with 2-3 discharges in one second.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory,
+tactile, or painful stimuli.  Hr was 96
+Summary of Findings:
+Diffuse slowing, polymorphic, continuous, moderate diffuse
+Status epilepticus, right temporal, posterior
+PLEDs (periodic lateralized epileptiform discharges), continuous, right temporal, posterior
+Interpretation:
+This is an ABNORMAL EEG because of  frequent focal electrographic seizure arising from the right
+posterior temporal region.  These findings are indicative of an epileptogenic focus in this region,
+and are consistent with focal subclinical status epilepticus. This resolves after ativan is
+administered. The PLEDs are consistent with an acute irritable cortical focus in that region. In
+addition there is  diffuse background slowing and slow alpha rhythm.  These findings are
+etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+
+
+
+
+
+

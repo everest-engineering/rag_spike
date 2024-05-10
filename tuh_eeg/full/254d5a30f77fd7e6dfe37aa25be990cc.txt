@@ -1,0 +1,33 @@
+History:	70 year old male evaluated for an episode of sudden onset dizziness and near
+syncope. He has a history of seizures at the age 19 years old.  He was treated for
+one year and he has been seizure- free since then.
+Medications:	Hydrocodone
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG
+electrodes, awake, drowsy, photic
+Description:
+Waking background is characterized by low -to-moderate amplitude 10-10.5Hz alpha rhythm, which
+attenuates symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present,
+maximal over bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-
+7Hz slow waves appear diffusely.
+Intermittent polymorphic theta and delta activity is present in the bitemporal region during
+wakefulness, increasing during drowsiness.  This delta and theta activity is more pronounced over
+the left temporal region and is also present over the left central region.  No epileptiform discharges
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps)
+does not produce additional abnormalities.  A single EKG lead demonstrates heart rate of ~ 60
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, mild, bilateral temporal
+Focal slowing, polymorphic, intermittent, left, temporal and central, mild-to-moderate
+No stage 2 sleep
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and drowsy 42-minute EEG due to intermittent mild-to-moderate left
+temporal and central focal slowing. This finding is indicative of focal cerebral dysfunction, which is
+etiologically non-specific, but possibly structural in origin.  Bitemporal slowing that is also seen in
+this patient is not a pathological finding since certain degree of bitemporal slowing is considered
+normal in individuals over the age of 65 years old.  No epileptiform discharges are present, but
+stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may
+
+
+

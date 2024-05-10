@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 59 year old woman with early onset and aggressive Alzheimer disease, now with myoclonus, loss of balance and stiffening.
+MEDICATIONS:  Namenda, Seroquel
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has a great deal of difficulty cooperating.
+DESCRIPTION OF THE RECORD:  Underneath the muscle and movement artifact, this is a relatively featureless, slow EEG. There are some myoclonic jerk or muscle jerk movements. There is a pattern of more rhythmic diffuse theta-delta. There are some posteriorly predominant bursts of delta. Using a referential montage, the delta may begin frontally and then transition to a more posterior nature. There is a single C4 sharp wave.
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with a theta-delta pattern.
+Myoclonic jerks which produced muscle artifact.
+Likely focal sharp waves from the right hemisphere.
+Some quasi-periodic delta which is poorly localized with this challenging study.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function which my be toxic or metabolic or related to a neurodegenerative
+disorder.  The sharp waves and the poorly defined periodic activity is concerning.  Additional EEG recording was requested as a result of this.
+
+
+

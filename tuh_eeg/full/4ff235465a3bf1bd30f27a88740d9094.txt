@@ -1,0 +1,46 @@
+History:	81 year old man with metastatic melanoma status post recent right frontal
+craniotomy, now presents with confusion and aphasia.
+Medications:	Keppra, phenytoin, versed IVP
+Sedation:
+EEG Type:	Continuous (input, video), 24 hrs
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake,
+drowsy, asleep
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for ~ 23 hours from 12/25/2013 till 12/26/2013.
+Nursing-initiated event buttons were correlated with clinical behavior.  Ongoing raw EEG data was
+reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG
+patterns.   All automatically detected events were reviewed in detail by the attending neurologist.
+The Gotman spike and seizure detection algorithm (Stellate) was used to screen the EEG in real
+time for electrographic seizures and interictal epileptiform discharges.
+# Push button events
+Description of pushbutton events
+Description:
+There is right to left interhemispheric asymmetry with slower waveforms over the right.  There is no
+PDR and no AP gradient.  The background consists of a mixture of polymorphic theta and delta
+activity with under riding fast activity.  Theta and delta activity is more prominent over the right
+hemisphere.  Periods of quiescence are present with some normal sleep architecture seen early in
+Recurrent electrographic seizures are captured.  Their frequency increases significantly after ~
+11:35 AM, with highest seizure frequency of ~ 9-10 seizures per hour.  They start with delta activity
+over the right midtemporal region.  This activity becomes more rhythmic and evolves into frank ~2
+Hz rhythmic spikes with after going slow waves with maximal scalp negativity over T4/C4 electrodes
+(example at ~12:33 PM).  Seizure duration is ~2-3 minutes on average.  There is no obvious
+clinical correlate and patient is not tested formally during any of these events.  Between ~5 pm and
+9 pm, seizures stop.  After 9 pm, they recur at the frequency of ~ 5 seizures/ hour.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate
+Focal slowing, polymorphic, continuous, moderate, right hemispheric
+Seizure, frequent, right temporal, mid, up to 10 seizures per hour
+Interpretation:
+This is an ABNORMAL continuous 23-hour video EEG due to diffuse slowing that increases as the
+recording progresses, continuous focal right hemispheric slowing and intermittent right hemispheric
+(right midtemporal onset) seizures that at times occur up to 10 times per hour and last on average
+2-3 minutes.  Diffuse slowing is indicative of diffuse cerebral dysfunction, which is etiologically
+
+the recording. nonspecific.  Increase in the degree of diffuse slowing in the course of the recording is likely
+secondary to the  medication effect.  Focal right hemispheric slowing and seizures indicate focal
+cerebral dysfunction, likely structural in etiology and is consistent with patient's history of metastatic
+cerebral disease.  When compared to the prior recording epoch, this EEG demonstrates frank focal
+status epilepticus.  These findings were conveyed to the neurology consult team and the primary
+team.
+
+

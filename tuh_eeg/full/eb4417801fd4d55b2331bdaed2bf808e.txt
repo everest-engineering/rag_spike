@@ -1,0 +1,27 @@
+History:	56 YR FEMALE WITH CHANGE IN MS. AND WITNESS GTC SZ. PMHX: SZ, SCHIZOPHRENIA,
+PT IS WELL KNOWN PT TO NEURO. MISSES CLINIC APPT.   PT HAIR MATTED (ALWAYS MATTED HEAD, NOT MEASURED, ELECTRODES GUESSED)
+Medications:	LACOSEMIDE, KEPPRA, PHENOBARBITAL, ATIVAN
+Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, asleep, lethargic, obtunded
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for hours from 03/23/2015 to 03/25/2015. Nursing-initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns. All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events	0
+Description of pushbutton events None
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+Nearly continuous polymorphic delta activity is present in the left hemisphere. Occasional focal spike-, polyspike and sharp waves are present with phase reversal and amplitude maximum at F7, F8, F4 and C4. Some have a very large field spreading bilaterally frontally maximal with a polyphasic complex morphology. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, tactile, or painful stimuli.  Hr was 120
+Summary of Findings:
+Sharp waves, frequent, bilateral frontal
+Sharp waves, frequent, bilateral temporal, anterior
+Focal slowing, polymorphic, nearly continuous, left hemispheric Diffuse slowing, polymorphic, continuous, severe diffuse
+Interpretation:
+This is an ABNORMAL EEG because of frequent epileptiform discharges in the bilateral frontal region and anterior temporal regions. These findings are indicative of a potentially epileptogenic foci in these regions. In addition there is nearly continuous focal slowing in the left hemisphere region. This finding is indicative of focal cerebral dysfunction,which is etiologically non-specific, but possibly structural in origin
+or may be a post ictal effect. Lastly there is severe  diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators	severe diffuse cerebral dysfunction.
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  37 year old female with epilepsy.
+MEDICATIONS:  None
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz 50 microvolt alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsy is characterized by an increase in amplitude of the background as well as hypersynchronous rhythmic slowing.  Hyperventilation does not significantly activate the record, but photic stimulation does elicit a driving response.  The patient drifts off to sleep in the very final sections of the record.
+HR:    90 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow-up study may be obtained.  No previous EEGs were available.
+
+
+

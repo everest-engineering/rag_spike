@@ -1,0 +1,37 @@
+AGE: 63 y.o.
+SEX : female
+DATE OF STUDY: 12/29/2015
+RECORDING ENVIRONMENT: outpatient
+EEG TYPE : 20-40 min, awake and asleep EEG #: 15-1868
+HISTORY :
+63 y.o. female presents following a first time seizure that occurred 12/23/15 - she reported LOC while driving without recall of event , +postictal confusion, +tongue biting ; she is now referred for routine EEG for characterization of seizures.
+MEDICATIONS : no AEDs
+SEDATION : None TECHNIQUE:
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with Tl/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation .
+EEG BACKGROUND :
+The waking background is characterized by the presence of a well organized symmetric mixture of alpha and beta frequencies, with mild excess of sharply contoured theta frequencies, and a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR) . The normal anterior-to-posterior gradient of frequency and amplitude is present .
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse background slowing with bursts of sharply contoured theta are seen.
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+Mild generalized slowing is present.
+Frequent sharply contoured left temporal polymorphic slowing is present, activated by drowsiness.
+EPILEPTIFORM ACTIVITY:
+Occasional left fronto-temporal sharp-and-wave complexes (F7, Tl > T3 max) are seen in drowsiness
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+ACTIVATION PROCEDURES:
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces mild diffuse symmetric background slowing.
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving, which is a normal finding.
+EVENTS :
+There are no clinical or electrographic events captured during this study.
+HEART RATE:
+A heart rate of 66 bpm is captured on a single EKG lead.
+IMPRESSION:
+This is an abnormal awake and asleep routine EEG due to:
+Mild generalized slowing
+Frequent sharply contoured left temporal polymorphic slowing
+Occasional left fronto-temporal sharp-and-wave complexes (F7, Tl > T3 max)·
+CLINICAL CORRELATION:
+These findings indicate the presence of left fronto-temporal epileptogenic discharges superimposed on left temporal dysfunction and mild diffuse cerebral dysfunction.
+
+
+

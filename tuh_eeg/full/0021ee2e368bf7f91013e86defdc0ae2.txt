@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  49 year old right handed gentleman with history of atrial fibrillation, multiple bilateral infarcts including right MCA left frontal, status post tonic/clonic seizure for the last 11 months.  Last seizure was 48 hours ago.
+MEDICATIONS:  Keppra, Pradaxa, Simvastatin, Lisinopril, Metoprolol, Protonix, Glyburide, Miralax
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  There is no hyperventilation nor photic stimulation performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG includes an 11 Hz alpha rhythms with some 9 Hz activity as well.  There is a subtle asymmetry.  The alpha rhythm is sometimes disrupted on the right compared to the left.  The alpha rhythm drops out on the right earlier than the left.  There is occasional, excess theta noted from either hemisphere, and the activity is overall a little higher amplitude on the left compared to the right.  Features of stage I sleep include vertex waves.
+HR:    60 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Modest background disorganization for age.
+Disruption of the alpha rhythm on the right compared to the left.
+An amplitude asymmetry with a higher amplitude pattern on the left.
+CLINICAL CORRELATION:  There are no epileptiform features.  There are bi-hemispheric changes, which may be correlated with neuro-imaging.
+
+
+

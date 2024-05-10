@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 42-year-old, right-handed male, with encephalopathy, alcoholic liver failure, and seizures.  Patient had a recent fall and has difficulty communicating.  Right parasagittal frontal infarct, right frontal AVM, subarachnoid hemorrhage, and left frontal parenchymal hemorrhage.
+MEDICATIONS:  Keppra, trazodone, Zoloft, and morphine.
+INTRODUCTION:  A 20-minute digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was relatively somnolent.  This is a technically acceptable record.
+DESCRIPTION OF THE RECORD:  Background EEG is diffusely slow with rhythmic, delta noted bilaterally.  There is a bit more delta in the right hemisphere in comparison to the left.  Stimulation of the patient produces a small amount of theta frequency activity.  With stimulation, the overall record is relatively symmetric.
+Heart rate 96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+A subtle asymmetry with a bit more slow delta on the right compared to the left.
+CLINICAL CORRELATION:  No epileptiform features were seen.  The EEG supports a diffuse disturbance of cerebral function involving both hemispheres.  There is a bit more slowing on the right in this individual with recent AVM repair.
+
+
+

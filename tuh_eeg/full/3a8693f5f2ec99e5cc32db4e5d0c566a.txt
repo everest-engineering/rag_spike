@@ -1,0 +1,10 @@
+LENGTH OF THE RECORDING:  24 minutes.
+CLINICAL HISTORY:  The patient is a 53-year-old woman with a past medical history of seizures secondary to motor vehicle accident in 1994.  The patient reports approximately 3 seizures a month with the last seizure being on 09/28/2012.  The seizures are described as lip smacking, loss of train of thought, and aphasic.  Postictal period is characterized by migraine and confusion.
+MEDICATIONS:  Tegretol, Fioricet, meloxicam, Singulair, loratadine, and Lipitor.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior rhythm consists of a well-formed and modulated 9-10 Hz alpha activity that attenuates with eye opening.  There is fast alpha variant.  There is an anterior to posterior frequency amplitude gradient with faster frequencies and lower amplitudes observed anteriorly.  Drowsiness is captured, but stage II sleep is not recorded.  Hyperventilation is performed and is characterized by symmetrical diffuse slowing as well as accentuation of left posterior quadrant sharp waves.  Stepped photic stimulation results in symmetrical occipital driving at multiple flash frequencies.  There are intermittent moderate amplitude sharp waves with slow waves observed over the left posterior quadrant with phase reversal over T5 and O1 electrodes.  Occasionally there is a reflection over the right posterior quadrant leads.  No electrographic seizures are captured.
+FINDINGS:  Intermittent sharp waves over the left posterior quadrant, primarily observed over T5, O1 electrodes.  No electrographic seizures.  No stage II sleep.
+IMPRESSION:  This is an abnormal awake and drowsy 24-minute EEG due to intermittent epileptiform discharges over the left posterior quadrant, most notable over T5 and O1 electrodes.  This finding indicates underlying structural dysfunction that carries an epileptogenic potential.  No electrographic seizures are captured.
+
+
+
