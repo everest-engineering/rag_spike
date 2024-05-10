@@ -59,5 +59,15 @@ As before the `<EMBEDDINGS>` can be `openai` or `ollama`. Similarly the `<LLM>` 
 
 All retrieved documents will be printed to the console and then the LLM summary with be printed after.
 
+# Resetting the index
 
+The simplest way to (clear) reset the index is to bring down post gres and then delete it data directory
 
+i.e.
+
+```bash
+docker-compose down
+rm -rf postgres/data
+
+docker-compose up -d
+```
