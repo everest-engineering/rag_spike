@@ -61,7 +61,7 @@ All retrieved documents will be printed to the console and then the LLM summary 
 
 # Resetting the index
 
-The simplest way to (clear) reset the index is to bring down post gres and then delete it data directory
+The simplest way to (clear) reset the index is to bring down postgres and then delete its data directory
 
 i.e.
 
