@@ -1,5 +1,2 @@
-OLLAMA_MODEL = "mistral:7b"
-#OLLAMA_MODEL = "llama3"
-#OLLAMA_MODEL = "llama3:instruct"
 COLLECTION_BASE_NAME = "index"
 CONNECTION_STRING = "postgresql+psycopg://postgres:postgres@localhost:5432/vectorstore"
