@@ -61,12 +61,6 @@ def main():
         use_jsonb=True,
     )
 
-    #results = vectorstore.search(args.search_text, args.search_type, k=args.number_to_summarise)
-    # results = vectorstore.max_marginal_relevance_search(args.search_text,
-    #                                                     k=args.number_to_summarise,
-    #                                                     fetch_k=100,
-    #                                                     lambda_mult=0.8)
-
     results = vectorstore.max_marginal_relevance_search_with_score(args.search_text,
                                                                    k=args.number_to_summarise,
                                                                    fetch_k=args.number_to_summarise * 10,
