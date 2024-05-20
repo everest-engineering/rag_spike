@@ -9,7 +9,7 @@ from argparse import ArgumentParser
 def main():
     parser = ArgumentParser(description='Find text files and copy them to project')
     parser.add_argument('--path', '-p', required=True, help='Path to search for .txt files in')
-    parser.add_argument('--target', '-t', required=True, help='Path to search for .txt files in')
+    parser.add_argument('--target', '-t', required=True, help='Path to copy for .txt files to')
 
     args = parser.parse_args()
     os.makedirs(args.target, exist_ok=True)
