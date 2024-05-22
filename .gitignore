@@ -8,3 +8,7 @@
 # App
 index.store
 postgres/data
+food_reviews
+
+# General
+tmp

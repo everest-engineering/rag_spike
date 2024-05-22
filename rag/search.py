@@ -1,12 +1,10 @@
-import os
 from argparse import ArgumentParser
 from statistics import mean
 
-from langchain_postgres.vectorstores import PGVector
 from langchain_postgres.vectorstores import DistanceStrategy
 
-from constants import COLLECTION_BASE_NAME, CONNECTION_STRING
-from utils import full_collection_name, read_file, normalize_results
+from constants import COLLECTION_BASE_NAME
+from utils import read_file, search_for_docs
 
 
 def main():
@@ -47,37 +45,14 @@ def main():
 
     args = parser.parse_args()
 
-    if args.embeddings == "openai":
-        # only import if we really want it as it gets whiny about needing openai keys set
-        from langchain_openai import OpenAIEmbeddings
-        embeddings = OpenAIEmbeddings()
-        embeddings_model = "gpt-4"
-    else:
-        from langchain_community.embeddings import OllamaEmbeddings
-        embeddings_model = args.embeddings_model
-        embeddings = OllamaEmbeddings(model=args.embeddings_model,
-                                      base_url=os.environ.get("OLLAMA_BASE_URL", "http://localhost:11434"))
-
-    vectorstore = PGVector(
-        embeddings=embeddings,
-        collection_name=full_collection_name(collection=args.collection,
-                                             embeddings=args.embeddings,
-                                             model=embeddings_model),
-        connection=CONNECTION_STRING,
-        distance_strategy=args.distance_strategy,
-        use_jsonb=True,
-    )
-
-    results = vectorstore.max_marginal_relevance_search_with_score(args.search_text,
-                                                                   k=args.number_to_summarise,
-                                                                   fetch_k=args.number_to_summarise * 10,
-                                                                   lambda_mult=args.lambda_mult)
-    # we take the abs of score because inner product may give negatives
-    results = normalize_results(list([(doc, abs(score)) for (doc, score) in results if abs(score) >= args.relevance_threshold]))
-    print(len(results))
-    if args.number_to_process is not None:
-        results.sort(reverse=True, key=lambda doc_score: doc_score[1])
-        results = results[:args.number_to_process]
+    results = search_for_docs(embeddings_server=args.embeddings,
+                              search_text=args.search_text,
+                              embeddings_model=args.embeddings_model,
+                              collection=args.collection,
+                              distance_strategy=args.distance_strategy,
+                              number_to_summarise=args.number_to_summarise,
+                              lambda_mult=args.lambda_mult,
+                              relevance_threshold=args.relevance_threshold)
 
     results_content = [(read_file(doc), score) for (doc, score) in results]
 
