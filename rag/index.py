@@ -24,6 +24,16 @@ def main():
                         default=COLLECTION_BASE_NAME,
                         help='Name of collection to store embedding vectors')
 
+    parser.add_argument('--chunk_size', '-cs',
+                        default=4096,
+                        type=int,
+                        help='Size for chunks')
+
+    parser.add_argument('--chunk_overlap', '-co',
+                        default=20,
+                        type=int,
+                        help='Overlap for chunks')
+
     args = parser.parse_args()
     print(f"Using {args.embeddings} embeddings.")
     if args.embeddings == "openai":
@@ -45,8 +55,8 @@ def main():
         loader = UnstructuredFileLoader(filepath)
         raw_documents = loader.load()
 
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=4096,
-                                                       chunk_overlap=20,
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=args.chunk_size,
+                                                       chunk_overlap=args.chunk_overlap,
                                                        length_function=len,
                                                        )
         documents = text_splitter.split_documents(raw_documents)
