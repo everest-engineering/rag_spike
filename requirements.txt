@@ -1,7 +1,9 @@
 langchain>=0.1.16
 langchain_openai>=0.1.3
+langchain_experimental
 
 faiss-cpu
+flashrank
 unstructured
 openai
 ollama
@@ -9,3 +11,5 @@ langchain_postgres
 transformers
 torch
 datasets
+boto3
+langchain-aws

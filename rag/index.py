@@ -3,6 +3,7 @@ import os
 from argparse import ArgumentParser
 from langchain_community.document_loaders import UnstructuredFileLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_experimental.text_splitter import SemanticChunker
 from langchain_postgres.vectorstores import PGVector
 
 from constants import COLLECTION_BASE_NAME, CONNECTION_STRING
@@ -14,7 +15,12 @@ def main():
     parser.add_argument('--path', '-p', required=True, help='Path to search for .txt files in')
     parser.add_argument('--ollama_model', '-m',
                         default="llama3",
-                        choices=("llama3", "llama3:instruct", "mistral:7b", "mixtral:8x7b", "nomic-embed-text"),
+                        choices=("llama3",
+                                 "llama3:instruct",
+                                 "mistral:7b",
+                                 "mixtral:8x7b",
+                                 "nomic-embed-text",
+                                 "mxbai-embed-large"),
                         help='Model to use with ollama (must be installed on server)')
     parser.add_argument('--embeddings', '-e',
                         default="ollama", choices=("ollama", "openai"),
@@ -28,6 +34,11 @@ def main():
                         default=4096,
                         type=int,
                         help='Size for chunks')
+
+    parser.add_argument('--chunk_strategy', '-st',
+                        default='recursive',
+                        choices=("recursive", "semantic"),
+                        help='Strategy for chunking')
 
     parser.add_argument('--chunk_overlap', '-co',
                         default=20,
@@ -51,14 +62,17 @@ def main():
 
     docs = []
     for filepath in glob.glob(f"{args.path}/**/*.txt", recursive=True):
-        print(f"Indexing: {filepath}")
+        print(f"Chunking: {filepath}")
         loader = UnstructuredFileLoader(filepath)
         raw_documents = loader.load()
-
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=args.chunk_size,
-                                                       chunk_overlap=args.chunk_overlap,
-                                                       length_function=len,
-                                                       )
+        if args.chunk_strategy == "recursive":
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=args.chunk_size,
+                                                           chunk_overlap=args.chunk_overlap,
+                                                           length_function=len,
+                                                           separators=["\n\n", "\n", ".", ",", " ", ""]
+                                                           )
+        else:
+            text_splitter = SemanticChunker(embeddings=embeddings)
         documents = text_splitter.split_documents(raw_documents)
         docs.extend(documents)
 

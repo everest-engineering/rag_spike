@@ -27,37 +27,55 @@ Once this is up, the scripts are already configured to work with it.
 The files can be indexed by using the script as follows:
 
 ```bash
-python rag/index.py -p tuh_eeg -e <EMBEDDINGS>
+python rag/index.py -p tuh_eeg/full -e <EMBEDDINGS> -m <EMBEDDING MODEL> -cs <CHUNK SIZE> -co <CHUNK OVERLAP> -st <CHUNKING STRATEGY> -c <COLLECTION>
 ```
-
-The `<EMBEDDINGS>` can be `openai` or `ollama`. 
-
-There is some poor quality data in the `tuh_eeg/full` dataset. You may want to skip indexing this dataset until
-some data cleansing is added. Skipping this dataset is simply a case of indexing the other sets as follows
-
-```bash
-python rag/index.py -p tuh_eeg/abnormal -e <EMBEDDINGS>
-python rag/index.py -p tuh_eeg/seizure -e <EMBEDDINGS>
-python rag/index.py -p tuh_eeg/slowing -e <EMBEDDINGS>
-```
+* `<SEARCH PATH>` is the path in which to search for `.txt` files to add to the index. The repo has medical reports that can be used at `tuh_eeg/full`
+* `<EMBEDDINGS HOST>` can be `openai` or `ollama`.
+* `<EMBEDDINGS MODEL>` only needs to be specified if ollama is the embeddings host. The chosen model must be installed in the ollama instance.
+* `<CHUNK SIZE>` is the maximum size (in characters) to chunk up the document. If not specified a default of `4096` is used.
+* `<CHUNK OVERLAP>` is the size (in characters) to overlap chunks of the document. The default is `20`.
+* `<CHUNKING STRATEGY>` is the strategy used to chunk up documents. Valid strategies are `recursive` (default) and `semantic`. Recursive looks for valid text breaks such as paragraph end, sentence end then word end for where to split the text. Semantic groups semantically similar sentences together in chunks.
+* `<COLLECTION>` is the name of the collection where to store the index in postgres. Under the covers this is put together with the name of the embedding model.
 
 
-At this stage openai embeddings seem to give better search results. When using openai
-the environment variable `OPENAI_API_KEY` must be set to a valid api key. 
 
-If using ollama the environment variable `OLLAMA_BASE_URL` must be set to point to where your ollama instance is.
+When using openai the environment variable `OPENAI_API_KEY` must be set to a valid api key. 
+
+If using ollama, the environment variable `OLLAMA_BASE_URL` must be set to point to where your ollama instance is.
 
 # Retrieval/Search
+
+### Searching and producing summaries of documents
 
 Once documents are indexed, they can be searched and summarised using the search script. This script can be used as follows
 
 ```bash
-python rag/search.py -s "Some search term" -e <EMBEDDINGS> -l <LLM>
+python rag/search.py -s <SEARCH TERM> -e <EMBEDDINGS HOST> -em <EMBEDDINGS MODEL> -d <DOMAIN> -l <LLM HOST> -n <NUMBER OF RESULTS TO SUMMARISE> -ov <OVERSAMPLE RATIO> -rr
 ```
 
-As before the `<EMBEDDINGS>` can be `openai` or `ollama`. Similarly the `<LLM>` can be `openai` or `ollama`.
+
+* `<SEARCH TERM>` is what to search on and subsequently use to summarise. It needs to be in quotes if it has more than one word.
+* `<EMBEDDINGS HOST>` can be `openai` or `ollama`.
+* `<EMBEDDINGS MODEL>` only needs to be specified if ollama is the embeddings host. The chosen model must be installed in the ollama instance.
+* `<COLLECTION>` is the name of the collection where to store the index in postgres. Under the covers this is put together with the name of the embedding model.
+* `<DOMAIN>` is the name of the domain to be used in the prompt. This can be anything but should be relevant. For example for the sample patient reports `patients` would be an appropriate domain.
+* `<LLM HOST>` is the name of the service hosting the LLM. Valid selections are `ollama`, `openai` and `bedrock`. 
+  * Bedrock requires your terminal session to be authenticated with AWS. 
+  * When using openai the environment variable `OPENAI_API_KEY` must be set to a valid api key. 
+  * If using ollama, the environment variable `OLLAMA_BASE_URL` must be set to point to where your ollama instance is.
+* `<NUMBER OF RESULTS TO SUMMARISE>` is the number of results that will be given to the LLM to produce the summary. If this is set too high it may lead to exceeding token limits for particular models.
+* `<OVERSAMPLE RATIO>` is a multiplier of the number of results to summarise. When reranking this will be applied to how many results to fetch for the reranking process
+* `-rr` is optional when specified on the commandline causes the reranking process to be used. If not specified the raw matches from the index are used
 
 All retrieved documents will be printed to the console and then the LLM summary with be printed after.
+
+### Searching just for matching documents
+You can simply get a list of documents that match a given search along with their scores that are assigned by the search algorithms. Note the closer a score is to zero, the better a match it is considered to be.
+```bash
+python rag/search_matching_documents.py -s <SEARCH TERM> -e <EMBEDDINGS HOST> -em <EMBEDDINGS MODEL> -n <NUMBER OF RESULTS TO SUMMARISE> -ov <OVERSAMPLE RATIO> -rr
+```
+
+The paths to the matching documents and their scores are simply printed to the console.
 
 # Resetting the index
 

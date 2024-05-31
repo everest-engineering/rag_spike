@@ -1,5 +1,7 @@
 import os
 from langchain_postgres.vectorstores import PGVector
+from langchain.retrievers import ContextualCompressionRetriever
+from langchain.retrievers.document_compressors import FlashrankRerank
 
 from constants import CONNECTION_STRING
 
@@ -34,8 +36,8 @@ def search_for_docs(embeddings_server,
                     collection,
                     distance_strategy,
                     number_to_summarise,
-                    lambda_mult,
-                    relevance_threshold=0.):
+                    rerank,
+                    oversample_times=10):
     if embeddings_server == "openai":
         # only import if we really want it as it gets whiny about needing openai keys set
         from langchain_openai import OpenAIEmbeddings
@@ -57,11 +59,20 @@ def search_for_docs(embeddings_server,
         use_jsonb=True,
     )
 
-    # results = vectorstore.max_marginal_relevance_search_with_score(search_text,
-    #                                                                k=number_to_summarise,
-    #                                                                fetch_k=number_to_summarise * 10,
-    #                                                                lambda_mult=lambda_mult)
-    results = vectorstore.similarity_search_with_score(search_text,
-                                                       k=number_to_summarise)
-    # we take the abs of score because inner product may give negatives
-    return normalize_results(list([(doc, abs(score)) for (doc, score) in results if abs(score) >= relevance_threshold]))
+    num_to_sample = number_to_summarise * oversample_times
+    if rerank:
+        compressor = FlashrankRerank(top_n=number_to_summarise)
+
+        compression_retriever = ContextualCompressionRetriever(
+            base_compressor=compressor,
+            base_retriever=vectorstore.as_retriever(search_kwargs={"k": num_to_sample})
+        )
+
+        results = compression_retriever.invoke(search_text, k=num_to_sample)
+
+        return normalize_results(list([(doc, num) for num, doc in enumerate(results)]))
+    else:
+        results = vectorstore.similarity_search_with_score(search_text,
+                                                           k=num_to_sample)
+
+        return normalize_results(list([(doc, score) for (doc, score) in results]))[:number_to_summarise]

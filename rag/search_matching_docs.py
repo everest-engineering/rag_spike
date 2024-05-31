@@ -1,4 +1,4 @@
-from argparse import ArgumentParser
+from argparse import ArgumentParser, BooleanOptionalAction
 
 from langchain_postgres.vectorstores import DistanceStrategy
 
@@ -25,9 +25,12 @@ def main():
                         choices=(DistanceStrategy.COSINE, DistanceStrategy.EUCLIDEAN, DistanceStrategy.MAX_INNER_PRODUCT),
                         default=DistanceStrategy.COSINE)
 
-    parser.add_argument('--lambda_mult', '-lm',
-                        default=0.5,
-                        type=float)
+    parser.add_argument('--rerank', '-rr',
+                        action=BooleanOptionalAction)
+
+    parser.add_argument('--oversample_times', '-ov',
+                        default=10,
+                        type=int)
 
     args = parser.parse_args()
 
@@ -37,7 +40,8 @@ def main():
                               collection=args.collection,
                               distance_strategy=args.distance_strategy,
                               number_to_summarise=args.number_to_summarise,
-                              lambda_mult=args.lambda_mult)
+                              oversample_times=args.oversample_times,
+                              rerank=args.rerank)
 
     print("\n".join([f"{score:.2f}: {path} ({num})" for num, (path, score) in enumerate(sorted(results, reverse=True, key=lambda pair: pair[1]))]))
 
