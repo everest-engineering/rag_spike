@@ -1,8 +1,8 @@
 # RAG POC
 
-This project is a simple POC for RAG. Its focussed on the domain of medical/EEG clinical reports.
+This project is a simple POC for RAG. Its provides sample data in the domain of medical/EEG clinical reports, but should work with most specific domains.
 
-These reports come from the public domain Temple University Hospital EEG Corpus and are included in the `tuh_eeg` folder.
+The sample data are reports that come from the public domain Temple University Hospital EEG Corpus and are included in the `tuh_eeg` folder.
 
 # Python
 Scripts have been running under python 3.11. Its advised to create a virtual environment using pyenv-virtualenv - https://realpython.com/intro-to-pyenv/ 
@@ -22,12 +22,12 @@ Docker configuration is provided to run the postgres database locally. It can be
 docker-compose up -d
 ```
 
-Once this is up, the scripts are already configured to work with it.
+Once postgres is up, the scripts are already configured to work with it.
 
-The files can be indexed by using the script as follows:
+Text files can be indexed by using the indexing script as follows:
 
 ```bash
-python rag/index.py -p tuh_eeg/full -e <EMBEDDINGS> -m <EMBEDDING MODEL> -cs <CHUNK SIZE> -co <CHUNK OVERLAP> -st <CHUNKING STRATEGY> -c <COLLECTION>
+python rag/index.py -p <SEARCH PATH> -e <EMBEDDINGS> -m <EMBEDDING MODEL> -cs <CHUNK SIZE> -co <CHUNK OVERLAP> -st <CHUNKING STRATEGY> -c <COLLECTION>
 ```
 * `<SEARCH PATH>` is the path in which to search for `.txt` files to add to the index. The repo has medical reports that can be used at `tuh_eeg/full`
 * `<EMBEDDINGS HOST>` can be `openai` or `ollama`.
@@ -70,7 +70,7 @@ python rag/search.py -s <SEARCH TERM> -e <EMBEDDINGS HOST> -em <EMBEDDINGS MODEL
 All retrieved documents will be printed to the console and then the LLM summary with be printed after.
 
 ### Searching just for matching documents
-You can simply get a list of documents that match a given search along with their scores that are assigned by the search algorithms. Note the closer a score is to zero, the better a match it is considered to be.
+You can simply get a list of documents that match a given search along with their scores that are assigned by the search algorithms. Note the closer a score is to zero, the better a match it is considered to be. This is useful for getting an idea of the quality of a search, without needing to run the generation step.
 ```bash
 python rag/search_matching_documents.py -s <SEARCH TERM> -e <EMBEDDINGS HOST> -em <EMBEDDINGS MODEL> -n <NUMBER OF RESULTS TO SUMMARISE> -ov <OVERSAMPLE RATIO> -rr
 ```
