@@ -12,3 +12,4 @@ food_reviews
 
 # General
 tmp
+.env

@@ -1,5 +1,6 @@
 from argparse import ArgumentParser, BooleanOptionalAction
 
+from dotenv import load_dotenv
 from langchain_postgres.vectorstores import DistanceStrategy
 
 from constants import COLLECTION_BASE_NAME
@@ -7,16 +8,17 @@ from utils import search_for_docs
 
 
 def main():
+    load_dotenv()
+
     parser = ArgumentParser(description='Search index for text files and print list with scores')
     parser.add_argument('--search_text', '-s', required=True, help='Text query')
     parser.add_argument('--search_type', '-t', default="similarity", help='Type of search')
     parser.add_argument('--number_to_summarise', '-n', default=10, type=int, help='Number of results')
     parser.add_argument('--embeddings', '-e',
-                        default="ollama", choices=("ollama", "openai"),
+                        default="ollama", choices=("ollama", "openai", "bedrock"),
                         help='Embeddings to use')
     parser.add_argument('--embeddings_model', '-em',
-                        default="llama3",
-                        choices=("llama3", "llama3:instruct", "mistral:7b", "mixtral:8x7b", "nomic-embed-text"),
+                        default="nomic-embed-text",
                         help='Embeddings model to use')
     parser.add_argument('--collection', '-c',
                         default=COLLECTION_BASE_NAME,

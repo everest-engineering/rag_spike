@@ -1,29 +1,28 @@
 import glob
 import os
 from argparse import ArgumentParser
+from dotenv import load_dotenv
 from langchain_community.document_loaders import UnstructuredFileLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_postgres.vectorstores import PGVector
 
-from constants import COLLECTION_BASE_NAME, CONNECTION_STRING
+from constants import COLLECTION_BASE_NAME, CONNECTION_STRING, BEDROCK_EMBEDDING_COLLECTION_NAME, \
+    BEDROCK_EMBEDDING_MODEL, GPT_EMBEDDING_COLLECTION_NAME
 from utils import full_collection_name
 
 
 def main():
+    load_dotenv()
     parser = ArgumentParser(description='Index and store text files')
     parser.add_argument('--path', '-p', required=True, help='Path to search for .txt files in')
     parser.add_argument('--ollama_model', '-m',
-                        default="llama3",
-                        choices=("llama3",
-                                 "llama3:instruct",
-                                 "mistral:7b",
-                                 "mixtral:8x7b",
-                                 "nomic-embed-text",
-                                 "mxbai-embed-large"),
+                        default="nomic-embed-text",
                         help='Model to use with ollama (must be installed on server)')
     parser.add_argument('--embeddings', '-e',
-                        default="ollama", choices=("ollama", "openai"),
+                        default="ollama", choices=("ollama",
+                                                   "openai",
+                                                   "bedrock"),
                         help='Embeddings to use')
 
     parser.add_argument('--collection', '-c',
@@ -52,7 +51,12 @@ def main():
         from langchain_openai import OpenAIEmbeddings
 
         embeddings = OpenAIEmbeddings()
-        model = "gpt-4"
+        model = GPT_EMBEDDING_COLLECTION_NAME
+    elif args.embeddings == "bedrock":
+        from langchain_aws.embeddings import BedrockEmbeddings
+
+        embeddings = BedrockEmbeddings(model_id=BEDROCK_EMBEDDING_MODEL)
+        model = BEDROCK_EMBEDDING_COLLECTION_NAME
     else:
         from langchain_community.embeddings import OllamaEmbeddings
         model = args.ollama_model

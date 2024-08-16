@@ -13,6 +13,13 @@ When you have your virtualenv created and activated, you can install the needed 
 pip install -r requirements.txt
 ```
 
+# Environment setup
+## Prepare your .env file
+There is an example `.env` file `.env.example`. Copy this file to `.env` with the appropriate environment variables set. The main one that you will need to set is `OPENAI_API_KEY` if using openai or `OLLAMA_BASE_URL` if using your own ollama instance.
+
+## AWS Bedrock
+AWS bedrock is supported, and will require your console session to be authenticated with AWS so that its required environment is set up.
+
 # Indexing
 There is a script to index the text files, using a selected embedding vector and storing the documents in a postgres database using 
 the pg_vector vector extensions.
@@ -50,11 +57,12 @@ If using ollama, the environment variable `OLLAMA_BASE_URL` must be set to point
 Once documents are indexed, they can be searched and summarised using the search script. This script can be used as follows
 
 ```bash
-python rag/search.py -s <SEARCH TERM> -e <EMBEDDINGS HOST> -em <EMBEDDINGS MODEL> -d <DOMAIN> -l <LLM HOST> -n <NUMBER OF RESULTS TO SUMMARISE> -ov <OVERSAMPLE RATIO> -rr
+python rag/search.py -s <SEARCH TERM> -q <QUESTION> -e <EMBEDDINGS HOST> -em <EMBEDDINGS MODEL> -d <DOMAIN> -l <LLM HOST> -n <NUMBER OF RESULTS TO SUMMARISE> -ov <OVERSAMPLE RATIO> -rr
 ```
 
 
 * `<SEARCH TERM>` is what to search on and subsequently use to summarise. It needs to be in quotes if it has more than one word.
+* `<QUESTION>` is the question to ask of the results matching the search terms.
 * `<EMBEDDINGS HOST>` can be `openai` or `ollama`.
 * `<EMBEDDINGS MODEL>` only needs to be specified if ollama is the embeddings host. The chosen model must be installed in the ollama instance.
 * `<COLLECTION>` is the name of the collection where to store the index in postgres. Under the covers this is put together with the name of the embedding model.
@@ -67,7 +75,7 @@ python rag/search.py -s <SEARCH TERM> -e <EMBEDDINGS HOST> -em <EMBEDDINGS MODEL
 * `<OVERSAMPLE RATIO>` is a multiplier of the number of results to summarise. When reranking this will be applied to how many results to fetch for the reranking process
 * `-rr` is optional when specified on the commandline causes the reranking process to be used. If not specified the raw matches from the index are used
 
-All retrieved documents will be printed to the console and then the LLM summary with be printed after.
+All retrieved documents will be printed to the console and then the LLM summary with be printed after. Results will also be written to a text file that is placed in the `tmp` directory in the project.
 
 ### Searching just for matching documents
 You can simply get a list of documents that match a given search along with their scores that are assigned by the search algorithms. Note the closer a score is to zero, the better a match it is considered to be. This is useful for getting an idea of the quality of a search, without needing to run the generation step.

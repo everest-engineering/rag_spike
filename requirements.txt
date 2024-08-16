@@ -13,3 +13,5 @@ torch
 datasets
 boto3
 langchain-aws
+python-dotenv
+sentence-transformers
