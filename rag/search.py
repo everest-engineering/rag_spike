@@ -14,33 +14,33 @@ from utils import read_file, search_for_docs
 
 NON_ALPHA_NUMERIC = re.compile(r'[^a-zA-Z\d]')
 
+
 def user_prompt(domain, search_text, question):
     result = f"""
      Produce a summary of the {domain} records, using the following instructions.
     
-     * Summarise what is common in {domain} records regarding the question "{question}" 
+     * Dont assume the records that dont mention the key terms "{search_text}" or something highly related are relevant.
+     ** Be careful not to interpret correlation in the reports as causation.
+     ** After the summary, draw any conclusions with regards to the question "{question}" 
+     based on the information summarised.
+
+     * Summarise what is common in relevant {domain} records regarding the question "{question}" 
      in 3 to 4 paragraphs. 
-     
      ** When making generalisations please reference the records by their record number.
+     ** When making generalisation include the number and percentage of relevant records that display the generalised feature.
      ** Use only the information in the records to make generalisations. 
      ** Dont mention the specifics of any records when making a summary, instead just referencing 
      records by number in which what has been summarised is displayed.
      ** Only consider the records that mention all key terms in "{search_text}" or something highly related as
      relevant.
 
-     * Dont assume those records that dont mention the key terms "{search_text}" or something highly related are relevant.
-     
-     ** Be careful not to interpret correlation in the reports as causation.
-     ** After the summary, draw any conclusions with regards to the question "{question}" 
-     based on the information summarised.
-
      * Only make conclusions if there are more than three relevant records.
-     
      ** After the conclusion include a count of the number
      of relevant records versus the total number of records used.
+     ** Provide a list of key features and the number of records that display this feature and and percentage 
+     of the records displaying this feature to the total number of relevant records
 
      * Please list the relevant records by their number.
-     
      ** Add a sentence summary of the three most relevant records, referring to the record by number.
 
      * List together any records that look like duplicates or very similar.
