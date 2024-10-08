@@ -20,9 +20,10 @@ def main():
                         default="nomic-embed-text",
                         help='Model to use with ollama (must be installed on server)')
     parser.add_argument('--embeddings', '-e',
-                        default="ollama", choices=("ollama",
-                                                   "openai",
-                                                   "bedrock"),
+                        default="ollama",
+                        choices=("ollama",
+                                 "openai",
+                                 "bedrock"),
                         help='Embeddings to use')
 
     parser.add_argument('--collection', '-c',
